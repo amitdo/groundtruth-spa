@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444396">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:04:45</Created>
+	<LastChange>2011-12-19T11:39:43</LastChange></Metadata>
+	<Page imageFilename="00444396.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="886" y="95"/>
+	<Point x="1663" y="96"/>
+	<Point x="1660" y="226"/>
+	<Point x="864" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="428" y="255"/>
+	<Point x="596" y="257"/>
+	<Point x="1078" y="239"/>
+	<Point x="2057" y="237"/>
+	<Point x="2060" y="2637"/>
+	<Point x="2004" y="2645"/>
+	<Point x="1813" y="2660"/>
+	<Point x="1590" y="2692"/>
+	<Point x="445" y="2698"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>to auian reprouado, y poco a poco ſe
+dexaron del pleyto, y dezian que ya en-
+tendian ſer obra de Dios, pues con tan-
+ta contradicion ſu Magead auia queri-
+do fuee adelante, y no ay al preſente
+nadie que le parezca fuera acertado de-
+xarſe de hazer, y an tienen tanta quen-
+ta con proueernos de limoſna, que n
+auer demanda ni pedir a nadie los deſpier-
+ta el Señor para que nos la embien, y paſ-
+ſamos n que nos falte lo neceario, y
+eſpero en el Señor ſera an empre, que
+como ſon pocas,  hazen lo que de-
+uen como ſu Magead aora les da gra-
+cia para hazerlo: ſegura eoy que no les
+faltara, ni auran meneer ſer canſoſas,
+ni importunar a nadie, que el Señor ſe
+terna cuydado como haa aqui, que es
+para mi grandiſsimo conſuelo de verme
+aqui metida con almas tan deſadas. Su
+trato es entender como yran adelante en
+el ſeruicio de Dios. La ſoledad es ſu con-
+ſuelo, y penſar de ver a nadie que no
+ſea para ayudarlas a encender mas el amor
+de ſu eſpoſo les es trabajo, aunque ſean
+muy deudos. Y an no viene nadie a ea
+caſa no quien trata deo, porque ni las</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1824" y="2663"/>
+	<Point x="2000" y="2650"/>
+	<Point x="2011" y="2753"/>
+	<Point x="1801" y="2739"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>con-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="593" y="3057"/>
+	<Point x="1580" y="3058"/>
+	<Point x="1578" y="3160"/>
+	<Point x="594" y="3162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="461" y="136"/>
+	<Point x="461" y="239"/>
+	<Point x="563" y="248"/>
+	<Point x="693" y="239"/>
+	<Point x="693" y="136"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>470</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485944">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T15:37:00</Created>
+	<LastChange>2011-07-28T11:29:15</LastChange></Metadata>
+	<Page imageFilename="00485944.tif" imageWidth="2250" imageHeight="3124">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1072" y="72"/>
+	<Point x="1962" y="95"/>
+	<Point x="2030" y="95"/>
+	<Point x="2027" y="206"/>
+	<Point x="1680" y="207"/>
+	<Point x="1407" y="171"/>
+	<Point x="1074" y="166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comedia de Lope de Vega.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="795" y="163"/>
+	<Point x="1087" y="178"/>
+	<Point x="1375" y="181"/>
+	<Point x="1680" y="212"/>
+	<Point x="2028" y="222"/>
+	<Point x="2033" y="2787"/>
+	<Point x="763" y="2786"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>hazer breue teamento
+que ya mis bienes y dichas
+ſe las ha euado el viento.
+Y pues ya de aquea guerra
+que del viuir me deierra
+nos apartamos los dos,
+el alma le mando a Dios
+y el cuerpo mando a la tierra
+a quien mal no a y a prouado
+todo mi tiempo perdido
+mando y mi amor oluidado.
+A la fama mi cuydado,
+y al mas loco mi ſentido.
+Mi vida mando a la muerte
+al tiempo mi mala ſuerte,
+al mundo mi penſamiento,
+mis eſperanças al viento
+y al amor mi fuerça fuerte
+mi fuego mando a ſu esfera,
+mis lagrymas a la mar,
+mis ſoſpiros a vna ﬁera
+al inﬁerno mi peſar
+que ningun remedio eſpera,
+mando a vn necio mi porﬁa,
+a vn enfermo mi alegria,
+mis dolores mando a vn ſano
+mis ſeruicios a vn tyrano:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="676" y="3066"/>
+	<Point x="1418" y="3066"/>
+	<Point x="1417" y="3109"/>
+	<Point x="1315" y="3107"/>
+	<Point x="1312" y="3116"/>
+	<Point x="1295" y="3116"/>
+	<Point x="1298" y="3110"/>
+	<Point x="1179" y="3108"/>
+	<Point x="982" y="3106"/>
+	<Point x="755" y="3106"/>
+	<Point x="676" y="3107"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r4" type="handwritten-annotation">
+	<Coords>
+	<Point x="1092" y="2842"/>
+	<Point x="1092" y="2955"/>
+	<Point x="1313" y="2955"/>
+	<Point x="1313" y="2842"/></Coords></GraphicRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1952" y="2800"/>
+	<Point x="1952" y="2881"/>
+	<Point x="2136" y="2881"/>
+	<Point x="2136" y="2800"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a vn</Unicode></TextEquiv></TextRegion></Page></PcGts>

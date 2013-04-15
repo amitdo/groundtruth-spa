@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438809">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T02:09:40</Created>
+	<LastChange>2011-06-24T14:04:18</LastChange></Metadata>
+	<Page imageFilename="00438809.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="503" y="43"/>
+	<Point x="1098" y="43"/>
+	<Point x="1103" y="130"/>
+	<Point x="524" y="137"/>
+	<Point x="505" y="128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBRAS DE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="225" y="255"/>
+	<Point x="223" y="175"/>
+	<Point x="223" y="139"/>
+	<Point x="268" y="132"/>
+	<Point x="540" y="149"/>
+	<Point x="762" y="146"/>
+	<Point x="1356" y="144"/>
+	<Point x="1362" y="1052"/>
+	<Point x="985" y="1040"/>
+	<Point x="925" y="1036"/>
+	<Point x="820" y="1056"/>
+	<Point x="809" y="1060"/>
+	<Point x="774" y="1042"/>
+	<Point x="758" y="1037"/>
+	<Point x="237" y="1035"/>
+	<Point x="233" y="1000"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>las aues, y animales, y la gente:
+qual por el ay re claro va volando:
+qual por el verde vae, o alta cumbre
+paciendo va ſegura, y libremente:
+qual con el Sol preſente
+va de nueuo al oﬁcio,
+y al vſado exercicio,
+do ſu natura, o meneer le inclina, (na
+ẽpre eà en anto ea anima mezqui
+quãdo la ſombra el mũdo va cubriẽdo
+o la luz ſe auezina,
+Salid n duelo lagrimas corriendo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="186" y="1116"/>
+	<Point x="183" y="1097"/>
+	<Point x="183" y="1079"/>
+	<Point x="182" y="1050"/>
+	<Point x="191" y="1032"/>
+	<Point x="243" y="1042"/>
+	<Point x="255" y="1048"/>
+	<Point x="469" y="1046"/>
+	<Point x="643" y="1052"/>
+	<Point x="678" y="1054"/>
+	<Point x="750" y="1054"/>
+	<Point x="785" y="1063"/>
+	<Point x="827" y="1069"/>
+	<Point x="914" y="1052"/>
+	<Point x="1106" y="1048"/>
+	<Point x="1162" y="1063"/>
+	<Point x="1370" y="1120"/>
+	<Point x="1372" y="1945"/>
+	<Point x="1325" y="1949"/>
+	<Point x="1161" y="1950"/>
+	<Point x="1126" y="1970"/>
+	<Point x="277" y="1960"/>
+	<Point x="250" y="1558"/>
+	<Point x="190" y="1128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y tu, (dea mi vida ya oluidada,
+n morar vn pequeño ſentimiento,
+de que por ti Salicio trie muera,)
+dexas euar, deſconocida, al viento
+el amor, y la fê, que ſer guardada
+eternamente ſolo a mi deuiera?
+O Dios, porque  quiera
+(pues ves deſde tu altura
+ea falſa perjura
+cauſar la muerte devn erecho amigo
+no recibe del cielo algun caigo?
+Si en pago del amor yo eoy muriẽdo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1306" y="1967"/>
+	<Point x="1361" y="1960"/>
+	<Point x="1360" y="2028"/>
+	<Point x="1345" y="2030"/>
+	<Point x="1304" y="2026"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="489" y="2091"/>
+	<Point x="981" y="2091"/>
+	<Point x="981" y="2140"/>
+	<Point x="489" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="marginalia">
+	<Coords>
+	<Point x="103" y="1503"/>
+	<Point x="207" y="1503"/>
+	<Point x="207" y="1583"/>
+	<Point x="103" y="1583"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>86</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="marginalia">
+	<Coords>
+	<Point x="86" y="1883"/>
+	<Point x="86" y="1973"/>
+	<Point x="204" y="1973"/>
+	<Point x="204" y="1883"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>87</Unicode></TextEquiv></TextRegion></Page></PcGts>

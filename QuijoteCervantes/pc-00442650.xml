@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442650">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:05:55</Created>
+	<LastChange>2012-03-12T14:12:13</LastChange></Metadata>
+	<Page imageFilename="00442650.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="459" y="94"/>
+	<Point x="1103" y="92"/>
+	<Point x="1098" y="179"/>
+	<Point x="912" y="180"/>
+	<Point x="717" y="197"/>
+	<Point x="529" y="201"/>
+	<Point x="461" y="176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quarta parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="133" y="187"/>
+	<Point x="374" y="187"/>
+	<Point x="528" y="204"/>
+	<Point x="724" y="200"/>
+	<Point x="909" y="185"/>
+	<Point x="1053" y="185"/>
+	<Point x="1416" y="176"/>
+	<Point x="1415" y="1007"/>
+	<Point x="227" y="1012"/>
+	<Point x="142" y="1005"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>quieres intentar, y poner por obra, ni te ha de alcã-
+çar gloria de Dios, bienes de la fortuna, ni fama con
+los hombres: porque pueo que ſalgas con ea co-
+mo deeas, no has de quedar ni mas vfano, ni mas ri
+co, ni mas hõrado que eàs aora: y no ſales, te has
+de ver en la mayor miſeria que imaginarſe pueda:
+porque no te ha de aprouechar penſar entõces, que
+no ſabe nadie la deſgracia que te ha ſucedido, por-
+que baarà para aﬂigirte, y deshazerte, que la ſepas
+tu meſmo. Y para conﬁrmacion dea verdad, te
+quiero dezir vna eancia, que hizo el famoſo Poe-
+ta Luys Tanlo, en el ﬁn de ſu primera parte de las
+Lagrimas de ſan Pedro, que dize aſsi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="125" y="1615"/>
+	<Point x="729" y="1620"/>
+	<Point x="870" y="1619"/>
+	<Point x="1425" y="1612"/>
+	<Point x="1422" y="2180"/>
+	<Point x="1353" y="2174"/>
+	<Point x="1207" y="2195"/>
+	<Point x="272" y="2210"/>
+	<Point x="100" y="2201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aſsi, que no eſcuſaràs con el ſecreto tu dolor, antes
+tendras que orar cõtino, no lagrimas de los ojos,
+lagrimas de ſangre del coraçon, como las oraua
+aquel mple Door que nuero Poeta nos cuẽta,
+que hizo la prueua del vaſo, que con mejor diſcur-
+ſo ſe eſcuſò de hazerla el prudente Reynaldos: que
+pueo que aqueo ſea ﬁccion Poetica, tiene en 
+encerrados ſecretos morales, dignos de ſer aduerti
+dos, y entendidos, è imitados. Quanto mas, que con</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="453" y="2309"/>
+	<Point x="1123" y="2309"/>
+	<Point x="1123" y="2372"/>
+	<Point x="453" y="2372"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="226" y="1016"/>
+	<Point x="226" y="1604"/>
+	<Point x="632" y="1610"/>
+	<Point x="725" y="1617"/>
+	<Point x="1408" y="1601"/>
+	<Point x="1405" y="1022"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Crece el dolor, y crece la verguença
+En Pedro, quando el dia ſeha morado,
+Y aunque ai no ve a nadie, ſe auerguença
+De  meſmo, por ver que auia pecado:
+Que a vn magnanimo pecho, a auer verguença,
+No ſolo ha de mouerle el ſer mirado,
+Que de  ſe auerguença quando yerra,
+Si bien otro no vee que cielo, y tierra.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1330" y="2183"/>
+	<Point x="1330" y="2247"/>
+	<Point x="1406" y="2247"/>
+	<Point x="1406" y="2183"/>
+	<Point x="1350" y="2177"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>lo</Unicode></TextEquiv></TextRegion></Page></PcGts>

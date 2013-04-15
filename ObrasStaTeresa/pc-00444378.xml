@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444378">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:02:15</Created>
+	<LastChange>2011-12-19T11:39:42</LastChange></Metadata>
+	<Page imageFilename="00444378.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="961" y="88"/>
+	<Point x="1620" y="94"/>
+	<Point x="1621" y="226"/>
+	<Point x="939" y="222"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="452" y="228"/>
+	<Point x="995" y="230"/>
+	<Point x="2073" y="238"/>
+	<Point x="2106" y="2652"/>
+	<Point x="1807" y="2662"/>
+	<Point x="448" y="2684"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Iexos ean los puertos y rocas para caer, por-
+que lo ean de las ocaones, ſenda amo
+yo y ruyn ſenda y angoo camino, el que de
+vna parte ea vn vae muy hondo adonde
+caer, y de la otra vn deſpeñadero: no ſe han
+deſcuydado quando ſe deſpeñan, y ſe hazen
+pedaços. El que os ama de verdad bien mio
+ſeguro va por ancho camino y real, lexos ea
+el deſpeñadero, no ha tropeçado tantico quã-
+do le days Señor la mano, no baa vna cayda
+y muchas  os tiene amor, y no a las coſas
+del mundo para perderſe. Va por el vae de la
+humildad, no puedo entender que es lo que
+temen de ponerſe en el camino de la perfe-
+cion: el Señor por quien es nos de a entender
+quan mala es la ſeguridad en tan maniﬁeos
+peligros como ay en andar con el hilo de la
+gente, y como ea la verdadera ſeguridad en
+procurar yr muy adelante en el camino de
+Dios. Los ojos en el, y no aya miedo ſe ponga
+ee ſol de juicia, ni nos dexe caminar de no
+che para que nos perdamos,  primero no le
+dexamos a el. No temen andar entre leones
+que cada vno parece quiere euar vn pedaço,
+que ſon las honras y deleytes y contentos ſe-
+mejantes que ama el mundo, y aca parece
+haze el demonio temer de muſarañas, mil</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1794" y="2666"/>
+	<Point x="2024" y="2659"/>
+	<Point x="2025" y="2747"/>
+	<Point x="1794" y="2750"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vezes</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="596" y="3052"/>
+	<Point x="1591" y="3045"/>
+	<Point x="1589" y="3165"/>
+	<Point x="598" y="3163"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="492" y="130"/>
+	<Point x="492" y="222"/>
+	<Point x="686" y="222"/>
+	<Point x="686" y="130"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>450</Unicode></TextEquiv></TextRegion></Page></PcGts>

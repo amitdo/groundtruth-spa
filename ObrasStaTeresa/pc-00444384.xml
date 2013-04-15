@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444384">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T11:33:11</Created>
+	<LastChange>2011-12-19T11:39:42</LastChange></Metadata>
+	<Page imageFilename="00444384.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="864" y="98"/>
+	<Point x="1594" y="102"/>
+	<Point x="1593" y="228"/>
+	<Point x="877" y="243"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="406" y="264"/>
+	<Point x="1538" y="242"/>
+	<Point x="2081" y="244"/>
+	<Point x="2098" y="2657"/>
+	<Point x="2049" y="2672"/>
+	<Point x="2024" y="2681"/>
+	<Point x="1904" y="2675"/>
+	<Point x="1602" y="2712"/>
+	<Point x="881" y="2721"/>
+	<Point x="412" y="2719"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>con tan gran contento que euue como fue-
+ra de mi con gran oracion. Acabado todo ſe-
+ria como deſde a tres o quatro horas, me re-
+boluio el demonio vna bataa ſpiritual, co-
+mo aora dire. Puſome delante  auia do
+mal hecho lo que auia hecho,  yua contra
+obediencia en auerlo procurado n que me
+lo mandae el prouincial que bien me pare-
+cia a mi le auia de ſer algun diſguo, a cau-
+ſa de ſugetarle al ordinario, por no ſe lo auer
+primero dicho, aunque como el no le auia
+querido admitir, y yo no la mudaua, tam-
+bien me parecia no ſe le daria nada por otra
+parte, y  auian de tener contento las que
+aqui eauan con tanta erechura,  les
+auia de faltar de comer,  auia do diſ-
+parate, que quien me metia en eo, pues
+yo tenia moneerio, todo lo que el Se-
+ñor me auia mandado, y los muchos pa-
+receres y oraciones, que auia mas de dos
+años que ca no ceauan, todo tan quita-
+do de mi memoria, como  nunca vuiera
+do, ſolo de mi parecer me acordaua, y to-
+das las virtudes y la fe eauan en mi enton-
+ces ſuſpendidas, n tener yo fuerça para
+que ninguna obrae ni me defendiee de
+tantos golpes. Tambien me ponia el de-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="592" y="3062"/>
+	<Point x="1588" y="3067"/>
+	<Point x="1587" y="3157"/>
+	<Point x="596" y="3157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="416" y="116"/>
+	<Point x="411" y="252"/>
+	<Point x="658" y="248"/>
+	<Point x="658" y="116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>456</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1772" y="2697"/>
+	<Point x="1772" y="2781"/>
+	<Point x="2029" y="2777"/>
+	<Point x="2028" y="2688"/>
+	<Point x="1908" y="2679"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>monio</Unicode></TextEquiv></TextRegion></Page></PcGts>

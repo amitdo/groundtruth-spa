@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444075">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T11:25:09</Created>
+	<LastChange>2011-12-19T11:39:24</LastChange></Metadata>
+	<Page imageFilename="00444075.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="182" y="205"/>
+	<Point x="1707" y="198"/>
+	<Point x="1767" y="196"/>
+	<Point x="1767" y="2593"/>
+	<Point x="166" y="2614"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>crean me eo, porque lo tengo por eſperien
+cia, y para  eſcarmientẽ en mi aũ podria apro
+uechar dezir eas mis faltas .O tra tentaciõ es
+luego muy ordinaria  es deear  todos ſeã
+muy eſpirituale, como comiençã a guar del
+ſoſsiego y ganãcia  es el deearlo, no es malo,
+el procurarlo podria ſer no bueno no ay mu
+cha diſcrecion y diſsimulacion en hazerſe
+de manera que no parezca enſeñan: porque
+quien vuiere de hazer algun prouecho en
+ee caſo, es meneer que tenga las virtu‐
+des muy fuertes, para que no de tenta‐
+cion a los otros. Acaeſciome a mi, y por eſ-
+ſo lo entiendo, quando, como he dicho, pro-
+curaua que otras tuuieen oracion, que co‐
+mo por vna parte me veyan hablar grandes
+coſas del gran bien que era tener oracion,
+y por otraparte me veyã con gran pobreza de
+virtudes tenerla yo, trayalas tẽtadas, y deſati-
+nadas, y cõ harta razõ,  deſpues me lo hã ve‐
+nido a dezir, por no ſabiã como ſe podia cõ-
+padecer lo vnocõ lo otro: y era cauſa de no te
+ner por malo lo  de ſuyo lo era, por ver  lo
+hazia yo algunas vezes quãdoles parecia algo
+biẽ de mi. Y eo haze el demonio que parece
+ſe ayuda de las virtudes que tenemos bue‐
+nas, para autorizar en lo que puede el mal</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="603" y="3028"/>
+	<Point x="1630" y="3028"/>
+	<Point x="1630" y="3167"/>
+	<Point x="603" y="3167"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1230" y="2617"/>
+	<Point x="1293" y="2620"/>
+	<Point x="1396" y="2621"/>
+	<Point x="1442" y="2710"/>
+	<Point x="1230" y="2721"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>K 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="1516" y="2621"/>
+	<Point x="1741" y="2616"/>
+	<Point x="1742" y="2705"/>
+	<Point x="1555" y="2714"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="1519" y="60"/>
+	<Point x="1519" y="188"/>
+	<Point x="301" y="188"/>
+	<Point x="301" y="60"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="1767" y="60"/>
+	<Point x="1767" y="188"/>
+	<Point x="1535" y="186"/>
+	<Point x="1533" y="64"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>147</Unicode></TextEquiv></TextRegion></Page></PcGts>

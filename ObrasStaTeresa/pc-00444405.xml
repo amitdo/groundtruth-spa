@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444405">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:05:51</Created>
+	<LastChange>2011-12-19T11:39:43</LastChange></Metadata>
+	<Page imageFilename="00444405.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="230" y="86"/>
+	<Point x="1438" y="86"/>
+	<Point x="1456" y="220"/>
+	<Point x="218" y="206"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1460" y="2638"/>
+	<Point x="1606" y="2640"/>
+	<Point x="1604" y="2722"/>
+	<Point x="1449" y="2720"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mio</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="616" y="3068"/>
+	<Point x="1562" y="3068"/>
+	<Point x="1562" y="3152"/>
+	<Point x="616" y="3152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="58" y="226"/>
+	<Point x="1666" y="236"/>
+	<Point x="1684" y="2635"/>
+	<Point x="41" y="2644"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>el Rey, aqui no ay tocar gente pobre y no
+cabaleroſa, no preguntar quien ſon los
+mas priuados, y a buen ſeguro, que no ſean
+perſonas que tengan el mundo debaxo de
+los pies, porque eos hablan verdades,
+que no temen ni deuen, no ſon para pa-
+lacio que ai no ſe deuen vſar, no caar
+lo que mal les parece, que aun penſarlo
+no deuen oſar por no ſer desfauorecidos.
+O Rey de gloria, y Señor de todos los
+reyes, como no es vuero reyno armado
+de palios, pues no tiene ﬁn, como no
+ſon meneer terceros para vos, con mi-
+rar vuera perſona ſe vee luego, que ſoys
+ſolo el que mereceys que os amen Señor
+ſegun la Magead morays, no es mene-
+er gente de acompañamiento ni de guar
+da para que conozcan que ſoys Rey, por-
+que aca vn Rey ſolo mal ſe conoceria
+por , aunque el mas quiera ſer conoci-
+do por Rey, no le creeran que na tiene
+mas que los otros, es meneer que ſe vea
+porque lo creer. Y aſsi es razon ten-
+ga eas autoridades poizas, porque no
+las tuuiee no le ternian en nada, por-
+que no ſale de  el parecer poderoſo, de
+otros le ha de venir la, autoridad. O Señor</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1480" y="124"/>
+	<Point x="1480" y="228"/>
+	<Point x="1626" y="228"/>
+	<Point x="1626" y="124"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>479</Unicode></TextEquiv></TextRegion></Page></PcGts>

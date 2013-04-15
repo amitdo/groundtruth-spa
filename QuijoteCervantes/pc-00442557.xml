@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442557">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T01:49:25</Created>
+	<LastChange>2012-03-12T14:12:08</LastChange></Metadata>
+	<Page imageFilename="00442557.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="credit">
+	<Coords>
+	<Point x="460" y="2301"/>
+	<Point x="1141" y="2301"/>
+	<Point x="1141" y="2356"/>
+	<Point x="1037" y="2359"/>
+	<Point x="460" y="2356"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1120" y="2160"/>
+	<Point x="1120" y="2233"/>
+	<Point x="1368" y="2233"/>
+	<Point x="1368" y="2160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>coraçon?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="signature-mark">
+	<Coords>
+	<Point x="845" y="2151"/>
+	<Point x="845" y="2226"/>
+	<Point x="965" y="2226"/>
+	<Point x="965" y="2169"/>
+	<Point x="927" y="2169"/>
+	<Point x="919" y="2157"/>
+	<Point x="885" y="2155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>S 5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1233" y="123"/>
+	<Point x="1233" y="191"/>
+	<Point x="1366" y="191"/>
+	<Point x="1366" y="123"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>141</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="404" y="95"/>
+	<Point x="405" y="178"/>
+	<Point x="474" y="190"/>
+	<Point x="497" y="188"/>
+	<Point x="508" y="171"/>
+	<Point x="543" y="171"/>
+	<Point x="1115" y="174"/>
+	<Point x="1118" y="94"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="136" y="179"/>
+	<Point x="385" y="182"/>
+	<Point x="435" y="194"/>
+	<Point x="497" y="194"/>
+	<Point x="514" y="173"/>
+	<Point x="1195" y="178"/>
+	<Point x="1238" y="201"/>
+	<Point x="1403" y="201"/>
+	<Point x="1399" y="436"/>
+	<Point x="1149" y="436"/>
+	<Point x="1126" y="446"/>
+	<Point x="1114" y="443"/>
+	<Point x="1083" y="435"/>
+	<Point x="953" y="435"/>
+	<Point x="928" y="445"/>
+	<Point x="826" y="444"/>
+	<Point x="810" y="434"/>
+	<Point x="585" y="435"/>
+	<Point x="566" y="441"/>
+	<Point x="541" y="441"/>
+	<Point x="523" y="433"/>
+	<Point x="313" y="435"/>
+	<Point x="299" y="439"/>
+	<Point x="136" y="436"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>la honra, lo podreys muy bien hazer. Padre tengo,
+que os conoce, y  me quiere biẽ, el qual n forçar
+mi voluntad cumplira la  ſerã juo  vos tengays,
+ es  me eimays como dezis, y como yo creo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="113" y="437"/>
+	<Point x="301" y="441"/>
+	<Point x="312" y="437"/>
+	<Point x="523" y="436"/>
+	<Point x="539" y="443"/>
+	<Point x="572" y="443"/>
+	<Point x="585" y="438"/>
+	<Point x="810" y="438"/>
+	<Point x="825" y="446"/>
+	<Point x="928" y="447"/>
+	<Point x="954" y="438"/>
+	<Point x="1085" y="438"/>
+	<Point x="1109" y="445"/>
+	<Point x="1125" y="448"/>
+	<Point x="1154" y="439"/>
+	<Point x="1397" y="440"/>
+	<Point x="1398" y="2155"/>
+	<Point x="1105" y="2154"/>
+	<Point x="1062" y="2161"/>
+	<Point x="937" y="2162"/>
+	<Point x="923" y="2154"/>
+	<Point x="816" y="2145"/>
+	<Point x="782" y="2159"/>
+	<Point x="113" y="2159"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Por ee viete me moui a pedir a Luſcinda por
+eſpoſa, como ya os he contado, y ee fue por quiẽ
+quedò Luſcinda en la opinion de dõ Fernando, por
+vna de las mas diſcretas, y auiſadas mugeres de ſu
+tiẽpo. Y ee viete fue, el que le puſo en deeo de
+deruyrme, antes  el mio ſe efetuae. Dixele yo a
+don Fernando, en lo que reparaua el padre de Luſ-
+cinda, que era en que mi padre ſe la pidiee: lo qual
+yo no le oſaua dezir, temeroſo que no vendria en
+eo: no por no tuuiee bien conocida la calidad,
+bondad, virtud, y hermoſura de Luſcinda, y que te‐
+nia partes baantes para enoblecer qualquier otro
+linage de Eſpaña: no porque yo entendia del,
+que deeaua que no me caſae tan preo, haa
+ver lo que el Duque Ricardo hazia conmigo. En
+reſolucion, le dixe, que no me auenturaua a dezir-
+ſelo a mi padre, aſsi por aquel inconueniente, como
+por otros muchos que me acobardauan, n ſaber
+quales eran: no que me parecia, que lo que yo
+deeae, jamas auia de tener efeto. A todo eo
+me reſpondio don Fernando, que el ſe encargaua
+de hablar a mi padre, y hazer con el, que hablae
+al de Luſcinda. O Mario ambicioſo, o Catilina
+cruel, o Quila facinoroſo, o Galalon embuero, o
+Veido traydor, o Iulian vengatiuo, o Iudas codi‐
+cioſo. Traydor, cruel, vengatiuo, y embuero, que
+deſeruicios te auia hecho ee trie,  con tanta a
+neza te deſcubrio los ſecretos, y contentos de ſu</Unicode></TextEquiv></TextRegion></Page></PcGts>

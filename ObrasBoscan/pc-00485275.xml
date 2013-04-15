@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485275">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T08:03:15</Created>
+	<LastChange>2011-05-12T13:41:11</LastChange></Metadata>
+	<Page imageFilename="00485275.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r10" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r11" type="signature-mark">
+	<Coords>
+	<Point x="1264" y="2489"/>
+	<Point x="1402" y="2483"/>
+	<Point x="1424" y="2493"/>
+	<Point x="1438" y="2574"/>
+	<Point x="1270" y="2569"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y ij</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="credit">
+	<Coords>
+	<Point x="584" y="3021"/>
+	<Point x="1401" y="3021"/>
+	<Point x="1401" y="3089"/>
+	<Point x="584" y="3089"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="382" y="175"/>
+	<Point x="452" y="173"/>
+	<Point x="598" y="173"/>
+	<Point x="621" y="182"/>
+	<Point x="631" y="190"/>
+	<Point x="1660" y="175"/>
+	<Point x="1660" y="922"/>
+	<Point x="382" y="922"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aquea corporal nuera gran carga:
+(Que nos trae los pechos por el ſuelo:)
+Tan blanda, y dieramente, la deſcarga:
+Que nos haze ſoplar en alto buelo.
+Nuera carcel nos abre, y deſembarga:
+Morando la ſalida para'l cielo.
+Y deſpues ya de muertos, y enterrados:
+Nos haze que ſeamos mas nombrados.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="310" y="975"/>
+	<Point x="1737" y="975"/>
+	<Point x="1737" y="1737"/>
+	<Point x="310" y="1737"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ea fundo las cumbres de Parnaſo:
+Y los templos, que en Cypro ſe leuantan.
+Ea ouio con abundante vaſo:
+Quantos verſos d' Amor aca ſe cantan.
+Ea texe, y compone, qualquier caſo:
+Delos caſos, que empre nos eſpantan:
+Y mueue nueros pies y nueras manos:
+A ſentimientos mucho mas que humanos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="272" y="1792"/>
+	<Point x="1607" y="1792"/>
+	<Point x="1591" y="2483"/>
+	<Point x="1458" y="2487"/>
+	<Point x="1441" y="2482"/>
+	<Point x="1399" y="2479"/>
+	<Point x="1234" y="2484"/>
+	<Point x="1182" y="2505"/>
+	<Point x="272" y="2507"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ea hizo, que aquel gran Verones:
+Por ſu Leſbia cantae dulcemente.
+Y hizo, por Corinna al Sulmones
+Abrir la vena, de ſu larga fuente.
+Cantadas, DeIia, y Cynthia, las veres
+Por Tibuo, y Propertio juntamente.
+Todos eos, y eas, ſe perdieran:
+Si ea virtud d' Amor, no recibieran.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="626" y="83"/>
+	<Point x="1227" y="83"/>
+	<Point x="1227" y="175"/>
+	<Point x="626" y="175"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ TERCERO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="page-number">
+	<Coords>
+	<Point x="1248" y="81"/>
+	<Point x="1642" y="81"/>
+	<Point x="1642" y="171"/>
+	<Point x="1248" y="171"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. CLIII.</Unicode></TextEquiv></TextRegion></Page></PcGts>

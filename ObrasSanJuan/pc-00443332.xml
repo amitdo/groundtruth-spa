@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443332">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T13:00:14</Created>
+	<LastChange>2010-12-31T11:04:44</LastChange></Metadata>
+	<Page imageFilename="00443332.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r28" index="0"/>
+	<RegionRefIndexed regionRef="r29" index="1"/>
+	<RegionRefIndexed regionRef="r30" index="2"/>
+	<RegionRefIndexed regionRef="r21" index="3"/>
+	<RegionRefIndexed regionRef="r22" index="4"/>
+	<RegionRefIndexed regionRef="r25" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r15" type="signature-mark">
+	<Coords>
+	<Point x="1125" y="2838"/>
+	<Point x="1119" y="2909"/>
+	<Point x="1200" y="2909"/>
+	<Point x="1197" y="2839"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>X</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r17">
+	<Coords/></ImageRegion>
+	<TextRegion id="r19" type="credit">
+	<Coords>
+	<Point x="769" y="2933"/>
+	<Point x="769" y="3006"/>
+	<Point x="1418" y="3006"/>
+	<Point x="1418" y="2933"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="drop-capital">
+	<Coords>
+	<Point x="58" y="1106"/>
+	<Point x="58" y="1310"/>
+	<Point x="262" y="1306"/>
+	<Point x="268" y="1283"/>
+	<Point x="267" y="1258"/>
+	<Point x="266" y="1156"/>
+	<Point x="265" y="1106"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="275" y="1109"/>
+	<Point x="272" y="1124"/>
+	<Point x="272" y="1298"/>
+	<Point x="262" y="1329"/>
+	<Point x="262" y="1339"/>
+	<Point x="257" y="1345"/>
+	<Point x="81" y="1348"/>
+	<Point x="54" y="1393"/>
+	<Point x="24" y="2830"/>
+	<Point x="472" y="2833"/>
+	<Point x="982" y="2851"/>
+	<Point x="1017" y="2851"/>
+	<Point x="1041" y="2850"/>
+	<Point x="1048" y="2833"/>
+	<Point x="1221" y="2830"/>
+	<Point x="1278" y="2851"/>
+	<Point x="1317" y="2857"/>
+	<Point x="1344" y="2839"/>
+	<Point x="1382" y="2832"/>
+	<Point x="1478" y="2835"/>
+	<Point x="1491" y="2828"/>
+	<Point x="1512" y="2835"/>
+	<Point x="1535" y="2828"/>
+	<Point x="1551" y="2815"/>
+	<Point x="1569" y="1109"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vcho tuvieramos aqui que hazer con la multi-
+tud de las Aprehenones de la Memoria i En-
+tendimiento, enſeñando à la Voluntad como ſe
+avia de aver acerca del Gozo que puede tener en eas,
+no uvieramos tratado deas largamente en el ſegun-
+do i tercero libro. Pero porque ai ſe dixo de la manera
+que à aqueas dos Potencias les convenia averſe acer-
+ca deas, para encaminarſe à la divina union, i de la miſ
+ma manera le conviene à la Voluntad averſe en el Go-
+zo acerca deas; no es neceſario referirlas aqui; porque
+baa dezir, que donde quiera que ai dize, que aque-
+as Potencias ſe vazian de tales i tales Aprehēones,
+ſe entiende tambien, que la Voluntad ſe ha de vaziar
+del Gozo deas. I de la meſma manera que queda di-
+cho, que la Memoria i Entendimiento ſe ha de aver a-
+cerca de todas aqueas Aprehenones, ſe ha de aver
+tambien la Voluntad. Que pues que el Entendimien-
+to, i las demas Potencias no pueden admitir, ni negar
+nada, n que venga en eo la Voluntad; claro eà, que
+la miſma dotrina que rve para lo uno, ſervira tambien
+para lo otro. Por tanto veaſe ai lo  en ee caſo ſe re-
+quiere, porque en todos los daños i peligros que ai ſe</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="catch-word">
+	<Coords>
+	<Point x="1397" y="2844"/>
+	<Point x="1397" y="2923"/>
+	<Point x="1564" y="2923"/>
+	<Point x="1564" y="2844"/>
+	<Point x="1433" y="2840"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dize,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="header">
+	<Coords>
+	<Point x="575" y="124"/>
+	<Point x="575" y="222"/>
+	<Point x="1004" y="222"/>
+	<Point x="1004" y="124"/>
+	<Point x="675" y="106"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro tercero.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="page-number">
+	<Coords>
+	<Point x="1442" y="148"/>
+	<Point x="1442" y="235"/>
+	<Point x="1577" y="235"/>
+	<Point x="1577" y="148"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>321</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="48" y="233"/>
+	<Point x="48" y="417"/>
+	<Point x="1566" y="417"/>
+	<Point x="1560" y="262"/>
+	<Point x="1566" y="248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Noche eſcura: diremos aqui aora de aqueos bienes ſa
+broſos, que ſon de coſas claras i diintas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="heading">
+	<Coords>
+	<Point x="353" y="475"/>
+	<Point x="353" y="586"/>
+	<Point x="1346" y="586"/>
+	<Point x="1346" y="475"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITVLO XXXIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="heading">
+	<Coords>
+	<Point x="46" y="642"/>
+	<Point x="60" y="788"/>
+	<Point x="197" y="860"/>
+	<Point x="320" y="931"/>
+	<Point x="504" y="1008"/>
+	<Point x="600" y="1028"/>
+	<Point x="1071" y="1033"/>
+	<Point x="1155" y="955"/>
+	<Point x="1342" y="942"/>
+	<Point x="1533" y="824"/>
+	<Point x="1562" y="642"/>
+	<Point x="264" y="640"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De los bienes Eſpirituales que diintamente pueden
+caer en el Entendimiento ¡ Memoria. Dize
+como ſe ha de aver la Voluntad acerca
+del Gozo deos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

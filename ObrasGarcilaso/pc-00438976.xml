@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438976">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T02:38:47</Created>
+	<LastChange>2011-06-24T14:04:29</LastChange></Metadata>
+	<Page imageFilename="00438976.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r20" index="1"/>
+	<RegionRefIndexed regionRef="r22" index="2"/>
+	<RegionRefIndexed regionRef="r24" index="3"/>
+	<RegionRefIndexed regionRef="r26" index="4"/>
+	<RegionRefIndexed regionRef="r32" index="5"/>
+	<RegionRefIndexed regionRef="r36" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="0" y="1893"/>
+	<Point x="931" y="1902"/>
+	<Point x="941" y="2002"/>
+	<Point x="816" y="2010"/>
+	<Point x="634" y="2006"/>
+	<Point x="1" y="1999"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Impetra del Signor, non piu ne ſuoi</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1022" y="1999"/>
+	<Point x="1211" y="1996"/>
+	<Point x="1220" y="2073"/>
+	<Point x="1018" y="2068"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lacci</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="495" y="2099"/>
+	<Point x="977" y="2096"/>
+	<Point x="982" y="2140"/>
+	<Point x="482" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="161" y="68"/>
+	<Point x="977" y="78"/>
+	<Point x="982" y="163"/>
+	<Point x="172" y="155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A GARCILASSO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="page-number">
+	<Coords>
+	<Point x="1091" y="101"/>
+	<Point x="1217" y="94"/>
+	<Point x="1221" y="159"/>
+	<Point x="1176" y="152"/>
+	<Point x="1084" y="154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>120</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="0" y="159"/>
+	<Point x="745" y="168"/>
+	<Point x="1235" y="173"/>
+	<Point x="1247" y="312"/>
+	<Point x="1176" y="309"/>
+	<Point x="1107" y="325"/>
+	<Point x="907" y="315"/>
+	<Point x="807" y="324"/>
+	<Point x="792" y="324"/>
+	<Point x="774" y="316"/>
+	<Point x="673" y="321"/>
+	<Point x="622" y="333"/>
+	<Point x="492" y="337"/>
+	<Point x="401" y="330"/>
+	<Point x="364" y="323"/>
+	<Point x="273" y="332"/>
+	<Point x="0" y="318"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Et laſcio ſopra lor que i ochi pioue
+Poi cun ſoſpir gli aſciugo, ê ine me accolgoli</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="marginalia">
+	<Coords>
+	<Point x="1206" y="324"/>
+	<Point x="1328" y="324"/>
+	<Point x="1330" y="386"/>
+	<Point x="1201" y="383"/>
+	<Point x="1200" y="347"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>109</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="0" y="323"/>
+	<Point x="262" y="340"/>
+	<Point x="372" y="326"/>
+	<Point x="409" y="333"/>
+	<Point x="487" y="342"/>
+	<Point x="621" y="338"/>
+	<Point x="796" y="325"/>
+	<Point x="910" y="321"/>
+	<Point x="1106" y="333"/>
+	<Point x="1140" y="319"/>
+	<Point x="1197" y="323"/>
+	<Point x="1196" y="467"/>
+	<Point x="362" y="458"/>
+	<Point x="228" y="473"/>
+	<Point x="0" y="470"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Con cuyo ſon y acentos, &amp; c. Petrarcha
+cantic. 4.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="0" y="474"/>
+	<Point x="219" y="479"/>
+	<Point x="361" y="467"/>
+	<Point x="1098" y="476"/>
+	<Point x="1171" y="885"/>
+	<Point x="1006" y="927"/>
+	<Point x="754" y="927"/>
+	<Point x="627" y="938"/>
+	<Point x="555" y="939"/>
+	<Point x="519" y="918"/>
+	<Point x="439" y="914"/>
+	<Point x="283" y="910"/>
+	<Point x="0" y="911"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Et acquetar li venti, ê le tempee
+Con voci. El miſmo cantic. 4.
+La qual era poente
+Cantando d' acquetar gli ſdegni, è l' ire,
+Di ſerenar la tempeoſa mente.
+Yuate tanto en vn paor dormido.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="0" y="919"/>
+	<Point x="281" y="929"/>
+	<Point x="318" y="921"/>
+	<Point x="516" y="928"/>
+	<Point x="565" y="949"/>
+	<Point x="654" y="948"/>
+	<Point x="751" y="937"/>
+	<Point x="820" y="931"/>
+	<Point x="903" y="934"/>
+	<Point x="1226" y="949"/>
+	<Point x="1211" y="1386"/>
+	<Point x="1149" y="1381"/>
+	<Point x="827" y="1382"/>
+	<Point x="222" y="1362"/>
+	<Point x="156" y="1376"/>
+	<Point x="0" y="1371"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fingieron los Paores, que la Luna, ena-
+morada del paor En dy mion, baxaua a be
+ſarle, eãdo el durmiẽdo en el monte Dat
+mon. La verdad es que End y mion fue el
+que primero, con gran cuy dado en luẽgo
+tiempo obſeruò los curſos de la Luna.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="0" y="1375"/>
+	<Point x="153" y="1379"/>
+	<Point x="204" y="1375"/>
+	<Point x="216" y="1375"/>
+	<Point x="407" y="1376"/>
+	<Point x="834" y="1388"/>
+	<Point x="986" y="1386"/>
+	<Point x="1106" y="1395"/>
+	<Point x="1088" y="1504"/>
+	<Point x="494" y="1529"/>
+	<Point x="429" y="1530"/>
+	<Point x="401" y="1536"/>
+	<Point x="365" y="1517"/>
+	<Point x="0" y="1517"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Diuina Eliſa, pues agora mides, &amp; c.
+Sanazar. Eclog. 5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="marginalia">
+	<Coords>
+	<Point x="1188" y="1413"/>
+	<Point x="1306" y="1415"/>
+	<Point x="1320" y="1443"/>
+	<Point x="1308" y="1480"/>
+	<Point x="1193" y="1481"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>110</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="0" y="1525"/>
+	<Point x="215" y="1523"/>
+	<Point x="374" y="1526"/>
+	<Point x="408" y="1543"/>
+	<Point x="429" y="1532"/>
+	<Point x="510" y="1533"/>
+	<Point x="1045" y="1521"/>
+	<Point x="1025" y="1743"/>
+	<Point x="616" y="1753"/>
+	<Point x="249" y="1745"/>
+	<Point x="0" y="1740"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>AIma beata è bea. Y mas abaxo:
+Et coi veﬆigi ſanti
+Calchi le ee erranti.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords>
+	<Point x="0" y="1754"/>
+	<Point x="278" y="1750"/>
+	<Point x="535" y="1758"/>
+	<Point x="1202" y="1752"/>
+	<Point x="1204" y="1832"/>
+	<Point x="1188" y="1865"/>
+	<Point x="193" y="1889"/>
+	<Point x="0" y="1890"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Porque de mi te oluidas, &amp; c. Bembo canc.
+Donna.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="marginalia">
+	<Coords>
+	<Point x="1212" y="1817"/>
+	<Point x="1336" y="1819"/>
+	<Point x="1336" y="1890"/>
+	<Point x="1203" y="1890"/>
+	<Point x="1199" y="1868"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>111</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443059">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T14:13:24</Created>
+	<LastChange>2011-03-15T16:51:35</LastChange></Metadata>
+	<Page imageFilename="00443059.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="364" y="74"/>
+	<Point x="364" y="164"/>
+	<Point x="518" y="164"/>
+	<Point x="518" y="74"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>48</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="748" y="28"/>
+	<Point x="748" y="138"/>
+	<Point x="1534" y="150"/>
+	<Point x="1526" y="28"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subida del monte Carmelo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="360" y="190"/>
+	<Point x="1885" y="185"/>
+	<Point x="1835" y="2785"/>
+	<Point x="330" y="2735"/>
+	<Point x="361" y="1891"/>
+	<Point x="361" y="200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>i mercedes que Dios les haze; i pot no tener animo para
+acabar con algun guillo, amiento, ò aficion (que todo
+es vno) nunca pueden llegar al puerto de la union perfe
+ta, que no eaba en mas que en dar vn buen vuelo, i aca
+bar de quebrar aquel hilo de amiento, ò quitar aquella
+Remora del apetito. Cierto es mucho de ſentir, que aya
+Dios ècholes quebrar otros cordeles mas grueſos de
+aficiones de pecados i vanidades; i por no deſarſe de
+una niñeria, que les dexo Dios que vencieſen por amor
+del, que no es mas que vn hilo, dexen de ir adelante, i
+llegar a tanto bien. I lo peor es, que por aquel amien-
+to, no ſolo no van adelante, no que en materia de per-
+fecion buelven atras, perdiendo algo de lo que con tan-
+to trabajo avian ganado. Porque ya ſe ſabe, que en ee
+camino eſpiritual el no ir adelante venciendo, es bol-
+ver atras; i el no ir ganando, es ir perdiendo. Que eſo
+quiſo nueſtro Señor darnos a entender, quando dixo: El
+que comigo no allega, derrama: Qui non congregat me-
+cum, ſpargit. El que no tiene cuidado de remediar el vaſo
+por vn pequeño reſquizio que tenga, baa para que ſe
+venga a ſalir todo el licor que eà dentro. Como el Ecle
+aico nos lo enſeñò, diziendo: Qui ſpernit modica, pau-
+latim decidet. El que deſprecia las caſas pequeñas, poco
+a poco irà cayendo enlas grandes. Por como el miſmo
+dize, de ſola vna centella ſe aumenta el fuego. I a una
+imperfecion baa para traer otra, i aquellas otras. I a
+ca nunca ſe vera en una alma, que es negligente en vẽ
+cer vn apetito, que no tenga otros muchos, que nacen
+de la miſma flaqueza, i imperfecion que tiene en aquel.
+I ya avemos vio muchas perſonas, a quicn Dios hazia
+merced de lleyar mui adelante en gran deſamiento i li
+bertad; i por ſolo començar a tomar un amientillo de
+aficion, ſo color de bien, de converſacion i amiad, irſe-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1706" y="2790"/>
+	<Point x="1706" y="2871"/>
+	<Point x="1820" y="2871"/>
+	<Point x="1820" y="2790"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>les</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="778" y="2921"/>
+	<Point x="778" y="2998"/>
+	<Point x="1425" y="2998"/>
+	<Point x="1425" y="2921"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="marginalia">
+	<Coords>
+	<Point x="71" y="1488"/>
+	<Point x="71" y="1677"/>
+	<Point x="342" y="1677"/>
+	<Point x="342" y="1488"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Matt. 12
+30.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="marginalia">
+	<Coords>
+	<Point x="84" y="1800"/>
+	<Point x="84" y="1964"/>
+	<Point x="342" y="1964"/>
+	<Point x="342" y="1800"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eccleſ. 9.
+1.</Unicode></TextEquiv></TextRegion></Page></PcGts>

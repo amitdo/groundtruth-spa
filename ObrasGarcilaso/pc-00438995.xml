@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438995">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T21:13:54</Created>
+	<LastChange>2011-06-24T14:04:30</LastChange></Metadata>
+	<Page imageFilename="00438995.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r19" index="1"/>
+	<RegionRefIndexed regionRef="r21" index="2"/>
+	<RegionRefIndexed regionRef="r35" index="3"/>
+	<RegionRefIndexed regionRef="r29" index="4"/>
+	<RegionRefIndexed regionRef="r31" index="5"/>
+	<RegionRefIndexed regionRef="r25" index="6"/>
+	<RegionRefIndexed regionRef="r10" index="7"/>
+	<RegionRefIndexed regionRef="r12" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="345" y="83"/>
+	<Point x="1118" y="83"/>
+	<Point x="1118" y="170"/>
+	<Point x="345" y="170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ANOTACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="129" y="178"/>
+	<Point x="1342" y="178"/>
+	<Point x="1314" y="319"/>
+	<Point x="136" y="321"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>los carros de la Luna, cuyos hierros ſona-
+uan como los de las ruedas del coche.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="catch-word">
+	<Coords>
+	<Point x="1179" y="2008"/>
+	<Point x="1364" y="2008"/>
+	<Point x="1364" y="2084"/>
+	<Point x="1179" y="2084"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Com-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="credit">
+	<Coords>
+	<Point x="487" y="2097"/>
+	<Point x="983" y="2097"/>
+	<Point x="983" y="2140"/>
+	<Point x="487" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="marginalia">
+	<Coords>
+	<Point x="48" y="324"/>
+	<Point x="114" y="320"/>
+	<Point x="145" y="327"/>
+	<Point x="140" y="395"/>
+	<Point x="46" y="398"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>163</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="152" y="331"/>
+	<Point x="1342" y="328"/>
+	<Point x="1341" y="401"/>
+	<Point x="577" y="424"/>
+	<Point x="533" y="471"/>
+	<Point x="137" y="473"/>
+	<Point x="147" y="346"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tan dulce que vnapiedra enterneciera, Pe-
+trarch. can. 6.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="140" y="482"/>
+	<Point x="1106" y="478"/>
+	<Point x="1107" y="556"/>
+	<Point x="923" y="555"/>
+	<Point x="911" y="566"/>
+	<Point x="799" y="566"/>
+	<Point x="786" y="555"/>
+	<Point x="687" y="556"/>
+	<Point x="664" y="566"/>
+	<Point x="647" y="566"/>
+	<Point x="637" y="562"/>
+	<Point x="629" y="560"/>
+	<Point x="591" y="564"/>
+	<Point x="582" y="555"/>
+	<Point x="295" y="555"/>
+	<Point x="287" y="564"/>
+	<Point x="261" y="564"/>
+	<Point x="250" y="555"/>
+	<Point x="140" y="555"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Con parole, chei ſa romper ponno.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="158" y="1096"/>
+	<Point x="171" y="1085"/>
+	<Point x="223" y="1083"/>
+	<Point x="240" y="1029"/>
+	<Point x="270" y="1020"/>
+	<Point x="302" y="1013"/>
+	<Point x="387" y="1017"/>
+	<Point x="399" y="1024"/>
+	<Point x="408" y="1019"/>
+	<Point x="413" y="1019"/>
+	<Point x="561" y="1023"/>
+	<Point x="595" y="1014"/>
+	<Point x="822" y="1015"/>
+	<Point x="831" y="1023"/>
+	<Point x="902" y="1018"/>
+	<Point x="921" y="1011"/>
+	<Point x="1348" y="1006"/>
+	<Point x="1353" y="1100"/>
+	<Point x="397" y="1108"/>
+	<Point x="368" y="1173"/>
+	<Point x="292" y="1173"/>
+	<Point x="282" y="1159"/>
+	<Point x="159" y="1158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Gime la tortolia ſobre el olmo. Virg. 1.
+Eclog.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="marginalia">
+	<Coords>
+	<Point x="58" y="1023"/>
+	<Point x="169" y="1022"/>
+	<Point x="158" y="1092"/>
+	<Point x="60" y="1093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>165</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="219" y="711"/>
+	<Point x="547" y="711"/>
+	<Point x="564" y="726"/>
+	<Point x="593" y="726"/>
+	<Point x="621" y="710"/>
+	<Point x="1142" y="717"/>
+	<Point x="1151" y="854"/>
+	<Point x="213" y="854"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mentre le nore torm' ora
+Ruminan la herbe. Y mas abaxo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="146" y="866"/>
+	<Point x="877" y="858"/>
+	<Point x="1160" y="861"/>
+	<Point x="1179" y="854"/>
+	<Point x="1354" y="852"/>
+	<Point x="1335" y="997"/>
+	<Point x="919" y="1005"/>
+	<Point x="906" y="1012"/>
+	<Point x="840" y="1016"/>
+	<Point x="822" y="1011"/>
+	<Point x="583" y="1010"/>
+	<Point x="564" y="1019"/>
+	<Point x="417" y="1015"/>
+	<Point x="412" y="1017"/>
+	<Point x="399" y="1020"/>
+	<Point x="388" y="1010"/>
+	<Point x="275" y="1006"/>
+	<Point x="250" y="1022"/>
+	<Point x="225" y="1022"/>
+	<Point x="213" y="1009"/>
+	<Point x="147" y="1008"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Veni al' ombra Montan, che l' aura mobile.
+Ti freme fra le fronde: èl' ﬁume mormora</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="135" y="1166"/>
+	<Point x="265" y="1168"/>
+	<Point x="278" y="1179"/>
+	<Point x="374" y="1181"/>
+	<Point x="427" y="1144"/>
+	<Point x="1367" y="1135"/>
+	<Point x="1371" y="1858"/>
+	<Point x="900" y="1874"/>
+	<Point x="849" y="2008"/>
+	<Point x="141" y="2029"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Neo gemere aeria ceabitturtur abvlmo.
+Preſenta nos acolmo. Virg. Eclog. 9.
+Hic ver purpureũ, varios hic ﬂumina circũ,
+Fundit humus ﬂores.
+Y eſmalta en mil colores. Sanaz. Eclog. 9.
+Vedile vai, ei campi che ſmaltano
+Di color mie.
+Lafuente clara, Sana. Eclog. 2.
+Mentr' il mio canto el' mormorar del' onde.
+S' acordano.
+Y el miſmo Garcilao.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="marginalia">
+	<Coords>
+	<Point x="50" y="574"/>
+	<Point x="163" y="578"/>
+	<Point x="161" y="628"/>
+	<Point x="153" y="630"/>
+	<Point x="151" y="651"/>
+	<Point x="44" y="650"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>164</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="225" y="566"/>
+	<Point x="332" y="566"/>
+	<Point x="365" y="560"/>
+	<Point x="569" y="562"/>
+	<Point x="584" y="567"/>
+	<Point x="628" y="564"/>
+	<Point x="636" y="566"/>
+	<Point x="647" y="573"/>
+	<Point x="680" y="573"/>
+	<Point x="690" y="560"/>
+	<Point x="787" y="562"/>
+	<Point x="796" y="570"/>
+	<Point x="916" y="571"/>
+	<Point x="924" y="565"/>
+	<Point x="930" y="558"/>
+	<Point x="1124" y="568"/>
+	<Point x="1144" y="553"/>
+	<Point x="1298" y="555"/>
+	<Point x="1299" y="648"/>
+	<Point x="745" y="650"/>
+	<Point x="724" y="707"/>
+	<Point x="619" y="705"/>
+	<Point x="602" y="715"/>
+	<Point x="574" y="717"/>
+	<Point x="563" y="701"/>
+	<Point x="157" y="700"/>
+	<Point x="162" y="633"/>
+	<Point x="212" y="633"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nuero ganado padece, el viente ſpira.
+Sanazaro Ecloga. 9.</Unicode></TextEquiv></TextRegion></Page></PcGts>

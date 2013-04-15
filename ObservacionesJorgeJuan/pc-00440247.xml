@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440247">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T23:34:55</Created>
+	<LastChange>2011-12-19T11:38:53</LastChange></Metadata>
+	<Page imageFilename="00440247.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r18" index="0"/>
+	<RegionRefIndexed regionRef="r30" index="1"/>
+	<RegionRefIndexed regionRef="r32" index="2"/>
+	<RegionRefIndexed regionRef="r20" index="3"/>
+	<RegionRefIndexed regionRef="r31" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r18" type="heading">
+	<Coords>
+	<Point x="1225" y="2047"/>
+	<Point x="2030" y="2047"/>
+	<Point x="2030" y="2172"/>
+	<Point x="1225" y="2172"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITULO III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="863" y="2446"/>
+	<Point x="2570" y="2456"/>
+	<Point x="2670" y="2460"/>
+	<Point x="2678" y="3402"/>
+	<Point x="2265" y="3411"/>
+	<Point x="2219" y="3425"/>
+	<Point x="593" y="3445"/>
+	<Point x="591" y="2654"/>
+	<Point x="677" y="2649"/>
+	<Point x="873" y="2653"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N el Capitulo IV de la Seccion antecedente ſe explicò
+el methodo, con que ſe deben reducir los lados in‐
+clinados de los triangulos à horizontáles; y ſe diò la ana-
+logìa, que ſe debìa praicar. Y aſsimiſmo en el Capitu‐
+lo VII, la que ſe debe uſar para haar la altura de unas Se‐
+ñales ſobre las otras; y como Don Antonio de Uoa ſe valiò
+de las miſmas, podrémos dàr principio à ee Capitulo, in‐
+ſertando los demàs fundamentos, de los quales deduxo la
+reduccion de los lados antecedentes à horizontàles, y las
+alturas de las unas Señales, ſobre las otras; que ſe redu‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="credit">
+	<Coords>
+	<Point x="972" y="3997"/>
+	<Point x="1967" y="3997"/>
+	<Point x="1967" y="4097"/>
+	<Point x="972" y="4097"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="page-number">
+	<Coords>
+	<Point x="715" y="355"/>
+	<Point x="895" y="355"/>
+	<Point x="895" y="447"/>
+	<Point x="715" y="447"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>228</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="header">
+	<Coords>
+	<Point x="1215" y="340"/>
+	<Point x="1990" y="340"/>
+	<Point x="1990" y="450"/>
+	<Point x="1215" y="450"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r14">
+	<Coords>
+	<Point x="632" y="466"/>
+	<Point x="1104" y="456"/>
+	<Point x="1613" y="457"/>
+	<Point x="2615" y="466"/>
+	<Point x="2615" y="2025"/>
+	<Point x="632" y="2025"/></Coords></TableRegion>
+	<TextRegion id="r30" type="heading">
+	<Coords>
+	<Point x="660" y="2250"/>
+	<Point x="660" y="2435"/>
+	<Point x="1817" y="2450"/>
+	<Point x="2662" y="2450"/>
+	<Point x="2662" y="2250"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Reduccion de los lados antecedentes à horizontáles; y concluon
+de la altura de unas Señales ſobre las otras.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="catch-word">
+	<Coords>
+	<Point x="2460" y="3415"/>
+	<Point x="2460" y="3505"/>
+	<Point x="2610" y="3505"/>
+	<Point x="2610" y="3415"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cen</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="drop-capital">
+	<Coords>
+	<Point x="660" y="2450"/>
+	<Point x="657" y="2644"/>
+	<Point x="866" y="2649"/>
+	<Point x="858" y="2448"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion></Page></PcGts>

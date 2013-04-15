@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443353">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:36:08</Created>
+	<LastChange>2010-12-30T10:10:06</LastChange></Metadata>
+	<Page imageFilename="00443353.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="380" y="112"/>
+	<Point x="380" y="203"/>
+	<Point x="522" y="203"/>
+	<Point x="522" y="112"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>342</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="764" y="90"/>
+	<Point x="764" y="209"/>
+	<Point x="1548" y="209"/>
+	<Point x="1548" y="90"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subida del monte Carmelo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="367" y="229"/>
+	<Point x="345" y="2180"/>
+	<Point x="458" y="2306"/>
+	<Point x="638" y="2396"/>
+	<Point x="790" y="2432"/>
+	<Point x="1022" y="2432"/>
+	<Point x="1077" y="2429"/>
+	<Point x="1435" y="2445"/>
+	<Point x="1629" y="2361"/>
+	<Point x="1829" y="2222"/>
+	<Point x="1851" y="1892"/>
+	<Point x="1877" y="840"/>
+	<Point x="1877" y="235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>chas perſonas el dia de oi con devociõ indiſcreta uſan,
+poniendo tanta eﬁcacia, i Fè en aqueos modos, i ma-
+neras, con que quieren cumplir ſus devociones, i oracio
+nes; que entienden que  un punto falta, i ſale de aque
+os limites, no aprovecharà, ni le oira Dios, poniendo
+mas ﬁducia en aqueos modos, i maneras, que enlo vi-
+vo de la oracion, no n grande deſacato, i agravio de
+Dios. A como que ſea la Miſa con tantas candelas, i
+no mas, ni menos: i que la diga Sacerdote de tal, o tal
+ſuerte: i que ſea à tal, o tal hora, i no antes, ni deſpues: i
+que ſea deſpues de tal dia, i no antes ni deſpues. Que
+las oraciones, o eaciones ſean tantas, i tales, i a tales
+tiempos, i con tales, ò tales ceremonias, o pouras, i que
+no antes, o deſpues, ni de otra manera. I que la perſona
+que las hiziere, tenga tales, i tales partes, o propieda-
+des. I pienſan que  falta algo de lo que eos evan
+propueo, no ſe haze nada, i otras mil coſas que uſan. I
+lo que es peor, i intolerable, es que algunos quieren ſen
+tir algun efeto en , o cumplirſe lo que piden, o ſaber
+que ſe cumple al ﬁn de aqueas ſus oraciones ceremo
+niaticas, que no es menos, que tentar a Dios, i enojarle
+gravemente: tanto, que algunas vezes dà licẽcia al de-
+monio, para que los engañe, haziendolos ſentir, i enten
+der coſas harto agenas del provecho de ſu alma, mere-
+ciendolo eos por la propiedad que evan en ſus Ora-
+ciones, no deſeando mas que ſe haga lo que Dios quie-
+re, que lo que eos pretenden, a los cuales porque
+no ponen toda ſu conﬁança en Dios,
+nunca ſucederà bien.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r8">
+	<Coords>
+	<Point x="970" y="2437"/>
+	<Point x="974" y="2541"/>
+	<Point x="1154" y="2541"/>
+	<Point x="1154" y="2440"/>
+	<Point x="1018" y="2440"/></Coords></SeparatorRegion>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="1570" y="2583"/>
+	<Point x="1570" y="2683"/>
+	<Point x="1751" y="2683"/>
+	<Point x="1751" y="2583"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CA-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="770" y="2935"/>
+	<Point x="770" y="3000"/>
+	<Point x="1445" y="3000"/>
+	<Point x="1445" y="2935"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

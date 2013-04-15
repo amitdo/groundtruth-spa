@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441855">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T04:33:01</Created>
+	<LastChange>2011-07-05T14:26:36</LastChange></Metadata>
+	<Page imageFilename="00441855.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="486" y="1027"/>
+	<Point x="1715" y="1037"/>
+	<Point x="1743" y="1095"/>
+	<Point x="1718" y="1471"/>
+	<Point x="1358" y="1508"/>
+	<Point x="505" y="1471"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Como, por  huie, tardas,
+Li, en goçar tu hermoſura?
+I no ſe gaa, i dura,
+Con que recelo la guardas?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="711" y="3125"/>
+	<Point x="1458" y="3111"/>
+	<Point x="1480" y="3169"/>
+	<Point x="1449" y="3189"/>
+	<Point x="1350" y="3200"/>
+	<Point x="695" y="3191"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="745" y="667"/>
+	<Point x="1561" y="667"/>
+	<Point x="1582" y="791"/>
+	<Point x="747" y="786"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MELEAGRO,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="747" y="817"/>
+	<Point x="1565" y="813"/>
+	<Point x="1561" y="987"/>
+	<Point x="743" y="987"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Epigrammatario Griego,
+LIB. VII. Anthol.</Unicode></TextEquiv></TextRegion></Page></PcGts>

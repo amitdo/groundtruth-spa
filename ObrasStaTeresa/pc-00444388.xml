@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444388">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:03:42</Created>
+	<LastChange>2011-12-19T11:39:42</LastChange></Metadata>
+	<Page imageFilename="00444388.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="814" y="104"/>
+	<Point x="1528" y="107"/>
+	<Point x="1536" y="237"/>
+	<Point x="817" y="243"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="367" y="263"/>
+	<Point x="588" y="254"/>
+	<Point x="892" y="260"/>
+	<Point x="2015" y="238"/>
+	<Point x="2053" y="2648"/>
+	<Point x="1994" y="2668"/>
+	<Point x="1704" y="2675"/>
+	<Point x="1398" y="2726"/>
+	<Point x="382" y="2732"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>hecho, y del tormento que me auia librado,
+y tambien para que  alguna viee lo eaua
+no me eſpantae, y me apiadae dea, y la
+ſupiee conſolar. Pues paado eo qui-
+riendo deſpues de comer deſcanſar vn po-
+co, porque en toda la noche no auia ca ſoſ-
+ſegado, ni en otras algunas dexado de tener
+trabajo y cuydado, y todos los dias bien can-
+ſada, como ſe auia ſabido en mi monee-
+rio, y en la ciudad, lo que eaua hecho, auia
+en el mucho alboroto por las cauſas que ya
+he dicho, que parecia euauan algun color.
+Luego la perlada me embio a mandar que a
+la hora me fuee aa, yo en viendo ſu man-
+damiento, dexo mis monjas harto penadas,
+y voyme luego. Bien vi que ſe me auian de
+oﬀrecer hartos trabajos, mas como ya que-
+daua hecho muy poco ſe me daua. Hize
+oracion, ſuplicando al Señor me fauorecieſ-
+ſe, y a mi padre ſan Ioſeph que me truxeſ-
+ſe a ſu caſa, y oﬀrecile lo que auia de paar,
+y muy contenta ſe oﬀreciee algo en que yo
+padeciee por el, y le pudiee ſeruir, me fuy
+con tener creydo luego me auian de echar
+en la carcel, mas a mi parecer me diera mu-
+cho cõtento por no hablar a nadie, y deſcãſar
+vn poco en ſoledad, de lo que yo eaua bien</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1747" y="2677"/>
+	<Point x="1990" y="2670"/>
+	<Point x="1994" y="2777"/>
+	<Point x="1733" y="2779"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>neceſ-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="586" y="3056"/>
+	<Point x="1591" y="3065"/>
+	<Point x="1589" y="3163"/>
+	<Point x="581" y="3161"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="406" y="135"/>
+	<Point x="406" y="253"/>
+	<Point x="634" y="244"/>
+	<Point x="629" y="135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>460</Unicode></TextEquiv></TextRegion></Page></PcGts>

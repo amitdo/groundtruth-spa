@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443441">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T02:59:37</Created>
+	<LastChange>2011-03-24T14:56:49</LastChange></Metadata>
+	<Page imageFilename="00443441.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="298" y="132"/>
+	<Point x="456" y="132"/>
+	<Point x="456" y="222"/>
+	<Point x="298" y="222"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>430</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="852" y="92"/>
+	<Point x="1337" y="92"/>
+	<Point x="1337" y="215"/>
+	<Point x="852" y="215"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Noche eſcura.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="283" y="239"/>
+	<Point x="1041" y="233"/>
+	<Point x="1847" y="233"/>
+	<Point x="1860" y="2326"/>
+	<Point x="1159" y="2334"/>
+	<Point x="305" y="2341"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>zela, que bolverà à revivir, i à hazer de las ſuyas. I a
+es, que cuando mas ſegura eà, buelve à tragar i ab-
+ſorber el alma en otro grado mas duro i eſcuro i lai-
+mero que el paſado, el cual durarà otra temporada por
+ventura mas larga que la primera. I aquiel alma otra
+vez viene à perſuadirſe, que todos los bienes ean aca-
+bados para empre. Que no le baa la eſperiencia, que
+tuvo del bien paſado, que gozò deſpues del primer tra-
+bajo, en que tambien penſaba que ya no avia mas que
+penar, para dexar de creer en ee ſegundo grado de
+aprieto, que eà ya todo acabado, i que no bolverà
+como la vez paſada. Porque, como digo, ea creencia
+tan conﬁrmada ſe cauſa en el alma de la aual apre-
+henon del eſpiritu, que aniquila en ea todo lo que
+le puede cauſar gozo. I a el alma aqui en ea pur-
+gacion, aunque parece que quiere bien à Dios, i que
+por el daria mil vidas (como es a la verdad, porque
+en eos trabajos aman con muchas veras eas almas
+à ſu Dios) con todo no le es alivio eo, antes le cauſa
+mas pena. Porque queriendole ea tanto, que no tie-
+ne otra coſa que le dè cuidado, como ſe ve tan miſera-
+ble, reparando en  Dios no la quiere à ea, no aſegu-
+randoſe por entonces, que tiene porque ſer amada,
+no antes que tiene poi que ſer aborrecida, no ſolo del,
+no de toda criatura para empre, dueleſe de ver
+en  cauſas, porque merezca ſer deſechada
+de quien ea tanto quiere
+i deſea.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords>
+	<Point x="1006" y="2341"/>
+	<Point x="1170" y="2341"/>
+	<Point x="1168" y="2429"/>
+	<Point x="1008" y="2424"/></Coords></SeparatorRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1681" y="2634"/>
+	<Point x="1852" y="2634"/>
+	<Point x="1852" y="2715"/>
+	<Point x="1681" y="2715"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CA-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="752" y="2926"/>
+	<Point x="1418" y="2926"/>
+	<Point x="1418" y="3000"/>
+	<Point x="752" y="3000"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

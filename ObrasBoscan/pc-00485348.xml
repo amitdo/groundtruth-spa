@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485348">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T19:11:51</Created>
+	<LastChange>2011-05-12T13:41:19</LastChange></Metadata>
+	<Page imageFilename="00485348.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="946" y="2643"/>
+	<Point x="1218" y="2646"/>
+	<Point x="1210" y="2736"/>
+	<Point x="924" y="2736"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FIN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="558" y="3000"/>
+	<Point x="1420" y="3000"/>
+	<Point x="1420" y="3096"/>
+	<Point x="558" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="459" y="195"/>
+	<Point x="1636" y="176"/>
+	<Point x="1593" y="2625"/>
+	<Point x="389" y="2644"/>
+	<Point x="387" y="2570"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mas el amor de donde por ventura
+Naçen todas las coſas ( ay alguna)
+Que a vuera vtilidad, y guo miren:
+Es gran Razon que yo en may or eima
+Tenido ſea de mi, que todo el reo.
+Quanto mas generoſa y alta parte
+Es el hazer el bien que el recebie,
+Ai que amando me deleyto, y hao
+Que no es locura ee deleyte mio.
+O quan corrido eoy, y arrepentido
+D' aueros alabado el tratamiento:
+Del camino de Francia, y las poſadas.
+Corrido, de que ya por mentiroſo
+Con razon me terney sarrepentido,
+D' auer perdido tiempo, en alabaros
+Coſa tan dignaya de vituperio,
+Donde no haareys no mentiras,
+Vinos azedos, camareras feas,
+Barletes codicioſos, malas poas
+Gran paga, pocoargen, largo camino,
+Llegar al ﬁn a Napoles, no auiendo
+Dexado aa enterrado algun theſoro:
+Saluo, no dezis que 's enterrado
+Lo que nunca ſe haa ni ſe tiene.
+A mi ſeñor Dura erechamente
+Abraça de mi parte,  pudierdes.
+Doze del mes d' Otubre, dela tierra
+Do nacio el claro ſuego del Petrarca,
+Y donde ean del fuego las cenizas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="708" y="108"/>
+	<Point x="1108" y="46"/>
+	<Point x="1118" y="183"/>
+	<Point x="726" y="183"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r11" type="other">
+	<Coords>
+	<Point x="1132" y="105"/>
+	<Point x="1321" y="113"/>
+	<Point x="1290" y="175"/>
+	<Point x="1122" y="183"/>
+	<Point x="1119" y="153"/></Coords></GraphicRegion></Page></PcGts>

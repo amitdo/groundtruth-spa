@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439273">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T01:22:27</Created>
+	<LastChange>2011-05-12T13:39:55</LastChange></Metadata>
+	<Page imageFilename="00439273.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="561" y="85"/>
+	<Point x="1519" y="90"/>
+	<Point x="1519" y="159"/>
+	<Point x="569" y="159"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="272" y="194"/>
+	<Point x="309" y="182"/>
+	<Point x="439" y="182"/>
+	<Point x="483" y="167"/>
+	<Point x="1697" y="169"/>
+	<Point x="1697" y="2597"/>
+	<Point x="468" y="2609"/>
+	<Point x="280" y="2597"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſer blanda, excepto de condicion. Figuraronſeme (y
+perdonenme la humilde comparacion) como la paja, que
+ en el campo en ſulnatural, y en los pajares la dexan, ſe
+conſerva con el agua, y con los vientos, empero  en
+algun apoſento quieren erecharla, rompe las paredes,
+no han de ſacar dea mas de aquel zumo, que quiere
+dar de , como la naranja, ò ha de amargar n ſer de
+provecho. No ſaben tener medio en lo que tratan, y
+menos en amar, ò aborrecer, ni lo tuvieron jamas en
+pedir y deear: empre les parece poco lo mucho que
+reciben, y mucho lo poco que dan. Son por lo gene-
+ral abarientas, empero con todas eas ſaltas, deſdicha-
+da de la caſa donde ſus faldas faltan. Donde no ay cha-
+pines, no ay coſa bien puea, comida ſazonada, ni me-
+ſa bien aeada. Como el aliento humano ſuenta los
+ediﬁcios que no vengan en ruyna y caygan, aſ la
+huea de la muger concertada, ſuenta la hazienda, y
+la multiplica: y como el tocino haze la oa, y el hombre
+la plaça, la muger la caſa. No es aquee lugar para tra-
+tar ſus virtudes; vengo à las mias, que aquel tiempo
+eran mas que las del tabaco. Euveme un rato entrete-
+niendo con el hueſped, que me hazia relacion de
+muchas coſas de aquea ciudad, ſus privilegios y liber-
+tades, de que yva tan guoſo, y tenia tan ſuſpendido
+con ſu buena platica, que no me hazia falta otro buen
+entretenimiento. Mis pecados que lo hizieron. Yo avia
+ſalido de la mar con un grande romadiço, y no ſe me
+avia quitado, ſaquè de la fratiquera un lienço para ſo-
+narme las narizes, y quando lo baxè mirèlo, como ſuele
+ſer general coumbre de los hombres. El traydor del
+hueſped, como era dezidor y gracioſo, dixome luego:
+Señor, ſeñor, huya, huya, eſcondaſe preo. Pobre
+de mi, pues como eava ciſcado, à cada pao parecia
+que me ponian à los quatro vientos; à penas me lo
+dixo, quando en dos brincos me puſe tras de una corti-
+na de la cama. El que no ſabia mi malicia, pareciòle aque-
+o inocencia, y riendoſe, me bolviò à dezir: No tiene</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1536" y="2604"/>
+	<Point x="1692" y="2604"/>
+	<Point x="1692" y="2682"/>
+	<Point x="1536" y="2682"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>gota</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="543" y="2869"/>
+	<Point x="1303" y="2869"/>
+	<Point x="1303" y="2929"/>
+	<Point x="543" y="2929"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="297" y="111"/>
+	<Point x="297" y="176"/>
+	<Point x="423" y="176"/>
+	<Point x="423" y="111"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>242</Unicode></TextEquiv></TextRegion></Page></PcGts>

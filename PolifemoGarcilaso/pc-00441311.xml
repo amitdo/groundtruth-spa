@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441311">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T10:24:44</Created>
+	<LastChange>2011-05-12T13:40:11</LastChange></Metadata>
+	<Page imageFilename="00441311.tif" imageWidth="1495" imageHeight="2328">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="101" y="134"/>
+	<Point x="1259" y="119"/>
+	<Point x="1229" y="372"/>
+	<Point x="890" y="387"/>
+	<Point x="115" y="372"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>APROVACION DE DON
+Iuan de Xauregui, Cauaerizo de la
+Reyna nuera ſeñora.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="482" y="427"/>
+	<Point x="850" y="437"/>
+	<Point x="847" y="528"/>
+	<Point x="488" y="523"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M. P. S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="418" y="1473"/>
+	<Point x="867" y="1463"/>
+	<Point x="1061" y="1463"/>
+	<Point x="1060" y="1555"/>
+	<Point x="427" y="1547"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Don Iuan de Xauregui.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="455" y="2210"/>
+	<Point x="1019" y="2228"/>
+	<Point x="1033" y="2303"/>
+	<Point x="462" y="2297"/>
+	<Point x="451" y="2285"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="256" y="582"/>
+	<Point x="305" y="588"/>
+	<Point x="1223" y="605"/>
+	<Point x="1223" y="671"/>
+	<Point x="1226" y="671"/>
+	<Point x="1226" y="1292"/>
+	<Point x="98" y="1309"/>
+	<Point x="42" y="871"/>
+	<Point x="235" y="809"/>
+	<Point x="257" y="807"/>
+	<Point x="272" y="766"/>
+	<Point x="273" y="760"/>
+	<Point x="269" y="754"/>
+	<Point x="263" y="741"/>
+	<Point x="262" y="685"/>
+	<Point x="259" y="669"/>
+	<Point x="256" y="636"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N Ee libro  he vio, como V.A.
+manda, emplea el Autor muy grande
+eudio cõ largos diſcurſos y obſerua
+ciones de buenas letras, diribuidas en de-
+claracion de agenos verſos, que quiſo co-
+mentar: ay muchas cauſas, que abonan ſu
+trabajo, y ninguna porque yo no aprueue
+ſu impreſsion, para que V.A. ſe rua de dar
+la licencia. En Madrid 26. de Iulio 1628.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="drop-capital">
+	<Coords>
+	<Point x="99" y="593"/>
+	<Point x="95" y="775"/>
+	<Point x="260" y="770"/>
+	<Point x="243" y="561"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442637">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:03:38</Created>
+	<LastChange>2012-03-12T14:12:13</LastChange></Metadata>
+	<Page imageFilename="00442637.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="442" y="65"/>
+	<Point x="1189" y="65"/>
+	<Point x="1202" y="157"/>
+	<Point x="661" y="156"/>
+	<Point x="570" y="171"/>
+	<Point x="537" y="173"/>
+	<Point x="439" y="155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="203" y="166"/>
+	<Point x="380" y="160"/>
+	<Point x="488" y="169"/>
+	<Point x="505" y="173"/>
+	<Point x="536" y="175"/>
+	<Point x="554" y="174"/>
+	<Point x="586" y="171"/>
+	<Point x="697" y="160"/>
+	<Point x="1231" y="159"/>
+	<Point x="1454" y="166"/>
+	<Point x="1470" y="2142"/>
+	<Point x="1415" y="2147"/>
+	<Point x="1354" y="2139"/>
+	<Point x="1309" y="2149"/>
+	<Point x="1188" y="2142"/>
+	<Point x="1018" y="2138"/>
+	<Point x="917" y="2167"/>
+	<Point x="203" y="2205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>leyendolos vos ſegadores: porque realmente os
+juro, que nunca tales cauaeros ſueron en el mun-
+do, ni tales hazañas, ni diſparates acontecieron en
+el. A otro perro con, ee hueo, reſpondio el ven-
+tero, como  yo no ſupiee quantas ſon cinco, y a
+donde me aprieta el çapato: no pienſe vuera mer-
+ced darme papia, porque por Dios que no ſoy na
+da blãco. Bueno es, que quiera darme vuera mer-
+ced aentender, que todo aqueo que eos buenos
+libros dizen ſea diſparates, y mentiras, eando im-
+preo con licẽcia de los ſeñores del Conſejo Real,
+como  eos fueran gente, que auian de dexar im-
+primir tanta mentiŕa junta, y tantas bataas, y tan-
+tos encantamentos, que quitan el juyzio. Ya os he
+dicho amigo, replicò el cura, que eo ſe haze para
+entretener nueros ocioſos penſamientos: y aſsi
+como ſe conente en las Republicas bien concer-
+tadas, que aya juegos de Axedrez, de pelota, y de
+trucos, para entretener a aIgunos, que ni tienen, ni
+deuen, ni pueden trabajar: aſsi ſe cõente imprimir,
+y que aya tales libros: creyendo, como es verdad,
+que no ha de auer alguno tan ignorante, que tenga
+por hioria verdadera ninguna deos libros. Y 
+me fuera licito agora, y el auditorio lo requiriera,
+yo dixera coſas a cerca de lo que han de tener los
+libros de cauaerias, para ſer buenos, que quiça fue
+ran de prouecho, y aun de guo para algunos: pero
+yo eſpero, que vendra tiempo en que lo pueda co-
+municar con quien pueda remediao, y en ee en-
+tretanto creed ſeñor ventero lo que os he dicho,
+y, tomad vueros libros, yaa os auenid cõ ſus ver-
+dades, o mentiras, y buen prouecho os hagan, y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="440" y="2308"/>
+	<Point x="1118" y="2308"/>
+	<Point x="1117" y="2358"/>
+	<Point x="1024" y="2360"/>
+	<Point x="440" y="2356"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1334" y="76"/>
+	<Point x="1336" y="150"/>
+	<Point x="1446" y="150"/>
+	<Point x="1448" y="76"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>181</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1286" y="2155"/>
+	<Point x="1278" y="2219"/>
+	<Point x="1446" y="2222"/>
+	<Point x="1465" y="2154"/>
+	<Point x="1353" y="2142"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>quiera</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1017" y="2142"/>
+	<Point x="1015" y="2210"/>
+	<Point x="1123" y="2210"/>
+	<Point x="1120" y="2143"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Z 5</Unicode></TextEquiv></TextRegion></Page></PcGts>

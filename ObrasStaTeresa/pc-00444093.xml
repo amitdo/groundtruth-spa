@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444093">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:57:06</Created>
+	<LastChange>2011-12-19T11:39:25</LastChange></Metadata>
+	<Page imageFilename="00444093.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="322" y="108"/>
+	<Point x="1494" y="112"/>
+	<Point x="1486" y="218"/>
+	<Point x="317" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="146" y="249"/>
+	<Point x="1698" y="242"/>
+	<Point x="1732" y="2626"/>
+	<Point x="1435" y="2626"/>
+	<Point x="1410" y="2651"/>
+	<Point x="1292" y="2641"/>
+	<Point x="1249" y="2630"/>
+	<Point x="930" y="2630"/>
+	<Point x="892" y="2652"/>
+	<Point x="137" y="2653"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>con temor y recato, que aunque ſea de Dios,
+alguna vez podra transgurarſe el demonio,
+en angel de luz, y  no es alma muy exerci-
+tada, no lo entendera, y tan exercitada que
+para entender eo, es meneer egar muy
+a la cumbre de la oracion. Ayudame po-
+co, el poco tiempo que tengo, y an ha
+meneer ſu Magead hazerlo, porque he
+de andar con la comunidad, y con otras har-
+tas ocupaciones, como eoy en caſa que aora
+ſe comiença, como deſpues ſe vera, y an es
+muy n tener aſsiento lo que eſcriuo, no a
+pocos a pocos, y eo quierale, porque quan
+do el Señor da ſpiritu, poneſe con facilidad, y
+mejor. Parece como quien tiene vn dechado
+delante, que ea ſacando de aquel la labor,
+mas  el ſpiritu falta, no ay mas cõcertar ee
+lenguage, que  fuee algarauia, a manera de
+dezir, aunque ayan muchos años paado en
+oracion. Y an me parece es grandiſsima vẽ-
+taja quando lo eſcriuo ear en ea, porque
+veo claro no ſoy yo quien lo dize, que ni lo
+ordeno con el entendimiento, ni ſe deſpues
+como lo acerte a dezir: eo me acaece mu-
+chas vezes. Aora tornemos a nuera huerta
+o vergel, y veamos como comiençan eos ar
+boles a empreñarſe para ﬂorecer, y dar deſ-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="signature-mark">
+	<Coords>
+	<Point x="1166" y="2642"/>
+	<Point x="1230" y="2644"/>
+	<Point x="1317" y="2657"/>
+	<Point x="1314" y="2733"/>
+	<Point x="1164" y="2732"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="587" y="3057"/>
+	<Point x="1614" y="3057"/>
+	<Point x="1614" y="3170"/>
+	<Point x="587" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1556" y="122"/>
+	<Point x="1556" y="233"/>
+	<Point x="1708" y="233"/>
+	<Point x="1708" y="122"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>165</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1494" y="2651"/>
+	<Point x="1494" y="2755"/>
+	<Point x="1691" y="2755"/>
+	<Point x="1691" y="2651"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pues</Unicode></TextEquiv></TextRegion></Page></PcGts>

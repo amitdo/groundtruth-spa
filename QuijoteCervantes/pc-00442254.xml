@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442254">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T08:47:54</Created>
+	<LastChange>2012-03-12T14:11:47</LastChange></Metadata>
+	<Page imageFilename="00442254.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/>
+	<RegionRefIndexed regionRef="r8" index="2"/>
+	<RegionRefIndexed regionRef="r9" index="3"/>
+	<RegionRefIndexed regionRef="r11" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="266" y="183"/>
+	<Point x="266" y="300"/>
+	<Point x="1140" y="300"/>
+	<Point x="1140" y="183"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Teimonio de las Erratas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="drop-capital">
+	<Coords>
+	<Point x="21" y="364"/>
+	<Point x="21" y="602"/>
+	<Point x="187" y="588"/>
+	<Point x="201" y="577"/>
+	<Point x="212" y="549"/>
+	<Point x="207" y="530"/>
+	<Point x="184" y="456"/>
+	<Point x="208" y="429"/>
+	<Point x="211" y="364"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="33" y="607"/>
+	<Point x="33" y="897"/>
+	<Point x="650" y="915"/>
+	<Point x="1421" y="897"/>
+	<Point x="1421" y="607"/>
+	<Point x="1380" y="354"/>
+	<Point x="250" y="359"/>
+	<Point x="223" y="400"/>
+	<Point x="216" y="423"/>
+	<Point x="206" y="440"/>
+	<Point x="209" y="522"/>
+	<Point x="211" y="532"/>
+	<Point x="219" y="557"/>
+	<Point x="211" y="579"/>
+	<Point x="204" y="597"/>
+	<Point x="188" y="624"/>
+	<Point x="133" y="610"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>STE Libro no tiene coſa digna que no
+correſponda a ſu original: en teimo-
+nio de lo auer correo di ea fee. En el
+Colegio de la Madre de Dios de los Teologos
+de la Vniuerdad de Alcala, en primero de
+Diziembre, de. 1604. Años.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="673" y="988"/>
+	<Point x="673" y="1135"/>
+	<Point x="1340" y="1135"/>
+	<Point x="1340" y="988"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El Licenciado Franciſco
+Murcia de la Llana.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="catch-word">
+	<Coords>
+	<Point x="1107" y="1519"/>
+	<Point x="1107" y="1600"/>
+	<Point x="1307" y="1600"/>
+	<Point x="1307" y="1519"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>POR</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="credit">
+	<Coords>
+	<Point x="452" y="2304"/>
+	<Point x="453" y="2364"/>
+	<Point x="1158" y="2368"/>
+	<Point x="1157" y="2304"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

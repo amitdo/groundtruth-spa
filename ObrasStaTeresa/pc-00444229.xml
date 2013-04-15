@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444229">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:44:08</Created>
+	<LastChange>2011-12-19T11:39:32</LastChange></Metadata>
+	<Page imageFilename="00444229.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="317" y="117"/>
+	<Point x="1462" y="116"/>
+	<Point x="1476" y="225"/>
+	<Point x="1280" y="226"/>
+	<Point x="326" y="231"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="172" y="243"/>
+	<Point x="1734" y="251"/>
+	<Point x="1738" y="2666"/>
+	<Point x="1609" y="2664"/>
+	<Point x="1544" y="2663"/>
+	<Point x="902" y="2727"/>
+	<Point x="147" y="2701"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que  entonces todo el mundo me aeguraſ-
+ſe que es Dios, no lo creeria. El caſo es que
+quando es demonio, parece que ſe eſconden
+todos los bienes, y huyen del alma ſegũ que-
+da deſabrida, y alborotada, y n ningun eﬀe-
+to bueno, porque aunque parece pone deſ-
+ſeos no ſon fuertes, la humildad que dexa es
+falſa, alborotada, y n ſuauidad, pareceme 
+quien tiene eſperiencia del buen eſpiritu, lo
+entendera. Con todo puede hazer muchos
+embues el demonio, y an no ay coſa en
+eo tan cierta que no lo ſea mas temer, y yr
+empre con auiſo, y tener maero que ſea le-
+trado, y no le caar nada, y con eo ningun
+daño puede venir, aunque a mi hartos me hã
+venido por eos temores demaados que tie
+nen algunas perſonas. En eſpecial me acaecio
+vna vez, que ſe auian juntado muchos a quiẽ
+yo daua gran credito, y era razon ſe le diee,
+(que aunque yo ya no trataua no con vno, y
+quando el me lo mandaua hablaua a otros,
+vnos con otros tratauan mucho de mi reme-
+dio, que me tenian mucho amor, y temian no
+fuee engañada, yo tambien traya grandiſsi-
+mo temor quãdo no eaua en la oracion, que
+eando en ea, y haziendome el Señor algu-
+na merced, luego me aeguraua) creo eran</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1524" y="2669"/>
+	<Point x="1718" y="2671"/>
+	<Point x="1716" y="2752"/>
+	<Point x="1500" y="2748"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cinco</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r4" type="stamp">
+	<Coords>
+	<Point x="1793" y="1289"/>
+	<Point x="2103" y="1289"/>
+	<Point x="2103" y="1717"/>
+	<Point x="1793" y="1717"/></Coords></GraphicRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="618" y="3072"/>
+	<Point x="1561" y="3072"/>
+	<Point x="1561" y="3154"/>
+	<Point x="618" y="3154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1551" y="145"/>
+	<Point x="1547" y="243"/>
+	<Point x="1720" y="243"/>
+	<Point x="1725" y="138"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>301</Unicode></TextEquiv></TextRegion></Page></PcGts>

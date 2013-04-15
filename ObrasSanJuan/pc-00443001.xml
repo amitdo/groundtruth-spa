@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443001">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T13:53:30</Created>
+	<LastChange>2011-03-15T16:51:31</LastChange></Metadata>
+	<Page imageFilename="00443001.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r12" index="0"/>
+	<RegionRefIndexed regionRef="r14" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1721" y="2725"/>
+	<Point x="1768" y="2725"/>
+	<Point x="1774" y="2742"/>
+	<Point x="1800" y="2742"/>
+	<Point x="1802" y="2724"/>
+	<Point x="1835" y="2720"/>
+	<Point x="1839" y="2743"/>
+	<Point x="1858" y="2743"/>
+	<Point x="1864" y="2742"/>
+	<Point x="1897" y="2740"/>
+	<Point x="1893" y="2762"/>
+	<Point x="1912" y="2761"/>
+	<Point x="1913" y="2791"/>
+	<Point x="1897" y="2796"/>
+	<Point x="1891" y="2794"/>
+	<Point x="1864" y="2782"/>
+	<Point x="1858" y="2783"/>
+	<Point x="1839" y="2783"/>
+	<Point x="1834" y="2784"/>
+	<Point x="1803" y="2784"/>
+	<Point x="1800" y="2790"/>
+	<Point x="1773" y="2789"/>
+	<Point x="1768" y="2785"/>
+	<Point x="1722" y="2787"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Padre,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="812" y="38"/>
+	<Point x="812" y="138"/>
+	<Point x="1598" y="138"/>
+	<Point x="1596" y="14"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dibujo del Venerable Varon</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="464" y="62"/>
+	<Point x="464" y="150"/>
+	<Point x="566" y="150"/>
+	<Point x="566" y="62"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>46</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="marginalia">
+	<Coords>
+	<Point x="210" y="1071"/>
+	<Point x="210" y="1396"/>
+	<Point x="450" y="1391"/>
+	<Point x="458" y="1071"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1591.
+Milagros
+deſpuesde
+muerto.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="777" y="2931"/>
+	<Point x="777" y="2994"/>
+	<Point x="1424" y="2994"/>
+	<Point x="1424" y="2931"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1927" y="170"/>
+	<Point x="1927" y="1017"/>
+	<Point x="1928" y="1017"/>
+	<Point x="1928" y="1032"/>
+	<Point x="1806" y="1032"/>
+	<Point x="1806" y="1033"/>
+	<Point x="1683" y="1033"/>
+	<Point x="1683" y="1034"/>
+	<Point x="1560" y="1034"/>
+	<Point x="1560" y="1035"/>
+	<Point x="1438" y="1035"/>
+	<Point x="1438" y="1036"/>
+	<Point x="1315" y="1036"/>
+	<Point x="1315" y="1037"/>
+	<Point x="1192" y="1037"/>
+	<Point x="1192" y="1038"/>
+	<Point x="1148" y="1043"/>
+	<Point x="1070" y="1038"/>
+	<Point x="1070" y="1039"/>
+	<Point x="947" y="1039"/>
+	<Point x="947" y="1040"/>
+	<Point x="824" y="1040"/>
+	<Point x="824" y="1041"/>
+	<Point x="702" y="1041"/>
+	<Point x="702" y="1042"/>
+	<Point x="579" y="1042"/>
+	<Point x="579" y="1043"/>
+	<Point x="458" y="1043"/>
+	<Point x="458" y="1038"/>
+	<Point x="457" y="1038"/>
+	<Point x="457" y="1033"/>
+	<Point x="456" y="1033"/>
+	<Point x="456" y="1028"/>
+	<Point x="455" y="1028"/>
+	<Point x="455" y="1023"/>
+	<Point x="454" y="1023"/>
+	<Point x="454" y="968"/>
+	<Point x="453" y="968"/>
+	<Point x="453" y="912"/>
+	<Point x="452" y="912"/>
+	<Point x="452" y="856"/>
+	<Point x="451" y="856"/>
+	<Point x="451" y="801"/>
+	<Point x="450" y="801"/>
+	<Point x="450" y="745"/>
+	<Point x="449" y="745"/>
+	<Point x="449" y="689"/>
+	<Point x="448" y="689"/>
+	<Point x="448" y="633"/>
+	<Point x="447" y="633"/>
+	<Point x="447" y="578"/>
+	<Point x="446" y="578"/>
+	<Point x="446" y="522"/>
+	<Point x="445" y="522"/>
+	<Point x="445" y="466"/>
+	<Point x="444" y="466"/>
+	<Point x="444" y="410"/>
+	<Point x="443" y="410"/>
+	<Point x="443" y="355"/>
+	<Point x="442" y="355"/>
+	<Point x="442" y="299"/>
+	<Point x="441" y="299"/>
+	<Point x="441" y="243"/>
+	<Point x="440" y="243"/>
+	<Point x="440" y="186"/>
+	<Point x="527" y="186"/>
+	<Point x="527" y="185"/>
+	<Point x="614" y="185"/>
+	<Point x="614" y="184"/>
+	<Point x="702" y="184"/>
+	<Point x="702" y="183"/>
+	<Point x="789" y="183"/>
+	<Point x="789" y="182"/>
+	<Point x="877" y="182"/>
+	<Point x="877" y="181"/>
+	<Point x="964" y="181"/>
+	<Point x="964" y="180"/>
+	<Point x="1051" y="180"/>
+	<Point x="1051" y="179"/>
+	<Point x="1139" y="179"/>
+	<Point x="1139" y="178"/>
+	<Point x="1226" y="178"/>
+	<Point x="1226" y="177"/>
+	<Point x="1314" y="177"/>
+	<Point x="1314" y="176"/>
+	<Point x="1401" y="176"/>
+	<Point x="1401" y="175"/>
+	<Point x="1488" y="175"/>
+	<Point x="1488" y="174"/>
+	<Point x="1576" y="174"/>
+	<Point x="1576" y="173"/>
+	<Point x="1663" y="173"/>
+	<Point x="1663" y="172"/>
+	<Point x="1751" y="172"/>
+	<Point x="1751" y="171"/>
+	<Point x="1838" y="171"/>
+	<Point x="1838" y="170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>do ſanta TERESA lo que eimaba al Venerable F.
+IOAN. Dixo aora la Santa con ee reſplandor lo miſ-
+mo que antes avia dicho con el de ſus palabras: que en
+abono de tan eſclarecido Varon no ſe puede hablar
+menos que con pa labras del cielo, ò con rayos de luz.
+Con ee duplicado teimonio (probado el primero
+en las informaciones hechas para la Beatificacion del
+Venerable Padre, i el ſegundo en las de nuera Santa
+Madre, i ambos remitidos a Roma) queda bien califi-
+cada la fama i opinion de Santo, que en vida i muerte
+ha tenido i tiene ee ingne Varon.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1928" y="1034"/>
+	<Point x="1928" y="1864"/>
+	<Point x="1929" y="1864"/>
+	<Point x="1929" y="2713"/>
+	<Point x="1908" y="2713"/>
+	<Point x="1908" y="2714"/>
+	<Point x="1887" y="2714"/>
+	<Point x="1887" y="2715"/>
+	<Point x="1866" y="2715"/>
+	<Point x="1866" y="2716"/>
+	<Point x="1845" y="2716"/>
+	<Point x="1845" y="2717"/>
+	<Point x="1824" y="2717"/>
+	<Point x="1824" y="2718"/>
+	<Point x="1802" y="2718"/>
+	<Point x="1802" y="2719"/>
+	<Point x="1781" y="2719"/>
+	<Point x="1781" y="2720"/>
+	<Point x="1760" y="2720"/>
+	<Point x="1760" y="2721"/>
+	<Point x="1739" y="2721"/>
+	<Point x="1739" y="2722"/>
+	<Point x="1718" y="2722"/>
+	<Point x="1718" y="2723"/>
+	<Point x="1697" y="2723"/>
+	<Point x="1697" y="2724"/>
+	<Point x="1675" y="2724"/>
+	<Point x="1675" y="2725"/>
+	<Point x="1654" y="2725"/>
+	<Point x="1654" y="2726"/>
+	<Point x="1633" y="2726"/>
+	<Point x="1633" y="2727"/>
+	<Point x="1612" y="2727"/>
+	<Point x="1612" y="2728"/>
+	<Point x="1591" y="2728"/>
+	<Point x="1591" y="2729"/>
+	<Point x="1569" y="2729"/>
+	<Point x="1569" y="2730"/>
+	<Point x="1548" y="2730"/>
+	<Point x="1548" y="2731"/>
+	<Point x="1527" y="2731"/>
+	<Point x="1527" y="2732"/>
+	<Point x="1506" y="2732"/>
+	<Point x="1506" y="2733"/>
+	<Point x="1485" y="2733"/>
+	<Point x="1485" y="2734"/>
+	<Point x="1464" y="2734"/>
+	<Point x="1464" y="2735"/>
+	<Point x="1442" y="2735"/>
+	<Point x="1442" y="2736"/>
+	<Point x="1421" y="2736"/>
+	<Point x="1421" y="2737"/>
+	<Point x="1400" y="2737"/>
+	<Point x="1400" y="2738"/>
+	<Point x="1379" y="2738"/>
+	<Point x="1379" y="2739"/>
+	<Point x="1358" y="2739"/>
+	<Point x="1358" y="2740"/>
+	<Point x="1336" y="2740"/>
+	<Point x="1336" y="2741"/>
+	<Point x="1238" y="2741"/>
+	<Point x="1238" y="2742"/>
+	<Point x="1140" y="2742"/>
+	<Point x="1140" y="2743"/>
+	<Point x="1042" y="2743"/>
+	<Point x="1042" y="2744"/>
+	<Point x="944" y="2744"/>
+	<Point x="944" y="2745"/>
+	<Point x="846" y="2745"/>
+	<Point x="846" y="2746"/>
+	<Point x="748" y="2746"/>
+	<Point x="748" y="2747"/>
+	<Point x="650" y="2747"/>
+	<Point x="650" y="2748"/>
+	<Point x="552" y="2748"/>
+	<Point x="552" y="2749"/>
+	<Point x="454" y="2749"/>
+	<Point x="454" y="2649"/>
+	<Point x="455" y="2649"/>
+	<Point x="455" y="2549"/>
+	<Point x="456" y="2549"/>
+	<Point x="456" y="2449"/>
+	<Point x="457" y="2449"/>
+	<Point x="457" y="2349"/>
+	<Point x="458" y="2349"/>
+	<Point x="458" y="2249"/>
+	<Point x="459" y="2249"/>
+	<Point x="459" y="2149"/>
+	<Point x="460" y="2149"/>
+	<Point x="460" y="2048"/>
+	<Point x="461" y="2048"/>
+	<Point x="461" y="1948"/>
+	<Point x="462" y="1948"/>
+	<Point x="462" y="1848"/>
+	<Point x="463" y="1848"/>
+	<Point x="463" y="1748"/>
+	<Point x="464" y="1748"/>
+	<Point x="464" y="1648"/>
+	<Point x="465" y="1648"/>
+	<Point x="465" y="1548"/>
+	<Point x="466" y="1548"/>
+	<Point x="466" y="1448"/>
+	<Point x="467" y="1448"/>
+	<Point x="467" y="1335"/>
+	<Point x="466" y="1335"/>
+	<Point x="466" y="1323"/>
+	<Point x="465" y="1323"/>
+	<Point x="465" y="1311"/>
+	<Point x="464" y="1311"/>
+	<Point x="464" y="1187"/>
+	<Point x="463" y="1187"/>
+	<Point x="463" y="1063"/>
+	<Point x="462" y="1063"/>
+	<Point x="462" y="1058"/>
+	<Point x="461" y="1058"/>
+	<Point x="461" y="1053"/>
+	<Point x="460" y="1053"/>
+	<Point x="460" y="1048"/>
+	<Point x="459" y="1048"/>
+	<Point x="459" y="1045"/>
+	<Point x="581" y="1045"/>
+	<Point x="581" y="1044"/>
+	<Point x="704" y="1044"/>
+	<Point x="704" y="1043"/>
+	<Point x="826" y="1043"/>
+	<Point x="826" y="1042"/>
+	<Point x="949" y="1042"/>
+	<Point x="949" y="1041"/>
+	<Point x="1072" y="1041"/>
+	<Point x="1072" y="1040"/>
+	<Point x="1142" y="1046"/>
+	<Point x="1194" y="1040"/>
+	<Point x="1194" y="1039"/>
+	<Point x="1317" y="1039"/>
+	<Point x="1317" y="1038"/>
+	<Point x="1440" y="1038"/>
+	<Point x="1440" y="1037"/>
+	<Point x="1562" y="1037"/>
+	<Point x="1562" y="1036"/>
+	<Point x="1622" y="1035"/>
+	<Point x="1685" y="1036"/>
+	<Point x="1685" y="1035"/>
+	<Point x="1808" y="1035"/>
+	<Point x="1808" y="1034"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>16 AVNQVE ſon ¡numerables los milagros que
+ſe han comprobado, i remitido para ſu ultima Califica-
+cion a Roma, ſolo referirè algunos brevemente, para
+mayor gloria de Dios i de ſu Siervo. En Vbeda à una
+niña, hija de don Bartolome de Ortega, que eaba ago
+nizando de enfermedad de viruelas, le llevaron la Reli
+quia de un Pie del Venerable Padre, que ai en aquella
+ciudad; i tocandole con ella, cobrò luego tan repenti-
+na i entera ſalud, que pudo al punto hablar, comer, i
+dormir, i mui en breve andar en ſu carretonzillo como
+antes, con admiracion de todos los que ſupieron el ſu-
+ceſo: por el cual la llamaban: La Niña del Milagro. Do
+ña luana Godinez de Sandoval, hija de don Franciſco
+Godinez de Sandoval, acometida de un repentino aci
+dente de frio i calentura, vino al quinto dia, ya deſauzia
+da, à batallar ultimamente con la muerte, a cuyas ma-
+nos rindio (al parecer de todos) haa las ultimas armas
+de la vida. Llorada ya por muerta, le aplicaròn la Re-
+liquia del bendito Pie ſobre el pecho, con la cual (ò ad-
+mirable caſo!) luego, la que parecia difunta, ſe abraçò
+i bolvio en , tan buena i ſana, que levantandoſe aquel
+meſmo dia, quiſo ir a vitar el ſepulcro del Venerable</Unicode></TextEquiv></TextRegion></Page></PcGts>

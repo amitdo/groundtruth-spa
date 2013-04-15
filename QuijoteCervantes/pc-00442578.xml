@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442578">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T02:22:31</Created>
+	<LastChange>2012-03-12T14:12:09</LastChange></Metadata>
+	<Page imageFilename="00442578.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="460" y="112"/>
+	<Point x="1105" y="116"/>
+	<Point x="1102" y="205"/>
+	<Point x="727" y="219"/>
+	<Point x="645" y="221"/>
+	<Point x="625" y="197"/>
+	<Point x="605" y="214"/>
+	<Point x="596" y="216"/>
+	<Point x="560" y="216"/>
+	<Point x="464" y="213"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quarta parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="160" y="208"/>
+	<Point x="449" y="210"/>
+	<Point x="456" y="219"/>
+	<Point x="568" y="217"/>
+	<Point x="604" y="217"/>
+	<Point x="620" y="211"/>
+	<Point x="634" y="211"/>
+	<Point x="637" y="225"/>
+	<Point x="1091" y="211"/>
+	<Point x="1133" y="209"/>
+	<Point x="1197" y="203"/>
+	<Point x="1418" y="201"/>
+	<Point x="1447" y="2164"/>
+	<Point x="1142" y="2175"/>
+	<Point x="1121" y="2198"/>
+	<Point x="157" y="2241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>alguna raza mal ſonante, y como ſuele dezirſe,
+Chriianos viejos rancioſos, pero tan ricos, que
+ſu riqueza y magniﬁco trato, les va poco a poco ad
+quiriendo nombre de hidalgos, y aun de cauae-
+ros, Pueo que de la mayor riqueza, y nobleza que
+eos ſe preciauan, era de tenerme a mi por hija: y
+aſsi por no tener otra, ni otro que los heredae, co-
+no por ſer padres, y aﬁcionados, yo era vna de las
+mas regaladas hijas que padres jamas regalarõ. Era
+el eſpejo en que ſe mirauan, el baculo de ſu vejez, y
+el ſujeto a quien encaminauan, midiendolos con el
+cielo, todos ſus deeos: de los quales, por ſer eos
+tan buenos, los mios no ſaliã vn punto. Y del miſmo
+modo que yo era ſeñora de ſus animos, an lo era
+de ſu hazienda. Por mi ſe recebian, y deſpedian los
+criados. La razon y cuenta de lo que ſe ſembraua y
+cogia, paaua por mi mano: los molinos de azeyte,
+los lagares del vino, el numero del ganado mayor,
+y menor, el de las colmenas. Finalmente, de todo
+aqueo  vn tan rico labrador como mi padre pue
+de tener, y tiene, tenia yo la cuenta, y era la mayor-
+doma, y ſeñora, con tanta ſolicitud mia, y con tanto
+guo ſuyo,  buenamente no acertarè a encarecer-
+lo. Los ratos  del dia me quedauã, deſpues de auer
+dado lo  conuenia a los mayorales, a capatazes, y a
+otros jornaleros, los entretenia en exercicios  ſon
+a las donzeas tan licitos como necearios, como
+ſon los que ofrece la aguja, y la almohadia, y la rue
+ca muchas vezes: y  alguna por recrear el animo,
+eos exercicios dexaua, me acogia al entretenimiẽ
+to de leer algun libro deuoto, o a tocar vna harpa,
+porque la experiencia me moraua, que la muca</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="458" y="2314"/>
+	<Point x="1127" y="2318"/>
+	<Point x="1131" y="2368"/>
+	<Point x="709" y="2376"/>
+	<Point x="460" y="2364"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1169" y="2178"/>
+	<Point x="1169" y="2249"/>
+	<Point x="1424" y="2249"/>
+	<Point x="1424" y="2178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>compone</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444046">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T00:51:46</Created>
+	<LastChange>2011-12-19T11:39:22</LastChange></Metadata>
+	<Page imageFilename="00444046.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="423" y="230"/>
+	<Point x="1990" y="230"/>
+	<Point x="1990" y="2647"/>
+	<Point x="423" y="2647"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>me dara grã cõſuelo. Para lo  de aqui adelãte
+dixere no ſe la doy, ni quiero   a alguno lo
+morarẽ digã quiẽ es, por quiẽ pao, ni quiẽ
+lo eſcriuio,  por eo no me nõbro a mi, ni a
+nadie no eſcriuirlo he todo lo mejor  pueda
+por no ſer conocida, y an lo pido por amor đ
+Dios, baã perſonas tã letradas y graues para
+autorizar alguna coſa buena,  el Señor me
+diere gracia para đ zirla,   lo fuere ſera ſuya, y
+no mia, por yo n letras y buena vida ni ſer
+informada de letrado, ni de perſona ninguna
+( por ſolos los  me lo mãdan eſcriuir ſabẽ 
+lo eſcriuo y al preſente no eã aqui, y eſcriuo
+lo ca hurtãdo el tiẽpo y cõ pena, por me eſ
+toruo đ hilar, y eoy en caſa pobre y cõ hartas
+ocupaciones,  el Señor me diera mas habili
+dad y memoria,  aũ cõ ea pudiera me apro
+uechar de lo  he oydo o leydo, mas es poquiſ
+ma la  tẽgo ) an   algo bueno dixere, lo
+quiere el Señor para algun bien, Io  fuere ma
+lo ſera de mi, y v. m. lo quitara. Para lo vno, ni
+para lo otro ningũ prouecho tiene dezir mi
+nõbre, en vida ea claro  no ſe ha đ dezir de
+lo bueno, en muerte no ay para , no para
+ pierda autoridad el bien, y no le dar nin-
+gũ credito por ſer dicho de perſona tã baxa y
+tã ruyn, y por penſar v. m. hara eo, que por</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1740" y="2652"/>
+	<Point x="1966" y="2652"/>
+	<Point x="1966" y="2726"/>
+	<Point x="1740" y="2726"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>amor</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="626" y="3062"/>
+	<Point x="1575" y="3062"/>
+	<Point x="1575" y="3150"/>
+	<Point x="626" y="3150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="428" y="97"/>
+	<Point x="428" y="209"/>
+	<Point x="638" y="209"/>
+	<Point x="638" y="97"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>118</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="947" y="97"/>
+	<Point x="947" y="211"/>
+	<Point x="1607" y="211"/>
+	<Point x="1607" y="97"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

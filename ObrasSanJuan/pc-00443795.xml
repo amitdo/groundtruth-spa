@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443795">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T04:27:32</Created>
+	<LastChange>2010-12-23T13:45:04</LastChange></Metadata>
+	<Page imageFilename="00443795.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="788" y="73"/>
+	<Point x="1328" y="57"/>
+	<Point x="1328" y="183"/>
+	<Point x="1197" y="183"/>
+	<Point x="797" y="190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dclaracion de la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="385" y="207"/>
+	<Point x="1892" y="211"/>
+	<Point x="1864" y="2002"/>
+	<Point x="376" y="2014"/>
+	<Point x="350" y="2002"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Entremos mas adentro en la eſpeſura. De donde Iob,
+deſeando ee padecer, dixo: Quis det, ut veniat pe-
+titio mea, &amp; quod expo tribuat mihi Deus, &amp; qui cœ-
+pit ipſe me conterat, ſolvat manum ſuam, &amp; ſuccidat me,
+&amp; hc mihi t conſolatio, ut aﬀl gens me dolore non parcat?
+que quiere dezir: Quien darà que mi peticion ſe cum-
+pla, i que Dios me de lo que eſpero, i el que me co-
+mençò eſe me deſmenuze i deſate ſu mano, i me aca-
+be, i tenga yo ea conſolacion, que afligiendo me con
+dolor, no me perdone, ni dè alivio? O  ſe acabaſe ya
+de entder, como no ſe puede egar a la eſpeſura de ſa-
+biduria i riquezas de Dios, no es entrando en la eſ-
+peſura del padecer de muchas maneras, poniendo
+en eſo el alma ſu conſolacion i deſeo. I como el alma
+que de veras deſea ſabiduria, deſea primero de veras
+entrar mas adentro en la eſpeſura de la Cruz, que es
+el camino de la vida, porque pocos entran: porque
+deſear entrar en eſpeſura de ſabiduria i riquezas i re-
+galos de Dios, es de todos; mas deſear entrar en la
+eſpeſura de trabajos i dolores por el Hijo de Dios, es
+de pocos, a como muchos ſe querian ver
+en el termino, n paſar por
+el camino i medio
+a el.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1395" y="2297"/>
+	<Point x="1857" y="2302"/>
+	<Point x="1850" y="2459"/>
+	<Point x="1392" y="2454"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAN-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="780" y="2923"/>
+	<Point x="1419" y="2928"/>
+	<Point x="1433" y="2997"/>
+	<Point x="766" y="3000"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="371" y="90"/>
+	<Point x="371" y="188"/>
+	<Point x="530" y="188"/>
+	<Point x="530" y="90"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>782</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="marginalia">
+	<Coords>
+	<Point x="107" y="230"/>
+	<Point x="107" y="357"/>
+	<Point x="369" y="357"/>
+	<Point x="369" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Iob 6. 8.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440457">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T21:12:35</Created>
+	<LastChange>2011-07-05T14:26:01</LastChange></Metadata>
+	<Page imageFilename="00440457.tif" imageWidth="880" imageHeight="1599">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="51" y="0"/>
+	<Point x="684" y="0"/>
+	<Point x="684" y="37"/>
+	<Point x="51" y="37"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LAZAR. DE TORM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="711" y="0"/>
+	<Point x="711" y="44"/>
+	<Point x="746" y="44"/>
+	<Point x="746" y="0"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="21" y="47"/>
+	<Point x="692" y="40"/>
+	<Point x="710" y="53"/>
+	<Point x="766" y="52"/>
+	<Point x="768" y="1481"/>
+	<Point x="619" y="1482"/>
+	<Point x="619" y="1459"/>
+	<Point x="392" y="1458"/>
+	<Point x="389" y="1481"/>
+	<Point x="16" y="1473"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſar de comer a ciertos eudiantes,
+y a labar la ropa a ciertos moços
+de cauaos del comendador de la
+Magdalena. De manera que fre-
+quentando las cauaerizas: ea,
+y vn negro de los que en la caual-
+leriça ſeruian, trauaron erecha
+amiad: ee algunas vezes venia
+a nuera caſa, y ſe yua a la maña-
+na, otras de dia egaua ala puerta
+con achaque de comprar hueuos,
+al principio peſaua me deo por
+el miedo que del tenia viendo ſu
+color, y mal geo: mas quando
+vi que con ſu venida mejoraua el
+comer, fuy le queriendo bien, por-
+que empre traya pan, pedaços
+de carne, y enel inuierno leña con
+que nos calentauamos. De mane-
+ra que continuando la poſada, y
+conuerſacion, mi madre me dio
+vn negrito muy bonito, el qual yo
+brin caua, y ayudaua a calentar: a-
+cuerdo me que eando el negro</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="287" y="1550"/>
+	<Point x="287" y="1591"/>
+	<Point x="586" y="1591"/>
+	<Point x="586" y="1550"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="440" y="1462"/>
+	<Point x="600" y="1462"/>
+	<Point x="600" y="1543"/>
+	<Point x="440" y="1543"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A ĳ</Unicode></TextEquiv></TextRegion></Page></PcGts>

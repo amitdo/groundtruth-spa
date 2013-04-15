@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442688">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T23:42:58</Created>
+	<LastChange>2012-03-12T14:12:16</LastChange></Metadata>
+	<Page imageFilename="00442688.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="500" y="121"/>
+	<Point x="545" y="106"/>
+	<Point x="1102" y="121"/>
+	<Point x="1137" y="203"/>
+	<Point x="872" y="200"/>
+	<Point x="777" y="208"/>
+	<Point x="737" y="218"/>
+	<Point x="658" y="196"/>
+	<Point x="603" y="216"/>
+	<Point x="570" y="217"/>
+	<Point x="460" y="191"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quarta parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="125" y="187"/>
+	<Point x="359" y="187"/>
+	<Point x="525" y="217"/>
+	<Point x="540" y="217"/>
+	<Point x="591" y="225"/>
+	<Point x="648" y="205"/>
+	<Point x="737" y="219"/>
+	<Point x="765" y="213"/>
+	<Point x="780" y="216"/>
+	<Point x="839" y="215"/>
+	<Point x="871" y="208"/>
+	<Point x="1118" y="214"/>
+	<Point x="1435" y="211"/>
+	<Point x="1402" y="2178"/>
+	<Point x="1238" y="2187"/>
+	<Point x="1201" y="2203"/>
+	<Point x="115" y="2215"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mas laima que a Camila, aúque por muerta la juz
+gara. Leonela la tomò en braços, y la puſo en el le-
+cho, ſuplicando a Lotario fuee a buſcar quien
+ſecretamente a Camila curae. Pediale aſsi miſmo
+conſejo, y parecer de lo que diriana Anſelmo de
+aquea herida de ſu ſeñora,  a caſo viniee antes
+que euuiee ſana. El reſpondio que dixeen lo
+que quieen, que el no eaua para dar cõſejo que
+de prouecho fuee, ſolo le dixo que procurae to-
+marle la ſangre, porque el ſe yua adonde gentes no
+le vieen. Y con mueras de mucho dolor, y ſen-
+timiento ſe ſalio de caſa, y quando ſe vio ſolo, y en
+parte donde nadie le veya, no ceaua de hazerſe
+Cruzes, marauiandoſe de la inrudia de Camila, y
+de los ademanes tan proprios de Leonela. Cõde-
+raua quan enterado auia de quedar Anſelmo de 
+tenia por muger a vna ſegunda Porcia, y deeaua
+verſe con el, para celebrar los dos la mentira, y
+la verdad, mas diſsimulada, que jamas pudiera ima-
+ginarſe. Leonela tomò, como ſe ha dicho, la ſan-
+gre a ſu ſeñora, que no era mas de aqueo que baſ-
+tò para acreditar ſu embue, y lauando con vn po-
+co de vino la herida, ſe la atò lo mejor que ſupo,
+diziendo tales razones en tanto que la curaua, que
+aunque no huuieran precedido otras, baaran a ha-
+zer creer a Anſelmo  tenia en Camila vn m�la-
+cro de la �oneidad. Iuntaronſe a las palabras de
+Leonela, otras de Camila, amandoſe cobarde, y
+de poco animo, pues le auia faltado al tiempo que
+fuera mas neceario tenerle, para quitarſe la vida,
+que tan aborrecida tenia. Pedia conſejo a ſu don-
+zea,  daria, o no todo aquel ſuceo a ſu querido</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1191" y="2212"/>
+	<Point x="1225" y="2199"/>
+	<Point x="1240" y="2192"/>
+	<Point x="1331" y="2190"/>
+	<Point x="1374" y="2194"/>
+	<Point x="1385" y="2229"/>
+	<Point x="1374" y="2259"/>
+	<Point x="1256" y="2270"/>
+	<Point x="1201" y="2259"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>eſpoſo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="441" y="2305"/>
+	<Point x="1147" y="2300"/>
+	<Point x="1129" y="2376"/>
+	<Point x="1111" y="2380"/>
+	<Point x="1098" y="2380"/>
+	<Point x="447" y="2376"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485405">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T13:48:38</Created>
+	<LastChange>2011-05-12T13:41:30</LastChange></Metadata>
+	<Page imageFilename="00485405.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="signature-mark">
+	<Coords>
+	<Point x="1195" y="2680"/>
+	<Point x="1225" y="2681"/>
+	<Point x="1249" y="2688"/>
+	<Point x="1299" y="2677"/>
+	<Point x="1434" y="2675"/>
+	<Point x="1437" y="2767"/>
+	<Point x="1195" y="2763"/>
+	<Point x="1182" y="2713"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>G G iij</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="628" y="3026"/>
+	<Point x="1400" y="3026"/>
+	<Point x="1400" y="3093"/>
+	<Point x="628" y="3093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="414" y="196"/>
+	<Point x="1552" y="190"/>
+	<Point x="1550" y="562"/>
+	<Point x="1636" y="575"/>
+	<Point x="1645" y="750"/>
+	<Point x="1525" y="750"/>
+	<Point x="1516" y="2658"/>
+	<Point x="1470" y="2667"/>
+	<Point x="1292" y="2672"/>
+	<Point x="1251" y="2686"/>
+	<Point x="1235" y="2683"/>
+	<Point x="1220" y="2678"/>
+	<Point x="1189" y="2676"/>
+	<Point x="1166" y="2695"/>
+	<Point x="385" y="2703"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cruda guerra mouia, deſpertando
+Su Iure, y claro vando, al exercicio
+D'aquel piadoſo ofﬁcioa. a aquee junto
+La gran lauor al punto, ſeñalaua
+Al hijo, que moraua aca en la tierra
+Ser otro Marte en guerra, en corte Phebo
+Morauae mancebo, en las ſeñales
+Del roro, que'ran tales, que'ſperança:
+Y cierta conﬁança, claro dauan
+A quantos le mirauan, que'l ſeria:
+En quien ſe informaria, vn ſer diuino.
+Al campo ſarracino, en tiernos años
+Daua con graues daños, a ſentio.
+Que como fue caudio, del chriiano
+Exercito la mano: y el maduro
+Seſo, y aquel ſeguro; y ﬁrme pecho
+En otra parte hecho, y a mas hombre,
+Con mas Iure nombre los arneſes
+De los ﬁeros Franceſes, a boaua.
+Iunto tras eo eaua, gurado:
+Con el arnes manchado, de otra ſangre
+Soeniendo la hambre, en el aſfedio.
+Siendo el ſolo el remedio, del combate
+Que con ﬁero rebate, con ruydo
+Por el muro batido, l'oﬀrecian.
+Tantos al ﬁn morian, por ſu eſpada:
+A tantos la jornada: puſo eſpanto
+Que no ay lauor que tanto, notiﬁque
+Quanto el ﬁero Faderique, de Toledo
+Puſo terror, y miedo, al enemigo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="497" y="88"/>
+	<Point x="1117" y="86"/>
+	<Point x="1115" y="182"/>
+	<Point x="500" y="188"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ QVARTO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="1138" y="71"/>
+	<Point x="1634" y="77"/>
+	<Point x="1637" y="173"/>
+	<Point x="1141" y="176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. CCXVIII.</Unicode></TextEquiv></TextRegion></Page></PcGts>

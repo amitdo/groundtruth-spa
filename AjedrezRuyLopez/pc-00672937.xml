@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672937">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 10.0</Creator>
+	<Created>2012-01-31T20:12:00</Created>
+	<LastChange>2012-03-01T12:41:07</LastChange></Metadata>
+	<Page imageFilename="00672937.tif" imageWidth="1864" imageHeight="2614">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="214" y="2232"/>
+	<Point x="240" y="317"/>
+	<Point x="635" y="314"/>
+	<Point x="736" y="320"/>
+	<Point x="749" y="321"/>
+	<Point x="784" y="313"/>
+	<Point x="1427" y="312"/>
+	<Point x="1428" y="350"/>
+	<Point x="1427" y="2221"/>
+	<Point x="1331" y="2222"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſegun que mas largo diremos en ſu lugar. Y aſsi
+particularmente de todas las demas pieças y peo
+nes, reprehendiendo la mala vida del rey, ca co
+mo quien reprehen dia tercera perſona. Pero dize
+ſe, que el rey entendiendo por aquello ſu corre-
+cion: por cauſa dela qual muchos ſabios auia he
+cho morir, le dixo:que ſo pena de perder la vida,
+le manifeae porque razon auia inuentado ee
+juego:y por perſuaon de quien lo auia hecho : à
+lo qual el philoſopho reſpondio. O rey mio y ſe-
+ñor, deeo ver tu vida glorioſa : la qual no puedo
+ver, no fueres amado de tu pueblo, dotado de to
+das las buenas virtudes: y de manera  te enſeño-
+rees de ti primero:para que derecha y amigable-
+mente puedas ſeñorear los demas : porque inju-
+a coſa es querer mandar à otros, quiẽ no ſe pue-
+de,ni ſabe mandar a: porque ſabe que con razõ
+los imperios violentos no pueden durar: y por tã
+to ee cuydado mio ha do por cauſade tu corre
+ciõ, que pidiẽdo me el pueblo que te corrigiee:
+y auiendo ſe lo prometido, temiendo la muerte,
+por aver vio que auias hecho morir otros mu-
+chos ſabios,por auer tenido atreuimiento à te in
+crepar, pueo en toda congoxa y fatiga, buſcãdo
+camino como pudiee hallar modo amigable de
+tu correciõ, y conſeruar la vida, y ſatiſfazer al pue
+blo:con ee tan grã cuydado inuente ee juego,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="556" y="236"/>
+	<Point x="556" y="308"/>
+	<Point x="744" y="317"/>
+	<Point x="755" y="314"/>
+	<Point x="773" y="308"/>
+	<Point x="1107" y="308"/>
+	<Point x="1107" y="236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>del juego del axedrez.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="page-number">
+	<Coords>
+	<Point x="1395" y="251"/>
+	<Point x="1395" y="307"/>
+	<Point x="1427" y="307"/>
+	<Point x="1427" y="251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>8</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1274" y="2236"/>
+	<Point x="1274" y="2299"/>
+	<Point x="1398" y="2299"/>
+	<Point x="1398" y="2236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>para</Unicode></TextEquiv></TextRegion></Page></PcGts>

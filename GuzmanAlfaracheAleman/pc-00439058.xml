@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439058">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T02:55:08</Created>
+	<LastChange>2010-12-28T04:50:02</LastChange></Metadata>
+	<Page imageFilename="00439058.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="496" y="87"/>
+	<Point x="1453" y="98"/>
+	<Point x="1446" y="164"/>
+	<Point x="657" y="166"/>
+	<Point x="492" y="164"/>
+	<Point x="494" y="146"/>
+	<Point x="492" y="135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="244" y="178"/>
+	<Point x="544" y="182"/>
+	<Point x="1676" y="176"/>
+	<Point x="1674" y="2605"/>
+	<Point x="1560" y="2614"/>
+	<Point x="1528" y="2628"/>
+	<Point x="621" y="2633"/>
+	<Point x="248" y="2617"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Buelvo à mi pueo, que me eſpera mi madre, ya viuda
+del primero poeedor, querida y tiernamente regalada
+del ſegundo. Entre eas y eotras, ya yo tenia cumpli-
+dos tres años, cerca de quatro, y por la quenta y reglas
+de la ciencia femenina tuve dos padres, que ſupo mi ma-
+dre ahĳarme à eos, y alcançò à entender y obrar lo im-
+poſble de las coſas: vedlo à los ojos, pues agradò ygual-
+mente à dos ſeñores, trayendolos contentos y bien ſervi-
+dos. Ambos me conocieron por hĳo, el uno me lo ama-
+va, y el otro tambien, quando el cavaero eava ſolo, le
+dezia que era un eornudo ſuyo, y que tanta militud
+no ſe haava en dos huevos. Quando hablava con mi
+padre, aﬁrmava que el era yo, cortada la cabeça, que ſe
+maraviava, pareciendole tanto (que qualquier ciego lo
+conociera ſolo con paar las manos por el roro) no aver-
+ſe deſcubierto, echandoſe de ver el engaño, mas que con
+la ceguedad que la amavan, y conﬁança que harian de
+los dos, no ſe avia echado de ver, ni pueo ſoſpecha en
+eo. Y aſ cada uno lo creyò, y ambos me regalavan: la
+diferencia ſola fue ſer en el tiempo que vivio el buen
+viejo en lo publico, y el erangero en lo ſecreto, el ver-
+dadero. Porque mi madre lo certiﬁcava deſpues, hazien-
+dome largas relaciones deas coſas. Y aſ proteo no
+me pare perjuyzio, lo que quieren calumniarme: de ſu
+boca lo ohì, ſu verdad reﬁero, que ſeria gran temeridad
+aﬁrmar qual de los dos me engendrae, ò  ſoy de otro
+tercero. En eo perdono la que me pario, que à ninguno
+eà bien dezir mentira, y menos al que eſcrive. Ni quie-
+ro que digan que ſuento diſparates, mas la muger que
+à dos dize que quiere, à entrambos engaña, y dea no ſe
+puede hazer conﬁança: eo ſe entiende por la ſoltera,
+que la regla de las caſadas es otra. Quieren dezir, que dos
+es uno, y uno ninguno, y tres beaqueria. Porque no
+haziendo quenta del marido (como es aſ la verdad) el
+ſolo es ninguno, y el con otro hazen uno, y con el otros
+dos, que ſon por todos tres. Equivalen à los dos de la
+ſoltera. Aſ que conforme à ſu razon, cabal eà la quen-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="535" y="2849"/>
+	<Point x="1310" y="2866"/>
+	<Point x="1303" y="2944"/>
+	<Point x="541" y="2942"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="253" y="87"/>
+	<Point x="253" y="169"/>
+	<Point x="358" y="169"/>
+	<Point x="358" y="87"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>26</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1578" y="2623"/>
+	<Point x="1578" y="2676"/>
+	<Point x="1664" y="2676"/>
+	<Point x="1664" y="2623"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ta.</Unicode></TextEquiv></TextRegion></Page></PcGts>

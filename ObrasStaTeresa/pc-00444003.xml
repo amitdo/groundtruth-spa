@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444003">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:16:35</Created>
+	<LastChange>2011-12-19T11:39:20</LastChange></Metadata>
+	<Page imageFilename="00444003.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="368" y="112"/>
+	<Point x="1525" y="117"/>
+	<Point x="1527" y="237"/>
+	<Point x="365" y="241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="180" y="258"/>
+	<Point x="1735" y="262"/>
+	<Point x="1764" y="2648"/>
+	<Point x="1695" y="2651"/>
+	<Point x="1687" y="2641"/>
+	<Point x="164" y="2649"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>amiad, como es tratar de oracion, tornarme
+a egar a Dios, y ayudome a eo, que como
+creſcieron los peccados, començome a faltar
+el guo, y regalo en las coſas de virtud: via yo
+muy claro, Señor mio,  me faltaua eo a mi
+por faltaros yo a vos. Ee fue el mas terrible
+engaño,  el demonio me podia hazer debaxo
+de parecer humildad,  comence a temer de
+tener oraciõ, de verme tan perdida, y parecia-
+me era mejor andar como los muchos, pues
+en ſer ruyn, era de los peores, y rezar lo que
+eaua obligada, y vocalmẽte,  no tener ora-
+cion mental, y tanto trato con Dios, la  me-
+recia ear con los demonios: y que engañaua
+a la gente, porque en lo exterior tenia buenas
+aparẽcias, y an no es de culpar a la caſa adõ-
+de eaua, por cõ mi maña procuraua me tu-
+uieen en buena opinion, aunque no de ad-
+uertencia, ﬁngiendo Chriiandad, porque en
+eo de hypocrea, y vana gloria, gloria a
+Dios, jamas me acuerdo auerle oﬀendido, que
+yo entienda, que en viniendome primer mo-
+uimiento me daua tanta pena, que el demo-
+nio yua con perdida, y yo quedaua con ga-
+nancia, y an enefto muy poco me ha tenta-
+do jamas, por ventura  Dios permitiera me
+tentara en eo tã rezio como en otras coſas,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1431" y="2651"/>
+	<Point x="1660" y="2647"/>
+	<Point x="1657" y="2669"/>
+	<Point x="1727" y="2670"/>
+	<Point x="1733" y="2732"/>
+	<Point x="1518" y="2735"/>
+	<Point x="1429" y="2736"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tambien</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="603" y="3029"/>
+	<Point x="1615" y="3029"/>
+	<Point x="1619" y="3159"/>
+	<Point x="607" y="3157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1607" y="129"/>
+	<Point x="1607" y="248"/>
+	<Point x="1741" y="248"/>
+	<Point x="1741" y="129"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>75</Unicode></TextEquiv></TextRegion></Page></PcGts>

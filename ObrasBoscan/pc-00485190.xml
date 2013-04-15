@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485190">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T02:23:28</Created>
+	<LastChange>2011-05-12T13:41:01</LastChange></Metadata>
+	<Page imageFilename="00485190.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r5" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="630" y="3017"/>
+	<Point x="1399" y="3017"/>
+	<Point x="1399" y="3093"/>
+	<Point x="630" y="3093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="410" y="180"/>
+	<Point x="1605" y="196"/>
+	<Point x="1636" y="920"/>
+	<Point x="1634" y="2822"/>
+	<Point x="394" y="2815"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pues para ti no queda otro conſejo.
+Dexate yr ya corriendo tu fortuna,
+Has lo peor  quies determinarte.
+Y pierde tu negocio, pues no puedes
+Sufrirte vn breue tiempo, por ganae.
+Cargaua el crudo inuierno cada dia,
+Y cargaua el dolor d' ea ſeñora,
+No alcançando remedio en ſu deeo:
+Sino aquel que 'n poder del viento 'aua.
+Si algun deſcanſo alguna vez tenia,
+Era ſubirſe alo alto de ſu torre:
+Y a ſu plazer d' ai mirar Abyde.
+y en tanta multitud de tantas torres,
+Luego le daua el alma en la primera,
+Si ſeria, la de Leandro aquea,
+Y empeçaua n mas, a contemplaa.
+V ido vna tarde, deſde ſu ventana,
+V nas piſadas d' hombre en el arena.
+Y luego imaginando, entre  miſma
+O  eas dixo fueen, las piſadas
+Que aqui dexo Leandro, quando vino.
+Muchas noches dezia, ea fue el ora
+Que aqui ego mi bien, y ai empeçaua
+Por orden a penſar, lo que paaron
+Mas luego la memoria s' encogia:
+Que no es manjar de tries lo paado,
+Quando delo preſente es tan contrario.
+Otras vezes, andando la mar alta,
+Y eando en mayor fuerça la fortuna,
+Se l' antojaua que abonaua el tiempo.
+Y entonces s' alegraua, pero luego,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="605" y="86"/>
+	<Point x="1128" y="86"/>
+	<Point x="1128" y="173"/>
+	<Point x="605" y="173"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="page-number">
+	<Coords>
+	<Point x="1253" y="85"/>
+	<Point x="1632" y="85"/>
+	<Point x="1632" y="178"/>
+	<Point x="1253" y="178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. CXII.</Unicode></TextEquiv></TextRegion></Page></PcGts>

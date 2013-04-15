@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440349">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T20:52:19</Created>
+	<LastChange>2011-12-19T11:39:03</LastChange></Metadata>
+	<Page imageFilename="00440349.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="799" y="578"/>
+	<Point x="2489" y="578"/>
+	<Point x="2489" y="837"/>
+	<Point x="1958" y="840"/>
+	<Point x="1928" y="829"/>
+	<Point x="1324" y="820"/>
+	<Point x="1324" y="839"/>
+	<Point x="1284" y="840"/>
+	<Point x="1276" y="820"/>
+	<Point x="803" y="812"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tabla de las Experiencias del Pendulo
+mple hechas en Quito.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r3">
+	<Coords>
+	<Point x="2702" y="846"/>
+	<Point x="2704" y="3300"/>
+	<Point x="2596" y="3300"/>
+	<Point x="2577" y="3278"/>
+	<Point x="1006" y="3273"/>
+	<Point x="964" y="3276"/>
+	<Point x="480" y="3276"/>
+	<Point x="492" y="822"/>
+	<Point x="636" y="823"/>
+	<Point x="648" y="833"/>
+	<Point x="1314" y="844"/></Coords></TableRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="660" y="3278"/>
+	<Point x="2564" y="3283"/>
+	<Point x="2594" y="3513"/>
+	<Point x="1467" y="3512"/>
+	<Point x="1467" y="3570"/>
+	<Point x="661" y="3583"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El medio entre todas dà la longitud del Pendulo mple,
+que vibra los ſegundos de tiempo medio en Quito de 36
+pulgadas 6.761 lineas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="2417" y="3560"/>
+	<Point x="2607" y="3560"/>
+	<Point x="2607" y="3664"/>
+	<Point x="2417" y="3664"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ea</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="999" y="3992"/>
+	<Point x="1978" y="3992"/>
+	<Point x="1978" y="4092"/>
+	<Point x="1625" y="4074"/>
+	<Point x="999" y="4092"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="749" y="396"/>
+	<Point x="970" y="396"/>
+	<Point x="970" y="514"/>
+	<Point x="749" y="514"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>326</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="1227" y="396"/>
+	<Point x="2050" y="396"/>
+	<Point x="2050" y="514"/>
+	<Point x="1227" y="514"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444106">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:58:39</Created>
+	<LastChange>2011-12-19T11:39:25</LastChange></Metadata>
+	<Page imageFilename="00444106.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="435" y="111"/>
+	<Point x="664" y="111"/>
+	<Point x="664" y="251"/>
+	<Point x="435" y="251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>178</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="452" y="262"/>
+	<Point x="2002" y="255"/>
+	<Point x="2030" y="2634"/>
+	<Point x="1833" y="2650"/>
+	<Point x="1797" y="2630"/>
+	<Point x="1683" y="2652"/>
+	<Point x="1676" y="2672"/>
+	<Point x="1564" y="2672"/>
+	<Point x="881" y="2669"/>
+	<Point x="462" y="2662"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>demonio, alma exercitada pareceme lo en-
+tendera, porque dexa inquietud, y poca hu‐
+mildad y poco aparejo para los eﬀetos que
+haze el de Dios, no dexa luz en el entendi‐
+miento, ni ﬁrmeza en la verdad. Puede
+hazer aqui poco daño o ninguno  el alma
+endereça ſu deleyte y ſuauidad que ai ẽte
+a Dios, y pone en el ſus penſamientos y
+deeos, como queda auiſado, no puede ga‐
+nar nada el demonio, antes permitira Dios
+que con el miſmo deleyte que cauſa en el
+alma, pierda mucho, porque ee ayudara
+a que el alma como pienſe que es Dios
+venga muchas vezes a la oracion con co‐
+dicia del: y  es alma humilde, y no cu‐
+rioſa, ni intereſal de deleytes aunque ſean
+ſpirituales, no amiga de cruz, hara poco
+caſo del guo que da el demonio, lo que
+no podra an hazer  es ſpiritu de Dios,
+no tenerlo en muy mucho: mas coſa
+que pone el demonio como el es todo
+mentira con ver que el alma con el guo
+y deleyte ſe humia, que en eo ha de te‐
+ner mucho cuydado en todas las coſas de
+oracion, y guos, procurar ſalir humil‐
+de, no tornara muchas vezes el demonio
+viendo ſu perdida. Por eo y por otras</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1689" y="2665"/>
+	<Point x="1978" y="2654"/>
+	<Point x="1986" y="2750"/>
+	<Point x="1686" y="2750"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>muchas</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="622" y="3050"/>
+	<Point x="1582" y="3048"/>
+	<Point x="1582" y="3151"/>
+	<Point x="618" y="3141"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="925" y="98"/>
+	<Point x="925" y="227"/>
+	<Point x="1594" y="227"/>
+	<Point x="1594" y="98"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

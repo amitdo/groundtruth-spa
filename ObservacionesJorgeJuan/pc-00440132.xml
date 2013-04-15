@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440132">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T17:15:17</Created>
+	<LastChange>2011-12-19T11:38:44</LastChange></Metadata>
+	<Page imageFilename="00440132.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r16" index="1"/>
+	<RegionRefIndexed regionRef="r20" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1252" y="328"/>
+	<Point x="2017" y="337"/>
+	<Point x="2015" y="410"/>
+	<Point x="1250" y="403"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r15">
+	<Coords>
+	<Point x="659" y="1886"/>
+	<Point x="1158" y="1859"/>
+	<Point x="1250" y="1852"/>
+	<Point x="1363" y="1843"/>
+	<Point x="2448" y="1843"/>
+	<Point x="2445" y="2462"/>
+	<Point x="662" y="2459"/></Coords></TableRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="662" y="2481"/>
+	<Point x="2600" y="2481"/>
+	<Point x="2626" y="2479"/>
+	<Point x="2627" y="2497"/>
+	<Point x="2616" y="3366"/>
+	<Point x="2495" y="3367"/>
+	<Point x="1481" y="3372"/>
+	<Point x="1443" y="3373"/>
+	<Point x="1413" y="3375"/>
+	<Point x="1355" y="3373"/>
+	<Point x="641" y="3375"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La coluna quarta contiene las diferencias, que ſe ha‐
+an, entre las experiencias, y lo que ſe concluye por la
+ley de M. Mariotte; pero tales quales ſe vèn, ſon aun mu‐
+cho menores de lo que ſe debe eſperar en la praica: pues
+por poco que el Tubo de vidrio ſea mas angoo, ò ere‐
+cho àcia el extremo abierto, ſe ſeguirà el efeo de quedar
+el Mercurio mas alto en las experiencias, que lo que la ley
+diere, conforme à lo que nos ha ſucedido; y  ſe añade
+ademàs à eo las desigualdades interiores del miſmo Tu‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="credit">
+	<Coords>
+	<Point x="969" y="3988"/>
+	<Point x="1983" y="3988"/>
+	<Point x="1983" y="4104"/>
+	<Point x="969" y="4104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="677" y="487"/>
+	<Point x="675" y="452"/>
+	<Point x="681" y="419"/>
+	<Point x="702" y="420"/>
+	<Point x="805" y="422"/>
+	<Point x="1041" y="417"/>
+	<Point x="2603" y="421"/>
+	<Point x="2619" y="1775"/>
+	<Point x="2615" y="1804"/>
+	<Point x="2565" y="1812"/>
+	<Point x="2466" y="1819"/>
+	<Point x="2283" y="1818"/>
+	<Point x="1897" y="1820"/>
+	<Point x="1695" y="1818"/>
+	<Point x="1184" y="1836"/>
+	<Point x="1144" y="1841"/>
+	<Point x="1134" y="1845"/>
+	<Point x="680" y="1858"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En la ſegunda experiencia ſon,
+l = 31 pulgadas menos 7 lineas = 30 05
+a = 05 10⅔
+f = 17 03⅓
+b = 13 01⅔
+½b = 06 06⅚
+¼b² = 43 02—
+af = 101 09—
+(af+¼b²)½ = 12 00
+½b+(af+¼b²)½ = 18 06⅚ = y; luego
+x = 11 10⅙, menor que
+en la experiencia de 3½ lineas. Del miſmo mode ſe dedu‐
+ciràn los valores de x en las experiencias tercera, y quar‐
+ta, que ſon,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="page-number">
+	<Coords>
+	<Point x="762" y="349"/>
+	<Point x="762" y="415"/>
+	<Point x="915" y="415"/>
+	<Point x="915" y="349"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>114</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="catch-word">
+	<Coords>
+	<Point x="2462" y="3377"/>
+	<Point x="2467" y="3476"/>
+	<Point x="2598" y="3476"/>
+	<Point x="2600" y="3379"/>
+	<Point x="2487" y="3373"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bo,</Unicode></TextEquiv></TextRegion></Page></PcGts>

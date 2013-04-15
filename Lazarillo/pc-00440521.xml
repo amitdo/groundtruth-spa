@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440521">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T12:18:45</Created>
+	<LastChange>2011-07-05T14:26:04</LastChange></Metadata>
+	<Page imageFilename="00440521.tif" imageWidth="880" imageHeight="1599">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="36" y="107"/>
+	<Point x="597" y="96"/>
+	<Point x="696" y="96"/>
+	<Point x="759" y="115"/>
+	<Point x="777" y="1516"/>
+	<Point x="36" y="1521"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſalio por la puerta, diziendo : La-
+zaro mira por la caſa, en tanto que
+voy a oyr Mia, haz la cama, ve
+por agua al rio, que ea aqui baxo-
+cierra la puerta con llaue, no nos
+hurten algo, y pon la en el quicio,
+porque  yo veniere entretanto
+pueda entrar. Subioſe por la calle
+arriba, con tan gentil ayre, y talle
+que quien nole conociera, penſa-
+ra ſer pariente muy cercano del
+conde de Arcos, o alomenos ſu
+camarero. Bendito ſeays vos Se-
+ñor ( quede yo diziendo ) que
+days la enfermedad, y con ella el
+remedio. Quien encontrara a mi
+ſeñor que no pienſe ceno ano-
+che muy bien, y que ha dormido
+en muy buena cama, y aunque es
+demañana, no pienſe que ha bien
+almorzado ? grandes Señor ſon
+vueros ſecretos. Aquien no en-
+gañara aquella buena diſpocion
+y razonable capa, y ſayo? y quien.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="59" y="48"/>
+	<Point x="53" y="97"/>
+	<Point x="659" y="86"/>
+	<Point x="659" y="39"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LAZAR. DE TORM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="page-number">
+	<Coords>
+	<Point x="683" y="39"/>
+	<Point x="687" y="84"/>
+	<Point x="722" y="97"/>
+	<Point x="759" y="86"/>
+	<Point x="759" y="44"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>67</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="287" y="1551"/>
+	<Point x="289" y="1580"/>
+	<Point x="573" y="1582"/>
+	<Point x="573" y="1551"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439206">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T08:43:35</Created>
+	<LastChange>2011-05-12T13:39:51</LastChange></Metadata>
+	<Page imageFilename="00439206.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="614" y="78"/>
+	<Point x="1526" y="83"/>
+	<Point x="1538" y="154"/>
+	<Point x="604" y="157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="292" y="183"/>
+	<Point x="418" y="180"/>
+	<Point x="1702" y="166"/>
+	<Point x="1711" y="2587"/>
+	<Point x="1450" y="2584"/>
+	<Point x="1321" y="2613"/>
+	<Point x="276" y="2597"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>todo el regozĳo que podeys penſar, guardèlo, y ar-
+ropèlo, porque no ſe arromadiçae, y con ſer eo aſ,
+aun mi criado no lo acavava de creer, ni tocandole las
+manos. Parecia todo ſueño, y no poſble aver ſalido
+con eo: ſantiguavaſe con ambas manos de mi, por-
+que aunque quando en Roma me conociò , ſupo mi
+vida y tratos, teniendome por de ſutil ingenio, no ſe
+le alcançò que pudiera ſer tanto, y que las matava el
+en el ayre, pudiendo ſer muchos años mi maero, y
+aun tenerme ſeys por ſu aprendiz. Entonces le dixe:
+Amigo Sayabedra, ea es la verdadera ciencia, hur-
+tar n peligrar, y bien medrar: que la que por ca-
+mino me aveys predicado, ha do Alcoran de Maho-
+ma, hurtar una ſaya, y recebir cien açotes quien
+quiera ſe lo ſabe, mas es la data que el cargo: donde
+yo anduviere, bien podran los de vuero tamaño bajar
+el eandarte. De ai à dos dias, vino Aguilera por ſu
+parte una noche, aunque no fuera por Sayabedra, yo
+hiziera con boda y bodigos, el alto de Velez; mas por-
+que no me tuviee ſobre ojos en mala reputacion, y
+quedae con algun mal concepto de mi, diziendo, que
+quien mal trato uſa con otro, tambien lo uſarà con el;
+no quiſe por lo menos aventurar lo mas. Dixonos, que
+ſu amo eava muriendoſe del enojo, loco de imaginar
+como pudo ſer aqueo, y aun por la imaginacion le paſsò
+no ſer otra coſa que obra del demonio. Deſcorntèle cien
+eſcudos de los que avia recebido ya de ſu mano por los
+diez doblones, y dile lo que al juo le cupo conforme
+al concierto. Deſpues acometì à darle à Sayabedra ſu
+parte con la de la ganancia de los quinientos eſcudos, y
+dixo, que ai lo tenia cierto para quando lo huviee
+meneer, que pues el no tenia donde, lo guardae yo,
+haa mejor comodidad. Euvimos en Milan otros diez
+ò doze dias, aunque empre como aombrados y teme-
+roſos, por lo qual fuymos de acuerdo ſalir de ai para
+Genova, no dando nunca quenta de nuero viage à
+perſona de las del mundo, ni alguna ſupo de nuera</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1544" y="2590"/>
+	<Point x="1680" y="2594"/>
+	<Point x="1693" y="2658"/>
+	<Point x="1540" y="2656"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>boca,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="541" y="2868"/>
+	<Point x="1299" y="2871"/>
+	<Point x="1298" y="2933"/>
+	<Point x="526" y="2932"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="321" y="97"/>
+	<Point x="317" y="173"/>
+	<Point x="427" y="171"/>
+	<Point x="474" y="169"/>
+	<Point x="471" y="97"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>174</Unicode></TextEquiv></TextRegion></Page></PcGts>

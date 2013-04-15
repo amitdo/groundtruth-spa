@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672946">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 10.0</Creator>
+	<Created>2012-01-31T08:31:00</Created>
+	<LastChange>2012-03-05T06:27:14</LastChange></Metadata>
+	<Page imageFilename="00672946.tif" imageWidth="1925" imageHeight="2614">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="430" y="2231"/>
+	<Point x="448" y="315"/>
+	<Point x="1250" y="315"/>
+	<Point x="1334" y="314"/>
+	<Point x="1411" y="316"/>
+	<Point x="1523" y="316"/>
+	<Point x="1635" y="328"/>
+	<Point x="1606" y="2208"/>
+	<Point x="1107" y="2222"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>antiguamẽte ſe vſauã para cõtar. Y de aqui entre
+los Venecianos ſciſar es contar por la cuenta del
+axedrez,ſegun que ſe podra ver enlos arithmeti-
+cos modernos. A cerca delos Latinos ſe llama ta
+bula latrũcularia : y el juego, ludus latrũculari, ,
+ue latronum ludus, y los trebejos ſe llaman latro
+nes, latrũculos en forma diminutiua. Porque co-
+mo ee juego ſea inuẽcion belica llamaron les à
+los trebejos deos nombres. Que quieren dezir.
+Salteadores, ò ſalteadorcicos,por pareſcer,  aſsi
+andan como ſalteadores armãdo celadas, donde
+opprimã à ſus enemigos. Porque de los hombres
+de guerra ſu oﬃcio es hazer emboſcadas,para ſal
+tear los enemigos: ſegun  nos lo maniﬁea Ver
+gilio,diziẽdo conueare iuuat prædas: &amp; viuere
+raptu. dize. Agrada nos ala gente de guerra traer
+caualgadas:y biuir de robos.Llamã le mas calcu-
+los,que quiere dezir en Eſpañol,trebejos:y viene
+de calculo,calculas verbo: porque como tẽgo di
+cho, antiguamẽte contauã cõ aquellas pedrezue
+las,poniẽdo con ellas la razõ, y memoria dela cuẽ
+ta, por no oluidarſe, y errar.Por lo qual demue-
+ran ſer ee juego de cuenta, como dexamos di-
+cho arriba. Cona prouar llamarſe a como aue
+mos dicho.Marcial enel 2. delos diichos. In-
+dioſorũ  ludis bella latronũ. Quiere dezir. Si jue
+gas ee juego, que es como guerra de ſalteadores</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="marginalia">
+	<Coords>
+	<Point x="273" y="2014"/>
+	<Point x="273" y="2056"/>
+	<Point x="415" y="2056"/>
+	<Point x="415" y="2014"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Marcial.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="marginalia">
+	<Coords>
+	<Point x="284" y="1248"/>
+	<Point x="284" y="1297"/>
+	<Point x="435" y="1297"/>
+	<Point x="435" y="1248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Virgilio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="668" y="227"/>
+	<Point x="668" y="306"/>
+	<Point x="1377" y="306"/>
+	<Point x="1377" y="227"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro dela inuencion liberal</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1497" y="2220"/>
+	<Point x="1497" y="2300"/>
+	<Point x="1609" y="2300"/>
+	<Point x="1609" y="2220"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion></Page></PcGts>

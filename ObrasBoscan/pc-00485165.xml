@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485165">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T13:20:32</Created>
+	<LastChange>2011-05-12T13:41:00</LastChange></Metadata>
+	<Page imageFilename="00485165.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="586" y="76"/>
+	<Point x="1130" y="76"/>
+	<Point x="1138" y="104"/>
+	<Point x="1135" y="161"/>
+	<Point x="586" y="163"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="1269" y="2752"/>
+	<Point x="1436" y="2749"/>
+	<Point x="1437" y="2838"/>
+	<Point x="1272" y="2836"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P iĳ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="632" y="3024"/>
+	<Point x="1414" y="3024"/>
+	<Point x="1414" y="3093"/>
+	<Point x="632" y="3093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="393" y="176"/>
+	<Point x="1454" y="181"/>
+	<Point x="1472" y="1023"/>
+	<Point x="1462" y="1781"/>
+	<Point x="1408" y="1780"/>
+	<Point x="1403" y="1991"/>
+	<Point x="1542" y="1991"/>
+	<Point x="1540" y="2102"/>
+	<Point x="1442" y="2102"/>
+	<Point x="1445" y="2288"/>
+	<Point x="1386" y="2288"/>
+	<Point x="1393" y="2593"/>
+	<Point x="1475" y="2593"/>
+	<Point x="1474" y="2675"/>
+	<Point x="1586" y="2676"/>
+	<Point x="1587" y="2766"/>
+	<Point x="1458" y="2763"/>
+	<Point x="1452" y="2745"/>
+	<Point x="1240" y="2746"/>
+	<Point x="1221" y="2763"/>
+	<Point x="390" y="2800"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y ai como la traornaua el agua,
+Lleuandola en ſu fuerça la corriente,
+Su lengua fria, Euridice, amaua:
+Ah cuitada d'Euridice, boluia
+A dezir, con el alma que ſe le iua.
+Ai las fuertes peñas reſpondian:
+Con el retumbo, Euridice, ſonando
+Eo dixo Proteo, y echoſe luego
+De la peña en la mar haa lo hondo,
+Mordiendoſe las manos de deſpecho:
+Y con ea ſu rauia acordo d'irſe,
+A Neptuno, a quexarſe de  miſmo:
+Por que ſufrir podia los trabajos,
+Que importunos le dauã, cada dia.
+Y ai con ee ﬁn, determinado
+Caminando tres dias ſo las aguas,
+Que'n ſu carro no quiſo d'aﬂigido,
+Arribo alos palacios del rey grande.
+Donde vio multitud d' vmida gente,
+Guardando al derredor la real caſa:
+Todos en vee s'inclinaron luego,
+Señalando plazer de ſu venida:
+Mas deſpues viendo el ceño deabrido,
+Y el deſcontentamiento que trahia,
+Boluieron ſobre  con gran lencio,
+Mirandoſe los vnos a los otros,
+Alguna fuerte nouedad temiendo.
+Neptuno 'aua dentro retirado,
+Con Thetis y Nereo y con Eolo,
+Que vino a defenderſe delas quexas,
+Que daua en contra del el padre Oceano.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1188" y="66"/>
+	<Point x="1188" y="171"/>
+	<Point x="1666" y="171"/>
+	<Point x="1666" y="66"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. XCIX.</Unicode></TextEquiv></TextRegion></Page></PcGts>

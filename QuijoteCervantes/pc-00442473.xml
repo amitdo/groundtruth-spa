@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442473">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T12:34:47</Created>
+	<LastChange>2012-03-12T14:12:03</LastChange></Metadata>
+	<Page imageFilename="00442473.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="372" y="94"/>
+	<Point x="1094" y="89"/>
+	<Point x="1090" y="181"/>
+	<Point x="374" y="194"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="106" y="208"/>
+	<Point x="628" y="200"/>
+	<Point x="1076" y="198"/>
+	<Point x="1452" y="212"/>
+	<Point x="1456" y="2149"/>
+	<Point x="1072" y="2148"/>
+	<Point x="924" y="2146"/>
+	<Point x="902" y="2158"/>
+	<Point x="832" y="2161"/>
+	<Point x="89" y="2162"/>
+	<Point x="94" y="738"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>plicò don Quixote, porque del meſmo, y por los
+meſmos paos que eo he contado, ſuben y han ſu‐
+bido los cauaeros andantes, a ſer Reyes y Empera‐
+dores. Solo falta agora mirar, que Rey de los Chriſ-
+tianos, o de los Paganos tenga guerra, y tẽga hija her
+moſa: pero tiempo aura para penſar eo. Pues como
+te tengo dicho, primero ſe ha de cobrar fama por
+otras partes, que ſe acuda a la Corte. Tãbien me falta
+otra coſa, que pueo caſo, que ſe hae Rey con gue
+rra, y con hija hermoſa, y que yo aya cobrado fama
+increyble por todo el vniuerſo, no ſe yo como ſe po
+dia haar,  yo ſea de linage de Reyes, o por lo me‐
+nos primo ſegundo de Emperador? Porque no me
+querra el Rey dar a ſu hija por muger, no ea pri‐
+mero muy enterado en eo, aun mas lo merezcan
+mis famoſos hechos. Aſsi  por ea falta, temo per-
+der lo que mi braço tiene bien merecido: biẽ es ver-
+dad, que yo ſoy hijodalgo, de ſolar conocido, de poſ
+ſeſsiõ y propriedad, y he devẽgar quiniẽtos ſueldos:
+y podria ſer que el ſabio, que eſcriuiee mi hioria,
+deindae de tal manera mi parẽtela y decẽdencia,
+que me haae, quinto o ſeo nieto de Rey. Por
+te hago ſaber Sancho, que ay dos maneras de lina-
+ges en el mundo, vnos que traen y derriban ſu decẽ-
+dencia de Principes y Monarcas, a quien poco a po‐
+co el tiempo ha deshecho, y han ac abado en punta.
+como piramide puea al reues. Otros tuuieron prin
+cipio de gente baxa, y van ſubiendo de grado en gra
+do, haa egar a ſer grandes ſeñores. Demanera
+que eà la diferencia, en que vnos fueron, que ya
+no ſon, y otros ſon, que ya no fueron, y podria ſer
+yodeos. que deſpues de aueriguado vuiee do mi</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="457" y="2301"/>
+	<Point x="1128" y="2301"/>
+	<Point x="1128" y="2356"/>
+	<Point x="457" y="2356"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1268" y="104"/>
+	<Point x="1268" y="197"/>
+	<Point x="1393" y="197"/>
+	<Point x="1393" y="104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>99</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1198" y="2154"/>
+	<Point x="1198" y="2221"/>
+	<Point x="1396" y="2221"/>
+	<Point x="1396" y="2154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>princi-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="922" y="2153"/>
+	<Point x="922" y="2226"/>
+	<Point x="1058" y="2226"/>
+	<Point x="1058" y="2153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N 3</Unicode></TextEquiv></TextRegion></Page></PcGts>

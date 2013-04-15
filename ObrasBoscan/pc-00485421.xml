@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485421">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T00:50:32</Created>
+	<LastChange>2011-05-12T13:41:31</LastChange></Metadata>
+	<Page imageFilename="00485421.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="signature-mark">
+	<Coords>
+	<Point x="1224" y="2793"/>
+	<Point x="1508" y="2793"/>
+	<Point x="1508" y="2890"/>
+	<Point x="1224" y="2890"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HH iiJ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="631" y="3028"/>
+	<Point x="1384" y="3028"/>
+	<Point x="1384" y="3095"/>
+	<Point x="631" y="3095"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="413" y="218"/>
+	<Point x="1097" y="209"/>
+	<Point x="1623" y="197"/>
+	<Point x="1621" y="2750"/>
+	<Point x="438" y="2754"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Forceja: con quien quedo, ear le manda
+Como lebrel de Irlanda: generoſo
+Que'l jauali cerdoſo: y ﬁero mira
+Rebatee: ſoſpira: fuerça: y riñe:
+Y apenas le coriñe: el atadura:
+Que'l dueño con cordura: mas aprieta.
+Ai eaua perfeta: y bien labrada
+La imagen ﬁgurada de Fernando:
+Que quien ai mirando lo euuiera:
+Que era dea manera: lo juzgara:
+Reſplandeciente y clara, de ſu gloria
+Pintada la vitoria, ſe moraua
+A Cſar abraçaua: y no parando
+Los braços a Fernando: echaua al cueo.
+El moraua d'aqueo, ſentimiento:
+Por ſer el vencimiento, tan holgado.
+Eaua ﬁgurado, vn carro eraño:
+Con el deſpojo: y daño, dela gente
+Barbara, y juntamente, ai pintados
+Catiuos amarrados: a las ruedas:
+Con abitos, y ſedas: variadas.
+Lanças rotas, celadae: y vanderas:
+Armaduras ligeras, de los braços
+Eſcudos en pedaços, diuididos:
+Vieras ai cogidos, en tropheo.
+Con que'l comun deeo, y voluntades:
+De tierras, y ciudades, ſe alegraua.
+Tras eo blanqueaua, falda, y ſeno:
+Con velas al Tirreno: del armada
+Sublime, y enſalçada, y glorioſa:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="524" y="113"/>
+	<Point x="1098" y="92"/>
+	<Point x="1094" y="204"/>
+	<Point x="524" y="211"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ QVARTO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="1115" y="96"/>
+	<Point x="1629" y="87"/>
+	<Point x="1631" y="184"/>
+	<Point x="1121" y="195"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. CCXXVI.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444425">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:08:38</Created>
+	<LastChange>2011-12-19T11:39:44</LastChange></Metadata>
+	<Page imageFilename="00444425.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="352" y="90"/>
+	<Point x="1550" y="90"/>
+	<Point x="1550" y="228"/>
+	<Point x="352" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="138" y="235"/>
+	<Point x="1423" y="246"/>
+	<Point x="1569" y="258"/>
+	<Point x="1793" y="258"/>
+	<Point x="1746" y="2656"/>
+	<Point x="1340" y="2652"/>
+	<Point x="140" y="2711"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mas que cabia en ſu animo que era baxo, en
+viendoſe con el le dio vna trieza, que poco
+a poco ſe vino a morir de puro afﬂigido, y
+cuydadoſo de no ſaber que hazer del, no le
+haara junto, no que poco a poco ſe le fue-
+ran dando, y ſuentãdo con eo, biuiera mas
+contento que endo pobre, y no le coara
+la vida. O riqueza de los pobres, y que admi-
+rablemente ſabeys ſuentar las almas, y n
+ vean tã grãdes riquezas, poco a poco ſe las
+vays morando. Quãdo yo veo vna Mage-
+ad tã grãde diſsimulada en coſa tã poca, co-
+mo es la hoia: es aſsi  deſpues aca a mi me
+admira ſabiduria tã grãde, y no ſe como me
+da el Señor animo y esfuerço para egarme a
+el,  el  me ha hecho tã grãdes mercedes, y
+haze, no me le diee, ni ſeria poſsible poderlo
+diſsimular, ni dexar de dezir a bozes tã grãdes
+marauias. Pues  ſẽtira vna miſerable como
+yo cargada de abominaciones, y  cõ tã poco
+temor de Dios ha gaado ſu vida, de verſe e
+gar a ee Señor de tã gran Magead, quãdo
+quiere  mi alma le vea? como ha de jũtar bo
+ca  tãtas palabras ha hablado cõtra el miſmo
+Señor, a aquel cuerpo glorioſsimo eno de
+limpieza y de piedad? que duele mucho mas y
+afﬂige el alma por no le auer ſeruido el amor</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1544" y="2664"/>
+	<Point x="1720" y="2664"/>
+	<Point x="1718" y="2770"/>
+	<Point x="1547" y="2773"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="614" y="3061"/>
+	<Point x="1571" y="3066"/>
+	<Point x="1567" y="3156"/>
+	<Point x="605" y="3157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1576" y="119"/>
+	<Point x="1566" y="192"/>
+	<Point x="1561" y="246"/>
+	<Point x="1747" y="247"/>
+	<Point x="1742" y="196"/>
+	<Point x="1738" y="119"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>499</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1283" y="2661"/>
+	<Point x="1285" y="2764"/>
+	<Point x="1471" y="2764"/>
+	<Point x="1477" y="2659"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ii 2</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444410">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T11:36:39</Created>
+	<LastChange>2011-12-19T11:39:43</LastChange></Metadata>
+	<Page imageFilename="00444410.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="941" y="100"/>
+	<Point x="1009" y="100"/>
+	<Point x="1581" y="98"/>
+	<Point x="1581" y="224"/>
+	<Point x="947" y="222"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="413" y="250"/>
+	<Point x="2039" y="239"/>
+	<Point x="2054" y="2656"/>
+	<Point x="1787" y="2651"/>
+	<Point x="1695" y="2658"/>
+	<Point x="398" y="2703"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>quien es razon lo traya contino en conten-
+tar a Dios y aborecer el mundo, que le pue-
+da traer tan grande en contẽtar a los que vi-
+uen en el, en eas coſas que tantas vezes ſe
+mudan, no ſe como, aun  ſe pudieran aun
+deprender de vna vez paara, mas aun para
+titulos de cartas es ya meneer aya cathedra
+adonde ſe lea como ſe ha de hazer a manera
+de dezir, porque ya ſe dexa papel de vna par-
+te, ya de otra, ya quien no ſe ſolia poner ma-
+gniﬁco, ſe ha de poner iure, yo no ſe en
+que ha de parar, porque aun no he yo cin-
+quenta años, y en lo que he biuido he vio
+tantas mudãças que no ſe biuir. Pues los que
+agora nacen y biuieren muchos que han de
+hazer? por cierto yo he laima a gente ſpiri-
+tual que ea obligada a ear en el mundo
+por algunos ſantos ﬁnes, que es terrible Ia✠
+que en eo euan. Si ſe pudieen concertar
+todos y hazerſe ignorantes, y querer que los
+tengan por tales en eas ſciencias, de mucho
+trabajo ſe quitarian. Mas en que bouerias
+me he metido, por tratar en las grandezas
+de Dios he venido a hablar de las baxezas
+del mundo, pues el Señor me ha hecho mer-
+ced en auerle dexado, quiero ya ſalir del, aa
+ſe auengan los que ſuentan con tanto tra-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="622" y="3067"/>
+	<Point x="1566" y="3067"/>
+	<Point x="1566" y="3152"/>
+	<Point x="622" y="3152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="441" y="128"/>
+	<Point x="441" y="240"/>
+	<Point x="622" y="241"/>
+	<Point x="632" y="137"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>484</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1786" y="2655"/>
+	<Point x="1781" y="2769"/>
+	<Point x="1983" y="2769"/>
+	<Point x="1983" y="2660"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bajo</Unicode></TextEquiv></TextRegion></Page></PcGts>

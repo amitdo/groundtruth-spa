@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443807">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T04:30:09</Created>
+	<LastChange>2010-12-23T13:51:47</LastChange></Metadata>
+	<Page imageFilename="00443807.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="383" y="73"/>
+	<Point x="549" y="73"/>
+	<Point x="549" y="166"/>
+	<Point x="383" y="166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>794</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="911" y="47"/>
+	<Point x="1445" y="47"/>
+	<Point x="1445" y="145"/>
+	<Point x="911" y="145"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Declaracion de la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="375" y="183"/>
+	<Point x="1869" y="192"/>
+	<Point x="1901" y="194"/>
+	<Point x="1863" y="2618"/>
+	<Point x="1739" y="2621"/>
+	<Point x="330" y="2635"/>
+	<Point x="360" y="2077"/>
+	<Point x="377" y="1711"/>
+	<Point x="393" y="1400"/>
+	<Point x="377" y="1316"/>
+	<Point x="379" y="1224"/>
+	<Point x="369" y="439"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>coſa, de la manera que tu padre eàs en mi i yo en ti
+a eos en noſotros ſean una miſma coſa: i yo la clari-
+dad que me has dado he dado a eos, para que ſean
+una coſa como noſotros ſomos una meſma coſa; yo en
+eos i tu en mi, porque ſean perfetos en uno; porque
+conozca el mundo que tu me embiae, i los amae co-
+mo me amae a mi, que es comunicandoles el meſmo
+amor que al Hijo, aunque no naturalmente como al
+Hijo, no, como avemos dicho, por unidad i transfor-
+macion de amor: como tampoco ſe entiende aqui, quie
+re dezir el Hijo al Padre, que ſean los Santos una co-
+ſa eſencial i naturalmente como lo ſon el Padre i el Hi
+jo, no que lo ſean por union de amor, como el Padre
+i el Hijo ean en unidad de amor. Dedonde las almas
+eſos meſmos bienes poſeen por participacion que el
+por naturaleza: por lo cual verdaderamente ſon dioſes
+por participacion ſemejantes i compañeros ſuyos de
+Dios. De donde San Pedro dixo: Gratia vobis, &amp; pax
+adimpleatur in cognitione Dei, &amp; Chrii Ieſu Domini
+nori: quomodo omnia nobis divina virtutis ſu, qu ad
+vitam, &amp; pietatem donata ſunt, per cognitionem eius, qui
+vocavit nos propria gloria, &amp; virtute, per quem maxima,
+&amp; pretioſa nobis promia donavit, ut per hc efﬁciamini
+divin conſortes natura, que quiere dezir: Gracia i paz
+ſea cumplida i perfeta en voſotros, en el conocimiento
+de Dios i de Ieſu Crio nuero Señor, de la manera 
+nos ſon dadas todas las coſa? de ſu divina virtud, para
+la vida i la piedad, por el conocimiento de aquel que
+nos amò con ſu procio gloria i virtud, por el cual mui
+grandes i precioſas promeſas nos prometio i dio, para
+que por eas coſas ſeamos hechos compañeros de la
+divina naturaleza, lo cual es de la manera que dixi-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1696" y="2627"/>
+	<Point x="1829" y="2624"/>
+	<Point x="1829" y="2679"/>
+	<Point x="1694" y="2679"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="779" y="2939"/>
+	<Point x="1412" y="2939"/>
+	<Point x="1412" y="2994"/>
+	<Point x="779" y="2994"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>©Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="marginalia">
+	<Coords>
+	<Point x="109" y="1437"/>
+	<Point x="109" y="1549"/>
+	<Point x="374" y="1549"/>
+	<Point x="374" y="1437"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. Pet . 1.</Unicode></TextEquiv></TextRegion></Page></PcGts>

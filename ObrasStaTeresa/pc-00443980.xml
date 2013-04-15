@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443980">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T11:13:49</Created>
+	<LastChange>2011-12-19T11:39:18</LastChange></Metadata>
+	<Page imageFilename="00443980.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="491" y="124"/>
+	<Point x="664" y="124"/>
+	<Point x="669" y="242"/>
+	<Point x="500" y="247"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>52	</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="487" y="253"/>
+	<Point x="796" y="256"/>
+	<Point x="831" y="243"/>
+	<Point x="1012" y="248"/>
+	<Point x="2079" y="251"/>
+	<Point x="2067" y="2636"/>
+	<Point x="2028" y="2650"/>
+	<Point x="1804" y="2654"/>
+	<Point x="1733" y="2696"/>
+	<Point x="1337" y="2703"/>
+	<Point x="1323" y="2701"/>
+	<Point x="1296" y="2698"/>
+	<Point x="580" y="2694"/>
+	<Point x="560" y="2698"/>
+	<Point x="448" y="2703"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>impoſsible, me parece, perſeuerar diez y
+ocho años que pae ee trabajo y eas
+grandes ſequedades, por no poder co‐
+mo digo diſcurrir. En todos eos, no
+era acabando de comulgar, jamas oſaua
+començar a tener oracion n vn libro,
+que tanto temia mi alma ear n el en
+oracion, como  con mucha gente fuera
+a pelear. Con ee remedio que era como
+vna compañia, o eſcudo en que auia de
+recebir los golpes de los muchos penſa‐
+mientos, andaua conſolada: porque la
+ſequedad no era lo ordinario, mas
+era empre quando me faltaua libro,
+que era luego desbaratada el alma, y los
+penſamientos perdidos con eo los comen-
+çaua a recoger, y como por halago euaua
+el alma: y muchas vezes en abriendo el
+libro, no era meneer mas: otras leya
+poco, otras mucho conforme a la merced
+que el Señor me hazia. Pareciame a mi en
+ee principio que digo que teniendo yo li‐
+bros, y como tener ſoledad, que no auria
+peligro que me ſacae de tanto bien: y creo
+con el fauor de Dios fuera an,  tuuiera
+maero, o perſona que me auiſara de hu-
+yr las ocaones en los principios, y me hi-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1836" y="2661"/>
+	<Point x="2050" y="2661"/>
+	<Point x="2050" y="2784"/>
+	<Point x="1836" y="2784"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ziera</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="616" y="3035"/>
+	<Point x="1591" y="3035"/>
+	<Point x="1591" y="3146"/>
+	<Point x="616" y="3146"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="988" y="101"/>
+	<Point x="988" y="216"/>
+	<Point x="1694" y="216"/>
+	<Point x="1694" y="101"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

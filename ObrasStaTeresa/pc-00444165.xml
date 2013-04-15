@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444165">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:06:13</Created>
+	<LastChange>2011-12-19T11:39:29</LastChange></Metadata>
+	<Page imageFilename="00444165.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="334" y="64"/>
+	<Point x="1466" y="68"/>
+	<Point x="1462" y="106"/>
+	<Point x="1464" y="180"/>
+	<Point x="342" y="190"/>
+	<Point x="320" y="186"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="140" y="196"/>
+	<Point x="1742" y="206"/>
+	<Point x="1760" y="2604"/>
+	<Point x="1748" y="2616"/>
+	<Point x="1651" y="2612"/>
+	<Point x="1571" y="2622"/>
+	<Point x="1467" y="2638"/>
+	<Point x="1435" y="2639"/>
+	<Point x="176" y="2658"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Yo eo he vio por mi. Dirame v.m. que co-
+mo dura alguna vez tantas horas el arroba-
+miento? Lo que paa por mi muchas vezes
+es, que como dixe en la oracion paada goza
+ſe con interualos, muchas vezes ſe engolfa el
+alma, o la engolfa el Señor en , por mejor
+dezir, e teniendola en vn poca, quedaſe con
+ſola la voluntad. Pareceme es ee buicio de
+eotras dos potencias, como el que tiene vna
+lenguezia de eos reloges de ſol, que nun-
+ca para, mas quando el ſol de juicia quiere,
+hazelas detener. Eo digo que es poco rato,
+mas como fue grande el impetu, y Ieuanta-
+miento de ſpiritu, aunque eas tornen a bu-
+irſe, queda engolfada la voluntad, y haze co-
+mo ſeñora del todo aquea operacion en el
+cuerpo: porque ya que las otras dos potẽcias
+buidoras la quieran eoruar, de los enemi-
+gos los menos, no la eoruen tambien los ſen
+tidos: y an haze que een ſuſpendidos por-
+que lo quiere an el Señor, y por la mayor
+parte ean cerrados los ojos, aunque no que-
+ramos cerrarIos, y  abiertos alguna vez, co-
+mo ya dixe, no atina ni aduierte lo que vee.
+Aqui es mucho menos lo que puede hazer
+de , para que quando ſe tornaren las poten-
+cias a juntar no aya tanto que hazer, por eo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1464" y="2644"/>
+	<Point x="1642" y="2620"/>
+	<Point x="1747" y="2639"/>
+	<Point x="1742" y="2729"/>
+	<Point x="1462" y="2731"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a quien</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="614" y="3076"/>
+	<Point x="1567" y="3076"/>
+	<Point x="1567" y="3151"/>
+	<Point x="614" y="3151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1556" y="88"/>
+	<Point x="1556" y="198"/>
+	<Point x="1728" y="198"/>
+	<Point x="1728" y="88"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>237</Unicode></TextEquiv></TextRegion></Page></PcGts>

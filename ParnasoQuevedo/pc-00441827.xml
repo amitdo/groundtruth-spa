@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441827">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T09:58:00</Created>
+	<LastChange>2011-07-05T14:26:34</LastChange></Metadata>
+	<Page imageFilename="00441827.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r24" index="1"/>
+	<RegionRefIndexed regionRef="r13" index="2"/>
+	<RegionRefIndexed regionRef="r29" index="3"/>
+	<RegionRefIndexed regionRef="r14" index="4"/>
+	<RegionRefIndexed regionRef="r26" index="5"/>
+	<RegionRefIndexed regionRef="r28" index="6"/>
+	<RegionRefIndexed regionRef="r30" index="7"/>
+	<RegionRefIndexed regionRef="r16" index="8"/>
+	<RegionRefIndexed regionRef="r22" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="906" y="119"/>
+	<Point x="1396" y="119"/>
+	<Point x="1396" y="229"/>
+	<Point x="906" y="229"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ERATO,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="heading">
+	<Coords>
+	<Point x="832" y="1225"/>
+	<Point x="1480" y="1225"/>
+	<Point x="1480" y="1322"/>
+	<Point x="832" y="1322"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MADRIGAL IV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="680" y="1548"/>
+	<Point x="600" y="1362"/>
+	<Point x="1861" y="1361"/>
+	<Point x="1857" y="1990"/>
+	<Point x="550" y="1990"/>
+	<Point x="550" y="1530"/>
+	<Point x="611" y="1529"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vando al eſpejo miras
+El geo hermoſo, Flori, con que admiras,
+Honra, i gloria de el ſuelo,
+De eſpejo le haces Cielo;
+Pues endo, como el Cielo, tranſparente,
+A ſu Luna, creciente
+Ia de ſplendor, añades raios rojos,
+Sol con tu cara, Erellas con tus ojos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="credit">
+	<Coords>
+	<Point x="703" y="3125"/>
+	<Point x="1470" y="3125"/>
+	<Point x="1470" y="3198"/>
+	<Point x="703" y="3198"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="catch-word">
+	<Coords>
+	<Point x="1919" y="2793"/>
+	<Point x="2083" y="2793"/>
+	<Point x="2083" y="2906"/>
+	<Point x="1919" y="2906"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I ia</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="page-number">
+	<Coords>
+	<Point x="267" y="132"/>
+	<Point x="267" y="254"/>
+	<Point x="464" y="254"/>
+	<Point x="464" y="132"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>234</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="541" y="245"/>
+	<Point x="1867" y="245"/>
+	<Point x="1867" y="1038"/>
+	<Point x="541" y="1038"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La Noche alegres, quando en Cielo, i Tierra
+Tantos ojos nos abre, como cierra:
+Fueramos cada inante
+Nueva amada, i amante:
+I an tendria en ﬁrmeca tan crecida
+La Muerte eorvo, i ſuſpenon la Vida:
+I vieran nueras bocas,
+En ramos de eas rocas
+Ia las Aves conſortes, ia las viudas,
+Mas eloquentes ſer, quando mas mudas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="629" y="1074"/>
+	<Point x="1687" y="1074"/>
+	<Point x="1687" y="1209"/>
+	<Point x="629" y="1209"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Transformacion imaginaria.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="712" y="2029"/>
+	<Point x="1654" y="2029"/>
+	<Point x="1654" y="2167"/>
+	<Point x="712" y="2167"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Alma en priſsion de oro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="heading">
+	<Coords>
+	<Point x="841" y="2193"/>
+	<Point x="1490" y="2193"/>
+	<Point x="1490" y="2290"/>
+	<Point x="841" y="2290"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MADRIGAL V.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="552" y="2339"/>
+	<Point x="1753" y="2348"/>
+	<Point x="1753" y="2838"/>
+	<Point x="546" y="2842"/>
+	<Point x="546" y="2501"/>
+	<Point x="573" y="2501"/>
+	<Point x="574" y="2418"/>
+	<Point x="552" y="2418"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I alguna vez en laços de oro, bellos
+La red, Flori, encarcela tus cabellos;
+Digo io, quando miro igual theſoro,
+Que eà la red en red, i el oro en oro.
+Mas déxame admirado,
+Que ſea el ladron la carcel de el robado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="drop-capital">
+	<Coords>
+	<Point x="509" y="1390"/>
+	<Point x="508" y="1487"/>
+	<Point x="537" y="1500"/>
+	<Point x="561" y="1513"/>
+	<Point x="665" y="1538"/>
+	<Point x="601" y="1388"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Q</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="drop-capital">
+	<Coords>
+	<Point x="484" y="2361"/>
+	<Point x="548" y="2361"/>
+	<Point x="548" y="2415"/>
+	<Point x="552" y="2435"/>
+	<Point x="552" y="2475"/>
+	<Point x="484" y="2475"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>S</Unicode></TextEquiv></TextRegion></Page></PcGts>

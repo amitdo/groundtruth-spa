@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438941">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T02:30:02</Created>
+	<LastChange>2011-06-24T14:04:26</LastChange></Metadata>
+	<Page imageFilename="00438941.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r16" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r8" index="4"/>
+	<RegionRefIndexed regionRef="r13" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="385" y="60"/>
+	<Point x="1169" y="83"/>
+	<Point x="1168" y="167"/>
+	<Point x="388" y="151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ANOTACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="186" y="154"/>
+	<Point x="1168" y="173"/>
+	<Point x="1365" y="160"/>
+	<Point x="1362" y="424"/>
+	<Point x="169" y="406"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Portraer el lugar de Horacio, donde todo
+eo ſe toma, aure de poner toda la Oda,
+ſacada por el miſmo que traduxo la otra.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="catch-word">
+	<Coords>
+	<Point x="1167" y="2003"/>
+	<Point x="1353" y="2004"/>
+	<Point x="1354" y="2083"/>
+	<Point x="1295" y="2082"/>
+	<Point x="1161" y="2091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y creo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="credit">
+	<Coords>
+	<Point x="432" y="2083"/>
+	<Point x="996" y="2083"/>
+	<Point x="996" y="2140"/>
+	<Point x="880" y="2140"/>
+	<Point x="835" y="2135"/>
+	<Point x="736" y="2140"/>
+	<Point x="432" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="283" y="449"/>
+	<Point x="1319" y="463"/>
+	<Point x="1297" y="940"/>
+	<Point x="213" y="924"/>
+	<Point x="206" y="717"/>
+	<Point x="210" y="591"/>
+	<Point x="279" y="585"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L hombre juo, y bueno,
+el  de culpa eã, y manzia puro
+las manos en el ſeno,
+n dardo ni zagaya vaſeguro,
+y n euar cargada
+la aljaua de ſaeta enheruolada:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="drop-capital">
+	<Coords>
+	<Point x="171" y="452"/>
+	<Point x="279" y="453"/>
+	<Point x="277" y="574"/>
+	<Point x="169" y="574"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="118" y="972"/>
+	<Point x="1265" y="995"/>
+	<Point x="1327" y="1494"/>
+	<Point x="104" y="1475"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ovaya por la arena
+ardiente de la Libya ponçoñoſa,
+o vaya por do ſuena
+de Hydaſpes la corriente fabuloſa,
+o por la tierra cruda.
+de nieueena, y de piedad deſnuda,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="172" y="1505"/>
+	<Point x="1353" y="1523"/>
+	<Point x="1356" y="1993"/>
+	<Point x="230" y="2019"/>
+	<Point x="158" y="2008"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De mi ſe, que al encuentro
+mientras por las montañas vagueando
+mas de lo juo entro,
+ﬁn armas, y de Lagale cantando
+me vido, y mas ligero
+que rayo huyô vn lobo carnicero.</Unicode></TextEquiv></TextRegion></Page></PcGts>

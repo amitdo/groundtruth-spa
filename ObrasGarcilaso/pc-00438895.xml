@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438895">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T13:22:12</Created>
+	<LastChange>2011-06-24T14:04:23</LastChange></Metadata>
+	<Page imageFilename="00438895.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="444" y="22"/>
+	<Point x="1097" y="39"/>
+	<Point x="1104" y="120"/>
+	<Point x="444" y="110"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBRAS DE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1182" y="1954"/>
+	<Point x="1339" y="1950"/>
+	<Point x="1342" y="2030"/>
+	<Point x="1280" y="2025"/>
+	<Point x="1174" y="2025"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>muer</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="497" y="2092"/>
+	<Point x="980" y="2095"/>
+	<Point x="979" y="2140"/>
+	<Point x="491" y="2138"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="226" y="109"/>
+	<Point x="1033" y="137"/>
+	<Point x="1182" y="146"/>
+	<Point x="1184" y="426"/>
+	<Point x="1335" y="434"/>
+	<Point x="1339" y="515"/>
+	<Point x="1199" y="518"/>
+	<Point x="1201" y="578"/>
+	<Point x="1060" y="576"/>
+	<Point x="1033" y="589"/>
+	<Point x="1005" y="588"/>
+	<Point x="975" y="574"/>
+	<Point x="757" y="573"/>
+	<Point x="591" y="567"/>
+	<Point x="568" y="585"/>
+	<Point x="536" y="585"/>
+	<Point x="511" y="575"/>
+	<Point x="506" y="564"/>
+	<Point x="233" y="554"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>lanças rotas, celadas, y vanderas,
+armaduras ligeras de los braços,
+eſcudos en pedaços diuididos,
+vieras ai cogidos en trofeo,
+con que el comun deeo, y voluntades
+de tierras, y ciudades ſe alegraua.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="150" y="557"/>
+	<Point x="496" y="569"/>
+	<Point x="530" y="594"/>
+	<Point x="583" y="591"/>
+	<Point x="605" y="576"/>
+	<Point x="980" y="586"/>
+	<Point x="994" y="591"/>
+	<Point x="1013" y="590"/>
+	<Point x="1067" y="591"/>
+	<Point x="1203" y="592"/>
+	<Point x="1202" y="893"/>
+	<Point x="1274" y="892"/>
+	<Point x="1269" y="1103"/>
+	<Point x="1229" y="1108"/>
+	<Point x="1243" y="1276"/>
+	<Point x="1334" y="1277"/>
+	<Point x="1340" y="1362"/>
+	<Point x="1303" y="1358"/>
+	<Point x="1296" y="1653"/>
+	<Point x="1170" y="1656"/>
+	<Point x="1140" y="1960"/>
+	<Point x="197" y="1944"/>
+	<Point x="226" y="653"/>
+	<Point x="150" y="651"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tras eo blanqueaua falda, y ſeno,
+con velas, al Tyrano del armada
+ſublime, y enſalçada, y glorioſa:
+con la proa eſpumoſa las galeras,
+como nadantes ﬁeras, el mar cortan:
+haa que en ﬁn aportan; con corona
+de lauro a Barcelona, do cumplidos
+los votos ofrecidos, y deeos,
+y los grandes trofeos ya repueos,
+con mouimiento preos de ai luego
+en amoroſo fuego todo ardiendo,
+el Duque yua corriendo, y no paraua:
+Cataluña paaua, atras la dexa:
+ya de Aragon ſe alexa, y en Caia,
+n baxar de la a, los pies pone:
+el coraçon diſpone al alegria,
+que vezina tenia: y reſerena
+ſu roro, y enagena de ſus ojos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="marginalia">
+	<Coords>
+	<Point x="57" y="1172"/>
+	<Point x="57" y="1245"/>
+	<Point x="170" y="1245"/>
+	<Point x="177" y="1193"/>
+	<Point x="170" y="1172"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>195</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="marginalia">
+	<Coords>
+	<Point x="62" y="1300"/>
+	<Point x="62" y="1375"/>
+	<Point x="169" y="1375"/>
+	<Point x="169" y="1300"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>196</Unicode></TextEquiv></TextRegion></Page></PcGts>

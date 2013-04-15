@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438904">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T15:23:24</Created>
+	<LastChange>2011-06-24T14:04:24</LastChange></Metadata>
+	<Page imageFilename="00438904.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r10" index="0"/>
+	<RegionRefIndexed regionRef="r26" index="1"/>
+	<RegionRefIndexed regionRef="r42" index="2"/>
+	<RegionRefIndexed regionRef="r20" index="3"/>
+	<RegionRefIndexed regionRef="r36" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="504" y="2097"/>
+	<Point x="973" y="2098"/>
+	<Point x="979" y="2135"/>
+	<Point x="494" y="2138"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="173" y="73"/>
+	<Point x="883" y="69"/>
+	<Point x="881" y="153"/>
+	<Point x="173" y="164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GARCILASSO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1066" y="73"/>
+	<Point x="1142" y="73"/>
+	<Point x="1139" y="143"/>
+	<Point x="1067" y="141"/>
+	<Point x="1066" y="128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>83</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="21" y="183"/>
+	<Point x="272" y="171"/>
+	<Point x="914" y="159"/>
+	<Point x="1014" y="146"/>
+	<Point x="1041" y="154"/>
+	<Point x="1064" y="154"/>
+	<Point x="1077" y="150"/>
+	<Point x="1092" y="154"/>
+	<Point x="1141" y="155"/>
+	<Point x="1142" y="217"/>
+	<Point x="942" y="224"/>
+	<Point x="924" y="241"/>
+	<Point x="890" y="226"/>
+	<Point x="519" y="233"/>
+	<Point x="512" y="249"/>
+	<Point x="495" y="254"/>
+	<Point x="474" y="240"/>
+	<Point x="75" y="247"/>
+	<Point x="79" y="258"/>
+	<Point x="65" y="269"/>
+	<Point x="42" y="254"/>
+	<Point x="25" y="254"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>quanto del cuerpo el alma acõpañada.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="0" y="1472"/>
+	<Point x="47" y="1471"/>
+	<Point x="68" y="1501"/>
+	<Point x="580" y="1490"/>
+	<Point x="643" y="1475"/>
+	<Point x="791" y="1468"/>
+	<Point x="838" y="1477"/>
+	<Point x="1189" y="1471"/>
+	<Point x="1190" y="1998"/>
+	<Point x="1014" y="1999"/>
+	<Point x="961" y="2017"/>
+	<Point x="925" y="1999"/>
+	<Point x="614" y="2001"/>
+	<Point x="577" y="2024"/>
+	<Point x="539" y="2024"/>
+	<Point x="490" y="2012"/>
+	<Point x="3" y="2012"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pero por mas que en mi ſu fuerça prueue,
+no tornara mi coraçon mudable:
+nunca diran jamas, que me remueue
+fortuna de vn eudio tan loable:
+Apolo, y las hermanas todas nueue
+me daran ocio, y lengua con que hable
+lo menos de lo que en tu ſer cupiere,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="1140" y="238"/>
+	<Point x="1139" y="335"/>
+	<Point x="1141" y="351"/>
+	<Point x="1142" y="404"/>
+	<Point x="1140" y="443"/>
+	<Point x="1139" y="444"/>
+	<Point x="1141" y="442"/>
+	<Point x="1052" y="451"/>
+	<Point x="1063" y="466"/>
+	<Point x="1122" y="475"/>
+	<Point x="1138" y="486"/>
+	<Point x="1140" y="514"/>
+	<Point x="1136" y="541"/>
+	<Point x="1134" y="541"/>
+	<Point x="1036" y="547"/>
+	<Point x="1008" y="636"/>
+	<Point x="1008" y="664"/>
+	<Point x="1014" y="772"/>
+	<Point x="1016" y="783"/>
+	<Point x="1015" y="846"/>
+	<Point x="1004" y="846"/>
+	<Point x="549" y="850"/>
+	<Point x="507" y="871"/>
+	<Point x="487" y="861"/>
+	<Point x="474" y="851"/>
+	<Point x="472" y="848"/>
+	<Point x="248" y="857"/>
+	<Point x="226" y="858"/>
+	<Point x="235" y="872"/>
+	<Point x="206" y="876"/>
+	<Point x="179" y="866"/>
+	<Point x="166" y="859"/>
+	<Point x="28" y="863"/>
+	<Point x="26" y="469"/>
+	<Point x="28" y="439"/>
+	<Point x="28" y="426"/>
+	<Point x="33" y="334"/>
+	<Point x="0" y="333"/>
+	<Point x="0" y="262"/>
+	<Point x="43" y="270"/>
+	<Point x="68" y="279"/>
+	<Point x="223" y="273"/>
+	<Point x="237" y="255"/>
+	<Point x="385" y="254"/>
+	<Point x="405" y="247"/>
+	<Point x="447" y="247"/>
+	<Point x="473" y="266"/>
+	<Point x="867" y="250"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y aun no ſe me ﬁgura, que me toca
+aquee oﬁcio ſolamente en vida,
+mas cõ la lẽgua muerta, y fria en la bo-
+pienſo mouer la voz a ti deuida, (ca
+libre mi alma de ſu erecha roca,
+por el Eygio lago conduzida
+celebrando te yrâ, y aquel ſonido
+harà parar las aguas del oluido.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="marginalia">
+	<Coords>
+	<Point x="1147" y="437"/>
+	<Point x="1239" y="434"/>
+	<Point x="1241" y="497"/>
+	<Point x="1143" y="497"/>
+	<Point x="1137" y="473"/>
+	<Point x="1139" y="453"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>203</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="signature-mark">
+	<Coords>
+	<Point x="713" y="2005"/>
+	<Point x="773" y="2005"/>
+	<Point x="875" y="2018"/>
+	<Point x="875" y="2082"/>
+	<Point x="697" y="2072"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="catch-word">
+	<Coords>
+	<Point x="1058" y="2009"/>
+	<Point x="1206" y="2003"/>
+	<Point x="1212" y="2082"/>
+	<Point x="1064" y="2079"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords>
+	<Point x="1151" y="853"/>
+	<Point x="1152" y="881"/>
+	<Point x="1153" y="881"/>
+	<Point x="1153" y="917"/>
+	<Point x="1154" y="917"/>
+	<Point x="1154" y="954"/>
+	<Point x="1155" y="954"/>
+	<Point x="1155" y="990"/>
+	<Point x="1156" y="990"/>
+	<Point x="1156" y="1027"/>
+	<Point x="1157" y="1027"/>
+	<Point x="1157" y="1063"/>
+	<Point x="1158" y="1063"/>
+	<Point x="1158" y="1099"/>
+	<Point x="1159" y="1099"/>
+	<Point x="1159" y="1136"/>
+	<Point x="1160" y="1136"/>
+	<Point x="1160" y="1172"/>
+	<Point x="1161" y="1172"/>
+	<Point x="1161" y="1209"/>
+	<Point x="1162" y="1209"/>
+	<Point x="1162" y="1245"/>
+	<Point x="1163" y="1245"/>
+	<Point x="1190" y="1257"/>
+	<Point x="1191" y="1278"/>
+	<Point x="1187" y="1284"/>
+	<Point x="1164" y="1318"/>
+	<Point x="1165" y="1318"/>
+	<Point x="1178" y="1334"/>
+	<Point x="1175" y="1348"/>
+	<Point x="1172" y="1351"/>
+	<Point x="1166" y="1391"/>
+	<Point x="1167" y="1391"/>
+	<Point x="1167" y="1427"/>
+	<Point x="1168" y="1427"/>
+	<Point x="1169" y="1448"/>
+	<Point x="1156" y="1458"/>
+	<Point x="456" y="1463"/>
+	<Point x="396" y="1482"/>
+	<Point x="176" y="1488"/>
+	<Point x="165" y="1468"/>
+	<Point x="4" y="1469"/>
+	<Point x="0" y="866"/>
+	<Point x="123" y="866"/>
+	<Point x="136" y="889"/>
+	<Point x="170" y="894"/>
+	<Point x="173" y="883"/>
+	<Point x="177" y="868"/>
+	<Point x="195" y="873"/>
+	<Point x="206" y="877"/>
+	<Point x="229" y="881"/>
+	<Point x="382" y="865"/>
+	<Point x="460" y="856"/>
+	<Point x="479" y="871"/>
+	<Point x="519" y="880"/>
+	<Point x="551" y="858"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mas la fortuna de mi malno harta,
+me aﬂige, y de vn trabajo en otro eua,
+ya de la patria, ya del bien me aparta,
+ya mi paciẽcia en mil maneras prueua:
+y lo que ento mas, es que la carta
+donde mi pluma en tu alabança mueua
+(poniẽdo en ſu lugar cuydados vanos)
+me quita, y me arrebata de las manos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="marginalia">
+	<Coords>
+	<Point x="1158" y="936"/>
+	<Point x="1256" y="936"/>
+	<Point x="1268" y="994"/>
+	<Point x="1161" y="989"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>204</Unicode></TextEquiv></TextRegion></Page></PcGts>

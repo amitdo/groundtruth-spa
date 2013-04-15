@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443103">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T12:24:35</Created>
+	<LastChange>2011-03-15T16:51:37</LastChange></Metadata>
+	<Page imageFilename="00443103.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r12" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1660" y="2800"/>
+	<Point x="1731" y="2798"/>
+	<Point x="1744" y="2777"/>
+	<Point x="1846" y="2780"/>
+	<Point x="1844" y="2849"/>
+	<Point x="1768" y="2850"/>
+	<Point x="1662" y="2852"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>unirſe</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="769" y="2935"/>
+	<Point x="1416" y="2935"/>
+	<Point x="1416" y="3000"/>
+	<Point x="769" y="3000"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="340" y="107"/>
+	<Point x="455" y="107"/>
+	<Point x="455" y="206"/>
+	<Point x="340" y="206"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>92</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="724" y="89"/>
+	<Point x="1509" y="89"/>
+	<Point x="1509" y="191"/>
+	<Point x="724" y="191"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subida del monte Carmelo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="335" y="228"/>
+	<Point x="1857" y="221"/>
+	<Point x="1849" y="2770"/>
+	<Point x="1741" y="2770"/>
+	<Point x="1724" y="2789"/>
+	<Point x="1541" y="2797"/>
+	<Point x="339" y="2813"/>
+	<Point x="347" y="2540"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dios? O que imagen le hareis, que ſe le parezca? Por
+ventura podra fabricar alguna eſcultura el herrero; ò
+el que labra el oro, podra ﬁgurarle con el oro; o el plate
+ro con laminas de plata? Por oﬁcial del hierro ſe entiẽ-
+de el Entendimiento; el cual tiene por oﬁcio, formar las
+inteligencias i deſnudarlas del hierro de las eſpecies i
+fantaas. Por el oﬁcio del oro entiendo la Voluntad;
+la cual tiene habilidad de recebir ﬁgura, i forma de de-
+leite, cauſado del oro del amor con que ama. Por el
+platero, que dize aqui, que no le ﬁgura con laminas
+de plata, ſe entiende la Memoria con ſu imaginacion,
+cuyas noticias, e imaginaciones, que puede ﬁngir i fa-
+bricar, bien propiamente ſe puede dezir, fon como la-
+minas de plata. I a es, como  dixera: Ni el Enten-
+dimiento con ſus inteligencias podra entender coſa ſe-
+mejante a el, ni la Voluntad podra guar deleite i ſua-
+vidad, que ſe parezca a la que es Dios; ni la Memo-
+ria pondra en la imaginacion noticias ni imagenes que
+le repreſente. Luego claro eà, que al Entendimiento
+ninguna deas noticias le pueden immediatamente en-
+caminar a Dios; i que para egar a el, antes ha de ir no
+entendiendo, que queriendo entender; i antes cegando-
+ſe, i poniendoſe en tiniebla, que abriendo los ojos para
+egar mas al Divino rayo. I de aqui es, que a la Contem
+placion por la cual el Entendimiento ſe ilura de Dios,
+aman Teologia Miica, que quiere dezir ſabiduria
+de Dios ſecreta; porque es ſecreta al miſmo Entendi-
+miento que la recibe. San Dionio la ama rayo de
+tiniebla. Del cual dize el Profeta Baruc: Viam ſa-
+pienti neſcier unt, neque commemorati ſunt ſemitas eius. No
+ai quien ſepa el camino dea, ni quien pueda penſar las
+ſendas dea. Luego claro eà que el Entendimiento ſe
+ha de cegar a todas las ſendas  el puede alcançar para</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="marginalia">
+	<Coords>
+	<Point x="89" y="2413"/>
+	<Point x="333" y="2414"/>
+	<Point x="335" y="2508"/>
+	<Point x="200" y="2509"/>
+	<Point x="205" y="2593"/>
+	<Point x="88" y="2592"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Raruc 3.
+23.</Unicode></TextEquiv></TextRegion></Page></PcGts>

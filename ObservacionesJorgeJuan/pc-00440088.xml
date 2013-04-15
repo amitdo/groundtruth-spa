@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440088">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T12:06:49</Created>
+	<LastChange>2011-12-19T11:38:40</LastChange></Metadata>
+	<Page imageFilename="00440088.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r28" index="1"/>
+	<RegionRefIndexed regionRef="r32" index="2"/>
+	<RegionRefIndexed regionRef="r22" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="893" y="296"/>
+	<Point x="1837" y="305"/>
+	<Point x="1843" y="381"/>
+	<Point x="885" y="382"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="409" y="401"/>
+	<Point x="423" y="389"/>
+	<Point x="2005" y="398"/>
+	<Point x="2064" y="417"/>
+	<Point x="2314" y="413"/>
+	<Point x="2305" y="703"/>
+	<Point x="409" y="696"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tronómico, que fuè del P. Feülée, para tomar alturas cor‐
+reſpondientes, y arreglar el Pendulo, y de un Teleſcópio
+de 16 pies, y medio del Piè de Rey de Parìs de largo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="catch-word">
+	<Coords>
+	<Point x="2043" y="3345"/>
+	<Point x="2266" y="3345"/>
+	<Point x="2266" y="3432"/>
+	<Point x="2043" y="3432"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ean-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="credit">
+	<Coords>
+	<Point x="969" y="4002"/>
+	<Point x="1973" y="4002"/>
+	<Point x="1973" y="4095"/>
+	<Point x="969" y="4095"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="page-number">
+	<Coords>
+	<Point x="2146" y="325"/>
+	<Point x="2146" y="402"/>
+	<Point x="2267" y="402"/>
+	<Point x="2267" y="325"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>71</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r3">
+	<Coords>
+	<Point x="365" y="740"/>
+	<Point x="2330" y="740"/>
+	<Point x="2330" y="1740"/>
+	<Point x="1899" y="1729"/>
+	<Point x="1868" y="1719"/>
+	<Point x="1831" y="1681"/>
+	<Point x="846" y="1674"/>
+	<Point x="820" y="1712"/>
+	<Point x="380" y="1704"/></Coords></TableRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="405" y="2987"/>
+	<Point x="536" y="2985"/>
+	<Point x="541" y="2959"/>
+	<Point x="837" y="2958"/>
+	<Point x="867" y="2936"/>
+	<Point x="1536" y="2951"/>
+	<Point x="2291" y="2979"/>
+	<Point x="2293" y="3090"/>
+	<Point x="1709" y="3108"/>
+	<Point x="1670" y="3140"/>
+	<Point x="1543" y="3137"/>
+	<Point x="1516" y="3156"/>
+	<Point x="1507" y="3157"/>
+	<Point x="1484" y="3156"/>
+	<Point x="1477" y="3137"/>
+	<Point x="1287" y="3133"/>
+	<Point x="1276" y="3147"/>
+	<Point x="1250" y="3164"/>
+	<Point x="1227" y="3144"/>
+	<Point x="646" y="3137"/>
+	<Point x="590" y="3143"/>
+	<Point x="389" y="3142"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En Cayambe hizo con M. Godin D. Antonio de Uoa en
+1736 las obſervaciones, que ſe guen.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r15">
+	<Coords>
+	<Point x="351" y="2011"/>
+	<Point x="563" y="2011"/>
+	<Point x="611" y="2050"/>
+	<Point x="721" y="2047"/>
+	<Point x="759" y="2002"/>
+	<Point x="2322" y="1993"/>
+	<Point x="2302" y="2968"/>
+	<Point x="1949" y="2959"/>
+	<Point x="1425" y="2940"/>
+	<Point x="841" y="2895"/>
+	<Point x="814" y="2945"/>
+	<Point x="545" y="2946"/>
+	<Point x="512" y="2971"/>
+	<Point x="362" y="2968"/></Coords></TableRegion>
+	<TableRegion id="r21">
+	<Coords>
+	<Point x="373" y="3150"/>
+	<Point x="1209" y="3150"/>
+	<Point x="1250" y="3171"/>
+	<Point x="1282" y="3153"/>
+	<Point x="1468" y="3154"/>
+	<Point x="1483" y="3162"/>
+	<Point x="1539" y="3160"/>
+	<Point x="1554" y="3149"/>
+	<Point x="1680" y="3157"/>
+	<Point x="1718" y="3138"/>
+	<Point x="2312" y="3133"/>
+	<Point x="2316" y="3327"/>
+	<Point x="2240" y="3327"/>
+	<Point x="2220" y="3340"/>
+	<Point x="1761" y="3337"/>
+	<Point x="1666" y="3372"/>
+	<Point x="1489" y="3371"/>
+	<Point x="363" y="3385"/></Coords></TableRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="375" y="1727"/>
+	<Point x="838" y="1724"/>
+	<Point x="875" y="1710"/>
+	<Point x="1811" y="1725"/>
+	<Point x="1844" y="1741"/>
+	<Point x="2293" y="1750"/>
+	<Point x="2305" y="1952"/>
+	<Point x="729" y="1958"/>
+	<Point x="715" y="2015"/>
+	<Point x="592" y="2017"/>
+	<Point x="561" y="2002"/>
+	<Point x="391" y="2004"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En Quito hicimos con M. Godin las obſervaciones, que
+ſe guen, con un Teleſcópio de 18 pies de largo el año
+de 1736.</Unicode></TextEquiv></TextRegion></Page></PcGts>

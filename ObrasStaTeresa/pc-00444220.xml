@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444193">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:39:40</Created>
+	<LastChange>2011-12-19T11:39:32</LastChange></Metadata>
+	<Page imageFilename="00444193.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r13" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="616" y="3001"/>
+	<Point x="1583" y="2996"/>
+	<Point x="1579" y="3162"/>
+	<Point x="611" y="3162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="331" y="77"/>
+	<Point x="499" y="86"/>
+	<Point x="936" y="98"/>
+	<Point x="1498" y="89"/>
+	<Point x="1488" y="208"/>
+	<Point x="538" y="215"/>
+	<Point x="329" y="211"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="1540" y="121"/>
+	<Point x="1663" y="110"/>
+	<Point x="1714" y="104"/>
+	<Point x="1702" y="224"/>
+	<Point x="1540" y="212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>265</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="154" y="215"/>
+	<Point x="400" y="233"/>
+	<Point x="1486" y="224"/>
+	<Point x="1760" y="239"/>
+	<Point x="1760" y="2635"/>
+	<Point x="1416" y="2626"/>
+	<Point x="1352" y="2649"/>
+	<Point x="1248" y="2625"/>
+	<Point x="1232" y="2630"/>
+	<Point x="967" y="2637"/>
+	<Point x="157" y="2663"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ca egara a la verdadera pobreza de ſpiritu,
+que es, no buſcar conſuelo ni guo en la ora-
+cion, que los de la tierra ya ean dexados, 
+no conſolacion en los trabajos, por amor de
+el que empre biuio en eos, y ear en eos,
+y en las ſequedades quieta, aun algo ſe en-
+ta no para dar inquietud, y la pena que algu-
+nas perſonas, que  no ean ẽpre trabajan-
+do con el entendimiento, y con tener deuo-
+cion, pienſan  va todo perdido, como  por
+ſu trabajo ſe mereciee tanto bien . No digo
+que no ſe procure, y een con cuydado delãte
+de Dios, mas que  no pudieren tener aun vn
+buen penſamiento, como otra vez he dicho,
+que no ſe maten, eruos n prouecho ſomos,
+que pẽſamos poder? mas quiere el Señor que
+conozcamos eo, y andemos hechos aſnios,
+para traer la noria del agua que queda dicha,
+que aunque cerrados los ojos, y no enten-
+diendo lo que hazen, ſacaran mas que el hor-
+telano con toda ſu diligencia . Con libertad
+ſe ha de andar en ee camino, pueos en las
+manos de Dios,  ſu Magead nos quiere
+ſubir a ſer de los de ſu camara y ſecreto yr de
+buena gana, no ſeruir en oﬃcios baxos, y
+no ſentarnos en el mejor lugar, como he di-
+cho alguna vez . Dios tiene cuydado mas</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="signature-mark">
+	<Coords>
+	<Point x="1232" y="2635"/>
+	<Point x="1306" y="2655"/>
+	<Point x="1389" y="2660"/>
+	<Point x="1397" y="2668"/>
+	<Point x="1384" y="2735"/>
+	<Point x="1226" y="2760"/>
+	<Point x="1200" y="2662"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>R5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="catch-word">
+	<Coords>
+	<Point x="1528" y="2658"/>
+	<Point x="1549" y="2649"/>
+	<Point x="1724" y="2663"/>
+	<Point x="1750" y="2660"/>
+	<Point x="1724" y="2735"/>
+	<Point x="1515" y="2760"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion></Page></PcGts>

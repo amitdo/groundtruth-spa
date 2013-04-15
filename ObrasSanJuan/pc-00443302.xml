@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443302">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T15:21:41</Created>
+	<LastChange>2010-12-31T08:51:34</LastChange></Metadata>
+	<Page imageFilename="00443302.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="551" y="96"/>
+	<Point x="551" y="216"/>
+	<Point x="977" y="216"/>
+	<Point x="977" y="96"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro tercero.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1403" y="106"/>
+	<Point x="1403" y="200"/>
+	<Point x="1558" y="200"/>
+	<Point x="1558" y="106"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>291</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="35" y="245"/>
+	<Point x="22" y="2800"/>
+	<Point x="463" y="2794"/>
+	<Point x="962" y="2784"/>
+	<Point x="975" y="2784"/>
+	<Point x="994" y="2783"/>
+	<Point x="1095" y="2784"/>
+	<Point x="1125" y="2783"/>
+	<Point x="1529" y="2790"/>
+	<Point x="1537" y="243"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tivo i fuerça para eſo: mui bueno es, i entonces no ſolo
+no ſe han de evitar los tales mociones quando cauſan
+ea oraciõ i devociõ: mas antes ſe pueden aprovechar
+deas, i aun deben para tan ſanto exercicio; porque
+ai almas que ſe mueven mucho en Dios por los obje-
+tos ſenbles. Pero ha de aver mucho recato en eo
+mirando los efetos que de aì ſacan. Porque muchas
+vezes muchos Eſpirituales uſan de las dichas recrea-
+ciones de ſentidos con preteo de darſe à la ora-
+cion i a Dios; ies demanera, que mas ſe puede a-
+mar recreacion, que oracion, i daſe guo a  miſmo
+mas que a Dios. I aunque la intencion que tienen,
+parece que es para Dios, el efeto que cauſan, es para
+la recreacion ſentiva, en que ſacan mas flaqueza de
+imperfecion, que avivar la Voluntad, i entregarla a
+Dios. Por lo cual quiero poner aqui un documento,
+con que ſe vea, quando los dichos ſabores de los ſenti-
+dos hazen provecho, i quando no. I es, que todas las
+vezes, que oyendo mucas, ò otras coſas agradables,
+i oliendo ſuaves olores, ò guando algunos ſabores,
+i delicados toques, luego al primer movimiento ſe po-
+ne la noticia, i la aﬁcion de la Voluntad en Dios, dan-
+dole mas guo aquea noticia, que el motivo ſenſual
+que ſe le cauſa, i no gua del tal motivo, no por eſo es
+ſeñal, que ſaca prov echo de lo dicho, i  le ayuda lo tal
+ſentivo al Eſpiritu; i en ea manera ſe puede uſar, por
+que entonces rven los ſenbles para el ﬁn  Dios los
+criò i dio, que es para ſer por eos mas amado i conoci-
+do. I es aqui de ſaber, que aquel a quien eos ſenbles
+hazen el puro efeto Eſpiritual, que digo, no por eſo tie
+ne apetito, ni ſe le dà ca nada por eos; aunque quan-
+do ſe le ofrecen, le dan mucho guo por el guo que
+tengo dicho, que de Dios le cauſan: i a no ſe ſolicita</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="1008" y="2791"/>
+	<Point x="1006" y="2874"/>
+	<Point x="1145" y="2874"/>
+	<Point x="1141" y="2793"/>
+	<Point x="1100" y="2791"/>
+	<Point x="1044" y="2793"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1403" y="2800"/>
+	<Point x="1403" y="2887"/>
+	<Point x="1535" y="2887"/>
+	<Point x="1535" y="2800"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>por</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="774" y="2929"/>
+	<Point x="774" y="2993"/>
+	<Point x="1422" y="2993"/>
+	<Point x="1422" y="2929"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

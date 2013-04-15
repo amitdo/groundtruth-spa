@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443994">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T00:45:31</Created>
+	<LastChange>2011-12-19T11:39:19</LastChange></Metadata>
+	<Page imageFilename="00443994.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="426" y="221"/>
+	<Point x="2087" y="221"/>
+	<Point x="2103" y="2619"/>
+	<Point x="1907" y="2624"/>
+	<Point x="1885" y="2640"/>
+	<Point x="1859" y="2640"/>
+	<Point x="1850" y="2627"/>
+	<Point x="426" y="2658"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>por buena, que traya temor me auia de faltar
+la paciencia: y an quede muy contenta de
+verme n tan agudos y continos dolores, aũ-
+que a los rezios frios de quartanas dobles, cõ
+ quede reziſsimas, los tenia incõportables, el
+haio muy grãde. Di luego tã gran priea de
+yrme al moneerio, que me hize euar an.
+A la que eſperauan muerta, recibieron con al
+ma, mas el cuerpo peor que muerto para dar
+pena verle. El extremo de ﬂaqueza no ſe pue‐
+de dezir,  ſolos los hueos tenia, ya digo que
+ear an me duro mas de ocho meſes: el ear
+tuida, aun yua mejorando, ca tres años.
+Quando comence a andar a gatas, alabaua a
+Dios. Todos los pae cõ gran cõformidad, y
+no fue eos principios, cõ grã alegria, por
+todo ſe me hazia nonada, comparado con los
+dolores y tormẽtos del principio: eaua muy
+conforme con la voluntad de Dios, aun me
+dexae an ẽpre, pareceme era toda mi an‐
+a de ſanar, por ear a ſolas en oracion, como
+venia morada, porque en la enfermeria no
+auia aparejo, cõfeauame muy a menudo, tra
+taua mucho de Dios, de manera que ediﬁca-
+ua a todas, y ſe eſpantauan de la paciẽcia que
+el Señor me daua. Porque a no venir de ma‐
+no de ſu Magead, parecia impoſsible poder</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1905" y="2631"/>
+	<Point x="2101" y="2628"/>
+	<Point x="2102" y="2724"/>
+	<Point x="1925" y="2726"/>
+	<Point x="1864" y="2725"/>
+	<Point x="1877" y="2645"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſuﬀrir</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="568" y="3065"/>
+	<Point x="1594" y="3065"/>
+	<Point x="1594" y="3153"/>
+	<Point x="568" y="3153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="644" y="55"/>
+	<Point x="644" y="66"/>
+	<Point x="643" y="66"/>
+	<Point x="643" y="102"/>
+	<Point x="642" y="102"/>
+	<Point x="642" y="138"/>
+	<Point x="641" y="138"/>
+	<Point x="641" y="174"/>
+	<Point x="640" y="174"/>
+	<Point x="640" y="203"/>
+	<Point x="462" y="203"/>
+	<Point x="462" y="55"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>66</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="1707" y="55"/>
+	<Point x="1707" y="203"/>
+	<Point x="1036" y="203"/>
+	<Point x="1036" y="175"/>
+	<Point x="1035" y="175"/>
+	<Point x="1035" y="140"/>
+	<Point x="1034" y="140"/>
+	<Point x="1034" y="104"/>
+	<Point x="1033" y="104"/>
+	<Point x="1033" y="69"/>
+	<Point x="1032" y="69"/>
+	<Point x="1032" y="55"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

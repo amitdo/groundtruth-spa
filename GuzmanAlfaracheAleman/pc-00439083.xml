@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439083">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T02:58:07</Created>
+	<LastChange>2010-12-28T05:33:26</LastChange></Metadata>
+	<Page imageFilename="00439083.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="550" y="89"/>
+	<Point x="1448" y="82"/>
+	<Point x="1480" y="166"/>
+	<Point x="555" y="171"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="287" y="189"/>
+	<Point x="462" y="183"/>
+	<Point x="1717" y="178"/>
+	<Point x="1721" y="891"/>
+	<Point x="688" y="897"/>
+	<Point x="556" y="896"/>
+	<Point x="533" y="912"/>
+	<Point x="501" y="899"/>
+	<Point x="342" y="901"/>
+	<Point x="291" y="896"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nuero meſonero para ſu ſervicio un buen jumento, y
+una yegueçuela Galiziana, y como aun los hombres en
+la neceſdad no buſcan hermoſura, edad, ni trages, no
+ſolo tocas, aunque las cabeças een tiñoſas, no es mara-
+via que entre brutos acontezca lo miſmo: eavan em-
+pre juntos à un eablo, à un peſebre, en un prado, y el
+dueño no con mucho cuydado de tenerlos atados: antes
+de induria los dexava ſueltos, para que ayudaen à re-
+paar las leciones à las otras cavalgaduras de los hueſpe-
+des, de lo qual reſultò que la yegua quedae preñada de-
+a compañia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="278" y="905"/>
+	<Point x="496" y="906"/>
+	<Point x="532" y="917"/>
+	<Point x="571" y="901"/>
+	<Point x="1728" y="905"/>
+	<Point x="1735" y="2614"/>
+	<Point x="303" y="2624"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Es inviolable ley en el Andaluzia, no permitir junta,
+ni mezcla ſemejante; y para eo tienen eablecidas gra-
+viſmas penas. Pues como à ſu tiempo la yegueçuela pa-
+riee un muleto, quiera el meſonero aprovechao y
+que ſe criara. Detuvolo eſcondido algunos dias con gran-
+de recato, mas como viee no ſer poſble dexarſe de ſen-
+tir; por no dar vengança de  à ſus enemigos, con temor
+del daño, y codicia del provecho, acordò ee Viernes en
+la noche, de matarlo. Hizo la carne poas, echòlas
+en adobo, adereçò para ee Sabado el menudo,
+aadura, lengua, y ſeſos. Noſotros (como dixe) ega-
+mos à buena hora, que el hueſped con ſol a honor, haa
+que cene, y cama en que ſe eche. Mi compañero, avien-
+do deſaparejado, diò luego recaudo à ſu ganado: yo eguè
+tal de molido que (dando con mi cuerpo en el ſuelo) no
+me pude rodear por muy gran rato: eguè los muﬂos
+resfriados, las plantas de los pies hinchadas, de evarlos
+colgando y n erivos, las aentaderas batanadas, las in-
+gles doloroſas, que parecia meterme un puñal por eas:
+todo el cuerpo deſcoyuntado, y ſobre todo hambriento.
+Quando mi compañero acabò de dar cobro à ſu recua,
+viniendoſe para mi, le dixe. Serà bien que cenemos, ca-
+marada? Reſpondiò que le parecia muy juo, que ya era
+hora, porque otro dia queria tomar la mañana, y egar
+con tiempo à Caçaa, y hazer cargas. Preguntamos al
+hueſped,  avia que cenar? Reſpondiò, que , y aun muy</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1621" y="2619"/>
+	<Point x="1708" y="2621"/>
+	<Point x="1712" y="2669"/>
+	<Point x="1607" y="2666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>re-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="526" y="2869"/>
+	<Point x="1307" y="2857"/>
+	<Point x="1303" y="2937"/>
+	<Point x="525" y="2935"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="301" y="98"/>
+	<Point x="301" y="182"/>
+	<Point x="403" y="174"/>
+	<Point x="408" y="98"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>50</Unicode></TextEquiv></TextRegion></Page></PcGts>

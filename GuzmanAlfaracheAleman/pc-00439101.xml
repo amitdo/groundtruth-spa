@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439101">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T19:30:13</Created>
+	<LastChange>2010-12-28T06:03:49</LastChange></Metadata>
+	<Page imageFilename="00439101.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="221" y="100"/>
+	<Point x="1271" y="100"/>
+	<Point x="1278" y="159"/>
+	<Point x="1259" y="195"/>
+	<Point x="190" y="190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PARTE I. LIBRO I. CAP. VII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="21" y="209"/>
+	<Point x="1511" y="209"/>
+	<Point x="1523" y="2611"/>
+	<Point x="1354" y="2618"/>
+	<Point x="1238" y="2651"/>
+	<Point x="953" y="2647"/>
+	<Point x="905" y="2620"/>
+	<Point x="726" y="2618"/>
+	<Point x="66" y="2650"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>con obras ò palabras lo que no querras oyr, ni padecer?
+No erives en fuerças ni en poderio, que  en tu roro
+no dixere tu afrenta, yrala publicando à todo el mundo.
+No ganes enemigos de los  con buen trato puedes ha-
+zer amigos, que ningun enemigo es bueno, por ﬂaco que
+ſea: de una centeuela fe levanta gran fuego. Que coſa
+tan honroſa, que digna de hombres cuerdos, hidalgos y
+valeroſos, andar medidos, arriendados, y ajuados con la
+razon para que no ſe les atrevan, y los pongan en ocaon?
+No vès como lo anduvo un harriero ? Ya yva caando,
+no fe rehia, evava baxa la cara que de vergueça no la
+levantava. Los buenos de los Clerigos y van rezando ſus
+horas.Yo conderando mis infortunios, y quando todos
+cada uno mas emboſcado en ſu negocio, egaron dos
+quadrieros en ſeguimiento de un page que à ſu ſeñor a-
+via hurtado gran cantidad de joyas y dineros. Y por las
+ſeñas que les dieron, devia de ſer otro yo. Aſ como me
+vieron levantaron la boz: A ladron, ha ladron, aqui os
+tenemos; no podeys yros ni eſcaparos. Luego à puñadas
+me apearon del hermano aſno, y (teniendome aſdo)
+buſcaron la recua, creyendo haar el hurto. Quitaron las
+enjalmas, tentaron las albardas, no perdonaron eſpacio
+de un garvanço n mirarlo. Dezian: Ea ladron, dezid la
+verdad, que ahorcaros tenemos aqui  luego no lo days.
+No querian oyrme, ni admitir delculpa, que à peſar del
+mundo (n mas de ſu antojo) yo era el dañador. Davan-
+me golpes, empujones, torniſcones, que meatormenta-
+van, y mas por no dexarme hablar, ni pronunciar defen-
+ſa. Y aunque mucho me dolia, mucho me alegrava entre
+mi porque davan al compañero mas al doble rezio, co-
+mo à encubridor que dezian era mio. No conderas la
+perverſa inclinacion de los hombres, quando ſon
+mayores los de ſus enemigos? Yo yva mal con el,
+que por ſu ocaon perdì mi capa, y cenè burro:
+ſufria con menos peſadumbre el daño propio, por lo
+que cambiava en el ageno. Davanle n piedad, pedianle
+que deſcubriee donde lo evava, ò quedava guardado:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1404" y="2621"/>
+	<Point x="1468" y="2617"/>
+	<Point x="1507" y="2621"/>
+	<Point x="1495" y="2688"/>
+	<Point x="1395" y="2683"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>el</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="542" y="2857"/>
+	<Point x="1314" y="2861"/>
+	<Point x="1300" y="2942"/>
+	<Point x="528" y="2940"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1340" y="100"/>
+	<Point x="1323" y="197"/>
+	<Point x="1419" y="202"/>
+	<Point x="1495" y="188"/>
+	<Point x="1476" y="100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>67</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="754" y="2623"/>
+	<Point x="754" y="2700"/>
+	<Point x="895" y="2700"/>
+	<Point x="884" y="2632"/>
+	<Point x="806" y="2622"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E 2</Unicode></TextEquiv></TextRegion></Page></PcGts>

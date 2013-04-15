@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442875">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:17:06</Created>
+	<LastChange>2012-03-12T14:12:32</LastChange></Metadata>
+	<Page imageFilename="00442875.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="541" y="33"/>
+	<Point x="1284" y="45"/>
+	<Point x="1286" y="150"/>
+	<Point x="761" y="151"/>
+	<Point x="644" y="170"/>
+	<Point x="580" y="151"/>
+	<Point x="576" y="149"/>
+	<Point x="534" y="140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="264" y="159"/>
+	<Point x="550" y="154"/>
+	<Point x="581" y="155"/>
+	<Point x="636" y="172"/>
+	<Point x="660" y="175"/>
+	<Point x="762" y="159"/>
+	<Point x="1316" y="156"/>
+	<Point x="1389" y="166"/>
+	<Point x="1432" y="154"/>
+	<Point x="1527" y="161"/>
+	<Point x="1517" y="1184"/>
+	<Point x="281" y="1202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pecado, que ſoy tan ignorante, o tan corto de via,
+que aun he vio la a, no he echado de ver la cla
+uija, y mas endo tan grande como V.m. ha dicho.
+Pues ai eà n duda alguna, replicò don Quixote,
+y por mas ſeñas, dizen  eà metida en vna funda
+de vaqueta, por no ſe tome de moho. Todo puede
+ſer, reſpondio el Canonigo, pero por las ordenes 
+recebi, que no me acuerdo auerla vio: mas pueſ-
+to que conceda  eà ai, no por eo me obligo a
+creer las hiorias de tantos Amadiſes, ni las de tan-
+ta turbamulta de cauaeros como por ay nos cuen
+tan: ni es razon, que vn hombre como vuera
+merced, tan honrado, y de tan buenas partes, y
+dotado de tan buen entendimiento, ſe dè a enten-
+der, que ſon verdaderas tantas, y tan erañas lo-
+curas, como las que ean eſcritas en los diſparata-
+dos libros de cauaerias.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="296" y="1262"/>
+	<Point x="1513" y="1279"/>
+	<Point x="1509" y="1455"/>
+	<Point x="284" y="1438"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cap. L. De las diſcretas altercaciones que don Quixo-
+te, y el Canonigo tuuieron, con otros ſuceßos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="556" y="1477"/>
+	<Point x="1532" y="1490"/>
+	<Point x="1536" y="2106"/>
+	<Point x="1078" y="2110"/>
+	<Point x="1008" y="2116"/>
+	<Point x="996" y="2106"/>
+	<Point x="953" y="2107"/>
+	<Point x="275" y="2121"/>
+	<Point x="292" y="1739"/>
+	<Point x="541" y="1743"/>
+	<Point x="547" y="1517"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VENO Eà eo, reſpondio don Qui-
+xote, los libros que ean impreos con
+licencia de los Reyes, y con aprouacion
+de aqueos a quien ſe remitieron, y
+que con guo general ſon leydos, y celebrados,
+de los grandes, y de los chicos: de los pobres, y
+de los ricos: de los letrados, è ignorantes: de los
+plebeyos, y cauaeros: ﬁnalmente, de todo genero
+de perſonas, de qualquier eado, y condicion que
+ſean, auian de ſer mentira, y mas euando tanta</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="drop-capital">
+	<Coords>
+	<Point x="304" y="1488"/>
+	<Point x="544" y="1494"/>
+	<Point x="536" y="1722"/>
+	<Point x="295" y="1721"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1360" y="77"/>
+	<Point x="1360" y="154"/>
+	<Point x="1389" y="162"/>
+	<Point x="1440" y="149"/>
+	<Point x="1507" y="154"/>
+	<Point x="1507" y="77"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>300</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1290" y="2123"/>
+	<Point x="1293" y="2183"/>
+	<Point x="1506" y="2186"/>
+	<Point x="1505" y="2123"/>
+	<Point x="1408" y="2111"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aparien-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="964" y="2109"/>
+	<Point x="962" y="2178"/>
+	<Point x="1111" y="2178"/>
+	<Point x="1111" y="2114"/>
+	<Point x="1015" y="2123"/>
+	<Point x="993" y="2110"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pp 4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="439" y="2289"/>
+	<Point x="448" y="2353"/>
+	<Point x="1015" y="2350"/>
+	<Point x="1013" y="2360"/>
+	<Point x="1028" y="2361"/>
+	<Point x="1032" y="2352"/>
+	<Point x="1128" y="2350"/>
+	<Point x="1132" y="2298"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

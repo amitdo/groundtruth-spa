@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442529">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T23:14:15</Created>
+	<LastChange>2012-03-12T14:12:06</LastChange></Metadata>
+	<Page imageFilename="00442529.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="416" y="88"/>
+	<Point x="1150" y="63"/>
+	<Point x="1158" y="166"/>
+	<Point x="552" y="170"/>
+	<Point x="500" y="191"/>
+	<Point x="473" y="197"/>
+	<Point x="403" y="176"/>
+	<Point x="393" y="153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="166" y="188"/>
+	<Point x="478" y="203"/>
+	<Point x="505" y="214"/>
+	<Point x="535" y="200"/>
+	<Point x="794" y="192"/>
+	<Point x="990" y="187"/>
+	<Point x="1375" y="173"/>
+	<Point x="1434" y="190"/>
+	<Point x="1428" y="2167"/>
+	<Point x="1217" y="2176"/>
+	<Point x="654" y="2186"/>
+	<Point x="529" y="2193"/>
+	<Point x="514" y="2189"/>
+	<Point x="310" y="2184"/>
+	<Point x="197" y="2200"/>
+	<Point x="187" y="2185"/>
+	<Point x="162" y="2144"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de Amadis ſe ﬁrman, reſpondio don Quixote. Ea
+bien, reſpondio Sancho, pero la librança forçoſamẽ
+te ſe ha de ﬁrmar, y ea  ſe traslada, diran que la ﬁr
+ma es falſa, y quedareme n poinos. La librança
+yra en el meſmo librio ﬁrmada, que en viendola
+mi ſobrina, no pondra diﬁcultad en cumplia. Y en
+lo que toca a la carta de amores, pondras por ﬁrma,
+Vuero haa la muerte, el cauaero de la trie Fi-
+gura. Y hara poco al caſo, que vaya de mano agena,
+porque a lo que yo me ſe acordar, Dulzinea no ſabe
+eſcriuir ni leer, y en toda ſu vida ha vio letra mia,
+ni carta mia, porque mis amores y los ſuyos, han -
+do empre Platonicos, n eenderſe a mas, que a vn
+honeo mirar. Y aun eo tan de quando en quando,
+que oſaré jurar con verdad, que en doze años que
+ha que la quiero, mas que a la lumbre deos ojos,
+que han de comer la tierra, no la he vio quatro ve-
+zes, y aun podra ſer,  deas quatro vezes no vuieſ-
+ſe ea echado de ver la vna, que la miraua. Tal es el
+recato y encerramiento, con que ſus padres, Loren-
+ço Corchuelo, y ſu madre Aldonça Nogales, la han
+criado. Ta, ta, dixo Sancho, que la hija de Lorenço
+Corchuelo, es la ſeñora Dulzinea del Toboſo, a-
+mada por otro nombre, Aldonça Lorenço? Ea es,
+dixo don Quixote, y es la que merece ſer ſeñora de
+todo el vniuerſo. Bien la conozco, dixo Sancho, y
+ſe dezir, que tira tan bien vna barra, como el mas for
+çudo çagal de todo el pueblo: viue el dador, que es
+moça de chapa, hecha y derecha, y de pelo en pelo,
+y que puede ſacar la barba del lodo, a qualquier ca-
+uaero andante, o por andar, que la tuuiere por ſe-
+ñora. O hideputa que rejo que tiene, y que voz: ſe</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="467" y="2285"/>
+	<Point x="1128" y="2292"/>
+	<Point x="1127" y="2360"/>
+	<Point x="458" y="2358"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1247" y="2185"/>
+	<Point x="1247" y="2233"/>
+	<Point x="1461" y="2233"/>
+	<Point x="1461" y="2185"/>
+	<Point x="1300" y="2177"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dezir</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1265" y="73"/>
+	<Point x="1265" y="160"/>
+	<Point x="1396" y="160"/>
+	<Point x="1396" y="73"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>127</Unicode></TextEquiv></TextRegion></Page></PcGts>

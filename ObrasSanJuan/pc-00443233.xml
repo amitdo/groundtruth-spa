@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443233">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T07:31:25</Created>
+	<LastChange>2011-03-15T16:51:43</LastChange></Metadata>
+	<Page imageFilename="00443233.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="373" y="219"/>
+	<Point x="1919" y="219"/>
+	<Point x="1919" y="1707"/>
+	<Point x="1302" y="1696"/>
+	<Point x="1075" y="1696"/>
+	<Point x="373" y="1707"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>quiera coſa que el alma acaezca acerca del Entendi-
+miento, ſe haarà la dotrina i cautela para ea en las
+diviones ya dichas. I aunque parezca can diferente,
+que en ninguna deas ſe comprehenda (aunque entiẽ
+do no avrà alguna inteligencia, que no ſe pueda redu-
+zir à alguna de las cuat ro maneras de Noticias diin-
+tas) puedeſe ſacar dotrina i cautela para ea de lo que
+eà dicho en otras ſemejantes de las cuatro. I con eo
+paſarèmos al tercero libro, donde con el favor divino,
+ſe tratara de la Purgacion eſpiritual interior de la Vo-
+luntad acerca de ſus aﬁciones interiores, que aqui a-
+mamos Noche aiva. Ruego pues al diſereto Letor,
+que con animo benevolo, i ano lea eas coſas: porque
+cuando ee falta en cualquiera dotrina por ſubida i a-
+cabada que ſea, ni ſe ſaca el provecho que tiene, ni ſe
+tiene dea la eimacion que merece; cuanto
+mas dee mi eilo, que en muchas
+coſas queda mui
+falto.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1338" y="2248"/>
+	<Point x="1898" y="2248"/>
+	<Point x="1898" y="2386"/>
+	<Point x="1338" y="2386"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIBRO</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="764" y="2931"/>
+	<Point x="1420" y="2931"/>
+	<Point x="1420" y="2995"/>
+	<Point x="764" y="2995"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="381" y="99"/>
+	<Point x="524" y="98"/>
+	<Point x="524" y="200"/>
+	<Point x="381" y="198"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>222</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="771" y="86"/>
+	<Point x="1554" y="86"/>
+	<Point x="1554" y="190"/>
+	<Point x="771" y="190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subida del monte Carmelo.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r11">
+	<Coords>
+	<Point x="1122" y="1703"/>
+	<Point x="1122" y="1767"/>
+	<Point x="1218" y="1767"/>
+	<Point x="1218" y="1703"/></Coords></SeparatorRegion></Page></PcGts>

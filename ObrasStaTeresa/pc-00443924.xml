@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443924">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T05:35:47</Created>
+	<LastChange>2011-12-19T11:39:14</LastChange></Metadata>
+	<Page imageFilename="00443924.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r2" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="783" y="587"/>
+	<Point x="1609" y="587"/>
+	<Point x="1609" y="732"/>
+	<Point x="783" y="732"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CENSVRA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="890" y="1334"/>
+	<Point x="890" y="777"/>
+	<Point x="2032" y="764"/>
+	<Point x="2027" y="2598"/>
+	<Point x="394" y="2602"/>
+	<Point x="390" y="1332"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E vio los libros que compu
+ſo la madre Tereſa de Ieſus, que
+ſe intitulan, de ſu Vida, y las
+Moradas, y Camino de perfe-
+cion, con lo de mas que ſe jun
+ta con eos, que ſon de muy ſana y ca-
+tholica dotrina, y a mi parecer de gran-
+diſsima vtilidad para todos los que los leye
+ren, porque enſeñan quan poſsible es te-
+ner erecha amiad el hombre con Dios:
+y deſcubren los paos por donde ſe ſu-
+be a ee bien, y auiſan de los peligros y
+engaños que puede auer en ee camino:
+y todo eo con tanta facilidad y dulçura
+por vna parte, y por otra con palabras tan
+biuas, que ninguno los leera que  es
+eſpiritual no hae grande prouecho, y ‐
+no</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="drop-capital">
+	<Coords>
+	<Point x="425" y="854"/>
+	<Point x="883" y="854"/>
+	<Point x="883" y="1303"/>
+	<Point x="425" y="1303"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="590" y="3066"/>
+	<Point x="1573" y="3066"/>
+	<Point x="1573" y="3151"/>
+	<Point x="590" y="3151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r5" type="other">
+	<Coords>
+	<Point x="425" y="174"/>
+	<Point x="425" y="551"/>
+	<Point x="2041" y="551"/>
+	<Point x="2041" y="174"/></Coords></GraphicRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1852" y="2608"/>
+	<Point x="1852" y="2691"/>
+	<Point x="1990" y="2691"/>
+	<Point x="1990" y="2608"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no</Unicode></TextEquiv></TextRegion></Page></PcGts>

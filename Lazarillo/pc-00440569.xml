@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440569">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:53:02</Created>
+	<LastChange>2011-07-05T14:26:06</LastChange></Metadata>
+	<Page imageFilename="00440569.tif" imageWidth="842" imageHeight="1599">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="credit">
+	<Coords>
+	<Point x="283" y="1552"/>
+	<Point x="577" y="1552"/>
+	<Point x="577" y="1583"/>
+	<Point x="283" y="1583"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="20" y="85"/>
+	<Point x="776" y="85"/>
+	<Point x="776" y="1504"/>
+	<Point x="20" y="1504"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>con juramento que le hize de nũ-
+ca mas en mi vida mentalle nada
+de aquello, y que yo holgaua, y
+tenia por bien de que ella entraſ-
+ſe, y ſaliee de noche y de dia,
+pues eaua bien ſeguro deſu bon-
+dad. Y ai quedamos todos tres
+bien conformes : haa el dia de oy
+nunca nadie nos oyo ſobre el ca-
+ſo, antes quando veo alguno que
+quiere dezir algo della, le atajo y
+digo : Mira  ſoys mi amigo, no
+me digays coſa que me peſe, que
+no tengo por amigo al que me
+haze peſar, mayormente  me
+quieren meter mal con mi muger,
+que es la coſa del mundo que mas
+quiero, y amo, y me haze Dios
+con ella mil mercedes, y mas bien
+que yo merezco, que yo jurare ſo-
+bre la hoia conſagrada, que es
+tan buena muger, como biue den-
+tro de las puertas de Toledo : y
+quien otra coſa me dixere, yo me</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="71" y="22"/>
+	<Point x="672" y="22"/>
+	<Point x="672" y="79"/>
+	<Point x="71" y="79"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LAZAR. DE TORM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="694" y="31"/>
+	<Point x="770" y="31"/>
+	<Point x="770" y="78"/>
+	<Point x="694" y="78"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>115</Unicode></TextEquiv></TextRegion></Page></PcGts>

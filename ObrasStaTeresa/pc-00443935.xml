@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443935">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T11:07:25</Created>
+	<LastChange>2011-12-19T11:39:15</LastChange></Metadata>
+	<Page imageFilename="00443935.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="128" y="254"/>
+	<Point x="1685" y="254"/>
+	<Point x="1676" y="2609"/>
+	<Point x="1421" y="2609"/>
+	<Point x="1414" y="2634"/>
+	<Point x="1385" y="2633"/>
+	<Point x="1354" y="2614"/>
+	<Point x="1104" y="2614"/>
+	<Point x="1102" y="2640"/>
+	<Point x="128" y="2640"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>blandura de eſpiritu: y ﬁnalmente en todo el
+trato y eilo. Que como las anima vna miſ‐
+ma virtud an las ﬁgura a todas de vna miſ‐
+ma manera, y como en eſpejos puros reſplan‐
+dece en todas vn roﬆro, que es el de la madre
+ſana  ſe traſpaa en las hijas. Por donde
+como dezia al principio n auerla vio en la
+vida, la veo aora con mas euidencia, porque
+ſus hijas, no ſolo ſon retratos de ſus ſemblan‐
+tes, no teimonios ciertos de ſus perfeciones,
+que ſe les comunican a todas, y van de vnas
+en otras con tanta preeza cundiendo, que ( y
+es la marauiatercera ) en eſpacio de veynte
+años que puede auer deſde que la madre fundo
+el primer monaerio haa eo que aora ſe eſ‐
+criue, tiene ya ena a Ɛſpaña de monaerios
+en que ruen a Dios mas de mil religioſos, en‐
+tre los quales vueﬆras reuerencias las religio‐
+ſas reluzen como los luzeros entre las ereas
+menores. Que como dio principio a lareforma
+ciõ vnabiẽ auentur ada mugers, an  las mugeres
+dea parece en todo euã vẽtaja, ynoſolamẽte
+en ſu ordẽ ſon luzes de guia, no tãbiẽ ſon hõra</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="602" y="3054"/>
+	<Point x="1585" y="3054"/>
+	<Point x="1585" y="3154"/>
+	<Point x="602" y="3154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1576" y="138"/>
+	<Point x="1576" y="235"/>
+	<Point x="1666" y="235"/>
+	<Point x="1666" y="138"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>7</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="1180" y="2626"/>
+	<Point x="1180" y="2754"/>
+	<Point x="1452" y="2752"/>
+	<Point x="1454" y="2640"/>
+	<Point x="1371" y="2647"/>
+	<Point x="1357" y="2626"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A 4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1559" y="2619"/>
+	<Point x="1559" y="2740"/>
+	<Point x="1714" y="2740"/>
+	<Point x="1714" y="2619"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de</Unicode></TextEquiv></TextRegion></Page></PcGts>

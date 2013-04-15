@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444306">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:53:17</Created>
+	<LastChange>2011-12-19T11:39:37</LastChange></Metadata>
+	<Page imageFilename="00444306.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="455" y="250"/>
+	<Point x="969" y="238"/>
+	<Point x="2008" y="236"/>
+	<Point x="2007" y="2645"/>
+	<Point x="1889" y="2645"/>
+	<Point x="1857" y="2646"/>
+	<Point x="1823" y="2673"/>
+	<Point x="1627" y="2672"/>
+	<Point x="450" y="2669"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>uo que quede canſada como  me vuieran
+dado muchos palos. Hizome gran prouecho
+ver que aun no endo vn alma y cuerpo
+ſuyo quãdo el Señor le da licencia haze tan-
+to mal, que hara quando lo poea por
+ſuyo, diome de nueuo gana de librarme
+de tan ruin compañia. Otra vez, poco ha,
+me acaecio lo miſmo aunque no duro tan-
+to, y yo eaua ſola, pedi agua bendita, y
+las que entraron deſpues que ya ſe auian
+ydo, que eran dos monjas bien de creer,
+que por ninguna ſuerte dixeran menti-
+ra, olieron vn olor muy malo como de
+piedra açufre. Yo no lo oli, duro de ma-
+nera que ſe pudo aduertir a eo. Otra vez
+eaua en el coro y diome vn gran impe-
+tu de recogimiento, y fuyme de ai por-
+que no lo entendieen aunque cerca oye-
+ron todas dar golpes grandes adonde yo
+eaua, y yo cabe mi oy hablar como que
+concertauan algo, aunque no entendi que
+habla fuee, mas eaua tan en oracion
+que no entendi coſa, ni vue algun mie-
+do. Ca cada vez era quando el Señor me
+hazia merced, de que por mi perſuaon
+ſe aprouechae algun alma, y es cierto
+que me acaecio lo que agora dire, y de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1839" y="2679"/>
+	<Point x="1868" y="2652"/>
+	<Point x="1955" y="2650"/>
+	<Point x="1979" y="2657"/>
+	<Point x="1978" y="2740"/>
+	<Point x="1935" y="2737"/>
+	<Point x="1834" y="2730"/>
+	<Point x="1830" y="2697"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>eo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="613" y="3072"/>
+	<Point x="1581" y="3072"/>
+	<Point x="1581" y="3154"/>
+	<Point x="613" y="3154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="945" y="102"/>
+	<Point x="1591" y="102"/>
+	<Point x="1591" y="221"/>
+	<Point x="945" y="221"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="463" y="114"/>
+	<Point x="632" y="114"/>
+	<Point x="632" y="236"/>
+	<Point x="463" y="236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>378</Unicode></TextEquiv></TextRegion></Page></PcGts>

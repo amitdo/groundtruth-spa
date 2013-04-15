@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440512">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T07:47:49</Created>
+	<LastChange>2011-07-05T14:26:04</LastChange></Metadata>
+	<Page imageFilename="00440512.tif" imageWidth="876" imageHeight="1640">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="95" y="135"/>
+	<Point x="835" y="128"/>
+	<Point x="832" y="1554"/>
+	<Point x="85" y="1551"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que me queria cargar de todo, y
+aun deeaua lo hiziee. Pero el
+n repatar en nada paſaua por to-
+do : poruentura dezia yo, no le a-
+grada aqui, y querra lo compre-
+mos en otro cabo. Dea manerà
+anduuimos haa que dio las on-
+ze ; que ſe entro en la Iglea ma.
+yor, y yo tras el : y muy deuota,
+mente oyo Mia, ſalimos de alli,
+y a pao tirado fuymos, vna calle
+abaxo : yo yua el mas alegre del
+mundo, en ver que no nos auia.
+mos empleado en comprar de co-
+mer, porque condere deuia de
+ſer hombre mi nueuo amo que
+ſe proueya en junto, y que ya la
+comida earia a punto, y tal co.
+mo yo la deeaua, y aun la auia
+meneer, dio la vna, y llegamos
+a caſa ante la qual mi amo derti-
+bando el cabo dela capa ſobre el
+lado y zquierdo, ſaco la llaue dela
+taltriquera, y abrio ſu puerta, en-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="286" y="1583"/>
+	<Point x="568" y="1586"/>
+	<Point x="567" y="1612"/>
+	<Point x="282" y="1610"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="334" y="62"/>
+	<Point x="624" y="66"/>
+	<Point x="624" y="123"/>
+	<Point x="332" y="118"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="106" y="62"/>
+	<Point x="187" y="62"/>
+	<Point x="188" y="128"/>
+	<Point x="107" y="126"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>58</Unicode></TextEquiv></TextRegion></Page></PcGts>

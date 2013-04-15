@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442630">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:02:02</Created>
+	<LastChange>2012-03-12T14:12:12</LastChange></Metadata>
+	<Page imageFilename="00442630.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="476" y="96"/>
+	<Point x="1116" y="96"/>
+	<Point x="1117" y="177"/>
+	<Point x="921" y="182"/>
+	<Point x="727" y="197"/>
+	<Point x="669" y="181"/>
+	<Point x="580" y="193"/>
+	<Point x="550" y="190"/>
+	<Point x="497" y="181"/>
+	<Point x="472" y="180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quarta parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="159" y="177"/>
+	<Point x="465" y="182"/>
+	<Point x="534" y="189"/>
+	<Point x="585" y="196"/>
+	<Point x="667" y="185"/>
+	<Point x="727" y="200"/>
+	<Point x="922" y="186"/>
+	<Point x="1436" y="179"/>
+	<Point x="1439" y="1550"/>
+	<Point x="1439" y="1901"/>
+	<Point x="793" y="1910"/>
+	<Point x="176" y="1910"/>
+	<Point x="170" y="1517"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de, ſu repueo Sancho vn pedaço de pan, y otro de
+queſo, y dandoſelo al moço, le dixo: Toma herma-
+no Andres, que a todos nos alcãça parte de va deſ-
+gracia. Pues que parte os alcança a vos, preguntò
+Andres? Ea parte de queſo, y pan que os doy, reſ-
+pondio Sancho, que Dios ſabe  me ha de hazer fal-
+ta, o no, porque os hago ſaber amigo que los eſcude
+ros de los cauaeros andantes eamos ſujeros a mu
+cha hambre y a mala ventura, y aun a otras coſas,
+que ſe enten mejor que ſe dizen. Andres ao de
+ſu pan, y queſo, y viendo que nadie le daua otra coſa
+abaxó ſu cabeça, y tomó el camino en las manos, co-
+mo ſuele dezirſe. Bien es verdad, que al partirſe di-
+xo a dõ Quixote: Por amor de Dios ſeñor cauae-
+ro adante, que  otra vez me encontrare, aunque
+vea que me hazen pedaços no me ſocorra ni ayude,
+no dexeme cõ mi deſgracia, que no ſera tanta, que
+no ſea mayor la que me vendra de ſu ayuda de vue-
+ra merced, a quiẽ Dios maldiga, ya todos quantos
+cauaeros andantes han nacido en el mundo. Yuaſe
+a leuantar don Quixote para caigae, mas el ſe pu
+ſo a correr de modo, que ninguno ſe atreuio a ſegui
+e. Quedò corridiſsimo don Quixote del cuen-
+to de Andres, y fue meneer que los demas
+tuuieen mucha cuenta con no
+reyrſe, por no acabae
+de correr del
+todo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="453" y="2306"/>
+	<Point x="1131" y="2305"/>
+	<Point x="1130" y="2368"/>
+	<Point x="450" y="2376"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1308" y="2017"/>
+	<Point x="1318" y="2095"/>
+	<Point x="1440" y="2097"/>
+	<Point x="1443" y="2018"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cap.</Unicode></TextEquiv></TextRegion></Page></PcGts>

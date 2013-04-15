@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442904">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:52:04</Created>
+	<LastChange>2012-03-12T14:12:34</LastChange></Metadata>
+	<Page imageFilename="00442904.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r14" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r10" index="4"/>
+	<RegionRefIndexed regionRef="r11" index="5"/>
+	<RegionRefIndexed regionRef="r5" index="6"/>
+	<RegionRefIndexed regionRef="r6" index="7"/>
+	<RegionRefIndexed regionRef="r12" index="8"/>
+	<RegionRefIndexed regionRef="r13" index="9"/>
+	<RegionRefIndexed regionRef="r7" index="10"/>
+	<RegionRefIndexed regionRef="r8" index="11"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="461" y="75"/>
+	<Point x="783" y="78"/>
+	<Point x="1100" y="76"/>
+	<Point x="1101" y="167"/>
+	<Point x="869" y="175"/>
+	<Point x="734" y="188"/>
+	<Point x="600" y="195"/>
+	<Point x="452" y="186"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quarta parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="218" y="178"/>
+	<Point x="475" y="196"/>
+	<Point x="611" y="198"/>
+	<Point x="633" y="196"/>
+	<Point x="736" y="194"/>
+	<Point x="881" y="178"/>
+	<Point x="1101" y="173"/>
+	<Point x="1353" y="178"/>
+	<Point x="1358" y="343"/>
+	<Point x="1064" y="354"/>
+	<Point x="1001" y="353"/>
+	<Point x="215" y="360"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El Monicongo Academico, de la Argama-
+a, a la ſepulturade don Quixote.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="553" y="359"/>
+	<Point x="876" y="358"/>
+	<Point x="1005" y="355"/>
+	<Point x="1007" y="426"/>
+	<Point x="552" y="436"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EPITAFIO</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="304" y="499"/>
+	<Point x="334" y="496"/>
+	<Point x="416" y="497"/>
+	<Point x="1242" y="497"/>
+	<Point x="1213" y="786"/>
+	<Point x="1030" y="787"/>
+	<Point x="857" y="805"/>
+	<Point x="791" y="790"/>
+	<Point x="675" y="799"/>
+	<Point x="643" y="800"/>
+	<Point x="556" y="786"/>
+	<Point x="403" y="805"/>
+	<Point x="366" y="793"/>
+	<Point x="329" y="786"/>
+	<Point x="293" y="776"/>
+	<Point x="299" y="622"/>
+	<Point x="297" y="598"/>
+	<Point x="299" y="564"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L caluatrueno, que adornò a la Mancha,
+De mas deſpojos que Iaſon decreta,
+El juyzio que tuuo la veleta,
+Aguda donde fuera mejor ancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="241" y="1293"/>
+	<Point x="607" y="1293"/>
+	<Point x="661" y="1305"/>
+	<Point x="702" y="1296"/>
+	<Point x="814" y="1292"/>
+	<Point x="860" y="1309"/>
+	<Point x="919" y="1295"/>
+	<Point x="978" y="1305"/>
+	<Point x="1334" y="1301"/>
+	<Point x="1360" y="1528"/>
+	<Point x="824" y="1546"/>
+	<Point x="237" y="1527"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El que hizo caar los Belianiſes,
+Aquel que en Razinante herrando anduuo,
+Yaze debaxo dea loſa fria.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="157" y="1556"/>
+	<Point x="763" y="1561"/>
+	<Point x="1408" y="1537"/>
+	<Point x="1410" y="1733"/>
+	<Point x="1198" y="1752"/>
+	<Point x="1004" y="1727"/>
+	<Point x="762" y="1731"/>
+	<Point x="160" y="1729"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Del paniaguado Academico, de la Argamaa,
+in laudem Dulzineæ del Doboſo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="273" y="1796"/>
+	<Point x="641" y="1814"/>
+	<Point x="1259" y="1809"/>
+	<Point x="1256" y="2153"/>
+	<Point x="840" y="2151"/>
+	<Point x="251" y="2153"/>
+	<Point x="244" y="2119"/>
+	<Point x="249" y="1977"/>
+	<Point x="276" y="1913"/>
+	<Point x="269" y="1903"/>
+	<Point x="266" y="1884"/>
+	<Point x="264" y="1869"/>
+	<Point x="269" y="1847"/>
+	<Point x="270" y="1818"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sta que veys de roro amondongado,
+Alta de pechos, y ademan brioſo,
+Es Dulzinea Reyna del Toboſo,
+De quien fue el gran Quixote aﬁcionado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="1284" y="2107"/>
+	<Point x="1412" y="2116"/>
+	<Point x="1412" y="2222"/>
+	<Point x="1283" y="2214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Piſo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="448" y="2304"/>
+	<Point x="1135" y="2311"/>
+	<Point x="1134" y="2369"/>
+	<Point x="454" y="2370"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="252" y="780"/>
+	<Point x="241" y="879"/>
+	<Point x="253" y="1077"/>
+	<Point x="336" y="1079"/>
+	<Point x="384" y="1098"/>
+	<Point x="456" y="1092"/>
+	<Point x="518" y="1077"/>
+	<Point x="595" y="1074"/>
+	<Point x="625" y="1092"/>
+	<Point x="675" y="1077"/>
+	<Point x="921" y="1074"/>
+	<Point x="1009" y="1096"/>
+	<Point x="1235" y="1076"/>
+	<Point x="1217" y="789"/>
+	<Point x="1031" y="789"/>
+	<Point x="1023" y="792"/>
+	<Point x="858" y="807"/>
+	<Point x="790" y="792"/>
+	<Point x="676" y="800"/>
+	<Point x="643" y="801"/>
+	<Point x="557" y="789"/>
+	<Point x="404" y="807"/>
+	<Point x="365" y="795"/>
+	<Point x="291" y="780"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El braço, que ſu fuerça tanto enſancha,
+Que egó del Catay, haa Caeta,
+La mua mas horrenda, y mas diſcreta,
+Que grauò verſos en broncinea plancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="253" y="1079"/>
+	<Point x="246" y="1152"/>
+	<Point x="240" y="1291"/>
+	<Point x="342" y="1292"/>
+	<Point x="615" y="1291"/>
+	<Point x="661" y="1304"/>
+	<Point x="702" y="1295"/>
+	<Point x="816" y="1290"/>
+	<Point x="858" y="1307"/>
+	<Point x="919" y="1292"/>
+	<Point x="979" y="1303"/>
+	<Point x="1136" y="1299"/>
+	<Point x="1126" y="1090"/>
+	<Point x="1009" y="1098"/>
+	<Point x="921" y="1076"/>
+	<Point x="675" y="1078"/>
+	<Point x="625" y="1093"/>
+	<Point x="605" y="1082"/>
+	<Point x="595" y="1076"/>
+	<Point x="518" y="1079"/>
+	<Point x="458" y="1094"/>
+	<Point x="384" y="1100"/>
+	<Point x="336" y="1081"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El que a cola dexô los Amadiſes,
+Y en muy poquito a Galaores tuuo,
+Eﬆribando en ſu amor, y bizarria.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="587" y="1734"/>
+	<Point x="580" y="1807"/>
+	<Point x="1000" y="1806"/>
+	<Point x="996" y="1732"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SONETO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="drop-capital">
+	<Coords>
+	<Point x="173" y="1825"/>
+	<Point x="176" y="1926"/>
+	<Point x="256" y="1925"/>
+	<Point x="266" y="1902"/>
+	<Point x="261" y="1870"/>
+	<Point x="265" y="1823"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="drop-capital">
+	<Coords>
+	<Point x="161" y="507"/>
+	<Point x="157" y="654"/>
+	<Point x="295" y="652"/>
+	<Point x="293" y="547"/>
+	<Point x="299" y="503"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion></Page></PcGts>

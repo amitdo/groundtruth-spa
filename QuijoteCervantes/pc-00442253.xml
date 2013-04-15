@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442253">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T16:17:48</Created>
+	<LastChange>2012-03-12T14:11:47</LastChange></Metadata>
+	<Page imageFilename="00442253.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r5" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/>
+	<RegionRefIndexed regionRef="r8" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="561" y="66"/>
+	<Point x="561" y="204"/>
+	<Point x="1060" y="191"/>
+	<Point x="1057" y="66"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TASSA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="drop-capital">
+	<Coords>
+	<Point x="123" y="247"/>
+	<Point x="123" y="414"/>
+	<Point x="230" y="406"/>
+	<Point x="254" y="365"/>
+	<Point x="269" y="259"/>
+	<Point x="266" y="247"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="142" y="440"/>
+	<Point x="142" y="1130"/>
+	<Point x="1502" y="1130"/>
+	<Point x="1502" y="440"/>
+	<Point x="1480" y="195"/>
+	<Point x="307" y="219"/>
+	<Point x="276" y="260"/>
+	<Point x="271" y="276"/>
+	<Point x="253" y="407"/>
+	<Point x="266" y="450"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O Iuan Gao de Andrada eſcriuano de Camara del
+Rey nuero ſeñor de los que reden en ſu Conſe-
+jo, certiﬁco, y doy fè, que auiendo vio por los ſe-
+ñores del vn libro intitulado, El ingenioſo hidalgo do
+la Mancha, compueo por Miguel de Ceruantes Saaue-
+dra:taaron cada pliego del dicho libro a tres maraue-
+dis y medio, el qual tiene ochenta y tres pliegos, que al
+dicho precio monta el dicho libro docientos y nouenta
+marauedis y medio, en que ſe ha de vender en papel, y
+dieron licencia para que a ee precio ſe pueda vender:
+y mandaron que ea taa ſe ponga al principio del di-
+cho libro, y no ſe pueda vender n ea:ypara que deo
+cõe di la preſente en Vaadolid, a veinte dias del mes
+de Deziembre, de mil y ſeyſcientos y quatro años.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="871" y="1140"/>
+	<Point x="871" y="1369"/>
+	<Point x="1485" y="1369"/>
+	<Point x="1485" y="1140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Iuan Gao de
+Andrada.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="445" y="2300"/>
+	<Point x="442" y="2350"/>
+	<Point x="1158" y="2354"/>
+	<Point x="1161" y="2300"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

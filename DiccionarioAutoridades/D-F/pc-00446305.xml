@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00446305">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T14:00:32</Created>
+	<LastChange>2011-09-09T11:59:18</LastChange></Metadata>
+	<Page imageFilename="00446305.tif" imageWidth="2527" imageHeight="4086">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r32" index="0"/>
+	<RegionRefIndexed regionRef="r36" index="1"/>
+	<RegionRefIndexed regionRef="r40" index="2"/>
+	<RegionRefIndexed regionRef="r44" index="3"/>
+	<RegionRefIndexed regionRef="r48" index="4"/>
+	<RegionRefIndexed regionRef="r50" index="5"/>
+	<RegionRefIndexed regionRef="r54" index="6"/>
+	<RegionRefIndexed regionRef="r12" index="7"/>
+	<RegionRefIndexed regionRef="r56" index="8"/>
+	<RegionRefIndexed regionRef="r60" index="9"/>
+	<RegionRefIndexed regionRef="r62" index="10"/>
+	<RegionRefIndexed regionRef="r17" index="11"/>
+	<RegionRefIndexed regionRef="r18" index="12"/>
+	<RegionRefIndexed regionRef="r19" index="13"/>
+	<RegionRefIndexed regionRef="r20" index="14"/>
+	<RegionRefIndexed regionRef="r21" index="15"/>
+	<RegionRefIndexed regionRef="r22" index="16"/>
+	<RegionRefIndexed regionRef="r84" index="17"/>
+	<RegionRefIndexed regionRef="r86" index="18"/>
+	<RegionRefIndexed regionRef="r82" index="19"/>
+	<RegionRefIndexed regionRef="r78" index="20"/>
+	<RegionRefIndexed regionRef="r74" index="21"/>
+	<RegionRefIndexed regionRef="r70" index="22"/>
+	<RegionRefIndexed regionRef="r29" index="23"/>
+	<RegionRefIndexed regionRef="r46" index="24"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="421" y="237"/>
+	<Point x="568" y="232"/>
+	<Point x="583" y="289"/>
+	<Point x="419" y="300"/>
+	<Point x="421" y="281"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DIA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="1460" y="202"/>
+	<Point x="1615" y="200"/>
+	<Point x="1625" y="260"/>
+	<Point x="1458" y="259"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DIA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="page-number">
+	<Coords>
+	<Point x="1900" y="198"/>
+	<Point x="1975" y="185"/>
+	<Point x="2008" y="194"/>
+	<Point x="2011" y="261"/>
+	<Point x="1963" y="264"/>
+	<Point x="1895" y="256"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>263</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1079" y="287"/>
+	<Point x="1478" y="276"/>
+	<Point x="1677" y="274"/>
+	<Point x="1759" y="265"/>
+	<Point x="1909" y="266"/>
+	<Point x="1934" y="267"/>
+	<Point x="1962" y="277"/>
+	<Point x="2067" y="269"/>
+	<Point x="2067" y="389"/>
+	<Point x="1680" y="377"/>
+	<Point x="1598" y="428"/>
+	<Point x="1473" y="427"/>
+	<Point x="1444" y="438"/>
+	<Point x="1423" y="439"/>
+	<Point x="1175" y="437"/>
+	<Point x="1143" y="450"/>
+	<Point x="1130" y="444"/>
+	<Point x="1122" y="432"/>
+	<Point x="1133" y="358"/>
+	<Point x="1078" y="338"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DIAMETRO DE LA ESPHERA. La linea rea, que
+paa por ſu centro, y ſe termina por ambas
+partes en la ſuperﬁcie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1078" y="441"/>
+	<Point x="1115" y="435"/>
+	<Point x="1132" y="457"/>
+	<Point x="1678" y="436"/>
+	<Point x="1753" y="424"/>
+	<Point x="2072" y="420"/>
+	<Point x="2074" y="584"/>
+	<Point x="1617" y="588"/>
+	<Point x="1625" y="630"/>
+	<Point x="1583" y="642"/>
+	<Point x="1541" y="644"/>
+	<Point x="1502" y="633"/>
+	<Point x="1476" y="644"/>
+	<Point x="1438" y="648"/>
+	<Point x="1421" y="647"/>
+	<Point x="1127" y="641"/>
+	<Point x="1129" y="503"/>
+	<Point x="1079" y="490"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DIAMETRO DE LA HYPERBOLA. La linea rea,
+que parte por medio todas las paralélas à la
+tangente, terminadas dentro de la hypérbo-
+la. Toſc. tom. 3. pl. 230.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1083" y="644"/>
+	<Point x="1120" y="647"/>
+	<Point x="1132" y="661"/>
+	<Point x="1133" y="661"/>
+	<Point x="1436" y="655"/>
+	<Point x="1498" y="641"/>
+	<Point x="1537" y="650"/>
+	<Point x="1708" y="646"/>
+	<Point x="1764" y="630"/>
+	<Point x="2073" y="619"/>
+	<Point x="2082" y="735"/>
+	<Point x="1941" y="741"/>
+	<Point x="1917" y="779"/>
+	<Point x="1844" y="789"/>
+	<Point x="1820" y="780"/>
+	<Point x="1787" y="782"/>
+	<Point x="1787" y="791"/>
+	<Point x="1760" y="793"/>
+	<Point x="1748" y="783"/>
+	<Point x="1741" y="792"/>
+	<Point x="1719" y="796"/>
+	<Point x="1708" y="784"/>
+	<Point x="1674" y="785"/>
+	<Point x="1333" y="797"/>
+	<Point x="1326" y="808"/>
+	<Point x="1303" y="810"/>
+	<Point x="1129" y="798"/>
+	<Point x="1134" y="705"/>
+	<Point x="1080" y="700"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DIAMETRO DE LA PARABOLA. Es aquea línea
+rea que parte igualmente todas las paralé-
+las ſus aplicadas. Toſc. tom. 3. pl. 198.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="1088" y="805"/>
+	<Point x="1121" y="805"/>
+	<Point x="1149" y="822"/>
+	<Point x="1663" y="805"/>
+	<Point x="1678" y="793"/>
+	<Point x="1704" y="793"/>
+	<Point x="1711" y="803"/>
+	<Point x="1768" y="802"/>
+	<Point x="1768" y="794"/>
+	<Point x="1792" y="792"/>
+	<Point x="1808" y="786"/>
+	<Point x="1821" y="788"/>
+	<Point x="1829" y="798"/>
+	<Point x="2066" y="781"/>
+	<Point x="2076" y="898"/>
+	<Point x="1733" y="900"/>
+	<Point x="1693" y="954"/>
+	<Point x="1516" y="957"/>
+	<Point x="1133" y="953"/>
+	<Point x="1135" y="864"/>
+	<Point x="1084" y="855"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DIAMETRO DETERMINADO. Es el ſegmento de
+la linea rea, intercepto entre las dos hypér-
+bolas. Toſc. tom. 3. pl. 231.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1086" y="961"/>
+	<Point x="1504" y="963"/>
+	<Point x="1704" y="957"/>
+	<Point x="1730" y="937"/>
+	<Point x="1775" y="938"/>
+	<Point x="1808" y="936"/>
+	<Point x="2070" y="929"/>
+	<Point x="2079" y="1095"/>
+	<Point x="1923" y="1106"/>
+	<Point x="1900" y="1156"/>
+	<Point x="1157" y="1167"/>
+	<Point x="1123" y="1158"/>
+	<Point x="1131" y="1012"/>
+	<Point x="1080" y="1008"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DIAMETRO INDETERMINADO. Qualquier línea
+rea que es diametro común de dos hypér-
+bolas opueas, porque ſe puede continuar
+inﬁnitamente. Toſc. tom. 3. pl. 231.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1327" y="3594"/>
+	<Point x="1495" y="3588"/>
+	<Point x="1700" y="3574"/>
+	<Point x="1764" y="3569"/>
+	<Point x="1849" y="3585"/>
+	<Point x="1860" y="3699"/>
+	<Point x="1315" y="3705"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O qué atraivo diapalma
+fuie amiga para él miſmo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="credit">
+	<Coords>
+	<Point x="788" y="3931"/>
+	<Point x="1725" y="3934"/>
+	<Point x="1716" y="4008"/>
+	<Point x="1581" y="4018"/>
+	<Point x="787" y="4001"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="68" y="357"/>
+	<Point x="414" y="311"/>
+	<Point x="677" y="301"/>
+	<Point x="1002" y="280"/>
+	<Point x="1011" y="353"/>
+	<Point x="833" y="355"/>
+	<Point x="825" y="409"/>
+	<Point x="641" y="402"/>
+	<Point x="448" y="411"/>
+	<Point x="172" y="440"/>
+	<Point x="132" y="449"/>
+	<Point x="89" y="459"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>num. 917. O duréza, mas que diamantína en
+corazónes de carne! PANT. Rom. 6.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords>
+	<Point x="208" y="443"/>
+	<Point x="561" y="409"/>
+	<Point x="671" y="415"/>
+	<Point x="695" y="417"/>
+	<Point x="747" y="534"/>
+	<Point x="750" y="555"/>
+	<Point x="719" y="555"/>
+	<Point x="675" y="569"/>
+	<Point x="654" y="556"/>
+	<Point x="219" y="586"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Si te adornára luciente,
+de la túnica de Marte
+todo el diamantíno temple.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords>
+	<Point x="47" y="612"/>
+	<Point x="363" y="581"/>
+	<Point x="419" y="577"/>
+	<Point x="518" y="580"/>
+	<Point x="635" y="575"/>
+	<Point x="652" y="566"/>
+	<Point x="665" y="565"/>
+	<Point x="672" y="580"/>
+	<Point x="691" y="574"/>
+	<Point x="710" y="579"/>
+	<Point x="712" y="566"/>
+	<Point x="722" y="561"/>
+	<Point x="1015" y="546"/>
+	<Point x="1015" y="663"/>
+	<Point x="725" y="665"/>
+	<Point x="685" y="721"/>
+	<Point x="666" y="726"/>
+	<Point x="642" y="725"/>
+	<Point x="630" y="716"/>
+	<Point x="609" y="715"/>
+	<Point x="457" y="722"/>
+	<Point x="318" y="732"/>
+	<Point x="310" y="743"/>
+	<Point x="293" y="746"/>
+	<Point x="278" y="745"/>
+	<Point x="262" y="742"/>
+	<Point x="168" y="750"/>
+	<Point x="95" y="763"/>
+	<Point x="97" y="666"/>
+	<Point x="51" y="667"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DIAMANTON. ſ. m. aum. de Diamante. El
+diamante grande. Es voz jocóſa. Lat. Magnus
+adamas. QUEV. Muſ. 6. Son. 43.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords>
+	<Point x="147" y="757"/>
+	<Point x="305" y="751"/>
+	<Point x="319" y="738"/>
+	<Point x="626" y="719"/>
+	<Point x="645" y="732"/>
+	<Point x="716" y="729"/>
+	<Point x="741" y="717"/>
+	<Point x="924" y="717"/>
+	<Point x="937" y="860"/>
+	<Point x="813" y="864"/>
+	<Point x="612" y="868"/>
+	<Point x="585" y="870"/>
+	<Point x="551" y="871"/>
+	<Point x="134" y="906"/>
+	<Point x="137" y="789"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Si la verdad los cuenta, ſon mui pocos
+Los cuerdos que en la Corte no ſe eragan,
+Si ardiente el diamantón los hace cocos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords>
+	<Point x="50" y="921"/>
+	<Point x="269" y="898"/>
+	<Point x="341" y="894"/>
+	<Point x="427" y="884"/>
+	<Point x="477" y="882"/>
+	<Point x="548" y="880"/>
+	<Point x="669" y="876"/>
+	<Point x="764" y="885"/>
+	<Point x="787" y="868"/>
+	<Point x="822" y="872"/>
+	<Point x="891" y="868"/>
+	<Point x="1011" y="865"/>
+	<Point x="1022" y="1119"/>
+	<Point x="1021" y="1262"/>
+	<Point x="1018" y="1371"/>
+	<Point x="1005" y="1378"/>
+	<Point x="645" y="1408"/>
+	<Point x="623" y="1440"/>
+	<Point x="179" y="1466"/>
+	<Point x="153" y="1476"/>
+	<Point x="138" y="1472"/>
+	<Point x="107" y="1473"/>
+	<Point x="100" y="980"/>
+	<Point x="48" y="979"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DIAMARGARITON. ſ. m. Compoción me-
+dicinál, que ſe hace de diverſos ingredientes,
+que el principal de eos es las perlas. Hacen-
+ſe de ea polvos y tablétas, y rven para for-
+tiﬁcar el corazón, cabéza y eómago. Es voz
+Griega, que gniﬁca compoción de perlas.
+PRAGM. DE TASS. año 1680. f. 21. Polvos de
+diamargaritón frio, cada dragma à ete reales.
+LAG. Dioſc. lib. 1. Prefac. Propongámos, por no
+hablar n exemplo, el diamargaritón, calien-
+te, ordenado del Avicéna.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r54" type="paragraph">
+	<Coords>
+	<Point x="72" y="1994"/>
+	<Point x="186" y="1986"/>
+	<Point x="1023" y="1942"/>
+	<Point x="1031" y="2033"/>
+	<Point x="1044" y="2130"/>
+	<Point x="1040" y="2378"/>
+	<Point x="933" y="2376"/>
+	<Point x="924" y="2416"/>
+	<Point x="907" y="2415"/>
+	<Point x="897" y="2416"/>
+	<Point x="803" y="2419"/>
+	<Point x="669" y="2423"/>
+	<Point x="559" y="2428"/>
+	<Point x="534" y="2441"/>
+	<Point x="520" y="2442"/>
+	<Point x="496" y="2436"/>
+	<Point x="114" y="2444"/>
+	<Point x="121" y="2043"/>
+	<Point x="83" y="2036"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DIAMETRALMENTE. adv. de modo. Opuea-
+mente, contrariamente, con la mayór opo-
+ción y contradicción. Lat. Ex diametro. Ad ra-
+tionem diametri. Ov. Hi. Chil. lib. 1. cap. 1.
+Cae el opóto dee Réino diametralmente ſo-
+bre las tierras de la eſpecería, de la Coróna de
+Portugál. LOP. Dorot. f. 101. Cita un epitá-
+phio ſuyo al Marqués de Peſcára, que ſe opó-
+ne diametralmente à quantos hai eſcritos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="paragraph">
+	<Coords>
+	<Point x="72" y="1484"/>
+	<Point x="150" y="1481"/>
+	<Point x="193" y="1475"/>
+	<Point x="361" y="1458"/>
+	<Point x="1016" y="1428"/>
+	<Point x="1033" y="1909"/>
+	<Point x="1006" y="1907"/>
+	<Point x="330" y="1940"/>
+	<Point x="299" y="1973"/>
+	<Point x="107" y="1985"/>
+	<Point x="111" y="1540"/>
+	<Point x="73" y="1526"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DIAMETRAL. adj. de una term. Lo que toca ò
+pertenece al diámetro: como línea diametrál,
+punto diametrál, &amp;c. Lat. Diameter, a, um.
+Diametiens, tis. SIGUENZ. Vid. de S. Geron. lib.
+5. diſc. 4. Hiriendo unas veces perpendicular-
+mente, otras diametrál, otras al ſoslayo. Ov.
+Hi. Chil. lib. 1. cap. 1. La parte que cae en el
+quinto tiene catorce algo mas, al contrário
+de Európa, por ſer ſu opueo, aunque no
+diametrál.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="86" y="2447"/>
+	<Point x="310" y="2446"/>
+	<Point x="499" y="2441"/>
+	<Point x="520" y="2446"/>
+	<Point x="608" y="2443"/>
+	<Point x="632" y="2430"/>
+	<Point x="898" y="2421"/>
+	<Point x="1002" y="2416"/>
+	<Point x="1028" y="2431"/>
+	<Point x="1038" y="2656"/>
+	<Point x="1035" y="2828"/>
+	<Point x="768" y="2852"/>
+	<Point x="743" y="2838"/>
+	<Point x="626" y="2840"/>
+	<Point x="591" y="2866"/>
+	<Point x="557" y="2847"/>
+	<Point x="329" y="2861"/>
+	<Point x="344" y="2905"/>
+	<Point x="169" y="2907"/>
+	<Point x="117" y="2900"/>
+	<Point x="124" y="2496"/>
+	<Point x="85" y="2491"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DIAMETRO. ſ. m. Term. de Geomet. La lí-
+nea rea, que paando por el centro del cír-
+culo ò ﬁgura plana, ſe termína en la circunfe-
+réncia y por conguiente divide el área en
+dos partes iguales. Derivaſe del Griego Dia-
+metros, i, que gniﬁca eo miſmo. Ov. Hi.
+Chil. lib. 1. cap. 5. Tiene quarenta (léguas) de
+diametro, con muchas quebradas y vaes in-
+termédios.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r56" type="paragraph">
+	<Coords>
+	<Point x="92" y="2905"/>
+	<Point x="130" y="2907"/>
+	<Point x="128" y="2917"/>
+	<Point x="197" y="2921"/>
+	<Point x="866" y="2888"/>
+	<Point x="943" y="2881"/>
+	<Point x="1035" y="2886"/>
+	<Point x="1037" y="2900"/>
+	<Point x="1041" y="3230"/>
+	<Point x="955" y="3238"/>
+	<Point x="809" y="3242"/>
+	<Point x="774" y="3258"/>
+	<Point x="730" y="3260"/>
+	<Point x="375" y="3273"/>
+	<Point x="228" y="3275"/>
+	<Point x="220" y="3271"/>
+	<Point x="133" y="3261"/>
+	<Point x="113" y="3123"/>
+	<Point x="125" y="2952"/>
+	<Point x="88" y="2948"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DIAMETRO APARENTE DE UN ASTRO. Es el ar-
+co de círculo máximo, tirado por el centro
+del Aro, al qual cubre y ocupa el Aro, reſ-
+peo de nuera via, y ſe exprea ſu mag-
+nitúd en partes abraas: eo es en gra-
+dos, minútos, &amp;c. del dicho círculo. Toſc.
+tom. 7. pl. 167. Lat. Diameter apparens.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r60" type="paragraph">
+	<Coords>
+	<Point x="98" y="3262"/>
+	<Point x="118" y="3255"/>
+	<Point x="144" y="3277"/>
+	<Point x="277" y="3283"/>
+	<Point x="313" y="3281"/>
+	<Point x="732" y="3266"/>
+	<Point x="972" y="3247"/>
+	<Point x="1041" y="3244"/>
+	<Point x="1054" y="3261"/>
+	<Point x="1061" y="3471"/>
+	<Point x="488" y="3484"/>
+	<Point x="263" y="3478"/>
+	<Point x="255" y="3515"/>
+	<Point x="181" y="3515"/>
+	<Point x="151" y="3525"/>
+	<Point x="140" y="3519"/>
+	<Point x="132" y="3505"/>
+	<Point x="125" y="3309"/>
+	<Point x="99" y="3306"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DIAMETROS CONJUGADOS DE LA ELYPSE. Son
+aqueos que mutuamente dividen ſus paralé-
+las en dos partes iguales, cada uno à las del
+otro. Toſc. tom. 3. pl. 163. Lat. Diametri conju-
+gat.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r62" type="paragraph">
+	<Coords>
+	<Point x="91" y="3512"/>
+	<Point x="124" y="3513"/>
+	<Point x="138" y="3528"/>
+	<Point x="203" y="3533"/>
+	<Point x="1057" y="3494"/>
+	<Point x="1063" y="3730"/>
+	<Point x="550" y="3741"/>
+	<Point x="134" y="3732"/>
+	<Point x="130" y="3560"/>
+	<Point x="92" y="3558"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DIAMETRO DE LA ELYPSE. Es qualquier línea
+rea, que paando por el centro de la elypſe
+ſe termína por entrambas partes en ſu circun-
+fer éncia. Toſc. tom. 3. pl. 162.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r70" type="paragraph">
+	<Coords>
+	<Point x="1116" y="2923"/>
+	<Point x="2104" y="2897"/>
+	<Point x="2119" y="3526"/>
+	<Point x="1800" y="3533"/>
+	<Point x="1361" y="3547"/>
+	<Point x="1349" y="3587"/>
+	<Point x="1173" y="3607"/>
+	<Point x="1158" y="2978"/>
+	<Point x="1110" y="2971"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DIAPALMA. ſ. f. Emplao deecativo, com-
+pueo del cocimiento de palma, azéite co-
+mún y litargírio, del qual ſe rven los Ciru-
+jános para hacer grandes parches, y algunas
+veces para cubrir otros. Es reſolutívo y mui
+eﬁcáz para moderar los dolóres de las coyun-
+túras. Llámaſe Diapalma, por ſer la palma el
+fundamento de ſu compoción, ò porque
+mientras ſe hace, debe menearſe con una eſ-
+pátula de palma. Lat. Diapalma. PRAGM. DE
+TASS. año 1680. f. 21. Emplao diapalma cada
+onza à real. GONG. Com. El Dotor Carlino.
+Jorn. 1.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r74" type="paragraph">
+	<Coords>
+	<Point x="1107" y="2822"/>
+	<Point x="1339" y="2821"/>
+	<Point x="2092" y="2793"/>
+	<Point x="2086" y="2891"/>
+	<Point x="1153" y="2919"/>
+	<Point x="1164" y="2871"/>
+	<Point x="1098" y="2866"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DIANTRE. ſ. m. Lo miſmo que Dianche. Voz
+inventada tambien al miſmo efeo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r78" type="paragraph">
+	<Coords>
+	<Point x="1107" y="2512"/>
+	<Point x="2102" y="2476"/>
+	<Point x="2102" y="2784"/>
+	<Point x="1466" y="2810"/>
+	<Point x="1161" y="2814"/>
+	<Point x="1153" y="2750"/>
+	<Point x="1161" y="2579"/>
+	<Point x="1105" y="2556"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DIANCHE. ſ. m. Lo miſmo que Demónio ù
+Diablo. Es voz vulgár y mui uſada de los ig-
+norantes, pareciendoles que con la mudanza
+de las letras evítan la malicia de la gniﬁca-
+ción. PIC. JUST. f. 126. Que de caſa del dian-
+che ſacan à danzar unos zancarrónes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r82" type="paragraph">
+	<Coords>
+	<Point x="1100" y="2097"/>
+	<Point x="1378" y="2099"/>
+	<Point x="1393" y="2108"/>
+	<Point x="1415" y="2095"/>
+	<Point x="1433" y="2095"/>
+	<Point x="1436" y="2109"/>
+	<Point x="1463" y="2104"/>
+	<Point x="1496" y="2108"/>
+	<Point x="1489" y="2092"/>
+	<Point x="1545" y="2092"/>
+	<Point x="1569" y="2100"/>
+	<Point x="1646" y="2097"/>
+	<Point x="1663" y="2086"/>
+	<Point x="1681" y="2082"/>
+	<Point x="2086" y="2075"/>
+	<Point x="2101" y="2447"/>
+	<Point x="1248" y="2463"/>
+	<Point x="1247" y="2501"/>
+	<Point x="1150" y="2503"/>
+	<Point x="1144" y="2152"/>
+	<Point x="1097" y="2144"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DIAMUSCO. ſ. m. Compoción medicinál, cu-
+yo principal ingrediente es el almizcle, de
+donde tomó el nombre. Hacenſe de ea pol-
+vos y eleuário, y rve para la melancolía,
+apoplexía, perlesía, y otras enfermedades. Es
+voz Griega. PRAGM. DE TASS. año 1680. f. 21.
+Polvos de diamuſco, cada dragma à doce rea-
+les.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r84" type="paragraph">
+	<Coords>
+	<Point x="1083" y="1426"/>
+	<Point x="1124" y="1424"/>
+	<Point x="1143" y="1438"/>
+	<Point x="1413" y="1434"/>
+	<Point x="1515" y="1430"/>
+	<Point x="1844" y="1400"/>
+	<Point x="2083" y="1392"/>
+	<Point x="2080" y="1569"/>
+	<Point x="2070" y="1622"/>
+	<Point x="1581" y="1624"/>
+	<Point x="1571" y="1667"/>
+	<Point x="1528" y="1689"/>
+	<Point x="1465" y="1671"/>
+	<Point x="1443" y="1676"/>
+	<Point x="1421" y="1691"/>
+	<Point x="1397" y="1679"/>
+	<Point x="1396" y="1683"/>
+	<Point x="1377" y="1685"/>
+	<Point x="1147" y="1679"/>
+	<Point x="1121" y="1628"/>
+	<Point x="1140" y="1475"/>
+	<Point x="1094" y="1476"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DIAMETRO VERDADERO DE UN ASTRO. Es el
+diámetro miſmo del cuerpo eſphérico del Aſ-
+tro, que ſe determina en partes conocidas:
+como Semidiametros terreres, léguas, &amp;c.
+Toſc. tom. 7. pl. 167.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r86" type="paragraph">
+	<Coords>
+	<Point x="1092" y="1680"/>
+	<Point x="1191" y="1688"/>
+	<Point x="1394" y="1686"/>
+	<Point x="1408" y="1708"/>
+	<Point x="1442" y="1680"/>
+	<Point x="1461" y="1680"/>
+	<Point x="1526" y="1701"/>
+	<Point x="1562" y="1677"/>
+	<Point x="1593" y="1670"/>
+	<Point x="2081" y="1652"/>
+	<Point x="2089" y="2069"/>
+	<Point x="1732" y="2074"/>
+	<Point x="1602" y="2080"/>
+	<Point x="1567" y="2094"/>
+	<Point x="1542" y="2083"/>
+	<Point x="1465" y="2085"/>
+	<Point x="1448" y="2099"/>
+	<Point x="1432" y="2092"/>
+	<Point x="1415" y="2092"/>
+	<Point x="1402" y="2093"/>
+	<Point x="1141" y="2089"/>
+	<Point x="1140" y="1759"/>
+	<Point x="1137" y="1730"/>
+	<Point x="1086" y="1728"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DIAMORON. ſ. m. Compoción medicinál,
+que cona de zumo de moras, zarzamoras,
+miel, y arrópe. Es útil para las inﬂamaciones
+y excoriaciónes de la garganta, boca y lén-
+gua. Es voz Griega. PALAC. Paler. part. 2.
+cap. 32. Puédeſe hacer otro Diamorón, com-
+pueo de dos partes de zumo de moras à me-
+dio madurar, y una parte de miel colada.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="1090" y="1169"/>
+	<Point x="1124" y="1164"/>
+	<Point x="1145" y="1180"/>
+	<Point x="1997" y="1158"/>
+	<Point x="2026" y="1144"/>
+	<Point x="2071" y="1146"/>
+	<Point x="2084" y="1345"/>
+	<Point x="1897" y="1360"/>
+	<Point x="1873" y="1363"/>
+	<Point x="1869" y="1355"/>
+	<Point x="1574" y="1369"/>
+	<Point x="1561" y="1412"/>
+	<Point x="1509" y="1423"/>
+	<Point x="1446" y="1429"/>
+	<Point x="1390" y="1430"/>
+	<Point x="1218" y="1425"/>
+	<Point x="1136" y="1422"/>
+	<Point x="1136" y="1222"/>
+	<Point x="1080" y="1212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DIAMETRO SEGUNDO DE LA HYPERBOLA. Es
+una línea rea, media proporcional entre el
+diametro determinado y ſu parámetro, divi-
+dida por medio en el centro de la hypérbola.
+Toſc. tom. 3. pl. 231.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="catch-word">
+	<Coords>
+	<Point x="1993" y="3667"/>
+	<Point x="1989" y="3722"/>
+	<Point x="2117" y="3721"/>
+	<Point x="2115" y="3682"/>
+	<Point x="2104" y="3678"/>
+	<Point x="2043" y="3680"/>
+	<Point x="2028" y="3666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DIA-</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438799">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T07:38:12</Created>
+	<LastChange>2011-06-24T14:04:18</LastChange></Metadata>
+	<Page imageFilename="00438799.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r18" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r7" index="3"/>
+	<RegionRefIndexed regionRef="r10" index="4"/>
+	<RegionRefIndexed regionRef="r11" index="5"/>
+	<RegionRefIndexed regionRef="r12" index="6"/>
+	<RegionRefIndexed regionRef="r13" index="7"/>
+	<RegionRefIndexed regionRef="r19" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="456" y="56"/>
+	<Point x="1093" y="56"/>
+	<Point x="1096" y="154"/>
+	<Point x="451" y="140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBRAS DE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="130" y="131"/>
+	<Point x="1304" y="183"/>
+	<Point x="1348" y="180"/>
+	<Point x="1353" y="401"/>
+	<Point x="692" y="381"/>
+	<Point x="645" y="392"/>
+	<Point x="567" y="379"/>
+	<Point x="554" y="370"/>
+	<Point x="237" y="360"/>
+	<Point x="134" y="350"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Como acontece al miſero doliente,
+ del vn cabo al cierto amigo, y ſano
+le muera el graue mal de ſu acidente,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="115" y="601"/>
+	<Point x="128" y="593"/>
+	<Point x="152" y="584"/>
+	<Point x="178" y="591"/>
+	<Point x="269" y="600"/>
+	<Point x="863" y="618"/>
+	<Point x="1279" y="645"/>
+	<Point x="1290" y="854"/>
+	<Point x="1123" y="860"/>
+	<Point x="1094" y="861"/>
+	<Point x="1050" y="839"/>
+	<Point x="1004" y="845"/>
+	<Point x="979" y="857"/>
+	<Point x="959" y="856"/>
+	<Point x="828" y="838"/>
+	<Point x="462" y="823"/>
+	<Point x="259" y="822"/>
+	<Point x="224" y="833"/>
+	<Point x="152" y="805"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mas la tierna muger, de la otra parte,
+no ſe puede entregar al deſengaño,
+y encubrele del mal la mayor parte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="122" y="1275"/>
+	<Point x="279" y="1276"/>
+	<Point x="378" y="1286"/>
+	<Point x="414" y="1294"/>
+	<Point x="432" y="1293"/>
+	<Point x="455" y="1303"/>
+	<Point x="600" y="1314"/>
+	<Point x="1236" y="1303"/>
+	<Point x="1331" y="1319"/>
+	<Point x="1345" y="1504"/>
+	<Point x="1317" y="1518"/>
+	<Point x="1260" y="1528"/>
+	<Point x="962" y="1540"/>
+	<Point x="948" y="1529"/>
+	<Point x="865" y="1514"/>
+	<Point x="506" y="1522"/>
+	<Point x="491" y="1524"/>
+	<Point x="295" y="1514"/>
+	<Point x="132" y="1498"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En ee dulce error muero contento,
+porque ver claro, y conocer mi eado
+no puede ya curar el mal que ento.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="113" y="1504"/>
+	<Point x="300" y="1516"/>
+	<Point x="352" y="1524"/>
+	<Point x="496" y="1532"/>
+	<Point x="726" y="1524"/>
+	<Point x="977" y="1546"/>
+	<Point x="1178" y="1544"/>
+	<Point x="1208" y="1539"/>
+	<Point x="1225" y="1537"/>
+	<Point x="1307" y="1538"/>
+	<Point x="1341" y="1560"/>
+	<Point x="1331" y="1748"/>
+	<Point x="1325" y="1747"/>
+	<Point x="1295" y="1749"/>
+	<Point x="1251" y="1742"/>
+	<Point x="1234" y="1746"/>
+	<Point x="1184" y="1754"/>
+	<Point x="509" y="1739"/>
+	<Point x="120" y="1719"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y acabo, como aquel que en vn templado
+baño metido, n ſentio, muere,
+las venas dulcemente deſatado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="116" y="1729"/>
+	<Point x="1037" y="1762"/>
+	<Point x="1198" y="1760"/>
+	<Point x="1275" y="1764"/>
+	<Point x="1330" y="1770"/>
+	<Point x="1341" y="1797"/>
+	<Point x="1348" y="1982"/>
+	<Point x="1304" y="1979"/>
+	<Point x="1209" y="1979"/>
+	<Point x="914" y="1998"/>
+	<Point x="129" y="1991"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tu  en la patria, entre quiẽ biẽte quiere,
+la deleytoſa playa eas mirando,
+y oyẽdo el ſon del mar que en el hiere:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="credit">
+	<Coords>
+	<Point x="497" y="2095"/>
+	<Point x="981" y="2095"/>
+	<Point x="981" y="2140"/>
+	<Point x="497" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="131" y="571"/>
+	<Point x="126" y="363"/>
+	<Point x="520" y="379"/>
+	<Point x="634" y="401"/>
+	<Point x="651" y="396"/>
+	<Point x="753" y="389"/>
+	<Point x="1076" y="398"/>
+	<Point x="1351" y="412"/>
+	<Point x="1351" y="577"/>
+	<Point x="1352" y="607"/>
+	<Point x="1201" y="621"/>
+	<Point x="453" y="600"/>
+	<Point x="420" y="598"/>
+	<Point x="359" y="598"/>
+	<Point x="206" y="586"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y le amonea, que del cuerpo humano
+comience a leuantar a mejor parte
+el alma ſuelta con valor liuiano.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="107" y="825"/>
+	<Point x="194" y="825"/>
+	<Point x="222" y="840"/>
+	<Point x="254" y="829"/>
+	<Point x="404" y="833"/>
+	<Point x="444" y="827"/>
+	<Point x="664" y="838"/>
+	<Point x="789" y="840"/>
+	<Point x="977" y="861"/>
+	<Point x="1049" y="845"/>
+	<Point x="1100" y="868"/>
+	<Point x="1169" y="900"/>
+	<Point x="1199" y="1069"/>
+	<Point x="1176" y="1074"/>
+	<Point x="1142" y="1073"/>
+	<Point x="1067" y="1068"/>
+	<Point x="962" y="1063"/>
+	<Point x="844" y="1057"/>
+	<Point x="778" y="1063"/>
+	<Point x="759" y="1057"/>
+	<Point x="699" y="1062"/>
+	<Point x="638" y="1055"/>
+	<Point x="551" y="1060"/>
+	<Point x="511" y="1057"/>
+	<Point x="433" y="1054"/>
+	<Point x="366" y="1067"/>
+	<Point x="357" y="1063"/>
+	<Point x="269" y="1046"/>
+	<Point x="213" y="1053"/>
+	<Point x="133" y="1024"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El abraçado con ſu dulce engaño,
+buelue los ojos a la voz piadoſa,
+y alegraſe, muriendo con ſu daño:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="110" y="1046"/>
+	<Point x="204" y="1053"/>
+	<Point x="224" y="1058"/>
+	<Point x="270" y="1054"/>
+	<Point x="353" y="1076"/>
+	<Point x="376" y="1078"/>
+	<Point x="436" y="1058"/>
+	<Point x="582" y="1066"/>
+	<Point x="660" y="1061"/>
+	<Point x="767" y="1077"/>
+	<Point x="825" y="1069"/>
+	<Point x="958" y="1070"/>
+	<Point x="1219" y="1100"/>
+	<Point x="1221" y="1297"/>
+	<Point x="609" y="1299"/>
+	<Point x="596" y="1304"/>
+	<Point x="576" y="1295"/>
+	<Point x="472" y="1293"/>
+	<Point x="438" y="1287"/>
+	<Point x="434" y="1292"/>
+	<Point x="416" y="1293"/>
+	<Point x="404" y="1289"/>
+	<Point x="367" y="1276"/>
+	<Point x="281" y="1271"/>
+	<Point x="120" y="1266"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aſsi los quito yo de toda coſa,
+y pongolos en ſolo el penſamiento
+de la eſperança cierta, o mentiroſa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="catch-word">
+	<Coords>
+	<Point x="1188" y="2056"/>
+	<Point x="1182" y="1993"/>
+	<Point x="1309" y="1989"/>
+	<Point x="1340" y="1989"/>
+	<Point x="1346" y="2056"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y n</Unicode></TextEquiv></TextRegion></Page></PcGts>

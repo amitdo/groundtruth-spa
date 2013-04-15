@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485257">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T13:31:10</Created>
+	<LastChange>2011-05-12T13:41:10</LastChange></Metadata>
+	<Page imageFilename="00485257.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/>
+	<RegionRefIndexed regionRef="r10" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r12" type="credit">
+	<Coords>
+	<Point x="628" y="3018"/>
+	<Point x="1400" y="3018"/>
+	<Point x="1400" y="3090"/>
+	<Point x="628" y="3090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="537" y="101"/>
+	<Point x="1084" y="101"/>
+	<Point x="1082" y="198"/>
+	<Point x="545" y="195"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="page-number">
+	<Coords>
+	<Point x="1132" y="94"/>
+	<Point x="1593" y="105"/>
+	<Point x="1595" y="190"/>
+	<Point x="1127" y="183"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. CXLIIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="316" y="211"/>
+	<Point x="1156" y="209"/>
+	<Point x="1270" y="202"/>
+	<Point x="1589" y="200"/>
+	<Point x="1601" y="892"/>
+	<Point x="304" y="889"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La gran Reyna d'Amor, con grandes gentes
+Vita alguna vez, ea morada:
+Trabaja en deerrar los acidantes,
+Que vee ſalir de carcel tan maluada.
+Mas no los puede echar que ſon parientes,
+Y es ea caſa deos eredada:
+De donde ea nacio, nacieron eos,
+Y ai forçada es de ſoeneos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="315" y="994"/>
+	<Point x="1454" y="994"/>
+	<Point x="1454" y="1710"/>
+	<Point x="315" y="1710"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Forçada los ſoiene, y los conente,
+Mas trabaja,  puede, en corregios:
+Y procura d'ear deos auente,
+Sin trataos, ni veos, ni oyos:
+Y ai en ſu tierra 'a, donde no ente
+Sino dulces plazeres, y en ſentios
+Se goza, ſe deleyta, y s'enternece,
+Y el mal, con ee bien deſaparece.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="316" y="1807"/>
+	<Point x="1451" y="1807"/>
+	<Point x="1445" y="2401"/>
+	<Point x="1265" y="2401"/>
+	<Point x="1262" y="2491"/>
+	<Point x="316" y="2492"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eaſe con ſu pueblo recogido,
+Amando, y entendiendo lo que ama:
+Ardiendo blandamente en ſu ſentido,
+Con vn ardor d'una luziente ama.
+Sobre plazer ſu cuerpo ea tendido,
+Tendida ea ſobre plazer ſu cama.
+Preſentes tiene todos los amores,
+Delos mas ecelentes amadores.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="signature-mark">
+	<Coords>
+	<Point x="1307" y="2449"/>
+	<Point x="1433" y="2449"/>
+	<Point x="1433" y="2579"/>
+	<Point x="1307" y="2579"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>X</Unicode></TextEquiv></TextRegion></Page></PcGts>

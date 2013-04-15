@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485148">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T22:48:34</Created>
+	<LastChange>2011-05-12T13:40:58</LastChange></Metadata>
+	<Page imageFilename="00485148.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r4" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="632" y="3028"/>
+	<Point x="1392" y="3028"/>
+	<Point x="1392" y="3093"/>
+	<Point x="632" y="3093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="522" y="218"/>
+	<Point x="1691" y="226"/>
+	<Point x="1713" y="2435"/>
+	<Point x="1691" y="2818"/>
+	<Point x="492" y="2832"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tampoco pregunto por ſus cauaos.
+Cargaua s' en eremo con las ﬁeas:
+Y con las juas y con los torneos:
+Y mas con ſus amigos que con todos.
+Que deſcubrirſe a nadie no podia:
+Holgaua poco de ſalir al campo:
+Sino ſolo, y a donde no le vieen.
+Hablaua ai congo, y con las piedras:
+Alo menos hablaua con aqueas
+Piedras, y cantos de la torre d'Hero.
+No alcançaua plazer ni paatiempo:
+Sino era 'ar contino imaginando,
+En las gracias que de'a le quedaron,
+Pintadas en el alma para empre.
+Boluia ſobre vn punto cien mil vezes:
+No acabando jamas de contentarſe
+D'imaginar lo aſ, como eo era.
+O guando tambien de contemplarlo
+Tanto, que no podia deſarſe
+D'aqueo que vna vez le auia entrado.
+Otras vezes entre'os penſamientos,
+Se le pegaua algun eſcrupulio:
+No con razon alguna, ni con cauſa:
+Sino por vna natural dolencia:
+De quantos ſon nacidos en el mundo:
+En eſpecial d'aqueos que bien aman.
+Que quando el penſamiẽte anda mas alto,
+Llegando al cabo, el guo de ſu gloria:
+A de topar de pura fuerça entonces,
+En algo: que l'eorue ſu deleyte:
+Tanto, el temor ea cabe'l deſleo:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="800" y="105"/>
+	<Point x="1251" y="105"/>
+	<Point x="1251" y="208"/>
+	<Point x="800" y="208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r18" type="other">
+	<Coords>
+	<Point x="1258" y="105"/>
+	<Point x="1386" y="105"/>
+	<Point x="1386" y="206"/>
+	<Point x="1258" y="206"/></Coords></GraphicRegion></Page></PcGts>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442575">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T10:22:07</Created>
+	<LastChange>2012-03-12T14:12:09</LastChange></Metadata>
+	<Page imageFilename="00442575.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="406" y="49"/>
+	<Point x="1142" y="44"/>
+	<Point x="1142" y="136"/>
+	<Point x="545" y="142"/>
+	<Point x="507" y="159"/>
+	<Point x="406" y="158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="156" y="134"/>
+	<Point x="363" y="135"/>
+	<Point x="390" y="161"/>
+	<Point x="512" y="161"/>
+	<Point x="549" y="149"/>
+	<Point x="603" y="151"/>
+	<Point x="1040" y="144"/>
+	<Point x="1123" y="146"/>
+	<Point x="1139" y="162"/>
+	<Point x="1350" y="163"/>
+	<Point x="1393" y="159"/>
+	<Point x="1413" y="161"/>
+	<Point x="1423" y="162"/>
+	<Point x="1409" y="2128"/>
+	<Point x="1216" y="2121"/>
+	<Point x="1178" y="2148"/>
+	<Point x="138" y="2132"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>auian parecido pedaços de crial, las manos en los
+cabeos ſemejauan pedaços de apretada nieue: to‐
+do lo qual, en mas admiracion, y en mas deeo
+de ſaber quien era, ponia a los tres que la mira-
+uan. Por eo determinaron de morarſe, y al
+mouimiento que hizieron de ponerſe en pie, la
+hermoſa moça alçò la cabeça, y apartandoſe los
+cabeos de delante de los ojos, con entrambas
+manos, mirò los que el ruydo hazian: y apenas los
+huuo vio, quando ſe leuantò en pie, y n aguar‐
+dar a calçarſe, ni a recoger los cabeos, ao con mu
+cha preeza vn bulto como de ropa, que junto a 
+tenia, y quiſo ponerſe en huyda, ena de turba‐
+cion, y ſobreſalto: mas no huuo dado ſeys paos,
+quando no pudiendo ſufrir los delicados pies la
+aſpereza de las piedras, dio congo en el ſuelo.
+Lo qual vio por los tres, ſalieron a ea, y el Cu‐
+ra fue el primero que le dixo: Deteneos, ſeñora,
+quien quiera que ſeays, que los que aqui veys ſo‐
+lo tienen intencion de ſeruiros: no ay para que
+os pongays en tan impertinente huyda, porque
+ni vueros pies lo podran ſufrir, ni noſotros con‐
+ſentir. A todo eo ea no reſpondia palabra, ato-
+nita, y confuſa. Llegaron pues a ea, y aen-
+dola por la mano, el Cura proguio, diziendo: Lo
+que vuero traje, ſeñora, nos niega, vueros cabe‐
+os nos deſcubren ſeñales claras, que no deuen de
+ſer de poco momẽto las cauſas que han disfraçado
+vuera beeza en habito tan indigno, y traydola a
+tanta ſoledad como es ea, en la qual ha do vẽtura
+el haaros: no para dar remedio a vueros males,
+alomenos para darles conſejo, pues ningun mal</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1210" y="2133"/>
+	<Point x="1378" y="2133"/>
+	<Point x="1378" y="2208"/>
+	<Point x="1210" y="2208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>puede</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="471" y="2307"/>
+	<Point x="1120" y="2305"/>
+	<Point x="1127" y="2358"/>
+	<Point x="455" y="2352"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1254" y="78"/>
+	<Point x="1254" y="160"/>
+	<Point x="1340" y="160"/>
+	<Point x="1378" y="156"/>
+	<Point x="1379" y="78"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>150</Unicode></TextEquiv></TextRegion></Page></PcGts>

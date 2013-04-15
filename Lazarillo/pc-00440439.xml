@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440439">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:10:32</Created>
+	<LastChange>2011-07-05T14:26:00</LastChange></Metadata>
+	<Page imageFilename="00440439.tif" imageWidth="880" imageHeight="1599">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r11" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/>
+	<RegionRefIndexed regionRef="r24" index="2"/>
+	<RegionRefIndexed regionRef="r28" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r10" type="drop-capital">
+	<Coords>
+	<Point x="70" y="664"/>
+	<Point x="72" y="841"/>
+	<Point x="139" y="841"/>
+	<Point x="142" y="818"/>
+	<Point x="131" y="816"/>
+	<Point x="138" y="697"/>
+	<Point x="148" y="693"/>
+	<Point x="150" y="662"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="credit">
+	<Coords>
+	<Point x="285" y="1552"/>
+	<Point x="285" y="1586"/>
+	<Point x="581" y="1586"/>
+	<Point x="581" y="1552"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r9" type="other">
+	<Coords>
+	<Point x="79" y="78"/>
+	<Point x="827" y="90"/>
+	<Point x="821" y="194"/>
+	<Point x="779" y="188"/>
+	<Point x="617" y="186"/>
+	<Point x="83" y="178"/>
+	<Point x="76" y="89"/></Coords></GraphicRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="158" y="661"/>
+	<Point x="827" y="660"/>
+	<Point x="827" y="875"/>
+	<Point x="144" y="870"/>
+	<Point x="148" y="810"/>
+	<Point x="135" y="808"/>
+	<Point x="137" y="790"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LLVS TRISSIMA
+y excelentißima PRIN-
+CESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="40" y="880"/>
+	<Point x="823" y="880"/>
+	<Point x="823" y="1477"/>
+	<Point x="40" y="1477"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Coſa comun es a todos los que
+eſcriuen, dedicar ſus obras a quien
+con ſu autoridad las ampare, y
+con ſu poder las deﬁenda. Ha-
+uiendo yo determinado de ſacar a
+luz la Segunda Parte de la vida
+del gran Lazaro de Tormes,
+eſpejo, y dechado de la ſobriedad</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="signature-mark">
+	<Coords>
+	<Point x="498" y="1484"/>
+	<Point x="558" y="1481"/>
+	<Point x="685" y="1482"/>
+	<Point x="682" y="1550"/>
+	<Point x="501" y="1543"/>
+	<Point x="496" y="1491"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A ij</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="72" y="196"/>
+	<Point x="72" y="197"/>
+	<Point x="198" y="197"/>
+	<Point x="198" y="198"/>
+	<Point x="323" y="198"/>
+	<Point x="323" y="199"/>
+	<Point x="448" y="199"/>
+	<Point x="448" y="200"/>
+	<Point x="573" y="200"/>
+	<Point x="573" y="201"/>
+	<Point x="698" y="201"/>
+	<Point x="698" y="202"/>
+	<Point x="823" y="202"/>
+	<Point x="823" y="381"/>
+	<Point x="824" y="381"/>
+	<Point x="824" y="559"/>
+	<Point x="825" y="559"/>
+	<Point x="825" y="627"/>
+	<Point x="72" y="627"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CARTA DEDICATORIA
+A LA
+ILLVSTRISSIMA
+PRINCESA DOA
+HENRIETTE DE ROHAN.</Unicode></TextEquiv></TextRegion></Page></PcGts>

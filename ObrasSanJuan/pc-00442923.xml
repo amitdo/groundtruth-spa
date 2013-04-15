@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442923">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T02:26:45</Created>
+	<LastChange>2011-03-15T16:51:28</LastChange></Metadata>
+	<Page imageFilename="00442923.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/>
+	<RegionRefIndexed regionRef="r8" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="784" y="48"/>
+	<Point x="784" y="134"/>
+	<Point x="1498" y="134"/>
+	<Point x="1498" y="48"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>INTRODVCION.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="412" y="184"/>
+	<Point x="418" y="807"/>
+	<Point x="577" y="802"/>
+	<Point x="960" y="796"/>
+	<Point x="968" y="810"/>
+	<Point x="981" y="815"/>
+	<Point x="996" y="812"/>
+	<Point x="1312" y="802"/>
+	<Point x="1331" y="814"/>
+	<Point x="1359" y="814"/>
+	<Point x="1368" y="800"/>
+	<Point x="1887" y="805"/>
+	<Point x="1882" y="184"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dos coſas; la una, añadir un nuevo libro a los demas
+ya impreſos en Eſpaña, que es el de las Canciones,
+que comiençan: Adonde te eſcondie. La otra, ajuſ-
+tar aſi ee, como los antes impreſos a ſus propios Ori-
+ginales, eſcritos de letra del miſmo Venerable Autor.
+Ee ha ſido el diſcurſo de la publicacion, è impreſion
+haſta aora deas Obras. Rea, para mayor noticia de
+ellas, darla de ſu Argumento i Dignidad.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="414" y="2722"/>
+	<Point x="414" y="818"/>
+	<Point x="563" y="811"/>
+	<Point x="581" y="809"/>
+	<Point x="886" y="809"/>
+	<Point x="926" y="822"/>
+	<Point x="1044" y="816"/>
+	<Point x="1318" y="819"/>
+	<Point x="1453" y="814"/>
+	<Point x="1900" y="818"/>
+	<Point x="1901" y="2716"/>
+	<Point x="1713" y="2718"/>
+	<Point x="1675" y="2734"/>
+	<Point x="1214" y="2736"/>
+	<Point x="1202" y="2729"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Contiene ee volumen cuatro libros. El prime-
+ro ſe llama Subida del Monte Carmelo, en el cual(con-
+formando ſu argumento con el nombre CARMELO,
+que quiere dezir ciencia de circunciſion) procura
+el Autor circuncidar los ſentidos i potencias del Va
+ron eſpiritual; enſeñandole a buſcar una perfeta deſ-
+nudez interior. I porque para ella ſe requiere tener
+purificado el Sentido la Inteligencia i el Afeo, re-
+parte ee libro, ò Tratado en otros tres; i en el pri-
+mero enſeña à deſaſirſe de todo Objeto ſenſible, en el
+fegundo, a deſnudarſe de toda inutil Aprehenſion; i en
+el tercero, a vaziarſe de todo Gozo vano, dexando los
+ſenos del Entendimiento, Memoria, i Voluntad deſem
+baraçados i limpios, para recebir mas pura la divina
+influencia, por medio de la Fè , Eſperança, i Cari-
+dad, en que nuero Autor conſtituye el proximo me-
+dio para la divina Vnion. El ſegundo libro ſe intitu-
+la, Noche eſcura, en que ſe declara la terrible eſcuri-
+dad de aprietos interiores, con que Dios ſuele purgar
+las almas, que han de ſubir a una mui levantada perſe-
+cion. Contiene ee Tratado dos libros: En el prime-
+ro, ſe trata de la Noche, o purgacion eſpiritual del ſen-
+tido; en el ſegundo, de la del eſpiritu. Por lo cual vie-
+nen eos dos Tratados, de la Subida del Monte
+i de la Noche eſcura, a enlaçarſe deſuerte, que tra-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="1718" y="2792"/>
+	<Point x="1717" y="2737"/>
+	<Point x="1824" y="2725"/>
+	<Point x="1833" y="2724"/>
+	<Point x="1883" y="2729"/>
+	<Point x="1886" y="2793"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tando</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="776" y="2932"/>
+	<Point x="774" y="2996"/>
+	<Point x="1418" y="2996"/>
+	<Point x="1414" y="2938"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

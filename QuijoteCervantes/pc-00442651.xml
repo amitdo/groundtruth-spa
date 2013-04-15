@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442651">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:06:07</Created>
+	<LastChange>2012-03-12T14:12:13</LastChange></Metadata>
+	<Page imageFilename="00442651.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="452" y="67"/>
+	<Point x="1183" y="65"/>
+	<Point x="1195" y="154"/>
+	<Point x="586" y="157"/>
+	<Point x="535" y="165"/>
+	<Point x="521" y="164"/>
+	<Point x="438" y="153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="152" y="151"/>
+	<Point x="456" y="159"/>
+	<Point x="479" y="161"/>
+	<Point x="532" y="169"/>
+	<Point x="585" y="161"/>
+	<Point x="1433" y="160"/>
+	<Point x="1451" y="2122"/>
+	<Point x="1327" y="2128"/>
+	<Point x="1269" y="2141"/>
+	<Point x="1005" y="2136"/>
+	<Point x="976" y="2119"/>
+	<Point x="959" y="2129"/>
+	<Point x="155" y="2188"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>lo que aora pienſo dezirte, acabaràs de venir en co-
+nocimiento del grande error  quieres cometer.
+Dime Anſelmo,  el cielo, o la ſuerte buena, te hu-
+uiera hecho ſeñor, y legitimo poeor de vn ﬁniſ-
+mo diamãte, de cu ya bõdad, y quilates euuieen
+ſatisfechos quãtos lapidarios le vieen, y  todos a
+vna voz, y de comun parecer dixeen,  egaua en
+quilates, bondad, y ﬁneza, a quãto ſe podia eender
+la naturaleza de tal piedra, y tu meſmo lo creyees
+aſsi, n ſaber otra coſa en contrario, ſeria juo  te
+viniee en deeo de tomar aquel diamante, y po-
+nerle entre vn ayunque, y vn martio, y ai a pura
+fuerça de golpes, y braços, prouar  es tan duro, y
+tan ﬁno como dizẽ? y mas  lo puees por obra: 
+pueo caſo  la piedra hiziee reẽcia a tã necia
+prueua, no por eo ſe le añadiria mas valor, ni mas
+fama: y  ſe rõpiee, coſa  podria ſer, no ſe perdia
+todo? Si por cierto, dexãdo a ſu dueño en eimaciõ
+de  todos le tengan por mple. Pues haz cuenta,
+Anſelmo amigo, que Camila es ﬁniſsimo diamãte,
+aſsi en tu eimacion, como en la agena, y que no es
+razon ponerla en contingẽcia de  ſe quiebre, pues
+aunque ſe quede con ſu entereza, no puede ſubir a
+mas valor del que aora tiene: y  faltae, y no reſ-
+tiee, condera deſde aora, qual quedarias n ea,
+y con quanta razon te podrias quexar de ti meſmo,
+por auer do cauſa de ſu perdicion, y la tuya? Mira
+que no ay joya en el mundo que tanto valga, como
+la muger caa, y honrada, y que todo el honor de
+las mugeres, cone en la opinion buena  deas
+ſe tiene: y pues la de tu eſpoſa es tal, que ega al eſ-
+tremo de bondad que ſabes, para que quieres</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="signature-mark">
+	<Coords>
+	<Point x="973" y="2124"/>
+	<Point x="947" y="2162"/>
+	<Point x="950" y="2197"/>
+	<Point x="1127" y="2197"/>
+	<Point x="1129" y="2146"/>
+	<Point x="1010" y="2142"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aa 4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1284" y="2140"/>
+	<Point x="1276" y="2207"/>
+	<Point x="1445" y="2195"/>
+	<Point x="1448" y="2134"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>poner</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="455" y="2300"/>
+	<Point x="459" y="2355"/>
+	<Point x="1019" y="2357"/>
+	<Point x="1132" y="2354"/>
+	<Point x="1138" y="2300"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1282" y="82"/>
+	<Point x="1283" y="157"/>
+	<Point x="1436" y="155"/>
+	<Point x="1435" y="82"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>188</Unicode></TextEquiv></TextRegion></Page></PcGts>

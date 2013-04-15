@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485415">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T00:49:48</Created>
+	<LastChange>2011-05-12T13:41:30</LastChange></Metadata>
+	<Page imageFilename="00485415.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="credit">
+	<Coords>
+	<Point x="632" y="3018"/>
+	<Point x="1386" y="3018"/>
+	<Point x="1386" y="3093"/>
+	<Point x="632" y="3093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="387" y="189"/>
+	<Point x="1584" y="198"/>
+	<Point x="1589" y="2724"/>
+	<Point x="398" y="2724"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Moraua tu ﬁgura en vna pieça
+Pintada, ſu cabeça ai ſe via:
+Que los ojos boluia: ya eſpirando.
+Y eauate mirando, aquel tirano:
+Que con acerba mano, euo a hecho,
+De tierno en tierno pecho, tu compaña
+Por la ﬁera Alemaña, d'aqui parte
+El Duque a aquea parte, endereçado:
+Donde el criiano eado, eaua en dubio.
+En ﬁn al gran Danubio, s'encomienda:
+Por el ſuelta la riendas, a ſu nauio
+Que con poco deſuio dela tierra:
+Entre vna y otra erra, el agua hiende.
+El remo, que de deciende, en fuerça ſuma
+Mueue la blanca eſpuma, como argento.
+El veloz mouimiento, parecia:
+Que pintado ſe via, ante los ojos.
+Con amoroſos ojos, adelante
+Carlo Ceſar triumphante, le abraçaua:
+Quando deſembarcaua, en Ratiſbona.
+Ai por la corona, del imperio:
+Eaua el magierio, dela tierra:
+Conuocado a la guerra, que'ſperauan.
+Todos eos eauan, enclauando:
+Los ojos en fernando y en el punto
+Que ai le vieron junto, ſe prometen
+De quanto ai acometen, la vitoria.
+Con falſa y vana gloria, y arogancia
+Con barbara jaancia, ai ſe via:
+A los ﬁnes de Vngria, el campo pueo:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="498" y="85"/>
+	<Point x="1087" y="85"/>
+	<Point x="1094" y="177"/>
+	<Point x="501" y="186"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ QVARTO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="1104" y="79"/>
+	<Point x="1607" y="79"/>
+	<Point x="1607" y="175"/>
+	<Point x="1104" y="175"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. CCXXIII.</Unicode></TextEquiv></TextRegion></Page></PcGts>

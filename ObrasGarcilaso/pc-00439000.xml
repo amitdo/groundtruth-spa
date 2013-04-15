@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439000">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T21:15:08</Created>
+	<LastChange>2011-06-24T14:04:31</LastChange></Metadata>
+	<Page imageFilename="00439000.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r15" index="0"/>
+	<RegionRefIndexed regionRef="r17" index="1"/>
+	<RegionRefIndexed regionRef="r21" index="2"/>
+	<RegionRefIndexed regionRef="r25" index="3"/>
+	<RegionRefIndexed regionRef="r27" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="493" y="2100"/>
+	<Point x="980" y="2100"/>
+	<Point x="980" y="2140"/>
+	<Point x="493" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="272" y="77"/>
+	<Point x="1097" y="77"/>
+	<Point x="1097" y="172"/>
+	<Point x="272" y="172"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A GARCILASSO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="1164" y="112"/>
+	<Point x="1270" y="112"/>
+	<Point x="1270" y="178"/>
+	<Point x="1164" y="178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>132</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="47" y="174"/>
+	<Point x="1111" y="176"/>
+	<Point x="1140" y="185"/>
+	<Point x="1273" y="184"/>
+	<Point x="1283" y="725"/>
+	<Point x="759" y="727"/>
+	<Point x="742" y="780"/>
+	<Point x="58" y="771"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eaua el Hymeneo el diero pie calçado.
+Hymeneo era el dios de las bodas El dieſ-
+tro pie calçado gniﬁca buen aguero para
+que el caſamiento dure, porque la Reyna
+Dido, para deſatar el caſamiẽto de Eneas,
+tenia vn pie deſcalço, como dize Virgil.
+Vnum exuta pedem vinclis, &amp;c. Eotro
+es tomado de Catuo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="70" y="789"/>
+	<Point x="781" y="785"/>
+	<Point x="1096" y="771"/>
+	<Point x="1269" y="778"/>
+	<Point x="1282" y="855"/>
+	<Point x="1097" y="864"/>
+	<Point x="1081" y="864"/>
+	<Point x="949" y="871"/>
+	<Point x="864" y="864"/>
+	<Point x="586" y="862"/>
+	<Point x="562" y="873"/>
+	<Point x="472" y="864"/>
+	<Point x="376" y="858"/>
+	<Point x="72" y="851"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Huo veni niueo gerens luteum pede ſocum.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="marginalia">
+	<Coords>
+	<Point x="1263" y="867"/>
+	<Point x="1374" y="864"/>
+	<Point x="1370" y="922"/>
+	<Point x="1263" y="921"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>180</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="81" y="864"/>
+	<Point x="373" y="862"/>
+	<Point x="465" y="868"/>
+	<Point x="564" y="876"/>
+	<Point x="584" y="868"/>
+	<Point x="725" y="865"/>
+	<Point x="865" y="868"/>
+	<Point x="950" y="873"/>
+	<Point x="965" y="874"/>
+	<Point x="1082" y="866"/>
+	<Point x="1097" y="867"/>
+	<Point x="1260" y="860"/>
+	<Point x="1260" y="925"/>
+	<Point x="1282" y="936"/>
+	<Point x="1279" y="1081"/>
+	<Point x="1132" y="1083"/>
+	<Point x="1116" y="1095"/>
+	<Point x="1092" y="1101"/>
+	<Point x="1063" y="1085"/>
+	<Point x="79" y="1078"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De Virgines vn coro, &amp;c. Todos eos ri-
+tos ſolian los antiguos vſar en las bodas, y
+todo es tomado de Catuo en ſu Epitala.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="marginalia">
+	<Coords>
+	<Point x="1287" y="1074"/>
+	<Point x="1377" y="1073"/>
+	<Point x="1375" y="1139"/>
+	<Point x="1290" y="1143"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>181</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="66" y="1159"/>
+	<Point x="163" y="1160"/>
+	<Point x="170" y="1087"/>
+	<Point x="1060" y="1090"/>
+	<Point x="1085" y="1111"/>
+	<Point x="1115" y="1099"/>
+	<Point x="1135" y="1089"/>
+	<Point x="1284" y="1091"/>
+	<Point x="1323" y="1982"/>
+	<Point x="1180" y="1983"/>
+	<Point x="1167" y="1998"/>
+	<Point x="928" y="2001"/>
+	<Point x="901" y="1987"/>
+	<Point x="832" y="1986"/>
+	<Point x="798" y="2011"/>
+	<Point x="70" y="2016"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mas el por compañera tomò. Toca
+aqui la ﬁccion del Filoſofo Prodico, la
+qual reﬁere Xenofon. Y es, que Hercu-
+les endo mancebo, yendo por vn cami-
+no, egò a donde ſe partian dos caminos,
+y eando dudoſo por qual yria, vio venir
+por cada vno vna donzea: vna muy her-
+moſa, y otra robua y varonil: cada vna
+le rogaua, que fuee por ſu camino: y la
+muy hermoſa al parecer exterior, que
+era Voluptas, el deleyte, prometia en
+ſu camino muchos regalos, y deſcanſos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="catch-word">
+	<Coords>
+	<Point x="1212" y="1990"/>
+	<Point x="1261" y="1987"/>
+	<Point x="1316" y="1996"/>
+	<Point x="1314" y="2061"/>
+	<Point x="1213" y="2057"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="signature-mark">
+	<Coords>
+	<Point x="845" y="1993"/>
+	<Point x="896" y="1994"/>
+	<Point x="914" y="2008"/>
+	<Point x="1040" y="2005"/>
+	<Point x="1042" y="2075"/>
+	<Point x="846" y="2075"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>R 4</Unicode></TextEquiv></TextRegion></Page></PcGts>

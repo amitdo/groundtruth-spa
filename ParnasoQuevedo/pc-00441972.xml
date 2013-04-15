@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441972">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T12:24:00</Created>
+	<LastChange>2011-07-05T14:26:43</LastChange></Metadata>
+	<Page imageFilename="00441972.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r28" index="0"/>
+	<RegionRefIndexed regionRef="r29" index="1"/>
+	<RegionRefIndexed regionRef="r30" index="2"/>
+	<RegionRefIndexed regionRef="r31" index="3"/>
+	<RegionRefIndexed regionRef="r32" index="4"/>
+	<RegionRefIndexed regionRef="r33" index="5"/>
+	<RegionRefIndexed regionRef="r49" index="6"/>
+	<RegionRefIndexed regionRef="r34" index="7"/>
+	<RegionRefIndexed regionRef="r12" index="8"/>
+	<RegionRefIndexed regionRef="r36" index="9"/>
+	<RegionRefIndexed regionRef="r37" index="10"/>
+	<RegionRefIndexed regionRef="r38" index="11"/>
+	<RegionRefIndexed regionRef="r39" index="12"/>
+	<RegionRefIndexed regionRef="r40" index="13"/>
+	<RegionRefIndexed regionRef="r41" index="14"/>
+	<RegionRefIndexed regionRef="r42" index="15"/>
+	<RegionRefIndexed regionRef="r43" index="16"/>
+	<RegionRefIndexed regionRef="r44" index="17"/>
+	<RegionRefIndexed regionRef="r45" index="18"/>
+	<RegionRefIndexed regionRef="r47" index="19"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r26" type="header">
+	<Coords>
+	<Point x="841" y="226"/>
+	<Point x="841" y="324"/>
+	<Point x="1319" y="324"/>
+	<Point x="1319" y="226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MVSA V.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="page-number">
+	<Coords>
+	<Point x="1785" y="226"/>
+	<Point x="1785" y="360"/>
+	<Point x="1978" y="360"/>
+	<Point x="1978" y="226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>387</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="215" y="318"/>
+	<Point x="216" y="481"/>
+	<Point x="530" y="493"/>
+	<Point x="1030" y="495"/>
+	<Point x="1014" y="348"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De quien los aprenderemos,
+Mas vivos, i menos burdos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="133" y="491"/>
+	<Point x="137" y="584"/>
+	<Point x="215" y="581"/>
+	<Point x="212" y="640"/>
+	<Point x="456" y="637"/>
+	<Point x="473" y="656"/>
+	<Point x="494" y="658"/>
+	<Point x="504" y="656"/>
+	<Point x="527" y="641"/>
+	<Point x="670" y="645"/>
+	<Point x="670" y="505"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De los locos?
+No me agrada.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="131" y="645"/>
+	<Point x="138" y="726"/>
+	<Point x="226" y="726"/>
+	<Point x="223" y="793"/>
+	<Point x="598" y="790"/>
+	<Point x="602" y="655"/>
+	<Point x="554" y="652"/>
+	<Point x="498" y="666"/>
+	<Point x="468" y="662"/>
+	<Point x="427" y="652"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De los bravos?
+Abernuncio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="147" y="805"/>
+	<Point x="147" y="876"/>
+	<Point x="205" y="883"/>
+	<Point x="200" y="958"/>
+	<Point x="286" y="959"/>
+	<Point x="286" y="1020"/>
+	<Point x="1025" y="1013"/>
+	<Point x="1026" y="801"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Io de los endemoniados
+Lo mas que he bailado eu-
+dio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="130" y="1027"/>
+	<Point x="134" y="1101"/>
+	<Point x="208" y="1102"/>
+	<Point x="206" y="1174"/>
+	<Point x="517" y="1165"/>
+	<Point x="526" y="1176"/>
+	<Point x="540" y="1176"/>
+	<Point x="555" y="1166"/>
+	<Point x="692" y="1171"/>
+	<Point x="697" y="1189"/>
+	<Point x="702" y="1189"/>
+	<Point x="722" y="1173"/>
+	<Point x="1021" y="1170"/>
+	<Point x="1037" y="1027"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. No en balde te hacen guerra
+Exorciſmos, i conjuros.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="135" y="1181"/>
+	<Point x="125" y="1257"/>
+	<Point x="203" y="1263"/>
+	<Point x="205" y="1471"/>
+	<Point x="1030" y="1482"/>
+	<Point x="1026" y="1180"/>
+	<Point x="724" y="1176"/>
+	<Point x="707" y="1190"/>
+	<Point x="703" y="1193"/>
+	<Point x="690" y="1189"/>
+	<Point x="686" y="1186"/>
+	<Point x="618" y="1183"/>
+	<Point x="546" y="1186"/>
+	<Point x="408" y="1180"/>
+	<Point x="213" y="1177"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eſc. Si ſe han de eudiar meneos,
+Ademanes, deſpachûrros
+Nuevos de riſa, i picantes,
+Con tembladeras de muslos,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords>
+	<Point x="131" y="1633"/>
+	<Point x="129" y="1777"/>
+	<Point x="937" y="1782"/>
+	<Point x="939" y="1633"/>
+	<Point x="751" y="1632"/>
+	<Point x="735" y="1653"/>
+	<Point x="695" y="1654"/>
+	<Point x="686" y="1629"/>
+	<Point x="553" y="1630"/>
+	<Point x="541" y="1651"/>
+	<Point x="517" y="1652"/>
+	<Point x="502" y="1626"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Io le go, io lo apruebo,
+2. Io concurro, io concurro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="136" y="1782"/>
+	<Point x="1011" y="1786"/>
+	<Point x="1012" y="2048"/>
+	<Point x="1007" y="2061"/>
+	<Point x="1007" y="2082"/>
+	<Point x="952" y="2080"/>
+	<Point x="940" y="2101"/>
+	<Point x="937" y="2102"/>
+	<Point x="928" y="2096"/>
+	<Point x="919" y="2079"/>
+	<Point x="876" y="2083"/>
+	<Point x="868" y="2106"/>
+	<Point x="851" y="2102"/>
+	<Point x="852" y="2093"/>
+	<Point x="851" y="2093"/>
+	<Point x="851" y="2092"/>
+	<Point x="850" y="2092"/>
+	<Point x="850" y="2091"/>
+	<Point x="849" y="2091"/>
+	<Point x="849" y="2090"/>
+	<Point x="848" y="2090"/>
+	<Point x="848" y="2089"/>
+	<Point x="847" y="2089"/>
+	<Point x="847" y="2088"/>
+	<Point x="846" y="2088"/>
+	<Point x="846" y="2087"/>
+	<Point x="845" y="2087"/>
+	<Point x="845" y="2086"/>
+	<Point x="844" y="2086"/>
+	<Point x="844" y="2085"/>
+	<Point x="843" y="2085"/>
+	<Point x="843" y="2084"/>
+	<Point x="842" y="2084"/>
+	<Point x="842" y="2083"/>
+	<Point x="714" y="2083"/>
+	<Point x="714" y="2084"/>
+	<Point x="712" y="2084"/>
+	<Point x="712" y="2085"/>
+	<Point x="710" y="2085"/>
+	<Point x="710" y="2086"/>
+	<Point x="708" y="2086"/>
+	<Point x="708" y="2087"/>
+	<Point x="706" y="2087"/>
+	<Point x="706" y="2088"/>
+	<Point x="704" y="2088"/>
+	<Point x="704" y="2089"/>
+	<Point x="700" y="2090"/>
+	<Point x="702" y="2090"/>
+	<Point x="700" y="2090"/>
+	<Point x="700" y="2091"/>
+	<Point x="699" y="2091"/>
+	<Point x="699" y="2092"/>
+	<Point x="687" y="2092"/>
+	<Point x="687" y="2090"/>
+	<Point x="686" y="2090"/>
+	<Point x="686" y="2088"/>
+	<Point x="685" y="2088"/>
+	<Point x="685" y="2086"/>
+	<Point x="684" y="2086"/>
+	<Point x="684" y="2084"/>
+	<Point x="683" y="2084"/>
+	<Point x="683" y="2082"/>
+	<Point x="682" y="2082"/>
+	<Point x="682" y="2081"/>
+	<Point x="650" y="2081"/>
+	<Point x="650" y="2080"/>
+	<Point x="629" y="2080"/>
+	<Point x="629" y="2079"/>
+	<Point x="626" y="2079"/>
+	<Point x="626" y="2078"/>
+	<Point x="566" y="2078"/>
+	<Point x="566" y="2077"/>
+	<Point x="451" y="2077"/>
+	<Point x="451" y="2076"/>
+	<Point x="449" y="2076"/>
+	<Point x="449" y="2075"/>
+	<Point x="447" y="2075"/>
+	<Point x="447" y="2074"/>
+	<Point x="330" y="2094"/>
+	<Point x="318" y="2095"/>
+	<Point x="313" y="2094"/>
+	<Point x="302" y="2090"/>
+	<Point x="281" y="2091"/>
+	<Point x="269" y="2088"/>
+	<Point x="250" y="2082"/>
+	<Point x="202" y="2078"/>
+	<Point x="195" y="1972"/>
+	<Point x="204" y="1861"/>
+	<Point x="137" y="1861"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eſc. Pues no hai no coſquiar,
+Coſquieſe todo el mundo,
+Hijos, tocad a coſquias,
+Que ia las ento, i me pũço.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords>
+	<Point x="120" y="2087"/>
+	<Point x="126" y="2161"/>
+	<Point x="202" y="2157"/>
+	<Point x="202" y="2378"/>
+	<Point x="519" y="2376"/>
+	<Point x="661" y="2384"/>
+	<Point x="690" y="2401"/>
+	<Point x="705" y="2399"/>
+	<Point x="722" y="2395"/>
+	<Point x="732" y="2391"/>
+	<Point x="883" y="2383"/>
+	<Point x="1008" y="2380"/>
+	<Point x="1027" y="2087"/>
+	<Point x="952" y="2085"/>
+	<Point x="940" y="2108"/>
+	<Point x="924" y="2094"/>
+	<Point x="886" y="2087"/>
+	<Point x="877" y="2113"/>
+	<Point x="847" y="2108"/>
+	<Point x="838" y="2088"/>
+	<Point x="715" y="2088"/>
+	<Point x="703" y="2100"/>
+	<Point x="686" y="2101"/>
+	<Point x="666" y="2088"/>
+	<Point x="523" y="2083"/>
+	<Point x="420" y="2084"/>
+	<Point x="353" y="2092"/>
+	<Point x="323" y="2096"/>
+	<Point x="312" y="2095"/>
+	<Point x="302" y="2091"/>
+	<Point x="293" y="2092"/>
+	<Point x="269" y="2099"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Muſ. Todo hõbre es concebido
+En coſquia original,
+Quiẽ no las tiene en los lados.
+Las tiene en el eſpaldar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords>
+	<Point x="127" y="2383"/>
+	<Point x="130" y="2463"/>
+	<Point x="203" y="2460"/>
+	<Point x="196" y="2630"/>
+	<Point x="1016" y="2633"/>
+	<Point x="1010" y="2390"/>
+	<Point x="734" y="2393"/>
+	<Point x="712" y="2399"/>
+	<Point x="687" y="2408"/>
+	<Point x="657" y="2390"/>
+	<Point x="505" y="2383"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hai coſquia cabriola,
+Hai coſquia maçorral,
+Del concómo, i del gritio,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords>
+	<Point x="1142" y="337"/>
+	<Point x="1145" y="414"/>
+	<Point x="1371" y="419"/>
+	<Point x="1375" y="437"/>
+	<Point x="1383" y="440"/>
+	<Point x="1398" y="434"/>
+	<Point x="1402" y="423"/>
+	<Point x="1464" y="419"/>
+	<Point x="1459" y="443"/>
+	<Point x="1477" y="442"/>
+	<Point x="1478" y="421"/>
+	<Point x="1778" y="429"/>
+	<Point x="1777" y="337"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Con ſu poquito de ai.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="1069" y="418"/>
+	<Point x="1068" y="512"/>
+	<Point x="1144" y="515"/>
+	<Point x="1146" y="727"/>
+	<Point x="1297" y="723"/>
+	<Point x="1312" y="742"/>
+	<Point x="1329" y="742"/>
+	<Point x="1332" y="722"/>
+	<Point x="1451" y="724"/>
+	<Point x="1454" y="751"/>
+	<Point x="1471" y="751"/>
+	<Point x="1482" y="729"/>
+	<Point x="1866" y="731"/>
+	<Point x="1862" y="443"/>
+	<Point x="1677" y="433"/>
+	<Point x="1500" y="438"/>
+	<Point x="1485" y="456"/>
+	<Point x="1438" y="455"/>
+	<Point x="1429" y="436"/>
+	<Point x="1409" y="432"/>
+	<Point x="1398" y="436"/>
+	<Point x="1380" y="443"/>
+	<Point x="1367" y="434"/>
+	<Point x="1360" y="425"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hai coſquias de peizco,
+I coſquias de arañar,
+Coſquias de palpaduras,
+I coſquiaça mental.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords>
+	<Point x="1072" y="732"/>
+	<Point x="1075" y="823"/>
+	<Point x="1153" y="816"/>
+	<Point x="1150" y="1031"/>
+	<Point x="1970" y="1045"/>
+	<Point x="1953" y="746"/>
+	<Point x="1490" y="734"/>
+	<Point x="1471" y="756"/>
+	<Point x="1450" y="755"/>
+	<Point x="1442" y="728"/>
+	<Point x="1335" y="726"/>
+	<Point x="1332" y="747"/>
+	<Point x="1310" y="746"/>
+	<Point x="1296" y="728"/>
+	<Point x="1167" y="732"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hai coſquiones barbados
+En hombres de mucha edad,
+Que les ean como al diablo,
+La Cruz, i el libro Mial.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords>
+	<Point x="1077" y="1042"/>
+	<Point x="1081" y="1116"/>
+	<Point x="1154" y="1116"/>
+	<Point x="1148" y="1330"/>
+	<Point x="1234" y="1350"/>
+	<Point x="1271" y="1343"/>
+	<Point x="1284" y="1327"/>
+	<Point x="1965" y="1350"/>
+	<Point x="1967" y="1056"/>
+	<Point x="1163" y="1038"/>
+	<Point x="1141" y="1040"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Coſquias hai Marionas
+De riſa con humedad,
+Coſquias envergonçantes,
+Que andan de noche no mas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords>
+	<Point x="1076" y="1327"/>
+	<Point x="1076" y="1408"/>
+	<Point x="1149" y="1419"/>
+	<Point x="1143" y="1632"/>
+	<Point x="1377" y="1638"/>
+	<Point x="1380" y="1658"/>
+	<Point x="1413" y="1659"/>
+	<Point x="1410" y="1637"/>
+	<Point x="1955" y="1650"/>
+	<Point x="1965" y="1358"/>
+	<Point x="1286" y="1330"/>
+	<Point x="1274" y="1346"/>
+	<Point x="1242" y="1352"/>
+	<Point x="1220" y="1352"/>
+	<Point x="1201" y="1347"/>
+	<Point x="1126" y="1338"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Coſquias ſe uſan poiças,
+Como pantorrias ia,
+Quien de ſuio no las tiene,
+Las compra donde las hai.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="1062" y="1638"/>
+	<Point x="1062" y="1717"/>
+	<Point x="1140" y="1723"/>
+	<Point x="1143" y="1935"/>
+	<Point x="1435" y="1941"/>
+	<Point x="1604" y="1947"/>
+	<Point x="1613" y="1968"/>
+	<Point x="1628" y="1964"/>
+	<Point x="1649" y="1947"/>
+	<Point x="1855" y="1953"/>
+	<Point x="1855" y="1655"/>
+	<Point x="1429" y="1649"/>
+	<Point x="1422" y="1664"/>
+	<Point x="1373" y="1667"/>
+	<Point x="1365" y="1644"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Siempre ha tenido Morales
+Coſquias en el jugar,
+Mas la ſeñora Iuſepa
+No las conntio jamas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords>
+	<Point x="1065" y="1943"/>
+	<Point x="1071" y="2022"/>
+	<Point x="1146" y="2023"/>
+	<Point x="1147" y="2232"/>
+	<Point x="1590" y="2245"/>
+	<Point x="1594" y="2269"/>
+	<Point x="1613" y="2268"/>
+	<Point x="1619" y="2250"/>
+	<Point x="1847" y="2255"/>
+	<Point x="1846" y="1965"/>
+	<Point x="1667" y="1952"/>
+	<Point x="1640" y="1970"/>
+	<Point x="1605" y="1974"/>
+	<Point x="1595" y="1953"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hai coſquias pequeñitas,
+De las que con ademan
+Dicen lo de la ventana,
+I haranme deſeſperar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords>
+	<Point x="1074" y="2236"/>
+	<Point x="1077" y="2324"/>
+	<Point x="1140" y="2325"/>
+	<Point x="1150" y="2559"/>
+	<Point x="1952" y="2577"/>
+	<Point x="1956" y="2269"/>
+	<Point x="1628" y="2256"/>
+	<Point x="1615" y="2275"/>
+	<Point x="1592" y="2276"/>
+	<Point x="1584" y="2250"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Para lo que ſe oﬀreciere,
+Advierta todo mortal,
+Que no ſuﬀrimos coſquias,
+I las hacemos ſaltar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="signature-mark">
+	<Coords>
+	<Point x="1167" y="2762"/>
+	<Point x="1167" y="2860"/>
+	<Point x="1365" y="2860"/>
+	<Point x="1365" y="2762"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ccc 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="catch-word">
+	<Coords>
+	<Point x="1728" y="2780"/>
+	<Point x="1737" y="2853"/>
+	<Point x="1737" y="2869"/>
+	<Point x="1960" y="2870"/>
+	<Point x="1960" y="2780"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LAS</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="credit">
+	<Coords>
+	<Point x="712" y="3127"/>
+	<Point x="712" y="3195"/>
+	<Point x="1455" y="3195"/>
+	<Point x="1455" y="3127"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords>
+	<Point x="198" y="1625"/>
+	<Point x="200" y="1555"/>
+	<Point x="126" y="1559"/>
+	<Point x="128" y="1480"/>
+	<Point x="1026" y="1490"/>
+	<Point x="1026" y="1625"/>
+	<Point x="745" y="1625"/>
+	<Point x="725" y="1647"/>
+	<Point x="705" y="1647"/>
+	<Point x="696" y="1625"/>
+	<Point x="544" y="1623"/>
+	<Point x="538" y="1646"/>
+	<Point x="522" y="1643"/>
+	<Point x="504" y="1621"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Io digo, que los tomemos
+De las coſquias por hurto.</Unicode></TextEquiv></TextRegion></Page></PcGts>

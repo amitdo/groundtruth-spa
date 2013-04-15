@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443979">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T11:13:43</Created>
+	<LastChange>2011-12-19T11:39:18</LastChange></Metadata>
+	<Page imageFilename="00443979.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="347" y="35"/>
+	<Point x="1516" y="35"/>
+	<Point x="1516" y="219"/>
+	<Point x="347" y="219"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="130" y="256"/>
+	<Point x="154" y="238"/>
+	<Point x="305" y="233"/>
+	<Point x="1707" y="241"/>
+	<Point x="1697" y="2617"/>
+	<Point x="1696" y="2638"/>
+	<Point x="1412" y="2645"/>
+	<Point x="1356" y="2660"/>
+	<Point x="1273" y="2663"/>
+	<Point x="1209" y="2660"/>
+	<Point x="1197" y="2658"/>
+	<Point x="1166" y="2652"/>
+	<Point x="1130" y="2643"/>
+	<Point x="1089" y="2647"/>
+	<Point x="1076" y="2647"/>
+	<Point x="161" y="2666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pena la ſoledad, y ſequedad, y grandiſsi-
+mo combate los penſamientos. A perſo‐
+nas que tienen ea diſpocion, les conuie-
+ne mas pureza de conſciencia, que a las que
+con el entendimiento pueden obrar, porque
+quien diſcurre en lo ques el mundo, y en
+lo que deue a Dios, y en lo mucho que
+ſuﬀrio, y en lo poco que le rue, y lo que
+da a quien le ama, ſaca dorina para de‐
+fenderſe de los penſamientos, y de las oca‐
+ones y peligros: pero quien no ſe puede
+aprouechar deo tiene le mayor, y conuie-
+nele ocuparſe mucho en licion, pues de
+ſu parte no puede ſacar ninguna. Es tan pe-
+noſsima ea manera de proceder, que 
+el maero que enſeña, aprieta en que n Ii-
+cion ( que ayuda mucho para recoger a quien
+dea manera procede, y le es neceario:
+aunque ſea poco, lo que lea, no en lu‐
+gar de la oracion mental que no puede
+tener ) digo que  n ea ayuda le hazen
+ear mucho rato en la oracion, que ſe‐
+ra impoſsible durar mucho en ea, y le
+hara daño a la ſalud  pora, porque
+es muy penoſa coſa. Aora me parece
+que proueyo el Señor, que yo no haaſ-
+ſe quien me enſeñae, porque fuera</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="signature-mark">
+	<Coords>
+	<Point x="1098" y="2650"/>
+	<Point x="1146" y="2650"/>
+	<Point x="1222" y="2667"/>
+	<Point x="1271" y="2668"/>
+	<Point x="1268" y="2716"/>
+	<Point x="1267" y="2750"/>
+	<Point x="1101" y="2750"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="616" y="3037"/>
+	<Point x="1598" y="3037"/>
+	<Point x="1598" y="3165"/>
+	<Point x="616" y="3165"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1580" y="122"/>
+	<Point x="1698" y="122"/>
+	<Point x="1698" y="224"/>
+	<Point x="1580" y="224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>51</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1414" y="2650"/>
+	<Point x="1414" y="2771"/>
+	<Point x="1691" y="2771"/>
+	<Point x="1691" y="2650"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>impoſ‐</Unicode></TextEquiv></TextRegion></Page></PcGts>

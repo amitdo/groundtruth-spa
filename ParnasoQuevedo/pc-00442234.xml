@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442234">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T03:43:33</Created>
+	<LastChange>2011-07-05T14:27:01</LastChange></Metadata>
+	<Page imageFilename="00442234.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r12" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="754" y="170"/>
+	<Point x="1351" y="157"/>
+	<Point x="1345" y="251"/>
+	<Point x="794" y="242"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THALIA,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="378" y="1454"/>
+	<Point x="378" y="1423"/>
+	<Point x="371" y="1411"/>
+	<Point x="364" y="1327"/>
+	<Point x="1911" y="1320"/>
+	<Point x="1934" y="2660"/>
+	<Point x="200" y="2688"/>
+	<Point x="277" y="1467"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L haber crecido tanto las Poeas de las ſeis Muſas an-
+tecedentes, i no parecer capaz un Volumen ſolo, pa-
+ta juntamente contener a EVTERPE, VRANIA, i
+CALIOPE, que ahora rean, obligò a que ſe huviee de
+partir ſu Choro, i con bueñ acuerda: pues dividirſe an
+en Dos Partes todo Choro de Mucas Vozes, mui deſde
+ſus principios, nos enſeña Iulio Polux, haber do pueo
+en coumbre; i ia lo obſervè io tambien en la Poetica.
+A eas otras Muſas, que deſpues han de ſalir, a que eſ-
+cuchen ſus Verſos, acompañaràn otros generos de Poeas
+Dramaticas, que por ſer mas legitimas a la Accion de In-
+terlocutores, ſe ſepararon de todo eotro Canto, que pro-
+prio reſpeo tiene a la Muca, que ſus Maeros aman
+Harmonica. i podran anmiſmo, endo de mucha ſaçon,
+i donaire, recrear, i remittir la Meſura, i Grandeça, con
+que habran cantado antes aqueas tres Muſas, a quien
+proprio es aquel Rhithmo mas grave. A Eas pues ahora
+queda remittido el Auditorio, que haa aqui ha aſsiido
+en ee PARNASSO, no ha juzgado por mal entrete-
+nida ſu attencion.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1660" y="2864"/>
+	<Point x="1883" y="2855"/>
+	<Point x="1876" y="2956"/>
+	<Point x="1667" y="2955"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SVM-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="701" y="3130"/>
+	<Point x="1456" y="3126"/>
+	<Point x="1463" y="3192"/>
+	<Point x="1346" y="3200"/>
+	<Point x="703" y="3192"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="394" y="691"/>
+	<Point x="655" y="701"/>
+	<Point x="662" y="728"/>
+	<Point x="714" y="727"/>
+	<Point x="730" y="700"/>
+	<Point x="970" y="705"/>
+	<Point x="1000" y="724"/>
+	<Point x="1084" y="725"/>
+	<Point x="1092" y="700"/>
+	<Point x="1685" y="692"/>
+	<Point x="1654" y="1145"/>
+	<Point x="411" y="1164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ea dexò ſu Cancion,
+I en chança volvio a ſu queja:
+Ia hechè la pulga en la oreja,
+Haga agora operacion.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="401" y="261"/>
+	<Point x="1700" y="264"/>
+	<Point x="1698" y="678"/>
+	<Point x="1090" y="690"/>
+	<Point x="1052" y="711"/>
+	<Point x="1005" y="711"/>
+	<Point x="992" y="693"/>
+	<Point x="728" y="688"/>
+	<Point x="704" y="710"/>
+	<Point x="672" y="710"/>
+	<Point x="664" y="690"/>
+	<Point x="422" y="684"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ia aqui, dandola de el codo,
+La dixo EVTERPE mui fria,
+Señora Doña THALIA,
+Pienſa cantarſelo todo?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="94" y="127"/>
+	<Point x="94" y="290"/>
+	<Point x="365" y="290"/>
+	<Point x="365" y="127"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>666</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r11" type="other">
+	<Coords>
+	<Point x="954" y="1184"/>
+	<Point x="954" y="1287"/>
+	<Point x="1221" y="1287"/>
+	<Point x="1221" y="1184"/></Coords></GraphicRegion>
+	<TextRegion id="r12" type="drop-capital">
+	<Coords>
+	<Point x="280" y="1347"/>
+	<Point x="289" y="1449"/>
+	<Point x="371" y="1447"/>
+	<Point x="370" y="1424"/>
+	<Point x="358" y="1342"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion></Page></PcGts>

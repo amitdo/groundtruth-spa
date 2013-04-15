@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442623">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:00:49</Created>
+	<LastChange>2012-03-12T14:12:12</LastChange></Metadata>
+	<Page imageFilename="00442623.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="407" y="93"/>
+	<Point x="1139" y="80"/>
+	<Point x="1137" y="166"/>
+	<Point x="461" y="193"/>
+	<Point x="396" y="185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="148" y="193"/>
+	<Point x="459" y="205"/>
+	<Point x="1112" y="183"/>
+	<Point x="1419" y="188"/>
+	<Point x="1418" y="2144"/>
+	<Point x="1293" y="2153"/>
+	<Point x="1167" y="2163"/>
+	<Point x="736" y="2173"/>
+	<Point x="155" y="2162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tes vnos a otros, como ſe ſocorrẽ a cada pao. Que
+acaece ear vno peleando en las erras de Arme-
+nia con algun Lendirago, o con algun ﬁero Vei-
+glo, o con otro cauaero, donde eua lo peor de la
+bataa, y ea ya a punto de muerte: y quando no os
+me cato, aoma por acua encima de vna nuue, o ſo
+bre vn carro de fuego, otro cauaero amigo ſuyo, 
+poco antes ſe haaua en Ingalaterra, que le fauore-
+ce, y libra de la muerte, y a la noche ſe haa en ſu po
+ſada, cenando muy a ſu ſabor, y ſuele auer de la vna a
+la otra parte, dos o tres mil leguas. Y todo eo ſe ha
+ze por induria, y ſabiduria deos ſabios encanta-
+dores, que tienen cuydado deos valeroſos cauae
+ros. Aſsi que amigo Sancho, no ſe me haze diﬁcul-
+toſo creer, que en tan breue tiempo, ayas y do, y ve-
+nido, deſde ee lugar al del Toboſo, pues como ten
+go dicho, algun ſabio amigo, te deuio de euar en
+bolandias, n que tu lo ntiees. Aſsi ſeria, dixo
+Sancho, porque a buena fe, que andaua Rozinante,
+como  fuera aſno de Gitano, cõ azogue en los oy-
+dos. Y como  euaua azogue, dixo don Quixote, y
+aun vna legion de demonios, que es gente que cami
+na, y haze caminar n canſarſe, todo aqueo que ſe
+les antoja. Pero dexando eo a parte, que te parece
+a ti que deuo yo de hazer aora, cerca de lo que mi ſe
+ñora me manda, que la vaya a ver,  aunque yo veo
+que eoy obligado a cumplir ſu mandamiento, veo
+me tambien impoſsibilitado del don que he prome
+tido a la Princeſa, que con noſotros viene, y fuerça.
+me la ley de cauaeria, a cumplir mi palabra, antes
+que mi guo. Por vna parte me acoa, y fatiga el
+deeo de ver a mi ſeñora, por otra me incita, y a-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1259" y="2159"/>
+	<Point x="1422" y="2148"/>
+	<Point x="1420" y="2210"/>
+	<Point x="1264" y="2210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ma, la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="459" y="2297"/>
+	<Point x="1144" y="2304"/>
+	<Point x="1135" y="2359"/>
+	<Point x="458" y="2357"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1258" y="87"/>
+	<Point x="1258" y="180"/>
+	<Point x="1445" y="180"/>
+	<Point x="1445" y="87"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>174</Unicode></TextEquiv></TextRegion></Page></PcGts>

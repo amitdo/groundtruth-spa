@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672930">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 10.0</Creator>
+	<Created>2012-01-31T20:25:00</Created>
+	<LastChange>2012-02-29T08:33:09</LastChange></Metadata>
+	<Page imageFilename="00672930.tif" imageWidth="1911" imageHeight="2621">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="411" y="2202"/>
+	<Point x="460" y="278"/>
+	<Point x="1655" y="311"/>
+	<Point x="1660" y="2204"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>trabajo , naſce enfermar , y embotar ſe los inge-
+nios y animos. Caſsiodoro enel libro. 5. cap. 10.
+incerta e vita corum,qui nimia fatigatione laſ-
+ſantur.Dize. Incierta es la vida de aquellos , que
+ſe fatigan con demaado trabajo. Y por tanto di
+ze Ouidio , primero de Ponto. Ocia corpus alũt:
+animus quoque paſcitur illis:immodicus contra
+carpit vtrumq; labor. Quiere dezir , Los ocios y
+paatiempos honeos crian,y ſuentan el cuer-
+po: y tambien con ellos ſe apaciẽta y recrea el ani
+mo: y por el cõtrario el trabajo demaado los cõ
+ſume à entrambos animo,y cuerpo. A que de-
+o y mucho mas , que pudiera trer,cona el jue-
+go honeo,y loable conuenir para la cõſeruaciõ
+dela vida humana : para que los cuerpos ſe aliuiẽ
+delos cõtinuos trabajos, y los animos ſe recreen:
+y a recreados ſe leuãtan mejores , y mas fuertes
+y agudos.Y entre todos eſpecialmente ee juego
+conuiene mas que otro por muchas coſas. La pri
+mera, por ſer juego de ſciencia , y parecer que cõ
+el ſe huye el ocio inhoneo:porque como dize el
+autor del libro , que ſe dize Faceto. Ocia nullus
+amet, ni nt coniuna labori. Nam nimia re-
+quie mortiﬁcatur homo.Quiere dezir,Ninguno
+ame ocios,que no euuieren conjunos al traba
+jo: porque con el demaado deſcanſo ſe mortiﬁ
+ca el hombre. La. 2. por como dize el autor del</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="marginalia">
+	<Coords>
+	<Point x="288" y="315"/>
+	<Point x="288" y="413"/>
+	<Point x="451" y="413"/>
+	<Point x="451" y="315"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Caſsio-
+doro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="marginalia">
+	<Coords>
+	<Point x="282" y="622"/>
+	<Point x="282" y="684"/>
+	<Point x="435" y="684"/>
+	<Point x="435" y="622"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ouidio</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="marginalia">
+	<Coords>
+	<Point x="248" y="1746"/>
+	<Point x="248" y="1804"/>
+	<Point x="400" y="1804"/>
+	<Point x="400" y="1746"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Faceto.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1444" y="2208"/>
+	<Point x="1444" y="2275"/>
+	<Point x="1597" y="2275"/>
+	<Point x="1597" y="2208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>libro</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="716" y="215"/>
+	<Point x="717" y="273"/>
+	<Point x="1409" y="295"/>
+	<Point x="1409" y="215"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro dela inuencion liberal</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485470">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T15:59:54</Created>
+	<LastChange>2011-07-28T11:27:39</LastChange></Metadata>
+	<Page imageFilename="00485470.tif" imageWidth="2250" imageHeight="3124">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r5" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/>
+	<RegionRefIndexed regionRef="r15" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="1213" y="43"/>
+	<Point x="1481" y="65"/>
+	<Point x="1493" y="151"/>
+	<Point x="1216" y="146"/>
+	<Point x="1204" y="136"/>
+	<Point x="1204" y="88"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LOA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="catch-word">
+	<Coords>
+	<Point x="1958" y="1877"/>
+	<Point x="2209" y="1887"/>
+	<Point x="2211" y="1973"/>
+	<Point x="1955" y="1961"/>
+	<Point x="1937" y="1927"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>COME</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r16" type="other">
+	<Coords>
+	<Point x="1772" y="2202"/>
+	<Point x="1760" y="2692"/>
+	<Point x="760" y="2666"/>
+	<Point x="732" y="2627"/>
+	<Point x="712" y="2450"/>
+	<Point x="750" y="2200"/></Coords></GraphicRegion>
+	<TextRegion id="r17" type="credit">
+	<Coords>
+	<Point x="875" y="3042"/>
+	<Point x="1618" y="3046"/>
+	<Point x="1616" y="3074"/>
+	<Point x="1612" y="3090"/>
+	<Point x="1511" y="3092"/>
+	<Point x="1508" y="3101"/>
+	<Point x="1493" y="3101"/>
+	<Point x="1496" y="3093"/>
+	<Point x="1423" y="3090"/>
+	<Point x="1131" y="3093"/>
+	<Point x="865" y="3090"/>
+	<Point x="870" y="3070"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="323" y="113"/>
+	<Point x="364" y="90"/>
+	<Point x="1116" y="113"/>
+	<Point x="1135" y="264"/>
+	<Point x="1145" y="1183"/>
+	<Point x="1116" y="1595"/>
+	<Point x="896" y="1619"/>
+	<Point x="323" y="1595"/>
+	<Point x="293" y="1593"/>
+	<Point x="290" y="1109"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y preguntando la cauſa
+reſpondio que mas vil coſa,
+para hazeo ai no hauia,
+que la cara ſuya propria.
+Ee exemplo en la comedia
+oy tenemos  ſe nota
+de inﬁnitos ignorantes
+la condicion riguroſa.
+Pues viendo repreſentar,
+alguna traça que aſombra,
+ſu maquina, y artiﬁcio
+y agudeza de las coplas.
+Viendo que en ea no haan
+coſa imperfea ni impropia,
+donde puedan de ſu lengua,
+vertir la rauia y ponçoña.
+De los pobres recitantes
+a murmurar ſe prouocán,
+por tener al ﬁn eriuo
+donde ſu malicia corra.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="1327" y="170"/>
+	<Point x="1406" y="158"/>
+	<Point x="1465" y="179"/>
+	<Point x="2103" y="122"/>
+	<Point x="2164" y="138"/>
+	<Point x="2151" y="170"/>
+	<Point x="2193" y="196"/>
+	<Point x="2151" y="1672"/>
+	<Point x="1983" y="1696"/>
+	<Point x="1377" y="1683"/>
+	<Point x="1293" y="1670"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dizen que el vno es muy frio
+y que los verſos deſdora,
+que el otro es muy arrogante
+y muy tiſueña la otra
+Que a quel hecha ſolizismos,
+y el otro el papel ignora
+ſabiendo eos poco mas
+que vna mula de atahona
+diferente es el diſcreto
+quedando alabança y gloria
+a lo bueno, de lo malo
+jamas peſadumbre toma.
+Yo pienſo que aqui lo ſon
+todos y verelo agora,
+ en guardarnos el lencio
+las voluntades conforman.
+Y  alguno no caare
+ruego a Dios que ojos y boca
+le atapen con vn gargajo,
+que aun ſera vengança corta.</Unicode></TextEquiv></TextRegion></Page></PcGts>

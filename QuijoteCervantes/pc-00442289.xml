@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442289">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T18:55:57</Created>
+	<LastChange>2012-03-12T14:11:49</LastChange></Metadata>
+	<Page imageFilename="00442289.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="520" y="20"/>
+	<Point x="514" y="104"/>
+	<Point x="619" y="113"/>
+	<Point x="727" y="97"/>
+	<Point x="1001" y="89"/>
+	<Point x="1084" y="89"/>
+	<Point x="1106" y="58"/>
+	<Point x="1108" y="12"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1360" y="8"/>
+	<Point x="1360" y="104"/>
+	<Point x="1447" y="104"/>
+	<Point x="1447" y="8"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>7</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="149" y="97"/>
+	<Point x="130" y="2143"/>
+	<Point x="1245" y="2150"/>
+	<Point x="1274" y="2145"/>
+	<Point x="1285" y="2134"/>
+	<Point x="1474" y="2128"/>
+	<Point x="1470" y="118"/>
+	<Point x="1124" y="117"/>
+	<Point x="804" y="107"/>
+	<Point x="626" y="127"/>
+	<Point x="599" y="117"/>
+	<Point x="554" y="117"/>
+	<Point x="394" y="128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſupieron, ni pudieron deſenc axarle la gola, ni quita-
+e la contrahecha zelada, que traîa atada con vnas cin
+tasverdes, yera meneer cortarlas, por no pederſe qui
+tar los ñudos, mas el no lo quiſo cõſentir en ninguna
+manera, y aſsi ſe quedò toda aquea noche con laze-
+lada puea, que era la mas gracioſa, y eraﬁa ﬁgura 
+ſe pudiera penſar:y al deſarmarle (como el ſe imagi-
+naua que aqueas traydas y euadas que le deſarma-
+uan, erã algunas principales ſeñoras, y damas de aquel
+caio) les dixo con mucho donayre: Nunca fuera
+cauaero de damas tambien ſeruido, como fuera don
+Quixote quando de ſu aldea vino, donzeas curauan
+del, Princeſas del ſu rozino. O Rozinante, que ee es
+el nombre ſeñoras mias de mi cauao, y don Quixo-
+te de la Mancha el mio: que pueo que no quiera
+deſcubrirme, faa que las fazañas fechas en vuero
+ſeruicio y pro, me deſcubrieran, la fuerça de acomo-
+dar al propoto preſente ee romance viejo de Lan-
+çarote, ha do cauſa que ſepays mi nombre antes de
+toda ſazon: pero tiempo vendra en que las vueras
+ſeñorias me manden, y yo obedezca, y el valor de mi
+braço deſcubra el deeo que tengo de ſeruiros. Las
+moças que no eauan hechas a oyr. ſemejantes reto-
+ricas, no reſpondian palabra: ſolo le preguntarõ,  que
+ria comer alguna coſa. Qualquiera yantaria yo, reſ-
+pondio don Quixote, porque a lo que entiendo me
+haria mucho al caſo. A dicha a certò a ſer Viernes al
+dia, y no auia en toda la venta no vnas raciones de
+vn peſcado, que en Caia aman abadexo, y en An-
+daluzia bacaao, y en otras partes curadio, y en otras
+truchuela. Preguntar onle,  por ventura comeria ſu
+merced truchuela, que no auia otro peſcado que da-
+e a comer. Como aya muchas truchuelas, reſpondio</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1305" y="2204"/>
+	<Point x="1431" y="2199"/>
+	<Point x="1419" y="2142"/>
+	<Point x="1325" y="2139"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="463" y="2307"/>
+	<Point x="462" y="2351"/>
+	<Point x="1013" y="2352"/>
+	<Point x="1016" y="2356"/>
+	<Point x="1023" y="2356"/>
+	<Point x="1025" y="2350"/>
+	<Point x="1119" y="2350"/>
+	<Point x="1120" y="2312"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

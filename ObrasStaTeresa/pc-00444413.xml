@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444413">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:07:08</Created>
+	<LastChange>2011-12-19T11:39:44</LastChange></Metadata>
+	<Page imageFilename="00444413.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="373" y="97"/>
+	<Point x="1548" y="97"/>
+	<Point x="1548" y="211"/>
+	<Point x="373" y="211"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="175" y="231"/>
+	<Point x="1760" y="237"/>
+	<Point x="1713" y="2645"/>
+	<Point x="1668" y="2656"/>
+	<Point x="1630" y="2641"/>
+	<Point x="1238" y="2638"/>
+	<Point x="179" y="2654"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>muy aprouechada el alma para eimar y
+tener en poco todas las coſas de la vida.
+Quiera yo poder dar a entender algo de
+lo menos que entendia, y penſando como
+pueda ſer, hao que es impoſsible, porque
+en ſola la diﬀerencia que ay dea luz que
+vemos, a la que aa ſe repreſenta, endo
+todo luz, no ay comparacion, porque la cla-
+ridad del Sol parece coſa muy deſguada.
+En ﬁn no alcança la imaginacion por muy
+ſubtil que ſea, a pintar ni traçar como ſe-
+ra ea luz, ni ninguna coſa de las que el Se-
+ñor me daua a entender con vn deleyte tan
+ſoberano que no ſe puede dezir, porque to-
+dos los ſentidos gozan en tan alto grado y
+ſuauidad que eo no ſe puede encarecer, y
+an es mejor no dezir mas. Auia vna vez
+eado an mas de vna hora, morandome
+el Señor coſas admirables, que no me pare-
+ce ſe quitaua de cabe mi, dixome. Mira hija
+que pierden los que ſon contra mi, no dexes de de-
+zirſelo. Ay Señor mio, y que poco aproue-
+cha mi dicho a los que ſus hechos los tienen
+ciegos,  vuera Magead no les da luz, algu
+nas perſonas a quiẽ vos la aueys dado, aproue
+chado ſe hã de ſaber vueras grandezas, mas
+venlas Señor mio moradas a coſa tã ruin y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1465" y="2649"/>
+	<Point x="1629" y="2643"/>
+	<Point x="1697" y="2671"/>
+	<Point x="1686" y="2730"/>
+	<Point x="1558" y="2745"/>
+	<Point x="1501" y="2750"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>miſe-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="631" y="3069"/>
+	<Point x="1573" y="3069"/>
+	<Point x="1573" y="3155"/>
+	<Point x="631" y="3155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1583" y="119"/>
+	<Point x="1746" y="114"/>
+	<Point x="1744" y="221"/>
+	<Point x="1583" y="221"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>487</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1166" y="2643"/>
+	<Point x="1163" y="2752"/>
+	<Point x="1405" y="2752"/>
+	<Point x="1402" y="2645"/>
+	<Point x="1274" y="2642"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hh 4</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444167">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:36:31</Created>
+	<LastChange>2011-12-19T11:39:29</LastChange></Metadata>
+	<Page imageFilename="00444167.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="320" y="92"/>
+	<Point x="1517" y="119"/>
+	<Point x="1516" y="228"/>
+	<Point x="301" y="224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="155" y="230"/>
+	<Point x="1356" y="232"/>
+	<Point x="1580" y="246"/>
+	<Point x="1746" y="243"/>
+	<Point x="1751" y="2636"/>
+	<Point x="1577" y="2638"/>
+	<Point x="1487" y="2680"/>
+	<Point x="1367" y="2695"/>
+	<Point x="938" y="2669"/>
+	<Point x="121" y="2673"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ma congo. Muchas vezes queda ſano el
+que eaua bien enfermo, y eno de gran-
+des dolores, y con mas habilidad: por-
+que es coſa grande lo que ai ſe da: y
+quiere el Señor algunas vezes, como di-
+go, lo goze el cuerpo, pues ya obedece
+a lo que quiere el alma. Deſpues que tor-
+na en ,  ha do grande el arrobamien-
+to, acaece andar vn dia o dos, y aun
+tres tan abſortas las potencias, o como
+embouecidas que no parece andan en
+. Aqui es la pena de auer de tornar a
+viuir, aqui le nacieron las alas para bien
+bolar, ya ſe le ha caydo el pelo malo,
+aqui ſe leuanta ya del todo la vandera por
+Chrio, que no parece otra coſa, no
+que ee alcayde dea fortaleza ſe ſube, o
+le ſuben a la torre mas alta, a leuantar la
+vandera por Dios: mira a los de abaxo co-
+mo quien eà en ſaluo, ya no teme los
+peligros, antes los deea como quien por
+cierta manera ſe le da ai ſeguridad de la
+vioria. Veſe aqui muy claro en lo poco que
+todo lo de aca ſe ha de eimar, y lo nonada
+que es. Quien ea de lo alto alcança muchas
+coſas. Ya no quiere querer, ni tener otra volũ
+tad que la del Señor: y an ſe lo ſuplica, dale</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="608" y="3061"/>
+	<Point x="1580" y="3061"/>
+	<Point x="1574" y="3154"/>
+	<Point x="605" y="3152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1591" y="2640"/>
+	<Point x="1592" y="2751"/>
+	<Point x="1726" y="2751"/>
+	<Point x="1726" y="2638"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>las</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1536" y="145"/>
+	<Point x="1536" y="239"/>
+	<Point x="1592" y="239"/>
+	<Point x="1721" y="237"/>
+	<Point x="1713" y="139"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>239</Unicode></TextEquiv></TextRegion></Page></PcGts>

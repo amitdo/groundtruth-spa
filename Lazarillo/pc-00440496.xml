@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440496">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:16:15</Created>
+	<LastChange>2011-07-05T14:26:03</LastChange></Metadata>
+	<Page imageFilename="00440496.tif" imageWidth="876" imageHeight="1640">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="82" y="90"/>
+	<Point x="228" y="91"/>
+	<Point x="257" y="81"/>
+	<Point x="281" y="91"/>
+	<Point x="843" y="89"/>
+	<Point x="832" y="1515"/>
+	<Point x="83" y="1505"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>remedio, que conderado entre
+mi dixe : Ee arcaz es viejo, y roto
+por algunas partes puede ſer que
+pienſeque los ratones entran en el,
+y ratonan el pan, tomar vno en-
+tero no conuiene, porque vera
+la falta, el que en tanta me haze
+biuir, diziendo, y haziendo co-
+mienço a deſmigajar el pan ſobre
+vnos no muy ricos manteles que
+alli eauan : y tomando vno, y de-
+xando otro, de cada vno de tres,
+o quatro deſmigaje vn poco, deſ-
+pues como quien come grajea lo
+comi, conque me conſole algo
+vino a comer, y abriendo elarca,
+vio el daño, y n duda creyo ſer ra-
+tones los que lo auian hecho, por-
+que eaua muybien cõtra hecho.
+Miro todo el arcaz por vn cabo, y
+por otro, y viole ciertos agujeros,
+por do ſoſpecho auian entrado,
+llamome diziendo : Lazaro mira,
+mira que perſecucion ha venido.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="285" y="1583"/>
+	<Point x="567" y="1584"/>
+	<Point x="572" y="1611"/>
+	<Point x="281" y="1614"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="340" y="27"/>
+	<Point x="633" y="33"/>
+	<Point x="632" y="82"/>
+	<Point x="335" y="81"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="106" y="38"/>
+	<Point x="191" y="37"/>
+	<Point x="193" y="84"/>
+	<Point x="104" y="80"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>42</Unicode></TextEquiv></TextRegion></Page></PcGts>

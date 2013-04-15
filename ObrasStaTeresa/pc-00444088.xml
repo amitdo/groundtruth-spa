@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444088">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:56:31</Created>
+	<LastChange>2011-12-19T11:39:24</LastChange></Metadata>
+	<Page imageFilename="00444088.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="992" y="107"/>
+	<Point x="1641" y="96"/>
+	<Point x="1642" y="192"/>
+	<Point x="994" y="198"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="458" y="222"/>
+	<Point x="2035" y="213"/>
+	<Point x="2033" y="2628"/>
+	<Point x="1905" y="2628"/>
+	<Point x="1888" y="2656"/>
+	<Point x="460" y="2658"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>el agua del pozo digamos agora, el ſegundo
+modo de ſacar el agua, que el Señor del huer-
+to ordeno, para  con artiﬁcio de vn torno
+y arcaduzes ſacaﬂe el hortelano mas agua: y a
+menos trabajos, y pudiee deſcanſar n ear
+contino trabajando. Pues ee modo aplica-
+do a la oracion que aman de quietud es lo
+que yo aora quiero tratar: aqui ſe comiença a
+recoger el alma: toca ya aqui coſa ſobre natu
+ral, porque en ninguna manera ea puede
+ganar aqueo por diligencias que haga. Ver-
+dad es que parece que algun tiempo ſe ha cã
+ſado en andar el torno, y trabajar con el en-
+tendimiento, y hinchido los arcaduzes: mas
+aqui ea el agua mas alta, y an ſe trabaja
+muy menos que en ſacarla del pozo: digo 
+ea mas cerca el agua, porque la gracia daſe
+mas claramente a conocer al alma. Eo es vn
+recogerſe las potencias dentro de , para go
+zar de aquel contento cõ mas guo, mas no
+ſe pierden, ni ſe duermen, ſola la voluntad ſe
+ocupa de manera, que n ſaber como, ſe cap-
+tiua, ſolo da conſentimiento para que la en-
+carcele Dios, como quien bien ſabe ſer capti-
+uo de quien ama. O leſus y Señor mio  nos
+vale aqui vuero amor, porque ee tiene al
+nuero tan atado que no dexa libertad para</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1817" y="2665"/>
+	<Point x="2018" y="2662"/>
+	<Point x="2022" y="2730"/>
+	<Point x="1816" y="2730"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>amar</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="581" y="3050"/>
+	<Point x="1618" y="3050"/>
+	<Point x="1618" y="3160"/>
+	<Point x="581" y="3160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="516" y="114"/>
+	<Point x="516" y="201"/>
+	<Point x="682" y="201"/>
+	<Point x="682" y="114"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>160</Unicode></TextEquiv></TextRegion></Page></PcGts>

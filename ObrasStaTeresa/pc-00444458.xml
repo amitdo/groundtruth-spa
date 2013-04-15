@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444458">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:12:47</Created>
+	<LastChange>2011-12-19T11:39:46</LastChange></Metadata>
+	<Page imageFilename="00444458.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="898" y="111"/>
+	<Point x="1631" y="111"/>
+	<Point x="1631" y="227"/>
+	<Point x="898" y="227"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="444" y="252"/>
+	<Point x="1986" y="254"/>
+	<Point x="1984" y="773"/>
+	<Point x="439" y="778"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>el Señor, y haze muy contino a ea pecca-
+dorá, que me parece no ay para que las dezir,
+pues por lo dicho ſe puede entender mi al-
+ma, y el ſpiritu que me ha dado el Señor, ſea
+bendito por empre, que tanto cuy dado ha
+tenido de mi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="432" y="784"/>
+	<Point x="1983" y="780"/>
+	<Point x="1998" y="1396"/>
+	<Point x="668" y="1413"/>
+	<Point x="618" y="1413"/>
+	<Point x="576" y="1414"/>
+	<Point x="568" y="1415"/>
+	<Point x="419" y="1414"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dixome vna vez conſolandome que no
+me fatigae, eo con mucho amor, que en
+ea vida no podiamos ear empre en vn
+ſer, que vnas vezes ternia feruor, y otras ea-
+ria n el, vnas con deſaoſsiegos, y otras con
+quietud, y tentaciones, mas que eſperae en
+el, y no temiee.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="420" y="1420"/>
+	<Point x="627" y="1416"/>
+	<Point x="1997" y="1402"/>
+	<Point x="1994" y="2662"/>
+	<Point x="1784" y="2648"/>
+	<Point x="1643" y="2678"/>
+	<Point x="420" y="2689"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eaua vn dia penſando,  era amiento
+darme contento ear con las perſonas que
+trato mi alma, y tenerlas amor, y a los que yo
+veo muy eruos de Dios, que me conſolaua
+con eos, me dixo, que  a vn enfermo que
+ea en peligro de muerte le parece, le da ſa-
+lud vn medico, que no era virtud dexarſelo
+de agradecer, y no le amar. Que, que vuiera
+hecho, no fuera por eas perſonas? que la
+conuerſacion de los buenos no dañaua, mas
+que empre fueen mis palabras peſadas y
+ſantas, y que no los dexae de tratar, que an-
+tes ſeria prouecho, que daño. Conſolome
+mucho eo, porque algunas vezes parecien-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1758" y="2657"/>
+	<Point x="1955" y="2663"/>
+	<Point x="1955" y="2738"/>
+	<Point x="1747" y="2738"/>
+	<Point x="1741" y="2704"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dome</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="616" y="3052"/>
+	<Point x="1583" y="3052"/>
+	<Point x="1583" y="3170"/>
+	<Point x="616" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="461" y="134"/>
+	<Point x="622" y="134"/>
+	<Point x="622" y="236"/>
+	<Point x="461" y="236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>538</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444134">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:02:05</Created>
+	<LastChange>2011-12-19T11:39:27</LastChange></Metadata>
+	<Page imageFilename="00444134.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="854" y="67"/>
+	<Point x="1571" y="78"/>
+	<Point x="1578" y="204"/>
+	<Point x="849" y="214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="388" y="233"/>
+	<Point x="827" y="227"/>
+	<Point x="1515" y="220"/>
+	<Point x="1559" y="220"/>
+	<Point x="2044" y="221"/>
+	<Point x="2066" y="2649"/>
+	<Point x="2000" y="2648"/>
+	<Point x="338" y="2687"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mayo, que le va faltando el huelgo, y todas las
+fuerças corporales, de manera, que  no es cõ
+mucha pena, no puede aun menear las ma-
+nos, los ojos ſe le cierrã n quererlos cerrar,
+y  los tiene abiertos, no vee ca nada, ni 
+lee, acierta a dezir letra, ni ca atina a cono-
+cerla bien, vee que ay letra, mas como el en-
+tendimiento no ayuda, no ſabe leer aunque
+quiera, oye, mas no entiende lo que oye. An
+que de los ſentidos no ſe aprouecha nada, 
+no es para no la acabar de dexar a ſu plazer:
+y an antes la dañan. Hablar es por demas,
+que no atina a formar palabra, ni ay fuer-
+ça ya, que atinae para poderla pronunciar,
+porque toda la fuerça exterior ſe pierde, y
+ſe augmenta en las del alma, para mejor po-
+der gozar de ſu gloria. El deleyte exterior
+que ſe ente es grande, y muy conocido.
+Ea oracion no haze daño, por larga que
+ſea, alomenos a mi nunca me le hizo, ni me
+acuerdo hazerme el Señor ninguna vez ea
+merced por mala que euuiee, que ntiee
+mal, antes quedaua con gran mejoria. Mas
+que mal puede hazer tan gran bien. Es coſa
+tan conocida las operaciones exteriores, que
+no ſe puede dudar que vuo gran ocaõ, pues
+an quito todas las fuerças con tanto deleyte</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1802" y="2658"/>
+	<Point x="1888" y="2656"/>
+	<Point x="1901" y="2657"/>
+	<Point x="1975" y="2653"/>
+	<Point x="1988" y="2741"/>
+	<Point x="1874" y="2750"/>
+	<Point x="1793" y="2749"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>para</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="598" y="3057"/>
+	<Point x="1588" y="3057"/>
+	<Point x="1589" y="3157"/>
+	<Point x="598" y="3152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="447" y="107"/>
+	<Point x="444" y="210"/>
+	<Point x="664" y="210"/>
+	<Point x="660" y="106"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>206</Unicode></TextEquiv></TextRegion></Page></PcGts>

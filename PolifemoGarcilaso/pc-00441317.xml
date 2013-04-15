@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441317">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T04:55:43</Created>
+	<LastChange>2011-05-12T13:40:12</LastChange></Metadata>
+	<Page imageFilename="00441317.tif" imageWidth="1495" imageHeight="2328">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="103" y="769"/>
+	<Point x="1236" y="778"/>
+	<Point x="1201" y="1356"/>
+	<Point x="151" y="1375"/>
+	<Point x="140" y="1356"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Si me inſpirae alguna vez, no en vano,
+(O ſacro Apolo) tu furor diuino,
+Diame agora aliento ſoberano,
+Que al grãde aunto iguale peregrino:
+Mueue propicio mi cobarde mano,
+Que el rudo plero desigual preuino,
+Dilatarè con voz agradecida
+La gloria, en tantos Heroes repetida.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="100" y="1424"/>
+	<Point x="127" y="1396"/>
+	<Point x="1248" y="1386"/>
+	<Point x="1215" y="1936"/>
+	<Point x="1148" y="1903"/>
+	<Point x="1138" y="1924"/>
+	<Point x="1109" y="1921"/>
+	<Point x="1093" y="1960"/>
+	<Point x="884" y="1957"/>
+	<Point x="810" y="1958"/>
+	<Point x="554" y="1981"/>
+	<Point x="136" y="1992"/>
+	<Point x="118" y="1463"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Los que aun la inuidia perdonò, conceda
+Mi acento al mundo en numero ſuaue,
+Porque ſu nombre eternizado, pueda
+Medir del tiempo la diancia graue:
+A la paada admiracion ſuceda
+Iua alabança,  en mi afeo caue
+Igual emprea, y para tanto empleo
+No fuere breue termino el deeo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1121" y="1963"/>
+	<Point x="1120" y="1954"/>
+	<Point x="1128" y="1938"/>
+	<Point x="1151" y="1947"/>
+	<Point x="1236" y="1945"/>
+	<Point x="1266" y="1960"/>
+	<Point x="1242" y="2027"/>
+	<Point x="1245" y="2027"/>
+	<Point x="1096" y="2030"/>
+	<Point x="1103" y="2012"/>
+	<Point x="1106" y="1972"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ya-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="436" y="2224"/>
+	<Point x="815" y="2218"/>
+	<Point x="860" y="2215"/>
+	<Point x="1054" y="2224"/>
+	<Point x="1063" y="2245"/>
+	<Point x="1063" y="2269"/>
+	<Point x="1066" y="2303"/>
+	<Point x="1058" y="2312"/>
+	<Point x="433" y="2309"/>
+	<Point x="424" y="2296"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="818" y="1972"/>
+	<Point x="809" y="2033"/>
+	<Point x="809" y="2057"/>
+	<Point x="969" y="2057"/>
+	<Point x="969" y="1969"/>
+	<Point x="890" y="1964"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>❡❡ 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="87" y="112"/>
+	<Point x="1296" y="112"/>
+	<Point x="1294" y="740"/>
+	<Point x="86" y="744"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Oye de tus heroycos aſcendientes
+La fama, que en ti aduierto ſucceſsiua,
+A cuyos eſplendores refulgentes
+No menos luze tu virtud natiua:
+Bien ſe, que de tus obras excelentes
+La mas pura nobleza ſe deriua,
+El numero propongo, no el exemplo,
+Al valor, que en tus meritos contemplo.</Unicode></TextEquiv></TextRegion></Page></PcGts>

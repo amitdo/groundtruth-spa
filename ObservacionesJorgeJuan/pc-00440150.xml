@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440150">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T17:48:20</Created>
+	<LastChange>2011-12-19T11:38:46</LastChange></Metadata>
+	<Page imageFilename="00440150.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="826" y="375"/>
+	<Point x="1779" y="375"/>
+	<Point x="1779" y="469"/>
+	<Point x="826" y="469"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="336" y="478"/>
+	<Point x="1916" y="479"/>
+	<Point x="2091" y="482"/>
+	<Point x="2195" y="478"/>
+	<Point x="2237" y="479"/>
+	<Point x="2282" y="2438"/>
+	<Point x="2203" y="2434"/>
+	<Point x="2105" y="2439"/>
+	<Point x="1952" y="2439"/>
+	<Point x="1712" y="2441"/>
+	<Point x="1314" y="2440"/>
+	<Point x="1278" y="2465"/>
+	<Point x="1254" y="2467"/>
+	<Point x="346" y="2472"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Montes mucho mayores, parece que no les podemos dàr
+entero credito; lo primero, por no haver hecho ſus com‐
+putos con la juiﬁcacion, que ſe debìa; y lo ſegundo,
+porque ultimamente ſe han medido varios Montes de los
+mas elevados de Europa geometricamente ſobre la ſuper‐
+ﬁcie del Mar, y no ſe han encontrado de tal elevacion.
+Segun M. Caſsini, el Canigou, ò de otra ſuerte el Canigo
+en los Perineos es de 1440 toeſas. Los mas altos Mon‐
+tes, que ſe conocen en Europa ſon los de los Cantones:
+en el de Berna, ſegun las Philoſophicas Tranſacciones nu‐
+mero 406, ſe haa el amado Gemmi, que medido
+geometricamente, ſe haò de 1685 toeſas. Segun el P.
+Feüilée el Pico de Tenerife tiene de altura 2193 toeſas,
+que yà es mucho mayor, que las antecedentes de Euro‐
+pa; pero n embargo no ega à la de pichincha. La
+eminencia de ee Cerro debe parecer ſegun eo exceſsiva
+à los Europèos; y mucho mas la del Chimborazo, Cerro ne‐
+vado continuamente, y proximo à la Via de Riobamba,
+que ſegun mi computo tiene de altura ſobre la ſu‐
+perﬁcie del Mar 3380 toeſas, que hacen
+mas de legua Maritima.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r3" type="other">
+	<Coords>
+	<Point x="842" y="2473"/>
+	<Point x="1263" y="2474"/>
+	<Point x="1291" y="2466"/>
+	<Point x="1312" y="2446"/>
+	<Point x="1430" y="2446"/>
+	<Point x="1612" y="2448"/>
+	<Point x="1801" y="2449"/>
+	<Point x="1815" y="2449"/>
+	<Point x="1817" y="2521"/>
+	<Point x="1820" y="2637"/>
+	<Point x="1840" y="3149"/>
+	<Point x="1837" y="3149"/>
+	<Point x="1732" y="3151"/>
+	<Point x="1745" y="3237"/>
+	<Point x="1742" y="3312"/>
+	<Point x="1572" y="3311"/>
+	<Point x="1447" y="3318"/>
+	<Point x="1288" y="3321"/>
+	<Point x="1138" y="3319"/>
+	<Point x="982" y="3317"/>
+	<Point x="905" y="3313"/>
+	<Point x="898" y="3237"/>
+	<Point x="888" y="3146"/>
+	<Point x="882" y="3116"/></Coords></GraphicRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="1000" y="4004"/>
+	<Point x="1942" y="3996"/>
+	<Point x="1942" y="4088"/>
+	<Point x="995" y="4086"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="2136" y="3409"/>
+	<Point x="2276" y="3409"/>
+	<Point x="2276" y="3489"/>
+	<Point x="2136" y="3489"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LI‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1442" y="3385"/>
+	<Point x="1442" y="3595"/>
+	<Point x="1642" y="3595"/>
+	<Point x="1642" y="3385"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>R2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="2006" y="387"/>
+	<Point x="2168" y="387"/>
+	<Point x="2168" y="475"/>
+	<Point x="2006" y="475"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>131</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r8" type="stamp">
+	<Coords>
+	<Point x="2083" y="2758"/>
+	<Point x="2264" y="2729"/>
+	<Point x="2274" y="2728"/>
+	<Point x="2308" y="2725"/>
+	<Point x="2687" y="2700"/>
+	<Point x="2687" y="3380"/>
+	<Point x="2363" y="3394"/>
+	<Point x="2325" y="3395"/>
+	<Point x="2314" y="3393"/>
+	<Point x="2297" y="3392"/>
+	<Point x="2219" y="3380"/>
+	<Point x="2017" y="3372"/></Coords></GraphicRegion>
+	<GraphicRegion id="r11" type="stamp">
+	<Coords>
+	<Point x="287" y="3172"/>
+	<Point x="462" y="3146"/>
+	<Point x="540" y="3129"/>
+	<Point x="560" y="3127"/>
+	<Point x="873" y="3123"/>
+	<Point x="891" y="3833"/>
+	<Point x="350" y="3816"/>
+	<Point x="337" y="3817"/>
+	<Point x="270" y="3817"/></Coords></GraphicRegion></Page></PcGts>

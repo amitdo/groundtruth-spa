@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442871">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:46:24</Created>
+	<LastChange>2012-03-12T14:12:32</LastChange></Metadata>
+	<Page imageFilename="00442871.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="471" y="54"/>
+	<Point x="1208" y="60"/>
+	<Point x="1196" y="148"/>
+	<Point x="600" y="151"/>
+	<Point x="548" y="168"/>
+	<Point x="451" y="148"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="172" y="153"/>
+	<Point x="410" y="148"/>
+	<Point x="508" y="167"/>
+	<Point x="560" y="171"/>
+	<Point x="602" y="154"/>
+	<Point x="1097" y="155"/>
+	<Point x="1285" y="158"/>
+	<Point x="1361" y="165"/>
+	<Point x="1442" y="164"/>
+	<Point x="1472" y="2078"/>
+	<Point x="1351" y="2082"/>
+	<Point x="1167" y="2086"/>
+	<Point x="1136" y="2085"/>
+	<Point x="1051" y="2077"/>
+	<Point x="1025" y="2076"/>
+	<Point x="207" y="2147"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dimiento de vuera merced, ſeñor don Quixote
+mio, de la qual ſaldra erudito en la hioria, enamo-
+rado de la virtud, enſeñado en la bondad, mejo-
+rado en las coumbres, valiente n temeridad, oſa-
+do n couardia: y todo eo para honra de Dios,
+prouecho ſuyo, y fama de la Mancha, do ſegun he
+ſabido, trae vuera merced ſu principio, y ori-
+gen. Atentiſsimamente euuo don Quixote, eſcu-
+chando las razones del Canonigo, y quando vio
+que ya auia pueo ﬁn a eas, deſpues de auerle eſ-
+tado vn buen eſpacio mirando, le dixo: Pareceme
+ſeñor hidalgo, que la platica de vuera merced ſe
+ha encaminado a querer darme a entender, que no
+ha auido cauaileros andantes en el mundo, y que
+todos los libros de cauaerias ſon falſos, menti-
+roſos, dañadores, è inutiles para la republica: y
+que yo he hecho mal en leerlos, y peor en creer-
+los, y mas mal en imitarlos, auiendome pueo a
+ſeguir la duriſsima profeſsion de la cauaeria an-
+dante, que eos enſeñan, negandome, que no ha
+auido en el mundo Amadiſes, ni de Gaula, ni de
+Grecia, ni todos los otros cauaeros de que las
+eſcrituras ean enas? Todo es al pie de la le-
+tra, como vuera merced lo va relatando, dixo
+a ea ſazon el Canonigo. A lo qual reſpondio don
+Quixote: Añadio tambien vuera merced, dizien-
+do, que me auian hecho mucho daño tales libros,
+pues me auian buelto el juyzio, y pueome en vna
+jaula, y que me ſeria mejor hazer la enmienda,
+y mudar de letura, le yendo otros mas verdaderos,
+y que mejor deleytan, y enſeñan. Aſsi es, dixo el
+Canonigo. Pues yo, replicò don Quixote, hao</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="page-number">
+	<Coords>
+	<Point x="1266" y="87"/>
+	<Point x="1266" y="146"/>
+	<Point x="1335" y="159"/>
+	<Point x="1411" y="146"/>
+	<Point x="1415" y="70"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>298</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1344" y="2087"/>
+	<Point x="1343" y="2158"/>
+	<Point x="1465" y="2154"/>
+	<Point x="1465" y="2085"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>por</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="1045" y="2080"/>
+	<Point x="1048" y="2155"/>
+	<Point x="1194" y="2155"/>
+	<Point x="1198" y="2091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pp 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="468" y="2307"/>
+	<Point x="459" y="2352"/>
+	<Point x="1013" y="2350"/>
+	<Point x="1014" y="2358"/>
+	<Point x="1023" y="2358"/>
+	<Point x="1025" y="2349"/>
+	<Point x="1122" y="2350"/>
+	<Point x="1125" y="2310"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440213">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T15:58:57</Created>
+	<LastChange>2011-12-19T11:38:50</LastChange></Metadata>
+	<Page imageFilename="00440213.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r10" index="0"/>
+	<RegionRefIndexed regionRef="r37" index="1"/>
+	<RegionRefIndexed regionRef="r25" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="917" y="1387"/>
+	<Point x="2364" y="1387"/>
+	<Point x="2364" y="1503"/>
+	<Point x="2235" y="1501"/>
+	<Point x="2032" y="1515"/>
+	<Point x="1977" y="1501"/>
+	<Point x="1703" y="1492"/>
+	<Point x="1655" y="1504"/>
+	<Point x="1608" y="1508"/>
+	<Point x="1552" y="1493"/>
+	<Point x="916" y="1485"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Reduccion de los angulos en Sinaſaguàn (α)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="catch-word">
+	<Coords>
+	<Point x="2369" y="3417"/>
+	<Point x="2594" y="3417"/>
+	<Point x="2594" y="3494"/>
+	<Point x="2369" y="3494"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Com-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="credit">
+	<Coords>
+	<Point x="993" y="4002"/>
+	<Point x="1974" y="4002"/>
+	<Point x="1974" y="4097"/>
+	<Point x="993" y="4097"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="page-number">
+	<Coords>
+	<Point x="734" y="351"/>
+	<Point x="914" y="351"/>
+	<Point x="915" y="450"/>
+	<Point x="731" y="449"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>194</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r34">
+	<Coords>
+	<Point x="621" y="459"/>
+	<Point x="2592" y="451"/>
+	<Point x="2592" y="863"/>
+	<Point x="2600" y="1312"/>
+	<Point x="593" y="1375"/>
+	<Point x="626" y="863"/></Coords></TableRegion>
+	<TextRegion id="r35" type="header">
+	<Coords>
+	<Point x="1251" y="353"/>
+	<Point x="1251" y="446"/>
+	<Point x="2014" y="446"/>
+	<Point x="2014" y="353"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r11">
+	<Coords>
+	<Point x="648" y="1503"/>
+	<Point x="785" y="1497"/>
+	<Point x="1534" y="1499"/>
+	<Point x="1606" y="1516"/>
+	<Point x="1681" y="1506"/>
+	<Point x="1718" y="1502"/>
+	<Point x="1972" y="1510"/>
+	<Point x="2032" y="1522"/>
+	<Point x="2233" y="1508"/>
+	<Point x="2584" y="1503"/>
+	<Point x="2584" y="1897"/>
+	<Point x="2618" y="2831"/>
+	<Point x="637" y="2893"/>
+	<Point x="648" y="1897"/></Coords></TableRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords>
+	<Point x="956" y="2906"/>
+	<Point x="2316" y="2906"/>
+	<Point x="2329" y="3015"/>
+	<Point x="2282" y="3021"/>
+	<Point x="2253" y="3023"/>
+	<Point x="2213" y="3020"/>
+	<Point x="1718" y="3014"/>
+	<Point x="1692" y="3026"/>
+	<Point x="1667" y="3030"/>
+	<Point x="1616" y="3010"/>
+	<Point x="1234" y="3009"/>
+	<Point x="958" y="2997"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Reduccion de los angulos en Bueràn (γ)</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r23">
+	<Coords>
+	<Point x="663" y="3009"/>
+	<Point x="1224" y="3016"/>
+	<Point x="1554" y="3019"/>
+	<Point x="1617" y="3019"/>
+	<Point x="1668" y="3034"/>
+	<Point x="1705" y="3027"/>
+	<Point x="1724" y="3021"/>
+	<Point x="1926" y="3020"/>
+	<Point x="2106" y="3023"/>
+	<Point x="2265" y="3031"/>
+	<Point x="2572" y="3023"/>
+	<Point x="2568" y="3408"/>
+	<Point x="664" y="3440"/></Coords></TableRegion></Page></PcGts>

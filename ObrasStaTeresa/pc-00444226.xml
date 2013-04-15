@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444226">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:43:46</Created>
+	<LastChange>2011-12-19T11:39:32</LastChange></Metadata>
+	<Page imageFilename="00444226.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="930" y="104"/>
+	<Point x="1573" y="104"/>
+	<Point x="1573" y="230"/>
+	<Point x="930" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="419" y="247"/>
+	<Point x="2045" y="241"/>
+	<Point x="2078" y="2648"/>
+	<Point x="2051" y="2652"/>
+	<Point x="1914" y="2652"/>
+	<Point x="1864" y="2674"/>
+	<Point x="1395" y="2684"/>
+	<Point x="427" y="2688"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>los oydos corporales, y es aſsi cierto con ver-
+dad que jamas penſe auia otra manera de oyr
+ni entender, haa que lo vi por mi, y an-
+, como he dicho, me cuea harto traba-
+jo. Quando es demonio, no ſolo no dexa
+buenos eﬀetos, mas dexa los malos, eo me
+ha acaecido, no mas de dos o tres vezes, y
+he do luego auiſada del Señor, como era
+demonio, dexado la gran ſequedad que que-
+da, es vna inquietud en el alma a manera
+de otras muchas vezes, que ha permetido el
+Señor que tenga grandes tentaciones y tra-
+bajos de alma de diﬀerentes maneras, y aun-
+que me atormente hartas vezes, como ade-
+lante dire. Es vna inquietud, que no ſe ſabe
+entender de donde viene,  no  parece re-
+e el alma, y ſe alborota, y afﬂige n ſa-
+ber de que, porque lo que el dize no es ma-
+lo no bueno. Pienſo  ente vn ſpiri-
+tu a otro: el guo y deleyte que el da, a mi
+parecer, es diﬀerente en gran manera. Po-
+dria el engañar con eos guos a quien no
+tuuiere o vuiere tenido otros de Dios, de ve-
+ras digo guos vna recreacion ſuaue, fuerte,
+impreſa, deleytoſa, quieta, que vnas deuocion
+citas del alma, y otros ſentimientos pequeños
+que al primer ayrezito de perſecucion ſe pier</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="612" y="3054"/>
+	<Point x="1573" y="3054"/>
+	<Point x="1573" y="3150"/>
+	<Point x="612" y="3150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1862" y="2677"/>
+	<Point x="1855" y="2747"/>
+	<Point x="2001" y="2747"/>
+	<Point x="2001" y="2668"/>
+	<Point x="1910" y="2656"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>den</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="497" y="131"/>
+	<Point x="502" y="237"/>
+	<Point x="669" y="237"/>
+	<Point x="668" y="129"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>298</Unicode></TextEquiv></TextRegion></Page></PcGts>

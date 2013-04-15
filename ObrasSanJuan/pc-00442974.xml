@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442974">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T19:15:15</Created>
+	<LastChange>2011-03-15T16:51:30</LastChange></Metadata>
+	<Page imageFilename="00442974.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="498" y="66"/>
+	<Point x="498" y="157"/>
+	<Point x="1101" y="157"/>
+	<Point x="1101" y="66"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fr. Ioan de la Cruz.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1494" y="87"/>
+	<Point x="1494" y="174"/>
+	<Point x="1598" y="174"/>
+	<Point x="1598" y="87"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>19</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="1609" y="211"/>
+	<Point x="92" y="201"/>
+	<Point x="129" y="2720"/>
+	<Point x="831" y="2740"/>
+	<Point x="1064" y="2716"/>
+	<Point x="1629" y="2716"/>
+	<Point x="1622" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>llas que obraba tan grandes, dan bien a entender, que
+no un ſolo grano, no muchos i mayores que de moa-
+ça, que con ſu viveza criaba en ſu pecho la Fè, para
+traornar;  fuera neceſario, montes, i derribarlos en
+la mar. Su Eſperança era como fundada en ſu Fè, i me
+dida, no con la pequeñez del coraçon humano, no
+con la inmen dad de la Omnipotencia divina. I a ſo-
+lia dezir mui de ordinario: O ESPER ANZA
+DEL CIELO, QVE TANTO ALCANZAS,
+QV ANTO ESPERAS! i otras vezes, arrojan-
+do ſu cuidado en Dios, cuando ſe trataba de provion
+para la Caſa, dezia: YA SABE EL SEñOR
+LO QVE AVEMOS MENESTER: A NOSOTROS
+TOCA EL SERVIRLE, I A SV MAGESTAD
+EL PROVEERNOS. Vioſe el efeto dea con-
+fiança en muchas ocaones, acreditada con milagroſa
+providencia. En Granada, importunado del Procura-
+dor deI Convento, para que ſe proveyeſe la comida del
+dia guiente, que ya faltaba, le reſpondio: Tiempo tie-
+ne Dios para proveernos, n quetan preo le acuſemos la
+rebeldia: cenado avemos ea noche, i quien dio la cena darà
+la comida. I a fue, que a la mañana vino un hombre
+aviſado interiormente del Señor, i dio lo que para a-
+quel dia era meneer. Lo miſmo ſucedio en ee i o-
+tros Conventos muchas vezes; con que manifeò ſu
+Magead, cuan agradable fue empre a ſus divinos
+ojos ea filial confiança de ſu Siervo. De la inflama-
+da Caridad dee ingne Varon no fueron menores los
+indicios, ni menos maravilloſos los efetos. El roro,
+bañado eeriormente en reſplandor del cielo, publica-
+ba el fuego que abraſaba ſu alma; i las palabras,  en-
+cendian a los oyentes en amor divino, pregonaban
+el que ardia en ſu coraçon. Vioſe en una de ſus</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="1029" y="2726"/>
+	<Point x="1019" y="2793"/>
+	<Point x="1140" y="2793"/>
+	<Point x="1140" y="2725"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>b 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="1491" y="2730"/>
+	<Point x="1491" y="2809"/>
+	<Point x="1618" y="2809"/>
+	<Point x="1618" y="2730"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pa-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="777" y="2992"/>
+	<Point x="777" y="2937"/>
+	<Point x="1425" y="2937"/>
+	<Point x="1425" y="2992"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

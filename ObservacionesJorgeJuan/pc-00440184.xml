@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440184">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T07:53:41</Created>
+	<LastChange>2011-12-19T11:38:49</LastChange></Metadata>
+	<Page imageFilename="00440184.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r43" index="0"/>
+	<RegionRefIndexed regionRef="r44" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="787" y="307"/>
+	<Point x="1747" y="311"/>
+	<Point x="1738" y="442"/>
+	<Point x="787" y="447"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="307" y="2775"/>
+	<Point x="2300" y="2775"/>
+	<Point x="2295" y="3355"/>
+	<Point x="2060" y="3355"/>
+	<Point x="2057" y="3440"/>
+	<Point x="307" y="3437"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Deſpues de eos triangulos, ſe formaron los otros,
+que ſe vèn puntuados, para haar la diancia de Guana-
+càuri (θ) à los Baños (ξ), que fuè ſegunda Baſe examinada
+para veriﬁcar la Série de los triangulos. Medimos ea Ba‐
+ſe M. Godin, y yo de la miſma ſuerte, que la de Yaruquì, y
+con iguales precauciones; en cuya obra empleamos 21</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="catch-word">
+	<Coords>
+	<Point x="2080" y="3367"/>
+	<Point x="2252" y="3367"/>
+	<Point x="2252" y="3460"/>
+	<Point x="2175" y="3467"/>
+	<Point x="2080" y="3460"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dias.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="credit">
+	<Coords>
+	<Point x="995" y="4000"/>
+	<Point x="1975" y="4000"/>
+	<Point x="1975" y="4095"/>
+	<Point x="995" y="4095"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="page-number">
+	<Coords>
+	<Point x="2007" y="350"/>
+	<Point x="2175" y="350"/>
+	<Point x="2175" y="450"/>
+	<Point x="2007" y="450"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>165</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r12">
+	<Coords>
+	<Point x="305" y="460"/>
+	<Point x="2225" y="460"/>
+	<Point x="2225" y="1045"/>
+	<Point x="305" y="1045"/></Coords></TableRegion>
+	<TableRegion id="r48">
+	<Coords>
+	<Point x="312" y="1087"/>
+	<Point x="2235" y="1087"/>
+	<Point x="2235" y="1592"/>
+	<Point x="312" y="1592"/></Coords></TableRegion>
+	<TableRegion id="r30">
+	<Coords>
+	<Point x="310" y="1615"/>
+	<Point x="2227" y="1615"/>
+	<Point x="2227" y="2155"/>
+	<Point x="310" y="2155"/></Coords></TableRegion>
+	<TableRegion id="r33">
+	<Coords>
+	<Point x="322" y="2227"/>
+	<Point x="2220" y="2227"/>
+	<Point x="2220" y="2737"/>
+	<Point x="322" y="2737"/></Coords></TableRegion></Page></PcGts>

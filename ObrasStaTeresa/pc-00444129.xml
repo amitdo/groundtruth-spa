@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444129">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:01:27</Created>
+	<LastChange>2011-12-19T11:39:27</LastChange></Metadata>
+	<Page imageFilename="00444129.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="383" y="94"/>
+	<Point x="1554" y="89"/>
+	<Point x="1538" y="214"/>
+	<Point x="387" y="208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="191" y="227"/>
+	<Point x="430" y="223"/>
+	<Point x="1270" y="220"/>
+	<Point x="1827" y="234"/>
+	<Point x="1886" y="2619"/>
+	<Point x="1675" y="2634"/>
+	<Point x="1525" y="2669"/>
+	<Point x="1337" y="2629"/>
+	<Point x="1315" y="2632"/>
+	<Point x="217" y="2664"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>las que ſon buenas es gran largueza, y ma-
+gnanimidad, en ﬁn vuera, Señor mio,
+que days como quien ſoys. O largueza in-
+ﬁnita, quan magniﬁcas ſon vueras obras,
+eſpanta a quien no tiene tan ocupado el en-
+tendimiento en coſas de la tierra, que no
+tenga ninguno para entender verdades. Pues
+que hagays a almas que tanto os han oﬀen-
+dido, mercedes tan ſoberanas, cierto a mi
+me acaba el entendimiento, y quando e-
+go a penſar en eo, no puedo yr adelante.
+Donde ha de yr que no ſe ha tornar atras?
+Pues daros gracias por tan grandes mercedes,
+no ſabe como. Con dezir diſparates me re-
+medio algunas vezes: acaeceme muchas,
+quando acabo de recebir eas mercedes, o
+me las comiença Dios a hazer (que eando
+en eas, ya he dicho que no ay poder hazer
+nada) dezir, Señor mira lo que hazeys, no
+oluideys tan preo tan grandes males mios,
+ya que para perdonarme lo ayays oluidado,
+para poner taa en las mercedes, os ſuplico
+ſe os acuerde. No pongays criador mio tan
+precioſo licor, en vaſo tan quebrado, pues
+aueys ya vio de otras vezes, que lo torno a
+derramar: no pongays theſoro ſemejante
+adonde aun no eà como ha de ear perdida</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1642" y="2645"/>
+	<Point x="1678" y="2638"/>
+	<Point x="1787" y="2629"/>
+	<Point x="1805" y="2731"/>
+	<Point x="1642" y="2745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>del</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r4" type="stamp">
+	<Coords>
+	<Point x="823" y="2724"/>
+	<Point x="986" y="2705"/>
+	<Point x="1157" y="2719"/>
+	<Point x="1200" y="2906"/>
+	<Point x="1160" y="3067"/>
+	<Point x="1082" y="3077"/>
+	<Point x="1054" y="3078"/>
+	<Point x="1019" y="3084"/>
+	<Point x="998" y="3082"/>
+	<Point x="919" y="3079"/>
+	<Point x="908" y="3076"/>
+	<Point x="871" y="3067"/>
+	<Point x="822" y="2931"/></Coords></GraphicRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="583" y="3072"/>
+	<Point x="998" y="3083"/>
+	<Point x="1019" y="3085"/>
+	<Point x="1054" y="3079"/>
+	<Point x="1395" y="3072"/>
+	<Point x="1584" y="3068"/>
+	<Point x="1576" y="3156"/>
+	<Point x="633" y="3147"/>
+	<Point x="585" y="3152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1265" y="2643"/>
+	<Point x="1258" y="2758"/>
+	<Point x="1464" y="2758"/>
+	<Point x="1466" y="2673"/>
+	<Point x="1361" y="2642"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N 5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1621" y="127"/>
+	<Point x="1619" y="205"/>
+	<Point x="1800" y="210"/>
+	<Point x="1787" y="128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>201</Unicode></TextEquiv></TextRegion></Page></PcGts>

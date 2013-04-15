@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485295">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:05:45</Created>
+	<LastChange>2011-05-12T13:41:12</LastChange></Metadata>
+	<Page imageFilename="00485295.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="418" y="172"/>
+	<Point x="1118" y="182"/>
+	<Point x="1438" y="190"/>
+	<Point x="1620" y="208"/>
+	<Point x="1644" y="844"/>
+	<Point x="1642" y="862"/>
+	<Point x="1270" y="878"/>
+	<Point x="578" y="872"/>
+	<Point x="455" y="858"/>
+	<Point x="430" y="854"/>
+	<Point x="424" y="196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Si fueen meneer aqui argumentos,
+Para prouar ea demanda mia:
+Pudiera yo traer mas fundamentos,
+Para fundar tan cierta fantaa:
+Pero baan los ſolos ſentimientos,
+A ſaber cierto que's la nieue fria:
+Y el fuego no dira que no es caliente,
+Sino aquel, que de muerto ya no ente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="426" y="908"/>
+	<Point x="1612" y="908"/>
+	<Point x="1612" y="1606"/>
+	<Point x="426" y="1606"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y ai no ay mas en eo, que entendays,
+Sino que  acordays de bien regiros,
+Voſotras, de voſotras os ruays,
+Sin querer engañaros, ni mentiros.
+En tantas erechezas no os metays,
+Que deſpues deas, no podays ſaliros.
+Y no os perdays en el cerrado puerto,
+De miedo de ſalir al mar abierto.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="416" y="1626"/>
+	<Point x="1694" y="1626"/>
+	<Point x="1694" y="2328"/>
+	<Point x="416" y="2328"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mas para que's andar mas alargando
+Siendo vuero juyzio de manera,
+Que no a d'hazer para acertar, andando
+Sino ſeguir de coro ſu carrera.
+Caare pues con eo ai parando,
+Mas por ſaber la voluntad porera,
+Que ſobre'o en voſotras ea puea,
+Bolueremos aca por la reſpuea.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="562" y="2350"/>
+	<Point x="1530" y="2350"/>
+	<Point x="1530" y="2558"/>
+	<Point x="562" y="2558"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FIN DE LAS OBRAS
+DE BOSCAN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="548" y="3006"/>
+	<Point x="1460" y="3006"/>
+	<Point x="1460" y="3084"/>
+	<Point x="1270" y="3096"/>
+	<Point x="548" y="3084"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1290" y="2584"/>
+	<Point x="1290" y="2712"/>
+	<Point x="1544" y="2712"/>
+	<Point x="1544" y="2584"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Z iiĳ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1286" y="66"/>
+	<Point x="1286" y="174"/>
+	<Point x="1750" y="174"/>
+	<Point x="1750" y="66"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. CLXIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="728" y="68"/>
+	<Point x="728" y="164"/>
+	<Point x="1260" y="164"/>
+	<Point x="1260" y="68"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion></Page></PcGts>

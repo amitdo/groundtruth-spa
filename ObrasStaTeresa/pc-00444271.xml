@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444271">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:19:08</Created>
+	<LastChange>2011-12-19T11:39:35</LastChange></Metadata>
+	<Page imageFilename="00444271.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="292" y="73"/>
+	<Point x="1503" y="73"/>
+	<Point x="1503" y="216"/>
+	<Point x="292" y="216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="134" y="230"/>
+	<Point x="1714" y="232"/>
+	<Point x="1709" y="633"/>
+	<Point x="1778" y="2643"/>
+	<Point x="1699" y="2647"/>
+	<Point x="1622" y="2648"/>
+	<Point x="1607" y="2650"/>
+	<Point x="1583" y="2654"/>
+	<Point x="1556" y="2646"/>
+	<Point x="1545" y="2643"/>
+	<Point x="1485" y="2650"/>
+	<Point x="1362" y="2635"/>
+	<Point x="1309" y="2637"/>
+	<Point x="1281" y="2636"/>
+	<Point x="1266" y="2635"/>
+	<Point x="1241" y="2636"/>
+	<Point x="1207" y="2637"/>
+	<Point x="1172" y="2665"/>
+	<Point x="818" y="2664"/>
+	<Point x="154" y="2661"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que no vuiee miedo me faltae, empre me
+animaua, y ſoegaua, mandauame empre
+que no le caae ninguna coſa, y o an lo ha-
+zia, el me dezia que haziendo yo eo, aunque
+fuee demonio no me haria daño, antes ſaca-
+ria el Señor biẽ del mal  el queria hazer a mi
+alma, procuraua perﬁcionarla en todo lo  po
+dia, yo como traya tãto miedo, obedeciale en
+todo, aunque imperfetamente, que harto paſ-
+ſo conmigo tres años, y mas que me confeo
+con eos trabajos, porque en grandes perſe-
+cuciones que tuue, y coſas hartas que permi-
+tia el Señor me juzgaen mal, y muchas eã-
+do n culpa, con todas venian a el, y era cul-
+pado por mi, eando el n ninguna culpa, fue
+ra impoſsible  no tuuiera tanta ſantidad, y el
+Señor  le animaua, poder ſuﬀrir tanto, por
+auia de reſpõder a los  les parecia yua perdi-
+da, y no le creyan, y por otra parte auiame de
+ſoegar a mi, y de curar el miedo que yo traya
+poniendomele mayor, me auia por otra par-
+te de ſoegar, porque a cada vion endo co
+ſa nueua, permitia Dios me quedaen deſpues
+grandes temores, todo me procedia de ſer
+tan peccadora yo, y auerlo do, el me con-
+ſolaua con mucha piedad, y  el ſe creyera
+a  meſmo, no padeciera yo tanto, que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1503" y="2653"/>
+	<Point x="1544" y="2647"/>
+	<Point x="1580" y="2657"/>
+	<Point x="1604" y="2653"/>
+	<Point x="1682" y="2661"/>
+	<Point x="1680" y="2749"/>
+	<Point x="1678" y="2748"/>
+	<Point x="1658" y="2748"/>
+	<Point x="1505" y="2749"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dios</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="622" y="3051"/>
+	<Point x="1564" y="3051"/>
+	<Point x="1564" y="3148"/>
+	<Point x="622" y="3148"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1537" y="122"/>
+	<Point x="1698" y="122"/>
+	<Point x="1700" y="225"/>
+	<Point x="1535" y="225"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>343</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1201" y="2648"/>
+	<Point x="1365" y="2648"/>
+	<Point x="1365" y="2760"/>
+	<Point x="1201" y="2760"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y 4</Unicode></TextEquiv></TextRegion></Page></PcGts>

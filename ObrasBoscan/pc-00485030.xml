@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485030">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T18:35:21</Created>
+	<LastChange>2011-05-12T13:40:46</LastChange></Metadata>
+	<Page imageFilename="00485030.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r5" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1272" y="75"/>
+	<Point x="1663" y="68"/>
+	<Point x="1658" y="192"/>
+	<Point x="1280" y="187"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eo XXXI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="410" y="1337"/>
+	<Point x="1562" y="1364"/>
+	<Point x="1574" y="2433"/>
+	<Point x="1510" y="2437"/>
+	<Point x="1385" y="2432"/>
+	<Point x="1309" y="2433"/>
+	<Point x="1288" y="2440"/>
+	<Point x="1049" y="2485"/>
+	<Point x="425" y="2453"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Agora ya imagino
+Lo que'ara haziendo.
+Penſando'oy, quiça  pienſa en mi:
+El geo determino,
+Con que'ara riendo
+De qual euue, quando me parti.
+Aunque ſegun ſenti
+Cuitado la partida,
+No cabe en ſu valor,
+Que no enta dolor
+De tan amarga y cruda deſpedida.
+Tan trie parti yo,
+Que aunque no quiera, ea lo ntio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="629" y="3015"/>
+	<Point x="1390" y="3011"/>
+	<Point x="1392" y="3090"/>
+	<Point x="625" y="3092"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="410" y="198"/>
+	<Point x="1515" y="202"/>
+	<Point x="1562" y="1303"/>
+	<Point x="431" y="1305"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Paare imaginando:
+Si en hombre tan rebuelto
+Puede' l imaginar hazer ſu ofﬁcio.
+Penſare, como y quando
+Podre verme ya buelto
+Do hizo amor de mi ſu ſacriﬁcio:
+Y tomare por vicio,
+Figurar la que quiero:
+Hablandole en auſencia
+Harto mas, que' n preſencia.
+Contarle e deſd'aca, como aa muero.
+Y mi voluntad mucha
+Me hara parecer, que'a me'ſcucha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="signature-mark">
+	<Coords>
+	<Point x="1309" y="2449"/>
+	<Point x="1307" y="2542"/>
+	<Point x="1485" y="2542"/>
+	<Point x="1492" y="2442"/>
+	<Point x="1328" y="2441"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>F iij</Unicode></TextEquiv></TextRegion></Page></PcGts>

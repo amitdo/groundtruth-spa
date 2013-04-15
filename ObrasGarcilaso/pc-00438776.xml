@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438776">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T20:34:47</Created>
+	<LastChange>2011-06-24T14:04:16</LastChange></Metadata>
+	<Page imageFilename="00438776.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r13" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/>
+	<RegionRefIndexed regionRef="r24" index="3"/>
+	<RegionRefIndexed regionRef="r25" index="4"/>
+	<RegionRefIndexed regionRef="r26" index="5"/>
+	<RegionRefIndexed regionRef="r20" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="218" y="101"/>
+	<Point x="854" y="92"/>
+	<Point x="1005" y="90"/>
+	<Point x="1013" y="192"/>
+	<Point x="213" y="198"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GARCILASSO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="101" y="249"/>
+	<Point x="1111" y="267"/>
+	<Point x="1115" y="439"/>
+	<Point x="131" y="416"/>
+	<Point x="84" y="422"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ODE AD FLOREM
+Gnidi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="catch-word">
+	<Coords>
+	<Point x="1092" y="2024"/>
+	<Point x="1109" y="2016"/>
+	<Point x="1258" y="2010"/>
+	<Point x="1267" y="2052"/>
+	<Point x="1255" y="2101"/>
+	<Point x="1072" y="2093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mas</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="credit">
+	<Coords>
+	<Point x="488" y="2097"/>
+	<Point x="747" y="2101"/>
+	<Point x="854" y="2103"/>
+	<Point x="866" y="2104"/>
+	<Point x="883" y="2105"/>
+	<Point x="897" y="2108"/>
+	<Point x="909" y="2109"/>
+	<Point x="980" y="2097"/>
+	<Point x="980" y="2137"/>
+	<Point x="885" y="2139"/>
+	<Point x="488" y="2137"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="80" y="491"/>
+	<Point x="156" y="496"/>
+	<Point x="1231" y="519"/>
+	<Point x="1238" y="697"/>
+	<Point x="1250" y="875"/>
+	<Point x="630" y="897"/>
+	<Point x="573" y="881"/>
+	<Point x="216" y="876"/>
+	<Point x="151" y="875"/>
+	<Point x="119" y="886"/>
+	<Point x="98" y="891"/>
+	<Point x="2" y="867"/>
+	<Point x="71" y="714"/>
+	<Point x="95" y="655"/>
+	<Point x="121" y="583"/>
+	<Point x="78" y="585"/>
+	<Point x="74" y="567"/>
+	<Point x="73" y="534"/>
+	<Point x="72" y="514"/>
+	<Point x="83" y="494"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I de mi baxa lira
+tanto pudiee el ſon, que en vn mo-
+aplacae la ira (mento
+del animoſo viento,
+y la furia del mar, y el mouimiento,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="page-number">
+	<Coords>
+	<Point x="1132" y="81"/>
+	<Point x="1132" y="213"/>
+	<Point x="1262" y="213"/>
+	<Point x="1262" y="81"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>19</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="marginalia">
+	<Coords>
+	<Point x="1246" y="564"/>
+	<Point x="1240" y="625"/>
+	<Point x="1246" y="664"/>
+	<Point x="1334" y="664"/>
+	<Point x="1334" y="564"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>43</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="11" y="883"/>
+	<Point x="12" y="1253"/>
+	<Point x="78" y="1248"/>
+	<Point x="88" y="1263"/>
+	<Point x="103" y="1271"/>
+	<Point x="196" y="1256"/>
+	<Point x="287" y="1258"/>
+	<Point x="1155" y="1263"/>
+	<Point x="1155" y="886"/>
+	<Point x="618" y="905"/>
+	<Point x="595" y="889"/>
+	<Point x="581" y="887"/>
+	<Point x="554" y="894"/>
+	<Point x="204" y="888"/>
+	<Point x="125" y="897"/>
+	<Point x="52" y="886"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y en aſperas montañas
+con el ſuaue canto enterneciee
+las ﬁeras alimañas,
+los arboles mouiee,
+y al ſon confuſamente los truxee,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="6" y="1321"/>
+	<Point x="12" y="1599"/>
+	<Point x="33" y="1593"/>
+	<Point x="72" y="1603"/>
+	<Point x="104" y="1625"/>
+	<Point x="145" y="1638"/>
+	<Point x="196" y="1647"/>
+	<Point x="233" y="1636"/>
+	<Point x="281" y="1628"/>
+	<Point x="375" y="1650"/>
+	<Point x="387" y="1653"/>
+	<Point x="401" y="1654"/>
+	<Point x="443" y="1646"/>
+	<Point x="468" y="1634"/>
+	<Point x="510" y="1638"/>
+	<Point x="517" y="1651"/>
+	<Point x="616" y="1649"/>
+	<Point x="650" y="1644"/>
+	<Point x="1260" y="1636"/>
+	<Point x="1256" y="1315"/>
+	<Point x="773" y="1270"/>
+	<Point x="320" y="1262"/>
+	<Point x="177" y="1268"/>
+	<Point x="104" y="1276"/>
+	<Point x="70" y="1260"/>
+	<Point x="10" y="1261"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No pienſes que cantado
+ſeria de mi (hermoſa ﬂor de Gnido)
+el ﬁero Marte ayrado
+a muerte conuertido,
+de poluo, y ſangre, y de ſudor teñido,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="0" y="1694"/>
+	<Point x="13" y="2005"/>
+	<Point x="104" y="2031"/>
+	<Point x="814" y="2005"/>
+	<Point x="1024" y="2009"/>
+	<Point x="1197" y="2003"/>
+	<Point x="1192" y="1668"/>
+	<Point x="559" y="1662"/>
+	<Point x="502" y="1652"/>
+	<Point x="492" y="1646"/>
+	<Point x="484" y="1644"/>
+	<Point x="439" y="1664"/>
+	<Point x="389" y="1659"/>
+	<Point x="294" y="1644"/>
+	<Point x="281" y="1641"/>
+	<Point x="261" y="1636"/>
+	<Point x="244" y="1647"/>
+	<Point x="205" y="1654"/>
+	<Point x="151" y="1651"/>
+	<Point x="76" y="1630"/>
+	<Point x="31" y="1633"/>
+	<Point x="8" y="1632"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ni aqueos capitanes,
+en las ſublimes ruedas colocados,
+porquien los Alemanes
+el ﬁero cueo atados,
+y los Francees van domeicados.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="signature-mark">
+	<Coords>
+	<Point x="769" y="2026"/>
+	<Point x="768" y="2083"/>
+	<Point x="801" y="2089"/>
+	<Point x="850" y="2098"/>
+	<Point x="898" y="2104"/>
+	<Point x="906" y="2098"/>
+	<Point x="909" y="2082"/>
+	<Point x="911" y="2026"/>
+	<Point x="810" y="2014"/>
+	<Point x="781" y="2017"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="drop-capital">
+	<Coords>
+	<Point x="5" y="512"/>
+	<Point x="5" y="625"/>
+	<Point x="67" y="625"/>
+	<Point x="67" y="512"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>S</Unicode></TextEquiv></TextRegion></Page></PcGts>

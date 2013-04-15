@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443017">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T19:28:26</Created>
+	<LastChange>2011-03-15T16:51:33</LastChange></Metadata>
+	<Page imageFilename="00443017.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="802" y="18"/>
+	<Point x="802" y="135"/>
+	<Point x="1435" y="135"/>
+	<Point x="1435" y="18"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PROLOCO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="394" y="37"/>
+	<Point x="377" y="66"/>
+	<Point x="381" y="92"/>
+	<Point x="394" y="110"/>
+	<Point x="456" y="110"/>
+	<Point x="456" y="37"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>6</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="391" y="164"/>
+	<Point x="391" y="2656"/>
+	<Point x="1652" y="2660"/>
+	<Point x="1801" y="2644"/>
+	<Point x="1906" y="2638"/>
+	<Point x="1916" y="2656"/>
+	<Point x="1916" y="164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>igitur, deſcendamus &amp; confundamus ibi linguam eorum,
+vt non audiat vnusquiſq; vocem proximi ſui, &amp;c. Atque
+ita diuit eos Dominus. Por lo cual es rezia i trabajoſa
+coſa en tales ocaones no entenderſe un alma, ni hallar
+quien la entienda. Porque acõtecera, que la lleve Dios
+por un altimo camino de eſcura contemplacion i ſe-
+quedad, en que a ella le parece, que va perdida; i que eſ-
+tando a llena de eſcuridad trabajos, i aprietos i ten-
+taciones, encuentre quien la diga lo que à Iob ſus conſo
+ladores; Que es melancolia i deſconſuelo, ò condicion;
+i que podra ſer alguna malicia oculta ſuya, i que por
+eſo la ha dexado Dios a; i luego ſuelen juzgar, que a-
+quella alma deve ſer, ò aver do mui mala, pues tales co
+ſas paſan por ella. I tambien avrà quien la diga, que
+buelve atras, pues no halla guo ni conſuelo como an-
+tes en las coſas de Dios. I a doblan el trabajo à la po-
+bre alma; porque acaecera, que la mayor pena que ella
+enta, ſea del conocimiento de ſu propia miſeria, en
+que la parezca mas claro que la luz del dia, que eà lle
+na de males i pecados, por ſe lo dà Dios a à entender
+en aquella Noche de contemplacion, como adelante
+diremos. I como halla quien conforme con ſu pare-
+cer, diziendo, que ſerà por ſu culpa; crece la pena i el
+aprieto del alma n termino, i ſuele llegar a mas que
+morir. I no contentandoſe con eo, penſando los
+tales Confeſores, que procedera de pecados, ha-
+zen a las tales almas rebolver ſus vidas, i que hagan
+muchas confeſsionas generales, i crucificanlas de nue
+vo; no entendiendo, que aquel por ventura no es tiem
+po de eſo, ni de eſotro, no de dexarlas a en la pur-
+gacion que Dios las tiene, conſolandolas i ani-
+mandolas a que quieran aquello haa que Dios</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1733" y="2663"/>
+	<Point x="1729" y="2754"/>
+	<Point x="1908" y="2754"/>
+	<Point x="1908" y="2656"/>
+	<Point x="1881" y="2660"/>
+	<Point x="1830" y="2653"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>quie-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="marginalia">
+	<Coords>
+	<Point x="140" y="783"/>
+	<Point x="140" y="910"/>
+	<Point x="329" y="910"/>
+	<Point x="329" y="783"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ib 4.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="credit">
+	<Coords>
+	<Point x="751" y="2894"/>
+	<Point x="751" y="2997"/>
+	<Point x="1427" y="2997"/>
+	<Point x="1427" y="2894"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

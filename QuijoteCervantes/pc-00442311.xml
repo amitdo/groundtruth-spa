@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442311">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T22:31:08</Created>
+	<LastChange>2012-03-12T14:11:50</LastChange></Metadata>
+	<Page imageFilename="00442311.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r16" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="222" y="181"/>
+	<Point x="992" y="180"/>
+	<Point x="1467" y="190"/>
+	<Point x="1477" y="1366"/>
+	<Point x="810" y="1361"/>
+	<Point x="803" y="1427"/>
+	<Point x="243" y="1413"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vuera merced. Lleuanrole luego a la cama, y
+catandole las feridas, no le haaron ninguna: y el
+dixo que todo era molimiento, por auer dado vna
+gran cayda con Rozinante ſu cauao, comba-
+tiendoſe con diez Iayanes, los mas deſaforados,
+y atreuidos, que ſe pudieran faar en gran par-
+te de la tierra. Ta, ta, dixo el cura, Iayanes ay en
+la dança: Para mi ſantiguada que yo los queme ma-
+ñana antes que egue la noche. Hizieronle a don
+Quixote mil preguntas, y a ninguna quiſo reſpon-
+der otra coſa, no que le dieen de comer, y le de-
+xaen dormir, que era lo que mas le importaua.
+Hizoſe aſsi, y el cura ſe informò muy a la larga
+del labrador, del modo que auia haado a don
+Quixote: el ſelo contò todo, con los diſpara-
+tes que al haarle, y al traerle auia dicho, que
+fue poner mas deeo en el Licenciado, de ha-
+zer lo que otro dia hizo, que fue amar a ſu ami-
+go el barbero Maeſe Nicolas, con el qual ſe vino
+a caſa de don Quixote.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="261" y="1467"/>
+	<Point x="1485" y="1477"/>
+	<Point x="1477" y="1642"/>
+	<Point x="692" y="1632"/>
+	<Point x="681" y="1703"/>
+	<Point x="264" y="1707"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cap. VI. Del donoſo, y grande eſcrutinio que el cura, y
+el barbero hizieron, en la libreria de nueﬆro inge-
+nioſo hidalgo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="507" y="1954"/>
+	<Point x="508" y="1918"/>
+	<Point x="509" y="1827"/>
+	<Point x="512" y="1756"/>
+	<Point x="570" y="1763"/>
+	<Point x="685" y="1761"/>
+	<Point x="925" y="1753"/>
+	<Point x="1471" y="1766"/>
+	<Point x="1471" y="2149"/>
+	<Point x="1435" y="2151"/>
+	<Point x="1414" y="2135"/>
+	<Point x="1201" y="2135"/>
+	<Point x="1169" y="2151"/>
+	<Point x="1105" y="2138"/>
+	<Point x="1027" y="2138"/>
+	<Point x="744" y="2151"/>
+	<Point x="243" y="2139"/>
+	<Point x="244" y="2011"/>
+	<Point x="370" y="2007"/>
+	<Point x="505" y="2003"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L qual aun toda via dormia. Pidio las
+aues a la ſobrina del apoſento, don-
+de eauan los libros, autores del da-
+ño, y ea ſe las dio de muy buena ga-
+na: entraron dentro todos, y la ama con eos, y ha-
+aron mas de cien cuerpos de libros grandes muy</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="463" y="2308"/>
+	<Point x="1119" y="2308"/>
+	<Point x="1120" y="2360"/>
+	<Point x="463" y="2364"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="drop-capital">
+	<Coords>
+	<Point x="248" y="1755"/>
+	<Point x="498" y="1756"/>
+	<Point x="502" y="1864"/>
+	<Point x="496" y="1987"/>
+	<Point x="239" y="1993"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="555" y="84"/>
+	<Point x="1099" y="87"/>
+	<Point x="1096" y="164"/>
+	<Point x="545" y="176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="page-number">
+	<Coords>
+	<Point x="1345" y="103"/>
+	<Point x="1427" y="103"/>
+	<Point x="1424" y="171"/>
+	<Point x="1358" y="172"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>15</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="signature-mark">
+	<Coords>
+	<Point x="1005" y="2143"/>
+	<Point x="1005" y="2203"/>
+	<Point x="1099" y="2203"/>
+	<Point x="1099" y="2143"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="catch-word">
+	<Coords>
+	<Point x="1358" y="2139"/>
+	<Point x="1354" y="2197"/>
+	<Point x="1471" y="2200"/>
+	<Point x="1466" y="2162"/>
+	<Point x="1400" y="2144"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bien</Unicode></TextEquiv></TextRegion></Page></PcGts>

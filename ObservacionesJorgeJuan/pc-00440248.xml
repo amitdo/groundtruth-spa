@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440248">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:05:06</Created>
+	<LastChange>2011-12-19T11:38:53</LastChange></Metadata>
+	<Page imageFilename="00440248.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r25" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="295" y="458"/>
+	<Point x="1551" y="457"/>
+	<Point x="1951" y="459"/>
+	<Point x="1981" y="465"/>
+	<Point x="2216" y="466"/>
+	<Point x="2228" y="954"/>
+	<Point x="2240" y="1142"/>
+	<Point x="2237" y="1631"/>
+	<Point x="2231" y="2019"/>
+	<Point x="2229" y="2156"/>
+	<Point x="1049" y="2164"/>
+	<Point x="1011" y="2171"/>
+	<Point x="963" y="2172"/>
+	<Point x="363" y="2167"/>
+	<Point x="342" y="2174"/>
+	<Point x="290" y="2175"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cen à los angulos de altura, y depreſsion de unas Señales
+reſpeo de otras, y el angulo en el centro de la Tierra, de
+quien tambien en el Capitulo IV de la Seccion anteceden‐
+te ſe hablò, con los quales ſe haan los tres angulos del
+triangulo ABE�, necearios para eas operaciones. Pero
+ſerà bueno advertir, que el angulo en el centro de la Tierra
+en ee calculo, es diinto que en el mio; en donde le ha‐
+è, dividiendo la diancia en toeſas de una Señal à otra
+por 16, y tomando el quociente, por los ſegundos que
+valìa dicho angulo; en lugar de ſuponerſe en èe, que la
+diferencia del angulo de altura, y depreſsion, ò la ſumma
+de dos depreſsiones, es el angulo en el centro de la Tierra; lo
+que fuera muy cierto, como ſe tiene demonrado, à no
+alterar las Obſervaciones la Refraccion; pero como èa
+no ſe pudo jamàs obtener exaamente, y el omitirlas in‐
+duce poco, ò ningun yerro en el calculo; Don Antonio de
+Uoa toma ee angulo como tengo dicho. Sus elementos
+pues ſon como ſe guen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="credit">
+	<Coords>
+	<Point x="993" y="4014"/>
+	<Point x="1946" y="4014"/>
+	<Point x="1946" y="4094"/>
+	<Point x="993" y="4094"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="700" y="362"/>
+	<Point x="1779" y="362"/>
+	<Point x="1780" y="443"/>
+	<Point x="1553" y="444"/>
+	<Point x="1385" y="444"/>
+	<Point x="704" y="445"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE SU S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="page-number">
+	<Coords>
+	<Point x="1991" y="373"/>
+	<Point x="2161" y="373"/>
+	<Point x="2161" y="458"/>
+	<Point x="1991" y="458"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>229</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="footnote">
+	<Coords>
+	<Point x="2253" y="886"/>
+	<Point x="2439" y="886"/>
+	<Point x="2439" y="1000"/>
+	<Point x="2253" y="1000"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a Fig. 6.
+Lam. 7.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r5">
+	<Coords>
+	<Point x="272" y="2178"/>
+	<Point x="343" y="2177"/>
+	<Point x="356" y="2174"/>
+	<Point x="907" y="2174"/>
+	<Point x="1021" y="2173"/>
+	<Point x="1054" y="2169"/>
+	<Point x="1281" y="2167"/>
+	<Point x="2239" y="2171"/>
+	<Point x="2239" y="2760"/>
+	<Point x="272" y="2760"/></Coords></TableRegion>
+	<TableRegion id="r8">
+	<Coords>
+	<Point x="268" y="2805"/>
+	<Point x="2227" y="2805"/>
+	<Point x="2236" y="3414"/>
+	<Point x="2060" y="3413"/>
+	<Point x="268" y="3450"/></Coords></TableRegion>
+	<TextRegion id="r25" type="catch-word">
+	<Coords>
+	<Point x="2060" y="3417"/>
+	<Point x="2060" y="3499"/>
+	<Point x="2202" y="3499"/>
+	<Point x="2214" y="3420"/>
+	<Point x="2104" y="3416"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>An‐</Unicode></TextEquiv></TextRegion></Page></PcGts>

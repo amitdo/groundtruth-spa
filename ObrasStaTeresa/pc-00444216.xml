@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444216">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:42:26</Created>
+	<LastChange>2011-12-19T11:39:32</LastChange></Metadata>
+	<Page imageFilename="00444216.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="513" y="250"/>
+	<Point x="554" y="241"/>
+	<Point x="954" y="233"/>
+	<Point x="1937" y="237"/>
+	<Point x="2008" y="250"/>
+	<Point x="2087" y="320"/>
+	<Point x="2135" y="554"/>
+	<Point x="2100" y="2247"/>
+	<Point x="2114" y="2639"/>
+	<Point x="537" y="2677"/>
+	<Point x="513" y="2654"/>
+	<Point x="429" y="2360"/>
+	<Point x="395" y="643"/>
+	<Point x="489" y="231"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de tornar a ſer ruyn, y no meparecia poſsi-
+ble haar otro como el. Quedo mialma co-
+mo en vn deerto muy deſconſolada y teme
+roſa, no ſabia que hazer de mi. Procurome Ile
+uar vna parienta mia a ſu caſa, y yo procure
+yr luego a procurar otro confeor en los de
+la compañia. Fue el Señor ſeruido, que comẽ
+ce a tomar amiad con vna ſeñora viuda de
+mucha calidad y oracion, que trataua con
+eos mucho, hizo me confear a ſu confeſ-
+ſor, y euue en ſu caſa muchos dias, viuia cer
+ca, yo me holgaua portratar mucho cõ eos,
+que de ſolo entender, la ſantidad de ſu trato,
+era grande el prouecho que mi alma ſentia.
+Ee padre me començo a poner en mas per-
+fecion. Deziame que para del todo conten-
+tar a Dios no auia de dexar nada por hazer,
+tambien con harta maña y blandura porque
+no eaua aun mi alma nada fuerte, no muy
+tierna, en eſpecial en dexar algunas amia-
+des que tenia, aunque no oﬀendia a Dios cõ
+eas, era mucha aﬃcion y pareciame a miera
+ingratitud dexarlas, y an le dezia que pues
+no oﬀendia a Dios que porque auia de ſer
+deſagradecida. El me dixo que lo encomen-
+dae a Dios vnos dias, y que rezae el him-
+no de Veni creator, para que me diee luz</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1918" y="2652"/>
+	<Point x="1954" y="2649"/>
+	<Point x="1984" y="2658"/>
+	<Point x="2000" y="2656"/>
+	<Point x="2038" y="2687"/>
+	<Point x="2018" y="2733"/>
+	<Point x="1969" y="2744"/>
+	<Point x="1924" y="2746"/>
+	<Point x="1924" y="2720"/>
+	<Point x="1894" y="2697"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="636" y="3085"/>
+	<Point x="648" y="3054"/>
+	<Point x="1032" y="3056"/>
+	<Point x="1456" y="3050"/>
+	<Point x="1551" y="3062"/>
+	<Point x="1553" y="3085"/>
+	<Point x="1594" y="3109"/>
+	<Point x="1553" y="3142"/>
+	<Point x="1412" y="3161"/>
+	<Point x="848" y="3163"/>
+	<Point x="636" y="3142"/>
+	<Point x="623" y="3107"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="796" y="128"/>
+	<Point x="796" y="139"/>
+	<Point x="793" y="154"/>
+	<Point x="797" y="183"/>
+	<Point x="798" y="183"/>
+	<Point x="798" y="205"/>
+	<Point x="670" y="218"/>
+	<Point x="558" y="225"/>
+	<Point x="547" y="208"/>
+	<Point x="516" y="216"/>
+	<Point x="481" y="164"/>
+	<Point x="520" y="128"/>
+	<Point x="610" y="91"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>288</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="847" y="137"/>
+	<Point x="918" y="89"/>
+	<Point x="1114" y="91"/>
+	<Point x="1537" y="97"/>
+	<Point x="1572" y="110"/>
+	<Point x="1604" y="156"/>
+	<Point x="1589" y="218"/>
+	<Point x="893" y="220"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LAVIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

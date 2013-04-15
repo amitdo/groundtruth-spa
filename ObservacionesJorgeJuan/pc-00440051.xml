@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440051">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T15:30:40</Created>
+	<LastChange>2011-12-19T11:38:38</LastChange></Metadata>
+	<Page imageFilename="00440051.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r29" index="0"/>
+	<RegionRefIndexed regionRef="r32" index="1"/>
+	<RegionRefIndexed regionRef="r35" index="2"/></OrderedGroup></ReadingOrder>
+	<TableRegion id="r5">
+	<Coords>
+	<Point x="227" y="463"/>
+	<Point x="276" y="466"/>
+	<Point x="291" y="467"/>
+	<Point x="362" y="473"/>
+	<Point x="776" y="483"/>
+	<Point x="978" y="481"/>
+	<Point x="1496" y="473"/>
+	<Point x="1715" y="464"/>
+	<Point x="2013" y="461"/>
+	<Point x="2343" y="452"/>
+	<Point x="2344" y="953"/>
+	<Point x="1738" y="960"/>
+	<Point x="1120" y="963"/>
+	<Point x="570" y="967"/>
+	<Point x="239" y="965"/></Coords></TableRegion>
+	<TableRegion id="r22">
+	<Coords>
+	<Point x="323" y="1083"/>
+	<Point x="947" y="1074"/>
+	<Point x="980" y="1072"/>
+	<Point x="1328" y="1064"/>
+	<Point x="2460" y="1043"/>
+	<Point x="2508" y="3365"/>
+	<Point x="2151" y="3377"/>
+	<Point x="2110" y="3378"/>
+	<Point x="2004" y="3378"/>
+	<Point x="1664" y="3383"/>
+	<Point x="1510" y="3383"/>
+	<Point x="377" y="3425"/>
+	<Point x="358" y="2546"/></Coords></TableRegion>
+	<TextRegion id="r25" type="credit">
+	<Coords>
+	<Point x="1009" y="4016"/>
+	<Point x="1941" y="4016"/>
+	<Point x="1941" y="4090"/>
+	<Point x="1009" y="4090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="header">
+	<Coords>
+	<Point x="782" y="265"/>
+	<Point x="782" y="361"/>
+	<Point x="1766" y="348"/>
+	<Point x="1769" y="265"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S.M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="page-number">
+	<Coords>
+	<Point x="2012" y="267"/>
+	<Point x="2161" y="267"/>
+	<Point x="2161" y="358"/>
+	<Point x="2012" y="358"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>35</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="352" y="356"/>
+	<Point x="350" y="463"/>
+	<Point x="744" y="472"/>
+	<Point x="898" y="458"/>
+	<Point x="913" y="478"/>
+	<Point x="1486" y="469"/>
+	<Point x="1690" y="457"/>
+	<Point x="2018" y="456"/>
+	<Point x="2191" y="452"/>
+	<Point x="2187" y="364"/>
+	<Point x="1921" y="361"/>
+	<Point x="748" y="369"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En Latacunga, capital de ſu Correg. en el miſmo Reyno.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="469" y="978"/>
+	<Point x="469" y="1072"/>
+	<Point x="750" y="1070"/>
+	<Point x="940" y="1069"/>
+	<Point x="1233" y="1051"/>
+	<Point x="1258" y="1049"/>
+	<Point x="1270" y="1061"/>
+	<Point x="2082" y="1034"/>
+	<Point x="2087" y="961"/>
+	<Point x="1896" y="961"/>
+	<Point x="1753" y="975"/>
+	<Point x="1647" y="963"/>
+	<Point x="1623" y="963"/>
+	<Point x="1607" y="981"/>
+	<Point x="1602" y="969"/>
+	<Point x="1483" y="968"/>
+	<Point x="1051" y="971"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En Quito, capital del Reyno del miſmo nombre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="signature-mark">
+	<Coords>
+	<Point x="1523" y="3387"/>
+	<Point x="1684" y="3387"/>
+	<Point x="1684" y="3474"/>
+	<Point x="1523" y="3474"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="catch-word">
+	<Coords>
+	<Point x="2154" y="3383"/>
+	<Point x="2154" y="3466"/>
+	<Point x="2271" y="3466"/>
+	<Point x="2271" y="3383"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En</Unicode></TextEquiv></TextRegion></Page></PcGts>

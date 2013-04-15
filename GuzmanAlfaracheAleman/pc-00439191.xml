@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439191">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T21:41:41</Created>
+	<LastChange>2011-05-12T13:39:51</LastChange></Metadata>
+	<Page imageFilename="00439191.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="154" y="102"/>
+	<Point x="1185" y="97"/>
+	<Point x="1195" y="176"/>
+	<Point x="150" y="180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PARTE II. LIBRO II. CAP. V.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="23" y="188"/>
+	<Point x="120" y="188"/>
+	<Point x="1264" y="195"/>
+	<Point x="1469" y="202"/>
+	<Point x="1466" y="2628"/>
+	<Point x="1441" y="2627"/>
+	<Point x="26" y="2651"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>las eſpera una gentil albarda. Que ſeguridad puedo yo
+tener dee, que nunca buena viga ſe hizo de buen co-
+hombro: el que malas mañas ha, tarde ò nunca las per-
+derà; y ſerà ea la ﬁna, darle al maero cuchiada ſo-
+bre buena reparada. Mas, aunque empre tuve los o-
+jos en la puerta, nunca me faltaron las manos de la rue-
+ca. Hecho eava un Argos en mi negocio, y otro U-
+lixes para el ſuyo, traçando (como  me avia dicho ver-
+dad) poder ayudarlos, à lo ſeguro de todos, en caſo
+que fueſse negocio de conderacion, para ſalir de la-
+zeria, que meter coa en lo que ha de ſer de poco pro-
+vecho es locura, los empleos han de hazerſe conforme
+à las ganancias; ponerſe un hombre à querer lambicar
+ſu entendimiento muchas noches, en lo que à penas
+tendra para cenar una: no conviene; mas, porque por
+ventura pudiera ſer viage de provecho, y echar algun
+buen lance, quando à dormir bolvimos à caſa, y vì
+ſuſpenſo à Sayabedra, le dixe: Pareceme que te robas,
+por lo que no robas, inquieto te trae mucho el dinera
+del mercader: es por ventura lo que penſavas alguna
+traça de las de Archimedes? Pues à ſè, que conozco
+yo un amigo, que no hiziera mal tercio en el negocio,
+ fueſse gordal, y de ſuancia. Como gordal, y de
+ſuancia? Reſspondiò Sayabedra, de mas de veynte
+mil ducados, paño ay para cortar y traçar à nuera
+voluntad como quieremos. Yo le dixe: Como no ſe
+corte de manera, que del nos hagan lobas, bien me
+parece: mas pues tan penſado lo tienes (que no es poſ-
+ble no averſete aſsentado alguna invencion) que re-
+ſulta de todo algo que valga? Pardios nada, me re-
+ſpondiò Sayabedra, no acierto con la eſquina, tanto
+ha que huelgo, que ya con el ocio ha criado el enten-
+dimiento ſangre nueva, y eà eno de ſarna. Mil ve-
+zes comienço con el trote, y à dos galopes me canſo,
+todo lo hao malo. Entonces le bolvì à dezir, pues
+tan importante negocio es como dizes, que parte me
+querreys dar, porque os quite los cuydados, y ſalgays</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1314" y="2634"/>
+	<Point x="1349" y="2636"/>
+	<Point x="1356" y="2638"/>
+	<Point x="1377" y="2636"/>
+	<Point x="1394" y="2636"/>
+	<Point x="1431" y="2632"/>
+	<Point x="1436" y="2680"/>
+	<Point x="1392" y="2683"/>
+	<Point x="1370" y="2684"/>
+	<Point x="1339" y="2683"/>
+	<Point x="1328" y="2682"/>
+	<Point x="1310" y="2677"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>co n</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="542" y="2876"/>
+	<Point x="1311" y="2864"/>
+	<Point x="1302" y="2931"/>
+	<Point x="523" y="2933"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1280" y="97"/>
+	<Point x="1285" y="180"/>
+	<Point x="1423" y="190"/>
+	<Point x="1423" y="97"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>159</Unicode></TextEquiv></TextRegion></Page></PcGts>

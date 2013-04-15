@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440452">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T20:12:09</Created>
+	<LastChange>2011-07-05T14:26:01</LastChange></Metadata>
+	<Page imageFilename="00440452.tif" imageWidth="876" imageHeight="1640">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="75" y="42"/>
+	<Point x="875" y="42"/>
+	<Point x="875" y="1438"/>
+	<Point x="75" y="1438"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no me peſara que los que en ea
+algun guﬆo haaren, vean que
+viue vn hombre con tantas fortu-
+nas, peligros, y aduerdades, ſupli-
+candoles reciban el pobre ſeruicio
+de mano de quien quiera fuera
+mas rico,  el poder, y deeo cor-
+rieran a las parexas. Pues mi
+¡ntention es contar mi vida: pare-
+ciome no comencaa del medio, -
+no del principio, para que ſe ten-
+ga entera noticia de mi perſona,
+y tambien paraque conderen
+los que heredaron nobles eados,
+quan poco ſe les deue, pues for-
+tuna fue con eos parcial, y quan-
+to mas hizieron, los que endoles
+contraria con fuerça, y mano re-
+mando, ſalieron a buen puerto.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="276" y="1570"/>
+	<Point x="580" y="1570"/>
+	<Point x="580" y="1628"/>
+	<Point x="276" y="1628"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

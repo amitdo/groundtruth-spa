@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439271">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T19:52:11</Created>
+	<LastChange>2011-05-12T13:39:55</LastChange></Metadata>
+	<Page imageFilename="00439271.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="590" y="84"/>
+	<Point x="1541" y="84"/>
+	<Point x="1541" y="154"/>
+	<Point x="590" y="154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="536" y="2870"/>
+	<Point x="1308" y="2870"/>
+	<Point x="1308" y="2937"/>
+	<Point x="536" y="2937"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="316" y="192"/>
+	<Point x="354" y="186"/>
+	<Point x="407" y="186"/>
+	<Point x="407" y="181"/>
+	<Point x="462" y="171"/>
+	<Point x="1724" y="171"/>
+	<Point x="1728" y="2581"/>
+	<Point x="1560" y="2603"/>
+	<Point x="1469" y="2639"/>
+	<Point x="311" y="2618"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ca davà de  un olor de Italia. En ſola una coſa la
+haè muy eraña, y à mi parecer por entonces à la pri-
+mera via muy terrible. Hizoſeme dura de digerir, y
+mas de poderſe ſufrir, porque no ſabia la cauſa. Y fue
+ver como conociendo los hombres la condicion de las
+mugeres, que muy pequeña ocaon les baa para ha-
+zer de ſus antojos leyes, formando de ſombras cuerpos,
+las quieen obligar à que perdiendo el decoro y reſpe-
+o que à ſus defuatos maridos deven, las dexen eos
+pueas de pies en la ocaon ò en el deſpeñadero, de
+donde à muchas les hazen ſaltar por fuerça. Yvame
+paeando por una eſpacioſa cae que aman el Coſo, no
+mal pueo ni poco picado de una hermoſa viuda, moça
+(y al parecer) de calidad y rica. Euvela mirando y
+euvoſe queda, bien conociò mi cuydado, mas no ſe
+diò por entendida, ni hizo algun ſemblante, como 
+yo no fuera, ni ai ea euviera, dile mas bueltas que
+que dà un rocin de anoria (que no ſomos menos los que
+ſolicitamos locuras tales) empero ni ea ſe morò eſ-
+quiva ò deſgraciada, ni yo le hablè palabra, haa que à
+mi parecer, enfadada de verme necio de tan caado, creo,
+diria entre : quien ſerà ee tan pintado pandero que
+me ha tenido à terrero de punteria dos horas, y no ha
+diſparado, ni aun abierto la boca; Quitòſe de ai,
+aguardè que bolviee à ſalir con determinacion de per-
+der un virote para enmendar el aviſo, empero à eotra
+puerta. Fuyme à la poſada, y preguntèle al hueſped al
+deſcuydo, y dandole ſeñas quien ſeria, ò  la conocia,
+y reſpondiòme: Aquea ſeñora es una viuda, no una,
+no muchas vezes muy hermoſa. Quiſe ſaber en que
+modo, y dixome: Tiene muchas hermoſuras, que qual-
+quiera baava en otra. Es hermoſa de ſu roro, como
+por el ſe dexa ver, es lo tambien de linage, por ſer de
+lo mejor de aquea ciudad, tambien lo es en riqueza, por
+averle quedado mucha ſuya, y de ſu marido, y ſobre
+toda hermoſura es la de ſu diſcrecion. Vi tan ena la me-
+dida, que luego temì que avia de verter, y dixe al hueſ-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="320" y="79"/>
+	<Point x="311" y="145"/>
+	<Point x="311" y="177"/>
+	<Point x="464" y="160"/>
+	<Point x="464" y="79"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>240</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1606" y="2609"/>
+	<Point x="1603" y="2675"/>
+	<Point x="1726" y="2675"/>
+	<Point x="1726" y="2598"/>
+	<Point x="1698" y="2593"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ped:</Unicode></TextEquiv></TextRegion></Page></PcGts>

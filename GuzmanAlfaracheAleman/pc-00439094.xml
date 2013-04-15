@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439094">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T13:59:27</Created>
+	<LastChange>2010-12-28T05:48:55</LastChange></Metadata>
+	<Page imageFilename="00439094.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r12" index="2"/>
+	<RegionRefIndexed regionRef="r14" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="259" y="76"/>
+	<Point x="1295" y="78"/>
+	<Point x="1300" y="178"/>
+	<Point x="252" y="166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PARTE I. LIBRO I. CAP. VII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="302" y="228"/>
+	<Point x="314" y="207"/>
+	<Point x="1197" y="204"/>
+	<Point x="1197" y="309"/>
+	<Point x="309" y="304"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITVLO VII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="76" y="338"/>
+	<Point x="1430" y="323"/>
+	<Point x="1447" y="723"/>
+	<Point x="95" y="726"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Como creyendo ſer ladron Guzman de Alfarache
+fue preſo, y aviendolo conocido, lo ſoltaron Pro-
+mete uno de los Clerigos contar una hioria
+para entretenimiento del camino.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="530" y="2860"/>
+	<Point x="1301" y="2862"/>
+	<Point x="1299" y="2937"/>
+	<Point x="533" y="2937"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1335" y="2598"/>
+	<Point x="1335" y="2658"/>
+	<Point x="1467" y="2658"/>
+	<Point x="1467" y="2598"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ma-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1361" y="71"/>
+	<Point x="1361" y="173"/>
+	<Point x="1471" y="173"/>
+	<Point x="1471" y="71"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>61</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="drop-capital">
+	<Coords>
+	<Point x="41" y="745"/>
+	<Point x="41" y="746"/>
+	<Point x="213" y="746"/>
+	<Point x="213" y="749"/>
+	<Point x="214" y="749"/>
+	<Point x="214" y="757"/>
+	<Point x="215" y="757"/>
+	<Point x="215" y="765"/>
+	<Point x="216" y="765"/>
+	<Point x="216" y="773"/>
+	<Point x="217" y="773"/>
+	<Point x="217" y="781"/>
+	<Point x="218" y="781"/>
+	<Point x="218" y="789"/>
+	<Point x="219" y="789"/>
+	<Point x="219" y="798"/>
+	<Point x="220" y="798"/>
+	<Point x="220" y="806"/>
+	<Point x="221" y="806"/>
+	<Point x="221" y="814"/>
+	<Point x="222" y="814"/>
+	<Point x="222" y="822"/>
+	<Point x="223" y="822"/>
+	<Point x="223" y="830"/>
+	<Point x="224" y="830"/>
+	<Point x="224" y="838"/>
+	<Point x="225" y="838"/>
+	<Point x="225" y="847"/>
+	<Point x="226" y="847"/>
+	<Point x="226" y="855"/>
+	<Point x="227" y="855"/>
+	<Point x="227" y="863"/>
+	<Point x="228" y="863"/>
+	<Point x="228" y="871"/>
+	<Point x="229" y="871"/>
+	<Point x="229" y="879"/>
+	<Point x="230" y="879"/>
+	<Point x="230" y="887"/>
+	<Point x="231" y="887"/>
+	<Point x="231" y="891"/>
+	<Point x="135" y="891"/>
+	<Point x="135" y="890"/>
+	<Point x="41" y="890"/>
+	<Point x="41" y="746"/>
+	<Point x="40" y="746"/>
+	<Point x="40" y="745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="247" y="746"/>
+	<Point x="247" y="747"/>
+	<Point x="453" y="747"/>
+	<Point x="453" y="748"/>
+	<Point x="660" y="748"/>
+	<Point x="660" y="749"/>
+	<Point x="866" y="749"/>
+	<Point x="866" y="750"/>
+	<Point x="1073" y="750"/>
+	<Point x="1073" y="751"/>
+	<Point x="1279" y="751"/>
+	<Point x="1279" y="752"/>
+	<Point x="1485" y="752"/>
+	<Point x="1485" y="816"/>
+	<Point x="1486" y="816"/>
+	<Point x="1486" y="879"/>
+	<Point x="1487" y="879"/>
+	<Point x="1487" y="942"/>
+	<Point x="1488" y="942"/>
+	<Point x="1488" y="1005"/>
+	<Point x="1489" y="1005"/>
+	<Point x="1489" y="1068"/>
+	<Point x="1490" y="1068"/>
+	<Point x="1490" y="1131"/>
+	<Point x="1491" y="1131"/>
+	<Point x="1491" y="1194"/>
+	<Point x="1492" y="1194"/>
+	<Point x="1492" y="1258"/>
+	<Point x="1493" y="1258"/>
+	<Point x="1493" y="1321"/>
+	<Point x="1494" y="1321"/>
+	<Point x="1494" y="1384"/>
+	<Point x="1495" y="1384"/>
+	<Point x="1495" y="1447"/>
+	<Point x="1496" y="1447"/>
+	<Point x="1496" y="1510"/>
+	<Point x="1497" y="1510"/>
+	<Point x="1497" y="1573"/>
+	<Point x="1498" y="1573"/>
+	<Point x="1498" y="1636"/>
+	<Point x="1499" y="1636"/>
+	<Point x="1499" y="1700"/>
+	<Point x="1500" y="1700"/>
+	<Point x="1500" y="1763"/>
+	<Point x="1501" y="1763"/>
+	<Point x="1501" y="1826"/>
+	<Point x="1502" y="1826"/>
+	<Point x="1502" y="1889"/>
+	<Point x="1503" y="1889"/>
+	<Point x="1503" y="1952"/>
+	<Point x="1504" y="1952"/>
+	<Point x="1504" y="2015"/>
+	<Point x="1505" y="2015"/>
+	<Point x="1505" y="2078"/>
+	<Point x="1506" y="2078"/>
+	<Point x="1506" y="2142"/>
+	<Point x="1507" y="2142"/>
+	<Point x="1507" y="2205"/>
+	<Point x="1508" y="2205"/>
+	<Point x="1508" y="2268"/>
+	<Point x="1509" y="2268"/>
+	<Point x="1509" y="2331"/>
+	<Point x="1510" y="2331"/>
+	<Point x="1510" y="2394"/>
+	<Point x="1511" y="2394"/>
+	<Point x="1511" y="2457"/>
+	<Point x="1512" y="2457"/>
+	<Point x="1512" y="2520"/>
+	<Point x="1513" y="2520"/>
+	<Point x="1513" y="2583"/>
+	<Point x="1514" y="2583"/>
+	<Point x="1472" y="2583"/>
+	<Point x="1472" y="2584"/>
+	<Point x="1431" y="2584"/>
+	<Point x="1431" y="2585"/>
+	<Point x="1389" y="2585"/>
+	<Point x="1389" y="2586"/>
+	<Point x="1348" y="2586"/>
+	<Point x="1348" y="2587"/>
+	<Point x="1307" y="2587"/>
+	<Point x="1307" y="2588"/>
+	<Point x="1265" y="2588"/>
+	<Point x="1265" y="2589"/>
+	<Point x="1224" y="2589"/>
+	<Point x="1224" y="2590"/>
+	<Point x="1183" y="2590"/>
+	<Point x="1183" y="2591"/>
+	<Point x="1141" y="2591"/>
+	<Point x="1141" y="2592"/>
+	<Point x="1100" y="2592"/>
+	<Point x="1100" y="2593"/>
+	<Point x="1058" y="2593"/>
+	<Point x="1058" y="2594"/>
+	<Point x="1017" y="2594"/>
+	<Point x="1017" y="2595"/>
+	<Point x="976" y="2595"/>
+	<Point x="976" y="2596"/>
+	<Point x="934" y="2596"/>
+	<Point x="934" y="2597"/>
+	<Point x="893" y="2597"/>
+	<Point x="893" y="2598"/>
+	<Point x="852" y="2598"/>
+	<Point x="852" y="2599"/>
+	<Point x="810" y="2599"/>
+	<Point x="810" y="2600"/>
+	<Point x="769" y="2600"/>
+	<Point x="769" y="2601"/>
+	<Point x="727" y="2601"/>
+	<Point x="727" y="2602"/>
+	<Point x="686" y="2602"/>
+	<Point x="686" y="2603"/>
+	<Point x="645" y="2603"/>
+	<Point x="645" y="2604"/>
+	<Point x="603" y="2604"/>
+	<Point x="603" y="2605"/>
+	<Point x="562" y="2605"/>
+	<Point x="562" y="2606"/>
+	<Point x="521" y="2606"/>
+	<Point x="521" y="2607"/>
+	<Point x="521" y="2606"/>
+	<Point x="468" y="2606"/>
+	<Point x="468" y="2605"/>
+	<Point x="415" y="2605"/>
+	<Point x="415" y="2604"/>
+	<Point x="363" y="2604"/>
+	<Point x="363" y="2603"/>
+	<Point x="310" y="2603"/>
+	<Point x="310" y="2602"/>
+	<Point x="258" y="2602"/>
+	<Point x="258" y="2601"/>
+	<Point x="205" y="2601"/>
+	<Point x="205" y="2600"/>
+	<Point x="153" y="2600"/>
+	<Point x="153" y="2599"/>
+	<Point x="100" y="2599"/>
+	<Point x="100" y="2598"/>
+	<Point x="48" y="2598"/>
+	<Point x="48" y="2366"/>
+	<Point x="47" y="2366"/>
+	<Point x="47" y="2134"/>
+	<Point x="46" y="2134"/>
+	<Point x="46" y="1903"/>
+	<Point x="45" y="1903"/>
+	<Point x="45" y="1671"/>
+	<Point x="44" y="1671"/>
+	<Point x="44" y="1439"/>
+	<Point x="43" y="1439"/>
+	<Point x="43" y="1208"/>
+	<Point x="42" y="1208"/>
+	<Point x="42" y="976"/>
+	<Point x="41" y="976"/>
+	<Point x="41" y="892"/>
+	<Point x="133" y="892"/>
+	<Point x="133" y="893"/>
+	<Point x="231" y="893"/>
+	<Point x="231" y="895"/>
+	<Point x="232" y="895"/>
+	<Point x="232" y="896"/>
+	<Point x="234" y="896"/>
+	<Point x="234" y="893"/>
+	<Point x="233" y="893"/>
+	<Point x="233" y="885"/>
+	<Point x="232" y="885"/>
+	<Point x="232" y="877"/>
+	<Point x="231" y="877"/>
+	<Point x="231" y="869"/>
+	<Point x="230" y="869"/>
+	<Point x="230" y="861"/>
+	<Point x="229" y="861"/>
+	<Point x="229" y="853"/>
+	<Point x="228" y="853"/>
+	<Point x="228" y="845"/>
+	<Point x="227" y="845"/>
+	<Point x="227" y="836"/>
+	<Point x="226" y="836"/>
+	<Point x="226" y="828"/>
+	<Point x="225" y="828"/>
+	<Point x="225" y="820"/>
+	<Point x="224" y="820"/>
+	<Point x="224" y="812"/>
+	<Point x="223" y="812"/>
+	<Point x="223" y="804"/>
+	<Point x="222" y="804"/>
+	<Point x="222" y="796"/>
+	<Point x="221" y="796"/>
+	<Point x="221" y="787"/>
+	<Point x="220" y="787"/>
+	<Point x="220" y="779"/>
+	<Point x="219" y="779"/>
+	<Point x="219" y="771"/>
+	<Point x="218" y="771"/>
+	<Point x="218" y="763"/>
+	<Point x="217" y="763"/>
+	<Point x="217" y="755"/>
+	<Point x="216" y="755"/>
+	<Point x="216" y="747"/>
+	<Point x="215" y="747"/>
+	<Point x="215" y="746"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ntiguamente los Egypcios, como tan agoreros,
+entre otros muchos errores que tuvieron, adora-
+van à la fortuna, creyendo que la huviera, celebravanle
+una ﬁea el primero dia del año, poniendo ſumptuoſas
+meſas, haziendole grandes banquetes, y opulentos com-
+bites, en agradecimiento de lo paado, y ſuplicandole por
+lo venidero. Teniã por muy cierto ſer ea Dioſa la  diſ-
+ponia en todas las coſas, dando y quitando à ſu eleccion:
+por como ſuprema lo governava todo. Hazian eo, por
+faltarles el conocimiento de un ſolo Dios verdadero, en
+quien adoramos, por cuya poderoſa mano, y divina volũ-
+tad, ſe rigẽ cielo y tierra, con todo lo en eo criado invi-
+ble y vible. Pareciales coſa viva ver quãdo las deſgracias
+comiençan à venir, como egavan las unas, quando las o-
+tras dexavan n dar hora de ſoſego, haa deſmaar y
+deſcomponer un hombre. Y otras vezes, que (como co-
+vardes) acometian de tropel muchas à un tiempo, para
+dar con la caſa en el ſuelo. Y por el contrario no ſube el
+ayre à la cumbre de los altos montes, tan ligero como ea
+los levanta por medios y modos no vios ni penſados, no
+dexandolos ﬁrmes en uno ni otro eado: de modo que el
+abatido deſeſpere, ni el encumbrado conﬁe. Si la lumbre
+de Fè me faltara como à eos, por ventura creyendo ſu
+error, pudiera dezir, quando ſemejantes deſgracias me
+vinieron. Bien vengas mal,  ſolo vienes. Quexème ayer
+de mañana de un poco de canſancio, y dos ſemipoos que
+comì, disfraçados en habito de romeros para ſer deſco-
+nocidos. Vine deſpues à cenar el hediondo vientre de un</Unicode></TextEquiv></TextRegion></Page></PcGts>

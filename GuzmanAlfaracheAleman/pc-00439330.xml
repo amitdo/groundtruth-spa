@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439330">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T14:29:39</Created>
+	<LastChange>2011-05-12T13:40:00</LastChange></Metadata>
+	<Page imageFilename="00439330.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="162" y="127"/>
+	<Point x="1274" y="150"/>
+	<Point x="1253" y="233"/>
+	<Point x="151" y="214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PARTE II. LIBRO III. CAP. IV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="39" y="240"/>
+	<Point x="115" y="228"/>
+	<Point x="496" y="239"/>
+	<Point x="1114" y="244"/>
+	<Point x="1233" y="253"/>
+	<Point x="1438" y="255"/>
+	<Point x="1433" y="2663"/>
+	<Point x="21" y="2672"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y líbre de mis acreedores, que egados los diez años
+avian de apretar conmigo. Con eo les dava un gentil
+tapaboca, cerravales el emboque, y dexavalos muy
+feos. Vendì mi caſa, ca por lo miſmo que me avia co-
+ado: porque aunque de las labores, por maravia ſuele
+ſacarſe lo que ſe gaa, la mia vino à egar à poco me-
+nos de todo el coo, porque le diò de mas valor, aver-
+ſe mejorado con otros ediﬁcios aquel barrio, y aſ la
+mejorò el tiempo. Quando tuvo el eſcrivano las eſcri-
+turas hechas, apunto para otorgarſe por las partes, dixo
+que primero y ante todas coſas aviamos de yr à caſa del
+ſeñor del cenſo perpetuo, à tomar por eſcrito ſu licen-
+cia, requiriendole  las queria por el tanto, y à pagarle
+los corridos con la veyntena. Quando aà egamos y
+ſe hizo la quenta, haamos que los corridos no ega-
+van à ſeys reales, y paava de mil y quinientos la veyn-
+tena. Pareciòme coſa cruel, fuera de toda policia, que
+ſe le huviee de dar una cantidad ſemejante, que mon-
+tava mucho mas de lo que coò de principal el ſuelo: no
+los queria pagar, mas porque la venta no ſe deshiziee,
+y la ocaon de mi remedio ſe paae, paguèlos, con
+proteacion que hize de pedirſelos por juicia, por no
+deverſelos. El dueño ſe riò de mi, como  le huviera
+dicho alguna famoſa necedad, y bien pudo ſer, mas à
+mi (por entonces) no me lo pareciò. Preguntèle que
+de que ſe ria, y dixo, que de mi pretenon, y que me
+los bolveria luego todos, porque cada dia le dieſse me-
+dio real haa que ſalieſse con la ſentencia del pleyto.
+Ca lo quiſe acetar, pareciendome que no ſeria parte
+la mala coumbre, para que averiguado el dolo, no
+ſe deshizieſse: y no ſolo eo que digo, mas aunque todo
+eI Reyno le pediria en Cortes y por ſu propio interes,
+como bien univerſal de la Republica, ſaliera por mi à la
+cauſa, en quanto ſe proveyeſse de remedio en eo. No
+yva tan fuera de propoto, ni con tan ﬂacos fundamen-
+tos, que con lo que ſabia entonces, crehì ſuentar en
+pie mi opinion, pareciendome ciencia cierta. Pudiera</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1292" y="2672"/>
+	<Point x="1338" y="2666"/>
+	<Point x="1415" y="2672"/>
+	<Point x="1415" y="2751"/>
+	<Point x="1292" y="2751"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſer</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="529" y="2849"/>
+	<Point x="1317" y="2849"/>
+	<Point x="1312" y="2934"/>
+	<Point x="530" y="2928"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1298" y="164"/>
+	<Point x="1298" y="250"/>
+	<Point x="1422" y="250"/>
+	<Point x="1422" y="164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>299</Unicode></TextEquiv></TextRegion></Page></PcGts>

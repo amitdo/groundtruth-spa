@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444387">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:03:36</Created>
+	<LastChange>2011-12-19T11:39:42</LastChange></Metadata>
+	<Page imageFilename="00444387.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="261" y="98"/>
+	<Point x="1500" y="93"/>
+	<Point x="1507" y="227"/>
+	<Point x="266" y="224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1455" y="2657"/>
+	<Point x="1479" y="2658"/>
+	<Point x="1548" y="2661"/>
+	<Point x="1601" y="2658"/>
+	<Point x="1648" y="2659"/>
+	<Point x="1715" y="2669"/>
+	<Point x="1710" y="2771"/>
+	<Point x="1439" y="2750"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>hecho,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="608" y="3052"/>
+	<Point x="1588" y="3064"/>
+	<Point x="1583" y="3157"/>
+	<Point x="607" y="3156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="100" y="241"/>
+	<Point x="1250" y="236"/>
+	<Point x="1464" y="240"/>
+	<Point x="1804" y="270"/>
+	<Point x="1789" y="2660"/>
+	<Point x="1737" y="2662"/>
+	<Point x="1701" y="2656"/>
+	<Point x="1664" y="2654"/>
+	<Point x="1641" y="2653"/>
+	<Point x="1602" y="2653"/>
+	<Point x="1542" y="2655"/>
+	<Point x="1457" y="2653"/>
+	<Point x="1175" y="2690"/>
+	<Point x="129" y="2721"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>conderaciones, haziẽ dome gran fuerça pro-
+meti delante de el ſantiſsimo Sacramento de
+hazer todo lo que pudiee para tener licen-
+cia de venirme a ea caſa, y en pudiendolo
+hazer con buena conciencia prometer clau-
+ſura. En haziendo eo en vn inante huyo
+el demonio, y me dexo ſoegada y contenta,
+y lo quede, y lo he eado empre, y todo lo
+que en ea caſa ſe guarda de encerramien-
+to, penitencia, y lo demas, ſe me haze en
+eremo ſuaue, y poco, el contento es tan
+grandiſsimo que pienſo yo algunas vezes,
+que pudiera eſcoger en la tierra que fuera
+mas ſabroſo, no ſe  es eo parte para te-
+ner mucha mas ſalud que nunca, o querer el
+Señor por ſer meneer, y razon que haga lo
+que todas, darme ee conſuelo que pueda ha
+zerlo, aunque con trabajo, mas del poderlo ſe
+eſpantan todas las perſonas que ſaben mis en
+fermedades, bẽdito ſea el que todo lo da, y en
+cuyo poder ſe puede. Quede bien canſada de
+tal contienda, y riendome del demonio que vi
+claro ſer el, creo lo permitio el Señor, porque
+yo nunca ſupe que coſa era deſcontento de
+ſer monja ni vn momento en veynte y ocho
+años y mas que ha que lo ſoy, para que en-
+tendiee la merced grande  en eo me auia</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1546" y="127"/>
+	<Point x="1536" y="240"/>
+	<Point x="1715" y="238"/>
+	<Point x="1715" y="127"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>459</Unicode></TextEquiv></TextRegion></Page></PcGts>

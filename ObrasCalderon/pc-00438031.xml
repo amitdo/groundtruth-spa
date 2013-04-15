@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438031">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T17:10:19</Created>
+	<LastChange>2011-12-19T11:37:22</LastChange></Metadata>
+	<Page imageFilename="00438031.tif" imageWidth="2124" imageHeight="3165">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r18" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/>
+	<RegionRefIndexed regionRef="r12" index="9"/>
+	<RegionRefIndexed regionRef="r10" index="10"/>
+	<RegionRefIndexed regionRef="r14" index="11"/>
+	<RegionRefIndexed regionRef="r15" index="12"/>
+	<RegionRefIndexed regionRef="r33" index="13"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="611" y="0"/>
+	<Point x="1247" y="0"/>
+	<Point x="1248" y="64"/>
+	<Point x="610" y="69"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De Don Pedro Calderon.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="37" y="79"/>
+	<Point x="657" y="76"/>
+	<Point x="925" y="78"/>
+	<Point x="924" y="193"/>
+	<Point x="904" y="235"/>
+	<Point x="457" y="221"/>
+	<Point x="435" y="221"/>
+	<Point x="246" y="235"/>
+	<Point x="27" y="236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>es bien que por todos ſulpa
+la voz, y aſsi. Dentro Fierabras.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="5" y="241"/>
+	<Point x="65" y="240"/>
+	<Point x="181" y="240"/>
+	<Point x="249" y="241"/>
+	<Point x="437" y="224"/>
+	<Point x="844" y="242"/>
+	<Point x="851" y="269"/>
+	<Point x="617" y="257"/>
+	<Point x="554" y="269"/>
+	<Point x="484" y="282"/>
+	<Point x="306" y="286"/>
+	<Point x="251" y="294"/>
+	<Point x="175" y="297"/>
+	<Point x="120" y="302"/>
+	<Point x="0" y="315"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fier. Brutamonte?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="2" y="381"/>
+	<Point x="121" y="370"/>
+	<Point x="169" y="373"/>
+	<Point x="182" y="363"/>
+	<Point x="216" y="366"/>
+	<Point x="429" y="364"/>
+	<Point x="497" y="368"/>
+	<Point x="546" y="349"/>
+	<Point x="759" y="347"/>
+	<Point x="871" y="344"/>
+	<Point x="869" y="446"/>
+	<Point x="389" y="418"/>
+	<Point x="210" y="424"/>
+	<Point x="91" y="434"/>
+	<Point x="2" y="448"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Flor. Mi hermano es ee, ay de mi!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="0" y="452"/>
+	<Point x="165" y="433"/>
+	<Point x="242" y="431"/>
+	<Point x="386" y="421"/>
+	<Point x="392" y="487"/>
+	<Point x="289" y="489"/>
+	<Point x="278" y="498"/>
+	<Point x="254" y="500"/>
+	<Point x="171" y="500"/>
+	<Point x="108" y="499"/>
+	<Point x="3" y="512"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Iren. Què pena!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="11" y="517"/>
+	<Point x="134" y="504"/>
+	<Point x="268" y="502"/>
+	<Point x="279" y="501"/>
+	<Point x="291" y="493"/>
+	<Point x="315" y="493"/>
+	<Point x="416" y="490"/>
+	<Point x="632" y="481"/>
+	<Point x="641" y="549"/>
+	<Point x="243" y="563"/>
+	<Point x="220" y="570"/>
+	<Point x="122" y="563"/>
+	<Point x="1" y="579"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Armind. Què deſventura!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="0" y="584"/>
+	<Point x="130" y="569"/>
+	<Point x="223" y="573"/>
+	<Point x="250" y="566"/>
+	<Point x="620" y="554"/>
+	<Point x="870" y="555"/>
+	<Point x="870" y="1114"/>
+	<Point x="568" y="1090"/>
+	<Point x="531" y="1088"/>
+	<Point x="474" y="1102"/>
+	<Point x="462" y="1102"/>
+	<Point x="415" y="1087"/>
+	<Point x="275" y="1109"/>
+	<Point x="168" y="1101"/>
+	<Point x="110" y="1114"/>
+	<Point x="51" y="1104"/>
+	<Point x="18" y="1109"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Flor. No sè que tengo de hazer,
+que  me haa aqui, es n duda
+que me dè muerte. Gui. Señora,
+pues no avrà por donde huyas?
+que  con armas nos dexas,
+oy en la defenſa tuya
+moriremos. Fier. No es poſsible,
+que no ay otra puerta alguna.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="12" y="1112"/>
+	<Point x="57" y="1108"/>
+	<Point x="110" y="1118"/>
+	<Point x="165" y="1104"/>
+	<Point x="274" y="1112"/>
+	<Point x="418" y="1093"/>
+	<Point x="468" y="1107"/>
+	<Point x="518" y="1096"/>
+	<Point x="587" y="1094"/>
+	<Point x="588" y="1167"/>
+	<Point x="278" y="1161"/>
+	<Point x="203" y="1173"/>
+	<Point x="166" y="1170"/>
+	<Point x="135" y="1166"/>
+	<Point x="10" y="1172"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Oliv. Ay armas. Flor. Si.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="9" y="1177"/>
+	<Point x="131" y="1171"/>
+	<Point x="212" y="1177"/>
+	<Point x="267" y="1167"/>
+	<Point x="583" y="1171"/>
+	<Point x="926" y="1164"/>
+	<Point x="937" y="1423"/>
+	<Point x="920" y="1429"/>
+	<Point x="187" y="1431"/>
+	<Point x="9" y="1432"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Guid. No temais,
+que  ay armas, bien ſeguras
+eais, que no ha de andar empre
+de mala nuera fortuna. Vanſ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="957" y="72"/>
+	<Point x="1941" y="64"/>
+	<Point x="1971" y="1543"/>
+	<Point x="1840" y="1543"/>
+	<Point x="1295" y="1552"/>
+	<Point x="1077" y="1547"/>
+	<Point x="1016" y="1559"/>
+	<Point x="970" y="1552"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dexar cerrado el fuerte,  ſe eran?
+Mas mal ay, que ſoſpecho,
+y es verdad,  el puñal  eà en ſu pe-
+d� Floripes ha do: (cho
+dos vezes (ay de mi!) le he conocido;
+vna, porque las ſeñas
+de la eraña labor no ſon pequeñas;
+y otra, porque ya arguyo
+que, pues me dà la muerte, ſerà ſuyo:
+Floripes los ſocorre?
+derribarè las puertas de la torre,
+ò en mis valientes ombros,
+admiraciones dando, dãdo aombros
+al Cielo, y à la Tierra,
+me evarè la torre, y quanto entierra
+à que el Mar los ſepulte,
+y en bobcdas de nieve los oculte;
+pareciendo arrogante
+con ſu fabrica acueas Elefante,
+que el Zaﬁr Celeial batir procuro,
+vivo horror, vivo eſcoo, vivo muro;
+que no anhela cõ menos ſed mi fama.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="970" y="1559"/>
+	<Point x="1015" y="1563"/>
+	<Point x="1077" y="1551"/>
+	<Point x="1287" y="1556"/>
+	<Point x="1959" y="1550"/>
+	<Point x="1942" y="1743"/>
+	<Point x="1468" y="1751"/>
+	<Point x="1001" y="1742"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aomaſe à las almenas de la torre Gui-
+do, Ricarte, Oliveros, y el Infante
+Guarinos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="credit">
+	<Coords>
+	<Point x="806" y="3100"/>
+	<Point x="1445" y="3097"/>
+	<Point x="1434" y="3164"/>
+	<Point x="789" y="3164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="6" y="1439"/>
+	<Point x="187" y="1437"/>
+	<Point x="866" y="1431"/>
+	<Point x="907" y="1434"/>
+	<Point x="950" y="1433"/>
+	<Point x="965" y="2651"/>
+	<Point x="964" y="2842"/>
+	<Point x="960" y="3030"/>
+	<Point x="18" y="3027"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dize dent. Fierab. Barbaro Brutamõte,
+mira que ya la cumbre de aquel mõte,
+piramide de nieve,
+donde en copas de ﬂores el Sol bebe,
+de hermoſa luz ſe baña:
+mira que ya ſe riega la campa
+con culebras de yelo;
+mira que ya ſe dexa vèr el Cielo:
+ es que duermes, deſpierta,
+y à la ¡nfaua prion abre la puerta,
+y cierrala à la vida
+de eos, de quiẽ el hado es homicida.
+Pero què es lo que veo! Sale.
+ò trie horror! ò palido trofeo!
+Brutamonte à las puertas
+de la torre, vertiendo por inciertas
+bocas eà deſdichas, y congoxas:
+Dezidme, plantas, que morieis roxas,
+ ha do traicion ea?
+èl muerto, yo amando, n reſpuea?
+los preſos han rompido
+la prion, y ſe han ido;
+pero como pudieran</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="990" y="1753"/>
+	<Point x="1584" y="1754"/>
+	<Point x="1804" y="1752"/>
+	<Point x="1965" y="1753"/>
+	<Point x="1964" y="2947"/>
+	<Point x="1921" y="2965"/>
+	<Point x="1814" y="2969"/>
+	<Point x="1603" y="2984"/>
+	<Point x="1510" y="2973"/>
+	<Point x="1449" y="2957"/>
+	<Point x="1276" y="2976"/>
+	<Point x="1004" y="2990"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>G. Quiẽ à las puertas de la torre ama?
+Fierab. Pues quien (eo à mi miedo
+correſponde)
+de la Torre à la Almena me reſponde?
+Guid. Quien reſponder pudiera
+aſsi, que menos que ſu dueño fuera?
+Fier. Pues quien ſu dueño ha do,
+viviendo yo? Gui. El valeroſo Guido
+de Borgoña: què quieres
+aqui? dinos, què buſcas, ò ��ien eres?
+Porque  es que has venido
+Embaxador, para pedir partido
+à la graudeza mia
+de parte del gran Rey de Alexandria,
+las puertas te abriremos,
+y de paz en la Torre trataremo�,
+que ſon divinas leyes
+yſar piedad con los vencidos Reyes,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="signature-mark">
+	<Coords>
+	<Point x="1402" y="2966"/>
+	<Point x="1402" y="3031"/>
+	<Point x="1508" y="3031"/>
+	<Point x="1496" y="2974"/>
+	<Point x="1449" y="2962"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="catch-word">
+	<Coords>
+	<Point x="1746" y="2978"/>
+	<Point x="1747" y="3041"/>
+	<Point x="1915" y="3041"/>
+	<Point x="1919" y="2969"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y aun-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="5" y="324"/>
+	<Point x="5" y="331"/>
+	<Point x="10" y="374"/>
+	<Point x="83" y="366"/>
+	<Point x="170" y="370"/>
+	<Point x="182" y="358"/>
+	<Point x="214" y="354"/>
+	<Point x="492" y="361"/>
+	<Point x="516" y="346"/>
+	<Point x="847" y="338"/>
+	<Point x="857" y="323"/>
+	<Point x="868" y="275"/>
+	<Point x="701" y="272"/>
+	<Point x="585" y="276"/>
+	<Point x="560" y="288"/>
+	<Point x="326" y="291"/>
+	<Point x="130" y="305"/>
+	<Point x="32" y="316"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Oli. Cuya es la voz que ſe eſcucha?</Unicode></TextEquiv></TextRegion></Page></PcGts>

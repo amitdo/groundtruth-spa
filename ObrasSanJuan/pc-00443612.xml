@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443612">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T05:42:14</Created>
+	<LastChange>2010-12-22T05:59:46</LastChange></Metadata>
+	<Page imageFilename="00443612.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r14" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/>
+	<RegionRefIndexed regionRef="r11" index="2"/>
+	<RegionRefIndexed regionRef="r18" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1468" y="113"/>
+	<Point x="1468" y="222"/>
+	<Point x="1666" y="222"/>
+	<Point x="1666" y="113"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>599</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="heading">
+	<Coords>
+	<Point x="320" y="213"/>
+	<Point x="320" y="420"/>
+	<Point x="1368" y="420"/>
+	<Point x="1368" y="213"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PROLOGO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="marginalia">
+	<Coords>
+	<Point x="1694" y="1535"/>
+	<Point x="1683" y="1658"/>
+	<Point x="1697" y="1824"/>
+	<Point x="1911" y="1822"/>
+	<Point x="1911" y="1533"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rom. 8.
+26.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="signature-mark">
+	<Coords>
+	<Point x="1011" y="2794"/>
+	<Point x="1011" y="2888"/>
+	<Point x="1316" y="2888"/>
+	<Point x="1316" y="2794"/>
+	<Point x="1151" y="2774"/>
+	<Point x="1128" y="2775"/>
+	<Point x="1113" y="2779"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Q q</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="catch-word">
+	<Coords>
+	<Point x="1561" y="2772"/>
+	<Point x="1561" y="2855"/>
+	<Point x="1688" y="2855"/>
+	<Point x="1688" y="2772"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="credit">
+	<Coords>
+	<Point x="744" y="2911"/>
+	<Point x="744" y="3000"/>
+	<Point x="1455" y="3000"/>
+	<Point x="1455" y="2911"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="drop-capital">
+	<Coords>
+	<Point x="549" y="461"/>
+	<Point x="549" y="560"/>
+	<Point x="550" y="560"/>
+	<Point x="550" y="653"/>
+	<Point x="551" y="653"/>
+	<Point x="551" y="747"/>
+	<Point x="552" y="747"/>
+	<Point x="552" y="840"/>
+	<Point x="553" y="840"/>
+	<Point x="553" y="932"/>
+	<Point x="127" y="932"/>
+	<Point x="127" y="461"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1688" y="461"/>
+	<Point x="1687" y="461"/>
+	<Point x="1687" y="542"/>
+	<Point x="1686" y="542"/>
+	<Point x="1686" y="623"/>
+	<Point x="1685" y="623"/>
+	<Point x="1685" y="703"/>
+	<Point x="1684" y="703"/>
+	<Point x="1684" y="784"/>
+	<Point x="1683" y="784"/>
+	<Point x="1683" y="865"/>
+	<Point x="1682" y="865"/>
+	<Point x="1682" y="945"/>
+	<Point x="1681" y="945"/>
+	<Point x="1681" y="1026"/>
+	<Point x="1680" y="1026"/>
+	<Point x="1680" y="1107"/>
+	<Point x="1679" y="1107"/>
+	<Point x="1679" y="1187"/>
+	<Point x="1678" y="1187"/>
+	<Point x="1678" y="1268"/>
+	<Point x="1677" y="1268"/>
+	<Point x="1677" y="1349"/>
+	<Point x="1676" y="1349"/>
+	<Point x="1676" y="1429"/>
+	<Point x="1675" y="1429"/>
+	<Point x="1675" y="1510"/>
+	<Point x="1674" y="1510"/>
+	<Point x="1674" y="1591"/>
+	<Point x="1673" y="1591"/>
+	<Point x="1673" y="1671"/>
+	<Point x="1672" y="1671"/>
+	<Point x="1672" y="1752"/>
+	<Point x="1671" y="1752"/>
+	<Point x="1671" y="1894"/>
+	<Point x="1672" y="1894"/>
+	<Point x="1672" y="1956"/>
+	<Point x="1673" y="1956"/>
+	<Point x="1673" y="2018"/>
+	<Point x="1674" y="2018"/>
+	<Point x="1674" y="2080"/>
+	<Point x="1675" y="2080"/>
+	<Point x="1675" y="2142"/>
+	<Point x="1676" y="2142"/>
+	<Point x="1676" y="2204"/>
+	<Point x="1677" y="2204"/>
+	<Point x="1677" y="2266"/>
+	<Point x="1678" y="2266"/>
+	<Point x="1678" y="2328"/>
+	<Point x="1679" y="2328"/>
+	<Point x="1679" y="2390"/>
+	<Point x="1680" y="2390"/>
+	<Point x="1680" y="2452"/>
+	<Point x="1681" y="2452"/>
+	<Point x="1681" y="2514"/>
+	<Point x="1682" y="2514"/>
+	<Point x="1682" y="2576"/>
+	<Point x="1683" y="2576"/>
+	<Point x="1683" y="2638"/>
+	<Point x="1684" y="2638"/>
+	<Point x="1684" y="2700"/>
+	<Point x="1685" y="2700"/>
+	<Point x="1685" y="2762"/>
+	<Point x="1686" y="2762"/>
+	<Point x="1580" y="2762"/>
+	<Point x="1580" y="2763"/>
+	<Point x="1475" y="2763"/>
+	<Point x="1475" y="2764"/>
+	<Point x="1370" y="2764"/>
+	<Point x="1370" y="2765"/>
+	<Point x="1265" y="2765"/>
+	<Point x="1265" y="2766"/>
+	<Point x="1160" y="2766"/>
+	<Point x="1160" y="2767"/>
+	<Point x="1160" y="2766"/>
+	<Point x="1128" y="2766"/>
+	<Point x="1128" y="2767"/>
+	<Point x="1109" y="2767"/>
+	<Point x="1109" y="2768"/>
+	<Point x="1090" y="2768"/>
+	<Point x="1090" y="2769"/>
+	<Point x="1071" y="2769"/>
+	<Point x="1071" y="2770"/>
+	<Point x="1052" y="2770"/>
+	<Point x="1052" y="2771"/>
+	<Point x="1033" y="2771"/>
+	<Point x="1033" y="2772"/>
+	<Point x="1014" y="2772"/>
+	<Point x="1014" y="2773"/>
+	<Point x="995" y="2773"/>
+	<Point x="995" y="2774"/>
+	<Point x="976" y="2774"/>
+	<Point x="976" y="2775"/>
+	<Point x="957" y="2775"/>
+	<Point x="957" y="2776"/>
+	<Point x="938" y="2776"/>
+	<Point x="938" y="2777"/>
+	<Point x="919" y="2777"/>
+	<Point x="919" y="2778"/>
+	<Point x="900" y="2778"/>
+	<Point x="900" y="2779"/>
+	<Point x="882" y="2779"/>
+	<Point x="882" y="2780"/>
+	<Point x="863" y="2780"/>
+	<Point x="863" y="2781"/>
+	<Point x="844" y="2781"/>
+	<Point x="844" y="2782"/>
+	<Point x="825" y="2782"/>
+	<Point x="825" y="2783"/>
+	<Point x="806" y="2783"/>
+	<Point x="806" y="2784"/>
+	<Point x="787" y="2784"/>
+	<Point x="787" y="2785"/>
+	<Point x="768" y="2785"/>
+	<Point x="768" y="2786"/>
+	<Point x="749" y="2786"/>
+	<Point x="749" y="2787"/>
+	<Point x="730" y="2787"/>
+	<Point x="730" y="2788"/>
+	<Point x="711" y="2788"/>
+	<Point x="711" y="2789"/>
+	<Point x="692" y="2789"/>
+	<Point x="692" y="2790"/>
+	<Point x="673" y="2790"/>
+	<Point x="673" y="2791"/>
+	<Point x="654" y="2791"/>
+	<Point x="654" y="2792"/>
+	<Point x="635" y="2792"/>
+	<Point x="635" y="2793"/>
+	<Point x="617" y="2793"/>
+	<Point x="617" y="2794"/>
+	<Point x="617" y="2793"/>
+	<Point x="572" y="2793"/>
+	<Point x="572" y="2792"/>
+	<Point x="527" y="2792"/>
+	<Point x="527" y="2791"/>
+	<Point x="483" y="2791"/>
+	<Point x="483" y="2790"/>
+	<Point x="438" y="2790"/>
+	<Point x="438" y="2789"/>
+	<Point x="394" y="2789"/>
+	<Point x="394" y="2788"/>
+	<Point x="349" y="2788"/>
+	<Point x="349" y="2787"/>
+	<Point x="305" y="2787"/>
+	<Point x="305" y="2786"/>
+	<Point x="260" y="2786"/>
+	<Point x="260" y="2785"/>
+	<Point x="216" y="2785"/>
+	<Point x="216" y="2784"/>
+	<Point x="171" y="2784"/>
+	<Point x="171" y="2783"/>
+	<Point x="127" y="2783"/>
+	<Point x="127" y="934"/>
+	<Point x="556" y="934"/>
+	<Point x="556" y="931"/>
+	<Point x="555" y="931"/>
+	<Point x="555" y="838"/>
+	<Point x="554" y="838"/>
+	<Point x="554" y="745"/>
+	<Point x="553" y="745"/>
+	<Point x="553" y="651"/>
+	<Point x="552" y="651"/>
+	<Point x="552" y="558"/>
+	<Point x="551" y="558"/>
+	<Point x="551" y="463"/>
+	<Point x="552" y="463"/>
+	<Point x="552" y="461"/>
+	<Point x="551" y="461"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Or cuanto eas Canciones parecen ſer
+eſcritas con algun fervor de amor de
+Dios, cuya ſabiduria i amor es tan inmẽ
+ſe; que, como ſe dize en el libro de la Sa
+biduria, toca deſde un ﬁn haa otro ﬁn,
+i el alma que del es informada i movi-
+da, en alguna manera eſa miſma abundancia i in petu
+ev a en el dezir. No pienſo yo agora declarar la an-
+chura i copia del eſpiritu fecũdo del amor que en eas
+eva, antes ſeria inorancia penſar que los dichos de a-
+mor de Dios, i inteligencia Miica (de que ſon i de lo
+que tratan las preſentes Canciones) con alguna ma-
+nera de palabras ſe puedan bien eſplicar. Porque el Eſ
+piritu del Señor que ayuda a nuera flaqueza, como di
+ze ſan Pablo: Poulat pronobis gemitibus inenarrabili-
+bus, morando en noſotros, pide por noſotros con gemi
+dos inefables lo que noſotros no podemos bien enten-
+der i comprehender, para lo manifear. Porque quien
+podrà eſcrivir lo que a las almas amoroſas, dõde el mo-
+ra, haze entender? i quien podrà manifear con pala-
+bras lo  las haze ſentir? i quien ﬁnalmente lo que las
+haze deſear? Cierto nadie lo puede dezir, ni eas miſ-
+mas, por quien paſa, lo puedan eſplicar. Que ea es la
+cauſa porque con ﬁguras, ò comparaciones, ò ſemejan
+ças grandes reboſan algo de lo que enren, i de la abũ
+dancia del eſpiritu vierten ſecretos mierios, que con
+razones lo declaran. Las cuales ſemejanças, no leìdas
+con la ſenziez del eſpiritu de amor, i inteligencia que
+eas evan, antes parecen dislates, que dichos pueſ-
+tos en razon; ſegun es de ver en los divinos Cantares</Unicode></TextEquiv></TextRegion></Page></PcGts>

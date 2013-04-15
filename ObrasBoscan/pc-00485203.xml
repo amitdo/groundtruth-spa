@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485203">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T07:55:04</Created>
+	<LastChange>2011-05-12T13:41:02</LastChange></Metadata>
+	<Page imageFilename="00485203.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r11" type="credit">
+	<Coords>
+	<Point x="629" y="3027"/>
+	<Point x="1393" y="3027"/>
+	<Point x="1393" y="3092"/>
+	<Point x="629" y="3092"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="413" y="171"/>
+	<Point x="1619" y="179"/>
+	<Point x="1637" y="2885"/>
+	<Point x="422" y="2875"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Enuiieron los vientos con ſus fuerças,
+El Aquilon, el Africo, y el Euro,
+Haziendo erras eſpantoſas d'agua:
+Los truenos, y los rayos, s'alcançauan;
+El cielo ſe rompia en torbeinos.
+Y la mar del furor que padecia,
+Haa'l hondon s'abria eſpeas vezes.
+Peleaua en mitad deas fortunas,
+Sin deſmayar vn punto el trie moço,
+Luchando con ſus pies, y con ſus manos,
+Rompiendo por la muerte, y por las ondas
+Teniendoe entre tantos enemigos.
+Pero la tempead, creciendo andaua
+Y aunque la noche ala mañana s'iua,
+No hauia'ſperança ai de ningun dia.
+Ee andar peleando duro tanto,
+Que Leandro, que'nﬁn era de carne,
+Començo el trie de perder ſus fuerças.
+Empeçaron ſus braços a vencerſe,
+Sus piernas anduuieron deſmayando.
+Entrauale la muerte con el agua,
+Y del a ſu plazer tomaua el tiempo.
+El viendoſe morir entre'os males,
+La porer coſa que hizo el deſdichado,
+Fue alçar los ojos, a mirar ſu lumbre.
+Y aquel poco d'aliento que tenia,
+Echole todo en vn gemido baxo,
+Embuelto en la mitad del nombre d'Hero.
+Y ai vn golpe le dio del mar tan brauo,
+Oue le ſorbio del todo en vn inante.
+Y en ee miſmo punto, vn torbeino
+Acabode matar la lumbrezia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1192" y="75"/>
+	<Point x="1640" y="75"/>
+	<Point x="1640" y="165"/>
+	<Point x="1192" y="165"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. CXVIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="header">
+	<Coords>
+	<Point x="601" y="72"/>
+	<Point x="1145" y="72"/>
+	<Point x="1145" y="155"/>
+	<Point x="601" y="155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439170">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T21:38:58</Created>
+	<LastChange>2011-05-12T13:39:49</LastChange></Metadata>
+	<Page imageFilename="00439170.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r12" index="2"/>
+	<RegionRefIndexed regionRef="r10" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="542" y="95"/>
+	<Point x="1464" y="92"/>
+	<Point x="1478" y="183"/>
+	<Point x="545" y="195"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="485" y="250"/>
+	<Point x="1483" y="250"/>
+	<Point x="1485" y="352"/>
+	<Point x="492" y="345"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITULO IV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="259" y="400"/>
+	<Point x="1700" y="400"/>
+	<Point x="1702" y="702"/>
+	<Point x="271" y="692"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En que Guzman de Alfarache reﬁere un ſoliloquio
+que hizo. Y progue contra las vanidades
+de la honra.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="265" y="2411"/>
+	<Point x="1710" y="2413"/>
+	<Point x="1713" y="2619"/>
+	<Point x="1619" y="2616"/>
+	<Point x="1313" y="2643"/>
+	<Point x="272" y="2613"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aqui veràs Guzman lo que es la honra, pues à eos
+la dan. El hĳo de nadie, que ſe levantò del polvo de la
+tierra, endo vaja quebradiza, ena de agujeros, ro-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="529" y="2862"/>
+	<Point x="1314" y="2864"/>
+	<Point x="1318" y="2937"/>
+	<Point x="538" y="2933"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="276" y="85"/>
+	<Point x="276" y="185"/>
+	<Point x="406" y="187"/>
+	<Point x="408" y="110"/>
+	<Point x="402" y="85"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>136</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="1595" y="2631"/>
+	<Point x="1595" y="2686"/>
+	<Point x="1683" y="2686"/>
+	<Point x="1683" y="2631"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ta,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1707" y="763"/>
+	<Point x="1705" y="904"/>
+	<Point x="1720" y="1081"/>
+	<Point x="1719" y="1081"/>
+	<Point x="1719" y="1411"/>
+	<Point x="1718" y="1411"/>
+	<Point x="1718" y="1742"/>
+	<Point x="1717" y="1742"/>
+	<Point x="1717" y="2072"/>
+	<Point x="1716" y="2072"/>
+	<Point x="1716" y="2402"/>
+	<Point x="1509" y="2402"/>
+	<Point x="1509" y="2403"/>
+	<Point x="1302" y="2403"/>
+	<Point x="1302" y="2404"/>
+	<Point x="1095" y="2404"/>
+	<Point x="1095" y="2405"/>
+	<Point x="889" y="2405"/>
+	<Point x="889" y="2406"/>
+	<Point x="682" y="2406"/>
+	<Point x="682" y="2407"/>
+	<Point x="502" y="2399"/>
+	<Point x="484" y="2398"/>
+	<Point x="475" y="2397"/>
+	<Point x="467" y="2404"/>
+	<Point x="366" y="2403"/>
+	<Point x="284" y="2403"/>
+	<Point x="273" y="2400"/>
+	<Point x="269" y="2352"/>
+	<Point x="268" y="2352"/>
+	<Point x="268" y="2295"/>
+	<Point x="267" y="2295"/>
+	<Point x="267" y="2239"/>
+	<Point x="266" y="2239"/>
+	<Point x="266" y="2182"/>
+	<Point x="265" y="2182"/>
+	<Point x="265" y="2126"/>
+	<Point x="264" y="2126"/>
+	<Point x="264" y="2069"/>
+	<Point x="263" y="2069"/>
+	<Point x="263" y="2013"/>
+	<Point x="262" y="2013"/>
+	<Point x="262" y="1956"/>
+	<Point x="261" y="1956"/>
+	<Point x="261" y="1900"/>
+	<Point x="260" y="1900"/>
+	<Point x="260" y="1843"/>
+	<Point x="259" y="1843"/>
+	<Point x="259" y="1786"/>
+	<Point x="258" y="1786"/>
+	<Point x="258" y="1730"/>
+	<Point x="257" y="1730"/>
+	<Point x="257" y="1673"/>
+	<Point x="256" y="1673"/>
+	<Point x="256" y="1617"/>
+	<Point x="255" y="1617"/>
+	<Point x="255" y="1560"/>
+	<Point x="254" y="1560"/>
+	<Point x="254" y="1504"/>
+	<Point x="253" y="1504"/>
+	<Point x="253" y="1447"/>
+	<Point x="252" y="1447"/>
+	<Point x="252" y="1391"/>
+	<Point x="251" y="1391"/>
+	<Point x="251" y="1334"/>
+	<Point x="250" y="1334"/>
+	<Point x="250" y="1277"/>
+	<Point x="249" y="1277"/>
+	<Point x="249" y="1221"/>
+	<Point x="248" y="1221"/>
+	<Point x="248" y="1164"/>
+	<Point x="247" y="1164"/>
+	<Point x="247" y="1108"/>
+	<Point x="246" y="1108"/>
+	<Point x="246" y="1051"/>
+	<Point x="245" y="1051"/>
+	<Point x="245" y="995"/>
+	<Point x="244" y="995"/>
+	<Point x="244" y="938"/>
+	<Point x="243" y="938"/>
+	<Point x="243" y="922"/>
+	<Point x="262" y="922"/>
+	<Point x="262" y="921"/>
+	<Point x="287" y="921"/>
+	<Point x="287" y="920"/>
+	<Point x="313" y="920"/>
+	<Point x="313" y="919"/>
+	<Point x="338" y="919"/>
+	<Point x="338" y="918"/>
+	<Point x="364" y="918"/>
+	<Point x="364" y="917"/>
+	<Point x="389" y="917"/>
+	<Point x="389" y="916"/>
+	<Point x="414" y="916"/>
+	<Point x="414" y="915"/>
+	<Point x="415" y="915"/>
+	<Point x="415" y="912"/>
+	<Point x="414" y="912"/>
+	<Point x="414" y="896"/>
+	<Point x="413" y="896"/>
+	<Point x="413" y="880"/>
+	<Point x="412" y="880"/>
+	<Point x="412" y="863"/>
+	<Point x="411" y="863"/>
+	<Point x="411" y="847"/>
+	<Point x="410" y="847"/>
+	<Point x="410" y="830"/>
+	<Point x="409" y="830"/>
+	<Point x="409" y="814"/>
+	<Point x="408" y="814"/>
+	<Point x="408" y="798"/>
+	<Point x="407" y="798"/>
+	<Point x="407" y="781"/>
+	<Point x="406" y="781"/>
+	<Point x="406" y="767"/>
+	<Point x="474" y="767"/>
+	<Point x="474" y="766"/>
+	<Point x="552" y="766"/>
+	<Point x="552" y="765"/>
+	<Point x="630" y="765"/>
+	<Point x="630" y="764"/>
+	<Point x="708" y="764"/>
+	<Point x="708" y="763"/>
+	<Point x="786" y="763"/>
+	<Point x="786" y="762"/>
+	<Point x="864" y="762"/>
+	<Point x="864" y="761"/>
+	<Point x="942" y="761"/>
+	<Point x="942" y="760"/>
+	<Point x="1020" y="760"/>
+	<Point x="1020" y="759"/>
+	<Point x="1098" y="759"/>
+	<Point x="1098" y="758"/>
+	<Point x="1176" y="758"/>
+	<Point x="1176" y="757"/>
+	<Point x="1254" y="757"/>
+	<Point x="1254" y="756"/>
+	<Point x="1332" y="756"/>
+	<Point x="1332" y="755"/>
+	<Point x="1410" y="755"/>
+	<Point x="1410" y="754"/>
+	<Point x="1488" y="754"/>
+	<Point x="1488" y="753"/>
+	<Point x="1566" y="753"/>
+	<Point x="1566" y="752"/>
+	<Point x="1644" y="752"/>
+	<Point x="1644" y="751"/>
+	<Point x="1701" y="755"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Arga digreſon he hecho, y enojoſa: ya lo veo, mas
+no te maravies, que la neceſdad à donde acudi-
+mos era grande, y  concurren dos ò mas leſones jun-
+tas en un cuerpo, es precepto acudir à lo mas princi-
+pal, no poniendo en olvido lo menos. Aſ corre en la
+guerra, y todas las mas coſas: yo te prometo que no
+ſabrè dezir qual de las dos fuee mayor, la que dixe, ò
+la que tomè, por lo que importan ambas. Mas bolva-
+mos à donde nos queda empeñada la prenda, guiendo
+aquel diſcurſo. Llevava yo un dia en mi capacha, ò
+eſporton, del raro un quarto de carnero, à un oﬁcial
+calcetero: haème à caſo unas coplas viejas, que à me-
+dio tono, como las yva leyendo, las yva cantando. Bol-
+viò mi dueño la cabeça, y ſonriendoſe, dixo: Valgate
+la maldicion, maltrapio, y leer ſabes? Reſpondile, y
+muy mejor eſcrivir. Luego me rogò, que le enſeñaſ-
+ſe à hazer una ﬁrma, y que me lo pagaria. Preguntè-
+le: Diga ſeñor, ﬁrma ſola para que la quiere, ò de que
+le puede aprovechar? El rae reſpondio: Para que ſalgo
+à negocios, que me dà fulano mi ſeñor, porque yo
+calço à ſus niños (y nombrò el perſonage.) Querria 
+quiera ſaber ﬁrmar, per no dezir que no ſè quando ſe
+ofrezca. Qudòſe aſ ee negocio, y yo haziendo un
+largo ſoliloquio, que fuy guiendo buen rato en ea ma-
+nera.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="drop-capital">
+	<Coords>
+	<Point x="404" y="767"/>
+	<Point x="404" y="783"/>
+	<Point x="405" y="783"/>
+	<Point x="405" y="800"/>
+	<Point x="406" y="800"/>
+	<Point x="406" y="816"/>
+	<Point x="407" y="816"/>
+	<Point x="407" y="832"/>
+	<Point x="408" y="832"/>
+	<Point x="408" y="849"/>
+	<Point x="409" y="849"/>
+	<Point x="409" y="865"/>
+	<Point x="410" y="865"/>
+	<Point x="410" y="882"/>
+	<Point x="411" y="882"/>
+	<Point x="411" y="898"/>
+	<Point x="412" y="898"/>
+	<Point x="412" y="914"/>
+	<Point x="387" y="914"/>
+	<Point x="387" y="915"/>
+	<Point x="362" y="915"/>
+	<Point x="362" y="916"/>
+	<Point x="336" y="916"/>
+	<Point x="336" y="917"/>
+	<Point x="311" y="917"/>
+	<Point x="311" y="918"/>
+	<Point x="285" y="918"/>
+	<Point x="285" y="919"/>
+	<Point x="260" y="919"/>
+	<Point x="260" y="920"/>
+	<Point x="243" y="920"/>
+	<Point x="243" y="882"/>
+	<Point x="242" y="882"/>
+	<Point x="242" y="825"/>
+	<Point x="241" y="825"/>
+	<Point x="241" y="769"/>
+	<Point x="240" y="769"/>
+	<Point x="318" y="769"/>
+	<Point x="318" y="768"/>
+	<Point x="396" y="768"/>
+	<Point x="396" y="767"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L</Unicode></TextEquiv></TextRegion></Page></PcGts>

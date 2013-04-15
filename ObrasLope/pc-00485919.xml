@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485919">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T04:33:45</Created>
+	<LastChange>2011-07-28T11:29:12</LastChange></Metadata>
+	<Page imageFilename="00485919.tif" imageWidth="2176" imageHeight="3061">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="182" y="154"/>
+	<Point x="867" y="161"/>
+	<Point x="1014" y="173"/>
+	<Point x="1068" y="169"/>
+	<Point x="1123" y="168"/>
+	<Point x="1349" y="198"/>
+	<Point x="1430" y="194"/>
+	<Point x="1438" y="2160"/>
+	<Point x="858" y="2164"/>
+	<Point x="738" y="2186"/>
+	<Point x="679" y="2163"/>
+	<Point x="607" y="2163"/>
+	<Point x="433" y="2177"/>
+	<Point x="279" y="2173"/>
+	<Point x="146" y="2154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>andando en ﬁera bataa
+con Alfonſo y ſu quadria,
+vi vna eraña marauia
+que me eſpanto de contaa:
+y es que vn açor muy ayrado
+baxaua en ﬁero ſemblante,
+y con vñas de diamante
+el coraçon te ha ſacado
+y preſentado ante mi,
+fue aquee coraçon trie
+pues mira no partie
+ni eas auſente de mi,
+y ento tu muerte ya
+ﬁgurada aqui delante.
+Que coraçon de diamante
+ee dolor ſuﬀrira,
+cauſame tal agonia
+aquee ſueño cruel,
+que aquee coraçon ﬁel
+ea de noche y de dia
+ymaginando perderſe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="signature-mark">
+	<Coords>
+	<Point x="1044" y="2742"/>
+	<Point x="1194" y="2742"/>
+	<Point x="1194" y="2826"/>
+	<Point x="1044" y="2826"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>G 2</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r3" type="handwritten-annotation">
+	<Coords>
+	<Point x="766" y="2829"/>
+	<Point x="919" y="2829"/>
+	<Point x="919" y="2930"/>
+	<Point x="766" y="2930"/></Coords></GraphicRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="707" y="2958"/>
+	<Point x="1422" y="2958"/>
+	<Point x="1422" y="3030"/>
+	<Point x="707" y="3030"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="172" y="2167"/>
+	<Point x="179" y="2728"/>
+	<Point x="244" y="2726"/>
+	<Point x="856" y="2737"/>
+	<Point x="1000" y="2733"/>
+	<Point x="1502" y="2710"/>
+	<Point x="1502" y="2184"/>
+	<Point x="1265" y="2166"/>
+	<Point x="1223" y="2169"/>
+	<Point x="863" y="2168"/>
+	<Point x="740" y="2192"/>
+	<Point x="727" y="2189"/>
+	<Point x="683" y="2171"/>
+	<Point x="604" y="2167"/>
+	<Point x="443" y="2178"/>
+	<Point x="416" y="2178"/>
+	<Point x="286" y="2185"/>
+	<Point x="224" y="2171"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Durandarte. No os de pena mi ſeñora
+el ſueño, pues haa agora
+gozo de veros preſente,
+que aunque ee açor que apuntays
+venga con tanta braueza,
+euando vuera beeza</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="464" y="54"/>
+	<Point x="482" y="147"/>
+	<Point x="912" y="150"/>
+	<Point x="1003" y="169"/>
+	<Point x="1026" y="171"/>
+	<Point x="1042" y="170"/>
+	<Point x="1060" y="168"/>
+	<Point x="1067" y="167"/>
+	<Point x="1156" y="161"/>
+	<Point x="1348" y="192"/>
+	<Point x="1374" y="191"/>
+	<Point x="1452" y="156"/>
+	<Point x="1452" y="54"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comedia de Lope de Vega.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1333" y="2754"/>
+	<Point x="1333" y="2849"/>
+	<Point x="1557" y="2849"/>
+	<Point x="1557" y="2754"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no ay</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1615" y="76"/>
+	<Point x="1615" y="246"/>
+	<Point x="1961" y="246"/>
+	<Point x="1961" y="76"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>50</Unicode></TextEquiv></TextRegion></Page></PcGts>

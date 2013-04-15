@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442618">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T17:59:51</Created>
+	<LastChange>2012-03-12T14:12:11</LastChange></Metadata>
+	<Page imageFilename="00442618.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="479" y="123"/>
+	<Point x="961" y="121"/>
+	<Point x="985" y="121"/>
+	<Point x="1127" y="122"/>
+	<Point x="1123" y="218"/>
+	<Point x="947" y="210"/>
+	<Point x="747" y="235"/>
+	<Point x="595" y="227"/>
+	<Point x="480" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quarta parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="135" y="211"/>
+	<Point x="516" y="229"/>
+	<Point x="626" y="232"/>
+	<Point x="750" y="240"/>
+	<Point x="943" y="215"/>
+	<Point x="1140" y="226"/>
+	<Point x="1417" y="225"/>
+	<Point x="1472" y="222"/>
+	<Point x="1490" y="2200"/>
+	<Point x="120" y="2224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>to claro, y apazible en todo. Demanera, que como
+no le toquen en ſus cauaerias, no aura nadie que le
+juzgue, no por de muy buen entendimiento. En tã-
+to que eos yuan en ea conuerſacion, proguio
+don Quixote con la ſuya, y dixo a Sancho: Eche-
+mos, Pança amigo, pelios a la mar, en eo de nueſ-
+tras pendencias, y dime aora, n tener cuenta con
+enojo, ni rencor alguno. Donde, como, y quando, ha
+ae a Dulzinea? Que hazia? Que le dixie? Que te
+reſpondio? Que roro hizo, quando leya mi carta?
+Quiẽ te la traslado? Y todo aqueo que vieres, que
+en ee caſo es digno de ſaberſe, de preguntarſe, y ſa-
+tisfazerſe, n que añadas o mientas por darme guſ-
+to: ni menos te acortes, por no quitarmele. Señor,
+reſpondio Sancho,  va a dezir la verdad, la carta no
+me la trasladò nadie, porque yo no euè carta algu-
+na. Aſsi es como tu dizes, dixo don Quixote, por
+el librio de memoria donde yo la eſcriui, le haè
+en mi poder, acabo de dos dias de tu partida, lo qual
+me cauſò grãdiſsima pena, por no ſaber lo que auias
+tu de hazer, quando te viees n carta, y crey em-
+pre que te boluieras, deſde el lugar dondo la echa-
+ras menos. Aſsi fuera, reſpondio Sancho, no la vuie
+ra yo tomado en la memoria, quando vuera mer-
+ced me la leyo, demanera que ſe la dixe a vn ſacriſ-
+tan, que me la traslado del entendimiento, tan pun-
+to por punto, que dixo que en todos los dias de ſu vi
+da, aunque auia leydo muchas cartas de deſcomu-
+niõ, no auia vio ni leydo tã linda carta como aque-
+a. Y tienesla toda via en la memoria Sancho, dixo
+don Quixote? No ſeñor, reſpondio Sancho, porque
+deſpues que la di, como vi que no auia de ſer de mas</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="448" y="2303"/>
+	<Point x="1135" y="2312"/>
+	<Point x="1131" y="2372"/>
+	<Point x="439" y="2366"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1225" y="2208"/>
+	<Point x="1225" y="2271"/>
+	<Point x="1430" y="2271"/>
+	<Point x="1432" y="2205"/>
+	<Point x="1378" y="2205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>proue-</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444307">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T13:23:24</Created>
+	<LastChange>2011-12-19T11:39:37</LastChange></Metadata>
+	<Page imageFilename="00444307.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="157" y="238"/>
+	<Point x="659" y="228"/>
+	<Point x="1773" y="240"/>
+	<Point x="1698" y="2641"/>
+	<Point x="1661" y="2643"/>
+	<Point x="1638" y="2640"/>
+	<Point x="1636" y="2650"/>
+	<Point x="1613" y="2656"/>
+	<Point x="1569" y="2659"/>
+	<Point x="1145" y="2668"/>
+	<Point x="173" y="2659"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>eo ay muchos teigos, en eſpecial quien
+agora me conﬁea que lo vio por eſcri-
+to en vna carta, n dezirle yo quien era
+la perſona cuya era la carta, bien ſabia
+el quien era. Vino vna perſona a mi que
+auia dos años y medio que eaua en vn
+peccado mortal de los mas abominables
+que yo he oydo, y en todo ee tiempo
+ni le confeaua, ni ſe enmendaua, y de-
+zia Mia. Y aunque confeaua otros, ee
+dezia que como Ie auia de confear co-
+ſa tan fea, y tenia gran deeo de ſalir del,
+y no ſe podia valer a . A mi hizome
+gran laima, y ver que ſe oﬀendia Dios
+de tal manera me dio mucha pena, pro-
+metile de ſuplicar a Dios le remediae,
+y hazer que otras perſonas lo hizieen que
+eran mejores que yo, y eſcriui a cierta
+perſona que el me dixo podia dar las car-
+tas, y es an que a la primera ſe con-
+feo, que quiſo Dios por las muchas per-
+ſonas muy ſantas que lo auian ſuplica-
+do a ſu magead que ſe lo auia yo en-
+comendado hazer con ea alma ea miſe-
+ricordia, y yo aunque miſerable hazia lo que
+podia con harto cuydado, eſcriuiome que
+eaua ya con tãta mejoria que auia dias que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1582" y="2665"/>
+	<Point x="1593" y="2663"/>
+	<Point x="1679" y="2657"/>
+	<Point x="1688" y="2691"/>
+	<Point x="1679" y="2726"/>
+	<Point x="1655" y="2731"/>
+	<Point x="1577" y="2731"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="615" y="3075"/>
+	<Point x="1582" y="3075"/>
+	<Point x="1582" y="3150"/>
+	<Point x="615" y="3150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1519" y="119"/>
+	<Point x="1681" y="119"/>
+	<Point x="1681" y="228"/>
+	<Point x="1519" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>379</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="322" y="104"/>
+	<Point x="1485" y="104"/>
+	<Point x="1485" y="212"/>
+	<Point x="322" y="212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion></Page></PcGts>

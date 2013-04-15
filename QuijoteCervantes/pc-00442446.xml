@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442446">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T14:59:27</Created>
+	<LastChange>2012-03-12T14:12:02</LastChange></Metadata>
+	<Page imageFilename="00442446.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="462" y="67"/>
+	<Point x="1117" y="67"/>
+	<Point x="1118" y="167"/>
+	<Point x="727" y="170"/>
+	<Point x="699" y="164"/>
+	<Point x="462" y="162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tercera parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="108" y="167"/>
+	<Point x="688" y="166"/>
+	<Point x="722" y="174"/>
+	<Point x="1442" y="167"/>
+	<Point x="1439" y="2148"/>
+	<Point x="108" y="2151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dicho, eſcura, y eos acertaron a entrar entre vnos
+arboles altos, cuyas hojas mouidas del blando vien
+to, haziã vn temeroſo y manſo ruydo: de manera,
+que la ſoledad, el tio, la eſcuridad, el ruydo del
+agua, con el ſuſurro de las hojas, todo cauſaua ho-
+rror, y eſpanto: y mas quando vierõ, que ni los gol‐
+pes ceauan, ni el viento dormia, ni la mañana e-
+gaua: añadiendoſe a todo eo, el ignorar el lugar
+donde ſe haauã. Pero don Quixote, acompañado
+de ſu intrepido coraçon, ſaltò fobre Rozinante, y
+embraçando ſu rodela, terciò ſu lançõ, y dixo: San‐
+cho amigo, has de ſaber,  yo naci por querer del
+cielo en ea nuera edad, de hierro, para reſucitar
+en ea la de oro, o la dorada, como ſuele amarſe.
+Yo ſoy aquel para quien ean guardados los peli‐
+gros, las grandes hazañas, los valeroſos hechos. Yo
+ſoy, digo otra vez, quien ha de reſucitar los de la
+tabla redonda, los doze de Francia, y los nueue de
+la fama, y el que ha de poner en oluido los Plati-
+res, los Tablantes, Oliuantes, y Tirantes: los Febos,
+y Belianiſes, con toda la caterua de los famoſos ca‐
+uaeros andantes del paado tiempo, haziendo en
+ee en que me hao tales grandezas, erañezas, y
+fechos de armas, que eſcurezcan las mas claras que
+eos ﬁzieron. Bien notas eſcudero ﬁel, y legal, las
+tinieblas dea noche, ſu eraño lẽcio, el ſordo y
+cõfuſo eruẽdo deos arboles, el temeroſo ruydo
+de aquea agua en cuya buſca venimos, que parece
+ ſe deſpeña y derumba deſde los altos montes de
+la luna, y aquel inceable golpear que nos hiere y
+laima los oydos, las quales coſas todas juntas, y
+cada vna por , ſon baantes a infundir miedo, te‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="453" y="2308"/>
+	<Point x="1125" y="2308"/>
+	<Point x="1125" y="2373"/>
+	<Point x="453" y="2373"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1264" y="2151"/>
+	<Point x="1264" y="2212"/>
+	<Point x="1416" y="2212"/>
+	<Point x="1416" y="2151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mor,</Unicode></TextEquiv></TextRegion></Page></PcGts>

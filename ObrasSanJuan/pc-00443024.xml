@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443024">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T03:00:35</Created>
+	<LastChange>2011-03-15T16:51:33</LastChange></Metadata>
+	<Page imageFilename="00443024.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/>
+	<RegionRefIndexed regionRef="r15" index="2"/>
+	<RegionRefIndexed regionRef="r17" index="3"/>
+	<RegionRefIndexed regionRef="r12" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="660" y="84"/>
+	<Point x="660" y="202"/>
+	<Point x="1128" y="202"/>
+	<Point x="1128" y="84"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro primero.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1589" y="105"/>
+	<Point x="1589" y="205"/>
+	<Point x="1694" y="205"/>
+	<Point x="1694" y="105"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>13</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="534" y="223"/>
+	<Point x="544" y="292"/>
+	<Point x="580" y="308"/>
+	<Point x="704" y="314"/>
+	<Point x="754" y="308"/>
+	<Point x="772" y="310"/>
+	<Point x="964" y="314"/>
+	<Point x="1234" y="312"/>
+	<Point x="1274" y="304"/>
+	<Point x="1276" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITVLO III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords>
+	<Point x="150" y="289"/>
+	<Point x="150" y="618"/>
+	<Point x="1684" y="618"/>
+	<Point x="1684" y="289"/>
+	<Point x="1232" y="320"/>
+	<Point x="1184" y="338"/>
+	<Point x="957" y="326"/>
+	<Point x="788" y="324"/>
+	<Point x="744" y="328"/>
+	<Point x="736" y="338"/>
+	<Point x="698" y="324"/>
+	<Point x="580" y="332"/>
+	<Point x="550" y="312"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comiença a tratar de Ia primera cauſa dea Noche,
+que es la privacion del apetito en todas
+las coſas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="catch-word">
+	<Coords>
+	<Point x="1560" y="2781"/>
+	<Point x="1560" y="2842"/>
+	<Point x="1692" y="2842"/>
+	<Point x="1692" y="2781"/>
+	<Point x="1630" y="2770"/>
+	<Point x="1602" y="2768"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>el</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="credit">
+	<Coords>
+	<Point x="784" y="2913"/>
+	<Point x="784" y="2997"/>
+	<Point x="1426" y="2997"/>
+	<Point x="1426" y="2913"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="drop-capital">
+	<Coords>
+	<Point x="267" y="626"/>
+	<Point x="267" y="652"/>
+	<Point x="266" y="652"/>
+	<Point x="266" y="686"/>
+	<Point x="265" y="686"/>
+	<Point x="268" y="717"/>
+	<Point x="269" y="722"/>
+	<Point x="264" y="754"/>
+	<Point x="263" y="754"/>
+	<Point x="263" y="755"/>
+	<Point x="262" y="755"/>
+	<Point x="262" y="756"/>
+	<Point x="247" y="756"/>
+	<Point x="247" y="757"/>
+	<Point x="232" y="757"/>
+	<Point x="232" y="758"/>
+	<Point x="217" y="758"/>
+	<Point x="217" y="759"/>
+	<Point x="202" y="759"/>
+	<Point x="202" y="760"/>
+	<Point x="186" y="760"/>
+	<Point x="186" y="761"/>
+	<Point x="171" y="761"/>
+	<Point x="171" y="762"/>
+	<Point x="156" y="762"/>
+	<Point x="156" y="763"/>
+	<Point x="141" y="763"/>
+	<Point x="141" y="764"/>
+	<Point x="128" y="764"/>
+	<Point x="128" y="626"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1702" y="626"/>
+	<Point x="1702" y="2763"/>
+	<Point x="1624" y="2763"/>
+	<Point x="1624" y="2762"/>
+	<Point x="1614" y="2762"/>
+	<Point x="1614" y="2763"/>
+	<Point x="1589" y="2763"/>
+	<Point x="1589" y="2764"/>
+	<Point x="1563" y="2764"/>
+	<Point x="1563" y="2765"/>
+	<Point x="1537" y="2765"/>
+	<Point x="1537" y="2766"/>
+	<Point x="1511" y="2766"/>
+	<Point x="1511" y="2767"/>
+	<Point x="1485" y="2767"/>
+	<Point x="1485" y="2768"/>
+	<Point x="1459" y="2768"/>
+	<Point x="1459" y="2769"/>
+	<Point x="1434" y="2769"/>
+	<Point x="1434" y="2770"/>
+	<Point x="1408" y="2770"/>
+	<Point x="1408" y="2771"/>
+	<Point x="1382" y="2771"/>
+	<Point x="1382" y="2772"/>
+	<Point x="1356" y="2772"/>
+	<Point x="1356" y="2773"/>
+	<Point x="1330" y="2773"/>
+	<Point x="1330" y="2774"/>
+	<Point x="1304" y="2774"/>
+	<Point x="1304" y="2775"/>
+	<Point x="1278" y="2775"/>
+	<Point x="1278" y="2776"/>
+	<Point x="1253" y="2776"/>
+	<Point x="1253" y="2777"/>
+	<Point x="1227" y="2777"/>
+	<Point x="1227" y="2778"/>
+	<Point x="1201" y="2778"/>
+	<Point x="1201" y="2779"/>
+	<Point x="1175" y="2779"/>
+	<Point x="1175" y="2780"/>
+	<Point x="1149" y="2780"/>
+	<Point x="1149" y="2781"/>
+	<Point x="1123" y="2781"/>
+	<Point x="1123" y="2782"/>
+	<Point x="1098" y="2782"/>
+	<Point x="1098" y="2783"/>
+	<Point x="1072" y="2783"/>
+	<Point x="1072" y="2784"/>
+	<Point x="1046" y="2784"/>
+	<Point x="1046" y="2785"/>
+	<Point x="1020" y="2785"/>
+	<Point x="1020" y="2786"/>
+	<Point x="994" y="2786"/>
+	<Point x="994" y="2787"/>
+	<Point x="968" y="2787"/>
+	<Point x="968" y="2788"/>
+	<Point x="910" y="2788"/>
+	<Point x="910" y="2787"/>
+	<Point x="877" y="2787"/>
+	<Point x="877" y="2786"/>
+	<Point x="845" y="2786"/>
+	<Point x="845" y="2785"/>
+	<Point x="812" y="2785"/>
+	<Point x="812" y="2784"/>
+	<Point x="780" y="2784"/>
+	<Point x="780" y="2783"/>
+	<Point x="747" y="2783"/>
+	<Point x="747" y="2782"/>
+	<Point x="715" y="2782"/>
+	<Point x="715" y="2781"/>
+	<Point x="682" y="2781"/>
+	<Point x="682" y="2780"/>
+	<Point x="649" y="2780"/>
+	<Point x="649" y="2779"/>
+	<Point x="617" y="2779"/>
+	<Point x="617" y="2778"/>
+	<Point x="584" y="2778"/>
+	<Point x="584" y="2777"/>
+	<Point x="552" y="2777"/>
+	<Point x="552" y="2776"/>
+	<Point x="519" y="2776"/>
+	<Point x="519" y="2775"/>
+	<Point x="487" y="2775"/>
+	<Point x="487" y="2774"/>
+	<Point x="454" y="2774"/>
+	<Point x="454" y="2773"/>
+	<Point x="422" y="2773"/>
+	<Point x="422" y="2772"/>
+	<Point x="389" y="2772"/>
+	<Point x="389" y="2771"/>
+	<Point x="356" y="2771"/>
+	<Point x="356" y="2770"/>
+	<Point x="324" y="2770"/>
+	<Point x="324" y="2769"/>
+	<Point x="291" y="2769"/>
+	<Point x="291" y="2768"/>
+	<Point x="259" y="2768"/>
+	<Point x="259" y="2767"/>
+	<Point x="226" y="2767"/>
+	<Point x="226" y="2766"/>
+	<Point x="194" y="2766"/>
+	<Point x="194" y="2765"/>
+	<Point x="161" y="2765"/>
+	<Point x="161" y="2764"/>
+	<Point x="128" y="2764"/>
+	<Point x="128" y="766"/>
+	<Point x="143" y="766"/>
+	<Point x="143" y="765"/>
+	<Point x="158" y="765"/>
+	<Point x="158" y="764"/>
+	<Point x="173" y="764"/>
+	<Point x="173" y="763"/>
+	<Point x="188" y="763"/>
+	<Point x="188" y="762"/>
+	<Point x="204" y="762"/>
+	<Point x="204" y="761"/>
+	<Point x="219" y="761"/>
+	<Point x="219" y="760"/>
+	<Point x="234" y="760"/>
+	<Point x="234" y="759"/>
+	<Point x="249" y="759"/>
+	<Point x="249" y="758"/>
+	<Point x="264" y="758"/>
+	<Point x="264" y="757"/>
+	<Point x="265" y="757"/>
+	<Point x="265" y="756"/>
+	<Point x="266" y="756"/>
+	<Point x="270" y="732"/>
+	<Point x="272" y="724"/>
+	<Point x="267" y="688"/>
+	<Point x="268" y="688"/>
+	<Point x="268" y="654"/>
+	<Point x="269" y="654"/>
+	<Point x="269" y="626"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lamamos aqui Noche a la privacion del guo en el
+apetito de todas las coſas. Porque a como la No-
+che no es otra coſa no privacion de la luz, i por el cõ-
+guiente de todos los objetos que ſe pueden ver median-
+te ella, por lo cual ſe queda la potencia viva a eſcuras,
+i n nada: a tambien ſe puede dezir la mortificaciõ
+del apetito Noche para el alma. Porque privandoſe
+ella del guo del apetito en todas las coſas, es quedar-
+ſe como a eſcuras, i n nada. Porque a  como la poten-
+cia viva ſe ceva mediante la luz, i apacienta en los ob
+jetos que ſe pueden ver, i apagada la luz ceſſa eo; a
+el alma mediante el apetito, ſe apacienta i ceva de to
+das las coſas,  ſegun ſus potencias ſe pueden guar; el
+cual mortificado, dexa el alma de apacẽtarſe en el guo
+de todas las coſas; i a ſe queda ſegun el apetito a eſcu-
+ras, i n nada. Põgamos exenplo en todas las potencias.
+Privãdo el alma ſu apetito en el guo de todo lo que al
+ſentido del oido puede deleitar, ſegũ ea potẽcia ſe que
+da el alma a eſcuras, i n nada. I privandoſe del guo
+de todo lo que al ſentido de la via puede agradar, tan-
+bien ſegun ea potencia ſe queda el alma a eſcuras , i
+ſin nada. I lo miſmo ſe puede dezir de los demas ſenti-
+dos. Demanera, que el alma que uviere negado, i deſ-
+pedido de  el guo de todas las coſas, mortificando ſu
+apetito en ellas, podremos dezir, que eà como de No
+che a eſcuras; lo qual no es otra coſa no un vazio en
+ella de todas las coſas. La cauſa deo es, porque como
+dizen los F¡loſofos, luego que Dios infunde el alma en</Unicode></TextEquiv></TextRegion></Page></PcGts>

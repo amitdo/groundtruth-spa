@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440522">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T13:18:54</Created>
+	<LastChange>2011-07-05T14:26:04</LastChange></Metadata>
+	<Page imageFilename="00440522.tif" imageWidth="837" imageHeight="1640">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="351" y="54"/>
+	<Point x="597" y="54"/>
+	<Point x="614" y="104"/>
+	<Point x="349" y="100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="114" y="110"/>
+	<Point x="198" y="110"/>
+	<Point x="247" y="102"/>
+	<Point x="292" y="110"/>
+	<Point x="833" y="116"/>
+	<Point x="804" y="1532"/>
+	<Point x="582" y="1540"/>
+	<Point x="69" y="1520"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>penſarà que aquel gentil hombre
+pao ayer todo el dia con vn men-
+drugo de pan, que ſu criado Laza-
+ro truxo vn dia, y vna noche enel
+arca deſu ſeno, donde no ſe le po-
+dia pegar coſa limpia. Y que oy
+lauandoſe las manos, y cara, por
+ſalta de toalla ſeenjugo con la hal-
+da de la camiſa, nadie por cierto
+lo ſoſpechara. O Señor, y quan-
+tos de eos deueys vos tener por
+el mundo derramados, que pade-
+cen por la negra que llaman honr-
+ra loque por vos no ſuﬀririan. Ha-
+ziendo ee diſcurſo eaua yo a la
+puerta, mirando, y conderando al
+ſenor mi amo haa que traſpuſo.
+Torne me a entrar en caſa y en vn
+Credo la anduue toda de alto ba-
+xo, n veer ni allar en ella coſa
+mas de las referidas. Hize la negra,
+y dura cama, tome el jarro, y di
+com go enel rio, donde en vna
+huerta vi a mi amo requebrando</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="281" y="1583"/>
+	<Point x="569" y="1586"/>
+	<Point x="566" y="1611"/>
+	<Point x="280" y="1607"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="118" y="52"/>
+	<Point x="120" y="98"/>
+	<Point x="180" y="93"/>
+	<Point x="180" y="45"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>68</Unicode></TextEquiv></TextRegion></Page></PcGts>

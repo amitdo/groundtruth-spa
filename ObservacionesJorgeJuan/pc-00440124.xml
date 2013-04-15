@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440124">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T07:13:46</Created>
+	<LastChange>2011-12-19T11:38:43</LastChange></Metadata>
+	<Page imageFilename="00440124.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r12" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="714" y="401"/>
+	<Point x="2612" y="411"/>
+	<Point x="2610" y="1347"/>
+	<Point x="1652" y="1353"/>
+	<Point x="1612" y="1355"/>
+	<Point x="1428" y="1350"/>
+	<Point x="1422" y="1369"/>
+	<Point x="1386" y="1372"/>
+	<Point x="1375" y="1345"/>
+	<Point x="1290" y="1343"/>
+	<Point x="738" y="1341"/>
+	<Point x="713" y="1341"/>
+	<Point x="701" y="1339"/>
+	<Point x="635" y="1338"/>
+	<Point x="639" y="646"/>
+	<Point x="638" y="402"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Montes, y Boſques del Reyno de Quito es tal, que ſe nos
+hacìa muy diﬁcil, y cooſo el ligar los triangulos de la Me‐
+ridiana con el Mar, para por eo concluir las alturas de
+los Montes ſobre ſu ſuperﬁcie, y reducir la medida de la
+Meridiana à la altura, ò nivèl del Mar, como lo harémos
+en el Libro 7: y aſsì reſolvímos deducir dicha altura por el
+Barometro; pues aunque el methodo no ſea muy exao,
+como el yerro, que ſe puede cometer, es muy corto, fuè
+preciſo valernos de èl, no preſentando la incomodidad del
+terreno otro mas adequado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="684" y="1354"/>
+	<Point x="1315" y="1356"/>
+	<Point x="1353" y="1361"/>
+	<Point x="1376" y="1379"/>
+	<Point x="1425" y="1377"/>
+	<Point x="1462" y="1369"/>
+	<Point x="1500" y="1366"/>
+	<Point x="2598" y="1360"/>
+	<Point x="2577" y="1567"/>
+	<Point x="675" y="1580"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Algunas de las experiencias, que M.Godin me comuni‐
+cò, ſon las que ſe guen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="728" y="1626"/>
+	<Point x="2532" y="1639"/>
+	<Point x="2522" y="1858"/>
+	<Point x="732" y="1852"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Experiencias del Barometro mple hechas en San Luis,
+y en el Petit-Goave en la Isla de Santo Domingo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="catch-word">
+	<Coords>
+	<Point x="2471" y="3091"/>
+	<Point x="2591" y="3086"/>
+	<Point x="2592" y="3171"/>
+	<Point x="2478" y="3169"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="footnote">
+	<Coords>
+	<Point x="666" y="3156"/>
+	<Point x="2590" y="3186"/>
+	<Point x="2583" y="3359"/>
+	<Point x="666" y="3361"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a La primera coluna contiene las pulgadas, la ſegunda las lineas, y la tercera los
+dozavos de linea, ò puntos del piè de Rey de parìs, à que ſe mantuyo el Mercurio en
+el Barometro mple.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="credit">
+	<Coords>
+	<Point x="984" y="3997"/>
+	<Point x="1974" y="3997"/>
+	<Point x="1974" y="4104"/>
+	<Point x="984" y="4104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="748" y="320"/>
+	<Point x="748" y="390"/>
+	<Point x="896" y="390"/>
+	<Point x="900" y="323"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>106</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="header">
+	<Coords>
+	<Point x="1222" y="308"/>
+	<Point x="1225" y="391"/>
+	<Point x="2003" y="398"/>
+	<Point x="2003" y="308"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r4">
+	<Coords>
+	<Point x="689" y="1905"/>
+	<Point x="2617" y="1907"/>
+	<Point x="2617" y="3082"/>
+	<Point x="2407" y="3079"/>
+	<Point x="1907" y="3097"/>
+	<Point x="671" y="3092"/></Coords></TableRegion></Page></PcGts>

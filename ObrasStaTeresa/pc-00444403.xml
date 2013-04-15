@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444403">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T11:35:34</Created>
+	<LastChange>2011-12-19T11:39:43</LastChange></Metadata>
+	<Page imageFilename="00444403.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="275" y="90"/>
+	<Point x="1456" y="97"/>
+	<Point x="1470" y="221"/>
+	<Point x="268" y="219"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="82" y="236"/>
+	<Point x="1697" y="236"/>
+	<Point x="1671" y="2667"/>
+	<Point x="1453" y="2632"/>
+	<Point x="566" y="2691"/>
+	<Point x="85" y="2680"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>memoria a penſar en el, aunque no era con
+intencion de oﬀender a Dios, mas holgaua-
+me de verle, y penſar en el y en las coſas bue
+nas que le veya, era coſa tan dañoſa que me
+traya el alma harto perdida, deſpues que vi la
+grã hermoſura del Señor no via a nadie que
+en ſu comparacion me pareciera bien, ni me
+ocupae, que con poner los ojos de la con-
+deracion en la imagen que tengo en mi al-
+ma he quedado con tanta libertad en eo,
+que deſpues aca todo lo que veo me parece
+haze aſco en comparacion de las excelencias
+y gracias que en ee Señor via, ni ay ſaber ni
+manera de regalo que yo eime en nada en
+comparacion del, que es oyr ſola vna palabra
+dicha de aquea diuina boca, quantimas tã-
+tas. Y tẽgo yo por impoſsible,  el Señor por
+mis peccados no permite ſe me quite ea
+memoria, podermelas nadie ocupar de ſuer-
+te, que con vn poquito de tornarme a acor-
+dar dee Señor no quede libre. Acaeciome
+con algun confeor que empre quiero mu-
+cho a los que gouiernan mi alma, como los
+tomo en lugar de Dios tan de verdad, parece-
+me que es empre donde mi voluntad mas
+ſe emplea, y como yo andaua con ſeguridad
+morauales gracia, eos como temeroſos y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1410" y="2639"/>
+	<Point x="1460" y="2639"/>
+	<Point x="1642" y="2667"/>
+	<Point x="1672" y="2727"/>
+	<Point x="1403" y="2728"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>eruos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="592" y="3072"/>
+	<Point x="1558" y="3072"/>
+	<Point x="1558" y="3153"/>
+	<Point x="592" y="3153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1502" y="131"/>
+	<Point x="1502" y="231"/>
+	<Point x="1678" y="231"/>
+	<Point x="1678" y="131"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>477</Unicode></TextEquiv></TextRegion></Page></PcGts>

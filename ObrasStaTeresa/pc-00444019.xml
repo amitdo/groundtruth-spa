@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444019">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:48:25</Created>
+	<LastChange>2011-12-19T11:39:21</LastChange></Metadata>
+	<Page imageFilename="00444019.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="364" y="96"/>
+	<Point x="1546" y="87"/>
+	<Point x="1541" y="166"/>
+	<Point x="1541" y="212"/>
+	<Point x="364" y="210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="176" y="235"/>
+	<Point x="1773" y="232"/>
+	<Point x="1801" y="2624"/>
+	<Point x="935" y="2632"/>
+	<Point x="891" y="2655"/>
+	<Point x="183" y="2662"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de nueuo mi ingratitud, y maldad. Era tan
+mas penoſo para mi condicion recibir mer-
+cedes, quando auia caydo en graues culpas,
+que recibir caigos, que vna deas me pa-
+rece cierto me deshazia y confundia mas,
+y fatigaua que muchas enfermedades con
+otros trabajos hartos juntos: porque lo po-
+rero via lo merecia, y pareciame pagaua
+algo de mis peccados, aunque todo era po-
+co ſegun eos eran muchos, mas verme re-
+cibir de nueuo mercedes, pagando tan mal
+las recibidas, es vn genero de tormento pa-
+ra mi terrible, y creo para todos los que
+tuuieren algun conoſcimiento, o amor de
+Dios. Y eo por vna condicion virtuoſa
+lo podemos aca ſacar: aqui eran mis la-
+grimas, y mi enojo, de ver lo que fen-
+tia, viendome de ſuerte que eaua en biſ-
+pera de tornar a caer, aunque mis deter-
+minaciones, y deeos entonces, por aquel
+rato digo, eauan ﬁrmes. Gran mal es
+vn alma ſola entre tantos peligros, pare-
+ceme a mi que  yo tuuiera con quien tra-
+tar todo eo, que me ayudara a no tor-
+nar a caer,  quiera por verguença, ya
+que no la tenia de Dios: por eo acon-
+ſejaria yo a los que tienen oracion en eſ-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="573" y="3035"/>
+	<Point x="1594" y="3035"/>
+	<Point x="1594" y="3160"/>
+	<Point x="573" y="3160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1605" y="116"/>
+	<Point x="1605" y="216"/>
+	<Point x="1726" y="216"/>
+	<Point x="1726" y="116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>91</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1510" y="2644"/>
+	<Point x="1499" y="2746"/>
+	<Point x="1794" y="2732"/>
+	<Point x="1789" y="2633"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pecial</Unicode></TextEquiv></TextRegion></Page></PcGts>

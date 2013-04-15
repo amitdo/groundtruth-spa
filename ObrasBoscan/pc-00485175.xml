@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485175">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T13:21:42</Created>
+	<LastChange>2011-05-12T13:41:00</LastChange></Metadata>
+	<Page imageFilename="00485175.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="535" y="2980"/>
+	<Point x="1445" y="2980"/>
+	<Point x="1445" y="3096"/>
+	<Point x="535" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="355" y="207"/>
+	<Point x="1360" y="205"/>
+	<Point x="1522" y="222"/>
+	<Point x="1577" y="217"/>
+	<Point x="1613" y="221"/>
+	<Point x="1607" y="257"/>
+	<Point x="1547" y="2845"/>
+	<Point x="305" y="2850"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Con enmienda baante reparadas.
+Terne por bien, que al plazo ſeñalado
+Quando todos vernan, como ala fuente,
+Para coger mierios y ſecretos:
+Se hagan ﬁeas de diuerſos juegos.
+Entiendan en ſolaz todas las gentes
+Las orgias de Bacco ſe celebran:
+Los thiaſos ſe mueuan con ſus ſones,
+Todos aca, y aa, deſparzan ﬂores,
+Del arbol que's a Venus agradable.
+Sacricios ſobre'o ſe leuanten,
+El humo delas viimas, inchiendo
+El ayre al derredor, ſubiendo al cielo.
+Y eo, todo por onrra y alegria,
+Del grande ſabidor que lo merece.
+No bien vuo acabado eas razones,
+El padre de la Nympha de Nereo:
+Quando, todos con geos y ademanes,
+Y palabras, ſu voto conﬁrmaron.
+Y Neptuno abaxando ſu cabeça,
+Siniﬁco quel era muy contento.
+Y ai mando, que todo fueſfe hecho,
+Sin quitar ni poner como s'ha dicho.
+Deſde'ntonce Proteo, guio ee'ilo:
+Que cada'ño, en ſus tiempos ſeñalados,
+Con publico pregon, por muchas partes,
+El dia y el lugar notiﬁcando:
+Andaua repartiendo los theſoros,
+Del prophetico don que le ſue dado.
+Mas tanta era la gente que acudia,
+Ala boz del oraculo diuino:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1237" y="87"/>
+	<Point x="1237" y="190"/>
+	<Point x="1625" y="190"/>
+	<Point x="1625" y="87"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. CIIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="612" y="85"/>
+	<Point x="612" y="195"/>
+	<Point x="1145" y="195"/>
+	<Point x="1145" y="85"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion></Page></PcGts>

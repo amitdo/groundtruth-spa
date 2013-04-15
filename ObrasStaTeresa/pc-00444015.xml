@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444015">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:47:59</Created>
+	<LastChange>2011-12-19T11:39:20</LastChange></Metadata>
+	<Page imageFilename="00444015.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="380" y="96"/>
+	<Point x="1566" y="99"/>
+	<Point x="1574" y="208"/>
+	<Point x="380" y="214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1475" y="2635"/>
+	<Point x="1765" y="2633"/>
+	<Point x="1765" y="2733"/>
+	<Point x="1481" y="2740"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mage-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="606" y="3064"/>
+	<Point x="1589" y="3064"/>
+	<Point x="1589" y="3147"/>
+	<Point x="606" y="3147"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1650" y="110"/>
+	<Point x="1650" y="225"/>
+	<Point x="1760" y="225"/>
+	<Point x="1760" y="110"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>87</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="199" y="235"/>
+	<Point x="1769" y="239"/>
+	<Point x="1804" y="2619"/>
+	<Point x="1440" y="2623"/>
+	<Point x="1430" y="2645"/>
+	<Point x="1388" y="2647"/>
+	<Point x="1389" y="2621"/>
+	<Point x="1321" y="2622"/>
+	<Point x="1312" y="2636"/>
+	<Point x="1292" y="2646"/>
+	<Point x="1253" y="2632"/>
+	<Point x="178" y="2637"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tuue tan gran animo, para no Ie morar
+pena, y ear haa que murio, como  nin-
+guna coſa ntiera, pareciendome ſe arran-
+caua mi alma, quando via acabar ſu vi-
+da, porque le queria mucho. Fue coſa para
+alabar al Señor la muerte que murio, y la ga-
+na que tenia de morirſe, los conſejos que
+nos daua deſpues de auer recibido la extre-
+ma vncion, el encargarnos le encomendaſ-
+ſemos a Dios, y le pidieemos miſericordia
+para el, y que empre le ruieemos, que
+miraemos ſe acabaua todo, y con lagrimas
+nos dezia la pena grande que tenia, de no
+auerle el ſeruido, que quiera ſer vn fray-
+le, digo auer do, de los mas erechos que
+vuiera, tengo por muy cierto que quin-
+ze dias antes, le dio el Señor a enten-
+der no auia de viuir, porque antes de-
+os, aunque eaua malo no lo penſaua, deſ-
+pues con tener mucha mejoria, y dezirlo
+los medicos ningun caſo hazia de eos, no
+entendia en ordenar ſu alma. Fue ſu princi-
+pal mal de vn dolor grandiſsimo de eſpal-
+das, que jamas ſe le quitaua, algunas vezes
+le apretaua tanto, que le congoxaua mucho,
+dixele yo que pues era tan deuoto de quãdo el
+Señor euaua la cruz acueas, que penſaeſu</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="1203" y="2639"/>
+	<Point x="1204" y="2741"/>
+	<Point x="1357" y="2737"/>
+	<Point x="1358" y="2657"/>
+	<Point x="1310" y="2657"/>
+	<Point x="1256" y="2637"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>F 4</Unicode></TextEquiv></TextRegion></Page></PcGts>

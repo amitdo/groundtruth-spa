@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439446">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T03:46:18</Created>
+	<LastChange>2011-06-24T14:04:34</LastChange></Metadata>
+	<Page imageFilename="00439446.tif" imageWidth="2557" imageHeight="4056">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r47" index="0"/></OrderedGroup></ReadingOrder>
+	<GraphicRegion id="r7" type="other">
+	<Coords>
+	<Point x="160" y="713"/>
+	<Point x="160" y="956"/>
+	<Point x="565" y="956"/>
+	<Point x="565" y="713"/></Coords></GraphicRegion>
+	<GraphicRegion id="r8" type="other">
+	<Coords>
+	<Point x="293" y="1020"/>
+	<Point x="2070" y="1026"/>
+	<Point x="2079" y="1355"/>
+	<Point x="283" y="1346"/></Coords></GraphicRegion>
+	<GraphicRegion id="r11" type="other">
+	<Coords>
+	<Point x="1743" y="743"/>
+	<Point x="1743" y="947"/>
+	<Point x="2221" y="947"/>
+	<Point x="2221" y="743"/></Coords></GraphicRegion>
+	<TextRegion id="r12" type="credit">
+	<Coords>
+	<Point x="791" y="3865"/>
+	<Point x="791" y="4034"/>
+	<Point x="1939" y="4034"/>
+	<Point x="1939" y="3865"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="heading">
+	<Coords>
+	<Point x="645" y="761"/>
+	<Point x="645" y="958"/>
+	<Point x="1693" y="958"/>
+	<Point x="1693" y="761"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ERRATAS.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r43">
+	<Coords>
+	<Point x="56" y="1430"/>
+	<Point x="2246" y="1430"/>
+	<Point x="2246" y="3378"/>
+	<Point x="56" y="3378"/></Coords></TableRegion>
+	<GraphicRegion id="r9" type="other">
+	<Coords>
+	<Point x="306" y="313"/>
+	<Point x="2096" y="330"/>
+	<Point x="2100" y="673"/>
+	<Point x="296" y="656"/></Coords></GraphicRegion></Page></PcGts>

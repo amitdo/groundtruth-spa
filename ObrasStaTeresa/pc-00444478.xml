@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444478">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:45:43</Created>
+	<LastChange>2011-12-19T11:39:47</LastChange></Metadata>
+	<Page imageFilename="00444478.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="848" y="87"/>
+	<Point x="852" y="76"/>
+	<Point x="881" y="79"/>
+	<Point x="1596" y="85"/>
+	<Point x="1600" y="221"/>
+	<Point x="836" y="207"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="380" y="237"/>
+	<Point x="619" y="235"/>
+	<Point x="759" y="226"/>
+	<Point x="998" y="221"/>
+	<Point x="1608" y="225"/>
+	<Point x="2060" y="219"/>
+	<Point x="2055" y="1156"/>
+	<Point x="1048" y="1208"/>
+	<Point x="708" y="1209"/>
+	<Point x="413" y="1220"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>como eà el alma que ea en peccado n
+ningun poder, no como vna perſona que
+euuiee del todo atada y liada, y atapados
+los ojos, que aunque quiere ver no puede, ni
+andar, ni oyr, y en gran eſcuridad. Hizierõme
+tanta laima las almas  ean an, que qual-
+quier trabajo me parece ligero por librar vna.
+Pareciome que a entender eo, como yo lo
+vi, que ſe puede mal dezir, que no era poſsi-
+ble querer ninguno perder tanto bien, ni
+ear en tanto mal.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="413" y="1224"/>
+	<Point x="645" y="1213"/>
+	<Point x="713" y="1213"/>
+	<Point x="1071" y="1212"/>
+	<Point x="2055" y="1162"/>
+	<Point x="2010" y="2626"/>
+	<Point x="1954" y="2638"/>
+	<Point x="1875" y="2639"/>
+	<Point x="1821" y="2640"/>
+	<Point x="392" y="2725"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eando en la Encarnacion, el ſegundo año
+que tenia el priorato, oaua de ſan Martin,
+eando comulgando, partio la forma el pa-
+dre fray Iuan de la Cruz que me daua el ſan-
+tiſsimo Sacramento, para otra hermana, yo
+penſe que no era falta de forma, no que me
+queria mortiﬁcar, porque yo le auia dicho
+que guaua mucho quando eran grandes las
+formas, no porque no entendia no importa-
+ua para dexar de ear entero el Señor, aun-
+que fuee muy pequeño pedacico. Dixome
+ſu Magead: No ayas miedo hija que nadie
+ſea parte para quitarte de mi. Dando a en-
+tender que no importaua. Entonces repreſen
+toſeme por vion imaginaria como otras ve-
+zes muy en lo interior, y diome ſu mano de-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="576" y="3052"/>
+	<Point x="1598" y="3053"/>
+	<Point x="1596" y="3170"/>
+	<Point x="587" y="3166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="417" y="105"/>
+	<Point x="417" y="228"/>
+	<Point x="628" y="228"/>
+	<Point x="628" y="105"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>558</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1740" y="2663"/>
+	<Point x="1740" y="2729"/>
+	<Point x="1985" y="2729"/>
+	<Point x="1983" y="2649"/>
+	<Point x="1918" y="2641"/>
+	<Point x="1887" y="2642"/>
+	<Point x="1825" y="2646"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>recha</Unicode></TextEquiv></TextRegion></Page></PcGts>

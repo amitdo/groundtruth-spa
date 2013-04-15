@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00445545">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T15:51:22</Created>
+	<LastChange>2011-10-12T11:02:31</LastChange></Metadata>
+	<Page imageFilename="00445545.tif" imageWidth="2783" imageHeight="4005">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r20" index="0"/>
+	<RegionRefIndexed regionRef="r24" index="1"/>
+	<RegionRefIndexed regionRef="r28" index="2"/>
+	<RegionRefIndexed regionRef="r30" index="3"/>
+	<RegionRefIndexed regionRef="r32" index="4"/>
+	<RegionRefIndexed regionRef="r36" index="5"/>
+	<RegionRefIndexed regionRef="r40" index="6"/>
+	<RegionRefIndexed regionRef="r44" index="7"/>
+	<RegionRefIndexed regionRef="r48" index="8"/>
+	<RegionRefIndexed regionRef="r50" index="9"/>
+	<RegionRefIndexed regionRef="r54" index="10"/>
+	<RegionRefIndexed regionRef="r56" index="11"/>
+	<RegionRefIndexed regionRef="r60" index="12"/>
+	<RegionRefIndexed regionRef="r68" index="13"/>
+	<RegionRefIndexed regionRef="r74" index="14"/>
+	<RegionRefIndexed regionRef="r78" index="15"/>
+	<RegionRefIndexed regionRef="r80" index="16"/>
+	<RegionRefIndexed regionRef="r81" index="17"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="1895" y="173"/>
+	<Point x="2011" y="175"/>
+	<Point x="2067" y="173"/>
+	<Point x="2069" y="234"/>
+	<Point x="1924" y="234"/>
+	<Point x="1895" y="231"/>
+	<Point x="1887" y="201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAT</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="credit">
+	<Coords>
+	<Point x="1010" y="3910"/>
+	<Point x="1110" y="3900"/>
+	<Point x="1195" y="3906"/>
+	<Point x="1194" y="3919"/>
+	<Point x="1225" y="3919"/>
+	<Point x="1230" y="3910"/>
+	<Point x="1246" y="3910"/>
+	<Point x="1247" y="3919"/>
+	<Point x="1343" y="3919"/>
+	<Point x="1369" y="3908"/>
+	<Point x="1406" y="3901"/>
+	<Point x="1416" y="3908"/>
+	<Point x="1412" y="3919"/>
+	<Point x="1477" y="3919"/>
+	<Point x="1478" y="3910"/>
+	<Point x="1496" y="3905"/>
+	<Point x="1493" y="3919"/>
+	<Point x="1593" y="3919"/>
+	<Point x="1594" y="3907"/>
+	<Point x="1664" y="3907"/>
+	<Point x="1666" y="3919"/>
+	<Point x="1696" y="3919"/>
+	<Point x="1724" y="3907"/>
+	<Point x="1761" y="3905"/>
+	<Point x="1772" y="3910"/>
+	<Point x="1857" y="3919"/>
+	<Point x="1862" y="3910"/>
+	<Point x="1893" y="3910"/>
+	<Point x="1910" y="3906"/>
+	<Point x="1927" y="3919"/>
+	<Point x="1931" y="3934"/>
+	<Point x="1927" y="3959"/>
+	<Point x="1898" y="3959"/>
+	<Point x="1893" y="3958"/>
+	<Point x="1862" y="3958"/>
+	<Point x="1857" y="3959"/>
+	<Point x="1827" y="3959"/>
+	<Point x="1822" y="3967"/>
+	<Point x="1789" y="3978"/>
+	<Point x="1784" y="3969"/>
+	<Point x="1785" y="3959"/>
+	<Point x="1760" y="3959"/>
+	<Point x="1760" y="3958"/>
+	<Point x="1718" y="3958"/>
+	<Point x="1696" y="3959"/>
+	<Point x="1631" y="3959"/>
+	<Point x="1611" y="3958"/>
+	<Point x="1597" y="3958"/>
+	<Point x="1593" y="3959"/>
+	<Point x="1563" y="3959"/>
+	<Point x="1558" y="3958"/>
+	<Point x="1527" y="3958"/>
+	<Point x="1524" y="3959"/>
+	<Point x="1493" y="3959"/>
+	<Point x="1492" y="3958"/>
+	<Point x="1478" y="3958"/>
+	<Point x="1477" y="3959"/>
+	<Point x="1412" y="3959"/>
+	<Point x="1411" y="3958"/>
+	<Point x="1367" y="3958"/>
+	<Point x="1343" y="3959"/>
+	<Point x="1194" y="3959"/>
+	<Point x="1193" y="3958"/>
+	<Point x="1165" y="3958"/>
+	<Point x="1161" y="3959"/>
+	<Point x="1130" y="3959"/>
+	<Point x="1130" y="3958"/>
+	<Point x="1074" y="3958"/>
+	<Point x="1054" y="3960"/>
+	<Point x="1010" y="3960"/>
+	<Point x="1003" y="3932"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="page-number">
+	<Coords>
+	<Point x="591" y="181"/>
+	<Point x="595" y="249"/>
+	<Point x="472" y="250"/>
+	<Point x="467" y="204"/>
+	<Point x="531" y="204"/>
+	<Point x="555" y="185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>228</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="header">
+	<Coords>
+	<Point x="1043" y="175"/>
+	<Point x="1044" y="245"/>
+	<Point x="982" y="243"/>
+	<Point x="917" y="244"/>
+	<Point x="917" y="245"/>
+	<Point x="871" y="243"/>
+	<Point x="861" y="226"/>
+	<Point x="868" y="183"/>
+	<Point x="936" y="187"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAT</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="590" y="264"/>
+	<Point x="1004" y="259"/>
+	<Point x="1103" y="276"/>
+	<Point x="1094" y="370"/>
+	<Point x="1033" y="365"/>
+	<Point x="1036" y="400"/>
+	<Point x="1033" y="452"/>
+	<Point x="969" y="461"/>
+	<Point x="676" y="461"/>
+	<Point x="647" y="473"/>
+	<Point x="593" y="465"/>
+	<Point x="585" y="303"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ríeto à tu meſaredonda.
+quanto néar, quanto vino
+en carcheos venecianos,
+te rve tu catamíto.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="442" y="461"/>
+	<Point x="572" y="475"/>
+	<Point x="584" y="472"/>
+	<Point x="622" y="475"/>
+	<Point x="632" y="477"/>
+	<Point x="647" y="487"/>
+	<Point x="656" y="473"/>
+	<Point x="955" y="466"/>
+	<Point x="1421" y="461"/>
+	<Point x="1425" y="666"/>
+	<Point x="1170" y="669"/>
+	<Point x="1146" y="681"/>
+	<Point x="1133" y="669"/>
+	<Point x="822" y="673"/>
+	<Point x="795" y="723"/>
+	<Point x="787" y="721"/>
+	<Point x="647" y="724"/>
+	<Point x="610" y="738"/>
+	<Point x="576" y="725"/>
+	<Point x="501" y="737"/>
+	<Point x="483" y="529"/>
+	<Point x="437" y="515"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CATAN. ſ. m. Una eſpécie de alfange que uſan
+los Indios, que en el Japón le aman Catána.
+Lat. Acinacis, is. ARGENS. Maluc. lib. 6. fol. 200.
+Los quales dieron ſus mueras y reſéñas con
+picas y catánes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="445" y="732"/>
+	<Point x="491" y="732"/>
+	<Point x="500" y="744"/>
+	<Point x="602" y="746"/>
+	<Point x="614" y="745"/>
+	<Point x="630" y="734"/>
+	<Point x="772" y="729"/>
+	<Point x="816" y="730"/>
+	<Point x="1431" y="722"/>
+	<Point x="1434" y="976"/>
+	<Point x="1205" y="984"/>
+	<Point x="1169" y="990"/>
+	<Point x="919" y="989"/>
+	<Point x="908" y="1034"/>
+	<Point x="884" y="1034"/>
+	<Point x="585" y="1033"/>
+	<Point x="572" y="1045"/>
+	<Point x="548" y="1045"/>
+	<Point x="544" y="1036"/>
+	<Point x="509" y="1038"/>
+	<Point x="498" y="784"/>
+	<Point x="451" y="771"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CATAN. Lo miſmo que Infanzón. Es voz Italia-
+na; aunque Covarr. dice puede venir del Grie-
+go Katanemo, que gniﬁca Diribuir ù dar.
+PARTID. 2. tit. 1. l. 13. Catánes è Valvaſóres ſon
+aqueos ﬁjoſdalgo en Italia, à que dicen en
+Eſpaña Infanzónes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="455" y="1057"/>
+	<Point x="456" y="1043"/>
+	<Point x="563" y="1047"/>
+	<Point x="904" y="1039"/>
+	<Point x="1433" y="1025"/>
+	<Point x="1451" y="1541"/>
+	<Point x="1240" y="1543"/>
+	<Point x="1237" y="1564"/>
+	<Point x="1179" y="1545"/>
+	<Point x="1076" y="1542"/>
+	<Point x="1054" y="1560"/>
+	<Point x="986" y="1545"/>
+	<Point x="896" y="1548"/>
+	<Point x="884" y="1562"/>
+	<Point x="865" y="1562"/>
+	<Point x="856" y="1548"/>
+	<Point x="672" y="1553"/>
+	<Point x="672" y="1585"/>
+	<Point x="673" y="1600"/>
+	<Point x="513" y="1602"/>
+	<Point x="504" y="1088"/>
+	<Point x="454" y="1085"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CATANANCE. ſ. f. Arbol de que hai dos eſpé-
+cies: una, que hace las hojas largas como las
+del Coronopede, la raíz delgada y juncóſa y
+ſeis ò ete cabezuelas. La otra como un pe-
+quéño manzáno y ſu raíz pequéña como una
+azeitúna. Sus hojas, aſsi en ﬁgúra, como en el
+colór ſe parecen à las del olívo. Es voz Grie-
+ga. LAG. Dioſc. lib. 4. cap. 135. El Ruelio, -
+guiendo à Hermolao Bárbaro, entiende la a-
+mada Biorta.... por la ſegunda eſpécie de ca-
+tanance.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="476" y="1611"/>
+	<Point x="1123" y="1602"/>
+	<Point x="1132" y="1626"/>
+	<Point x="1141" y="1631"/>
+	<Point x="1146" y="1647"/>
+	<Point x="974" y="1652"/>
+	<Point x="802" y="1651"/>
+	<Point x="690" y="1655"/>
+	<Point x="469" y="1658"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CATAPHORA. Veaſe Cadente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords>
+	<Point x="470" y="1664"/>
+	<Point x="852" y="1658"/>
+	<Point x="1249" y="1652"/>
+	<Point x="1451" y="1655"/>
+	<Point x="1466" y="2010"/>
+	<Point x="1189" y="2022"/>
+	<Point x="988" y="2021"/>
+	<Point x="960" y="2065"/>
+	<Point x="530" y="2072"/>
+	<Point x="514" y="1709"/>
+	<Point x="470" y="1711"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CATAPLASMA. ſ. f. Emplao que ſe pone en
+algúna parte del cuerpo dañada. Covarr. le
+ama Cataplaſmo. Es voz puramente Griega
+Cataplaſma. LAG. Dioſc. lib. 1. cap. 126. Majá-
+da ſe mezcla utilmente en los moliﬁcativos
+cataplaſmos y emplaros. GRAC. Mor. fol. 141.
+Las medicinas, cataplaſmas y emplaos ſuelen
+cauſar inﬂamaciones.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords>
+	<Point x="489" y="2077"/>
+	<Point x="952" y="2073"/>
+	<Point x="1249" y="2063"/>
+	<Point x="1466" y="2069"/>
+	<Point x="1469" y="2264"/>
+	<Point x="1456" y="2271"/>
+	<Point x="1422" y="2276"/>
+	<Point x="1424" y="2316"/>
+	<Point x="1243" y="2320"/>
+	<Point x="1123" y="2318"/>
+	<Point x="1088" y="2333"/>
+	<Point x="1074" y="2320"/>
+	<Point x="975" y="2323"/>
+	<Point x="924" y="2320"/>
+	<Point x="843" y="2327"/>
+	<Point x="635" y="2325"/>
+	<Point x="606" y="2337"/>
+	<Point x="539" y="2337"/>
+	<Point x="538" y="2119"/>
+	<Point x="482" y="2120"/>
+	<Point x="476" y="2104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CATAPOCIA. ſ. f. La píldora que ſe toma por
+la boca para vários efeos. Es voz puramente
+Griega y uſada en Latin. QUEV. Vit. Eglema-
+tis dicen lo que es lamer, catapócia las píldoras,
+clyér la melecína. PANT. part. 2. Rom. 11.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords>
+	<Point x="645" y="2337"/>
+	<Point x="828" y="2333"/>
+	<Point x="1025" y="2328"/>
+	<Point x="1063" y="2329"/>
+	<Point x="1127" y="2342"/>
+	<Point x="1128" y="2429"/>
+	<Point x="1232" y="2441"/>
+	<Point x="1233" y="2455"/>
+	<Point x="1226" y="2470"/>
+	<Point x="1163" y="2474"/>
+	<Point x="1110" y="2472"/>
+	<Point x="1112" y="2529"/>
+	<Point x="1060" y="2526"/>
+	<Point x="1025" y="2534"/>
+	<Point x="639" y="2530"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hanme dado Catapócias,
+cataplaſmos, catapliſmos,
+y aun ſoſpecho que han de darme
+cata Fráncia Monte nos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords>
+	<Point x="498" y="2540"/>
+	<Point x="518" y="2535"/>
+	<Point x="630" y="2536"/>
+	<Point x="1012" y="2537"/>
+	<Point x="1058" y="2534"/>
+	<Point x="1230" y="2531"/>
+	<Point x="1370" y="2527"/>
+	<Point x="1445" y="2525"/>
+	<Point x="1478" y="2534"/>
+	<Point x="1489" y="2788"/>
+	<Point x="1306" y="2788"/>
+	<Point x="1306" y="2831"/>
+	<Point x="1098" y="2836"/>
+	<Point x="1043" y="2832"/>
+	<Point x="1034" y="2846"/>
+	<Point x="1006" y="2847"/>
+	<Point x="983" y="2838"/>
+	<Point x="848" y="2838"/>
+	<Point x="719" y="2840"/>
+	<Point x="699" y="2845"/>
+	<Point x="599" y="2855"/>
+	<Point x="551" y="2837"/>
+	<Point x="545" y="2588"/>
+	<Point x="500" y="2581"/>
+	<Point x="493" y="2561"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CATAPUCIA MAYOR. ſ. f. Llaman los Boti-
+cários à la higuera infernál, cuya miente es
+mui ſemejante à la garrapata. Lat. Ricinus, &amp;
+croton. LAG. Dioſc. lib. 4. cap. 165. En la de-
+claracion de los nombres. Bárbaro: Catapúcia
+mayór, Caeano: Higuera infernál.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r54" type="paragraph">
+	<Coords>
+	<Point x="513" y="3213"/>
+	<Point x="539" y="3206"/>
+	<Point x="563" y="3211"/>
+	<Point x="985" y="3205"/>
+	<Point x="1153" y="3196"/>
+	<Point x="1491" y="3194"/>
+	<Point x="1496" y="3364"/>
+	<Point x="1500" y="3381"/>
+	<Point x="1507" y="3589"/>
+	<Point x="1510" y="3649"/>
+	<Point x="1490" y="3665"/>
+	<Point x="1161" y="3668"/>
+	<Point x="1147" y="3673"/>
+	<Point x="791" y="3674"/>
+	<Point x="759" y="3678"/>
+	<Point x="645" y="3668"/>
+	<Point x="577" y="3669"/>
+	<Point x="567" y="3254"/>
+	<Point x="519" y="3255"/>
+	<Point x="512" y="3227"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CATAPULTA. ſ. f. Máchina ò inrumento de
+que uſaron los antíguos en la guerra para
+arrojar piedras y lanzar ſaétas grandes, de ſeis
+palmos de largo, poco mas ò menos. Compo-
+níaſe de dos madéros liſos, altos y derechos,
+ù de un arbol grueo aerrado por medio
+deſde la punta haa la quarta parte de abaxo,
+que quedaba entéra, la qual para mayor ﬁr-
+meza ſe guarnecía de hierro, y en él ſe ﬁjaban</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="paragraph">
+	<Coords>
+	<Point x="503" y="2851"/>
+	<Point x="544" y="2850"/>
+	<Point x="546" y="2863"/>
+	<Point x="915" y="2856"/>
+	<Point x="956" y="2845"/>
+	<Point x="992" y="2844"/>
+	<Point x="999" y="2856"/>
+	<Point x="1061" y="2851"/>
+	<Point x="1067" y="2842"/>
+	<Point x="1487" y="2833"/>
+	<Point x="1496" y="3141"/>
+	<Point x="1137" y="3143"/>
+	<Point x="1078" y="3143"/>
+	<Point x="1071" y="3158"/>
+	<Point x="1049" y="3158"/>
+	<Point x="1047" y="3145"/>
+	<Point x="971" y="3150"/>
+	<Point x="978" y="3196"/>
+	<Point x="787" y="3204"/>
+	<Point x="598" y="3200"/>
+	<Point x="600" y="3209"/>
+	<Point x="581" y="3209"/>
+	<Point x="564" y="3207"/>
+	<Point x="554" y="3070"/>
+	<Point x="549" y="2897"/>
+	<Point x="506" y="2892"/>
+	<Point x="489" y="2875"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CATAPUCIA MENOR. Llaman en las Boticas el
+tártago, que rve à los Labradóres de purgan-
+te. Lat. Lathyris. LAG. Dioſc. lib. 4. cap. 168.
+La Lathyris, amada vulgarmente Catapúcia
+minor por las Boticas, y Tártago en nuero
+vulgar Caeano, es planta mui conocida
+por todo el mundo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r56" type="paragraph">
+	<Coords>
+	<Point x="1532" y="252"/>
+	<Point x="2472" y="241"/>
+	<Point x="2517" y="1056"/>
+	<Point x="2508" y="1515"/>
+	<Point x="2505" y="1545"/>
+	<Point x="2466" y="1540"/>
+	<Point x="2461" y="1554"/>
+	<Point x="2476" y="1585"/>
+	<Point x="2313" y="1599"/>
+	<Point x="2304" y="1593"/>
+	<Point x="2274" y="1595"/>
+	<Point x="2261" y="1585"/>
+	<Point x="2108" y="1587"/>
+	<Point x="2089" y="1585"/>
+	<Point x="2080" y="1592"/>
+	<Point x="2067" y="1597"/>
+	<Point x="2043" y="1587"/>
+	<Point x="1901" y="1587"/>
+	<Point x="1900" y="1598"/>
+	<Point x="1875" y="1598"/>
+	<Point x="1864" y="1587"/>
+	<Point x="1751" y="1588"/>
+	<Point x="1752" y="1600"/>
+	<Point x="1727" y="1601"/>
+	<Point x="1701" y="1588"/>
+	<Point x="1572" y="1587"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ünas argoas para poderla mover, y aentar
+en una baſa agujereada, hecha de propóto
+para ſu ſeguridad. De las dos mitades del ár-
+bol ò madéros, al uno ſe le cortaba por lo alto
+una tercia ò palmo, y ai ſe le ﬁjaba una ta-
+blia, que ſervía de aſsiento para poner las
+ſaétas ò piedras, y en el otro (que quedaba
+mas alto, y ſervía de diſparadór) ſe ponían
+unas cadénas de hierro ò ſogas grueas, con
+las quales ſe tiraba hácia atrás, y ſe torcía
+quanto pudiee dar de sí, y en egando al
+punto conveniente, ſe ſoltaba, y daba tan
+gran golpe en la cabéza de la ſaéta ò piedra,
+que las arrojaba y deſpedía con notable ím-
+petu. Haanſe ﬁguradas eas máchinas de
+otras manéras; pero las comunmente uſadas
+fueron de ea calidad. Es voz Griega, de quien
+la tomaron los Latinos. Lat. Catapulta. AMBR.
+MOR. tom. 1. fol. 30. Trabúcos grandes que
+entonces amaban catapultas. GRAC. Mor. fol.
+34. Viendo un tiro de catapulta, que era un
+cierto ingénio para combatir, dió una gran
+voz. SAAV. Coron. Got. tom. 1. Año 674. Otras
+à modo de baeónes, amadas catapultas, con
+diverſos muees, gatios y diſparadóres, ea-
+ban diſpueas para arrojar ſaétas y piedras.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r60" type="paragraph">
+	<Coords>
+	<Point x="1523" y="1600"/>
+	<Point x="1559" y="1596"/>
+	<Point x="1704" y="1598"/>
+	<Point x="1716" y="1608"/>
+	<Point x="1830" y="1597"/>
+	<Point x="1862" y="1595"/>
+	<Point x="1872" y="1601"/>
+	<Point x="1875" y="1603"/>
+	<Point x="1938" y="1601"/>
+	<Point x="1956" y="1594"/>
+	<Point x="2038" y="1596"/>
+	<Point x="2070" y="1603"/>
+	<Point x="2091" y="1592"/>
+	<Point x="2240" y="1595"/>
+	<Point x="2256" y="1594"/>
+	<Point x="2282" y="1598"/>
+	<Point x="2299" y="1604"/>
+	<Point x="2447" y="1595"/>
+	<Point x="2514" y="1600"/>
+	<Point x="2509" y="1656"/>
+	<Point x="2527" y="2208"/>
+	<Point x="2405" y="2205"/>
+	<Point x="2386" y="2209"/>
+	<Point x="2412" y="2254"/>
+	<Point x="2278" y="2254"/>
+	<Point x="2250" y="2271"/>
+	<Point x="2227" y="2258"/>
+	<Point x="2082" y="2259"/>
+	<Point x="2054" y="2265"/>
+	<Point x="2045" y="2260"/>
+	<Point x="1958" y="2261"/>
+	<Point x="1918" y="2269"/>
+	<Point x="1898" y="2261"/>
+	<Point x="1584" y="2260"/>
+	<Point x="1573" y="1643"/>
+	<Point x="1523" y="1642"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CATAR. v. a. Vér, mirar, regirar, Covarr. dice
+que ſe formó ee verbo del adjetivo Latino
+Catus, que gniﬁca Aúto y ſagáz. Lat. Probare.
+Experiri. Inſpicere. Tentare. RECOP. lib. 3. tit. 16.
+l. 1. num. 4. Miren y caten las tiendas y Boti-
+cas de Boticários y eſpecieros y de otras qua-
+leſquier perſónas que vendieren medicinas y
+eſpécias. VILLAIZ. Chron. del R. Don Al. el
+Onceno, cap. 58. Llevólo à un Palacio dó eſ-
+taba la Madre del Rey, y hizole catar las fe-
+rídas. COMEND. ſob. las 300. fol. 52. Y el adi-
+vino de Arménia ò de Comagena catára las
+aadúras de los poos, ò de los gatios.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r68" type="paragraph">
+	<Coords>
+	<Point x="2521" y="2272"/>
+	<Point x="2526" y="2386"/>
+	<Point x="2528" y="2409"/>
+	<Point x="2449" y="2409"/>
+	<Point x="2423" y="2420"/>
+	<Point x="2407" y="2410"/>
+	<Point x="2314" y="2413"/>
+	<Point x="2327" y="2431"/>
+	<Point x="1884" y="2417"/>
+	<Point x="1878" y="2462"/>
+	<Point x="1878" y="2463"/>
+	<Point x="1820" y="2463"/>
+	<Point x="1820" y="2464"/>
+	<Point x="1766" y="2468"/>
+	<Point x="1759" y="2466"/>
+	<Point x="1749" y="2475"/>
+	<Point x="1734" y="2475"/>
+	<Point x="1738" y="2465"/>
+	<Point x="1703" y="2465"/>
+	<Point x="1703" y="2466"/>
+	<Point x="1674" y="2477"/>
+	<Point x="1645" y="2466"/>
+	<Point x="1645" y="2467"/>
+	<Point x="1594" y="2464"/>
+	<Point x="1585" y="2312"/>
+	<Point x="1546" y="2311"/>
+	<Point x="1546" y="2268"/>
+	<Point x="1732" y="2266"/>
+	<Point x="1777" y="2269"/>
+	<Point x="1891" y="2276"/>
+	<Point x="1908" y="2272"/>
+	<Point x="1947" y="2267"/>
+	<Point x="2065" y="2269"/>
+	<Point x="2220" y="2264"/>
+	<Point x="2246" y="2277"/>
+	<Point x="2269" y="2274"/>
+	<Point x="2301" y="2264"/>
+	<Point x="2416" y="2264"/>
+	<Point x="2427" y="2270"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CATAR. Vale tambien probar, ò guar alguna
+coſa para examinar ſu ſabór y ſazón. Covarr.
+en ea palabra. Lat. Guu aliquid probare, ten-
+tare, experiri.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r74" type="paragraph">
+	<Coords>
+	<Point x="2534" y="2472"/>
+	<Point x="2532" y="2509"/>
+	<Point x="2544" y="3031"/>
+	<Point x="2331" y="3032"/>
+	<Point x="2274" y="3030"/>
+	<Point x="2269" y="3043"/>
+	<Point x="2208" y="3045"/>
+	<Point x="2029" y="3047"/>
+	<Point x="1912" y="3045"/>
+	<Point x="1877" y="3039"/>
+	<Point x="1714" y="3040"/>
+	<Point x="1720" y="3087"/>
+	<Point x="1612" y="3084"/>
+	<Point x="1589" y="2523"/>
+	<Point x="1548" y="2519"/>
+	<Point x="1545" y="2476"/>
+	<Point x="1595" y="2476"/>
+	<Point x="1634" y="2484"/>
+	<Point x="1724" y="2477"/>
+	<Point x="1758" y="2477"/>
+	<Point x="1911" y="2472"/>
+	<Point x="1916" y="2480"/>
+	<Point x="1954" y="2476"/>
+	<Point x="1995" y="2472"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CATAR. Signiﬁca tambien mirar, advertir, con-
+derar, ò meditar alguna coſa. Lat. Attentius
+quid notare, inſpicere, conderare. CHRON. GEN.
+fol. 223. El ereéro de que diximos cató, è
+aſsignó la concordacion de las ereas è los
+Planétas ſobre el nacimiento del niño. VI-
+LLAIZ. Chron. del R. Don Fern. IV. cap. 11.
+Y que cataen como aqueos que fueron an-
+tes que eos, criaran otros Reyes. MARIAN.
+Hi. Eſp. lib. 25. cap. 17. Mirad bien lo que
+haceis, catad que os engañan, y ſe burlan de
+vos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r78" type="paragraph">
+	<Coords>
+	<Point x="2540" y="3090"/>
+	<Point x="2547" y="3090"/>
+	<Point x="2554" y="3240"/>
+	<Point x="2488" y="3250"/>
+	<Point x="2485" y="3285"/>
+	<Point x="2357" y="3287"/>
+	<Point x="2222" y="3287"/>
+	<Point x="2182" y="3286"/>
+	<Point x="2078" y="3287"/>
+	<Point x="1980" y="3288"/>
+	<Point x="1920" y="3288"/>
+	<Point x="1805" y="3287"/>
+	<Point x="1688" y="3287"/>
+	<Point x="1626" y="3289"/>
+	<Point x="1611" y="3266"/>
+	<Point x="1613" y="3143"/>
+	<Point x="1561" y="3136"/>
+	<Point x="1564" y="3093"/>
+	<Point x="1589" y="3091"/>
+	<Point x="1630" y="3103"/>
+	<Point x="1723" y="3095"/>
+	<Point x="1848" y="3087"/>
+	<Point x="1872" y="3094"/>
+	<Point x="1931" y="3093"/>
+	<Point x="1942" y="3089"/>
+	<Point x="1961" y="3093"/>
+	<Point x="2515" y="3088"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CATAR. Tambien ſe toma por maliciar, penſar
+ò imaginar. Lat. Caidè &amp; acutè prſentiſcere.
+FUER. JUZ. Prolog. l. 7. E coſa deſcomonga-
+da catar home de las coſas como non debe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r80" type="paragraph">
+	<Coords>
+	<Point x="1573" y="3294"/>
+	<Point x="2321" y="3296"/>
+	<Point x="2558" y="3295"/>
+	<Point x="2559" y="3646"/>
+	<Point x="2458" y="3649"/>
+	<Point x="1852" y="3651"/>
+	<Point x="1849" y="3667"/>
+	<Point x="1837" y="3667"/>
+	<Point x="1773" y="3664"/>
+	<Point x="1746" y="3665"/>
+	<Point x="1732" y="3655"/>
+	<Point x="1624" y="3654"/>
+	<Point x="1616" y="3345"/>
+	<Point x="1572" y="3342"/>
+	<Point x="1570" y="3323"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CATAR. Vale algunas veces buſcar, ſolicitar, ò
+procurar. Lat. Inveigare. Perquirere. C. LU-
+CAN. cap. 4. Del conſejo que dió Patronio al
+Conde Lucanór quando quería catar manéra
+como ſalvae ſu ánima guardando ſu honra è
+ſu eádo. VILLAIZ. Chron. del R. Don Fern.
+IV. cap. 14. La Réina Doña Maria hizo en Al-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r81" type="catch-word">
+	<Coords>
+	<Point x="2516" y="3666"/>
+	<Point x="2496" y="3669"/>
+	<Point x="2495" y="3690"/>
+	<Point x="2510" y="3699"/>
+	<Point x="2564" y="3697"/>
+	<Point x="2559" y="3669"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ca-</Unicode></TextEquiv></TextRegion></Page></PcGts>

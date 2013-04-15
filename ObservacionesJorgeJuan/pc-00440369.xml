@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440369">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:26:29</Created>
+	<LastChange>2011-12-19T11:39:07</LastChange></Metadata>
+	<Page imageFilename="00440369.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r141" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="756" y="417"/>
+	<Point x="917" y="417"/>
+	<Point x="917" y="497"/>
+	<Point x="756" y="497"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>344</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="1251" y="385"/>
+	<Point x="2021" y="385"/>
+	<Point x="2021" y="490"/>
+	<Point x="1251" y="490"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r140" type="credit">
+	<Coords>
+	<Point x="1000" y="4011"/>
+	<Point x="1944" y="4011"/>
+	<Point x="1944" y="4094"/>
+	<Point x="1000" y="4094"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r53">
+	<Coords>
+	<Point x="565" y="504"/>
+	<Point x="2741" y="504"/>
+	<Point x="2741" y="3685"/>
+	<Point x="565" y="3685"/></Coords></TableRegion>
+	<TextRegion id="r141" type="catch-word">
+	<Coords>
+	<Point x="2582" y="3690"/>
+	<Point x="2582" y="3782"/>
+	<Point x="2727" y="3782"/>
+	<Point x="2727" y="3690"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ta‐</Unicode></TextEquiv></TextRegion></Page></PcGts>

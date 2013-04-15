@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444064">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T08:53:54</Created>
+	<LastChange>2011-12-19T11:39:23</LastChange></Metadata>
+	<Page imageFilename="00444064.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="921" y="46"/>
+	<Point x="1626" y="58"/>
+	<Point x="1626" y="205"/>
+	<Point x="921" y="216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="392" y="228"/>
+	<Point x="2085" y="221"/>
+	<Point x="2126" y="2632"/>
+	<Point x="976" y="2646"/>
+	<Point x="907" y="2671"/>
+	<Point x="353" y="2671"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>con el entendimiento en parte, aunque no
+podida merecer, ni ganar  no la da Dios.
+Eale muy bien a vn alma, que el Señor no
+la ha ſubido de aqui, no procurar ſubir ea,
+y noteſe eo mucho, porque no le aproue-
+chara mas de perder. Puede en ee eado
+hazer muchos aos para determinarſe a ha-
+zer mucho por Dios, y deſpertar el amor,
+otros para ayudar a crecer las virtudes, con‐
+forme a lo que dize vn libro, amado arte
+de ſeruir a Dios, que es muy bueno, y apro‐
+piado para los que ean en ee eado, por‐
+que obra el entendimiento. Puede repreſen‐
+tarſe delante de Chrio, y acoumbrarſe a
+enamorarſe mucho de ſu ſagrada humani‐
+dad, y traerle empre congo, y hablar con
+el, pedirle para ſus neceſsidades, y quexarſe-
+le de ſus trabajos, alegrarſe con el en ſus con
+rentos, y no oluidarle por eos, n procu‐
+rar oraciones compueas, no palabras con‐
+forme a ſus deeos y neceſsidades. Es ex‐
+celente manera de aprouechar, y muy en
+breue, y quien trabajare a traer congo
+ea precioſa compañia, y ſe aprouechare
+mucho dea, y de veras cobrare amor a
+ee Señor, a quien tanto deuemos, yo le
+doy por aprouechado. Para eo no ſe nos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1767" y="2646"/>
+	<Point x="2042" y="2641"/>
+	<Point x="2042" y="2744"/>
+	<Point x="1766" y="2744"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ha de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="501" y="3023"/>
+	<Point x="1678" y="3023"/>
+	<Point x="1678" y="3170"/>
+	<Point x="501" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="448" y="107"/>
+	<Point x="448" y="217"/>
+	<Point x="660" y="217"/>
+	<Point x="660" y="107"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>136</Unicode></TextEquiv></TextRegion></Page></PcGts>

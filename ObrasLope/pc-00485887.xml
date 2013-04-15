@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485887">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T09:59:11</Created>
+	<LastChange>2011-07-28T11:29:08</LastChange></Metadata>
+	<Page imageFilename="00485887.tif" imageWidth="2095" imageHeight="3093">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/>
+	<RegionRefIndexed regionRef="r10" index="2"/>
+	<RegionRefIndexed regionRef="r11" index="3"/>
+	<RegionRefIndexed regionRef="r12" index="4"/>
+	<RegionRefIndexed regionRef="r13" index="5"/>
+	<RegionRefIndexed regionRef="r14" index="6"/>
+	<RegionRefIndexed regionRef="r15" index="7"/>
+	<RegionRefIndexed regionRef="r16" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1647" y="78"/>
+	<Point x="1647" y="180"/>
+	<Point x="1776" y="180"/>
+	<Point x="1776" y="78"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>34</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="442" y="64"/>
+	<Point x="442" y="176"/>
+	<Point x="931" y="167"/>
+	<Point x="981" y="180"/>
+	<Point x="995" y="181"/>
+	<Point x="1038" y="180"/>
+	<Point x="1160" y="158"/>
+	<Point x="1259" y="158"/>
+	<Point x="1300" y="190"/>
+	<Point x="1421" y="190"/>
+	<Point x="1421" y="64"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comedia de Lope de Vega.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="180" y="192"/>
+	<Point x="180" y="459"/>
+	<Point x="383" y="491"/>
+	<Point x="477" y="448"/>
+	<Point x="1240" y="452"/>
+	<Point x="1340" y="478"/>
+	<Point x="1495" y="459"/>
+	<Point x="1516" y="411"/>
+	<Point x="1480" y="223"/>
+	<Point x="1467" y="242"/>
+	<Point x="1313" y="204"/>
+	<Point x="1257" y="173"/>
+	<Point x="1242" y="172"/>
+	<Point x="1016" y="193"/>
+	<Point x="991" y="182"/>
+	<Point x="972" y="180"/>
+	<Point x="874" y="178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pero porque razon palabras gao,
+ſalga la eſpada que a la patria amada
+la lengua no ha de obrar no la eſpada.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="597" y="464"/>
+	<Point x="595" y="549"/>
+	<Point x="815" y="546"/>
+	<Point x="1170" y="546"/>
+	<Point x="1176" y="464"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sale don Carcia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="95" y="557"/>
+	<Point x="169" y="1319"/>
+	<Point x="173" y="1348"/>
+	<Point x="653" y="1311"/>
+	<Point x="825" y="1325"/>
+	<Point x="832" y="1327"/>
+	<Point x="858" y="1326"/>
+	<Point x="1112" y="1310"/>
+	<Point x="1652" y="1319"/>
+	<Point x="1652" y="557"/>
+	<Point x="1462" y="544"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Don Garcia. A no ſer Rey dixera n reſpeo.
+que ſon tus penſamientos deſatinos,
+a vn erangero Rey tienes eleo
+donde tienes parientes y ſobrinos.
+Y es bueno que lo intentes en ſeereto
+como  ya por plaças y caminos
+no dixeen en publico que fuie
+Quien a la libre Eſpaña eſclaua hezie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="664" y="1323"/>
+	<Point x="664" y="1397"/>
+	<Point x="1135" y="1397"/>
+	<Point x="1135" y="1323"/>
+	<Point x="851" y="1327"/>
+	<Point x="847" y="1327"/>
+	<Point x="828" y="1330"/>
+	<Point x="782" y="1324"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sale don Ramiro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="95" y="1407"/>
+	<Point x="98" y="2155"/>
+	<Point x="991" y="2168"/>
+	<Point x="998" y="2182"/>
+	<Point x="1037" y="2182"/>
+	<Point x="1050" y="2164"/>
+	<Point x="1093" y="2165"/>
+	<Point x="1106" y="2186"/>
+	<Point x="1135" y="2165"/>
+	<Point x="1225" y="2167"/>
+	<Point x="1240" y="2178"/>
+	<Point x="1290" y="2174"/>
+	<Point x="1325" y="2162"/>
+	<Point x="1550" y="2153"/>
+	<Point x="1571" y="1407"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Don Ram. Algun viano montañes intonſo
+de toſca piel y de groſera abarca
+que preo digan el porer reſponſo
+en tal locura tu bajeza abarca.
+Mientras eo me ciña cao Alfonſo
+no ha de tener Eſpaña otro Monarcha
+no el que deſcendiere de Pela yo
+o ſere deos truenos fuego y rayo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="416" y="2173"/>
+	<Point x="422" y="2247"/>
+	<Point x="994" y="2261"/>
+	<Point x="1000" y="2275"/>
+	<Point x="1015" y="2279"/>
+	<Point x="1129" y="2278"/>
+	<Point x="1521" y="2252"/>
+	<Point x="1526" y="2173"/>
+	<Point x="1306" y="2178"/>
+	<Point x="1258" y="2181"/>
+	<Point x="1227" y="2188"/>
+	<Point x="1149" y="2176"/>
+	<Point x="1107" y="2194"/>
+	<Point x="1057" y="2173"/>
+	<Point x="1049" y="2184"/>
+	<Point x="1023" y="2185"/>
+	<Point x="1010" y="2184"/>
+	<Point x="1001" y="2194"/>
+	<Point x="984" y="2180"/>
+	<Point x="970" y="2181"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sale el Rey Alfonſo el Cao.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="80" y="2254"/>
+	<Point x="89" y="2529"/>
+	<Point x="194" y="2531"/>
+	<Point x="211" y="2557"/>
+	<Point x="255" y="2557"/>
+	<Point x="299" y="2539"/>
+	<Point x="962" y="2542"/>
+	<Point x="985" y="2563"/>
+	<Point x="1054" y="2545"/>
+	<Point x="1385" y="2564"/>
+	<Point x="1726" y="2557"/>
+	<Point x="1729" y="2276"/>
+	<Point x="1489" y="2266"/>
+	<Point x="1024" y="2288"/>
+	<Point x="993" y="2279"/>
+	<Point x="903" y="2266"/>
+	<Point x="452" y="2265"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rey Alfon. En mis palacios vozes cauaeros
+no han do mis delios tan atroces
+que an con vuero Rey os morays ﬁeros.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="86" y="2537"/>
+	<Point x="85" y="2859"/>
+	<Point x="1419" y="2859"/>
+	<Point x="1422" y="2581"/>
+	<Point x="1157" y="2556"/>
+	<Point x="1066" y="2553"/>
+	<Point x="1003" y="2574"/>
+	<Point x="980" y="2575"/>
+	<Point x="979" y="2561"/>
+	<Point x="958" y="2556"/>
+	<Point x="730" y="2560"/>
+	<Point x="345" y="2550"/>
+	<Point x="310" y="2561"/>
+	<Point x="245" y="2562"/>
+	<Point x="197" y="2565"/>
+	<Point x="176" y="2538"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hern. Aqui la razon ſola ha dado vozes
+no ſomos de tu Reyno los primeros
+o vaaos, o deudos que conoces</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="catch-word">
+	<Coords>
+	<Point x="1616" y="2766"/>
+	<Point x="1616" y="2869"/>
+	<Point x="1778" y="2869"/>
+	<Point x="1778" y="2766"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="credit">
+	<Coords>
+	<Point x="664" y="2978"/>
+	<Point x="664" y="3038"/>
+	<Point x="1392" y="3038"/>
+	<Point x="1392" y="2978"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r18" type="handwritten-annotation">
+	<Coords>
+	<Point x="756" y="2883"/>
+	<Point x="756" y="2968"/>
+	<Point x="850" y="2968"/>
+	<Point x="850" y="2883"/></Coords></GraphicRegion></Page></PcGts>

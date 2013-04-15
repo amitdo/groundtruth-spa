@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442948">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T13:35:41</Created>
+	<LastChange>2011-03-15T16:51:29</LastChange></Metadata>
+	<Page imageFilename="00442948.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r5" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="200" y="204"/>
+	<Point x="200" y="2356"/>
+	<Point x="1711" y="2352"/>
+	<Point x="1711" y="200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de nuero Señor. Yo he leido todos los Eſcritos dee
+Santo Varon, una i muchas vezes: i me parece la dotri
+na dellos una Teologia Miica, llena de ſabiduria del
+cielo; i claramente mueran la levantada i eminente
+luz que en ſu alma tenia ſu Autor, i cuan unida la traìa
+a Dios; porque las coſas, que alli deſcubre, lo mueran
+mui claro. I con aver leìdo yo muchos Autores que hã
+eſcrito de Teologia Miica, me parece no he encon-
+trado dotrina mas ſolida, ni mas levantada que la que
+eſcribio el dichoſo Santo Padre Fr. loan de la Cruz. I
+que los que la leen, enten en ſu alma grande luz en el
+camino eſpiritual: i yo, aunque poco aprovechado, con-
+fieſo de mi, que ento eo cuando los leo; i a miſmo
+ento un gran calor, queme alienta al amor de Dios; i
+por eſo los eimo i venero, i dellos me aprovecho para
+mi, i para encaminar al cielo otras almas que comuni-
+co, i para eo los hize trasladar. I entre otros papeles
+ſuyos dee lenguage i ſabiduria celeial, vino a mis ma
+nos originalmente un moncezillo de letra del Santo,
+en el cual deſcribe, como ſubira el alma a la perfecion.
+El cual eimè en mucho, porſer original propio dee
+Santo, i por lo que tiene de eſcelente dotrina de eſpiri-
+tu; i lo preſentè a la ſeñora DoñaTereſa de Zuñiga Du
+queſa de Arcos por un grã teſoro. I ſe, que de los dichos
+libros andan muchos traslados; i yo he hecho trasla-
+dar el dicho mõtezillo, i dadole a diverſas perſonas do-
+as, i a otras que no lo ſon, i todos le han eimado, a
+por lo que contiene, como por la ſantidad de ſu Autor.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="984" y="2559"/>
+	<Point x="983" y="2636"/>
+	<Point x="1128" y="2635"/>
+	<Point x="1128" y="2559"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>&lt;§&gt;&lt;§&gt;&lt;§&gt;	</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1489" y="2556"/>
+	<Point x="1490" y="2638"/>
+	<Point x="1701" y="2640"/>
+	<Point x="1701" y="2554"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ELO-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="781" y="2933"/>
+	<Point x="784" y="2993"/>
+	<Point x="1414" y="2988"/>
+	<Point x="1414" y="2933"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

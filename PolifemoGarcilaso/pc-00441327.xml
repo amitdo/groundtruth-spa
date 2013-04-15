@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441327">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T13:26:42</Created>
+	<LastChange>2011-05-12T13:40:13</LastChange></Metadata>
+	<Page imageFilename="00441327.tif" imageWidth="1495" imageHeight="2328">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r10" index="0"/>
+	<RegionRefIndexed regionRef="r11" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/>
+	<RegionRefIndexed regionRef="r9" index="3"/>
+	<RegionRefIndexed regionRef="r12" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="81" y="1444"/>
+	<Point x="1171" y="1444"/>
+	<Point x="1171" y="2027"/>
+	<Point x="1117" y="2031"/>
+	<Point x="768" y="2007"/>
+	<Point x="757" y="2013"/>
+	<Point x="752" y="2012"/>
+	<Point x="737" y="2014"/>
+	<Point x="686" y="2015"/>
+	<Point x="662" y="1998"/>
+	<Point x="478" y="2002"/>
+	<Point x="81" y="2027"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aqui la voz interrumpio ſagrada
+Dulce concento de feiuo coro,
+Que tu primera luz manifeada
+Solenizaua con rumor canoro:
+La noticia a los hados reſeruada
+Suſpendió el Betis, y á ſu arena de oro
+Alegre ſe calo: pero en tus años
+Vio el mũdo aũ mas glorioſos deſenga-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="434" y="2205"/>
+	<Point x="1034" y="2207"/>
+	<Point x="1036" y="2315"/>
+	<Point x="434" y="2307"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="536" y="2022"/>
+	<Point x="542" y="2086"/>
+	<Point x="744" y="2092"/>
+	<Point x="742" y="2065"/>
+	<Point x="742" y="2028"/>
+	<Point x="736" y="2021"/>
+	<Point x="724" y="2016"/>
+	<Point x="711" y="2016"/>
+	<Point x="693" y="2018"/>
+	<Point x="688" y="2017"/>
+	<Point x="630" y="2010"/>
+	<Point x="560" y="2010"/>
+	<Point x="534" y="2021"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FIN</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="105" y="184"/>
+	<Point x="105" y="807"/>
+	<Point x="1218" y="807"/>
+	<Point x="1218" y="184"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Segundo aplauſo lograràs contento,
+A tu patria deſpues reituydo,
+Donde ſolo podrà el merecimiento
+Facilitar honor agradecido:
+No el gran Monarca del Iberio aſsiẽto
+Desluzirà tus glorias con ſu oluido,
+Que en tus ombros, de nueuo generoſo,
+El peſo ilure depondrà guoſo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="89" y="818"/>
+	<Point x="89" y="1426"/>
+	<Point x="1218" y="1426"/>
+	<Point x="1218" y="818"/>
+	<Point x="176" y="815"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tercera vez aumentarà mi anto,
+Por tu auſencia, eos liquidos criales,
+Y Segura Partenope, entretanto
+Poeera tus acciones inmortales:
+Horribles ſombras de cobarde eſpanto
+Anunciaràn executiuos males
+Al tirano de Oriente, y ſu deino
+Verà el rebelde en tu valor diuino.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="catch-word">
+	<Coords>
+	<Point x="994" y="2038"/>
+	<Point x="994" y="2106"/>
+	<Point x="1187" y="2106"/>
+	<Point x="1187" y="2038"/>
+	<Point x="1059" y="2029"/>
+	<Point x="1032" y="2030"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(ños-</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00437899">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T00:03:49</Created>
+	<LastChange>2011-12-19T11:36:54</LastChange></Metadata>
+	<Page imageFilename="00437899.tif" imageWidth="2124" imageHeight="3165">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r15" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/>
+	<RegionRefIndexed regionRef="r11" index="6"/>
+	<RegionRefIndexed regionRef="r12" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/>
+	<RegionRefIndexed regionRef="r14" index="9"/></OrderedGroup></ReadingOrder>
+	<GraphicRegion id="r1" type="stamp">
+	<Coords>
+	<Point x="1850" y="408"/>
+	<Point x="1965" y="391"/>
+	<Point x="2115" y="406"/>
+	<Point x="2108" y="749"/>
+	<Point x="1863" y="724"/>
+	<Point x="1865" y="670"/>
+	<Point x="1861" y="651"/>
+	<Point x="1860" y="633"/>
+	<Point x="1847" y="615"/>
+	<Point x="1848" y="584"/></Coords></GraphicRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="441" y="28"/>
+	<Point x="1632" y="45"/>
+	<Point x="1630" y="62"/>
+	<Point x="1602" y="164"/>
+	<Point x="424" y="171"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>COMEDIA FAMOSA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="243" y="206"/>
+	<Point x="526" y="208"/>
+	<Point x="1791" y="213"/>
+	<Point x="1780" y="473"/>
+	<Point x="1647" y="474"/>
+	<Point x="1459" y="472"/>
+	<Point x="253" y="463"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EL PURGATORIO DE SAN PATRICIO.
+DE DON PEDRO CALDERON DE LA BARCA.
+PERSONAS QUE HABLAN EN ELLA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="132" y="698"/>
+	<Point x="933" y="699"/>
+	<Point x="941" y="803"/>
+	<Point x="123" y="803"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>JORNADA PRIMERA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="credit">
+	<Coords>
+	<Point x="786" y="3107"/>
+	<Point x="1444" y="3107"/>
+	<Point x="1444" y="3164"/>
+	<Point x="786" y="3164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="25" y="832"/>
+	<Point x="24" y="1041"/>
+	<Point x="149" y="1043"/>
+	<Point x="222" y="1055"/>
+	<Point x="282" y="1045"/>
+	<Point x="987" y="1051"/>
+	<Point x="987" y="832"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Salen Egerio, Rey de Irlanda, veido de
+pieles, Legario, vn Capitan, Polonia,
+y Lesbia detentendole.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="116" y="473"/>
+	<Point x="202" y="477"/>
+	<Point x="401" y="476"/>
+	<Point x="958" y="476"/>
+	<Point x="1827" y="484"/>
+	<Point x="1844" y="497"/>
+	<Point x="1845" y="536"/>
+	<Point x="1845" y="553"/>
+	<Point x="1843" y="613"/>
+	<Point x="1856" y="643"/>
+	<Point x="1859" y="657"/>
+	<Point x="1858" y="671"/>
+	<Point x="1854" y="683"/>
+	<Point x="102" y="672"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Egerio, Rey de Irlanda. Paulin viano. Polonia. Vn viejo viano. Angel bue�o
+San Patricio. Leogario. Lesbia. Lucia viana. Angel malo.
+Ludovico. Vn Capitan. Filipo. Dos Canonigos. Dos vianos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="1018" y="718"/>
+	<Point x="1365" y="717"/>
+	<Point x="1849" y="747"/>
+	<Point x="2034" y="757"/>
+	<Point x="2030" y="2992"/>
+	<Point x="1959" y="3010"/>
+	<Point x="1592" y="3029"/>
+	<Point x="1478" y="3013"/>
+	<Point x="1353" y="3025"/>
+	<Point x="990" y="3029"/>
+	<Point x="992" y="2903"/>
+	<Point x="988" y="2847"/>
+	<Point x="992" y="2781"/>
+	<Point x="991" y="2758"/>
+	<Point x="997" y="2661"/>
+	<Point x="1003" y="2561"/>
+	<Point x="1009" y="2371"/>
+	<Point x="1013" y="2267"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vna ama ſalia,
+que en dulces rayos manſamẽte ardia,
+y à las dos os tocava,
+haa que en vivo fuego os abraſava.
+Yo en medio de las dos, aunque queria
+ſu furia reir, ni me ofendia,
+ni me tocava el fuego.
+Con eo, pues, deſeſperado, y ciego,
+deſpierto de vn abiſmo,
+de vn ſueño, de vn letargo, vn paraſ-
+tanto mis penas creo, (mo;
+que me parece que la ama veo,
+y huyendo à cada pao,
+arder voſotras, pero yo me abraſo.
+Leſ. Fantaſmas ſon ligeras
+del ſueño,  introduce eas quimeras,
+al alma, y al ſentido. Tocan vn clarin.
+Mas què clarin es ee?
+Cap. Que han venido
+à nuero Puerto Naves.
+Pol. Dame licẽcia, grã ſeñor, puesſabes,
+que vn clarin quando ſuena,
+es para mi la voz de la Sirena;
+porque à Marte inclinada,
+del militar eruendo arrebatada,
+ſu muca me eva
+los ſentidos tràs sì, porque le deba
+fama à mis hechos, quando
+egue en hondas de fuego navegando
+al Sol mi nombre, y con velozes alas
+ai compita à la deidad de Palas;
+aunque mas parte debe à ee cuydado
+el ſaber  es Filipo el  ha egado. Vaſ.
+Cap. Sal ſeñor, à la oria</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="marginalia">
+	<Coords>
+	<Point x="24" y="1051"/>
+	<Point x="24" y="1181"/>
+	<Point x="94" y="1190"/>
+	<Point x="117" y="1181"/>
+	<Point x="136" y="1175"/>
+	<Point x="148" y="1168"/>
+	<Point x="154" y="1051"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rey.
+Leg.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="drop-capital">
+	<Coords>
+	<Point x="156" y="1056"/>
+	<Point x="149" y="1172"/>
+	<Point x="269" y="1167"/>
+	<Point x="273" y="1116"/>
+	<Point x="272" y="1069"/>
+	<Point x="250" y="1062"/>
+	<Point x="204" y="1055"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="276" y="1054"/>
+	<Point x="1005" y="1059"/>
+	<Point x="970" y="3039"/>
+	<Point x="0" y="3027"/>
+	<Point x="17" y="1184"/>
+	<Point x="80" y="1190"/>
+	<Point x="92" y="1192"/>
+	<Point x="128" y="1180"/>
+	<Point x="250" y="1182"/>
+	<Point x="271" y="1174"/>
+	<Point x="275" y="1114"/>
+	<Point x="274" y="1099"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Exadme dar la muerte.
+Señor, detente. Cap. Eſcucha.
+Leſ. Mira. Pol. Advierte.
+Rey. Dexadme, que deſde aquea
+corona ſu tocado,
+à las ſaladas hondas deſpeñado
+baxe, quien tantas penas apercibe,
+muera rabiando, quien rabiando vive.
+Leſ. Al mar furioſo ibas? (nes?
+Po. Durmiendo eavas, di ſeñor,  tie-
+Rey. Todo el tormento eterno
+de las ſedientas furias del inﬁerno,
+partos de aquea ﬁera
+de ete cueos, que la quarta esfera
+empaña con ſu aliento;
+en ﬁn todo ſu horror, y ſu tormento
+en mi pecho ſe encierra, (rra,
+ yo miſmo à mi miſmo me hago gue-
+quando en braço del ſueño
+vivo cadaver ſoy, porque es el dueño
+de mi vida fuerte,
+que vì vn palido amago de la muerte.
+Pol. Què ſoñae, que tanto te provoca?
+Rey. Ay hijas! atended, que de la boca
+de vn hermoſo mancebo,
+aunque miſero eſclavo, no me atrevo
+à injuriarle, y le alabo:
+al ﬁn, que de la boca de vn eſclavo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="signature-mark">
+	<Coords>
+	<Point x="1443" y="3024"/>
+	<Point x="1444" y="3084"/>
+	<Point x="1511" y="3090"/>
+	<Point x="1507" y="3022"/>
+	<Point x="1477" y="3019"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="catch-word">
+	<Coords>
+	<Point x="1834" y="3025"/>
+	<Point x="1834" y="3104"/>
+	<Point x="1929" y="3104"/>
+	<Point x="1933" y="3055"/>
+	<Point x="1929" y="3025"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>del</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1734" y="54"/>
+	<Point x="1734" y="191"/>
+	<Point x="1996" y="191"/>
+	<Point x="1996" y="54"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N.57.</Unicode></TextEquiv></TextRegion></Page></PcGts>

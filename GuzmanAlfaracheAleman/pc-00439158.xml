@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439158">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T08:37:28</Created>
+	<LastChange>2011-05-12T13:39:48</LastChange></Metadata>
+	<Page imageFilename="00439158.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r10" index="3"/>
+	<RegionRefIndexed regionRef="r12" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="575" y="83"/>
+	<Point x="1466" y="94"/>
+	<Point x="1467" y="162"/>
+	<Point x="573" y="153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="242" y="187"/>
+	<Point x="576" y="178"/>
+	<Point x="1716" y="174"/>
+	<Point x="1714" y="1098"/>
+	<Point x="249" y="1125"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>re, ò ſe entienda, ſeria importantiſmo el remedio:
+que ſe dexan muchas coſas de ſeguir, y los acarretos de-
+tienen las mercaderias por la coa deos. Cean los
+tratos, por temor de venteros y meſoneros, que por
+mal ſervicio evan buena paga, robando publicamen-
+te. Soy teigo aver vio coſas que en mucho tiempo
+no podria dezir de aqueas inſolencias: que  las oyera-
+mos paar entre barbaros, como à tales los culpara-
+mos, y tratandolas à los ojos, no hazemos caſo deas:
+no es pues prometo, que la reformacion de los cami-
+nos, puentes, y ventas, no es lo que requeria me-
+nos cuydado, que las muy graves, por el comercio y
+trato. Aunque ya quando yo de aqui ſalga, poco me
+quedarà de andar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="521" y="1133"/>
+	<Point x="1478" y="1126"/>
+	<Point x="1476" y="1223"/>
+	<Point x="525" y="1221"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITULO II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="267" y="1248"/>
+	<Point x="1717" y="1248"/>
+	<Point x="1717" y="1474"/>
+	<Point x="267" y="1474"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Como Guzman de Alfarache, dexando al ventero,
+ſe fue à Madrid, y egò hecho Picaro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1573" y="2632"/>
+	<Point x="1689" y="2630"/>
+	<Point x="1687" y="2676"/>
+	<Point x="1578" y="2682"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>con</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="528" y="2873"/>
+	<Point x="1314" y="2864"/>
+	<Point x="1307" y="2935"/>
+	<Point x="521" y="2932"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="300" y="112"/>
+	<Point x="303" y="175"/>
+	<Point x="425" y="175"/>
+	<Point x="425" y="100"/>
+	<Point x="368" y="89"/>
+	<Point x="312" y="92"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>124</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="drop-capital">
+	<Coords>
+	<Point x="257" y="1490"/>
+	<Point x="403" y="1485"/>
+	<Point x="400" y="1491"/>
+	<Point x="401" y="1503"/>
+	<Point x="399" y="1525"/>
+	<Point x="404" y="1540"/>
+	<Point x="403" y="1540"/>
+	<Point x="407" y="1553"/>
+	<Point x="401" y="1560"/>
+	<Point x="401" y="1581"/>
+	<Point x="403" y="1589"/>
+	<Point x="402" y="1599"/>
+	<Point x="401" y="1599"/>
+	<Point x="396" y="1613"/>
+	<Point x="392" y="1628"/>
+	<Point x="323" y="1630"/>
+	<Point x="305" y="1629"/>
+	<Point x="257" y="1631"/>
+	<Point x="257" y="1489"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>S</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="421" y="1490"/>
+	<Point x="421" y="1491"/>
+	<Point x="585" y="1491"/>
+	<Point x="585" y="1492"/>
+	<Point x="748" y="1492"/>
+	<Point x="748" y="1493"/>
+	<Point x="912" y="1493"/>
+	<Point x="912" y="1494"/>
+	<Point x="1076" y="1494"/>
+	<Point x="1076" y="1495"/>
+	<Point x="1239" y="1495"/>
+	<Point x="1239" y="1496"/>
+	<Point x="1403" y="1496"/>
+	<Point x="1403" y="1497"/>
+	<Point x="1567" y="1497"/>
+	<Point x="1567" y="1498"/>
+	<Point x="1730" y="1498"/>
+	<Point x="1730" y="1873"/>
+	<Point x="1731" y="1873"/>
+	<Point x="1716" y="2154"/>
+	<Point x="1713" y="2208"/>
+	<Point x="1716" y="2221"/>
+	<Point x="1721" y="2271"/>
+	<Point x="1715" y="2517"/>
+	<Point x="1732" y="2621"/>
+	<Point x="1733" y="2621"/>
+	<Point x="1658" y="2621"/>
+	<Point x="1658" y="2622"/>
+	<Point x="1584" y="2622"/>
+	<Point x="1584" y="2623"/>
+	<Point x="1510" y="2623"/>
+	<Point x="1510" y="2624"/>
+	<Point x="1436" y="2624"/>
+	<Point x="1436" y="2625"/>
+	<Point x="1362" y="2625"/>
+	<Point x="1362" y="2626"/>
+	<Point x="1288" y="2626"/>
+	<Point x="1288" y="2627"/>
+	<Point x="1214" y="2627"/>
+	<Point x="1214" y="2628"/>
+	<Point x="1140" y="2628"/>
+	<Point x="1140" y="2629"/>
+	<Point x="1066" y="2629"/>
+	<Point x="1066" y="2630"/>
+	<Point x="992" y="2630"/>
+	<Point x="992" y="2631"/>
+	<Point x="917" y="2631"/>
+	<Point x="917" y="2632"/>
+	<Point x="843" y="2632"/>
+	<Point x="843" y="2633"/>
+	<Point x="769" y="2633"/>
+	<Point x="769" y="2634"/>
+	<Point x="695" y="2634"/>
+	<Point x="695" y="2635"/>
+	<Point x="621" y="2635"/>
+	<Point x="621" y="2636"/>
+	<Point x="547" y="2636"/>
+	<Point x="547" y="2637"/>
+	<Point x="473" y="2637"/>
+	<Point x="473" y="2638"/>
+	<Point x="399" y="2638"/>
+	<Point x="399" y="2639"/>
+	<Point x="325" y="2639"/>
+	<Point x="325" y="2640"/>
+	<Point x="252" y="2640"/>
+	<Point x="252" y="2641"/>
+	<Point x="251" y="2641"/>
+	<Point x="251" y="2640"/>
+	<Point x="252" y="2640"/>
+	<Point x="252" y="2449"/>
+	<Point x="253" y="2449"/>
+	<Point x="253" y="2257"/>
+	<Point x="254" y="2257"/>
+	<Point x="254" y="2065"/>
+	<Point x="255" y="2065"/>
+	<Point x="255" y="1873"/>
+	<Point x="256" y="1873"/>
+	<Point x="256" y="1681"/>
+	<Point x="257" y="1681"/>
+	<Point x="247" y="1653"/>
+	<Point x="311" y="1647"/>
+	<Point x="333" y="1640"/>
+	<Point x="346" y="1641"/>
+	<Point x="406" y="1637"/>
+	<Point x="413" y="1639"/>
+	<Point x="405" y="1627"/>
+	<Point x="409" y="1621"/>
+	<Point x="403" y="1614"/>
+	<Point x="411" y="1574"/>
+	<Point x="427" y="1567"/>
+	<Point x="412" y="1557"/>
+	<Point x="416" y="1520"/>
+	<Point x="407" y="1513"/>
+	<Point x="419" y="1491"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Iendo aquea para mi una vida deſcanſada, nun-
+ca me parecio bien, y menos para mis intentos:
+porque al ﬁn era moço de ventero, que es peor que de
+ciego. Eava en camino paagero: no quiera ſer ai
+haado, y en aquel oﬁcio, por mil vidas que perdiera.
+Paavan moçuelos caminantes, de mi edad y tae,
+mas y menos; unos con dinerios, otros pidiendo li-
+moſna, dixe: Pues peſe à tal, he de ſer mas covarde, ò
+para menos que todos, pues no me pienſo perder de pu-
+lanime? Hize coraçon y buen roro à los trabajos,
+conque dexado mi venta, me fuy vitando las de ade-
+lante, con alguna moneda de veon, ganada en bue-
+na guerra, y de algunos mandados que hize, era poco,
+y conſumioſe preo. Comencè à pedir por Dios; algu-
+nos me davan à medio quarto, y los mas me dezian:
+Perdonad hĳo, con el medio quarto, y otros que ſe le
+arrimavan; comia ſegun alcançava el gaudeamus, y</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443154">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T20:09:17</Created>
+	<LastChange>2011-03-15T16:51:39</LastChange></Metadata>
+	<Page imageFilename="00443154.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="571" y="39"/>
+	<Point x="1007" y="49"/>
+	<Point x="1003" y="174"/>
+	<Point x="982" y="182"/>
+	<Point x="553" y="178"/>
+	<Point x="560" y="67"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro ſegundo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1492" y="64"/>
+	<Point x="1632" y="64"/>
+	<Point x="1632" y="160"/>
+	<Point x="1496" y="164"/>
+	<Point x="1471" y="128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>143</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="107" y="196"/>
+	<Point x="135" y="191"/>
+	<Point x="1653" y="203"/>
+	<Point x="1640" y="2732"/>
+	<Point x="1536" y="2738"/>
+	<Point x="1100" y="2751"/>
+	<Point x="94" y="2756"/>
+	<Point x="94" y="191"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cion, que  no es con gran cuidado del, no puede dexar
+de dar mueras, ò ſentimientos deo à la otra perſona;
+i  la otra perſona tiene el miſmo eſpiritu de la tal incli
+nacion (à lo que yo entiendo) no podra dexarſe de co-
+municarmucha aprehenon i eimacion deas coſas
+de una parte a otra. Pero no hilemos aora tan delgado,
+no hablemos de cuando el Confeſor, aora ſea inclina-
+do a eſo, aora no, no tiene el recato que ha de tener en
+deſembaraçar el alma, i deſnudar el apetito de ſu dici-
+pulo en eas coſas; antes ſe pone a platicar deo con el,
+i lo principal del lenguaje eſpiritual (como avemos di-
+cho) pone en eas Viones, dandoles indicios para co-
+nocer las Viones buenas i la malas. Que aunque es
+bueno ſaberlo, no ai para que meter al alma en ee tra
+bajo, cuidado, i peligro: no en alguna apretada nece-
+dad, como queda dicho. Pues en no hazer mucho caſo
+deas, negandolas, ſe eſcuſa todo eo, i ſe haze lo que
+ſe debe. I no ſolo eſo, no que eos meſmos, como ven,
+que las dichas tienen tales coſas de Dios, piden que rue
+guen a Dios les rev ele tales, ò tales coſas tocantes a
+eos, ò a otros, i las buenas almas lo hazen, penſando
+es licito, quererlo ſaber por aquea via. Que pienſan,
+que porque Dios quiere revelar, ò dezir algo ſobrena-
+turalmente como el quiere, ò para lo que el quiere, que
+es licito querer que nos revele, i aun pedirſelo. I  acae
+ce, que a ſu peticion lo revela Dios, aſegurãſe mas para
+otras ocaones; i pienſan  Dios gua dee modo de
+tratar con el; i a la verdad ni gua, ni lo quiere. I como
+eos eã aﬁcionados à aquea manera de trato cõ Dios
+aentaſeles mucho, i aanaſeles la voluntad naturalmẽ
+te en eo. Por como naturalmente guã, naturalmen-
+te ſe aanan à ſu modo de entender; i en lo que dizen,
+yerran muchas vezes, i ven eos que no les ſale como</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1444" y="2752"/>
+	<Point x="1545" y="2748"/>
+	<Point x="1620" y="2756"/>
+	<Point x="1620" y="2816"/>
+	<Point x="1446" y="2815"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>auian</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="783" y="2924"/>
+	<Point x="1420" y="2936"/>
+	<Point x="1424" y="2995"/>
+	<Point x="776" y="2993"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

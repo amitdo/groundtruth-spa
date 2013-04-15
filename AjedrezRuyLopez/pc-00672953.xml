@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672953">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 10.0</Creator>
+	<Created>2012-02-01T23:13:00</Created>
+	<LastChange>2012-03-16T05:28:13</LastChange></Metadata>
+	<Page imageFilename="00672953.tif" imageWidth="1868" imageHeight="2614">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="1413" y="343"/>
+	<Point x="1409" y="2243"/>
+	<Point x="1154" y="2257"/>
+	<Point x="214" y="2278"/>
+	<Point x="220" y="355"/>
+	<Point x="346" y="348"/>
+	<Point x="614" y="353"/>
+	<Point x="647" y="357"/>
+	<Point x="739" y="359"/>
+	<Point x="1113" y="349"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Multa iure ciuili contra rationem diſputãdi pro
+vtilitate cõmuni recepta ſunt. La libertad de po-
+der de la primera vez andar tres caſas, del modo
+que quiere, ò como peon, o como cauallo, ò co
+mo Roque, ò arﬁl, ò dama,para adelante:ò qual-
+quiera delos lados por ſu linea : ò como cauallo
+por qualquiera delas otras dos lineas, deſpues de
+la ſuya, ò eſquinado como arﬁl por encima de pie
+ça, ò peon ſuyo, o ageno, ò como quiere. Toda
+ea libertad le vino de ſer Rey. La qual à ningu-
+na otra pieça es concedida. Aduierta ſe,  en algu
+nas partes de Ytalia ſe vſa ſaltar el rey del primer
+ſalto toda ſu linea, dende ſu caſa haa la porera
+del roque:y juntar el roque a el para hazer el ſalto
+todo de vn lãce. Y en otras partes, no mas de tres
+caſas dẽde la ſuya haa la del cauallo:y por la par
+te dela dama, dẽde la ſuya haa el arﬁl: y eo lle-
+gãdo qualquiera delos roques jũto al miſmo rey
+todo de vn lance. Y en otras ſe vſa, de mas deo,
+de vn lance mouer vn peon, qual quieren, dela
+ſegunda linea, y meter el Rey en la caſa que antes
+eaua el peon. Pero todos eos vſos no ſon bue-
+nos , ni conſonantes ala razon. Porque  el Rey
+ſalta tres caſas tiene ſu ſigniﬁcacion, como dire-
+mos : la qual no podria tener con eotros abu-
+ſos. Aſsi que ee traado va ordenado debaxo
+de que no ſe vſen tales maneras de jugar. Conuie</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="560" y="275"/>
+	<Point x="560" y="342"/>
+	<Point x="655" y="354"/>
+	<Point x="764" y="356"/>
+	<Point x="827" y="342"/>
+	<Point x="1100" y="342"/>
+	<Point x="1100" y="275"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>del juego del axedrez.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="page-number">
+	<Coords>
+	<Point x="1358" y="290"/>
+	<Point x="1358" y="335"/>
+	<Point x="1417" y="335"/>
+	<Point x="1417" y="290"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>16</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1320" y="2265"/>
+	<Point x="1320" y="2310"/>
+	<Point x="1390" y="2310"/>
+	<Point x="1390" y="2265"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ne</Unicode></TextEquiv></TextRegion></Page></PcGts>

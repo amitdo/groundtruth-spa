@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438763">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T13:03:10</Created>
+	<LastChange>2011-06-24T14:04:16</LastChange></Metadata>
+	<Page imageFilename="00438763.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r11" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="381" y="52"/>
+	<Point x="500" y="67"/>
+	<Point x="1033" y="46"/>
+	<Point x="1065" y="96"/>
+	<Point x="1051" y="129"/>
+	<Point x="1028" y="141"/>
+	<Point x="590" y="150"/>
+	<Point x="368" y="151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBRAS DE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1201" y="2027"/>
+	<Point x="1250" y="2023"/>
+	<Point x="1280" y="2026"/>
+	<Point x="1348" y="2025"/>
+	<Point x="1355" y="2110"/>
+	<Point x="1269" y="2111"/>
+	<Point x="1222" y="2116"/>
+	<Point x="1194" y="2109"/>
+	<Point x="1206" y="2085"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Los</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="479" y="2083"/>
+	<Point x="988" y="2093"/>
+	<Point x="990" y="2140"/>
+	<Point x="482" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="126" y="153"/>
+	<Point x="117" y="947"/>
+	<Point x="129" y="969"/>
+	<Point x="170" y="997"/>
+	<Point x="258" y="1012"/>
+	<Point x="388" y="1002"/>
+	<Point x="447" y="1022"/>
+	<Point x="466" y="1026"/>
+	<Point x="497" y="1004"/>
+	<Point x="537" y="1008"/>
+	<Point x="644" y="1004"/>
+	<Point x="715" y="1017"/>
+	<Point x="755" y="1029"/>
+	<Point x="1202" y="1022"/>
+	<Point x="1287" y="1022"/>
+	<Point x="1381" y="992"/>
+	<Point x="1363" y="141"/>
+	<Point x="1140" y="140"/>
+	<Point x="1060" y="148"/>
+	<Point x="531" y="161"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>me voy por los caminos  ſe ofrecen:
+por eos eſparziendo
+mis quexas de vna en vna
+al viento, que las eua do parecen;
+pueo que no merecen,
+ſer de vos eſcuchadas,
+ni ſola vna hora oy das,
+he laima de ver que van perdidas
+por donde ſuelen yr las remediadas,
+a mi ſe han de tornar,
+a donde para empre auran de ear,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="marginalia">
+	<Coords>
+	<Point x="3" y="390"/>
+	<Point x="0" y="410"/>
+	<Point x="0" y="486"/>
+	<Point x="95" y="486"/>
+	<Point x="95" y="390"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>32</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="71" y="1015"/>
+	<Point x="71" y="2023"/>
+	<Point x="496" y="2041"/>
+	<Point x="1356" y="2014"/>
+	<Point x="1358" y="1027"/>
+	<Point x="1319" y="1027"/>
+	<Point x="773" y="1042"/>
+	<Point x="659" y="1019"/>
+	<Point x="639" y="1013"/>
+	<Point x="617" y="1013"/>
+	<Point x="496" y="1014"/>
+	<Point x="462" y="1034"/>
+	<Point x="383" y="1007"/>
+	<Point x="259" y="1018"/>
+	<Point x="101" y="995"/>
+	<Point x="76" y="992"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mas que harè, ſeñora,
+en tanta deſuentura?
+a donde yrè,  a vos no voy con ea?
+de quien podre yo agora
+valerme en mi triura,
+ en vos no haa abrigo mi querea?
+Vos ſola ſoys aquea,
+con quien mi voluntad
+recibe tal engaño,
+ viendo os holgar ẽpre cõ mi daño,
+me quexo a vos, como  en la verdad
+vuera condicion fuerte
+tuuiee alguna cuenta con mi muerte.</Unicode></TextEquiv></TextRegion></Page></PcGts>

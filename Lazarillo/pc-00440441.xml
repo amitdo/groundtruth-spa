@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440441">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T14:10:47</Created>
+	<LastChange>2011-07-05T14:26:00</LastChange></Metadata>
+	<Page imageFilename="00440441.tif" imageWidth="880" imageHeight="1599">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="76" y="70"/>
+	<Point x="76" y="376"/>
+	<Point x="844" y="376"/>
+	<Point x="844" y="70"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>deſco del que ſe lo ofrece, que es,
+y ſera de emplear mivida, y fuer-
+cas en ſu ſeruicio, de quien ſoy muy
+humilde criado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="384" y="797"/>
+	<Point x="384" y="871"/>
+	<Point x="858" y="871"/>
+	<Point x="858" y="797"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H. DE LVNA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="283" y="1551"/>
+	<Point x="283" y="1586"/>
+	<Point x="578" y="1586"/>
+	<Point x="578" y="1551"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r11" type="stamp">
+	<Coords>
+	<Point x="394" y="415"/>
+	<Point x="394" y="714"/>
+	<Point x="682" y="714"/>
+	<Point x="682" y="415"/></Coords></GraphicRegion>
+	<TextRegion id="r9" type="signature-mark">
+	<Coords>
+	<Point x="648" y="1213"/>
+	<Point x="708" y="1213"/>
+	<Point x="708" y="1302"/>
+	<Point x="648" y="1302"/>
+	<Point x="648" y="1288"/>
+	<Point x="590" y="1288"/>
+	<Point x="590" y="1216"/>
+	<Point x="648" y="1216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ã iij</Unicode></TextEquiv></TextRegion></Page></PcGts>

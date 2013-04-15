@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442007">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T12:29:58</Created>
+	<LastChange>2011-07-05T14:26:45</LastChange></Metadata>
+	<Page imageFilename="00442007.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r35" index="1"/>
+	<RegionRefIndexed regionRef="r34" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r10" index="5"/>
+	<RegionRefIndexed regionRef="r13" index="6"/>
+	<RegionRefIndexed regionRef="r14" index="7"/>
+	<RegionRefIndexed regionRef="r37" index="8"/>
+	<RegionRefIndexed regionRef="r36" index="9"/>
+	<RegionRefIndexed regionRef="r15" index="10"/>
+	<RegionRefIndexed regionRef="r19" index="11"/>
+	<RegionRefIndexed regionRef="r22" index="12"/>
+	<RegionRefIndexed regionRef="r24" index="13"/>
+	<RegionRefIndexed regionRef="r26" index="14"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="516" y="362"/>
+	<Point x="1440" y="366"/>
+	<Point x="1443" y="456"/>
+	<Point x="515" y="456"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Calvo, que no quiere encabellarſe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="406" y="1643"/>
+	<Point x="1564" y="1656"/>
+	<Point x="1558" y="1742"/>
+	<Point x="408" y="1738"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Calvo, que ſe diſsimula con no ſer Cortès.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="catch-word">
+	<Coords>
+	<Point x="1483" y="2858"/>
+	<Point x="1665" y="2862"/>
+	<Point x="1653" y="2962"/>
+	<Point x="1467" y="2958"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Feli-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="credit">
+	<Coords>
+	<Point x="706" y="3134"/>
+	<Point x="1458" y="3130"/>
+	<Point x="1467" y="3200"/>
+	<Point x="693" y="3197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="header">
+	<Coords>
+	<Point x="739" y="258"/>
+	<Point x="1230" y="254"/>
+	<Point x="1223" y="332"/>
+	<Point x="745" y="326"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MVSA VI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="page-number">
+	<Coords>
+	<Point x="1706" y="259"/>
+	<Point x="1859" y="253"/>
+	<Point x="1859" y="340"/>
+	<Point x="1703" y="341"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>423</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="424" y="509"/>
+	<Point x="1349" y="521"/>
+	<Point x="1357" y="592"/>
+	<Point x="1425" y="606"/>
+	<Point x="1416" y="682"/>
+	<Point x="1334" y="690"/>
+	<Point x="1323" y="750"/>
+	<Point x="1464" y="752"/>
+	<Point x="1468" y="823"/>
+	<Point x="1115" y="820"/>
+	<Point x="1100" y="831"/>
+	<Point x="1083" y="832"/>
+	<Point x="1079" y="820"/>
+	<Point x="1049" y="820"/>
+	<Point x="1036" y="823"/>
+	<Point x="1025" y="820"/>
+	<Point x="949" y="819"/>
+	<Point x="935" y="826"/>
+	<Point x="915" y="829"/>
+	<Point x="910" y="816"/>
+	<Point x="741" y="818"/>
+	<Point x="723" y="828"/>
+	<Point x="686" y="830"/>
+	<Point x="680" y="818"/>
+	<Point x="650" y="818"/>
+	<Point x="623" y="831"/>
+	<Point x="602" y="830"/>
+	<Point x="573" y="817"/>
+	<Point x="406" y="816"/>
+	<Point x="400" y="678"/>
+	<Point x="451" y="667"/>
+	<Point x="455" y="593"/>
+	<Point x="427" y="592"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EIo fue aqui, en donde Calavero;
+Calva no ſolo limpia, no hidalga:
+A ſeme vuelto la cabeça nalga,
+Antes gregueſcos pide, que ſombrero.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="327" y="823"/>
+	<Point x="585" y="828"/>
+	<Point x="595" y="831"/>
+	<Point x="626" y="834"/>
+	<Point x="637" y="829"/>
+	<Point x="652" y="825"/>
+	<Point x="676" y="826"/>
+	<Point x="686" y="833"/>
+	<Point x="731" y="830"/>
+	<Point x="743" y="823"/>
+	<Point x="897" y="825"/>
+	<Point x="911" y="831"/>
+	<Point x="940" y="827"/>
+	<Point x="1073" y="829"/>
+	<Point x="1094" y="840"/>
+	<Point x="1113" y="829"/>
+	<Point x="1264" y="831"/>
+	<Point x="1275" y="896"/>
+	<Point x="1662" y="907"/>
+	<Point x="1663" y="992"/>
+	<Point x="1427" y="993"/>
+	<Point x="1422" y="1059"/>
+	<Point x="1529" y="1068"/>
+	<Point x="1529" y="1120"/>
+	<Point x="979" y="1120"/>
+	<Point x="966" y="1136"/>
+	<Point x="945" y="1137"/>
+	<Point x="936" y="1118"/>
+	<Point x="830" y="1117"/>
+	<Point x="804" y="1136"/>
+	<Point x="780" y="1136"/>
+	<Point x="760" y="1117"/>
+	<Point x="411" y="1116"/>
+	<Point x="402" y="905"/>
+	<Point x="336" y="901"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Si qual Calvino ſoi, fuera Lutero,
+Contra el fuego no hai coſa que me valga:
+Ni vegiga, o melon, que tanto ſalga
+El mes de Agoo puea al * reero.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="338" y="1126"/>
+	<Point x="759" y="1127"/>
+	<Point x="793" y="1148"/>
+	<Point x="831" y="1127"/>
+	<Point x="929" y="1128"/>
+	<Point x="952" y="1148"/>
+	<Point x="995" y="1128"/>
+	<Point x="1305" y="1129"/>
+	<Point x="1308" y="1211"/>
+	<Point x="1552" y="1221"/>
+	<Point x="1544" y="1295"/>
+	<Point x="1253" y="1287"/>
+	<Point x="1257" y="1346"/>
+	<Point x="528" y="1345"/>
+	<Point x="518" y="1358"/>
+	<Point x="498" y="1357"/>
+	<Point x="496" y="1345"/>
+	<Point x="407" y="1342"/>
+	<Point x="401" y="1213"/>
+	<Point x="336" y="1204"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quierenme convertir a cabelleras,
+Los que en Madrid ſe raſcan pelo ageno,
+Repelando las otras calaveras.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="338" y="1352"/>
+	<Point x="487" y="1353"/>
+	<Point x="504" y="1367"/>
+	<Point x="535" y="1354"/>
+	<Point x="1398" y="1359"/>
+	<Point x="1425" y="1435"/>
+	<Point x="1335" y="1433"/>
+	<Point x="1333" y="1508"/>
+	<Point x="1433" y="1511"/>
+	<Point x="1432" y="1575"/>
+	<Point x="717" y="1575"/>
+	<Point x="678" y="1589"/>
+	<Point x="663" y="1573"/>
+	<Point x="398" y="1575"/>
+	<Point x="404" y="1419"/>
+	<Point x="339" y="1416"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Guedeja requiem empre la condeno,
+Gaen caparaçones ſus molleras,
+Mi começon resbale en calvatrueno.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="461" y="1801"/>
+	<Point x="1330" y="1807"/>
+	<Point x="1331" y="1883"/>
+	<Point x="1393" y="1881"/>
+	<Point x="1384" y="1964"/>
+	<Point x="1346" y="1971"/>
+	<Point x="1345" y="2043"/>
+	<Point x="1392" y="2056"/>
+	<Point x="1388" y="2109"/>
+	<Point x="1051" y="2105"/>
+	<Point x="1037" y="2113"/>
+	<Point x="1023" y="2105"/>
+	<Point x="921" y="2104"/>
+	<Point x="916" y="2117"/>
+	<Point x="897" y="2119"/>
+	<Point x="890" y="2104"/>
+	<Point x="401" y="2098"/>
+	<Point x="400" y="1948"/>
+	<Point x="480" y="1945"/>
+	<Point x="482" y="1873"/>
+	<Point x="454" y="1872"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Atalina, una vez que mi mollera
+Se arremangò, la ſucedio, direlo?
+Si, que no ſe la pudo cubrir pelo,
+Si no ſe dà a caſquete, o cabellera.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="330" y="2106"/>
+	<Point x="883" y="2113"/>
+	<Point x="892" y="2122"/>
+	<Point x="924" y="2118"/>
+	<Point x="940" y="2114"/>
+	<Point x="1294" y="2118"/>
+	<Point x="1322" y="2343"/>
+	<Point x="1514" y="2356"/>
+	<Point x="1516" y="2415"/>
+	<Point x="1025" y="2400"/>
+	<Point x="1012" y="2415"/>
+	<Point x="995" y="2416"/>
+	<Point x="984" y="2400"/>
+	<Point x="563" y="2395"/>
+	<Point x="548" y="2411"/>
+	<Point x="530" y="2412"/>
+	<Point x="519" y="2394"/>
+	<Point x="403" y="2393"/>
+	<Point x="409" y="2179"/>
+	<Point x="330" y="2174"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Deſembainado el caſco reverbera,
+Caſco parece ia de morteruelo,
+I por cubrirle a deſcortès apelo,
+Porque en ſombrero perdurable muera.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="326" y="2402"/>
+	<Point x="514" y="2405"/>
+	<Point x="537" y="2422"/>
+	<Point x="562" y="2406"/>
+	<Point x="975" y="2408"/>
+	<Point x="996" y="2425"/>
+	<Point x="1043" y="2410"/>
+	<Point x="1431" y="2417"/>
+	<Point x="1426" y="2497"/>
+	<Point x="1285" y="2494"/>
+	<Point x="1293" y="2562"/>
+	<Point x="1500" y="2570"/>
+	<Point x="1502" y="2646"/>
+	<Point x="1252" y="2631"/>
+	<Point x="1233" y="2648"/>
+	<Point x="1208" y="2646"/>
+	<Point x="1195" y="2632"/>
+	<Point x="398" y="2622"/>
+	<Point x="396" y="2478"/>
+	<Point x="325" y="2473"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Porque la calva occulta quede en ſalvo,
+Aventuro la vida, que io quiero
+Antes mil vezes ſer muerto, que calvo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="330" y="2626"/>
+	<Point x="1192" y="2641"/>
+	<Point x="1211" y="2653"/>
+	<Point x="1382" y="2656"/>
+	<Point x="1391" y="2800"/>
+	<Point x="1343" y="2800"/>
+	<Point x="1350" y="2861"/>
+	<Point x="394" y="2859"/>
+	<Point x="402" y="2700"/>
+	<Point x="328" y="2700"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Io no he de Cabellar por mi dinero,
+I pues de la mollera ſoi quatralvo,
+Sirvame de Cabeca mi ſombrero.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="drop-capital">
+	<Coords>
+	<Point x="331" y="511"/>
+	<Point x="418" y="512"/>
+	<Point x="419" y="636"/>
+	<Point x="331" y="640"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="heading">
+	<Coords>
+	<Point x="140" y="520"/>
+	<Point x="303" y="518"/>
+	<Point x="307" y="594"/>
+	<Point x="148" y="590"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>XVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="drop-capital">
+	<Coords>
+	<Point x="334" y="1803"/>
+	<Point x="449" y="1803"/>
+	<Point x="449" y="1920"/>
+	<Point x="338" y="1920"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="heading">
+	<Coords>
+	<Point x="132" y="1807"/>
+	<Point x="316" y="1804"/>
+	<Point x="323" y="1882"/>
+	<Point x="131" y="1879"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>XVII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="footnote">
+	<Coords>
+	<Point x="1633" y="1051"/>
+	<Point x="1878" y="1054"/>
+	<Point x="1879" y="1114"/>
+	<Point x="1639" y="1112"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* A la luz</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444322">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:25:07</Created>
+	<LastChange>2011-12-19T11:39:38</LastChange></Metadata>
+	<Page imageFilename="00444322.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="463" y="237"/>
+	<Point x="2020" y="224"/>
+	<Point x="2017" y="2634"/>
+	<Point x="1876" y="2634"/>
+	<Point x="1876" y="2640"/>
+	<Point x="1875" y="2666"/>
+	<Point x="1085" y="2664"/>
+	<Point x="463" y="2663"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ayuda ſu Magead para coſas mayores. Y
+an en coſas de humildad me acaecia que de
+ver que todas ſe aprouechan  no yo, por-
+que nunca fuy para nada, de que ſe yuan
+del coro coger todos los mantos. Parecia-
+me ſeruia aqueos angeles que ai alabauan
+a Dios, haa que no ſe como vinieron a en-
+tenderlo que no me corri yo poco, porque
+no egaua mi virtud a querer que enten-
+dieen eas coſas, y no deuia ſer por hu-
+milde, no porque no ſe rieen de mi co-
+mo eran can nonada, o Señor mio, que ver-
+guença es ver tantas maldades, y contar
+vnas arenitas que aun no las leuantaua de
+la tierra por vuero ſeruicio, no que to-
+do yua embuelto en mil miſerias, no ma-
+naua aun el agua debaxo de eas arenas de
+vuera gracia, para que las hiziee leuan-
+tar, o criador mio quien tuuiera alguna
+coſa que contar entre tantos males que fue-
+ra de tomo, pues quento las grandes mer-
+cedes que he recebido de vos. Es an Señor
+mio que no ſe como puede ſuﬀrirlo mi co-
+raçon, ni como podra quien eo leyere de-
+xarme de aborrecer, viendo tan mal ſerui-
+das tan grandiſsimas mercedes, y que no
+he verguença de contar eos ſeruicios, en</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1890" y="2640"/>
+	<Point x="2000" y="2640"/>
+	<Point x="2000" y="2723"/>
+	<Point x="1890" y="2723"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ﬁn</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="617" y="3077"/>
+	<Point x="1569" y="3077"/>
+	<Point x="1569" y="3150"/>
+	<Point x="617" y="3150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="956" y="101"/>
+	<Point x="1572" y="101"/>
+	<Point x="1572" y="200"/>
+	<Point x="956" y="200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="483" y="129"/>
+	<Point x="630" y="129"/>
+	<Point x="630" y="220"/>
+	<Point x="483" y="220"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>394</Unicode></TextEquiv></TextRegion></Page></PcGts>

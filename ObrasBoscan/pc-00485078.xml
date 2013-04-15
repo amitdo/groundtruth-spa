@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485078">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T13:10:35</Created>
+	<LastChange>2011-05-12T13:40:51</LastChange></Metadata>
+	<Page imageFilename="00485078.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="361" y="1419"/>
+	<Point x="1635" y="1419"/>
+	<Point x="1610" y="2520"/>
+	<Point x="1490" y="2495"/>
+	<Point x="1370" y="2492"/>
+	<Point x="1265" y="2497"/>
+	<Point x="1092" y="2542"/>
+	<Point x="412" y="2565"/>
+	<Point x="412" y="2500"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Traygo la vida, y el contentamiento
+Pueo en vn lançe que  ſe perdiee,
+No oſo penſar en lo que perderia.
+Lo que ha de ſer de mi, quien lo ſupiee.
+Mas quien s'atreue a tanto ſentimiento,
+Como en eo mi mal o el bien daria.
+Teme mi fantaa
+D'abrir ſu puerta a toda el eſperança:
+Porque nunca s'alcança
+Tanto'ſperar, n otro tanto miedo.
+En nada oſo'ar quedo:
+Tomo las coſas tanto por eremo,
+Que no menos el bien, que'l dolor temo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="622" y="3026"/>
+	<Point x="1390" y="3026"/>
+	<Point x="1386" y="3091"/>
+	<Point x="1261" y="3096"/>
+	<Point x="618" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="416" y="213"/>
+	<Point x="1657" y="209"/>
+	<Point x="1655" y="1342"/>
+	<Point x="392" y="1313"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Anda en rebueltas el Amor conmigo:
+No ſe en que ha de parar, o el, o yo.
+Tiempo ſeria pues d'hauer parado.
+No acabo el , ni determino el no.
+Mi ſeſo ſo color de ſerme amigo,
+M'aconſeja muy bien por mas cuydado.
+Para deſengañado
+Valgo poco: que me'ngañaron mucho.
+Con razon ya no'ſcucho
+Lo que's razõ: pues que mas me'nloquece.
+Ya eo no parece,
+Sino querer, que ande com'vn hombre,
+Que le quedo tan ſolamente'l nombre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1280" y="2505"/>
+	<Point x="1280" y="2587"/>
+	<Point x="1455" y="2587"/>
+	<Point x="1453" y="2500"/>
+	<Point x="1415" y="2497"/>
+	<Point x="1302" y="2500"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I iij</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="1270" y="192"/>
+	<Point x="1270" y="112"/>
+	<Point x="594" y="112"/>
+	<Point x="594" y="192"/>
+	<Point x="632" y="200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ CANCION.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1352" y="196"/>
+	<Point x="1352" y="104"/>
+	<Point x="1662" y="104"/>
+	<Point x="1662" y="196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. LV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

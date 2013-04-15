@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444251">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T11:16:40</Created>
+	<LastChange>2011-12-19T11:39:34</LastChange></Metadata>
+	<Page imageFilename="00444251.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="326" y="106"/>
+	<Point x="1498" y="113"/>
+	<Point x="1496" y="218"/>
+	<Point x="992" y="235"/>
+	<Point x="310" y="226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="138" y="238"/>
+	<Point x="931" y="239"/>
+	<Point x="1001" y="238"/>
+	<Point x="1488" y="223"/>
+	<Point x="1549" y="251"/>
+	<Point x="1609" y="260"/>
+	<Point x="1767" y="265"/>
+	<Point x="1763" y="2642"/>
+	<Point x="1696" y="2649"/>
+	<Point x="1571" y="2628"/>
+	<Point x="1392" y="2639"/>
+	<Point x="1263" y="2629"/>
+	<Point x="1098" y="2647"/>
+	<Point x="151" y="2682"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>hablar ſe entienden, lo que yo nunca ſupe,
+cierto es an, haa que el Señor por ſu bon-
+dad quiſo que lo viee, y me lo moro en
+vn arrobamiento, an es aca, que ſe entien-
+den Dios y el alma con ſolo querer ſu Mage-
+ad que lo entienda, n otro artiﬁcio para
+darſe a entender el amor que ſe tienen eos
+dos amigos. Como aca  dos perſonas ſe
+quieren mucho, y tienen buen entendimien-
+to, aun n ſeñas parece que ſe entienden
+con ſolo mirarſe, eo deue ſer an, que n
+ver noſotros como, de hito en hito ſe miran
+eos dos amantes, como lo dize el eſpoſo a la
+eſpoſa en los cantares, a lo que creo, he lo oy-
+do que es aqui. O benignidad admirable de
+Dios, que an os dexays mirar de vnos ojos
+que tan mal han mirado, como los de mi al-
+ma. Queden ya Señor dea via acoumbra
+dos en no mirar coſas baxas, ni que les contẽ-
+te ninguna fuera de vos. O ingratitud de los
+mortales, haa quando ha de egar, que ſe yo
+por eſperiencia que es verdad eo que digo,
+y que es lo menos de lo que vos hazeys cõ vn
+alma que traeys a tales terminos, lo que ſe
+puede dezir. O almas que aueys començado a
+tener oracion, y las que teneys verdadera fe
+que bienes podeys buſcar, aun en ea vida,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="signature-mark">
+	<Coords>
+	<Point x="1185" y="2644"/>
+	<Point x="1241" y="2636"/>
+	<Point x="1264" y="2633"/>
+	<Point x="1356" y="2640"/>
+	<Point x="1362" y="2727"/>
+	<Point x="1180" y="2729"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>X 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="605" y="3054"/>
+	<Point x="1575" y="3058"/>
+	<Point x="1575" y="3156"/>
+	<Point x="606" y="3160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1546" y="105"/>
+	<Point x="1546" y="244"/>
+	<Point x="1710" y="244"/>
+	<Point x="1710" y="105"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>323</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1521" y="2639"/>
+	<Point x="1507" y="2708"/>
+	<Point x="1505" y="2738"/>
+	<Point x="1709" y="2752"/>
+	<Point x="1720" y="2659"/>
+	<Point x="1561" y="2633"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dexe-</Unicode></TextEquiv></TextRegion></Page></PcGts>

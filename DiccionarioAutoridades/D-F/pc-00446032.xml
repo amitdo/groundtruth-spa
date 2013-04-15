@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00446032">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T19:17:09</Created>
+	<LastChange>2011-06-24T14:05:34</LastChange></Metadata>
+	<Page imageFilename="00446032.tif" imageWidth="2811" imageHeight="4093">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r12" index="1"/>
+	<RegionRefIndexed regionRef="r13" index="2"/>
+	<RegionRefIndexed regionRef="r23" index="3"/>
+	<RegionRefIndexed regionRef="r14" index="4"/>
+	<RegionRefIndexed regionRef="r15" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r27" type="credit">
+	<Coords>
+	<Point x="925" y="3926"/>
+	<Point x="1886" y="3926"/>
+	<Point x="1886" y="4017"/>
+	<Point x="925" y="4017"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r28" type="stamp">
+	<Coords>
+	<Point x="1149" y="136"/>
+	<Point x="1551" y="141"/>
+	<Point x="1555" y="263"/>
+	<Point x="1157" y="257"/></Coords></GraphicRegion>
+	<GraphicRegion id="r10" type="stamp">
+	<Coords>
+	<Point x="1753" y="2569"/>
+	<Point x="1961" y="2580"/>
+	<Point x="1980" y="2677"/>
+	<Point x="1978" y="2786"/>
+	<Point x="1965" y="2800"/>
+	<Point x="1865" y="2834"/>
+	<Point x="1761" y="2792"/></Coords></GraphicRegion>
+	<TextRegion id="r23" type="heading">
+	<Coords>
+	<Point x="671" y="3104"/>
+	<Point x="671" y="3105"/>
+	<Point x="813" y="3105"/>
+	<Point x="813" y="3106"/>
+	<Point x="955" y="3106"/>
+	<Point x="955" y="3107"/>
+	<Point x="1098" y="3107"/>
+	<Point x="1098" y="3108"/>
+	<Point x="1240" y="3108"/>
+	<Point x="1240" y="3109"/>
+	<Point x="1382" y="3109"/>
+	<Point x="1382" y="3110"/>
+	<Point x="1525" y="3110"/>
+	<Point x="1525" y="3111"/>
+	<Point x="1667" y="3111"/>
+	<Point x="1667" y="3112"/>
+	<Point x="1809" y="3112"/>
+	<Point x="1809" y="3113"/>
+	<Point x="1952" y="3113"/>
+	<Point x="1952" y="3114"/>
+	<Point x="2094" y="3114"/>
+	<Point x="2094" y="3115"/>
+	<Point x="2236" y="3115"/>
+	<Point x="2236" y="3116"/>
+	<Point x="2238" y="3116"/>
+	<Point x="2238" y="3140"/>
+	<Point x="2239" y="3140"/>
+	<Point x="2239" y="3173"/>
+	<Point x="2240" y="3173"/>
+	<Point x="2240" y="3205"/>
+	<Point x="2241" y="3205"/>
+	<Point x="2241" y="3238"/>
+	<Point x="2242" y="3238"/>
+	<Point x="2242" y="3252"/>
+	<Point x="2242" y="3251"/>
+	<Point x="2086" y="3251"/>
+	<Point x="2086" y="3250"/>
+	<Point x="1978" y="3248"/>
+	<Point x="1908" y="3248"/>
+	<Point x="1735" y="3244"/>
+	<Point x="1567" y="3246"/>
+	<Point x="1526" y="3248"/>
+	<Point x="1348" y="3248"/>
+	<Point x="1207" y="3246"/>
+	<Point x="1151" y="3244"/>
+	<Point x="1126" y="3246"/>
+	<Point x="994" y="3244"/>
+	<Point x="994" y="3243"/>
+	<Point x="838" y="3243"/>
+	<Point x="838" y="3242"/>
+	<Point x="682" y="3242"/>
+	<Point x="682" y="3241"/>
+	<Point x="533" y="3241"/>
+	<Point x="533" y="3214"/>
+	<Point x="532" y="3214"/>
+	<Point x="532" y="3104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>QUE CONTIENE LAS LETRAS D. E. F.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="534" y="515"/>
+	<Point x="505" y="1825"/>
+	<Point x="2255" y="1825"/>
+	<Point x="2250" y="515"/>
+	<Point x="2180" y="515"/>
+	<Point x="1442" y="523"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DICCIONARIO
+DE LA LENGUA CASTELLANA,
+EN QUE SE EXPLICA
+EL VERDADERO SENTIDO DE LAS VOCES,
+SU NATURALEZA Y CALIDAD,
+CON LAS PHRASES O MODOS DE HABLAR,
+LOS PROVERBIOS O REFRANES,
+Y OTRAS COSAS CONVENIENTES
+AL USO DE LA LENGUA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="515" y="1845"/>
+	<Point x="2255" y="1845"/>
+	<Point x="2250" y="2570"/>
+	<Point x="2250" y="2565"/>
+	<Point x="1705" y="2560"/>
+	<Point x="1700" y="2640"/>
+	<Point x="1300" y="2646"/>
+	<Point x="540" y="2630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DEDICADO
+AL REY NUESTRO SEÑOR
+DON PHELIPE V.
+(QUE DIOS GUARDE)
+A CUYAS REALES EXPENSAS SE HACE
+ea obra.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="heading">
+	<Coords>
+	<Point x="530" y="2673"/>
+	<Point x="1734" y="2657"/>
+	<Point x="1742" y="2830"/>
+	<Point x="1875" y="2846"/>
+	<Point x="1988" y="2815"/>
+	<Point x="2111" y="2811"/>
+	<Point x="2238" y="2819"/>
+	<Point x="2238" y="3092"/>
+	<Point x="1088" y="3084"/>
+	<Point x="729" y="3087"/>
+	<Point x="523" y="3050"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>COMPUESTO
+POR LA REAL ACADEMIA ESPAÑOLA.
+TOMO TERCERO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="heading">
+	<Coords>
+	<Point x="538" y="3250"/>
+	<Point x="546" y="3334"/>
+	<Point x="1490" y="3343"/>
+	<Point x="1587" y="3343"/>
+	<Point x="2237" y="3340"/>
+	<Point x="2241" y="3264"/>
+	<Point x="2123" y="3262"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CON PRIVILEGIO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="547" y="3405"/>
+	<Point x="545" y="3547"/>
+	<Point x="2223" y="3547"/>
+	<Point x="2238" y="3400"/>
+	<Point x="1152" y="3400"/>
+	<Point x="803" y="3402"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EN MADRID. En la Imprenta de la Real Académia Eſpañóla: Por la VIUDA
+de FRANCISCO DEL HIERRO. Año de 1732.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r16">
+	<Coords>
+	<Point x="525" y="3356"/>
+	<Point x="525" y="3396"/>
+	<Point x="2234" y="3396"/>
+	<Point x="2234" y="3356"/></Coords></SeparatorRegion></Page></PcGts>

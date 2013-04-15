@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441920">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T15:45:45</Created>
+	<LastChange>2011-07-05T14:26:40</LastChange></Metadata>
+	<Page imageFilename="00441920.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r16" index="0"/>
+	<RegionRefIndexed regionRef="r18" index="1"/>
+	<RegionRefIndexed regionRef="r17" index="2"/>
+	<RegionRefIndexed regionRef="r20" index="3"/>
+	<RegionRefIndexed regionRef="r21" index="4"/>
+	<RegionRefIndexed regionRef="r23" index="5"/>
+	<RegionRefIndexed regionRef="r24" index="6"/>
+	<RegionRefIndexed regionRef="r25" index="7"/>
+	<RegionRefIndexed regionRef="r22" index="8"/>
+	<RegionRefIndexed regionRef="r28" index="9"/>
+	<RegionRefIndexed regionRef="r26" index="10"/>
+	<RegionRefIndexed regionRef="r27" index="11"/>
+	<RegionRefIndexed regionRef="r29" index="12"/>
+	<RegionRefIndexed regionRef="r30" index="13"/>
+	<RegionRefIndexed regionRef="r31" index="14"/>
+	<RegionRefIndexed regionRef="r33" index="15"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r14" type="page-number">
+	<Coords>
+	<Point x="1766" y="145"/>
+	<Point x="1766" y="261"/>
+	<Point x="1980" y="261"/>
+	<Point x="1980" y="145"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>331</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="714" y="145"/>
+	<Point x="714" y="240"/>
+	<Point x="1240" y="240"/>
+	<Point x="1240" y="145"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MVSA V.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="heading">
+	<Coords>
+	<Point x="614" y="307"/>
+	<Point x="614" y="380"/>
+	<Point x="1447" y="380"/>
+	<Point x="1447" y="307"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LET. SATYRICA XVII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="213" y="407"/>
+	<Point x="194" y="430"/>
+	<Point x="189" y="465"/>
+	<Point x="207" y="570"/>
+	<Point x="264" y="576"/>
+	<Point x="296" y="586"/>
+	<Point x="317" y="586"/>
+	<Point x="385" y="570"/>
+	<Point x="552" y="575"/>
+	<Point x="595" y="575"/>
+	<Point x="674" y="567"/>
+	<Point x="1014" y="580"/>
+	<Point x="1014" y="428"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Olamente un dar me agrada,
+Que es el dar, en no dar nada.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="drop-capital">
+	<Coords>
+	<Point x="116" y="423"/>
+	<Point x="116" y="542"/>
+	<Point x="152" y="545"/>
+	<Point x="190" y="542"/>
+	<Point x="190" y="511"/>
+	<Point x="185" y="467"/>
+	<Point x="186" y="433"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>S</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r19" type="other">
+	<Coords>
+	<Point x="104" y="650"/>
+	<Point x="104" y="695"/>
+	<Point x="173" y="695"/>
+	<Point x="156" y="649"/></Coords></GraphicRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="107" y="585"/>
+	<Point x="102" y="628"/>
+	<Point x="127" y="639"/>
+	<Point x="157" y="639"/>
+	<Point x="165" y="644"/>
+	<Point x="183" y="643"/>
+	<Point x="194" y="670"/>
+	<Point x="175" y="1239"/>
+	<Point x="232" y="1252"/>
+	<Point x="259" y="1268"/>
+	<Point x="278" y="1271"/>
+	<Point x="301" y="1271"/>
+	<Point x="325" y="1249"/>
+	<Point x="996" y="1244"/>
+	<Point x="1014" y="585"/>
+	<Point x="653" y="576"/>
+	<Point x="641" y="585"/>
+	<Point x="403" y="580"/>
+	<Point x="294" y="596"/>
+	<Point x="226" y="576"/>
+	<Point x="148" y="577"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Si la proſa que gaè
+Contigo, Niña, orè,
+I aûn haa agora la oro,
+Que harè la plata, i el oro?
+Ia no he de dar, no fuere
+Al diablo, a quien me pidiere;
+Que tras la burla paada,
+Solamente un dar me agrada,
+Que es el dar en no dar nada.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="113" y="1248"/>
+	<Point x="104" y="1317"/>
+	<Point x="172" y="1352"/>
+	<Point x="164" y="1853"/>
+	<Point x="997" y="1871"/>
+	<Point x="997" y="1250"/>
+	<Point x="417" y="1255"/>
+	<Point x="318" y="1274"/>
+	<Point x="281" y="1276"/>
+	<Point x="254" y="1276"/>
+	<Point x="244" y="1269"/>
+	<Point x="229" y="1256"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Io ſe que  dea tierra
+Llevára el Rei a la guerra
+La niña, que io nombrara,
+Que a toda Olanda tomara,
+Por ſaber tomar mejor,
+Que el exercito maior
+De gente mas dotrinada.
+Solamente un dar me agrada,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="heading">
+	<Coords>
+	<Point x="588" y="1897"/>
+	<Point x="588" y="1969"/>
+	<Point x="1407" y="1969"/>
+	<Point x="1407" y="1897"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LET. SATYRICA XVIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1126" y="423"/>
+	<Point x="1128" y="500"/>
+	<Point x="1173" y="501"/>
+	<Point x="1190" y="516"/>
+	<Point x="1223" y="516"/>
+	<Point x="1260" y="496"/>
+	<Point x="1633" y="494"/>
+	<Point x="1962" y="507"/>
+	<Point x="1961" y="423"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Que es el dar en no dar nada.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="1059" y="506"/>
+	<Point x="1098" y="1159"/>
+	<Point x="1157" y="1176"/>
+	<Point x="1209" y="1192"/>
+	<Point x="1255" y="1187"/>
+	<Point x="1254" y="1170"/>
+	<Point x="1970" y="1171"/>
+	<Point x="1955" y="549"/>
+	<Point x="1719" y="501"/>
+	<Point x="1337" y="503"/>
+	<Point x="1335" y="519"/>
+	<Point x="1172" y="522"/>
+	<Point x="1160" y="506"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Solo apacibles reſpue as,
+I nuevas de algunas ﬁeas
+Le darè a la mas altiva;
+Que de diez reales arriva,
+Ia en todo mi juicio pienſo,
+Que ſe pueden dar a cenſo,
+Mejor que a page, o criada.
+Solamente un dar me agrada,
+Que es el dar en no dar nada.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="1049" y="1172"/>
+	<Point x="1042" y="1248"/>
+	<Point x="1098" y="1268"/>
+	<Point x="1098" y="1866"/>
+	<Point x="1196" y="1873"/>
+	<Point x="1935" y="1859"/>
+	<Point x="1944" y="1194"/>
+	<Point x="1309" y="1179"/>
+	<Point x="1298" y="1195"/>
+	<Point x="1167" y="1197"/>
+	<Point x="1148" y="1179"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sola me dio una muger,
+I ea me dio en que entẽder;
+Io entendi, que convenia
+No dar en la plateria,
+I aunque en ea a muchas vi,
+Solo palabra las di,
+De no dar plata labrada.
+Solamente un dar me agrada,
+Que es el dar en no dar nada.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="241" y="1990"/>
+	<Point x="232" y="2034"/>
+	<Point x="230" y="2051"/>
+	<Point x="224" y="2142"/>
+	<Point x="197" y="2152"/>
+	<Point x="168" y="2219"/>
+	<Point x="232" y="2230"/>
+	<Point x="249" y="2237"/>
+	<Point x="288" y="2238"/>
+	<Point x="317" y="2233"/>
+	<Point x="317" y="2222"/>
+	<Point x="992" y="2230"/>
+	<Point x="995" y="2004"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>uela, penſamiento, i diles
+A los ojos, que mas quiero,
+Que hai dinero.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="123" y="2236"/>
+	<Point x="118" y="2298"/>
+	<Point x="180" y="2339"/>
+	<Point x="185" y="2906"/>
+	<Point x="364" y="2937"/>
+	<Point x="719" y="2927"/>
+	<Point x="947" y="2911"/>
+	<Point x="941" y="2237"/>
+	<Point x="374" y="2231"/>
+	<Point x="330" y="2236"/>
+	<Point x="302" y="2248"/>
+	<Point x="285" y="2240"/>
+	<Point x="251" y="2241"/>
+	<Point x="237" y="2250"/>
+	<Point x="173" y="2238"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De el dinero, que pidio,
+A la que adorando eàs,
+Las nuevas la evarás,
+Pero los talegos no.
+Di, que doi en no dar io,
+Pues para haar el placer
+El ahorrar, i el tener,
+Han mudado los carriles.
+Vuela, penſamiento, i diles</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="drop-capital">
+	<Coords>
+	<Point x="97" y="2011"/>
+	<Point x="97" y="2119"/>
+	<Point x="178" y="2132"/>
+	<Point x="211" y="2119"/>
+	<Point x="231" y="2013"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>V</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1107" y="2019"/>
+	<Point x="1121" y="2155"/>
+	<Point x="1183" y="2177"/>
+	<Point x="1211" y="2176"/>
+	<Point x="1236" y="2158"/>
+	<Point x="1903" y="2154"/>
+	<Point x="1904" y="2019"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A los ojos, que mas quiero,
+Que hai dinero.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="1038" y="2171"/>
+	<Point x="1028" y="2252"/>
+	<Point x="1090" y="2243"/>
+	<Point x="1075" y="2453"/>
+	<Point x="1135" y="2456"/>
+	<Point x="1368" y="2456"/>
+	<Point x="1374" y="2468"/>
+	<Point x="1381" y="2473"/>
+	<Point x="1387" y="2476"/>
+	<Point x="1420" y="2471"/>
+	<Point x="1444" y="2458"/>
+	<Point x="1916" y="2461"/>
+	<Point x="1916" y="2171"/>
+	<Point x="1848" y="2164"/>
+	<Point x="1257" y="2167"/>
+	<Point x="1205" y="2188"/>
+	<Point x="1155" y="2179"/>
+	<Point x="1122" y="2164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A los ojos, que en miraos,
+La libertad perderas,
+Que hai dineros, les diràs;
+Pero no gana de daos:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="1101" y="2464"/>
+	<Point x="1104" y="2915"/>
+	<Point x="1258" y="2936"/>
+	<Point x="1450" y="2933"/>
+	<Point x="1475" y="2932"/>
+	<Point x="1498" y="2911"/>
+	<Point x="1690" y="2912"/>
+	<Point x="1705" y="2934"/>
+	<Point x="1723" y="2937"/>
+	<Point x="1745" y="2914"/>
+	<Point x="1869" y="2915"/>
+	<Point x="1879" y="2928"/>
+	<Point x="1938" y="2916"/>
+	<Point x="1932" y="2467"/>
+	<Point x="1482" y="2469"/>
+	<Point x="1408" y="2475"/>
+	<Point x="1397" y="2484"/>
+	<Point x="1380" y="2474"/>
+	<Point x="1360" y="2474"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Io ſolo pienſo cerraos,
+Que no ſon la lei de Dios,
+Que ſe hã de encerrar en dos,
+Sino en talegos cerriles.
+Vuela, penſamiento, i diles
+A los ojos, que mas quiero,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="signature-mark">
+	<Coords>
+	<Point x="1463" y="2935"/>
+	<Point x="1455" y="2946"/>
+	<Point x="1467" y="2992"/>
+	<Point x="1609" y="2997"/>
+	<Point x="1609" y="2949"/>
+	<Point x="1522" y="2928"/>
+	<Point x="1490" y="2933"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tt 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="catch-word">
+	<Coords>
+	<Point x="1754" y="2929"/>
+	<Point x="1747" y="3014"/>
+	<Point x="1938" y="3014"/>
+	<Point x="1931" y="2933"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="credit">
+	<Coords>
+	<Point x="707" y="3133"/>
+	<Point x="707" y="3195"/>
+	<Point x="1478" y="3195"/>
+	<Point x="1478" y="3133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

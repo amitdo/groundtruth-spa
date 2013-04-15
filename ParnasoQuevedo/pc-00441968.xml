@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441968">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T06:53:23</Created>
+	<LastChange>2011-07-05T14:26:43</LastChange></Metadata>
+	<Page imageFilename="00441968.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r28" index="0"/>
+	<RegionRefIndexed regionRef="r29" index="1"/>
+	<RegionRefIndexed regionRef="r30" index="2"/>
+	<RegionRefIndexed regionRef="r31" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r32" index="5"/>
+	<RegionRefIndexed regionRef="r51" index="6"/>
+	<RegionRefIndexed regionRef="r52" index="7"/>
+	<RegionRefIndexed regionRef="r37" index="8"/>
+	<RegionRefIndexed regionRef="r38" index="9"/>
+	<RegionRefIndexed regionRef="r39" index="10"/>
+	<RegionRefIndexed regionRef="r40" index="11"/>
+	<RegionRefIndexed regionRef="r33" index="12"/>
+	<RegionRefIndexed regionRef="r34" index="13"/>
+	<RegionRefIndexed regionRef="r35" index="14"/>
+	<RegionRefIndexed regionRef="r47" index="15"/>
+	<RegionRefIndexed regionRef="r46" index="16"/>
+	<RegionRefIndexed regionRef="r44" index="17"/>
+	<RegionRefIndexed regionRef="r43" index="18"/>
+	<RegionRefIndexed regionRef="r48" index="19"/>
+	<RegionRefIndexed regionRef="r42" index="20"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="drop-capital">
+	<Coords>
+	<Point x="92" y="757"/>
+	<Point x="205" y="757"/>
+	<Point x="201" y="879"/>
+	<Point x="157" y="890"/>
+	<Point x="92" y="877"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>V</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="header">
+	<Coords>
+	<Point x="759" y="188"/>
+	<Point x="753" y="275"/>
+	<Point x="1242" y="270"/>
+	<Point x="1251" y="179"/>
+	<Point x="1242" y="174"/>
+	<Point x="766" y="168"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MVSA V.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="page-number">
+	<Coords>
+	<Point x="1693" y="132"/>
+	<Point x="1685" y="281"/>
+	<Point x="1870" y="300"/>
+	<Point x="1896" y="296"/>
+	<Point x="1896" y="132"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>383</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="45" y="261"/>
+	<Point x="45" y="480"/>
+	<Point x="703" y="480"/>
+	<Point x="703" y="261"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vagelito nuevo,
+Hai, que me ahogo;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1066" y="292"/>
+	<Point x="1054" y="467"/>
+	<Point x="1216" y="475"/>
+	<Point x="1693" y="467"/>
+	<Point x="1688" y="298"/>
+	<Point x="1536" y="297"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I me matan las velas
+A puros ſoplos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="heading">
+	<Coords>
+	<Point x="235" y="512"/>
+	<Point x="235" y="603"/>
+	<Point x="1803" y="603"/>
+	<Point x="1803" y="512"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LOS SOPONES DE SALAMANCA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="heading">
+	<Coords>
+	<Point x="783" y="616"/>
+	<Point x="783" y="709"/>
+	<Point x="1235" y="709"/>
+	<Point x="1235" y="616"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BAILE IV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="219" y="725"/>
+	<Point x="216" y="899"/>
+	<Point x="146" y="905"/>
+	<Point x="147" y="1067"/>
+	<Point x="145" y="1100"/>
+	<Point x="142" y="1121"/>
+	<Point x="195" y="1125"/>
+	<Point x="315" y="1136"/>
+	<Point x="333" y="1138"/>
+	<Point x="385" y="1130"/>
+	<Point x="384" y="1120"/>
+	<Point x="386" y="1084"/>
+	<Point x="514" y="1090"/>
+	<Point x="865" y="1080"/>
+	<Point x="967" y="1074"/>
+	<Point x="967" y="725"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N Licenciado Fregon,
+Bachier de manteina,
+Grande Replica en la Sopa,
+Grande argumento en Eſqui-
+bias.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="993" y="719"/>
+	<Point x="1001" y="1046"/>
+	<Point x="1118" y="1061"/>
+	<Point x="1172" y="1079"/>
+	<Point x="1194" y="1078"/>
+	<Point x="1266" y="1058"/>
+	<Point x="1411" y="1070"/>
+	<Point x="1505" y="1066"/>
+	<Point x="1522" y="1085"/>
+	<Point x="1562" y="1083"/>
+	<Point x="1572" y="1066"/>
+	<Point x="1801" y="1075"/>
+	<Point x="1953" y="1072"/>
+	<Point x="1958" y="1045"/>
+	<Point x="1958" y="719"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Catalina de Perales,
+Vna Gaega maldita,
+Mas preciada de perniles,
+Que Rute, i Algarrovias.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords>
+	<Point x="987" y="1064"/>
+	<Point x="987" y="1062"/>
+	<Point x="984" y="1350"/>
+	<Point x="1114" y="1360"/>
+	<Point x="1700" y="1372"/>
+	<Point x="1698" y="1389"/>
+	<Point x="1753" y="1387"/>
+	<Point x="1953" y="1377"/>
+	<Point x="1929" y="1109"/>
+	<Point x="1741" y="1081"/>
+	<Point x="1598" y="1075"/>
+	<Point x="1529" y="1100"/>
+	<Point x="1505" y="1076"/>
+	<Point x="1429" y="1080"/>
+	<Point x="1402" y="1076"/>
+	<Point x="1383" y="1081"/>
+	<Point x="1228" y="1086"/>
+	<Point x="1155" y="1087"/>
+	<Point x="1137" y="1072"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mui poco culta de caldos,
+Por ſu claridà inﬁnita,
+Abrebiadora de traos
+Dentro de una almondiguia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="988" y="1369"/>
+	<Point x="987" y="1643"/>
+	<Point x="1117" y="1658"/>
+	<Point x="1276" y="1663"/>
+	<Point x="1683" y="1670"/>
+	<Point x="1912" y="1652"/>
+	<Point x="1909" y="1401"/>
+	<Point x="1707" y="1400"/>
+	<Point x="1640" y="1377"/>
+	<Point x="1270" y="1375"/>
+	<Point x="1262" y="1373"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I para el carnero verde
+Muger de tan alta guiſa,
+Que aûn a la libra del Cielo
+Vrtarà la media libra.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords>
+	<Point x="83" y="1744"/>
+	<Point x="75" y="2028"/>
+	<Point x="211" y="2034"/>
+	<Point x="486" y="2034"/>
+	<Point x="489" y="2051"/>
+	<Point x="521" y="2053"/>
+	<Point x="537" y="2044"/>
+	<Point x="541" y="2029"/>
+	<Point x="964" y="2045"/>
+	<Point x="953" y="1746"/>
+	<Point x="850" y="1742"/>
+	<Point x="785" y="1748"/>
+	<Point x="771" y="1742"/>
+	<Point x="476" y="1747"/>
+	<Point x="454" y="1756"/>
+	<Point x="317" y="1754"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lleva por cueo, i por puños
+Sus aomos de camiſa,
+Tae de arraſar habares,
+Cara de enguir morcias.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords>
+	<Point x="75" y="2043"/>
+	<Point x="80" y="2096"/>
+	<Point x="78" y="2327"/>
+	<Point x="405" y="2328"/>
+	<Point x="415" y="2343"/>
+	<Point x="436" y="2343"/>
+	<Point x="443" y="2329"/>
+	<Point x="511" y="2329"/>
+	<Point x="523" y="2335"/>
+	<Point x="578" y="2329"/>
+	<Point x="578" y="2343"/>
+	<Point x="612" y="2355"/>
+	<Point x="944" y="2333"/>
+	<Point x="951" y="2056"/>
+	<Point x="567" y="2043"/>
+	<Point x="537" y="2066"/>
+	<Point x="478" y="2064"/>
+	<Point x="387" y="2044"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Con un ferreruelo calvo,
+I una ſotana lampiña
+De un limie desbarbado
+Entre capon, i polia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="76" y="2339"/>
+	<Point x="72" y="2627"/>
+	<Point x="186" y="2632"/>
+	<Point x="198" y="2631"/>
+	<Point x="395" y="2632"/>
+	<Point x="669" y="2635"/>
+	<Point x="953" y="2635"/>
+	<Point x="954" y="2583"/>
+	<Point x="950" y="2347"/>
+	<Point x="666" y="2366"/>
+	<Point x="628" y="2362"/>
+	<Point x="577" y="2363"/>
+	<Point x="568" y="2341"/>
+	<Point x="489" y="2339"/>
+	<Point x="421" y="2356"/>
+	<Point x="414" y="2348"/>
+	<Point x="400" y="2339"/>
+	<Point x="370" y="2349"/>
+	<Point x="364" y="2341"/>
+	<Point x="347" y="2336"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mui atuſado de bragas,
+Mui unico de camiſa,
+Para el bodegon Eſcoto,
+Para la eafa Tomia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords>
+	<Point x="83" y="2670"/>
+	<Point x="85" y="2738"/>
+	<Point x="85" y="2752"/>
+	<Point x="93" y="2993"/>
+	<Point x="935" y="2993"/>
+	<Point x="935" y="2644"/>
+	<Point x="856" y="2646"/>
+	<Point x="840" y="2647"/>
+	<Point x="191" y="2640"/>
+	<Point x="83" y="2635"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A recibirle ſaliò,
+El Señor ſe lo reciba,
+Para las noches mui ama,
+Para las compras mui ſa,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="credit">
+	<Coords>
+	<Point x="670" y="3103"/>
+	<Point x="670" y="3193"/>
+	<Point x="1483" y="3193"/>
+	<Point x="1483" y="3103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="catch-word">
+	<Coords>
+	<Point x="1770" y="2935"/>
+	<Point x="1770" y="3067"/>
+	<Point x="1948" y="3067"/>
+	<Point x="1948" y="2935"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="1008" y="2571"/>
+	<Point x="1001" y="2671"/>
+	<Point x="1092" y="2671"/>
+	<Point x="1104" y="2865"/>
+	<Point x="1539" y="2882"/>
+	<Point x="1547" y="2900"/>
+	<Point x="1858" y="2896"/>
+	<Point x="1869" y="2733"/>
+	<Point x="1859" y="2615"/>
+	<Point x="1827" y="2600"/>
+	<Point x="1804" y="2601"/>
+	<Point x="1682" y="2589"/>
+	<Point x="1508" y="2581"/>
+	<Point x="1334" y="2597"/>
+	<Point x="1138" y="2583"/>
+	<Point x="1113" y="2576"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pulgas tengo no hai dudar,
+I  medexo picar,
+Es de los que dan en dar,
+I con dineros replican.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords>
+	<Point x="1010" y="2271"/>
+	<Point x="995" y="2378"/>
+	<Point x="1082" y="2391"/>
+	<Point x="1063" y="2556"/>
+	<Point x="1170" y="2578"/>
+	<Point x="1223" y="2581"/>
+	<Point x="1281" y="2571"/>
+	<Point x="1354" y="2591"/>
+	<Point x="1377" y="2582"/>
+	<Point x="1394" y="2571"/>
+	<Point x="1459" y="2573"/>
+	<Point x="1473" y="2571"/>
+	<Point x="1650" y="2578"/>
+	<Point x="1780" y="2587"/>
+	<Point x="1804" y="2301"/>
+	<Point x="1752" y="2301"/>
+	<Point x="1527" y="2291"/>
+	<Point x="1421" y="2290"/>
+	<Point x="1409" y="2292"/>
+	<Point x="1396" y="2286"/>
+	<Point x="1386" y="2284"/>
+	<Point x="1364" y="2282"/>
+	<Point x="1267" y="2282"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Puigas me pican,
+El candil ea muerto,
+Ergo ſequitur ſequitur,
+Que me pican atiento.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="paragraph">
+	<Coords>
+	<Point x="1011" y="1998"/>
+	<Point x="1014" y="2185"/>
+	<Point x="1004" y="2252"/>
+	<Point x="1118" y="2267"/>
+	<Point x="1368" y="2268"/>
+	<Point x="1391" y="2281"/>
+	<Point x="1403" y="2285"/>
+	<Point x="1418" y="2268"/>
+	<Point x="1768" y="2295"/>
+	<Point x="1825" y="2258"/>
+	<Point x="1807" y="2018"/>
+	<Point x="1647" y="1987"/>
+	<Point x="1567" y="1985"/>
+	<Point x="1488" y="1983"/>
+	<Point x="1437" y="1981"/>
+	<Point x="1385" y="1999"/>
+	<Point x="1346" y="1980"/>
+	<Point x="1312" y="1980"/>
+	<Point x="1263" y="1983"/>
+	<Point x="1130" y="1988"/>
+	<Point x="1117" y="1989"/>
+	<Point x="1088" y="1978"/>
+	<Point x="1044" y="1970"/>
+	<Point x="1020" y="1970"/>
+	<Point x="1008" y="1992"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I porque oiendo latin,
+La conozca por la pinta,
+La canto mui Cicerona
+Ea começon latina.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords>
+	<Point x="1011" y="1671"/>
+	<Point x="1013" y="1775"/>
+	<Point x="1042" y="1776"/>
+	<Point x="1034" y="1940"/>
+	<Point x="1102" y="1973"/>
+	<Point x="1314" y="1970"/>
+	<Point x="1355" y="1971"/>
+	<Point x="1359" y="1982"/>
+	<Point x="1371" y="1985"/>
+	<Point x="1388" y="1985"/>
+	<Point x="1397" y="1973"/>
+	<Point x="1503" y="1977"/>
+	<Point x="1522" y="1972"/>
+	<Point x="1589" y="1972"/>
+	<Point x="1810" y="1979"/>
+	<Point x="1830" y="1978"/>
+	<Point x="1823" y="1701"/>
+	<Point x="1782" y="1688"/>
+	<Point x="1696" y="1682"/>
+	<Point x="1272" y="1672"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Arrufaldada de cara,
+I arruﬁanada de via,
+I la color, i el aliento
+Entre Caçuela, i ſalchicha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords>
+	<Point x="1014" y="2981"/>
+	<Point x="1525" y="2977"/>
+	<Point x="1526" y="2900"/>
+	<Point x="1513" y="2889"/>
+	<Point x="1089" y="2879"/>
+	<Point x="1047" y="2872"/>
+	<Point x="1015" y="2873"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pulgas me pican,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="paragraph">
+	<Coords>
+	<Point x="83" y="1127"/>
+	<Point x="80" y="1426"/>
+	<Point x="230" y="1432"/>
+	<Point x="710" y="1437"/>
+	<Point x="821" y="1439"/>
+	<Point x="838" y="1445"/>
+	<Point x="943" y="1440"/>
+	<Point x="946" y="1421"/>
+	<Point x="964" y="1129"/>
+	<Point x="416" y="1142"/>
+	<Point x="371" y="1146"/>
+	<Point x="358" y="1143"/>
+	<Point x="325" y="1143"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De noche es el quidam pauper,
+Es el domine de dia,
+Si le convidan Vonete,
+Gorra  no le convidan,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="paragraph">
+	<Coords>
+	<Point x="76" y="1437"/>
+	<Point x="88" y="1734"/>
+	<Point x="297" y="1734"/>
+	<Point x="466" y="1741"/>
+	<Point x="918" y="1731"/>
+	<Point x="916" y="1492"/>
+	<Point x="916" y="1464"/>
+	<Point x="582" y="1442"/>
+	<Point x="291" y="1441"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En vademecum de pez
+Lleva licion de las viñas.
+Dicipulo a todas horas
+De Platon, i de Eſcudia.</Unicode></TextEquiv></TextRegion></Page></PcGts>

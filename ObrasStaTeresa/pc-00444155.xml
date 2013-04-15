@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444155">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:34:44</Created>
+	<LastChange>2011-12-19T11:39:28</LastChange></Metadata>
+	<Page imageFilename="00444155.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="320" y="76"/>
+	<Point x="1482" y="94"/>
+	<Point x="1494" y="212"/>
+	<Point x="304" y="214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="132" y="224"/>
+	<Point x="1700" y="232"/>
+	<Point x="1769" y="2616"/>
+	<Point x="1617" y="2626"/>
+	<Point x="1495" y="2664"/>
+	<Point x="1412" y="2632"/>
+	<Point x="1241" y="2633"/>
+	<Point x="975" y="2661"/>
+	<Point x="148" y="2670"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que es aora deſpues que tẽgo ofﬁcio de prio-
+ra) no lo dixeen. Mas otras vezes como co-
+mẽçaua a ver, que yua a hazer el Señor lo miſ
+mo, y vna eando perſonas principales de ſe-
+ñoras,  era la ﬁea de la vocacion, en vn ſer-
+mon, tendiame en el ſuelo, y egauanſe a te-
+nerme el cuerpo, y toda via ſe echaua de
+ver. Suplique mucho al Señor que no qui-
+ee ya darme mas mercedes, que tuuieen
+mueras exteriores, porque yo eaua canſa-
+da ya de andar con tanta quenta, y que aque-
+a merced no podia ſu Magead hazermela
+n que ſe entendiee, parece ha do por ſu
+bondad ſeruido de oyrme,  nunca mas haa
+aora la he tenido. Verdad es  ha poco, es an
+ me parecia quando queria reir  de de-
+baxo de los pies me leuantauan fuerças tan
+grãdes, que no ſe como lo comparar, que era
+con mucho mas impetu, que eotras coſas de
+ſpiritu, y an quedaua hecha pedaços, por
+es vna pelea grãde, y en ﬁn aprouechaua poco
+quãdo el Señor quiere,  no ay poder cõtra ſu
+poder. Otras vezes es ſeruido de contentarſe
+con  veamos nos quiere hazer la merced, y 
+no queda por ſu Magead, y reiẽdo ſe por
+humildad dexa los miſmos eﬀeos,   del to
+do ſe cõntiee. Los  eo haze ſon grãdes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="signature-mark">
+	<Coords>
+	<Point x="1234" y="2637"/>
+	<Point x="1384" y="2642"/>
+	<Point x="1400" y="2685"/>
+	<Point x="1411" y="2717"/>
+	<Point x="1226" y="2718"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="621" y="3070"/>
+	<Point x="1567" y="3070"/>
+	<Point x="1567" y="3149"/>
+	<Point x="621" y="3149"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1534" y="120"/>
+	<Point x="1534" y="226"/>
+	<Point x="1746" y="226"/>
+	<Point x="1746" y="120"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>227</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1598" y="2644"/>
+	<Point x="1591" y="2732"/>
+	<Point x="1716" y="2728"/>
+	<Point x="1716" y="2626"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lo</Unicode></TextEquiv></TextRegion></Page></PcGts>

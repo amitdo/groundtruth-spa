@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443437">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T02:58:50</Created>
+	<LastChange>2010-12-27T10:50:40</LastChange></Metadata>
+	<Page imageFilename="00443437.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="937" y="109"/>
+	<Point x="1372" y="109"/>
+	<Point x="1372" y="225"/>
+	<Point x="937" y="225"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Noche eſcura.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="309" y="233"/>
+	<Point x="1869" y="244"/>
+	<Point x="1834" y="2700"/>
+	<Point x="1452" y="2709"/>
+	<Point x="256" y="2693"/>
+	<Point x="284" y="231"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nos; circumdiﬁcavit adverſum me, ut nõ egrediar: aggra-
+vavit compedem meum; conclut vias meas lapidibus qua-
+dris, ſemitas meas ſubvertit: urſus indians faus e mihi,
+leo in abſconditis: ſemitas meas ſubvertit, &amp; confregit me,
+poſuit me deſolatam: tetendit arcum ſuum, &amp; poſuit me
+quagnum ad ſagittam: miſsit in renibus meis ﬁlias fàre-
+trſu: faus ſum in deriſum omni populo meo, canticum
+corum tota die: replevit me amaritudinibus, inebriavit
+me abnthio: &amp; fregit ad numerum dentes meos, cibavit me
+cinere: &amp; repulſa e à pace anima mea, oblitus ſum bono-
+rum, &amp; dixi: Perĳt ﬁnis meus, &amp; ſpes mea à Domino. Re-
+cordare paupertatis, &amp; tranſgreſsionis me, abnthĳ, &amp; fel-
+lis: Memoria memor ero, &amp; tabeſcet in me anima mea. Yo,
+varon, que veo mi pobreza en la vara de ſu indignaciõ,
+hame amenaçado, i traxome a las tinieblas, i no a la
+luz: ha buelto i convertido ſu mano ſobre mi todo el
+dia: hizo vieja mi piel, i mi carne: deſmenuçò mis hue-
+ſos: enderredor de mi hizo cerca, i cercome de hiel i tra
+bajo: en tenebrodades me colocò como a los muertos
+ſempiternos: cercò enderredor contra mi, porque no
+ſalga: agravòme las priones: i tambien, cuando vinie-
+re amando, i rogando, ha eſcluido mi oracion: cerrado-
+me ha mis ſalidas i caminos con piedras cuadradas: deſ
+baratò mis paſos: puſo azechadores, hecho para mi
+Leon en eſcondrĳo: traornò i deſmenuçome: de-
+xome deſamparada: eendio ſu arco, i paſome a mi
+como blanco de ſu ſaeta: arrojò a mis entrañas las hi-
+jas de ſu aljaba: hecho ſoi para eſcarnio de todo el
+pueblo, i para riſa i mofa deos todo el dia: ena-
+dome ha de amarguras, embriagome con abntio:
+uno a uno me quebrantò mis dientes: apacentome
+con ceniza: arrojada eà mi alma de la paz: olvida-
+do eoi de los bienes, i dixe: Frurado i acabado eà</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1693" y="2713"/>
+	<Point x="1797" y="2708"/>
+	<Point x="1797" y="2784"/>
+	<Point x="1686" y="2784"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mi</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="756" y="2933"/>
+	<Point x="1434" y="2933"/>
+	<Point x="1434" y="3000"/>
+	<Point x="756" y="3000"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="326" y="119"/>
+	<Point x="326" y="211"/>
+	<Point x="490" y="211"/>
+	<Point x="490" y="119"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>426</Unicode></TextEquiv></TextRegion></Page></PcGts>

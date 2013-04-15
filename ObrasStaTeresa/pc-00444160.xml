@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444160">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:35:24</Created>
+	<LastChange>2011-12-19T11:39:28</LastChange></Metadata>
+	<Page imageFilename="00444160.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="870" y="92"/>
+	<Point x="1545" y="87"/>
+	<Point x="1527" y="220"/>
+	<Point x="880" y="210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="422" y="230"/>
+	<Point x="2020" y="227"/>
+	<Point x="2017" y="2616"/>
+	<Point x="1863" y="2620"/>
+	<Point x="1849" y="2627"/>
+	<Point x="1662" y="2675"/>
+	<Point x="420" y="2685"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>el deeo de manera que a mi parecer la gran
+pena algunas vezes quita el ſentido, no que
+dura poco n el. Parecen vnos trantos de la
+muerte, ſaluo que trae cõgo vn tã gran con-
+tento ee padecer, que no ſe yo a que lo cõ-
+parar. Eo es vn rezio martyrio ſabroſo, pues
+todo lo que ſe le puede repreſentar a el alma
+de la tierra, aunque ſea lo que le ſuele ſer mas
+ſabroſo, ninguna coſa admite, luego parece lo
+lança de : bien entiende que no quiere no
+a ſu Dios, mas no ama coſa particular del, no
+todo junto lo quiere, y no ſabe lo que quiere,
+digo no ſabe porque no repreſenta nada la
+imaginacion, ni, a mi parecer mucho tiempo
+de lo que ea an no obrã las potẽcias como
+en la vnion, y arrobamiẽto, el gozo aqui la pe
+na le ſuſpende. O Ieſus quiẽ pudiera dar a en-
+tender bien a v.m. eo, aun para que me di-
+xera lo que es, porque es en lo que aora anda
+empre mi alma lo mas ordinario en viẽdoſe
+deſocupada es puea en eas anas de muer
+te, y teme quando vee que comiençã, porque
+no ſe ha de morir. mas egada a ear en eo,
+lo  vuiee de viuir querria durar en ee pa
+decer, aunque es tan exceſsiuo que el ſugeto
+le puede mal euar, y an algunas vezes ſe
+me quitan todos los pulſos ca, ſegun dizen</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="617" y="3065"/>
+	<Point x="1577" y="3065"/>
+	<Point x="1577" y="3162"/>
+	<Point x="617" y="3162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1870" y="2624"/>
+	<Point x="2003" y="2629"/>
+	<Point x="2013" y="2634"/>
+	<Point x="2013" y="2730"/>
+	<Point x="1873" y="2730"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>las</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="465" y="120"/>
+	<Point x="457" y="217"/>
+	<Point x="640" y="215"/>
+	<Point x="632" y="120"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>232</Unicode></TextEquiv></TextRegion></Page></PcGts>

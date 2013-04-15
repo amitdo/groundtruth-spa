@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439221">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T06:45:32</Created>
+	<LastChange>2011-05-12T13:39:52</LastChange></Metadata>
+	<Page imageFilename="00439221.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="133" y="86"/>
+	<Point x="1245" y="97"/>
+	<Point x="1245" y="158"/>
+	<Point x="1226" y="183"/>
+	<Point x="142" y="177"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PARTE II. LIBRO II. CAP. VII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="38" y="186"/>
+	<Point x="1415" y="195"/>
+	<Point x="1452" y="386"/>
+	<Point x="1433" y="454"/>
+	<Point x="1442" y="2569"/>
+	<Point x="1430" y="2597"/>
+	<Point x="1235" y="2600"/>
+	<Point x="1150" y="2614"/>
+	<Point x="156" y="2640"/>
+	<Point x="56" y="2612"/>
+	<Point x="38" y="2492"/>
+	<Point x="42" y="2161"/>
+	<Point x="38" y="1469"/>
+	<Point x="35" y="784"/>
+	<Point x="30" y="409"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>lio, congraciador, aiente de noche y de dia, per-
+diendo el tiempo de ganar de comer en otra parte?
+Señor, es verdad que de aqui no ſaco provecho, pero
+vengome aqui al calor de la caſa del ſeñor N como lo
+hazen otros. Los otros y vos; dezidme quien ſoys, que
+no quiero que os quexeys que os amo yo necios. Ao-
+rabien acercaronſeme muchos, cada qual ofreciendo ſe
+conforme al grado con que me tocava, y tal perſona
+huvo, que para obligarme y honrarſe conmigo, alegò
+vezindad antigua deſde viſabuelos. Quiſe por curiodad
+ſaber quien ſeria el buen viejo que me hizo la burla paſ-
+ſada, y para hazerlo n rezelo ageno, preguntè  mi
+padre avia tenido mas hermanos, y  deos alguno ea-
+va vivo, porque empre crehì ſer aquel tio mio. Dixe-
+ronme que , que avian do tres, mi padre, y otros
+dos, el de en medio era faecido, empero que el mayor
+de todos era vivo y ai redia. Dixeronme ſer un cava-
+ero, que nunca ſe avia querido caſar, muy rico, y
+cabeça de toda la caſa nuera, dieronme ſeñas del, por
+donde lo vine à conocer, Dixe que le avia de yr à beſar
+las manos otro dia: mas quando ſe lo dixeron, y mi ca-
+lidad, aunque ya muy viejo: mas como pudo, con ſu
+bordon vino à vitarme, rodeado de algunos princi-
+pales de mi linage. Luego lo reconocì, aunque lo haè
+algo decrepito por la mucha edad. Holguème de verlo,
+y peſlavame ya haarlo tan viejo, quieralo mas moço,
+para que le durara mas tiempo el dolor de los açotes. Yo
+hao por diſparate, quando para vengarſe uno de
+otro, le quita la vida, pues acabando con el, acaba
+el ſentimiento. Quando algo yo huviera de hazer, ſolo
+fuera como lo hize con mis deudos, que no me olvida-
+ràn en quanto vivan, y con aquel dolor yran à la tierra.
+Deeava vengarme del, y que por lo menos euviera
+en el eado miſmo en que lo dexè, para en el miſmo
+pagarle la deuda en que tan n cauſa ni razon ſe quiſo
+meter conmigo. Hizome muchos ofrecimientos con
+ſu poſada, empero aun en ſolo mentarmela, ſe mere-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1239" y="2603"/>
+	<Point x="1418" y="2608"/>
+	<Point x="1434" y="2671"/>
+	<Point x="1244" y="2672"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>botava</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="544" y="2864"/>
+	<Point x="1307" y="2857"/>
+	<Point x="1308" y="2931"/>
+	<Point x="1183" y="2940"/>
+	<Point x="545" y="2934"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1298" y="108"/>
+	<Point x="1283" y="187"/>
+	<Point x="1432" y="187"/>
+	<Point x="1432" y="83"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>189</Unicode></TextEquiv></TextRegion></Page></PcGts>

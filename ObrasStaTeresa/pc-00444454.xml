@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444454">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:12:22</Created>
+	<LastChange>2011-12-19T11:39:46</LastChange></Metadata>
+	<Page imageFilename="00444454.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="848" y="83"/>
+	<Point x="1577" y="83"/>
+	<Point x="1592" y="209"/>
+	<Point x="848" y="209"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="395" y="223"/>
+	<Point x="1022" y="219"/>
+	<Point x="1642" y="220"/>
+	<Point x="2006" y="226"/>
+	<Point x="2020" y="2639"/>
+	<Point x="1695" y="2638"/>
+	<Point x="1639" y="2653"/>
+	<Point x="631" y="2664"/>
+	<Point x="389" y="2645"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>me han hecho confundir y auergonçar, acor-
+dãdome de los peccados que he hecho. Creo
+ el Señor fuera ſeruido viera eo en otro
+tiẽpo, y  lo vieen los que le oﬀenden,  no
+ternian coraçon ni atreuimiento para hazer-
+lo. Pareciome ya digo n poder afﬁrmarme
+en que vi nada, mas algo ſe deue ver, pues yo
+podre poner ea comparacion, no que es
+por modo tan ſubtil y delicado que el enten
+dimiento no lo puede alcançar, o yo no me ſe
+entender en eas viones que no parecen
+imaginarias, y en algunas algo de eo deue
+auer, no que como ſon en arrobamiento las
+potencias, no lo ſaben deſpues formar como
+ai el Señor ſe lo repreſenta, y quiere  lo go
+zen. Digamos ſer la diuinidad como vn muy
+claro diamante, muy mayor que todo el mun
+do, o eſpejo a manera de lo que dixe del al-
+ma en eotra vion, ſaluo que es por tan ſu-
+bida manera que yo no la ſabre encarecer,
+y que todo lo que hazemos ſe vee en ee
+diamante, endo de manera que el encier-
+ra todo en , porque no ay nada que
+ſalga fuera de ea grandeza, coſa eſpan-
+toſa me fue en tan breue eſpacio ver tan-
+tas coſas juntas aqui en ee claro diaman-
+te: y laimoſsima cada vez que ſe me</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1696" y="2648"/>
+	<Point x="1976" y="2647"/>
+	<Point x="1978" y="2745"/>
+	<Point x="1696" y="2752"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>acuer-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="601" y="3052"/>
+	<Point x="1110" y="3057"/>
+	<Point x="1604" y="3051"/>
+	<Point x="1607" y="3170"/>
+	<Point x="604" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="409" y="127"/>
+	<Point x="409" y="218"/>
+	<Point x="635" y="218"/>
+	<Point x="635" y="127"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>534</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442970">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T02:44:02</Created>
+	<LastChange>2011-03-15T16:51:30</LastChange></Metadata>
+	<Page imageFilename="00442970.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="500" y="32"/>
+	<Point x="500" y="141"/>
+	<Point x="1145" y="141"/>
+	<Point x="1145" y="32"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>F. Ioan de la Cruz.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1493" y="51"/>
+	<Point x="1493" y="151"/>
+	<Point x="1612" y="151"/>
+	<Point x="1612" y="51"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>15</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="770" y="2930"/>
+	<Point x="770" y="2990"/>
+	<Point x="1440" y="2990"/>
+	<Point x="1440" y="2930"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="131" y="195"/>
+	<Point x="1595" y="182"/>
+	<Point x="1665" y="2717"/>
+	<Point x="1554" y="2707"/>
+	<Point x="1425" y="2725"/>
+	<Point x="1014" y="2725"/>
+	<Point x="122" y="2712"/>
+	<Point x="101" y="258"/>
+	<Point x="64" y="211"/>
+	<Point x="91" y="189"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>exercitar una vida perfetima, plantando alli aquel
+ſu eſpiritu primitivo de Oracion, Retiro, i Peniten-
+cia, en que dexaba inruìdos a los demas Conventos,
+eſpecialmente Duruelo, Parana, i Mancera, donde
+fue Maero i Vicario, i el de Alcala endo Retor; i
+haziendo aora en Andaluzia, lo que avia hecho ya
+en ambas Caillas, como Padre, i Maero comun
+de toda la Reforma. Del Calvario ſalio a fundar el
+Colegio de Baeça, donde endo ſu Prelado, dexò tam
+bien fundada una ſingular obſervancia, que haa oi
+florece. Aio al Capitulo de la ſe paracion de los
+Deſcalços en Alcalà, cuando por Breve del Papa Gre
+gorio XIII. ſe dividieron de los Padres Obſervan-
+tes en Congregacion diinta. Concluido ee Ca-
+pitulo, ſe bolvio a ſu Convento de Baeça, i de ee
+fue a governar el de Granada; al cual (deſpues de
+averſe hallado en los Capitulos celebrados en Almo-
+dòvar, Lisboa, Parana, Valladolid, i do Vicario
+Provincial del Andaluzia) bolvio ſegunda vez a ſer
+Prior. De aqui, aiendo en el Capitulo general
+que ſe celebrò en Madrid (donde fue eleo el pri-
+mer Vicario General de la Reforma Frai Nicolas
+de IESVS MARIA, Varon Religiomo) fue
+nuero Venerable Padre nombrado en Difinidor pri-
+mero: i en ee oficio, que le durò tres años, gover-
+nò tambien, como Vicario, el Convento que enton-
+ces ſe avia fundado en Segovia. En todos eos car-
+gos de Prelacia fue maravilloſo el acierto, edifica-
+eion, i prudencia, con que los exercitò; dexando em-
+pre en los Conventos i ciudades, donde era Prela-
+do, admiracion de ſu rara virtud, ſemilla de ſu ce-
+leial eſpiritu, fruto de ſu admirable exemplo, i
+una coante, i univerſal opinion de ſu probada</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="catch-word">
+	<Coords>
+	<Point x="1650" y="2727"/>
+	<Point x="1572" y="2715"/>
+	<Point x="1547" y="2712"/>
+	<Point x="1529" y="2745"/>
+	<Point x="1530" y="2791"/>
+	<Point x="1661" y="2804"/>
+	<Point x="1670" y="2765"/>
+	<Point x="1658" y="2731"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſan-</Unicode></TextEquiv></TextRegion></Page></PcGts>

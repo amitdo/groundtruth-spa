@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444102">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:58:12</Created>
+	<LastChange>2011-12-19T11:39:25</LastChange></Metadata>
+	<Page imageFilename="00444102.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="451" y="111"/>
+	<Point x="720" y="111"/>
+	<Point x="720" y="237"/>
+	<Point x="451" y="237"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>174</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="420" y="256"/>
+	<Point x="1232" y="230"/>
+	<Point x="2023" y="250"/>
+	<Point x="2033" y="2660"/>
+	<Point x="1139" y="2675"/>
+	<Point x="520" y="2673"/>
+	<Point x="473" y="2663"/>
+	<Point x="426" y="2670"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que no lo merece: todo eo ſe mueue aqui,
+y repreſenta el entendimiento, y bue la me‐
+moria, que cierto eas potencias a mi me
+canſan a ratos, que con tener poca memoria
+no la puedo ſojuzgar ) la voluntad pues en
+ee tiempo con ſoſsiego y cordura, entienda
+que no ſe negocia bien con Dios a fuerça de
+braços, y que eos ſon vnos leños grandes,
+pueos n diſcrecion para ahogar ea cen‐
+tea, y conozcalo, y con humildad diga: Se-
+ñor que puedo yo aqui: que tiene que ver la
+erua con el Señor, y la tierra con el cielo:
+o palabras que ſe oﬀrecen aqui de amor, fun-
+dada mucho en conocer que es verdad lo
+que dize, y no haga caſo del entendimiento
+que es vn moledor, y  ea le quiere dar
+parte de lo que goza, o trabaja por reco‐
+gerle, ( que muchas vezes ſe vera en ea
+vnion de la voluntad, y ſoſsiego, y el en‐
+tendimiento muy desbaratado: ) no acier‐
+ta, mas vale que le dexe, que no que vaya
+ea tras el, digo la voluntad, no eeſe ea
+gozando de aquea merced, y recogida co‐
+mo ſabia aueja, porque  ninguna entraſ-
+ſe en la colmena, no que por traerſe vnas
+a otras ſe fueen todas, mal ſe podria la‐
+brar la miel, an que perdera mucho el al-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="607" y="3045"/>
+	<Point x="1579" y="3045"/>
+	<Point x="1579" y="3154"/>
+	<Point x="607" y="3154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1824" y="2675"/>
+	<Point x="1824" y="2751"/>
+	<Point x="2012" y="2751"/>
+	<Point x="2012" y="2675"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ma,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="892" y="105"/>
+	<Point x="892" y="216"/>
+	<Point x="1555" y="216"/>
+	<Point x="1555" y="105"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

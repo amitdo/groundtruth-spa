@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440345">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T11:51:39</Created>
+	<LastChange>2011-12-19T11:39:02</LastChange></Metadata>
+	<Page imageFilename="00440345.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r26" index="0"/>
+	<RegionRefIndexed regionRef="r25" index="1"/>
+	<RegionRefIndexed regionRef="r19" index="2"/>
+	<RegionRefIndexed regionRef="r22" index="3"/>
+	<RegionRefIndexed regionRef="r9" index="4"/>
+	<RegionRefIndexed regionRef="r10" index="5"/>
+	<RegionRefIndexed regionRef="r31" index="6"/>
+	<RegionRefIndexed regionRef="r12" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="1412" y="2348"/>
+	<Point x="1993" y="2348"/>
+	<Point x="1993" y="2438"/>
+	<Point x="1412" y="2438"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LEMMA II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="729" y="2506"/>
+	<Point x="2641" y="2506"/>
+	<Point x="2641" y="2745"/>
+	<Point x="729" y="2745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Haar el centro de Oſcilacion de un Cuerpo compueo
+de dos, pueos uno ſobre otro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="catch-word">
+	<Coords>
+	<Point x="2542" y="3409"/>
+	<Point x="2624" y="3409"/>
+	<Point x="2624" y="3477"/>
+	<Point x="2542" y="3477"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="credit">
+	<Coords>
+	<Point x="1006" y="4020"/>
+	<Point x="1944" y="4020"/>
+	<Point x="1944" y="4092"/>
+	<Point x="1006" y="4092"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<MathsRegion id="r21">
+	<Coords>
+	<Point x="729" y="367"/>
+	<Point x="965" y="367"/>
+	<Point x="965" y="508"/>
+	<Point x="729" y="508"/></Coords></MathsRegion>
+	<TextRegion id="r27" type="header">
+	<Coords>
+	<Point x="1261" y="367"/>
+	<Point x="2698" y="367"/>
+	<Point x="2698" y="496"/>
+	<Point x="1261" y="496"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="717" y="2793"/>
+	<Point x="2683" y="2793"/>
+	<Point x="2683" y="3404"/>
+	<Point x="717" y="3404"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SEa DABC � un duplo Cono truncado, compueo de
+dos Conos truncados ADB, ABC, que ſuſpendido por
+la linea inﬂexible DS oſcile ſobre el punto de ſuſpenon S.
+Sea aſsimiſmo la ſuma de los momentos del cuerpo ſu‑
+perior ADB (M); los del inferior ABC (m); la diancia en‑
+tre ſus centros de oſcilacion D; y la diancia del centro</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="footnote">
+	<Coords>
+	<Point x="448" y="2774"/>
+	<Point x="699" y="2774"/>
+	<Point x="699" y="2953"/>
+	<Point x="448" y="2953"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a Fig. 7.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="1013" y="501"/>
+	<Point x="1013" y="502"/>
+	<Point x="1206" y="502"/>
+	<Point x="1206" y="503"/>
+	<Point x="1399" y="503"/>
+	<Point x="1399" y="504"/>
+	<Point x="1592" y="504"/>
+	<Point x="1592" y="505"/>
+	<Point x="1785" y="505"/>
+	<Point x="1785" y="506"/>
+	<Point x="1977" y="506"/>
+	<Point x="1977" y="507"/>
+	<Point x="2170" y="507"/>
+	<Point x="2170" y="508"/>
+	<Point x="2363" y="508"/>
+	<Point x="2363" y="509"/>
+	<Point x="2556" y="509"/>
+	<Point x="2556" y="510"/>
+	<Point x="2748" y="510"/>
+	<Point x="2735" y="1169"/>
+	<Point x="2664" y="1171"/>
+	<Point x="2326" y="1178"/>
+	<Point x="2114" y="1192"/>
+	<Point x="2050" y="1153"/>
+	<Point x="1848" y="1150"/>
+	<Point x="1553" y="1155"/>
+	<Point x="1535" y="1177"/>
+	<Point x="1499" y="1178"/>
+	<Point x="1478" y="1151"/>
+	<Point x="850" y="1169"/>
+	<Point x="845" y="1338"/>
+	<Point x="716" y="1338"/>
+	<Point x="680" y="514"/>
+	<Point x="756" y="514"/>
+	<Point x="756" y="513"/>
+	<Point x="831" y="513"/>
+	<Point x="831" y="512"/>
+	<Point x="906" y="512"/>
+	<Point x="906" y="511"/>
+	<Point x="981" y="511"/>
+	<Point x="981" y="510"/>
+	<Point x="985" y="510"/>
+	<Point x="985" y="509"/>
+	<Point x="989" y="509"/>
+	<Point x="989" y="508"/>
+	<Point x="992" y="508"/>
+	<Point x="992" y="507"/>
+	<Point x="996" y="507"/>
+	<Point x="996" y="506"/>
+	<Point x="999" y="506"/>
+	<Point x="999" y="505"/>
+	<Point x="1003" y="505"/>
+	<Point x="1003" y="504"/>
+	<Point x="1006" y="504"/>
+	<Point x="1006" y="503"/>
+	<Point x="1010" y="503"/>
+	<Point x="1010" y="502"/>
+	<Point x="1013" y="502"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>inﬂexible DS, oſcile ſobre ſu punto de ſuſpenon S. Sea
+aſsimiſmo la ſuma de los momentos del pequeño Cono
+FAB (M); los del Cono FCE (m); la diancia entre ſus
+centros de oſcilacion D; y la diancia del centro de oſ‑
+cilacion del Cono FCE al centro de oſcilacion del Cono
+truncado d: con lo qual, tendrémos conforme à las re‑
+glas de los centros de gravedad m: M = D+d: d; lue‑
+go</Unicode></TextEquiv></TextRegion>
+	<MathsRegion id="r18">
+	<Coords>
+	<Point x="2038" y="1767"/>
+	<Point x="2038" y="1961"/>
+	<Point x="2250" y="1957"/>
+	<Point x="2535" y="1961"/>
+	<Point x="2658" y="1949"/>
+	<Point x="2655" y="1788"/>
+	<Point x="2442" y="1766"/>
+	<Point x="2269" y="1764"/>
+	<Point x="2110" y="1782"/></Coords></MathsRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="684" y="1965"/>
+	<Point x="684" y="2138"/>
+	<Point x="2000" y="2132"/>
+	<Point x="2001" y="2031"/>
+	<Point x="1998" y="1960"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>la que  ſe ſupone P = 1, quedarà en</Unicode></TextEquiv></TextRegion>
+	<MathsRegion id="r20">
+	<Coords>
+	<Point x="2017" y="1968"/>
+	<Point x="2017" y="2158"/>
+	<Point x="2646" y="2158"/>
+	<Point x="2646" y="1968"/>
+	<Point x="2279" y="1965"/></Coords></MathsRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="720" y="2162"/>
+	<Point x="720" y="2327"/>
+	<Point x="1941" y="2329"/>
+	<Point x="1942" y="2163"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>miſmo tiempo es P = p ſe reducirà à</Unicode></TextEquiv></TextRegion>
+	<MathsRegion id="r23">
+	<Coords>
+	<Point x="1945" y="2175"/>
+	<Point x="1948" y="2331"/>
+	<Point x="1981" y="2335"/>
+	<Point x="2353" y="2342"/>
+	<Point x="2349" y="2175"/>
+	<Point x="2206" y="2164"/></Coords></MathsRegion>
+	<MathsRegion id="r24">
+	<Coords>
+	<Point x="864" y="1198"/>
+	<Point x="864" y="1351"/>
+	<Point x="1908" y="1351"/>
+	<Point x="1908" y="1198"/>
+	<Point x="1832" y="1173"/>
+	<Point x="1683" y="1171"/>
+	<Point x="1646" y="1198"/></Coords></MathsRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="714" y="1357"/>
+	<Point x="714" y="1923"/>
+	<Point x="2023" y="1923"/>
+	<Point x="2025" y="1744"/>
+	<Point x="2182" y="1750"/>
+	<Point x="2313" y="1750"/>
+	<Point x="2336" y="1761"/>
+	<Point x="2410" y="1759"/>
+	<Point x="2661" y="1755"/>
+	<Point x="2675" y="1213"/>
+	<Point x="1941" y="1206"/>
+	<Point x="1918" y="1359"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pero los momentos
+M, m, ſon iguales à los peſos de los cuerpos, ò maſas, mul‑
+tiplicados por ſus diancias del punto de ſuſpenon al
+centro de gravedad: luego amando los peſos P, p, y las
+diancias del punto de ſuſpenon al centro de gravedad
+E, e, tendrèmos tambien la expreſsion</Unicode></TextEquiv></TextRegion></Page></PcGts>

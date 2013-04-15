@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440127">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T22:44:19</Created>
+	<LastChange>2011-12-19T11:38:44</LastChange></Metadata>
+	<Page imageFilename="00440127.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r11" index="0"/>
+	<RegionRefIndexed regionRef="r12" index="1"/>
+	<RegionRefIndexed regionRef="r13" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="798" y="307"/>
+	<Point x="1755" y="308"/>
+	<Point x="1762" y="332"/>
+	<Point x="1766" y="396"/>
+	<Point x="1767" y="396"/>
+	<Point x="1466" y="394"/>
+	<Point x="804" y="391"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="314" y="1558"/>
+	<Point x="660" y="1550"/>
+	<Point x="894" y="1550"/>
+	<Point x="957" y="1555"/>
+	<Point x="989" y="1549"/>
+	<Point x="1016" y="1550"/>
+	<Point x="1923" y="1543"/>
+	<Point x="2237" y="1553"/>
+	<Point x="2243" y="2382"/>
+	<Point x="1939" y="2368"/>
+	<Point x="1429" y="2391"/>
+	<Point x="926" y="2398"/>
+	<Point x="903" y="2394"/>
+	<Point x="308" y="2379"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Las diferencias de alturas del Mercurio en el Barome‐
+tro de un dia à otro en un miſmo tio, en diintos tiem‐
+pos, ſe obſervaron conforme à la tabla, que ſe gue.
+En el Petit-Goave 2⅙ lineas
+Guayaquìl 1¼
+Quito 1
+Riobamba �
+Alausì 1�
+Chuſay ⅞</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="302" y="2400"/>
+	<Point x="868" y="2400"/>
+	<Point x="1061" y="2412"/>
+	<Point x="1550" y="2395"/>
+	<Point x="2236" y="2390"/>
+	<Point x="2233" y="3318"/>
+	<Point x="998" y="3362"/>
+	<Point x="301" y="3359"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En ea ſe vè, que quanto mas elevadas, ſe hacìan las
+experiencias, menos ſenbles ſe encontraban las diferen‐
+cias; pues que Alausì eà mas alto que Guayaquìl; Quito
+mas alto que Alausì; y Riobamba, y Chuſay mas altos que
+Quito: y aſsimiſmo, que las miſmas diferencias ſon mucho
+menores en la Zona Torrida, que en Europa; pueo que ſe
+han haado èas en Parìs de ordinario de dos, y mas pul‐
+gadas. De donde ſe gue, que la alteracion en peſo de la
+Atmoſphera es menos ſenble en las cercanìas del Equa-
+dor, que en mayores Latitudes: y menos en las cumbres</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="catch-word">
+	<Coords>
+	<Point x="2119" y="3330"/>
+	<Point x="2217" y="3330"/>
+	<Point x="2217" y="3411"/>
+	<Point x="2119" y="3411"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="credit">
+	<Coords>
+	<Point x="998" y="4008"/>
+	<Point x="1954" y="4008"/>
+	<Point x="1954" y="4086"/>
+	<Point x="1750" y="4090"/>
+	<Point x="998" y="4086"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="2016" y="329"/>
+	<Point x="2020" y="404"/>
+	<Point x="2150" y="402"/>
+	<Point x="2151" y="328"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>109</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r4">
+	<Coords>
+	<Point x="333" y="408"/>
+	<Point x="772" y="409"/>
+	<Point x="980" y="403"/>
+	<Point x="1036" y="402"/>
+	<Point x="1658" y="404"/>
+	<Point x="1664" y="405"/>
+	<Point x="1682" y="405"/>
+	<Point x="2221" y="418"/>
+	<Point x="2231" y="1540"/>
+	<Point x="2025" y="1540"/>
+	<Point x="1967" y="1535"/>
+	<Point x="1890" y="1537"/>
+	<Point x="964" y="1541"/>
+	<Point x="920" y="1547"/>
+	<Point x="898" y="1541"/>
+	<Point x="316" y="1537"/></Coords></TableRegion></Page></PcGts>

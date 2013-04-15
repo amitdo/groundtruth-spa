@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440002">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T15:22:37</Created>
+	<LastChange>2011-12-19T11:38:34</LastChange></Metadata>
+	<Page imageFilename="00440002.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="700" y="343"/>
+	<Point x="852" y="343"/>
+	<Point x="852" y="440"/>
+	<Point x="700" y="440"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>xiv</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="590" y="452"/>
+	<Point x="725" y="455"/>
+	<Point x="875" y="452"/>
+	<Point x="941" y="402"/>
+	<Point x="2624" y="411"/>
+	<Point x="2611" y="3371"/>
+	<Point x="580" y="3390"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ja continuamente àcia el Centro; pero por el tercer Axio‐
+ma, la accion, y reaccion ſon empre iguales; con que el
+hilo no puede emplear fuerza alguna en el Cuerpo, que
+èe no emplee otra, igual, y contraria ſobre el hilo; el
+Cuerpo pues tiende continuamente à huir, y apartarſe del
+centro del Circulo que deſcribe, con una fuerza igual à la
+del hilo: y aſsi todo Cuerpo, que percurre un Circulo, ti‐
+ra à apartarſe de ſu Centro, con una fuerza, que ſerà ma‐
+yor, ò menor, ſegun fuere mayor, ò menor ſu velocidad.
+Ea es pues la fuerza que aqueos dos cèlebres Philoſo-
+phos M. M. Huygens, y Newton amaron centrifuga, por‐
+que tira à huir del Centro; y èa, ſegun eos, es la cauſa,
+que hace à la Tierra Lata. Porque ſentada ea dorina,
+ſuponen ambos, que la Tierra ſe mueve, revolviendoſe
+diariamente ſobre ſu proprio Exe. Por ee movimiento,
+cada particula de la Tierra hace esfuerzo para apartarſe del
+Exe; y ee esfuerzo es tanto mayor, quanto es mayor la
+velocidad, ò quanto es mayor el Circulo, que cada una
+deſcribe; y endo, tanto circulo, como velocidad àcia el
+Equador mayores, que àcia los Polos, es neceario, que
+los Cuerpos mas cercanos al Equador hagan mas esfuerzo
+para apartarſe del Exe, que los que eàn mas cercanos à los
+Polos, y que ſu fuerza centrifuga ſea aì mas violenta.
+Como por otro lado, todo Cuerpo por ſu primitiva gra‐
+vedad, ò fuerza centripeta, tiende àcia el Centro de la
+Tierra, ò por mejor decir perpendicularmente al Horizon‐
+te, en un miſmo Cuerpo ſe encuentran dos fuerzas; una la
+gravedad, ò fuerza centripeta, por razon de la qual ſe di‐
+rige al Centro de la Tierra, y cae àcia ea; y otra la fuerza
+centrifuga, originada del movimiento de la Tierra, por la
+qual ſe esfuerza à apartarſe, y à huir del Exe, ò centro del</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="2360" y="3383"/>
+	<Point x="2552" y="3383"/>
+	<Point x="2552" y="3467"/>
+	<Point x="2360" y="3467"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cir-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="984" y="4003"/>
+	<Point x="1966" y="4003"/>
+	<Point x="1966" y="4092"/>
+	<Point x="984" y="4092"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

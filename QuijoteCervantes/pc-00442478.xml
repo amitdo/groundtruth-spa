@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442478">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T10:05:40</Created>
+	<LastChange>2012-03-12T14:12:04</LastChange></Metadata>
+	<Page imageFilename="00442478.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="509" y="92"/>
+	<Point x="1135" y="96"/>
+	<Point x="1144" y="192"/>
+	<Point x="800" y="195"/>
+	<Point x="786" y="198"/>
+	<Point x="750" y="197"/>
+	<Point x="513" y="189"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tercera parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="168" y="203"/>
+	<Point x="1457" y="202"/>
+	<Point x="1455" y="2170"/>
+	<Point x="166" y="2196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mos, que eos lo diran  quieren, que  querran,
+porque es gente que recibe guo, de hazer y dezir
+veaquerias. Con ea licencia, que don Quixote ſe
+tomara, aunque no ſe la dieran, ſe egò a la cadena, y
+al primero le pregũtô, Que porque pecados, yua de
+tan mala guiſa? El le reſpondio, que por enamorado
+yua de aquea manera. Por eo no mas, replicò don
+Quixote? pues  por enamorados echan a galeras,
+dias ha que pudiera yo ear bogando en eas. No
+ſon los amores, como los que vuera merced pien‐
+ſa, dixo el galeote, que los mios fueron, que quiſe
+tanto a vna canaa de colar, atea da de ropa blanca,
+que la abrace conmigo tan fuertemente, que a no
+quitarmela la juicia por fuerça, aun haa agora no
+la vuiera dexado de mi voluntad. Fue en fragante,
+no vuo lugar de tormento, concluyoſe la cauſa, aco-
+modaronme las eſpaldas con ciento, y por añadidu‐
+ra tres preciſos de gurapas, y acaboſe la obra. Que
+ſon gurapas, preguntò don Quixote? Gurapas ſon ga
+leras, reſpondio el galeote. El qual era vn moço, de
+haa edad de veynte y quatro años, y dixo que era
+natural de Piedrahita. Lo meſmo preguntô don Qui
+xote al ſegundo, el qual no reſpondio palabra, ſegun
+yua de trie y malenconico. Mas reſpõdio por el el
+primero, y dixo: Ee ſeñor va por canario, digo por
+muco y cantor. Pues como, repitio don Quixote,
+por mucos y cantores, van tambien a galeras? Si
+ſeñor, reſpondio el galeote, que no ay peor coſa,
+que cantar en el ana. Antes he yo oydo dezir,
+dixo don Quixote, que quien canta, ſus males eſ‐
+panta. Aca es al reues, dixo el galeote, que quien
+canta vna vez, ora toda la vida. No lo entiendo, di‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="439" y="2292"/>
+	<Point x="1129" y="2292"/>
+	<Point x="1129" y="2378"/>
+	<Point x="439" y="2378"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1261" y="2184"/>
+	<Point x="1261" y="2247"/>
+	<Point x="1455" y="2247"/>
+	<Point x="1452" y="2177"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>xo don</Unicode></TextEquiv></TextRegion></Page></PcGts>

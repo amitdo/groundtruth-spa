@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442513">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T15:11:15</Created>
+	<LastChange>2012-03-12T14:12:06</LastChange></Metadata>
+	<Page imageFilename="00442513.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="148" y="185"/>
+	<Point x="451" y="181"/>
+	<Point x="467" y="181"/>
+	<Point x="479" y="186"/>
+	<Point x="677" y="182"/>
+	<Point x="965" y="177"/>
+	<Point x="1149" y="175"/>
+	<Point x="1412" y="185"/>
+	<Point x="1415" y="2128"/>
+	<Point x="1330" y="2130"/>
+	<Point x="1312" y="2139"/>
+	<Point x="1279" y="2140"/>
+	<Point x="148" y="2139"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>fuera meneer otra exageracion, para darme a en‐
+tender la alteza de ſu entendimiento, porque no
+le tuuiera tan bueno como vos ſeñor le aueys pin‐
+tado,  careciera del guo de tan ſabroſa leyen‐
+da: aſsi que para conmigo no es meneer gaar
+mas palabras en declararme ſu hermoſura, valor,
+y entendimiento, que con ſolo auer entendido ſu
+aﬁcion, la conﬁrmo por la mas hermoſa, y mas
+diſcreta muger del mundo: y quiera yo, ſeñor,
+que vuera merced le huuiera embiado junto con
+Amadis de Gaula, al bueno de don Rugel de Gre‐
+cia, que yo ſe que guara la ſeñora Luſcinda mu‐
+cho de Darayda, y Geraya, y de las diſcreciones
+del paor Darinel, y de aqueos admirables ver‐
+ſos de ſus Bucolicas, cantadas, y repreſentadas por
+el, con todo donayre, diſcrecion, y deſemboltura:
+pero tiempo podra venir en que ſe enmiende ea
+falta, y no dura mas en hazerſe la enmienda, de quã
+to quiera vuera merced ſer ſeruido de venirſe
+conmigo a mi aldea,  ai le podrè dar mas de tre-
+ciẽtos libros, que ſon el regalo de mi alma, y el en‐
+tretenimiento de mi vida: aunque tengo para mi,
+que ya no tengo ninguno, merced a la malicia de
+malos, y embidioſos encantadores. Y perdoneme
+vuera merced, el auer contrauenido a lo que pro-
+metimos, de no interromper ſu platica, pues en oyẽ
+do coſas de cauaerias, y de cauaeros andantes,
+aſsi es en mi mano dexar de hablar en eos, como
+lo es en la de los rayos del Sol dexar de calentar, ni
+humedecer en los de la Luna. Aſsi que, perdon, y
+proſeguir, que es lo que aora haze mas al caſo.
+Entanto que don Quixote eaua diziendo lo que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="catch-word">
+	<Coords>
+	<Point x="1206" y="2149"/>
+	<Point x="1322" y="2148"/>
+	<Point x="1328" y="2135"/>
+	<Point x="1383" y="2135"/>
+	<Point x="1383" y="2205"/>
+	<Point x="1207" y="2205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>queda</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="455" y="2296"/>
+	<Point x="1130" y="2296"/>
+	<Point x="1125" y="2362"/>
+	<Point x="459" y="2358"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="389" y="83"/>
+	<Point x="393" y="177"/>
+	<Point x="455" y="178"/>
+	<Point x="464" y="178"/>
+	<Point x="482" y="183"/>
+	<Point x="1126" y="169"/>
+	<Point x="1126" y="83"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1262" y="89"/>
+	<Point x="1262" y="175"/>
+	<Point x="1387" y="175"/>
+	<Point x="1387" y="89"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>119</Unicode></TextEquiv></TextRegion></Page></PcGts>

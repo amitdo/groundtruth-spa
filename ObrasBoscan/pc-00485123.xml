@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485123">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T05:45:33</Created>
+	<LastChange>2011-05-12T13:40:56</LastChange></Metadata>
+	<Page imageFilename="00485123.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="624" y="3031"/>
+	<Point x="1392" y="3031"/>
+	<Point x="1392" y="3090"/>
+	<Point x="624" y="3090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="520" y="211"/>
+	<Point x="1654" y="218"/>
+	<Point x="1682" y="254"/>
+	<Point x="1767" y="1842"/>
+	<Point x="1708" y="2770"/>
+	<Point x="507" y="2754"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D'aquel ſol, que aerenaua el mundo.
+Dexo eender ſus rayos pcr ſu alma,
+Hechando ſu calor, y luz por ea:
+Y ai l'eſclarecio y el leuantoe
+Con nueuos alboroços Ieuantados
+Y empeço con Amor a entrar en cuenta:
+Acordando de no dexar morirſe.
+El eſperança ai vino aſu tiempo,
+Prometiendole muy fundadamente
+Coſas, que ya el deeo le pedia.
+Y ai el fuego'endio ſus biuas amas:
+Y empeçaron a hazerſe grandes torres
+D'Amor, y de verdad, y no de viento.
+El echaua ſus ojos en los dea:
+Y ea tambien alguna vez alçaua
+Los ſuyos hazia el de tal manera,
+Quel no podia bien certiﬁcarſe,
+Aqueo  era a caſo, o  era adrede:
+Con eo andaua Amor mas enſu fuerça.
+Mas como quiera en ﬁn  aqueo fuee:
+Si los ojos d'entrambos ſe topauan,
+Ai era el ſalir a recebirſe,
+Ai era el mezclarſe delas almas:
+No embargante que aquea de Leandro
+La mayor parte del camino andaua.
+Las ſaetas d'Amor eran eſpeas,
+Delos ojos al coraçon bolauan:
+Y ai luego la yerua s'emboluia.
+Con la mas pura ſangre que topaua.
+A el tres coſas le ocurrieron juntas,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="1244" y="207"/>
+	<Point x="1247" y="169"/>
+	<Point x="1244" y="115"/>
+	<Point x="775" y="115"/>
+	<Point x="775" y="207"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r9">
+	<Coords>
+	<Point x="1252" y="201"/>
+	<Point x="1249" y="146"/>
+	<Point x="1252" y="117"/>
+	<Point x="1381" y="117"/>
+	<Point x="1381" y="201"/></Coords></GraphicRegion></Page></PcGts>

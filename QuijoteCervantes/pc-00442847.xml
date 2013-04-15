@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442847">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:11:53</Created>
+	<LastChange>2012-03-12T14:12:31</LastChange></Metadata>
+	<Page imageFilename="00442847.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="177" y="163"/>
+	<Point x="423" y="175"/>
+	<Point x="470" y="165"/>
+	<Point x="519" y="186"/>
+	<Point x="587" y="170"/>
+	<Point x="1234" y="162"/>
+	<Point x="1247" y="175"/>
+	<Point x="1312" y="172"/>
+	<Point x="1438" y="165"/>
+	<Point x="1437" y="2111"/>
+	<Point x="1259" y="2126"/>
+	<Point x="1219" y="2103"/>
+	<Point x="881" y="2131"/>
+	<Point x="138" y="2124"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>alguna nouela : y coligio, que pues la del curioſo
+Impertinente, auia do buena, que tambien lo ſe-
+ria aquea, pues podria ſer, ſueen todas de vn meſ-
+mo autor, y aſsi la guardò, con proſupueo de leer-
+la, quando tuuiee comodidad. Subio a cauao, y
+tambien ſu amigo el barbero, con ſus antiſazes, por
+que no fùeen luego conocidos de don Quixote,
+y pueronſe a caminartras el carro, y la orden que
+Ileuauan, era ea. Yua primero el carro, guiando-
+le ſu dueño : a los dos lados yuan los quadrieros,
+como ſe ha dicho, con ſus eſcopetas : ſeguia luego
+Sancho Pança ſobre ſu aſno, euando de rienda a
+Rozinante. Detras de todo eo, yuan el cura, y el
+barbero, ſobre ſus poderoſas mulas, cubiertos los
+roros, como ſe ha dicho, con graue, y repoſado cõ
+tinente, no caminando mas, de lo que permitia el
+pao tardo de los bueyes. Don Quixote yua ſenta-
+do en la jaula, las manos atadas, tendidos los pies, y
+arrimado a las verjas, con tanto lencio, y tanta pa
+ciencia, como no fuerà hombre de carne, no ea-
+tua de piedra. Y aſsi con aquel eſpacio, y lencio, ca
+minaron haa dos leguas,  egaron a vn vae, don-
+de le parecio al boyero, ſer lugar acomodado para
+repoſar, y dar pao a los bueyes. Y comunicandolo
+con el cura, fue de parecer el barbero, que caminaſ-
+ſen vn poco mas porque el ſabia detras de vn recueſ
+to  cerca de ai ſe morana, auia vn vae de mas
+yerua, y mucho mejor  aquel, donde parar queriã.
+Tomoſe el parecer del barbero, y aſsi tornarõ à pro
+ſeguir ſu camino. En eo boluio el cura el roro, y
+vio  a ſus eſpaldas venian, haa ſeys, o ete hõbres
+de acauao, biẽ pueos, y adereçados, de los quales</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1185" y="2110"/>
+	<Point x="1221" y="2107"/>
+	<Point x="1261" y="2130"/>
+	<Point x="1390" y="2126"/>
+	<Point x="1374" y="2179"/>
+	<Point x="1195" y="2172"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>fueron</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="468" y="2300"/>
+	<Point x="1127" y="2306"/>
+	<Point x="1124" y="2353"/>
+	<Point x="1035" y="2355"/>
+	<Point x="1023" y="2357"/>
+	<Point x="465" y="2355"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="413" y="73"/>
+	<Point x="1214" y="63"/>
+	<Point x="1232" y="155"/>
+	<Point x="564" y="165"/>
+	<Point x="518" y="181"/>
+	<Point x="471" y="162"/>
+	<Point x="444" y="162"/>
+	<Point x="427" y="155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1268" y="86"/>
+	<Point x="1461" y="86"/>
+	<Point x="1439" y="158"/>
+	<Point x="1262" y="166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>286.</Unicode></TextEquiv></TextRegion></Page></PcGts>

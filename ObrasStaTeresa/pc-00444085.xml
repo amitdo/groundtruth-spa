@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444085">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:56:11</Created>
+	<LastChange>2011-12-19T11:39:24</LastChange></Metadata>
+	<Page imageFilename="00444085.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="300" y="80"/>
+	<Point x="1480" y="92"/>
+	<Point x="1478" y="200"/>
+	<Point x="285" y="202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="158" y="223"/>
+	<Point x="944" y="226"/>
+	<Point x="1403" y="232"/>
+	<Point x="1721" y="232"/>
+	<Point x="1707" y="2628"/>
+	<Point x="1696" y="2644"/>
+	<Point x="1217" y="2641"/>
+	<Point x="1183" y="2660"/>
+	<Point x="114" y="2660"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>faltaran todas tres coſas que no ſera peque-
+ña cruz n que el de ſu voluntad ſugete ſu en
+tendimiento a quien no le tenga bueno. Alo
+menos eo no lo he yo podido acabar con
+migo, ni me parece conuiene. Pues  es
+ſeglar alabe a Dios, que puede eſcoger
+a quien ha de ear ſugeto y no pierda ea
+tan virtuoſa libertad, antes ee n ningu-
+no haa haarle que el Señor ſe le dara co-
+mo vaya todo fundado en humildad, y con
+deeo de acertar. Yo le alabo mucho, y las
+mugeres, y los que no ſaben letras le auia-
+mos empre de dar inﬁnitas gracias, por-
+que aya quien con tantos trabajos ayan
+alcançado la verdad, que los ignorantes
+ignoramos. Eſpantanme muchas vezes letra-
+dos, religioſos en eſpecial, con el trabajo que
+han ganado lo que n ninguno mas de pre
+guntarlo me aproueche a mi: y que aya
+perſonas que no quieran aprouecharſe
+deo? No plega a Dios. Veo los ſuge-
+tos a los trabajos de la religion que ſon gran
+des con penitencias, y mal comer, ſu-
+getos a la obediencia que algunas vezes
+me es gran confuon cierto, con eo
+mal dormir, todo trabajo, todo cruz,
+pareceme ſeria gran mal que tanto bien</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1501" y="2651"/>
+	<Point x="1678" y="2651"/>
+	<Point x="1678" y="2741"/>
+	<Point x="1501" y="2741"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nin-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="562" y="3048"/>
+	<Point x="1601" y="3048"/>
+	<Point x="1601" y="3155"/>
+	<Point x="562" y="3155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1528" y="109"/>
+	<Point x="1528" y="223"/>
+	<Point x="1680" y="223"/>
+	<Point x="1680" y="109"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>157</Unicode></TextEquiv></TextRegion></Page></PcGts>

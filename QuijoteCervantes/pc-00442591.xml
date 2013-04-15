@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442591">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T20:55:00</Created>
+	<LastChange>2012-03-12T14:12:10</LastChange></Metadata>
+	<Page imageFilename="00442591.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="458" y="2301"/>
+	<Point x="1132" y="2301"/>
+	<Point x="1123" y="2359"/>
+	<Point x="462" y="2355"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="158" y="194"/>
+	<Point x="1452" y="194"/>
+	<Point x="1470" y="2159"/>
+	<Point x="879" y="2180"/>
+	<Point x="868" y="2239"/>
+	<Point x="720" y="2239"/>
+	<Point x="648" y="2172"/>
+	<Point x="156" y="2179"/>
+	<Point x="144" y="2201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>trabajo, di con el por vn derrumbadero, donde le de
+xè, ni ſe  muerto, o  viuo. Y luego con mas ligere-
+za, que mi ſobreſalto, y canſancio pedian, me entre
+por eas montañas, n euar otro penſamiento, ni
+otro dignio, que eſconderme en eas, y huyr de mi
+padre, y de aqueos que de ſu parte me andauan buſ
+cando cõ ee deeo. Ha no ſe quãtos meſes que en‐
+tre en eas, donde haè vn ganadero, que me euo
+por ſu criado, a vn lugar  eâ en las entrañas dea
+erra, al qual he ſeruido de çagal todo ee tiempo,
+procurando ear empre en el campo, por encu‐
+brir eos cabeos, que aora tan n penſarlo me han
+deſcubierto. Pero toda mi induria, y toda mi ſoli-
+citud, fue, y ha do, de ningũ prouecho, pues mi amo
+vino en conocimiento, de que yo no era varon, y na
+cio en el, el meſmo mal penſamiento, que en mi cria
+do, y como no empre la fortuna, con los trabajos
+da los remedios, no haè derrumbadero, ni barran‐
+co, de donde deſpeñar, y deſpenar al amo, como le
+haè para el criado. Y aſsi tuue por menor inconue-
+niente, dexae y aſconderme de nueuo entre eas
+aſperezas, que prouar con el mis fuerças, o mis diſ‐
+culpas. Digo pues, que me tornè a embocar y a buſ-
+car, donde n impedimẽto alguno pudiee con ſuſ-
+piros, y lagrimas, rogar al cielo ſe duela de mi deſ-
+uentura, y me de induria, y fauor para ſalir dea,
+para dexar la vida entre eas ſole da des, n que
+que de memoria dea trie,  tan n culpa
+ſuya aura dado materia, para que de
+ea ſe hable, y murmure en
+la ſuya, y en las age-
+nas tierras.
+(.?.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="catch-word">
+	<Coords>
+	<Point x="1296" y="2170"/>
+	<Point x="1420" y="2170"/>
+	<Point x="1420" y="2247"/>
+	<Point x="1296" y="2247"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cap.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="1128" y="78"/>
+	<Point x="1128" y="106"/>
+	<Point x="1129" y="106"/>
+	<Point x="1129" y="148"/>
+	<Point x="1130" y="148"/>
+	<Point x="1130" y="190"/>
+	<Point x="1131" y="190"/>
+	<Point x="400" y="190"/>
+	<Point x="400" y="78"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="page-number">
+	<Coords>
+	<Point x="1390" y="78"/>
+	<Point x="1390" y="190"/>
+	<Point x="1274" y="190"/>
+	<Point x="1274" y="167"/>
+	<Point x="1273" y="167"/>
+	<Point x="1273" y="142"/>
+	<Point x="1272" y="142"/>
+	<Point x="1272" y="118"/>
+	<Point x="1271" y="118"/>
+	<Point x="1271" y="93"/>
+	<Point x="1270" y="93"/>
+	<Point x="1270" y="78"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>158</Unicode></TextEquiv></TextRegion></Page></PcGts>

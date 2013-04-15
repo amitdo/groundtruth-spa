@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439250">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T11:19:25</Created>
+	<LastChange>2011-05-12T13:39:54</LastChange></Metadata>
+	<Page imageFilename="00439250.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="172" y="70"/>
+	<Point x="1237" y="64"/>
+	<Point x="1241" y="105"/>
+	<Point x="1239" y="176"/>
+	<Point x="168" y="174"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PARTE II. LIBRO II. CAP. IX.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="31" y="182"/>
+	<Point x="1515" y="190"/>
+	<Point x="1501" y="2584"/>
+	<Point x="986" y="2613"/>
+	<Point x="764" y="2594"/>
+	<Point x="13" y="2609"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bo. Tuvo dos hijos y una hija de una ſeñora noble de
+aquea ciudad. Eos dotrinados con mucho cuydado,
+en virtud y criança, y en todo genero de letras tocantes
+à las artes liberales, y ea en coſas de labor, con exceo
+de curiodad, por averſe criado en un Monaerio do
+Monjas, deſde ſu pequeña edad, à cauſa de aver faeci-
+do ſu madre de ſu miſmo parto. Como los bienes de for-
+tuna ſon mudables, y mas en los mercaderes que traen
+ſus haziendas en boſas agenas, y à la diſpocion de los
+tiempos, no medio pie de la buena ſuerte à la mala. Su-
+Gediò, que como ſus hijos vinieen de las Indias, con
+ſu ma de oro y plata; quando ya Ilegavan à via de la
+barra de ſan Lucar, y como dizen, dentro de las puer-
+tas de ſu caſa; rebolviò un temporal, que con viento
+deshecho, trayendolos de una en otra parte, dio con el
+navio encima de unas peñas, y abierto por medio ſe fue
+luego à pique, n algun reparo, ni lo pudo tener mer-
+caderia ni perſona de toda el. Quando à los oydos del
+padre ego tan aligida nueva de perdida tan grande,
+ſe melancoliçò de manera, que dentro de breves dias
+tambien faeciò. La hija que redia en el Convento,
+ya perdida la hazienda, los hermanos y padre diſuntos,
+viendoſe deſamparada y ſola, ntiò ſu trabajo, como
+lo pudiera ſentir aun qualquier hombre de mucha pru-
+dencia, por averle faltado tanto en tan breve, que pu-
+do dezirſe un dia: y con ea la eſperança de ſu remedio,
+porque deeava ſer Monja. Cearon ſus denios, co-
+menço ſu neceidad, cearon los regalos, començaron
+los trabajos, y fueron creciendo de modo que ya no
+ſabia que hazer, ni como poderſe ai dentro ſuentar.
+Y aunque las Conventuales todas, que la tenian mucho
+amor por la nobleza de ſu condicion, afabilidad, trato,
+y mas buenas partes: condolidas de ſu neceſdad y po-
+breza, la quieran tener congo, mas como eavan
+ſubordinadas à voluntad agena de ſu Perlado, ni eas lo
+pudieron hazer, ni ea fue poible quedar: porque
+dentro, de breve termino ſe le noticò que ſaliee ò ſe-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="525" y="2837"/>
+	<Point x="1305" y="2831"/>
+	<Point x="1309" y="2933"/>
+	<Point x="519" y="2937"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="signature-mark">
+	<Coords>
+	<Point x="617" y="2607"/>
+	<Point x="619" y="2692"/>
+	<Point x="794" y="2692"/>
+	<Point x="796" y="2605"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ñalae</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1205" y="2607"/>
+	<Point x="1205" y="2686"/>
+	<Point x="1413" y="2686"/>
+	<Point x="1409" y="2601"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O o 5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1274" y="109"/>
+	<Point x="1274" y="180"/>
+	<Point x="1417" y="180"/>
+	<Point x="1417" y="109"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>217</Unicode></TextEquiv></TextRegion></Page></PcGts>

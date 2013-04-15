@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442448">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T12:59:51</Created>
+	<LastChange>2012-03-12T14:12:02</LastChange></Metadata>
+	<Page imageFilename="00442448.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="537" y="73"/>
+	<Point x="1196" y="73"/>
+	<Point x="1198" y="158"/>
+	<Point x="823" y="159"/>
+	<Point x="815" y="172"/>
+	<Point x="797" y="172"/>
+	<Point x="796" y="157"/>
+	<Point x="543" y="153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tercera parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="220" y="166"/>
+	<Point x="791" y="167"/>
+	<Point x="795" y="173"/>
+	<Point x="816" y="173"/>
+	<Point x="826" y="165"/>
+	<Point x="1494" y="162"/>
+	<Point x="1498" y="2156"/>
+	<Point x="219" y="2156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no mueua ni ablande ee duro coraçon, mueuale
+el penſar, y creer que a penas ſe aura vuera mer‐
+ced apartado de aqui, quando yo de miedo dè mi
+anima a quiẽ quiere euarla. Yo ſali de mi tierra,
+y dexè hijos y muger, por venir a ſeruir a vuera
+merced, creyendo valer mas, y no menos: pero co‐
+mo la cudicia rõpe el ſaco, a mi me ha raſgado mis
+eſperanças, pues quando mas viuas las tenia de al‐
+cançar aquea negra, y mal hadada inſula que tãtas
+vezes vuera merced me ha prometido, veo  en
+pago y trueco dea, me quiere aora dexar en vn lu
+gar tan apartado del trato humano. Por vn ſolo
+Dios, ſeñor mio, que nõ ſe me faga tal deſaguiſado:
+y ya  del todo no quiera V. m. deir de acome‐
+ter ee fecho, dilatelo alomenos haa la mañana, 
+a lo que a mi me muera la ciencia  aprendi quã‐
+do era paor, no deue de auer deſde aqui al Alua
+tres horas: porque la boca de la bozina eà enci‐
+ma de la cabeça, y haze la media noche en la linea
+del braço yzquierdo. Como pue des tu Sancho, di‐
+xo dõ Quixote, ver donde haze ea linea, ni donde
+eà ea boca, o ee colodrio  dizes,  haze la no
+che tan eſcura  no parece en todo el cielo erea
+alguna? Aſsi es, dixo Sancho, pero tiene el miedo
+muchos ojos, y vee las coſas debaxo de tierra, quã‐
+to mas encima en el cielo, pueo  por buẽ diſcur‐
+ſo biẽ ſe puede entender  ay poco de aqui al dia.
+Falte lo  faltare, reſpondio don Quixote,  no ſe
+ha de dezir por mi aora, ni en ningun tiẽpo, que la‐
+grimas y ruegos me apartarõ de hazer lo  deuia a
+eilo de cauaero: y aſsi te ruego Sancho,  caes,
+que Dios  me ha pueo en coracon de acometer</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1346" y="2162"/>
+	<Point x="1478" y="2162"/>
+	<Point x="1478" y="2208"/>
+	<Point x="1346" y="2208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aora</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="451" y="2305"/>
+	<Point x="1128" y="2305"/>
+	<Point x="1128" y="2369"/>
+	<Point x="451" y="2369"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

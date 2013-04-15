@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438977">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T21:09:06</Created>
+	<LastChange>2011-06-24T14:04:29</LastChange></Metadata>
+	<Page imageFilename="00438977.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="r17" index="2"/>
+	<RegionRefIndexed regionRef="r10" index="3"/>
+	<RegionRefIndexed regionRef="r13" index="4"/>
+	<RegionRefIndexed regionRef="r41" index="5"/>
+	<RegionRefIndexed regionRef="r45" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="374" y="74"/>
+	<Point x="1159" y="59"/>
+	<Point x="1168" y="147"/>
+	<Point x="356" y="172"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ANOTACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="heading">
+	<Coords>
+	<Point x="409" y="1200"/>
+	<Point x="1023" y="1193"/>
+	<Point x="1037" y="1334"/>
+	<Point x="506" y="1344"/>
+	<Point x="406" y="1336"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Egloga ſegunda.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="credit">
+	<Coords>
+	<Point x="496" y="2096"/>
+	<Point x="977" y="2093"/>
+	<Point x="984" y="2140"/>
+	<Point x="475" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="131" y="178"/>
+	<Point x="370" y="183"/>
+	<Point x="1083" y="157"/>
+	<Point x="1181" y="151"/>
+	<Point x="1315" y="156"/>
+	<Point x="1334" y="342"/>
+	<Point x="1094" y="379"/>
+	<Point x="932" y="388"/>
+	<Point x="875" y="393"/>
+	<Point x="813" y="406"/>
+	<Point x="792" y="405"/>
+	<Point x="743" y="386"/>
+	<Point x="481" y="416"/>
+	<Point x="416" y="418"/>
+	<Point x="375" y="397"/>
+	<Point x="355" y="404"/>
+	<Point x="281" y="419"/>
+	<Point x="130" y="420"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lacci mi tinga il mondo, ê poa le alma,
+Che debii gir inanzi homai ſeguirti,
+Tugodi aſsiſatra beati ſpirti,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="126" y="431"/>
+	<Point x="273" y="425"/>
+	<Point x="380" y="409"/>
+	<Point x="397" y="413"/>
+	<Point x="414" y="428"/>
+	<Point x="445" y="421"/>
+	<Point x="476" y="422"/>
+	<Point x="579" y="413"/>
+	<Point x="729" y="396"/>
+	<Point x="756" y="398"/>
+	<Point x="811" y="413"/>
+	<Point x="855" y="401"/>
+	<Point x="888" y="401"/>
+	<Point x="955" y="390"/>
+	<Point x="1065" y="387"/>
+	<Point x="1351" y="369"/>
+	<Point x="1366" y="504"/>
+	<Point x="1336" y="628"/>
+	<Point x="884" y="611"/>
+	<Point x="758" y="615"/>
+	<Point x="170" y="633"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Yen latercerarueda. En el orden de los
+Planetas, contando deſde la Luna, tiene
+Venus el tercero cerco.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="marginalia">
+	<Coords>
+	<Point x="65" y="690"/>
+	<Point x="179" y="683"/>
+	<Point x="177" y="739"/>
+	<Point x="69" y="741"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>112</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="193" y="637"/>
+	<Point x="872" y="620"/>
+	<Point x="1162" y="630"/>
+	<Point x="1157" y="824"/>
+	<Point x="819" y="838"/>
+	<Point x="754" y="856"/>
+	<Point x="742" y="858"/>
+	<Point x="597" y="850"/>
+	<Point x="483" y="851"/>
+	<Point x="431" y="869"/>
+	<Point x="419" y="868"/>
+	<Point x="389" y="854"/>
+	<Point x="165" y="878"/>
+	<Point x="156" y="782"/>
+	<Point x="187" y="743"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Buſque mos otro ano. Sanazaro.
+Altri monti, altripiani,
+Altri boſchett¡, &amp; ripi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="marginalia">
+	<Coords>
+	<Point x="74" y="884"/>
+	<Point x="166" y="893"/>
+	<Point x="161" y="957"/>
+	<Point x="72" y="947"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>113</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="169" y="905"/>
+	<Point x="181" y="889"/>
+	<Point x="302" y="872"/>
+	<Point x="398" y="868"/>
+	<Point x="423" y="875"/>
+	<Point x="511" y="856"/>
+	<Point x="605" y="856"/>
+	<Point x="662" y="865"/>
+	<Point x="737" y="868"/>
+	<Point x="780" y="852"/>
+	<Point x="850" y="852"/>
+	<Point x="944" y="845"/>
+	<Point x="1089" y="843"/>
+	<Point x="1384" y="845"/>
+	<Point x="1346" y="1169"/>
+	<Point x="155" y="1180"/>
+	<Point x="157" y="1031"/>
+	<Point x="166" y="968"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Si mirando las nubes color. Sanazaro
+proſa. 5. Era gia per lo tramontare del Sole,
+tuto le Occidente ſparſo di mie varieta di
+nuuoli, qua li violati, &amp; c.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="marginalia">
+	<Coords>
+	<Point x="82" y="1431"/>
+	<Point x="192" y="1441"/>
+	<Point x="184" y="1492"/>
+	<Point x="97" y="1501"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>114</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords>
+	<Point x="237" y="1359"/>
+	<Point x="1377" y="1346"/>
+	<Point x="1385" y="1810"/>
+	<Point x="316" y="1935"/>
+	<Point x="145" y="1929"/>
+	<Point x="173" y="1544"/>
+	<Point x="193" y="1471"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quan bien auenturado, Aquel puede
+amarſe. Imita aqui mucho aquel celebre
+Oda de Hora. Beatus ie. La qual por ear
+bien traſladada del autor de las paadas: y
+por ſer nueua manera de verſo, y muy cõ-
+for me al Latino, no pude dexar de poner-
+la aqui.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="catch-word">
+	<Coords>
+	<Point x="1232" y="1867"/>
+	<Point x="1372" y="1858"/>
+	<Point x="1371" y="1955"/>
+	<Point x="1227" y="1954"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DI-</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442338">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T17:07:42</Created>
+	<LastChange>2012-03-12T14:11:52</LastChange></Metadata>
+	<Page imageFilename="00442338.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="562" y="70"/>
+	<Point x="1043" y="67"/>
+	<Point x="1063" y="150"/>
+	<Point x="781" y="164"/>
+	<Point x="635" y="165"/>
+	<Point x="528" y="162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Segunda parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="161" y="166"/>
+	<Point x="675" y="172"/>
+	<Point x="798" y="175"/>
+	<Point x="924" y="165"/>
+	<Point x="1471" y="164"/>
+	<Point x="1447" y="2123"/>
+	<Point x="1170" y="2136"/>
+	<Point x="164" y="2145"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>faltaua de tan ſabroſo cuento. Pareciome coſa im-
+poſsible, y fuera de toda buena coumbre, que a tã
+buen cauaero le huuiee faltado algun ſabio que
+tomara a cargo el eſcreuir ſus nunca vias hazañas,
+coſa  no faltò a ninguno de los cauaeros andãtes,
+de los que dizen las gentes que van a ſus auenturas,
+porque cada vno deos tenia, vno, o dos ſabios co-
+mo de molde, que no ſolamente eſcriuiã ſus hechos,
+no que pintauan ſus mas minimos penſamientos, y
+niñerias, por mas eſcondidas que fueen. Y no auia
+de ſer tan desdichado tan buen cauaero,  le faltaſ-
+ſe a el lo que ſobrò a Platir, y a otros ſemejantes. Y
+aſsi no podia inclinarme a creer  tan gaarda hio
+ria huuiee quedado manca, y eropeada, y echaua
+la culpa a la malignidad del tiempo, deuorador, y
+cõſumidor de todas las coſas: el qual, o la tenia ocul
+ta, o conſumida. Por otra parte me parecia,  pues
+entre ſus libros ſe auian haado tan modernos co-
+mo Deſengaño de zelos, y Ninfas y paores de He-
+nares, que tambien ſu hioria deuia de ſer moderna,
+y  ya que no euuiee eſcrita, earia en la memo
+ria de la gente de ſu aldea, y de las a ea circunuezi-
+nas. Ea imaginacion me traía confuſo, y deeoſo
+de ſaber real, y verdaderamẽte, toda la vida y mila-
+gros de nuero famoſo Eſpañol don Quixote de la
+Mancha, luz, y eſpejo de la cauaeria Manchega,
+y el primero que en nuera edad, y en eos tan ca-
+lamitoſos tiempos ſe puſo al trabajo, y exercicio de
+las andantes armas, y al desfazer agrauios, ſoco-
+rrer viudas, amparar donzeas, de aqueas que
+andauan con ſus açotes, y palafrenes, y con toda ſu
+virginidad acueas, de monte en monte, y de vae</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1235" y="2139"/>
+	<Point x="1428" y="2133"/>
+	<Point x="1419" y="2195"/>
+	<Point x="1245" y="2192"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>en va-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="430" y="2297"/>
+	<Point x="1135" y="2307"/>
+	<Point x="1124" y="2370"/>
+	<Point x="974" y="2364"/>
+	<Point x="454" y="2372"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

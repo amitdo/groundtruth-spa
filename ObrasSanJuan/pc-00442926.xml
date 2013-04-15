@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442926">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T20:57:34</Created>
+	<LastChange>2011-03-15T16:51:28</LastChange></Metadata>
+	<Page imageFilename="00442926.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r5" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="486" y="50"/>
+	<Point x="1381" y="50"/>
+	<Point x="1381" y="165"/>
+	<Point x="486" y="165"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>INTRODVCION.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1566" y="2737"/>
+	<Point x="1597" y="2733"/>
+	<Point x="1613" y="2733"/>
+	<Point x="1640" y="2728"/>
+	<Point x="1660" y="2733"/>
+	<Point x="1660" y="2777"/>
+	<Point x="1654" y="2777"/>
+	<Point x="1640" y="2784"/>
+	<Point x="1564" y="2784"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>en</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="155" y="190"/>
+	<Point x="1680" y="200"/>
+	<Point x="1660" y="2705"/>
+	<Point x="687" y="2721"/>
+	<Point x="150" y="2725"/>
+	<Point x="150" y="190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nicado al Autor particular don i gracia, para declarar
+coſas Miicas en ſu lengua materna; no ſe pudiera fa-
+cilmente traduzir en otra aquel vivo i retoque de eſpi-
+ritu, que en las propias fraſes della reſplandece. Era de-
+mas deo mui cõveniente, que en ſu propia i ordinaria
+lengua hallaſen preo i facil enſeñamiento las almas
+que en Eſpaña, tanto i mas que en otras Provincias, tra
+tan de aventajada Contemplacion i Perfecion; eſpecial
+mente enſeñando eos libros un tan ſeguro modo de
+proceder en el trato interior, que antes deſcubre i deſ-
+haze, i cierra la puerta à los engaños, que en ee cami-
+no puede i ſuele aver, que dè ocaſion alguna para caer
+en ellos. I aunque por la alteza de la materia que aqui
+ſe trata, ſe hagan algunas propoſiciones ſuyas algo eſ-
+trañas a la ſencillez del Letor, que no tuviere luz de co
+ſas Miicas; pero la conſecuencia i enlaze dellas con
+las demas haze ſegura, cierta, i facil ſu verdad, è inte-
+ligencia; aviendo, ultra deo, ſido calificada toda ea
+dotrina con la cenſura i apoyo de tantos hombres ſa-
+bios, como cona de fus teimonios, que referirèmos
+deſpues. Tampoco es inconveniente, ò menos decen-
+cia de la materia i del Autor; aver encerrado i reſumi-
+do ſu dotrina en Canciones i Verſos; pues vemos que
+muchos de los Profetas ſagrados i Varones inſpirados
+por Dios, aſi en el Viejo como en el Nuevo Teamẽto,
+hablaron i eſeribierõ en metro, i encerrarõ en Salmos
+i Canticos divinos, grandes i ſacroſantos Mierios; cu-
+yo uſo tambien la Igleſia Criiana ha recebido en ſus
+Oficios divinos, con aprovechamiento i conſuelo de
+los Fieles, i ſuma decencia i veneracion de los Miſte-
+rios i Feividades que celebra . I aſi antes bien es juſ-
+to que la Poeſia, la cual, ſiendo impulſo celeial, i dadi-
+va divina, eà uſurpada, i como tiranizada i envilecida</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="777" y="2937"/>
+	<Point x="777" y="2995"/>
+	<Point x="1413" y="2995"/>
+	<Point x="1413" y="2937"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

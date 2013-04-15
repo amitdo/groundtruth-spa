@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438996">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T02:44:16</Created>
+	<LastChange>2011-06-24T14:04:30</LastChange></Metadata>
+	<Page imageFilename="00438996.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/>
+	<RegionRefIndexed regionRef="r49" index="2"/>
+	<RegionRefIndexed regionRef="r10" index="3"/>
+	<RegionRefIndexed regionRef="r15" index="4"/>
+	<RegionRefIndexed regionRef="r45" index="5"/>
+	<RegionRefIndexed regionRef="r21" index="6"/>
+	<RegionRefIndexed regionRef="r50" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r22" type="credit">
+	<Coords>
+	<Point x="495" y="2099"/>
+	<Point x="978" y="2099"/>
+	<Point x="978" y="2140"/>
+	<Point x="495" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="header">
+	<Coords>
+	<Point x="179" y="57"/>
+	<Point x="998" y="57"/>
+	<Point x="998" y="147"/>
+	<Point x="179" y="147"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A GARCILASSO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="page-number">
+	<Coords>
+	<Point x="1100" y="82"/>
+	<Point x="1231" y="82"/>
+	<Point x="1231" y="150"/>
+	<Point x="1166" y="161"/>
+	<Point x="1100" y="150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>130</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="marginalia">
+	<Coords>
+	<Point x="1210" y="387"/>
+	<Point x="1319" y="389"/>
+	<Point x="1319" y="458"/>
+	<Point x="1210" y="463"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>166</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="marginalia">
+	<Coords>
+	<Point x="1202" y="694"/>
+	<Point x="1305" y="697"/>
+	<Point x="1299" y="773"/>
+	<Point x="1204" y="762"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>167</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="marginalia">
+	<Coords>
+	<Point x="1194" y="996"/>
+	<Point x="1296" y="995"/>
+	<Point x="1292" y="1064"/>
+	<Point x="1194" y="1065"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>168</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="marginalia">
+	<Coords>
+	<Point x="1185" y="1304"/>
+	<Point x="1286" y="1304"/>
+	<Point x="1286" y="1368"/>
+	<Point x="1185" y="1361"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>169</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="marginalia">
+	<Coords>
+	<Point x="1176" y="1609"/>
+	<Point x="1279" y="1604"/>
+	<Point x="1277" y="1675"/>
+	<Point x="1176" y="1675"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>170</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="0" y="153"/>
+	<Point x="702" y="161"/>
+	<Point x="698" y="287"/>
+	<Point x="1020" y="292"/>
+	<Point x="1024" y="378"/>
+	<Point x="1154" y="378"/>
+	<Point x="1180" y="394"/>
+	<Point x="1207" y="409"/>
+	<Point x="1206" y="475"/>
+	<Point x="466" y="484"/>
+	<Point x="459" y="534"/>
+	<Point x="244" y="537"/>
+	<Point x="237" y="548"/>
+	<Point x="219" y="547"/>
+	<Point x="205" y="533"/>
+	<Point x="0" y="534"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Combida vn dulceſueño
+Aquel manſo ruido
+Delagua que la clara fuente embia,
+A que los repugnantes y contrarios, Sa-
+nazaro proſa. 9.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords>
+	<Point x="0" y="697"/>
+	<Point x="114" y="696"/>
+	<Point x="135" y="705"/>
+	<Point x="296" y="709"/>
+	<Point x="318" y="693"/>
+	<Point x="1199" y="685"/>
+	<Point x="1201" y="769"/>
+	<Point x="1217" y="788"/>
+	<Point x="1224" y="922"/>
+	<Point x="676" y="933"/>
+	<Point x="648" y="985"/>
+	<Point x="254" y="994"/>
+	<Point x="237" y="1005"/>
+	<Point x="108" y="1003"/>
+	<Point x="96" y="985"/>
+	<Point x="0" y="985"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Que como fue caudio. Ee lugar eaua
+eſcuro. Agora con entender, que exercito
+es verbo, y en el Chriiano, ſe entiende
+campo, quedarà claro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="0" y="543"/>
+	<Point x="188" y="540"/>
+	<Point x="208" y="550"/>
+	<Point x="237" y="551"/>
+	<Point x="253" y="542"/>
+	<Point x="1223" y="525"/>
+	<Point x="1227" y="629"/>
+	<Point x="726" y="629"/>
+	<Point x="727" y="684"/>
+	<Point x="301" y="686"/>
+	<Point x="264" y="700"/>
+	<Point x="221" y="701"/>
+	<Point x="211" y="689"/>
+	<Point x="132" y="689"/>
+	<Point x="118" y="612"/>
+	<Point x="0" y="610"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In canti di reere ai furio impeti dei
+diſcondeuoli venti.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="3" y="995"/>
+	<Point x="55" y="998"/>
+	<Point x="68" y="1006"/>
+	<Point x="235" y="1010"/>
+	<Point x="248" y="1001"/>
+	<Point x="1185" y="985"/>
+	<Point x="1191" y="1079"/>
+	<Point x="1215" y="1091"/>
+	<Point x="1214" y="1240"/>
+	<Point x="775" y="1245"/>
+	<Point x="772" y="1291"/>
+	<Point x="76" y="1293"/>
+	<Point x="54" y="1288"/>
+	<Point x="4" y="1288"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Que no diera por via ſu largueza? Leyẽ-
+doſe ee lugar con la interrogacion que
+le puſe, me parece que queda claro lo que
+antes a muchos era oſcuro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="2" y="1291"/>
+	<Point x="30" y="1291"/>
+	<Point x="52" y="1298"/>
+	<Point x="1183" y="1293"/>
+	<Point x="1184" y="1374"/>
+	<Point x="1212" y="1381"/>
+	<Point x="1200" y="1592"/>
+	<Point x="1012" y="1591"/>
+	<Point x="992" y="1604"/>
+	<Point x="863" y="1600"/>
+	<Point x="735" y="1612"/>
+	<Point x="670" y="1598"/>
+	<Point x="551" y="1607"/>
+	<Point x="466" y="1597"/>
+	<Point x="366" y="1602"/>
+	<Point x="327" y="1593"/>
+	<Point x="3" y="1588"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Los ojos a los Gelues. Gelues es vna Isla jũ-
+to a Africa, donde murio don Garcia: por
+quien ſe leuantò vn cantar Eſpañol. Y los
+Gelues madre, malos ſon de ganare, &amp;c.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords>
+	<Point x="3" y="1597"/>
+	<Point x="113" y="1596"/>
+	<Point x="326" y="1600"/>
+	<Point x="360" y="1608"/>
+	<Point x="463" y="1601"/>
+	<Point x="548" y="1608"/>
+	<Point x="671" y="1602"/>
+	<Point x="735" y="1615"/>
+	<Point x="857" y="1605"/>
+	<Point x="1000" y="1611"/>
+	<Point x="1018" y="1600"/>
+	<Point x="1172" y="1600"/>
+	<Point x="1172" y="1694"/>
+	<Point x="1192" y="1698"/>
+	<Point x="1191" y="1823"/>
+	<Point x="476" y="1819"/>
+	<Point x="462" y="1835"/>
+	<Point x="435" y="1835"/>
+	<Point x="424" y="1822"/>
+	<Point x="319" y="1820"/>
+	<Point x="296" y="1835"/>
+	<Point x="261" y="1835"/>
+	<Point x="46" y="1822"/>
+	<Point x="35" y="1805"/>
+	<Point x="1" y="1804"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Puſo en el duro ſuelo la hermoſa cara, &amp;c.
+Eos doze verſos tieneo elegante imita-
+cion de algunos poetas. Dize Ario.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="0" y="1811"/>
+	<Point x="27" y="1813"/>
+	<Point x="31" y="1833"/>
+	<Point x="262" y="1840"/>
+	<Point x="318" y="1839"/>
+	<Point x="349" y="1827"/>
+	<Point x="419" y="1828"/>
+	<Point x="424" y="1844"/>
+	<Point x="470" y="1843"/>
+	<Point x="486" y="1824"/>
+	<Point x="1003" y="1827"/>
+	<Point x="1014" y="1916"/>
+	<Point x="1012" y="1988"/>
+	<Point x="843" y="1991"/>
+	<Point x="816" y="1980"/>
+	<Point x="689" y="1989"/>
+	<Point x="665" y="1979"/>
+	<Point x="620" y="1980"/>
+	<Point x="558" y="1995"/>
+	<Point x="0" y="1992"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Come purpureo ﬁor languendo more
+ch' el vomere al paar tagliato laa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="catch-word">
+	<Coords>
+	<Point x="1018" y="1973"/>
+	<Point x="1200" y="1973"/>
+	<Point x="1200" y="2063"/>
+	<Point x="1018" y="2063"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Virg.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="signature-mark">
+	<Coords>
+	<Point x="633" y="1983"/>
+	<Point x="666" y="1983"/>
+	<Point x="695" y="1997"/>
+	<Point x="811" y="1989"/>
+	<Point x="812" y="2063"/>
+	<Point x="632" y="2063"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>R 2</Unicode></TextEquiv></TextRegion></Page></PcGts>

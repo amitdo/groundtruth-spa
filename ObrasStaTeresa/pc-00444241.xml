@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444241">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T11:15:34</Created>
+	<LastChange>2011-12-19T11:39:33</LastChange></Metadata>
+	<Page imageFilename="00444241.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="308" y="107"/>
+	<Point x="1499" y="120"/>
+	<Point x="1488" y="230"/>
+	<Point x="300" y="221"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="167" y="240"/>
+	<Point x="817" y="234"/>
+	<Point x="1408" y="246"/>
+	<Point x="1513" y="257"/>
+	<Point x="1770" y="258"/>
+	<Point x="1776" y="2630"/>
+	<Point x="1686" y="2652"/>
+	<Point x="1389" y="2658"/>
+	<Point x="1295" y="2687"/>
+	<Point x="1252" y="2650"/>
+	<Point x="1108" y="2646"/>
+	<Point x="1002" y="2689"/>
+	<Point x="500" y="2706"/>
+	<Point x="128" y="2686"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mandar. Quando ſe quitaron muchos li-
+bros de romance que no ſe leyeen yo
+ſenti mucho, porque algunos me daua re-
+creacion leerlos, y yo no podia ya por de-
+xar los en Latin, me dixo el Señor: No ten-
+gas pena que yo te dare libro viuo: Yo no
+podia entender porque ſe me auia dicho
+eo, porque aun no tenia viones, deſpues
+deſde a bien pocos dias lo entendi muy bien,
+porque he tenido tanto que penſar y reco-
+germe en lo que via preſente, y ha tenido
+tanto amor el Señor conmigo para enſeñar-
+me de muchas maneras, que muy poca o
+ca ninguna neceſsidad he tenido de li-
+bros, ſu magead ha do el libro verda-
+dero a donde he vio las verdades, ben-
+dito ſea tal libro que dexa imprimido lo
+que ſe ha de leer, y hazer de manera que
+no ſe puede oluidar. Quien vee al Señor
+cubierto de agas y afﬂigido con perſecu-
+ciones que no las abrace, y las ame, y
+las deee? Quien vee algo de la gloria
+que da a los que le ruen que no conozca
+es todo nada quanto ſe puede hazer y
+padecer pues tal premio eſperamos? Quien
+vee los tormentos que paan los condem-
+nados que no ſe le hagan deleytes los tor-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1419" y="2668"/>
+	<Point x="1707" y="2664"/>
+	<Point x="1723" y="2752"/>
+	<Point x="1405" y="2747"/>
+	<Point x="1415" y="2692"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mentos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="610" y="3057"/>
+	<Point x="1582" y="3061"/>
+	<Point x="1580" y="3164"/>
+	<Point x="600" y="3152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1529" y="151"/>
+	<Point x="1529" y="242"/>
+	<Point x="1697" y="247"/>
+	<Point x="1697" y="151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>313</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1100" y="2657"/>
+	<Point x="1088" y="2711"/>
+	<Point x="1084" y="2761"/>
+	<Point x="1279" y="2759"/>
+	<Point x="1282" y="2702"/>
+	<Point x="1252" y="2666"/>
+	<Point x="1225" y="2664"/>
+	<Point x="1181" y="2658"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>V 5</Unicode></TextEquiv></TextRegion></Page></PcGts>

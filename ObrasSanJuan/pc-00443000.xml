@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443000">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T08:23:03</Created>
+	<LastChange>2011-03-15T16:51:31</LastChange></Metadata>
+	<Page imageFilename="00443000.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="424" y="66"/>
+	<Point x="424" y="152"/>
+	<Point x="1018" y="152"/>
+	<Point x="1016" y="54"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fr. Ioan de la Cruz.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1418" y="68"/>
+	<Point x="1418" y="148"/>
+	<Point x="1516" y="148"/>
+	<Point x="1516" y="68"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>45</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="30" y="216"/>
+	<Point x="35" y="833"/>
+	<Point x="80" y="2713"/>
+	<Point x="691" y="2725"/>
+	<Point x="1571" y="2711"/>
+	<Point x="1542" y="184"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dre Ana de IESVS, Priora entonces de las Deſcalças
+de Veas, que ſe le quexaba de no tener Maero eſpiri-
+tual con quien comunicar ſu alma, eas formales pala-
+bras: En gracia me ha caido, hija, cuan n razon ſe quexa;
+pues tiene allà a mi Padre Fr. IOAN DE LA CRVZ
+QVE ES VN HOMBRE CELESTIAL
+I DIVINO. Pues yo le digo a mi hija; que deſpues que
+ſe fue allà NO HE HALLA DO EN TO-
+DA CASTILLA OTRO COMO EL,
+NI QVE T ANTO AFERVORE EN EL
+CA MINO DEL CIELO. No creera la ſole-
+dad que me cauſa ſu falta. MlREN QVE ES VN
+GRAN TESORO EL QVE TIENEN
+ALLA EN ESTE SANTO; i todas las deſa ca-
+ſa traten i comuniquen con èl ſus al mas, i veran que aprove
+chadas ean, i ſe hallaràn mui adelante en to do lo que es eſ-
+piritu i perfecion. PORQVE LE HA DADO
+NVESTRO SEñOR PARA ESTO
+PARTICVLAR GRACIA. No menos gran
+de, i mas admirable es el teimonio que la miſma San-
+ta ya glorioſa ha dado en abono del Venerable Padre,
+yà tambien difunto, deſde el cielo. En el Convento de
+las Carmelitas Deſcalças de Granada, un dia deſpues
+de pueo el Sol, vio la Madre Maria de San-Pablo, ſa-
+lir un reſplandor i rayo de luz de una Imagen de nueſ-
+tra ſanta Madre, que avia en una Ermita de la huerta.
+Admirada deo, reparò adonde ſe terminaba el rayo,
+i hallò que en un papelito, en el cual eaba embuelta
+una reliquia de nuero Venerable Padre Frai IOAN
+DE LA CRVZ, que ſe le avia caido alli a una Re
+ligioſa, como ſe ſupo deſpues; alçòle, i con eo cesò la
+luz, pero no la admiracion que causò en todos los que
+ſupieron, cuan a lo milagroſo i glorioſo avia manifea-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1462" y="2717"/>
+	<Point x="1462" y="2781"/>
+	<Point x="1563" y="2781"/>
+	<Point x="1563" y="2717"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>do</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="772" y="2937"/>
+	<Point x="772" y="2995"/>
+	<Point x="1417" y="2995"/>
+	<Point x="1417" y="2937"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

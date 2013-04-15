@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441891">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T10:10:47</Created>
+	<LastChange>2011-07-05T14:26:38</LastChange></Metadata>
+	<Page imageFilename="00441891.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="700" y="3124"/>
+	<Point x="1464" y="3124"/>
+	<Point x="1464" y="3200"/>
+	<Point x="700" y="3200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="174" y="887"/>
+	<Point x="1983" y="887"/>
+	<Point x="1983" y="1111"/>
+	<Point x="1984" y="1111"/>
+	<Point x="1825" y="1111"/>
+	<Point x="1825" y="1112"/>
+	<Point x="1822" y="1112"/>
+	<Point x="1822" y="1363"/>
+	<Point x="1822" y="1362"/>
+	<Point x="175" y="1362"/>
+	<Point x="175" y="1238"/>
+	<Point x="174" y="1238"/>
+	<Point x="174" y="1116"/>
+	<Point x="173" y="1116"/>
+	<Point x="173" y="1106"/>
+	<Point x="174" y="1106"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Si quis Amat, quod Amare iuvat, feliciter ardet;
+Gaudeat, &amp; vento navigetille ſuo.
+At,  quis malè fert indignæ regna puellæ,
+Ne pereat, noræ ſentiat artis opem.</Unicode></TextEquiv></TextRegion></Page></PcGts>

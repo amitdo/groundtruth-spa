@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444225">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:43:40</Created>
+	<LastChange>2011-12-19T11:39:32</LastChange></Metadata>
+	<Page imageFilename="00444225.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="328" y="126"/>
+	<Point x="1485" y="121"/>
+	<Point x="1497" y="238"/>
+	<Point x="325" y="238"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="147" y="250"/>
+	<Point x="1735" y="255"/>
+	<Point x="1738" y="2669"/>
+	<Point x="1593" y="2663"/>
+	<Point x="1486" y="2691"/>
+	<Point x="1449" y="2667"/>
+	<Point x="1288" y="2662"/>
+	<Point x="1275" y="2698"/>
+	<Point x="137" y="2762"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ee engaño, y parecerle que entiẽde, aunque
+yo no ſe como. O ea alma lo quiere enten-
+der, o no,  ſe ea deshaziendo de lo que en-
+tiende, y en ninguna manera querria enten-
+der nada por mil temores, y otras muchas cau
+ſas que ay, para tener deeo de ear quieta
+en ſu oracion, n eas coſas, como da tanto
+eſpacio el entendimiẽto que ordene razones,
+tiempo es meneer para eo. Aca n perder
+ninguno quedamos enſeñadas, y ſe entiendẽ
+coſas, que parece era meneer vn mes para
+ordenarlas. Y el miſmo entendimiento y al-
+ma quedan eſpantados de algunas coſas que
+ſe entienden. Eo es an, y quien tuuiere eſ-
+periencia, vera que es al pie de la letra todo lo
+que he dicho, alabo a Dios porque lo he ſabi-
+do an dezir. Y acabo con que me parece,
+endo del entendimiento, quando lo quieſ-
+ſemos lo podriamos entender, y cada vez que
+tenemos oracion, nos podria parecer entende
+mos, mas en eotro no es an, no que eare
+muchos dias, que aunque quiera entender al-
+go, es impoſsible, y quando otras vezes no
+quiero, como he dicho, lo tengo de entender,
+pareceme que quien quiee engañar a los
+otros, diziendo que entiẽde de Dios lo que es
+de , que poco le cuea dezir, que la oye con</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="580" y="3052"/>
+	<Point x="1590" y="3052"/>
+	<Point x="1590" y="3157"/>
+	<Point x="580" y="3157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1526" y="150"/>
+	<Point x="1525" y="245"/>
+	<Point x="1741" y="245"/>
+	<Point x="1742" y="150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>297</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1603" y="2671"/>
+	<Point x="1607" y="2757"/>
+	<Point x="1714" y="2757"/>
+	<Point x="1719" y="2675"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>los</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1295" y="2673"/>
+	<Point x="1295" y="2795"/>
+	<Point x="1453" y="2790"/>
+	<Point x="1446" y="2679"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T 5</Unicode></TextEquiv></TextRegion></Page></PcGts>

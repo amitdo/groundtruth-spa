@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440494">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T02:16:04</Created>
+	<LastChange>2011-07-05T14:26:03</LastChange></Metadata>
+	<Page imageFilename="00440494.tif" imageWidth="876" imageHeight="1640">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="106" y="93"/>
+	<Point x="845" y="98"/>
+	<Point x="834" y="1507"/>
+	<Point x="104" y="1512"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dos dias con mucho contento pe-
+ro mi deſdicha no permitio, que
+me durae mucho aquel deſcan-
+ſo, porque al tercero me vino la
+terciana, viendo al que me ma-
+taua de hambre, que auierta el
+arca voluia, y reuoluia contando
+vna, y muchas vezes los panes.
+Yo diimulaua, y en lo interior
+de mi alma rogaua a Dios, y de-
+zia ; ciegale ſan Anton. Deſpues
+que euuo vn gran rato echan-
+do la cuenta por dias, y dedos di-
+xo: Sino tuuiera ea arca tan buen
+cerradura, dixera que me auian
+tomado panes dea, pero de oy
+mas ſolo por cerrar la puerta ala
+ſoſpecha, quiero tener buena
+cuenta con ellos, nueue quedan,
+y vn pedaço. Nueuas malas te de
+Dios, dixe entre mi, eo me a-
+traueſo el coraçon, como  fue-
+ra vna ſaeta, comẽçoſeme el eo-
+mago a eſcaruar de hambre, vien-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="credit">
+	<Coords>
+	<Point x="283" y="1582"/>
+	<Point x="566" y="1582"/>
+	<Point x="566" y="1611"/>
+	<Point x="283" y="1611"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="header">
+	<Coords>
+	<Point x="357" y="33"/>
+	<Point x="358" y="88"/>
+	<Point x="622" y="88"/>
+	<Point x="619" y="40"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="120" y="48"/>
+	<Point x="116" y="88"/>
+	<Point x="182" y="89"/>
+	<Point x="184" y="51"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>40</Unicode></TextEquiv></TextRegion></Page></PcGts>

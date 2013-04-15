@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444264">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:18:19</Created>
+	<LastChange>2011-12-19T11:39:34</LastChange></Metadata>
+	<Page imageFilename="00444264.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="901" y="105"/>
+	<Point x="1549" y="117"/>
+	<Point x="1541" y="225"/>
+	<Point x="891" y="215"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="416" y="256"/>
+	<Point x="1518" y="243"/>
+	<Point x="2019" y="244"/>
+	<Point x="2015" y="2676"/>
+	<Point x="1945" y="2655"/>
+	<Point x="1879" y="2634"/>
+	<Point x="1840" y="2636"/>
+	<Point x="1348" y="2668"/>
+	<Point x="420" y="2680"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que me parecia imagẽ, no como los debuxos
+de aca por muy perfetos que ſean, que hartos
+he vio buenos, es diſparate penſar que tie-
+ne ſemejança lo vno con lo otro en ninguna
+manera, no mas ni menos que la tiene vna
+perſona viua a ſu retrato, que por bien que
+ee ſacado, no puede ſer tan al natural, que
+en ﬁn ſe vee es coſa muerta, mas dexemos
+eo que aqui viene bien, y muy al pie de la
+letra. No digo que es comparacion, que nun-
+ca ſon tan cabales, no verdad, que ay la dif-
+ferencia que de lo biuo a lo pintado, no mas
+ni menos, por  es imagen, es imagen biua,
+no hombre muerto, no Chrio biuo, y da a
+entender que es hõbre y Dios, no como ea-
+ua en el ſepulcro, no como ſalio del deſ-
+pues de reſuſcitado. Y viene a vezes con tan
+grande magead, que no ay quien pueda du-
+dar, no que es el miſmo ſeñor, en eſpecial
+en acabando de comulgar, que ya ſabemos 
+ea ai, que nos lo dize la fe, repreſentae tã
+ſeñor de aquea poſada que parece toda deſ-
+hecha el alma ſe vee conſumir en Chrio: o
+Ieſus mio, quien pudiee dar a entender la
+Magead con que os morays. Y quan Se-
+ñor de todo el mundo, y de los cielos, y de
+otros mil mundos, y n quento mundos y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1769" y="2650"/>
+	<Point x="1891" y="2642"/>
+	<Point x="1988" y="2672"/>
+	<Point x="1964" y="2741"/>
+	<Point x="1776" y="2738"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cielos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="625" y="3063"/>
+	<Point x="1569" y="3070"/>
+	<Point x="1568" y="3152"/>
+	<Point x="621" y="3144"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="438" y="113"/>
+	<Point x="438" y="243"/>
+	<Point x="605" y="243"/>
+	<Point x="605" y="113"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>336</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440551">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T13:21:22</Created>
+	<LastChange>2011-07-05T14:26:05</LastChange></Metadata>
+	<Page imageFilename="00440551.tif" imageWidth="880" imageHeight="1599">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r16" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="signature-mark">
+	<Coords>
+	<Point x="570" y="1485"/>
+	<Point x="607" y="1485"/>
+	<Point x="607" y="1532"/>
+	<Point x="570" y="1532"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="682" y="7"/>
+	<Point x="685" y="60"/>
+	<Point x="82" y="58"/>
+	<Point x="86" y="7"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LAZAR. DE TORM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="774" y="22"/>
+	<Point x="775" y="66"/>
+	<Point x="702" y="66"/>
+	<Point x="704" y="22"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>97</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="46" y="64"/>
+	<Point x="787" y="70"/>
+	<Point x="803" y="1485"/>
+	<Point x="644" y="1487"/>
+	<Point x="626" y="1473"/>
+	<Point x="334" y="1487"/>
+	<Point x="37" y="1477"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>gre- ſes a tomar la bula : informa-
+uaſe de la ſuﬁciencia dellos :  de-
+zian que entendian latin, no ha-
+blaua palabra por no dar trope-
+çon, mas aprouechauaſe de vn gẽ-
+til, y bien cortado romance, y de-
+ſemboltiima lengua, y  ſabia
+que los dichos clerigos eran de
+los reuerendos, digo que mas con
+dineros que con letras, y con re-
+uerendas ſe ordenan, haziaſe en-
+tre ellos vn ſanto Tomas, y habla-
+ua dos horas en Latin, alomenos
+que lo parecia, aunque no lo era.
+Quando por bien no le tomauan
+las bulas, buſcaua como por mal
+ſe las tomaen, y para ee eſeo
+hazia mil moleias al pueblo. Y
+otras vezes con mañoſos artiﬁ-
+cios, y por que ſeria largo de con-
+tar todos los que hizo, dire vno
+muy ſutil, y donoſo, con que pro-
+uar bîen ſu ſuﬁciencia. En vn lu-
+gar de la ſagra de Tolodo, auia</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="credit">
+	<Coords>
+	<Point x="279" y="1544"/>
+	<Point x="279" y="1589"/>
+	<Point x="581" y="1589"/>
+	<Point x="581" y="1544"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

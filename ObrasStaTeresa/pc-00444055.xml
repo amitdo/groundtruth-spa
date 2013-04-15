@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444055">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T11:22:54</Created>
+	<LastChange>2011-12-19T11:39:23</LastChange></Metadata>
+	<Page imageFilename="00444055.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="150" y="261"/>
+	<Point x="1750" y="261"/>
+	<Point x="1757" y="2652"/>
+	<Point x="1419" y="2654"/>
+	<Point x="1414" y="2685"/>
+	<Point x="150" y="2685"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vezes, ay mas y menos de penſar en eo co‐
+mo deſpues dire. Al principio anda pena,
+que no acaban de entender que ſe arrepien‐
+ten de los peccados, y  hazen, pues ſe de‐
+terminan a ſeruir a Dios tan de veras. Han
+de procurar tratar de la vida de Chrio, y
+canſaſe el entendimiento en eo, haa
+aqui podemos adquirir noſotros, entien‐
+deſe con el fauor de Dios, que n ee ya
+ſe ſabe no podemos tener vn buen penſa‐
+miento. Eo es començar a ſacar agua del
+pozo, y aun plegue a Dios la quiera te‐
+ner, mas almenos no queda por noſotros
+que ya vamos a ſacarla, y hazemos lo que
+podemos para regar eas ﬂores, y es Dios
+tan bueno, que quando por lo que ſu ma-
+gead ſabe, por ventura para gran proue-
+cho nuero, quiere que ee ſeco el pozo,
+haziendo lo que es en noſotros como bue‐
+nos hortelanos n agua ſuenta las ﬂores,
+y haze crecer las virtudes, amo agua aqui
+las lagrimas, y aunque no las aya la ter‐
+nura y ſentimiento interior de deuocion.
+Pues que hara aqui el que vee que en mu‐
+chos dias no ay no ſequedad y diſguo
+y deabor y tan mala gana para venir a ſa‐
+car el agua, que no ſe le acordae que haze</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1435" y="2661"/>
+	<Point x="1704" y="2661"/>
+	<Point x="1704" y="2783"/>
+	<Point x="1435" y="2783"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>plazer</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="611" y="3061"/>
+	<Point x="1569" y="3061"/>
+	<Point x="1569" y="3157"/>
+	<Point x="611" y="3157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="335" y="119"/>
+	<Point x="335" y="226"/>
+	<Point x="1540" y="226"/>
+	<Point x="1540" y="119"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1573" y="140"/>
+	<Point x="1573" y="247"/>
+	<Point x="1740" y="247"/>
+	<Point x="1740" y="140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>127</Unicode></TextEquiv></TextRegion></Page></PcGts>

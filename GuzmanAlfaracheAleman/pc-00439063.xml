@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439063">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T08:25:43</Created>
+	<LastChange>2010-12-28T05:03:38</LastChange></Metadata>
+	<Page imageFilename="00439063.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="289" y="87"/>
+	<Point x="1257" y="76"/>
+	<Point x="1274" y="169"/>
+	<Point x="276" y="173"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PARTE I. LIBRO I. CAP. III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="55" y="182"/>
+	<Point x="1512" y="189"/>
+	<Point x="1542" y="2603"/>
+	<Point x="1514" y="2601"/>
+	<Point x="1190" y="2623"/>
+	<Point x="64" y="2632"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>lo has oydo) cevado à torreznos, moetes, y mantequi-
+as, y ſopas de miel roſada, mirado y adorado, mas que hĳo
+de mercader de Toledo, ò tanto: haziaſeme de mal dexar
+mi caſa, deudos y amigos, de mas que es dulce amor el de
+la patria. Siendome forçoſo, no pude eſcuſarlo: alentava-
+me mucho el deeo de ver mundo, yr à reconocer en
+Italia mi noble parentela: ſalì, que no deviera (bien pu-
+de dezir) tarde y con mal, creyendo haar copioſo re-
+medio, perdì el poco que tenia: ſucediome lo que al
+perro con la ſombra de la carne: apenas avia ſalido de la
+puerta, quando, n poderlo reir, dos Nilos reventa-
+ron de mis ojos, que regandome el roro en abundancia,
+quedò todo de lagrimas bañado: eo, y querer anoche-
+cer, no me dexavan ver cielo, ni palmo de tierra por
+donde yva. Quando eguè à ſan Lazaro, que eà de la
+ciudad poca diancia, ſentème en la eſcalera ò gradas por
+donde ſuben à aquea devota hermita. Ai hize de nue-
+vo alarde de mi vida, y diſcurſos dea: quiera bolverme
+por aver ſalido mal apercebido, con poco acuerdo y po-
+co dinero para viage tan largo, que aun para corto no
+evava, y ſobre tantas deſdichas (que quando comien-
+çan, vienen empre muchas y ençarçadas unas de otras
+como cerezas) era Viernes en la noche, y algo eſcura, no
+avia cenado ni merendado:  fuera dia de carne, que à
+la ſalida de la ciudad, aunque fuera naturalmente ciego,
+el olor me evara en alguna paeleria, à comprar un pa-
+el, conque me entretuviera, y enxugara el anto, el
+mal fuera menos. Entonces echè de ver quanto ſe ente
+mas el bien perdido, y la diferencia que haze del ham-
+briento el harto: todos los trabajos comiendo ſe paan,
+donde la comida falta, no ay bien  egue, ni mal que no
+ſobre, guo que dure, ni contento que aſsia: todos riñen
+n ſaber porque, ninguno tiene culpa: unos à otros ſe la
+ponen, todos traçan, y ſon quimerias: todo es entonces
+govierno y ﬁloſoﬁa. Vime con ganas de cenar, y n que
+poder egar à la boca, ſalvo agua freſca de una fuente
+que ai eava: no ſupe que hazer, ni à que puerto echar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1401" y="2616"/>
+	<Point x="1416" y="2611"/>
+	<Point x="1435" y="2609"/>
+	<Point x="1452" y="2609"/>
+	<Point x="1467" y="2613"/>
+	<Point x="1491" y="2612"/>
+	<Point x="1500" y="2627"/>
+	<Point x="1521" y="2674"/>
+	<Point x="1474" y="2680"/>
+	<Point x="1417" y="2680"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="544" y="2866"/>
+	<Point x="1299" y="2864"/>
+	<Point x="1308" y="2933"/>
+	<Point x="1280" y="2934"/>
+	<Point x="1202" y="2933"/>
+	<Point x="1003" y="2927"/>
+	<Point x="533" y="2935"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1385" y="103"/>
+	<Point x="1383" y="181"/>
+	<Point x="1483" y="180"/>
+	<Point x="1482" y="103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>31</Unicode></TextEquiv></TextRegion></Page></PcGts>

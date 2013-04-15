@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444260">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:17:50</Created>
+	<LastChange>2011-12-19T11:39:34</LastChange></Metadata>
+	<Page imageFilename="00444260.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="958" y="119"/>
+	<Point x="1539" y="115"/>
+	<Point x="1526" y="223"/>
+	<Point x="932" y="222"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1861" y="2670"/>
+	<Point x="1992" y="2670"/>
+	<Point x="1986" y="2728"/>
+	<Point x="1923" y="2729"/>
+	<Point x="1862" y="2729"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>me</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="621" y="3067"/>
+	<Point x="1565" y="3068"/>
+	<Point x="1565" y="3153"/>
+	<Point x="622" y="3153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="410" y="246"/>
+	<Point x="2040" y="235"/>
+	<Point x="2037" y="2653"/>
+	<Point x="1743" y="2670"/>
+	<Point x="401" y="2668"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>certidumbre, y ſeguridad, y con tales efſetos
+que preo ſe perdia el temor. Vn dia de ſan
+Pablo eãdo en mia, ſe me repreſento toda
+ea humanidad ſacratiſsima, como ſe pinta re
+ſucitado, con tanta hermoſura y magead, co
+mo particularmẽte eſcriui a v.m. quando mu
+cho me lo mando, y haziaſeme harto de mal,
+por no ſe puede dezir, que no ſea deshazerſe,
+mas lo mejor que ſupe ya lo dixe, y an no ay
+para que tornarlo a dezir aqui, ſolo digo que
+quando otra coſa no vuiee para deleytar la
+via en el cielo, no la grã hermoſura de los
+cuerpos gloriﬁcados, es grãdiſsima gloria, en
+eſpecial ver la humauidad de Ieſu Chrio Se
+ñor nuero, aun aca que ſe muera ſu Mage-
+ad, conforme a lo que puede ſuﬀrir nuera
+miſeria, que ſera adonde del todo ſe goza tal
+bien. Ea vion aunque es imaginaria nunca
+la vi con los ojos corporales, ni ninguna, no
+con los ojos del alma, dizen los que lo ſaben
+mejor que yo, que es mas perfeta la paada 
+ea, y ea mas mucho,  las que ſe veẽ cõ los
+ojos corporales, ea dizē es la mas baxa, y adõ
+de mas iuones puede hazer el demonio, aũ
+que entonces no podia yo entender tal, no 
+deeaua ya  ſe me hazia ea merced,  fueſ-
+ſe viendola con los ojos corporales, para  no</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="441" y="129"/>
+	<Point x="431" y="230"/>
+	<Point x="655" y="231"/>
+	<Point x="645" y="129"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>332</Unicode></TextEquiv></TextRegion></Page></PcGts>

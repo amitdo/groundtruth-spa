@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444086">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:56:17</Created>
+	<LastChange>2011-12-19T11:39:24</LastChange></Metadata>
+	<Page imageFilename="00444086.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="946" y="89"/>
+	<Point x="1632" y="86"/>
+	<Point x="1630" y="189"/>
+	<Point x="950" y="190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="490" y="224"/>
+	<Point x="2030" y="214"/>
+	<Point x="2050" y="2624"/>
+	<Point x="1880" y="2621"/>
+	<Point x="1848" y="2641"/>
+	<Point x="474" y="2637"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ninguno por ſu culpa lo pierda. Y podra ſer
+que penſemos algunos de los que eamos
+libres deos trabajos, y nos lo dan guiſa-
+do como dizen, y viuiendo a nuero
+plazer, que por tener vn poco de mas ora-
+cion nos hemos de auentajar a tantos tra-
+bajos. Bendito ſeays vos Señor que tan
+inhabil y n prouecho me hezies, mas
+alabo os muy mucho porque deſpertays a
+tantos que nos deſpierten, auia de ſer
+muy contina nuera oracion por eos que
+nos dan luz, que ſeriamos n eos entre
+tan grandes tempeades como aora tiene
+la yglea? Y  algunos ha auido ruynes,
+mas reſplandeceran los buenos, plega al
+Señor los tenga de ſu mano y los ayu-
+de para que nos ayuden, Amen. Mu-
+cho he ſalido de propoto de lo que
+comence a dezir, mas todo es propoto
+para los que comiençan, que comiencen
+camino tan alto de manera que vayan
+pueos en verdadero camino. Pues tor-
+nando a lo que dezia de penſar a Chri-
+o a la columna, es bueno diſcurrir vn
+rato, y penſar las penas que ai tuuo
+y porque las tuuo, y quien es el que
+las tuuo y el amor con que las pao,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1865" y="2640"/>
+	<Point x="2042" y="2640"/>
+	<Point x="2042" y="2712"/>
+	<Point x="1865" y="2712"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mas</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="594" y="3048"/>
+	<Point x="1590" y="3048"/>
+	<Point x="1590" y="3156"/>
+	<Point x="594" y="3156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="512" y="106"/>
+	<Point x="512" y="204"/>
+	<Point x="665" y="204"/>
+	<Point x="665" y="106"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>158</Unicode></TextEquiv></TextRegion></Page></PcGts>

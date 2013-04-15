@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444312">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T11:23:59</Created>
+	<LastChange>2011-12-19T11:39:37</LastChange></Metadata>
+	<Page imageFilename="00444312.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="467" y="261"/>
+	<Point x="1155" y="253"/>
+	<Point x="2045" y="256"/>
+	<Point x="2079" y="2661"/>
+	<Point x="1808" y="2657"/>
+	<Point x="1808" y="2681"/>
+	<Point x="473" y="2677"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aunque el cuerpo lo ente, y por otra parte
+ando aﬂigida que yo no ſe como eo puede
+ſer, mas paa an que entonces parece ea el
+alma en ſu reyno, y que lo trae todo debaxo
+de los pies, dauame algunas vezes, y duro-
+me hartos dias, y parecia era virtud y hu-
+mildad, y aora veo claro era tentacion (vn
+frayle Dominico gran letrado me lo decla-
+ro bien) quando penſaua que eas merce-
+des que el Señor me haze ſe auian de venir a
+ſaber en publico, era tan exceſsiuo el tormen
+to que me inquietaua mucho el alma, vino a
+terminos que conderandolo, de mejor ga-
+na me parece me determinaua a que me en-
+terraran biua, y aſsi quando me començaron
+eos grandes recogimientos o arrobamien-
+tos a no poder reirlos en publico queda-
+ua yo deſpues tan corrida que no quiera pa
+recer adonde nadie me viera. Eando vna vez
+muy fatigada de eo me dixo el Señor, que
+que temia, que en eo no podia no auer
+dos coſas, o que murmuraen de mi, o que
+alabaen a el, dando a entender que los que
+lo creyan lo alabarian, y los que no, era con-
+dennarme n culpa, y que ambas coſas eran
+ganancia para mi, que no mefatigae, mu-
+cho me ſoego eo, y me conſuela quãdo ſe</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1916" y="2671"/>
+	<Point x="2053" y="2671"/>
+	<Point x="2053" y="2748"/>
+	<Point x="1916" y="2748"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>me</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="612" y="3075"/>
+	<Point x="1585" y="3075"/>
+	<Point x="1585" y="3151"/>
+	<Point x="612" y="3151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="1005" y="122"/>
+	<Point x="1630" y="122"/>
+	<Point x="1630" y="238"/>
+	<Point x="1005" y="238"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="538" y="140"/>
+	<Point x="694" y="140"/>
+	<Point x="694" y="248"/>
+	<Point x="526" y="251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>384</Unicode></TextEquiv></TextRegion></Page></PcGts>

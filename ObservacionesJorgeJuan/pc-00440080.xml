@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440080">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T10:05:34</Created>
+	<LastChange>2011-12-19T11:38:40</LastChange></Metadata>
+	<Page imageFilename="00440080.tif" imageWidth="2937" imageHeight="4105">
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="738" y="239"/>
+	<Point x="1845" y="239"/>
+	<Point x="1845" y="338"/>
+	<Point x="738" y="338"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LAS DECLINACIONES DEL SOL.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="credit">
+	<Coords>
+	<Point x="989" y="4016"/>
+	<Point x="1958" y="4016"/>
+	<Point x="1958" y="4094"/>
+	<Point x="989" y="4094"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="page-number">
+	<Coords>
+	<Point x="2007" y="243"/>
+	<Point x="2007" y="365"/>
+	<Point x="2147" y="365"/>
+	<Point x="2147" y="243"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>63</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r3">
+	<Coords>
+	<Point x="523" y="354"/>
+	<Point x="1945" y="354"/>
+	<Point x="1945" y="3609"/>
+	<Point x="523" y="3609"/></Coords></TableRegion></Page></PcGts>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485943">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T10:06:52</Created>
+	<LastChange>2011-07-28T11:29:15</LastChange></Metadata>
+	<Page imageFilename="00485943.tif" imageWidth="2197" imageHeight="3093">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r15" index="0"/>
+	<RegionRefIndexed regionRef="r20" index="1"/>
+	<RegionRefIndexed regionRef="r32" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="319" y="84"/>
+	<Point x="548" y="71"/>
+	<Point x="1257" y="73"/>
+	<Point x="1262" y="195"/>
+	<Point x="1139" y="192"/>
+	<Point x="918" y="173"/>
+	<Point x="871" y="189"/>
+	<Point x="851" y="186"/>
+	<Point x="794" y="173"/>
+	<Point x="650" y="162"/>
+	<Point x="312" y="168"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comedia de Lope de Vega.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="credit">
+	<Coords>
+	<Point x="716" y="2977"/>
+	<Point x="1428" y="2977"/>
+	<Point x="1428" y="3038"/>
+	<Point x="716" y="3038"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="217" y="178"/>
+	<Point x="712" y="172"/>
+	<Point x="862" y="194"/>
+	<Point x="886" y="188"/>
+	<Point x="900" y="182"/>
+	<Point x="916" y="178"/>
+	<Point x="928" y="179"/>
+	<Point x="944" y="187"/>
+	<Point x="1194" y="202"/>
+	<Point x="1183" y="1885"/>
+	<Point x="845" y="1900"/>
+	<Point x="722" y="1916"/>
+	<Point x="685" y="1912"/>
+	<Point x="671" y="1910"/>
+	<Point x="637" y="1903"/>
+	<Point x="628" y="1901"/>
+	<Point x="394" y="1896"/>
+	<Point x="343" y="1910"/>
+	<Point x="259" y="1920"/>
+	<Point x="208" y="1888"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a vn pobre mi fantaa,
+mi via le mando a vn ciego,
+mis deeos a vn auaro,
+a vn jugador mi ſoego,
+a vn cobarde mi reparo,
+y mis galas mando al fuego,
+Mis glorias a la fortuna,
+mis mudanças a la Luna,
+a Eſpaña mi trie hioria,
+a los libros la memoria
+ dea quedare alguna,
+A Belerma el coraçon
+ſacalde primo querido
+euadſe le que es razon,
+prendas que ſuyas han do
+en vida y muerte lo ſon
+dezidle que a Dios ſe quede,
+y quedaos mi primo a Dios.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="147" y="1885"/>
+	<Point x="207" y="1896"/>
+	<Point x="256" y="1926"/>
+	<Point x="336" y="1917"/>
+	<Point x="383" y="1901"/>
+	<Point x="624" y="1904"/>
+	<Point x="711" y="1922"/>
+	<Point x="746" y="1917"/>
+	<Point x="811" y="1908"/>
+	<Point x="870" y="1904"/>
+	<Point x="1097" y="1893"/>
+	<Point x="1422" y="1884"/>
+	<Point x="1276" y="2770"/>
+	<Point x="157" y="2784"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Monte. O primo, quien ſuﬀrir puede
+coraçon no ſoys vos,
+pena que a la muerte excede
+coraçon del mas valiente
+que en Francia ha ceñido eſpada,
+bien es que ſacarte intente
+para que a tu prenda amada
+buelto a Paris te preſente,
+que pues ſoy teamentario</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="catch-word">
+	<Coords>
+	<Point x="1314" y="2759"/>
+	<Point x="1308" y="2823"/>
+	<Point x="1476" y="2831"/>
+	<Point x="1484" y="2767"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dame</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r33" type="handwritten-annotation">
+	<Coords>
+	<Point x="788" y="2790"/>
+	<Point x="785" y="2870"/>
+	<Point x="933" y="2871"/>
+	<Point x="936" y="2789"/></Coords></GraphicRegion>
+	<TextRegion id="r34" type="page-number">
+	<Coords>
+	<Point x="1370" y="90"/>
+	<Point x="1370" y="171"/>
+	<Point x="1500" y="171"/>
+	<Point x="1500" y="90"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>62</Unicode></TextEquiv></TextRegion></Page></PcGts>

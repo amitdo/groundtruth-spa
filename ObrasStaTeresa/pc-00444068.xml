@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444068">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T08:54:21</Created>
+	<LastChange>2011-12-19T11:39:23</LastChange></Metadata>
+	<Page imageFilename="00444068.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="795" y="45"/>
+	<Point x="1688" y="45"/>
+	<Point x="1688" y="214"/>
+	<Point x="795" y="214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="440" y="236"/>
+	<Point x="2038" y="221"/>
+	<Point x="2072" y="2638"/>
+	<Point x="1254" y="2647"/>
+	<Point x="1172" y="2667"/>
+	<Point x="446" y="2666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ado eo poco trabajo, quando ſu Mage-
+ad quiere en vn punto lo enſeña todo,
+de manera que yo me eſpanto. Vna coſa
+puedo dezir con verdad, que aunque ha-
+blaua con muchas perſonas ſpirituales, que
+querian darme a entender lo que el Se‐
+ñor me daua, para que ſe lo ſupiee de‐
+zir, es cierto que era tanta mi torpeza,
+que poco ni mucho me aprouechaua, o
+queria el Señor ( como ſu Magead fue em‐
+pre mi maero, ſea por todo bendito, que
+harta confuon es para mi, poder dezir eo
+con verdad ) que no tuuiee a nadie que a-
+gradecer: y n querer, ni pedirlo ( que en
+eo no he do nada curioſa, porque fue‐
+ra virtud ſerlo, no en otras vanidades ) dar‐
+melo Dios en vn punto a entender con to‐
+da claridad, y para ſaberlo dezir, de ma‐
+nera que ſe eſpantauan, y yo mas que
+mis confeores, porque entendia mejor mi
+torpeza. Eo ha poco, y an lo que el Se‐
+ñor no me ha enſeñado, no lo procuro, no
+es lo que toca a mi conciencia. Torno otra
+vez a auiſar, que va mucho, en no ſubir el
+ſpiritu,  el Señor no le ſubiere, que coſa es
+que ſe entiende luego, en eſpecial para muge
+res es mas malo, que podra el demonio cauſar</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1680" y="2650"/>
+	<Point x="2044" y="2650"/>
+	<Point x="2044" y="2775"/>
+	<Point x="1680" y="2775"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>alguna</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="575" y="3036"/>
+	<Point x="1666" y="3036"/>
+	<Point x="1666" y="3170"/>
+	<Point x="575" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="457" y="85"/>
+	<Point x="457" y="228"/>
+	<Point x="695" y="228"/>
+	<Point x="695" y="85"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>140</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672954">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 10.0</Creator>
+	<Created>2012-02-02T04:54:00</Created>
+	<LastChange>2012-03-05T06:52:08</LastChange></Metadata>
+	<Page imageFilename="00672954.tif" imageWidth="1932" imageHeight="2614">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="540" y="2255"/>
+	<Point x="532" y="333"/>
+	<Point x="1711" y="342"/>
+	<Point x="1715" y="2241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ne mas que ſepamos, que no obante que el rey
+a primera vez mudando ſe n xaque puede vſar
+el oﬃcio de todos, que eando en ſu caſa la pri-
+mera vez puede tener nueue ſaltos. Vno a la caſa
+de ſu cauallo:y otro ala caſa del arﬁl de ſu dama, y
+eos dos en ſu linea. En la ſegunda linea tiene
+otros dos, vno en la caſa del peon de ſu cauallo, 
+ſe llama, ſegunda de ſu cauallo. Y otro en la caſa
+del peon del arﬁl de ſu dama, que ſe llama, ſegun
+da del arﬁl. En la tercera linea puede tener cinco,
+Vno ala caſa tercera de ſu cauallo : otro ala terce-
+ra de ſu Arﬁl: otro enmedio a la caſa tercera de 
+meſmo: otro ala tercera caſa de ſu dama: y otro a
+tercera del arﬁl dela dama. Y todo eo ſe entien-
+de, eando eas caſas deſembaraçadas,  no eẽ
+occupadas de alguna pieça, ò peon. Eo ſe entiẽ
+de andãdo de ſalto:pero no endo de ſalto puede
+herir dende ſu caſa, ſolamẽte à cinco partes. Ala
+caſa de ſu dama. La ſegũda,ala caſa de ſu arﬁl. La
+tercera,ala caſa ſegunda de ſu dama. La quarta,a
+la ſegunda de  meſmo. La quinta, a la ſegũda de
+ſu arﬁl. Pero hallando ſe enel medio del tablero,
+como  ſe hallae ala quarta de  meſmo : Hiere
+ala tercera de  meſmo. La ſegũda,ala quarta del
+Rey contrario. La tercera, ala tercera de ſu arﬁl.
+La quarta,ala quarta del meſmo arﬁl. La quinta
+ala quarta del arﬁl del Rey cõtrario. La ſexta, ala</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="catch-word">
+	<Coords>
+	<Point x="1533" y="2263"/>
+	<Point x="1533" y="2306"/>
+	<Point x="1717" y="2306"/>
+	<Point x="1717" y="2263"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tercera</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="header">
+	<Coords>
+	<Point x="773" y="257"/>
+	<Point x="773" y="331"/>
+	<Point x="1480" y="331"/>
+	<Point x="1480" y="257"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro dela inuencion liberal</Unicode></TextEquiv></TextRegion></Page></PcGts>

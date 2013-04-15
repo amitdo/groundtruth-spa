@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443636">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T09:18:11</Created>
+	<LastChange>2010-12-21T07:10:28</LastChange></Metadata>
+	<Page imageFilename="00443636.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="560" y="98"/>
+	<Point x="1105" y="105"/>
+	<Point x="1107" y="230"/>
+	<Point x="547" y="225"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cancion Segunda.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1400" y="2778"/>
+	<Point x="1572" y="2761"/>
+	<Point x="1607" y="2766"/>
+	<Point x="1618" y="2834"/>
+	<Point x="1387" y="2830"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nece-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="764" y="2932"/>
+	<Point x="1415" y="2934"/>
+	<Point x="1422" y="2998"/>
+	<Point x="768" y="2991"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1503" y="130"/>
+	<Point x="1503" y="232"/>
+	<Point x="1637" y="232"/>
+	<Point x="1637" y="130"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>623</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="79" y="238"/>
+	<Point x="80" y="238"/>
+	<Point x="80" y="239"/>
+	<Point x="274" y="239"/>
+	<Point x="274" y="240"/>
+	<Point x="468" y="240"/>
+	<Point x="468" y="241"/>
+	<Point x="662" y="241"/>
+	<Point x="662" y="242"/>
+	<Point x="856" y="242"/>
+	<Point x="856" y="243"/>
+	<Point x="1051" y="243"/>
+	<Point x="1051" y="244"/>
+	<Point x="1245" y="244"/>
+	<Point x="1245" y="245"/>
+	<Point x="1439" y="245"/>
+	<Point x="1439" y="246"/>
+	<Point x="1633" y="246"/>
+	<Point x="1633" y="357"/>
+	<Point x="1634" y="357"/>
+	<Point x="1634" y="468"/>
+	<Point x="1635" y="468"/>
+	<Point x="1635" y="579"/>
+	<Point x="1636" y="579"/>
+	<Point x="1636" y="690"/>
+	<Point x="1637" y="690"/>
+	<Point x="1637" y="800"/>
+	<Point x="1638" y="800"/>
+	<Point x="1638" y="802"/>
+	<Point x="1637" y="802"/>
+	<Point x="1637" y="934"/>
+	<Point x="1636" y="934"/>
+	<Point x="1636" y="1065"/>
+	<Point x="1635" y="1065"/>
+	<Point x="1635" y="1196"/>
+	<Point x="1634" y="1196"/>
+	<Point x="1634" y="1327"/>
+	<Point x="1633" y="1327"/>
+	<Point x="1633" y="1458"/>
+	<Point x="1632" y="1458"/>
+	<Point x="1632" y="1589"/>
+	<Point x="1631" y="1589"/>
+	<Point x="1631" y="1720"/>
+	<Point x="1630" y="1720"/>
+	<Point x="1630" y="1852"/>
+	<Point x="1629" y="1852"/>
+	<Point x="1629" y="1983"/>
+	<Point x="1628" y="1983"/>
+	<Point x="1628" y="2114"/>
+	<Point x="1627" y="2114"/>
+	<Point x="1627" y="2245"/>
+	<Point x="1626" y="2245"/>
+	<Point x="1626" y="2376"/>
+	<Point x="1625" y="2376"/>
+	<Point x="1625" y="2507"/>
+	<Point x="1624" y="2507"/>
+	<Point x="1624" y="2638"/>
+	<Point x="1623" y="2638"/>
+	<Point x="1621" y="2753"/>
+	<Point x="1550" y="2756"/>
+	<Point x="1542" y="2756"/>
+	<Point x="1499" y="2758"/>
+	<Point x="1447" y="2760"/>
+	<Point x="1438" y="2761"/>
+	<Point x="1365" y="2771"/>
+	<Point x="1365" y="2772"/>
+	<Point x="1279" y="2772"/>
+	<Point x="1279" y="2773"/>
+	<Point x="1194" y="2773"/>
+	<Point x="1194" y="2774"/>
+	<Point x="1108" y="2774"/>
+	<Point x="1108" y="2775"/>
+	<Point x="1022" y="2775"/>
+	<Point x="1022" y="2776"/>
+	<Point x="936" y="2776"/>
+	<Point x="936" y="2777"/>
+	<Point x="851" y="2777"/>
+	<Point x="851" y="2778"/>
+	<Point x="765" y="2778"/>
+	<Point x="765" y="2779"/>
+	<Point x="679" y="2779"/>
+	<Point x="679" y="2780"/>
+	<Point x="593" y="2780"/>
+	<Point x="593" y="2781"/>
+	<Point x="507" y="2781"/>
+	<Point x="507" y="2782"/>
+	<Point x="422" y="2782"/>
+	<Point x="422" y="2783"/>
+	<Point x="336" y="2783"/>
+	<Point x="336" y="2784"/>
+	<Point x="250" y="2784"/>
+	<Point x="250" y="2785"/>
+	<Point x="164" y="2785"/>
+	<Point x="164" y="2786"/>
+	<Point x="80" y="2786"/>
+	<Point x="80" y="2787"/>
+	<Point x="79" y="2787"/>
+	<Point x="79" y="2786"/>
+	<Point x="80" y="2786"/>
+	<Point x="80" y="2718"/>
+	<Point x="81" y="2718"/>
+	<Point x="81" y="2649"/>
+	<Point x="82" y="2649"/>
+	<Point x="82" y="2581"/>
+	<Point x="83" y="2581"/>
+	<Point x="83" y="2512"/>
+	<Point x="84" y="2512"/>
+	<Point x="84" y="2443"/>
+	<Point x="85" y="2443"/>
+	<Point x="85" y="2375"/>
+	<Point x="86" y="2375"/>
+	<Point x="86" y="2306"/>
+	<Point x="87" y="2306"/>
+	<Point x="87" y="2238"/>
+	<Point x="88" y="2238"/>
+	<Point x="88" y="2169"/>
+	<Point x="89" y="2169"/>
+	<Point x="89" y="2100"/>
+	<Point x="90" y="2100"/>
+	<Point x="90" y="2032"/>
+	<Point x="91" y="2032"/>
+	<Point x="91" y="1963"/>
+	<Point x="92" y="1963"/>
+	<Point x="92" y="1894"/>
+	<Point x="93" y="1894"/>
+	<Point x="93" y="1826"/>
+	<Point x="94" y="1826"/>
+	<Point x="94" y="1757"/>
+	<Point x="95" y="1757"/>
+	<Point x="95" y="1689"/>
+	<Point x="96" y="1689"/>
+	<Point x="96" y="1620"/>
+	<Point x="97" y="1620"/>
+	<Point x="97" y="1551"/>
+	<Point x="98" y="1551"/>
+	<Point x="98" y="1483"/>
+	<Point x="99" y="1483"/>
+	<Point x="99" y="1414"/>
+	<Point x="100" y="1414"/>
+	<Point x="100" y="1345"/>
+	<Point x="101" y="1345"/>
+	<Point x="101" y="1277"/>
+	<Point x="102" y="1277"/>
+	<Point x="102" y="1208"/>
+	<Point x="103" y="1208"/>
+	<Point x="103" y="1140"/>
+	<Point x="104" y="1140"/>
+	<Point x="104" y="1071"/>
+	<Point x="105" y="1071"/>
+	<Point x="105" y="1002"/>
+	<Point x="106" y="1002"/>
+	<Point x="106" y="934"/>
+	<Point x="107" y="934"/>
+	<Point x="107" y="807"/>
+	<Point x="84" y="807"/>
+	<Point x="84" y="693"/>
+	<Point x="83" y="693"/>
+	<Point x="83" y="579"/>
+	<Point x="82" y="579"/>
+	<Point x="82" y="465"/>
+	<Point x="81" y="465"/>
+	<Point x="81" y="351"/>
+	<Point x="80" y="351"/>
+	<Point x="80" y="239"/>
+	<Point x="79" y="239"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>omnes theſauri ſapienti, &amp; ſcienti abſconditi. Elaxenjo,
+que es yerva amarguima, ſe reﬁere a la Voluntad; por-
+que a ea Porencia pertenece la dulçura de la poſeon
+de Dios; de la cual careciendo ſe queda con la amargu-
+ra, ſegun el Angel dixo a ſan Iuan en el Apocalip, di-
+ziendo, que en comiendo el libro le haria amargar el
+vientre: Accipe librũ, &amp; devora iũ, &amp; faciet amaricari
+ventrem tuum: tomando ai el viẽtre por la Voluntad.
+La hiel ſe reﬁere a la Memoria, que gniﬁca la muerte
+del alma, ſegun dà a entender Moiſes en el Deuterono-
+mio, hablando de los condenados, diziendo: Fel draco-
+num vinum eorum, &amp; venenum aſpidum inſanabile. Hiel
+de dragones ſerà el vino deos, i veneno de aſpides inſa
+nable. Lo cual gniﬁca ai el carecer de Dios, que es
+muerte del alma, i eas tres necedades i penas ean
+fundadas en las tres Virtudes Teologales, que ſon Fè,
+Caridad, i Eſperança, que ſe reﬁeren a las tres dichas
+Potencias, Entendimiento, Voluntad, i Memoria; aun-
+que no cada cual ſea propio ſujeto de cada una de las
+tres dichas virtudes. I es de notar, que el alma en el di-
+cho verſo no haze mas que repreſentar ſu necedad i
+pena al Amado: porque el que diſcretamente ama no
+cura de pedir lo que le falta i deſea, no de repreſentar
+ſu necedad, para que el Amado haga lo que fuere ſervi
+do. Como cuando la bendita virgen dixo al Amado Hi
+jo en las bodas de Cana de Galilea, no pidiendole dere-
+chamente el vino, no diziendo: Vinum non hahent, no
+tienen vino, i las hermanas de Lazaro le embiaron no a
+dezir que ſanaſe a ſu hermano, no a dezir que miraſe,
+que al que amava, eava enfermo: Domine, ecce quem a-
+mas, inﬁrmatur, i eo por tres coſas. La primera, porque
+mejor ſabe el Señor lo  nos conviene, que noſotros La
+ſegunda, porque mas ſe compadece el Amado viendo la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="marginalia">
+	<Coords>
+	<Point x="1646" y="739"/>
+	<Point x="1646" y="895"/>
+	<Point x="1913" y="895"/>
+	<Point x="1913" y="739"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Apoc. 1 0.
+9.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="marginalia">
+	<Coords>
+	<Point x="1643" y="979"/>
+	<Point x="1643" y="1150"/>
+	<Point x="1891" y="1150"/>
+	<Point x="1891" y="979"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Deut. 3 2
+3 3.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="marginalia">
+	<Coords>
+	<Point x="1642" y="2214"/>
+	<Point x="1642" y="2318"/>
+	<Point x="1894" y="2318"/>
+	<Point x="1894" y="2214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ioan.2.3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="marginalia">
+	<Coords>
+	<Point x="1636" y="2431"/>
+	<Point x="1636" y="2607"/>
+	<Point x="1894" y="2607"/>
+	<Point x="1894" y="2431"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ioan. 1 1.
+3.</Unicode></TextEquiv></TextRegion></Page></PcGts>

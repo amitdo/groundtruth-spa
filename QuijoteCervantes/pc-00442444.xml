@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442444">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T01:59:09</Created>
+	<LastChange>2012-03-12T14:12:02</LastChange></Metadata>
+	<Page imageFilename="00442444.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="529" y="82"/>
+	<Point x="1181" y="82"/>
+	<Point x="1181" y="167"/>
+	<Point x="1041" y="170"/>
+	<Point x="945" y="172"/>
+	<Point x="898" y="184"/>
+	<Point x="794" y="185"/>
+	<Point x="766" y="177"/>
+	<Point x="527" y="168"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tercera parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="214" y="176"/>
+	<Point x="532" y="177"/>
+	<Point x="761" y="181"/>
+	<Point x="797" y="189"/>
+	<Point x="909" y="187"/>
+	<Point x="948" y="177"/>
+	<Point x="1179" y="173"/>
+	<Point x="1482" y="176"/>
+	<Point x="1482" y="2026"/>
+	<Point x="214" y="2026"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a ſu ſaluo, de todas las que yo he vio, ea gente
+aunque vencida y desbaratada, podria ſer que
+cayee en la cuenta de que los vencio ſola vna
+perſona, y corridos, y auergonçados deo, bol-
+uieen a rehazerſe, y a buſcarnos, y nos dieen
+en que entender. El jumento eà como conuie-
+ne, la montaña cerca, la hambre carga, no ay que
+hazer no retirarnos con gentil compas de pies,
+y como dizen, vayae el muerto a la ſepultura, y
+el viuo a la hogaza: y antecogiendo ſu aſno, ro-
+gò a ſu ſeñor, que le guieﬀe: el qual parecien-
+dole que Sancho tenia razon, n boluerle a repli-
+car le guio. Y a poco trecho que caminauan por
+entre dos montañelas, ſe haaron en vn eſpacio-
+ſo, y eſcondido vae, donde ſe apearon, y Sancho
+aliuiò el jumento, y tendidos ſobre la verde yer-
+ua, con la ſalſa de ſu hambre, almorçaron, comie-
+ron, merendaron, y cenaron a vn meſmo punto,
+ſatisſaziendo ſus eomagos con mas de vna ﬁam-
+brera que los ſeñores clerigos del difunto (que
+pocas vezes ſe dexan mal paar) en la azemila de
+ſu repueo trahian. Mas ſucedioles otra deſgra-
+cia, que Sancho la tuuo por la peor de todas, y
+fue, que no tenian vino que beuer, ni aun agua que
+egar a la boca: y acoados de la ſed, dixo Sancho,
+viendo que el prado donde eauan eaua
+colmado de verde y menuda yerua,
+lo que ſe dirà en el guiente
+capitulo.
+?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="454" y="2314"/>
+	<Point x="1125" y="2314"/>
+	<Point x="1125" y="2373"/>
+	<Point x="454" y="2373"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1341" y="2083"/>
+	<Point x="1341" y="2166"/>
+	<Point x="1472" y="2166"/>
+	<Point x="1472" y="2083"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cap-</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00448353">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T20:50:13</Created>
+	<LastChange>2011-08-11T10:26:11</LastChange></Metadata>
+	<Page imageFilename="00448353.tif" imageWidth="2590" imageHeight="4138">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r24" index="6"/>
+	<RegionRefIndexed regionRef="r25" index="7"/>
+	<RegionRefIndexed regionRef="r26" index="8"/>
+	<RegionRefIndexed regionRef="r27" index="9"/>
+	<RegionRefIndexed regionRef="r28" index="10"/>
+	<RegionRefIndexed regionRef="r9" index="11"/>
+	<RegionRefIndexed regionRef="r12" index="12"/>
+	<RegionRefIndexed regionRef="r13" index="13"/>
+	<RegionRefIndexed regionRef="r29" index="14"/>
+	<RegionRefIndexed regionRef="r30" index="15"/>
+	<RegionRefIndexed regionRef="r31" index="16"/>
+	<RegionRefIndexed regionRef="r14" index="17"/>
+	<RegionRefIndexed regionRef="r15" index="18"/>
+	<RegionRefIndexed regionRef="r16" index="19"/>
+	<RegionRefIndexed regionRef="r18" index="20"/>
+	<RegionRefIndexed regionRef="r19" index="21"/>
+	<RegionRefIndexed regionRef="r20" index="22"/>
+	<RegionRefIndexed regionRef="r22" index="23"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="952" y="279"/>
+	<Point x="1126" y="281"/>
+	<Point x="1129" y="351"/>
+	<Point x="945" y="352"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SEN</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="536" y="360"/>
+	<Point x="1501" y="350"/>
+	<Point x="1508" y="555"/>
+	<Point x="661" y="571"/>
+	<Point x="503" y="566"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ò ángulo ſobre el diámetro, que paa por
+la otra extremidad, y por ee ſe entiende
+quando abſolutamente ſe dice ſeno. Lat. Si-
+nus reus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="503" y="570"/>
+	<Point x="657" y="576"/>
+	<Point x="1512" y="561"/>
+	<Point x="1496" y="759"/>
+	<Point x="847" y="767"/>
+	<Point x="596" y="784"/>
+	<Point x="503" y="769"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SENO SEGUNDO DE UN ARCO. Es el ſeno pri-
+mero del complemento de dicho arco, haſ-
+ta el quadrante. Lat. Sinus complementi, vel
+ſecundus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="502" y="772"/>
+	<Point x="599" y="788"/>
+	<Point x="849" y="771"/>
+	<Point x="1510" y="762"/>
+	<Point x="1494" y="953"/>
+	<Point x="1304" y="971"/>
+	<Point x="1043" y="981"/>
+	<Point x="1029" y="982"/>
+	<Point x="978" y="981"/>
+	<Point x="887" y="977"/>
+	<Point x="637" y="983"/>
+	<Point x="511" y="972"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SENO TODO, Ò TOTAL. El ſeno reo del qua-
+drante, ò arco de noventa grados, el qual
+es el miſmo radio, ò ſemidiámetro del cír-
+culo. Lat. Sinus totalis, vel radius.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="510" y="978"/>
+	<Point x="623" y="986"/>
+	<Point x="802" y="983"/>
+	<Point x="819" y="982"/>
+	<Point x="1028" y="984"/>
+	<Point x="1059" y="984"/>
+	<Point x="1097" y="981"/>
+	<Point x="1294" y="976"/>
+	<Point x="1500" y="957"/>
+	<Point x="1502" y="1165"/>
+	<Point x="1281" y="1165"/>
+	<Point x="939" y="1171"/>
+	<Point x="713" y="1181"/>
+	<Point x="655" y="1191"/>
+	<Point x="504" y="1172"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SENO VERSO, Ò SAGITA. Es la porcion del diá-
+metro comprehendida entre el ſeno reo
+de un arco, y el miſmo arco. Lat. Sinus
+verſus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="506" y="1178"/>
+	<Point x="558" y="1181"/>
+	<Point x="663" y="1194"/>
+	<Point x="708" y="1186"/>
+	<Point x="727" y="1186"/>
+	<Point x="881" y="1180"/>
+	<Point x="1503" y="1169"/>
+	<Point x="1503" y="1695"/>
+	<Point x="1137" y="1689"/>
+	<Point x="1086" y="1703"/>
+	<Point x="1034" y="1706"/>
+	<Point x="1025" y="1706"/>
+	<Point x="994" y="1698"/>
+	<Point x="967" y="1709"/>
+	<Point x="869" y="1699"/>
+	<Point x="542" y="1698"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Venir, ò eár con las manos en el ſeno. Phra-
+ſe, que vale eár ocioſo, ò egar à preten-
+der, ò à pedir, n evar, ù ofrecer algo de
+ſu parte. Lat. Dedere. Manus ſub paio ha-
+bere. Nuñ. Empr. 2. Qué dirémos ai noſo-
+tros miſerables, que nos venimos con las ma-
+nos en el ſeno? Que el Señor nos entregó
+ſus ganados, y no tenemos otros aumentos,
+que preſentarle, no ſus pérdidas? M. LEON,
+Obr. Poet. tom. 1. pl. 137.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="541" y="1704"/>
+	<Point x="861" y="1704"/>
+	<Point x="972" y="1711"/>
+	<Point x="992" y="1701"/>
+	<Point x="1031" y="1710"/>
+	<Point x="1086" y="1706"/>
+	<Point x="1140" y="1695"/>
+	<Point x="1504" y="1700"/>
+	<Point x="1493" y="1895"/>
+	<Point x="805" y="1901"/>
+	<Point x="509" y="1898"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sienten que de pria eno
+Nazca en el mes de la nieve,
+Deſpues que ſe euvo nueve
+Con las manos en el ſeno.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="1967" y="271"/>
+	<Point x="2152" y="272"/>
+	<Point x="2152" y="337"/>
+	<Point x="1968" y="338"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SEN</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1540" y="508"/>
+	<Point x="2110" y="505"/>
+	<Point x="2386" y="503"/>
+	<Point x="2520" y="501"/>
+	<Point x="2516" y="853"/>
+	<Point x="1919" y="853"/>
+	<Point x="1712" y="870"/>
+	<Point x="1543" y="859"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SENSIBLE. adj. de una term. Lo que ſe per-
+cibe, ò ſe imprime en los ſentidos. Lat. Sen-
+bilis, e. MEDIN. Dial. part. 2. Dial. 58. Vueſ-
+tras ánimas ſe mueven mucho interior, y
+eſpecialmente, à ſometerſe à Dios, por las
+humiaciones ſenbles, corporales, y exte-
+riores.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1542" y="864"/>
+	<Point x="1702" y="876"/>
+	<Point x="1922" y="856"/>
+	<Point x="2525" y="859"/>
+	<Point x="2537" y="1377"/>
+	<Point x="2243" y="1396"/>
+	<Point x="2170" y="1377"/>
+	<Point x="1788" y="1376"/>
+	<Point x="1725" y="1389"/>
+	<Point x="1541" y="1390"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SENSIBLE. Philoſophicamente ſe toma por
+la diferencia, que conituye el animal, y
+le diingue de las plantas, y demás mixtos
+inſenbles. Lat. Senbile. FEIX. Theatr. tom.
+3. Diſc. 3. §. 9. num. 39. Tanto en las ſubſ-
+tancias ſenbles, como en las inſenbles, mu-
+chos efeos, que ſe atribuyen à ſympathia,
+ni dependen de ea imaginaria concordia,
+ni de alguna acción, ò inﬂuxo, ni phyco,
+ni objetivo. LOB. Obr. Poet. pl. 12.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1549" y="1947"/>
+	<Point x="1882" y="1949"/>
+	<Point x="2296" y="1949"/>
+	<Point x="2540" y="1944"/>
+	<Point x="2511" y="2302"/>
+	<Point x="2371" y="2307"/>
+	<Point x="2007" y="2303"/>
+	<Point x="1915" y="2306"/>
+	<Point x="1562" y="2301"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SENSIBLEMENTE. adv. de modo. De forma
+que ſe perciba por los ſentidos. Lat. Senbi-
+litèr. FEIX. Theatr. tom. 3. Diſc. 3. §. 9. num.
+41. La carne del ciervo acecinada fermenta
+ſenblemente, y à veces ſe corrompe en aquel
+tiempo, en que los ciervos ſe enten inci-
+tados al comercio de los dos ſexos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1565" y="2307"/>
+	<Point x="2071" y="2309"/>
+	<Point x="2350" y="2310"/>
+	<Point x="2526" y="2312"/>
+	<Point x="2525" y="2408"/>
+	<Point x="1911" y="2408"/>
+	<Point x="1761" y="2415"/>
+	<Point x="1747" y="2416"/>
+	<Point x="1688" y="2414"/>
+	<Point x="1561" y="2410"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SENSIBLEMENTE. Vale tambien con dolor, pe-
+ſar, ù pena. Lat. Dolentèr.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1744" y="2925"/>
+	<Point x="1822" y="2926"/>
+	<Point x="2022" y="2929"/>
+	<Point x="2107" y="2934"/>
+	<Point x="2136" y="2931"/>
+	<Point x="2219" y="2926"/>
+	<Point x="2285" y="2932"/>
+	<Point x="2299" y="3130"/>
+	<Point x="2158" y="3129"/>
+	<Point x="1864" y="3128"/>
+	<Point x="1753" y="3126"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El cuerpo, indomable bruto,
+deſangrado pierde el brio,
+y à la eſphera del dolor
+acude lo ſentivo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1566" y="3129"/>
+	<Point x="1811" y="3131"/>
+	<Point x="2132" y="3131"/>
+	<Point x="2544" y="3137"/>
+	<Point x="2533" y="3426"/>
+	<Point x="2427" y="3432"/>
+	<Point x="1767" y="3435"/>
+	<Point x="1570" y="3430"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SENSITIVO. Se ama tambien todo lo pertene-
+ciente à los ſentidos corporales. Lat. Sen-
+bilis, ſeu Senſualis. MEDIN. Dial. part. 1. Dial.
+22. De aqui ſe gue, que los deleites ſen-
+tivos pertenecen mas à las beias, que à los
+hombres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="catch-word">
+	<Coords>
+	<Point x="2420" y="3758"/>
+	<Point x="2439" y="3756"/>
+	<Point x="2530" y="3757"/>
+	<Point x="2532" y="3812"/>
+	<Point x="2419" y="3812"/>
+	<Point x="2419" y="3787"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SEN-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="credit">
+	<Coords>
+	<Point x="860" y="3983"/>
+	<Point x="1838" y="3979"/>
+	<Point x="1837" y="4064"/>
+	<Point x="1691" y="4072"/>
+	<Point x="1663" y="4077"/>
+	<Point x="1656" y="4066"/>
+	<Point x="862" y="4068"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="511" y="1902"/>
+	<Point x="521" y="2157"/>
+	<Point x="607" y="2167"/>
+	<Point x="765" y="2156"/>
+	<Point x="1005" y="2158"/>
+	<Point x="1138" y="2155"/>
+	<Point x="1536" y="2152"/>
+	<Point x="1528" y="1899"/>
+	<Point x="1402" y="1902"/>
+	<Point x="1102" y="1904"/>
+	<Point x="834" y="1906"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SENOGIL. ſ. m. Lo miſmo que Cenogíl, y
+mas uſado. MARM. Deſcripc. lib. 4. cap. 22.
+Si no ſon algunos mozos de eſpuelas, que
+trahen media calza de paño, con ſenogil,
+por caminar mas ſueltos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="521" y="2160"/>
+	<Point x="496" y="3028"/>
+	<Point x="596" y="3030"/>
+	<Point x="815" y="3030"/>
+	<Point x="1116" y="3027"/>
+	<Point x="1525" y="3018"/>
+	<Point x="1536" y="2162"/>
+	<Point x="1352" y="2156"/>
+	<Point x="732" y="2161"/>
+	<Point x="606" y="2169"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SENSACION. ſ. f. Term. Philoſóphico. La ac-
+ción de los ſentidos, y juntamente del alma,
+movida por la impreſsión de los objétos en
+el órgano ſentivo, con dolor, ò guo. Di-
+videnla los Philóſophos en exterior, inte-
+rior, y comun: la exterior cone en las
+acciones de los cinco ſentidos, de los qua-
+les paando à la phantasía ſe forma la inte-
+rior, la qual egando al celebro, que es el
+centro comun de las impreſsiones y eſpecies
+recibidas por minierio de los eſpíritus, las
+conoce, y percibe el alma. Lat. Senſatio.
+FEIX. Theatr. tom. 3. Diſc. 3. §. 6. num. 23.
+Aſsi vemos que el perro à mucha diancia
+vá guiendo la ﬁera por el olor, del qual
+ni la menor ſenſación tenemos noſotros, aun
+eando mucho mas vecinos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="490" y="3033"/>
+	<Point x="512" y="3238"/>
+	<Point x="616" y="3246"/>
+	<Point x="797" y="3246"/>
+	<Point x="823" y="3240"/>
+	<Point x="983" y="3231"/>
+	<Point x="1029" y="3237"/>
+	<Point x="1077" y="3240"/>
+	<Point x="1317" y="3232"/>
+	<Point x="1534" y="3235"/>
+	<Point x="1532" y="3027"/>
+	<Point x="1300" y="3024"/>
+	<Point x="1127" y="3032"/>
+	<Point x="804" y="3033"/>
+	<Point x="586" y="3035"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SENSIBILIDAD. ſ. f. Diſpocion, ò facultad
+en los ſentidos para la impreſsión extraña,
+particularmente de los objétos, que cauſan
+pena, ò guo. Lat. Senbilitas, atis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="509" y="3243"/>
+	<Point x="510" y="3591"/>
+	<Point x="745" y="3593"/>
+	<Point x="876" y="3590"/>
+	<Point x="1525" y="3581"/>
+	<Point x="1533" y="3237"/>
+	<Point x="1326" y="3234"/>
+	<Point x="1076" y="3242"/>
+	<Point x="980" y="3236"/>
+	<Point x="847" y="3242"/>
+	<Point x="802" y="3248"/>
+	<Point x="790" y="3249"/>
+	<Point x="675" y="3251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SENSIBILIDAD. Philoſophicamente es la razón,
+forma, ò qua forma, que conituye el ſen-
+ble, y le diferencia del no ſenble. Lat.
+Senbilitas, atis. FEIX. Theatr. tom. 3. Diſc.
+13. §. 1o. num.45. Yá veo que eo no quita
+que aſsintamos ﬁrmemente à la ſenbilidád
+de los brutos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="512" y="3598"/>
+	<Point x="522" y="3807"/>
+	<Point x="1529" y="3807"/>
+	<Point x="1540" y="3586"/>
+	<Point x="1350" y="3587"/>
+	<Point x="1125" y="3591"/>
+	<Point x="912" y="3593"/>
+	<Point x="723" y="3598"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SENSIBILISSIMO, MA. adj. ſuperl. Mui ſen-
+ble. Lat Valdè, vel ſummè ſenbilis. HOR-
+TENS. Mar. f. 145. En ee ſentimiento mu-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1560" y="2413"/>
+	<Point x="1746" y="2417"/>
+	<Point x="1760" y="2416"/>
+	<Point x="1896" y="2412"/>
+	<Point x="2523" y="2413"/>
+	<Point x="2531" y="2929"/>
+	<Point x="2219" y="2922"/>
+	<Point x="2132" y="2930"/>
+	<Point x="2099" y="2932"/>
+	<Point x="2022" y="2925"/>
+	<Point x="1830" y="2923"/>
+	<Point x="1755" y="2922"/>
+	<Point x="1565" y="2935"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SENSITIVO, VA. adj. Lo que tiene diſpo-
+cion en los órganos para recibir las impreſ-
+ones de los objetos. Es propriedad de los
+animales á diferencia de las plantas, que ſo-
+lo ſon vegetables, y de otros mixtos. Lat.
+Sentivus, a, um. Sentiens, tis. SIGUENZ. Vid.
+de S. Geron. lib. 2. Diſc. 4. Impoſsible es, que
+no toque en el penſamiento, y ſentido el
+nativo calor de las venas, y de la parte ſen-
+tiva. LOB. Obr. Poet. pl. 12.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1723" y="1393"/>
+	<Point x="1736" y="1584"/>
+	<Point x="1870" y="1585"/>
+	<Point x="1893" y="1594"/>
+	<Point x="1915" y="1584"/>
+	<Point x="1959" y="1591"/>
+	<Point x="2006" y="1591"/>
+	<Point x="2071" y="1579"/>
+	<Point x="2091" y="1587"/>
+	<Point x="2121" y="1595"/>
+	<Point x="2166" y="1587"/>
+	<Point x="2191" y="1598"/>
+	<Point x="2219" y="1591"/>
+	<Point x="2303" y="1592"/>
+	<Point x="2351" y="1392"/>
+	<Point x="2254" y="1402"/>
+	<Point x="2170" y="1381"/>
+	<Point x="1967" y="1379"/>
+	<Point x="1788" y="1380"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Todo lo ſenble toma
+en el deleite partido:
+al lado de la razón
+nadie eá, no el peligro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="1550" y="1582"/>
+	<Point x="1550" y="1788"/>
+	<Point x="1607" y="1792"/>
+	<Point x="1744" y="1806"/>
+	<Point x="1791" y="1790"/>
+	<Point x="2544" y="1785"/>
+	<Point x="2555" y="1579"/>
+	<Point x="2455" y="1574"/>
+	<Point x="2353" y="1596"/>
+	<Point x="2220" y="1596"/>
+	<Point x="2191" y="1599"/>
+	<Point x="2166" y="1589"/>
+	<Point x="2122" y="1598"/>
+	<Point x="2074" y="1584"/>
+	<Point x="2006" y="1596"/>
+	<Point x="1949" y="1593"/>
+	<Point x="1914" y="1586"/>
+	<Point x="1895" y="1596"/>
+	<Point x="1870" y="1586"/>
+	<Point x="1717" y="1590"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SENSIBLE. Signiﬁca tambien lo que cauſa, ò
+mueve à ſentimiento, dolor, anguia, ò pe-
+na. Lat. Senﬁcus. Animum movens, vel do-
+lore afﬁciens.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="1551" y="1796"/>
+	<Point x="1548" y="1943"/>
+	<Point x="1629" y="1944"/>
+	<Point x="1864" y="1945"/>
+	<Point x="2122" y="1946"/>
+	<Point x="2540" y="1941"/>
+	<Point x="2545" y="1789"/>
+	<Point x="2322" y="1792"/>
+	<Point x="1793" y="1793"/>
+	<Point x="1747" y="1810"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SENSIBLE. Por hiſpaniſmo ſe dice del ſugeto
+que ſe dexa evar facilmente del ſentimien-
+to. Lat. Mois. Tener. Facilis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="1568" y="351"/>
+	<Point x="2510" y="340"/>
+	<Point x="2520" y="496"/>
+	<Point x="1541" y="504"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>do, en ee dolor extático con eſcondida,
+pero ſenbiliſsima pena..... eaba ea ſe-
+ñora.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="1568" y="3434"/>
+	<Point x="1705" y="3438"/>
+	<Point x="1990" y="3436"/>
+	<Point x="2420" y="3439"/>
+	<Point x="2550" y="3432"/>
+	<Point x="2529" y="3753"/>
+	<Point x="1894" y="3758"/>
+	<Point x="1581" y="3749"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SENSUAL. adj. de una term. En ſu ſentido
+reo vale lo miſmo que ſentivo; pero ge-
+neralmente ſe aplica al que ſe dexa evar
+de los deleites y guos, y ſatisface con eos
+al apetito de los ſentidos. Lat. Voluptuarius,
+a, um. Senſuum proprius.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="page-number">
+	<Coords>
+	<Point x="561" y="287"/>
+	<Point x="561" y="354"/>
+	<Point x="654" y="354"/>
+	<Point x="654" y="287"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>80</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442293">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T18:56:52</Created>
+	<LastChange>2012-03-12T14:11:49</LastChange></Metadata>
+	<Page imageFilename="00442293.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1373" y="34"/>
+	<Point x="1376" y="109"/>
+	<Point x="1476" y="108"/>
+	<Point x="1482" y="34"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>9</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="547" y="34"/>
+	<Point x="552" y="121"/>
+	<Point x="654" y="136"/>
+	<Point x="678" y="112"/>
+	<Point x="940" y="112"/>
+	<Point x="1139" y="104"/>
+	<Point x="1147" y="34"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="193" y="153"/>
+	<Point x="173" y="2156"/>
+	<Point x="418" y="2181"/>
+	<Point x="910" y="2160"/>
+	<Point x="989" y="2151"/>
+	<Point x="1091" y="2151"/>
+	<Point x="1290" y="2169"/>
+	<Point x="1460" y="2166"/>
+	<Point x="1473" y="2156"/>
+	<Point x="1484" y="189"/>
+	<Point x="1473" y="130"/>
+	<Point x="954" y="123"/>
+	<Point x="663" y="139"/>
+	<Point x="630" y="154"/>
+	<Point x="594" y="136"/>
+	<Point x="403" y="140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pueo caſo  enlas hiorias no ſe eſcriuia, por auerles
+parecido a los autores deas,  no era meneer eſcre
+uirvna coſa tan clara, y tã necearia de traerſe, como
+eran dineros, y camiſas limpias, no por eo ſe auia de
+creer  no los truxerõ: y aſsi tuuiee por cierto y aue-
+riguado,  todos los cauaer os andãtes, de que tãtos
+libros ean enos, y ateados, euauan bien herradas
+las bolſas por lo  pudiee ſucederles, y  aſsi miſmo
+euauan camiſas, y vna arqueta pequeña ena de vn-
+guentos, para curar las heridas que recebian, porque
+no todas vezes en los campos, y deertos donde ſe
+combatian, y ſalian heridos, auia quiẽ los curae,  ya
+no era que tenian algun ſabio encantador por amigo,
+que luego los ſocorria, trayendo por el ayre en algu-
+na nuue alguna donzea, o Enano, con alguna redo-
+ma de agua de tal virtud, que en guando alguna gota
+dea, luego al punto quedauan ſanos de ſus agas, y
+heridas, como  mal alguno huuien tenido, mas que
+en tanto que eo no huuiee, tuuieron los paados
+cauaeros por coſa acertada,  ſus eſcuderos fueen
+proueydos de dineros, y de otras coſas necearias,
+como eran hilas, y vnguentos para curarſe: y quando
+ſucedia que los tales cauaeros no tenian eſcude-
+ros(que eran pocas, y raras vezes) eos meſmos lo e
+uauan todo en vnas alforjas muy ſutiles, que ca no ſe
+parecian, a las ancas del cauao, como que era otra co
+ſa de mas importancia: porque no endo por ocaon
+ſemejante, eo de euar alforjas, no fue muy admiti-
+do entre los cauaeros andantes: y por eo le daua
+por conſejo, pues aun ſe lo podia mandar como a ſu
+ahĳado, que tã preo lo auia de ſer, que no caminae
+de ai adelante n dineros, y n las preuenciones re-
+feridas, y que veria quan bien ſe haaua con eas,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="signature-mark">
+	<Coords>
+	<Point x="1003" y="2186"/>
+	<Point x="1015" y="2217"/>
+	<Point x="1086" y="2230"/>
+	<Point x="1095" y="2176"/>
+	<Point x="1070" y="2157"/>
+	<Point x="1024" y="2154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="catch-word">
+	<Coords>
+	<Point x="1284" y="2174"/>
+	<Point x="1305" y="2236"/>
+	<Point x="1456" y="2233"/>
+	<Point x="1484" y="2180"/>
+	<Point x="1418" y="2173"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>quan-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="credit">
+	<Coords>
+	<Point x="439" y="2286"/>
+	<Point x="439" y="2368"/>
+	<Point x="1173" y="2368"/>
+	<Point x="1173" y="2286"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

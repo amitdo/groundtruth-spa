@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444099">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:57:52</Created>
+	<LastChange>2011-12-19T11:39:25</LastChange></Metadata>
+	<Page imageFilename="00444099.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="341" y="98"/>
+	<Point x="1541" y="94"/>
+	<Point x="1548" y="204"/>
+	<Point x="334" y="204"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="178" y="225"/>
+	<Point x="1736" y="230"/>
+	<Point x="1744" y="2610"/>
+	<Point x="1280" y="2614"/>
+	<Point x="1238" y="2636"/>
+	<Point x="169" y="2654"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>uenturada ſera  torna atras, yo pienſo ſe-
+ra para yr hazia baxo, como yo yua,  la
+miſericordia del Señor no me tornara por
+que por la mayor parte ſera por graues cul-
+pas a mi parecer: ni es poſsible dexar tan
+gran bien n gran ceguedad de mucha
+mal: y an ruego yo por amor de el Se-
+ñor a las almas a quien ſu Magead ha he-
+cho tan gran merced, de que eguen a ee
+eado, que ſe conozcan, y tengan en mu-
+cho con vna humilde y ſanta preſuncion,
+para no tornar a las oas de Egypto, y 
+por ſu ﬂaqueza y maldad, y ruyn, y mi-
+ſerable natural cayeren, como yo hize, em-
+pre tengan delante el bien que perdieron,
+y tengan ſoſpecha, y anden con temor,
+que tienen razon de tenerle, que  no tor-
+nan a la oracion han de yr de mal en peor:
+que ea amo yo verdadera cayda la que
+aborrece el camino por donde gano tan-
+to bien, y con eas almas hablo, que
+no digo que no han de oﬀender a Dios,
+y caer en peccados, aunque ſeria razon ſe
+guardae mucho de eos, quien ha co-
+mençado a recebir eas mercedes, mas ſo-
+mos miſerables; lo que auiſo mucho es,
+que no dexe la oracion, que ai enten-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="594" y="3062"/>
+	<Point x="1596" y="3062"/>
+	<Point x="1596" y="3150"/>
+	<Point x="594" y="3150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1574" y="125"/>
+	<Point x="1574" y="218"/>
+	<Point x="1721" y="218"/>
+	<Point x="1721" y="125"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>171</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1550" y="2620"/>
+	<Point x="1552" y="2701"/>
+	<Point x="1729" y="2696"/>
+	<Point x="1729" y="2622"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dera</Unicode></TextEquiv></TextRegion></Page></PcGts>

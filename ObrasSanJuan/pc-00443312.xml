@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443312">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T15:54:18</Created>
+	<LastChange>2010-12-30T06:25:04</LastChange></Metadata>
+	<Page imageFilename="00443312.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="611" y="97"/>
+	<Point x="611" y="188"/>
+	<Point x="1019" y="188"/>
+	<Point x="1019" y="97"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro tercero.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1471" y="76"/>
+	<Point x="1471" y="173"/>
+	<Point x="1616" y="173"/>
+	<Point x="1616" y="76"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>301</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="121" y="238"/>
+	<Point x="124" y="706"/>
+	<Point x="137" y="1185"/>
+	<Point x="135" y="1273"/>
+	<Point x="175" y="2078"/>
+	<Point x="188" y="2790"/>
+	<Point x="1021" y="2800"/>
+	<Point x="1564" y="2786"/>
+	<Point x="1604" y="2767"/>
+	<Point x="1654" y="2768"/>
+	<Point x="1689" y="2763"/>
+	<Point x="1618" y="244"/>
+	<Point x="1607" y="219"/>
+	<Point x="1440" y="216"/>
+	<Point x="1071" y="214"/>
+	<Point x="504" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rei en los paſados, ni en los por venir fueſe ſemejante
+a el. Quia po ulai ver bum boc, &amp; non petii dies mul-
+tos, nec divitias aut animas inimicorum tuorum, ſed pou
+lai tibi ſapientiam ad diſcernendum iudicium: ecce dedi
+tibi ſecundùm ſermones tuos, &amp;c. ſed &amp; hc qu non po-
+ulai dedi tibi: divitias, &amp; gloriam, vt nemo fuerit -
+milis tui in Regibus cunctis retro diebus. Pero aunque
+en ea primera manera ſe deba gozar el Criiano
+ſobre los bienes Morales, i buenas obras que tempo-
+ralmente haze, por cuanto cauſan los bienes tem-
+porales, que avemos dicho, no debe parar ſu Gozo
+en ea primera manera (como avemos dicho de los
+Gentiles, cuyos ojos del alma no tranſcendian mas
+de lo dea vida mortal) no que pues tiene lumbre de
+Fè, en que eſpera vida eterna, i que n ea todo lo de
+acà, i lo de aà no le valdra nada: ſolo i princi palmente
+debe gozarſe con la poſeon i exercicio deos bienes
+Morales en la ſegunda manera, que es en cuàto, haziẽ-
+do las obras por amor de Dios, le adquieren vida eter-
+na. I a ſolo debe poner los ojos i el Gozo en ſervir, i
+honrar a Dios con ſus buenas coumbres i virtudes.
+Porque n ee reſpeto no valen delante de Dios nada
+las virtudes, como ſe vè en las diez Virgenes del Evan-
+gelio, que todas aviã guardado virginidad, i hecho bue
+nas obras, i porque las cinco no avian pueo ſu Gozo
+en la ſegunda manera, eo es, endereçandole en eas
+a Dios, no antes le pueron vanamente en la primera
+manera gozandoſe, i jatandoſe en la poſeon dea s
+fueron deſpedidas del cielo n ningun agradecimien-
+to i galardon del Eſpoſo, I tambien muchos antiguos
+tuvieron algunas virtudes, i hizieron buenas obras, i
+muchos Criianos el dia de oi las hazen, i tienen i o-
+bran grandes coſas, i noles aprovecharàn nada para</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1611" y="2776"/>
+	<Point x="1611" y="2845"/>
+	<Point x="1688" y="2845"/>
+	<Point x="1688" y="2776"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="778" y="2933"/>
+	<Point x="778" y="3000"/>
+	<Point x="1428" y="3000"/>
+	<Point x="1428" y="2933"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>©Bibliteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="marginalia">
+	<Coords>
+	<Point x="1640" y="318"/>
+	<Point x="1640" y="459"/>
+	<Point x="1874" y="459"/>
+	<Point x="1874" y="318"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3.Reg.3.
+11.</Unicode></TextEquiv></TextRegion></Page></PcGts>

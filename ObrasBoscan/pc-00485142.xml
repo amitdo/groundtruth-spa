@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485142">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T05:47:52</Created>
+	<LastChange>2011-05-12T13:40:57</LastChange></Metadata>
+	<Page imageFilename="00485142.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="630" y="3010"/>
+	<Point x="1401" y="3007"/>
+	<Point x="1403" y="3095"/>
+	<Point x="1265" y="3096"/>
+	<Point x="630" y="3095"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="475" y="195"/>
+	<Point x="1582" y="206"/>
+	<Point x="1808" y="220"/>
+	<Point x="1815" y="2817"/>
+	<Point x="468" y="2813"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Que a de dezir vn hombre, que's tã baxo.
+A bienauenturança nunca via,
+Palabras nunca dichas ſe mereçen
+Aqueas no las ay en mi ni en otro:
+Lo que tengo t'e dado, que's el alma:
+En ea'an las obras y palabras:
+Toma lo todo junto, no en partes,
+Del arte que tu miſma lo quieres.
+Yo me amo Leandro, y ſoy d'Abydo:
+Que's vn lugar que'a en frẽte del tuyo:
+El Heeſponto, ves como'a en medio:
+Duro erecho de mar para noſotros,
+No embargante que ami, el trabajo en eo,
+Deſcanſo me dara en qual quier trabajo:
+Y el peligro porna mayor euerço.
+Toda via la mar nos ea en medio:
+Duro erecho d'Amor, que nos aparta
+Los cuerpos, ayuntando nos las almas:
+Mas tu me das aliento para todo:
+Y hazes me ver, lo que las gentes dizen:
+Y dizen lo quiça, por que lo oyen:
+Mas no por que lo entiendan, ni lo entã
+Que al verdadero amante todo es facil.
+Aſli lo ſera ami, paar a nado
+Ee braço de mar, yendo atu torre:
+Que ir en barco, ſeria perder tiempo.
+Y tomar para eo compañia,
+Seria no acudir atu ſecreto.
+Coſa tan importante, y deeada,
+Yo ſolo e de gozar, d'hazea toda.
+Yo miſmo ſere'l barco y el remero:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="820" y="113"/>
+	<Point x="819" y="188"/>
+	<Point x="1301" y="192"/>
+	<Point x="1298" y="142"/>
+	<Point x="1298" y="112"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r9">
+	<Coords>
+	<Point x="1306" y="111"/>
+	<Point x="1306" y="180"/>
+	<Point x="1362" y="191"/>
+	<Point x="1440" y="180"/>
+	<Point x="1440" y="111"/></Coords></GraphicRegion></Page></PcGts>

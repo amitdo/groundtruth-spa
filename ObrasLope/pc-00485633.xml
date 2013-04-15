@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485633">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T20:02:36</Created>
+	<LastChange>2011-07-28T11:28:10</LastChange></Metadata>
+	<Page imageFilename="00485633.tif" imageWidth="2111" imageHeight="3042">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="credit">
+	<Coords>
+	<Point x="613" y="2962"/>
+	<Point x="627" y="2951"/>
+	<Point x="1346" y="2950"/>
+	<Point x="1361" y="2973"/>
+	<Point x="1346" y="3007"/>
+	<Point x="1273" y="3017"/>
+	<Point x="613" y="3007"/>
+	<Point x="599" y="2982"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="677" y="15"/>
+	<Point x="960" y="4"/>
+	<Point x="1668" y="15"/>
+	<Point x="1666" y="101"/>
+	<Point x="1614" y="101"/>
+	<Point x="1594" y="119"/>
+	<Point x="1555" y="119"/>
+	<Point x="1552" y="100"/>
+	<Point x="1290" y="99"/>
+	<Point x="1290" y="111"/>
+	<Point x="1278" y="121"/>
+	<Point x="1253" y="117"/>
+	<Point x="1241" y="96"/>
+	<Point x="691" y="90"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comedia de Lope de Vega.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="238" y="101"/>
+	<Point x="1223" y="101"/>
+	<Point x="1252" y="118"/>
+	<Point x="1280" y="132"/>
+	<Point x="1313" y="130"/>
+	<Point x="1312" y="106"/>
+	<Point x="1537" y="104"/>
+	<Point x="1546" y="125"/>
+	<Point x="1585" y="131"/>
+	<Point x="1606" y="114"/>
+	<Point x="1777" y="101"/>
+	<Point x="1791" y="178"/>
+	<Point x="1773" y="2697"/>
+	<Point x="602" y="2708"/>
+	<Point x="238" y="2694"/>
+	<Point x="226" y="140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pulgar. Lança en la tienda de la Reyna, lança
+a via de la gente de Caia,
+en medio de la gloria y eſperança,
+de que Granada ſu pendon ſe humia,
+Fernando a vos os toca la vengança,
+n que de arnes ſe trance, o peyne ebia,
+ora bien ya ſe fue el moro penſemos
+que genero de emienda tomaremos:
+Ee viano trae, yo lo he vio
+vna cinta en el hierro que ſoſpecho,
+que de ſu dama fue, pues  armas vio,
+porque no emprendo algun famoſo hecho,
+Chriiano ſoy, ſoldado ſoy de Chrio,
+ſu madre traygo en guerra y paz al pecho:
+pues ſea mi dama aquea Virgen pura
+que excede a toda Angelica criatura,
+Virgen mas pura que del ſol la lumbre,
+a cuyos pies la Luna arrodiada
+muera vuera diuina manſedumbre,
+yla frente de ereas coronada:
+vos por quien fue la antigua peſadumbre
+de aquea erpe n y gual domada,
+perdonadme  a ſer galan gaardo
+me atreuo, endo oﬃcio de vn Bernardo,
+yo pues a quien palabras faltan, quiero
+no como el Ilefonſo ToIedano,
+mas como belicoſo cauaero</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="2030" y="16"/>
+	<Point x="2030" y="119"/>
+	<Point x="2110" y="119"/>
+	<Point x="2110" y="16"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>8</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="1216" y="2712"/>
+	<Point x="1216" y="2810"/>
+	<Point x="1335" y="2810"/>
+	<Point x="1335" y="2712"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>l 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1548" y="2706"/>
+	<Point x="1548" y="2794"/>
+	<Point x="1776" y="2794"/>
+	<Point x="1776" y="2706"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſeruiros</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r10" type="handwritten-annotation">
+	<Coords>
+	<Point x="942" y="2777"/>
+	<Point x="928" y="2898"/>
+	<Point x="1103" y="2898"/>
+	<Point x="1103" y="2777"/></Coords></GraphicRegion></Page></PcGts>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485264">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T08:01:59</Created>
+	<LastChange>2011-05-12T13:41:10</LastChange></Metadata>
+	<Page imageFilename="00485264.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="467" y="189"/>
+	<Point x="1613" y="203"/>
+	<Point x="1691" y="924"/>
+	<Point x="440" y="909"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y lo que abuia mas mi padecer,
+Y me haze ſentir mas deſplazeres,
+Es penſar yo, que endo yo muger:
+Lo mas deo que digo, es en mugeres:
+Sin ſaber como empieçan aquerer:
+Tiran deſpues tras otros mil plazeres,
+Ai que andar guiendo ſus paiones:
+Es como andar por tierra de ladrones.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="387" y="1818"/>
+	<Point x="1687" y="1818"/>
+	<Point x="1687" y="2563"/>
+	<Point x="387" y="2563"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Con vnos, las vereys eſcrupuloſas,
+Sueltas con otros, y deſenfadadas.
+Tienen punto y ſoberuia, en baxas coſas,
+Y en las altas, ſon tries, y cuytadas.
+De miſerables, ſe hazen deſdeñoſas,
+Deſprecian, porno verſe deſpreciadas.
+Quieren ſer gracioſas, y ſon frias,
+Y hazen por ſer damas, damerias.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="619" y="3031"/>
+	<Point x="1401" y="3031"/>
+	<Point x="1401" y="3090"/>
+	<Point x="619" y="3090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="427" y="1001"/>
+	<Point x="1670" y="1001"/>
+	<Point x="1670" y="1741"/>
+	<Point x="427" y="1741"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No ſe puede prear ſobre ſus prendas,
+Coſa ya que valer pueda dinero.
+Quebrar os an entrambas ados riendas,
+Si enla mano no ſoys empre ligero.
+Y haran os quiça por dos meriendas,
+Demuy familiar, muy erangero.
+Hazen por vos lo que les demandays,
+Y burlan ſe deſpues ﬁ las mirays.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="1234" y="78"/>
+	<Point x="1234" y="91"/>
+	<Point x="1233" y="91"/>
+	<Point x="1233" y="109"/>
+	<Point x="1232" y="109"/>
+	<Point x="1232" y="126"/>
+	<Point x="1231" y="126"/>
+	<Point x="1231" y="144"/>
+	<Point x="1230" y="144"/>
+	<Point x="1230" y="161"/>
+	<Point x="1229" y="161"/>
+	<Point x="1229" y="179"/>
+	<Point x="1228" y="179"/>
+	<Point x="1228" y="185"/>
+	<Point x="743" y="185"/>
+	<Point x="743" y="78"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r11" type="other">
+	<Coords>
+	<Point x="1370" y="78"/>
+	<Point x="1370" y="185"/>
+	<Point x="1230" y="185"/>
+	<Point x="1230" y="181"/>
+	<Point x="1231" y="181"/>
+	<Point x="1231" y="163"/>
+	<Point x="1232" y="163"/>
+	<Point x="1232" y="146"/>
+	<Point x="1233" y="146"/>
+	<Point x="1233" y="128"/>
+	<Point x="1234" y="128"/>
+	<Point x="1234" y="111"/>
+	<Point x="1235" y="111"/>
+	<Point x="1235" y="93"/>
+	<Point x="1236" y="93"/>
+	<Point x="1236" y="78"/></Coords></GraphicRegion></Page></PcGts>

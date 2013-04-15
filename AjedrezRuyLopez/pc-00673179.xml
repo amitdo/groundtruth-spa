@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00673179">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 10.0</Creator>
+	<Created>2012-02-02T19:20:00</Created>
+	<LastChange>2012-03-03T23:08:02</LastChange></Metadata>
+	<Page imageFilename="00673179.tif" imageWidth="1864" imageHeight="2621">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="198" y="2240"/>
+	<Point x="240" y="335"/>
+	<Point x="416" y="325"/>
+	<Point x="604" y="335"/>
+	<Point x="624" y="339"/>
+	<Point x="731" y="349"/>
+	<Point x="780" y="338"/>
+	<Point x="1431" y="350"/>
+	<Point x="1418" y="2226"/>
+	<Point x="961" y="2220"/>
+	<Point x="815" y="2260"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>con la dama el peon del rey: y a lo auria deſacõ
+modado,y mas le auria hecho mudar el rey:y por
+tanto,ò por no deſordenarſe no le conuiene jug.
+los dos peones como he dicho, antes jug. el peon
+del rey quanto va: y el cau.de ſu rey ala.3. de ſu ar
+ﬁl. Si el neg. juga. el peon de ſu rey quanto va:el
+neg. no lo tomara con el caua. por temor del xa-
+que ſobredicho: mas jug. el arﬁl de ſu rey ala. 4.
+del arﬁl de ſu dama.Si el neg.jug.el arﬁl del rey a
+la.4. del arﬁl de ſu dama:el blã.jug.el peon del ar
+ﬁl de ſu dama vna caſa.Si el neg.jug.el caua.de ſu
+dama ala.3.de ſu arﬁl:el blan.jug.el peon de ſu da
+ma quanto va.Si el neg.lo tomara con el peon de
+ſu rey: el blan.tomara con el peon del arﬁl,cargã
+do ſobre el arﬁl contrario.Si el negro dara xaque
+con el arﬁl ala.4. del cau. dela dama contraria : el
+blan. ſe cobrira con el caua.de la dama ala.3.de ſu
+arﬁl. Si el neg.jug.el cau.de ſu rey ala.3.de ſu arﬁl:
+el blã.pujara el peon del rey vna caſa adelante ſo-
+bre el cau.Si el neg.jug.el dicho cau.ala.4.del rey
+contrario:el blan.jug.la dama ala.3.de ſu cau. ſo-
+bre el peon del arﬁl del rey contrario:ò la jug. ala
+3. della meſma ſobre el caua. Y a ſabiendo jug.
+podra ordenar bien ſu juego. Y  ſe jug. fuera de
+o dicho,ee aduertido deos lances à proueer
+ſe ſegun la necedad:porque ſabiendo jugar,po
+dra ordenar bien ſu juego.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="signature-mark">
+	<Coords>
+	<Point x="1063" y="2250"/>
+	<Point x="1063" y="2323"/>
+	<Point x="1123" y="2323"/>
+	<Point x="1123" y="2250"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>R</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1206" y="2251"/>
+	<Point x="1206" y="2340"/>
+	<Point x="1380" y="2340"/>
+	<Point x="1380" y="2251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Capit.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="556" y="258"/>
+	<Point x="560" y="328"/>
+	<Point x="743" y="344"/>
+	<Point x="770" y="333"/>
+	<Point x="1101" y="333"/>
+	<Point x="1101" y="258"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>del juego del axedrez.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1352" y="280"/>
+	<Point x="1352" y="341"/>
+	<Point x="1429" y="341"/>
+	<Point x="1429" y="280"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>128</Unicode></TextEquiv></TextRegion></Page></PcGts>

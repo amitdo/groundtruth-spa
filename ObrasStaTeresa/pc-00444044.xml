@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444044">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T00:51:31</Created>
+	<LastChange>2011-12-19T11:39:22</LastChange></Metadata>
+	<Page imageFilename="00444044.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="442" y="251"/>
+	<Point x="1980" y="251"/>
+	<Point x="1983" y="2655"/>
+	<Point x="1283" y="2658"/>
+	<Point x="1278" y="2682"/>
+	<Point x="442" y="2682"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſobre humildad. Pues que ſera quando vean
+en ſu poder otras joyas mas precioſas como
+tienen ya recebidas algunos eruos de Dios,
+de menoſprecio del mũdo, y aũ de  miſmos?
+Ea claro que ſe han de tener por mas deu‐
+dores y mas obligados a ſeruir y entẽder que
+no teniamos nada deo, y a conocer la largue
+za del Señor,  a vn alma tan ruyn, y pobre, y
+de ningũ merecimiento como la mia  baa-
+ua la primer joya deas y ſobraua para mi,
+quiſo hazerme con mas riquezas que yo ſu-
+piera deear. Es meneer ſacar fuerças de nue
+uo para ſeruir, y procurar no ſer ingratos, por
+que cõ ea cõ dicion las da el Señor: que no
+vſamos bien del theſoroy del gran eado en
+ nos pone, nos lo tornara a tomar y quedar
+nos hemos muy mas pobres, y dara ſu mage
+ad las joyas a quien luzga, y aproueche con
+eas a  y a los otros. Pues como aprouechara
+y gaara cõ largueza el  no entiẽde que ea
+rico? Es impoſsible cõforme a nuera natura‐
+leza, a mi parecer, tener animo para coſas grã
+des, quiẽ no entiẽde ea fauorecido de Dios:
+por ſomos tã miſerables y tã inclinados a co
+ſas de tierra,  mal podra aborrecer todo lo de
+aca de hecho cõ gran deſamiẽto, quien no
+entiende tiene alguna prenda de lo de aa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1669" y="2664"/>
+	<Point x="1955" y="2664"/>
+	<Point x="1955" y="2780"/>
+	<Point x="1669" y="2780"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Porque</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="610" y="3067"/>
+	<Point x="1583" y="3067"/>
+	<Point x="1583" y="3149"/>
+	<Point x="610" y="3149"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="446" y="133"/>
+	<Point x="446" y="221"/>
+	<Point x="625" y="221"/>
+	<Point x="625" y="133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>116</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="930" y="121"/>
+	<Point x="930" y="225"/>
+	<Point x="1587" y="225"/>
+	<Point x="1587" y="121"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

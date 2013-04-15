@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443958">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T00:11:02</Created>
+	<LastChange>2011-12-19T11:39:17</LastChange></Metadata>
+	<Page imageFilename="00443958.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="538" y="241"/>
+	<Point x="2112" y="241"/>
+	<Point x="2112" y="2664"/>
+	<Point x="538" y="2664"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y an no haauamos remedio en nada, para
+nuero deeo, que aora me pone deuocion
+ver como me daua Dios tan preo, lo que
+yo perdi por mi culpa. Hazia limoſna co‐
+mo podia, y podia poco. Procuraua ſole‐
+dad: para rezar mis deuociones que eran
+hartas, en eſpecial el roſario, de que mi
+madre era muy deuota, y an nos hazia
+ſerlo. Guaua mucho quando jugaua con
+otras niñas, hazer moneerios, como que
+eramos monjas, y yo me parece deeaua ſer‐
+lo, aunque no tanto como las coſas que he
+dicho. Acuerdome que quando murio mi
+madre, quede yo de edad de doze años, po‐
+co menos: como yo comence a entender lo
+que auia perdido, aﬀligida fuyme a vna ima‐
+gen de nuera Señora, y ſupliquela fuee mi
+madre con muchas lagrimas. Pareceme que
+aunque ſe hizo con mpleza, que me ha va‐
+lido: porque conocidamente he haado a
+ea virgen ſoberana, en quanto me he enco‐
+mendado a ea, y en ﬁn me ha tornado a .
+Fatigame aora ver y penſar en que euuo el
+no auer yo eado entera en los buenos deſ-
+ſeos que comence. O Señor mio, pues parece
+teneys determinado que me ſalue, plega a
+vuera Magead ſea an, y de hazerme tãtas</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1825" y="2670"/>
+	<Point x="2103" y="2670"/>
+	<Point x="2103" y="2758"/>
+	<Point x="1825" y="2758"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>merce-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="593" y="3070"/>
+	<Point x="1583" y="3070"/>
+	<Point x="1583" y="3154"/>
+	<Point x="593" y="3154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="590" y="132"/>
+	<Point x="590" y="229"/>
+	<Point x="706" y="229"/>
+	<Point x="706" y="132"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>30</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="1064" y="93"/>
+	<Point x="1064" y="209"/>
+	<Point x="1658" y="209"/>
+	<Point x="1658" y="93"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

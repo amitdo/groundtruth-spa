@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442907">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:52:49</Created>
+	<LastChange>2012-03-12T14:12:34</LastChange></Metadata>
+	<Page imageFilename="00442907.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r18" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r10" index="4"/>
+	<RegionRefIndexed regionRef="r11" index="5"/>
+	<RegionRefIndexed regionRef="r12" index="6"/>
+	<RegionRefIndexed regionRef="r17" index="7"/>
+	<RegionRefIndexed regionRef="r13" index="8"/>
+	<RegionRefIndexed regionRef="r14" index="9"/>
+	<RegionRefIndexed regionRef="r15" index="10"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="436" y="23"/>
+	<Point x="911" y="21"/>
+	<Point x="1233" y="20"/>
+	<Point x="1235" y="141"/>
+	<Point x="935" y="146"/>
+	<Point x="664" y="154"/>
+	<Point x="615" y="152"/>
+	<Point x="580" y="154"/>
+	<Point x="420" y="155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="207" y="164"/>
+	<Point x="527" y="161"/>
+	<Point x="617" y="158"/>
+	<Point x="1195" y="149"/>
+	<Point x="1470" y="141"/>
+	<Point x="1474" y="334"/>
+	<Point x="657" y="340"/>
+	<Point x="209" y="354"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Del Cachidiablo Academico, de la Argamaa,
+en la ſepultura de don Quixote.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="596" y="384"/>
+	<Point x="1080" y="371"/>
+	<Point x="1082" y="470"/>
+	<Point x="595" y="471"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EPITAFIO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="190" y="1167"/>
+	<Point x="985" y="1161"/>
+	<Point x="1468" y="1164"/>
+	<Point x="1465" y="1354"/>
+	<Point x="181" y="1370"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Del Tiquito� Academico, de la Argamaa, en la
+ſepultura de Dulzinea del Toboſo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="581" y="1372"/>
+	<Point x="1049" y="1375"/>
+	<Point x="1056" y="1454"/>
+	<Point x="584" y="1455"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EPITAFIO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="522" y="1528"/>
+	<Point x="652" y="1522"/>
+	<Point x="1149" y="1522"/>
+	<Point x="1153" y="1825"/>
+	<Point x="1036" y="1832"/>
+	<Point x="823" y="1808"/>
+	<Point x="763" y="1827"/>
+	<Point x="720" y="1820"/>
+	<Point x="583" y="1803"/>
+	<Point x="398" y="1803"/>
+	<Point x="448" y="1690"/>
+	<Point x="480" y="1676"/>
+	<Point x="537" y="1673"/>
+	<Point x="524" y="1611"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Epoſa aqui Dulzinea,
+Y aunque de carnes roiza,
+La boluio en poluo, y ceniza,
+La muerte eſpantable y fea.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="396" y="1806"/>
+	<Point x="579" y="1806"/>
+	<Point x="666" y="1814"/>
+	<Point x="763" y="1828"/>
+	<Point x="823" y="1809"/>
+	<Point x="1135" y="1859"/>
+	<Point x="1148" y="2027"/>
+	<Point x="1140" y="2125"/>
+	<Point x="398" y="2117"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fue de caiza ralea,
+Y tuuo aomos de dama,
+Del gran Quixote fue ama,
+Y fue gloria de ſu aldea.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="catch-word">
+	<Coords>
+	<Point x="1281" y="2102"/>
+	<Point x="1459" y="2102"/>
+	<Point x="1459" y="2184"/>
+	<Point x="1281" y="2184"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="credit">
+	<Coords>
+	<Point x="450" y="2298"/>
+	<Point x="1136" y="2298"/>
+	<Point x="1136" y="2368"/>
+	<Point x="450" y="2368"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="514" y="541"/>
+	<Point x="771" y="530"/>
+	<Point x="1148" y="531"/>
+	<Point x="1157" y="818"/>
+	<Point x="1036" y="828"/>
+	<Point x="1007" y="830"/>
+	<Point x="942" y="823"/>
+	<Point x="884" y="821"/>
+	<Point x="824" y="842"/>
+	<Point x="784" y="827"/>
+	<Point x="685" y="841"/>
+	<Point x="631" y="820"/>
+	<Point x="430" y="819"/>
+	<Point x="486" y="707"/>
+	<Point x="494" y="678"/>
+	<Point x="496" y="671"/>
+	<Point x="504" y="642"/>
+	<Point x="511" y="622"/>
+	<Point x="508" y="599"/>
+	<Point x="507" y="574"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Qui yaze el cauaero,
+Bien molido, y mal andante,
+Aquien euò Rozinante
+Por vno, y otro ſendero.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="426" y="822"/>
+	<Point x="554" y="821"/>
+	<Point x="631" y="822"/>
+	<Point x="687" y="845"/>
+	<Point x="784" y="828"/>
+	<Point x="824" y="843"/>
+	<Point x="884" y="824"/>
+	<Point x="939" y="827"/>
+	<Point x="1010" y="833"/>
+	<Point x="1165" y="830"/>
+	<Point x="1161" y="1135"/>
+	<Point x="397" y="1147"/>
+	<Point x="412" y="886"/>
+	<Point x="401" y="875"/>
+	<Point x="405" y="858"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sancho Pança el majadero,
+Yaze tambien junto a el,
+Eſcudero el mas ﬁel,
+Que vio el trato de eſcudero.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="drop-capital">
+	<Coords>
+	<Point x="397" y="1530"/>
+	<Point x="397" y="1671"/>
+	<Point x="520" y="1671"/>
+	<Point x="530" y="1668"/>
+	<Point x="520" y="1614"/>
+	<Point x="520" y="1530"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>R</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="drop-capital">
+	<Coords>
+	<Point x="404" y="540"/>
+	<Point x="395" y="637"/>
+	<Point x="486" y="645"/>
+	<Point x="506" y="630"/>
+	<Point x="508" y="622"/>
+	<Point x="502" y="586"/>
+	<Point x="510" y="533"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion></Page></PcGts>

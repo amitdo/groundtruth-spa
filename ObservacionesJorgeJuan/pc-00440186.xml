@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440186">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T13:23:58</Created>
+	<LastChange>2011-12-19T11:38:49</LastChange></Metadata>
+	<Page imageFilename="00440186.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="807" y="373"/>
+	<Point x="1812" y="373"/>
+	<Point x="1815" y="460"/>
+	<Point x="806" y="460"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="272" y="474"/>
+	<Point x="2289" y="474"/>
+	<Point x="2289" y="3408"/>
+	<Point x="1389" y="3410"/>
+	<Point x="1191" y="3427"/>
+	<Point x="1008" y="3418"/>
+	<Point x="272" y="3413"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Deſpues de medida la Baſe de Cuenca, y examinada
+por las Latitudes de ea Ciudad, y la de Yaruquì, que nueſ‑
+tra Sèrie de triangulos no comprehendìa aun tres grados
+de Meridiano, nos pareciò que debiamos prolongarla por
+la parte del Norte haa que comprehendiera à lo menos
+dichos tres grados. Algunos han procurado perſuadirnos
+à que no ſe debe medir mas de un grado de Meridiano pa‑
+ra que ſu concluon ſalga menos erronea; pero muy al
+contrario otros con razones mas ſólidas tienen por cierto,
+que quanto mas larga ſe hiciee la medida: eo es, quan-
+to mas grande fuere el arco que ſe midiere, mas exaa ſe
+tendrà la concluon del grado. Para vèr eo patentemen‑
+te no es neceario mas, que atender à que el yerro, que
+ſe puede cometer en la concluon del grado, no puede
+proceder mas, que de los que ſe cometieren en las Obſer‑
+vaciones Aronómicas, ò determinacion de la amplitud
+del arco, y de los que reſultaren en la medida geome‑
+trica: eos poniendonos en el peor caſo, ſe pueden au‑
+mentar proporcionalmente à la magnitud de la medida;
+pero dividiendo èa deſpues por la amplitud del arco, pa‑
+ra concluir el valor del grado, diſminuyen dichos yerros
+en la miſma razon, que antes ſe aumentaron; y aſsi por
+lo tocante à eos, no nos daràn mas, ni menos exaa la
+concluon del grado, que ſe mida grande, ò pequeño el
+arco de Meridiano. No reſulta lo proprio de los que ſe co‑
+metieren en las Obſervaciones Aronómicas, pues eos
+no pueden aumentar, ni diſminuir, porque ſea pequeña,
+ò grande la amplitud del arco; y como al dividir por èa
+la longitud del miſmo, para concluir el valor del grado
+hayan de diſminuirſe ſegun fuere mas grande dicho arco,
+es evidente, que quanto mas grande ſe midiere èe, me‑</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="994" y="4000"/>
+	<Point x="1956" y="4000"/>
+	<Point x="1956" y="4097"/>
+	<Point x="994" y="4097"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="2074" y="3425"/>
+	<Point x="2074" y="3514"/>
+	<Point x="2266" y="3514"/>
+	<Point x="2266" y="3425"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="2017" y="378"/>
+	<Point x="2017" y="470"/>
+	<Point x="2185" y="470"/>
+	<Point x="2185" y="378"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>167</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485087">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T11:11:33</Created>
+	<LastChange>2011-05-12T13:40:52</LastChange></Metadata>
+	<Page imageFilename="00485087.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="389" y="168"/>
+	<Point x="1692" y="157"/>
+	<Point x="1697" y="865"/>
+	<Point x="1702" y="1755"/>
+	<Point x="394" y="1757"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ai que'l mal no me's agradecido
+Ni por dios, ni por vos, ni por la gente:
+Ni yo mele agradezco ya tampoco.
+En otro tiempo holgue d'ar doliente:
+Quando el guo no'aua tan perdido,
+Que no guae de mi mal vn poco.
+Ora el dolor me tiene ya tan loco,
+O ya tan tonto, por hablar mas propio,
+Que andan mis ſentimiẽtos tan dañados,
+Tan al reues mudados,
+Que quanto ento, me parece impropio.
+De'o no entiendo mas delo que veo:
+Veo que ſois la cauſa de'e daño:
+Que por ſeguir vr̃a arte, o vr̃o antojo,
+Traeys me'l bien continamente al ojo,
+Dilatandole empre con engaño,
+Con eo ai canſaes mi deeo,
+Que ya de muy canſado no deeo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="373" y="1805"/>
+	<Point x="1726" y="1807"/>
+	<Point x="1707" y="2623"/>
+	<Point x="505" y="2642"/>
+	<Point x="442" y="2631"/>
+	<Point x="392" y="2615"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La'ſperança'a ya con tal ﬂaqueza,
+Que'I deear no puede quedar fuerte:
+Toda'l alma ocupado a ee deſmayo.
+Su'ſperar, que's ſu ſangre, ſe le vierte.
+D'aqueo ſe me gue vna trieza
+Tan eraña, que ca me deſmayo.
+Si prueuo a Ieuantarme, luego cayo:
+Que los neruios, que ſon los penſamiẽtos,
+Con los quales el alma ſe mandaua,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="626" y="3007"/>
+	<Point x="1400" y="3005"/>
+	<Point x="1394" y="3089"/>
+	<Point x="628" y="3086"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

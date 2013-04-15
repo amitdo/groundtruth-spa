@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485139">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T05:47:29</Created>
+	<LastChange>2011-05-12T13:40:57</LastChange></Metadata>
+	<Page imageFilename="00485139.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r4" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="618" y="2985"/>
+	<Point x="1400" y="2987"/>
+	<Point x="1402" y="3091"/>
+	<Point x="624" y="3087"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="271" y="191"/>
+	<Point x="1646" y="208"/>
+	<Point x="1632" y="2824"/>
+	<Point x="328" y="2824"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Es coſa, que quiça nunca s'a vio.
+Eo que agora aqui contigo pao,
+Ya puede ſer, que muchas lo an paado
+Con go ſoIas: o con ſus amigas:
+Con eas deſcanſando de ſus males.
+Mas yo, paao ai n mas rodeo
+Contigo, de quien yo deuo guardarme:
+Amor eo no ſe  puede hazeo.
+Soſpecho que's algun pecado mio:
+O quiça la ſoberuia de mis padres:
+Que empre conﬁaron de mi tanto,
+Que alguna vez, oyendo hablar, d'algunas
+Que vuieron por amor hecho algũ yerro:
+Luego dezian. Quan lexos nuera hija
+De verſe en otro tanto, por mas fuertes
+Que fueen, los combates que le dieen.
+Tries d'eos que ai s'an engañado:
+Trie de mi, que ai les e ſalido
+Tan al reues, de como me 'ſperauan.
+Mas para que ſon ya tantas quereas:
+Que'n ﬁn mi voluntad es la culpada:
+Y ai lo quiero yo que'a lo ſea.
+Con todo no querria tal eremo:
+Bien huelgo de quererte, mas no tanto:
+Que'n lo mucho 'a el mal, y'a el peligro
+Yea el temor d'errar contra mi honrra:
+Y el ſoſpechar que teparezco mal.
+Y eoy aqui del arte que me vees:
+Tu mira vn poco por lo que conuiene,
+A poder abonarme yo comigo:
+Y a no perder al mundo la verguença.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1069" y="100"/>
+	<Point x="1069" y="193"/>
+	<Point x="1604" y="193"/>
+	<Point x="1604" y="100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. LXXXVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="500" y="97"/>
+	<Point x="500" y="179"/>
+	<Point x="1028" y="179"/>
+	<Point x="1028" y="97"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion></Page></PcGts>

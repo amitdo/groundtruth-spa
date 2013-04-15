@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485197">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T02:24:19</Created>
+	<LastChange>2011-05-12T13:41:01</LastChange></Metadata>
+	<Page imageFilename="00485197.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r10" type="signature-mark">
+	<Coords>
+	<Point x="1232" y="2803"/>
+	<Point x="1278" y="2804"/>
+	<Point x="1325" y="2818"/>
+	<Point x="1358" y="2811"/>
+	<Point x="1368" y="2806"/>
+	<Point x="1398" y="2802"/>
+	<Point x="1404" y="2891"/>
+	<Point x="1230" y="2887"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>R iĳ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="credit">
+	<Coords>
+	<Point x="632" y="3023"/>
+	<Point x="1403" y="3023"/>
+	<Point x="1403" y="3088"/>
+	<Point x="632" y="3088"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="388" y="186"/>
+	<Point x="1626" y="195"/>
+	<Point x="1624" y="318"/>
+	<Point x="1517" y="317"/>
+	<Point x="1553" y="2057"/>
+	<Point x="1553" y="2800"/>
+	<Point x="1428" y="2813"/>
+	<Point x="1422" y="2801"/>
+	<Point x="1378" y="2797"/>
+	<Point x="1359" y="2809"/>
+	<Point x="1342" y="2812"/>
+	<Point x="1333" y="2813"/>
+	<Point x="1283" y="2799"/>
+	<Point x="1226" y="2798"/>
+	<Point x="1215" y="2818"/>
+	<Point x="328" y="2835"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pueo que, a la verdad no era tan grande,
+Como fueron los otros ya paados.
+Todauia, la'ſcuridad cargaua.
+Y por aa, al eremo delos polos
+S'oyan ciertos truenos y aa dentro,
+El pielago bramaua fuertemente.
+Si ai fuera Leandro, Palinuro,
+O no fuera Leandro, claro viera
+El peligro que'l tiempo amenazaua:
+Mas aſ 'aua arriba ya ordenado,
+Y ai no via el trie, lo que via.
+Hero, del'otra parte 'aua ardiendo,
+No pudiendo ſufrirſe, en ſu deeo:
+Y ai le parecio todo ſer facil
+Sin andar mas en platicas congo.
+Por lo qual, no curando de mas cuentas,
+Determino d'hazer, lo que queria
+Quemando ſe le 'I alma en biuo fuego,
+Como aquea que'aua reſoluta,
+Deſpues d' hauer gran tiempo vaciado.
+Llegada pues la ora, dela noche,
+Que a todos en repoſo es concedida:
+Quiſo poner ſu lumbre ala ventana.
+Mas el viento que andaua apoderado,
+Reforço mas en aquel miſmo punto:
+Y como  a ſabiendas lo hiziera,
+Enuiio en la ventana, con tal furia,
+Que la lumbre mato, y echo de dentro
+A la trie, 'n mitad del duro ſuelo.
+Del caer, no ntio no el aguero,
+Y el eoruo, d'aquel poco de tiempo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="611" y="87"/>
+	<Point x="1152" y="87"/>
+	<Point x="1152" y="177"/>
+	<Point x="611" y="177"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="1241" y="87"/>
+	<Point x="1617" y="87"/>
+	<Point x="1617" y="180"/>
+	<Point x="1241" y="180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. CXV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

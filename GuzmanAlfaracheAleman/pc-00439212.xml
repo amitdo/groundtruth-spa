@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439212">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T08:44:20</Created>
+	<LastChange>2011-05-12T13:39:52</LastChange></Metadata>
+	<Page imageFilename="00439212.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="583" y="85"/>
+	<Point x="1492" y="109"/>
+	<Point x="1519" y="178"/>
+	<Point x="583" y="176"/>
+	<Point x="576" y="159"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="278" y="197"/>
+	<Point x="1702" y="188"/>
+	<Point x="1703" y="2615"/>
+	<Point x="1619" y="2613"/>
+	<Point x="1604" y="2620"/>
+	<Point x="1523" y="2603"/>
+	<Point x="1484" y="2601"/>
+	<Point x="1279" y="2622"/>
+	<Point x="264" y="2626"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>daran hartos, todo dizen ſerles demaado, y con todo
+no ſe contentan, ſon como los datiles, lo dulze à fuera,
+la miel en las palabras, y lo duro à dentro en el alma.
+Grandiſma laima ſe les deve tener, por lo mucho que
+padecen, y lo poco de que gozan, condenandoſe ultima-
+mento por ſola una caduca vanidad, en ſer acà eima-
+dos. De manera, que ni vien à guo, ni comen con el,
+andan miſerables, aﬂigidos, marchitos, n poder nunca
+dezir que tuvieron una hora de contento, aun haa las
+conciencias inquietas, y los cuerpos con ſobreſalto.
+Que  lo que dea manera padecen, como lo hazen por
+ſolo el mundo y lo exterior en el, para ſolo parecer, lo
+hizieran por Dios, para mas merecer, y por deſpues no
+padecer, n duda que vivirian aun con aqueo alegres
+en ea Vida, y alegres yrian à gozar de la eterna. Diga-
+mos algo de un teigo falſo, cuya pena dexa amanzia-
+do el pueblo, y à todos es agradable, guando de ſu ca-
+igo, por la gravedad de ſu delito. Que por ſeys mara-
+vedis aya quien jura ſeys mil falſedades, y quite ſeyſcien-
+tas mil honras, ò interes de hazienda, que no ſon deſ-
+pues poderoſos à reituyr. Y que de la manera que los
+trabajadores, y jornaleros acuden à las plaças deputadas,
+para ſer de ai conduzidos al trabajo: aſ acuden eos à
+los Conorios y plaças de negocios, à los miſmos
+oﬁcios de los eſcrivanos, à ſaber lo que ſe trata, y ſe
+ofrecen à quien los ha meneer. No ſeria eo lo peor,
+no los conſervaen ai los miniros miſmos, para va-
+lerſe deos en las ocaones, y para las cauſas que los
+han meneer, y quieren provar de oﬁcio. No es burla,
+no es encarecimiento, ni miento, teigos falſos haa
+quien los quiere comprar, en conſerva ean en las
+boticas de los eſcrivanos. Vayanlos à buſcar en el oﬁcio
+de N. ya lo quiſe dezir, mas todos lo conocen. Ai los ay
+como paeles conforme los buſcaren, de à quatro, de
+à ocho, de à medio real, y de à real. Empero,  el
+caſo es grave, tambien los ay, hechizos como para
+banquetes y bodas, de à dos y de à quatro reales, que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1477" y="2608"/>
+	<Point x="1519" y="2606"/>
+	<Point x="1598" y="2627"/>
+	<Point x="1676" y="2627"/>
+	<Point x="1660" y="2693"/>
+	<Point x="1473" y="2689"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>depon-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="527" y="2859"/>
+	<Point x="1305" y="2868"/>
+	<Point x="1305" y="2931"/>
+	<Point x="1185" y="2936"/>
+	<Point x="543" y="2922"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="300" y="90"/>
+	<Point x="300" y="183"/>
+	<Point x="447" y="183"/>
+	<Point x="447" y="90"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>180</Unicode></TextEquiv></TextRegion></Page></PcGts>

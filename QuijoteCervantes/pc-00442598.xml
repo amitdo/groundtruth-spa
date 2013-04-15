@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442598">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T18:26:19</Created>
+	<LastChange>2012-03-12T14:12:10</LastChange></Metadata>
+	<Page imageFilename="00442598.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="446" y="53"/>
+	<Point x="1100" y="53"/>
+	<Point x="1098" y="142"/>
+	<Point x="739" y="160"/>
+	<Point x="732" y="177"/>
+	<Point x="710" y="177"/>
+	<Point x="704" y="154"/>
+	<Point x="599" y="152"/>
+	<Point x="575" y="174"/>
+	<Point x="543" y="174"/>
+	<Point x="506" y="166"/>
+	<Point x="446" y="151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quarta parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="119" y="160"/>
+	<Point x="474" y="160"/>
+	<Point x="534" y="175"/>
+	<Point x="577" y="175"/>
+	<Point x="605" y="161"/>
+	<Point x="694" y="163"/>
+	<Point x="706" y="184"/>
+	<Point x="742" y="183"/>
+	<Point x="745" y="167"/>
+	<Point x="896" y="160"/>
+	<Point x="1428" y="147"/>
+	<Point x="1425" y="2144"/>
+	<Point x="1371" y="2146"/>
+	<Point x="1351" y="2127"/>
+	<Point x="1317" y="2148"/>
+	<Point x="122" y="2192"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sancho, que yo he vio a muchos, tomar el apei‐
+do y alcurnia del lugar donde nacieron, aman‐
+doſe Pedro de Alcala, Iuan de Vbeda, y Diego de
+Vaadolid: y eo meſmo ſe deue de vſar aa en
+Guinea, tomar las Reynas los nombres de ſus
+Reynos. Aſsi deue de ſer dixo el Cura, y en lo del
+caſarſe vuero amo, yo hare en eo todos mis po‐
+derios. Con lo que quedò tan contento Sancho,
+quanto el Cura admirado de ſu mplicidad, y de
+ver quan encaxados tenia en la fantaa los meſmos
+diſparates que ſu amo, pues n alguna duda ſe da‐
+ua a entender que auia de venir a ſer Emperador.
+Ya en eo ſe auia pueo Dorotea ſobre la mu‐
+la del Cura, y el Barbero ſe auia acomodado al
+roro la barba de la cola de buey, y dixeron a
+Sancho, que los guiae a donde don Quixote ea‐
+ua, al qual aduirtieron que no dixee que concocia
+al Licenciado, ni al Barbero, porque en no cono‐
+cerlos conia todo el toque de venir a ſer Empe‐
+rador ſu amo. Pueo que ni el Cura, ni Car denio
+quieron yr con eos, porque no ſe le acordae a
+don Quixote la pendencia que con Cardenio auia
+tenido: y el Cura, porque no era meneer por en‐
+tonces ſu preſencia, y aſsi los dexaron yr delante,
+y eos los fueron guiendo a pie, poco a poco. No
+dexò de auiſar el Cura lo que auia de hazer Doro‐
+tea: a lo que ea dixo, que deſcuydaen, que todo
+ſe haria n faltar punto, como lo pedian, y pintauã
+los libros de cauaerias. Tres quartos de legua
+aurian andado, quando deſcubrieron a don Qui‐
+xote entre vnas intricadas peñas, ya veido, aun‐
+que no armado: y aſsi como Dorotea le vio, y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="421" y="2305"/>
+	<Point x="1139" y="2305"/>
+	<Point x="1139" y="2373"/>
+	<Point x="421" y="2373"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1323" y="2149"/>
+	<Point x="1312" y="2200"/>
+	<Point x="1422" y="2200"/>
+	<Point x="1414" y="2152"/>
+	<Point x="1367" y="2149"/>
+	<Point x="1349" y="2134"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>fue</Unicode></TextEquiv></TextRegion></Page></PcGts>

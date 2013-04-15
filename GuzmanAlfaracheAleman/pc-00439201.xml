@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439201">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T03:12:57</Created>
+	<LastChange>2011-05-12T13:39:51</LastChange></Metadata>
+	<Page imageFilename="00439201.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="139" y="83"/>
+	<Point x="1182" y="87"/>
+	<Point x="1191" y="160"/>
+	<Point x="126" y="160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PARTE II. LIBRO II. CAP. VI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="5" y="185"/>
+	<Point x="1435" y="174"/>
+	<Point x="1448" y="2599"/>
+	<Point x="1300" y="2609"/>
+	<Point x="1173" y="2632"/>
+	<Point x="848" y="2597"/>
+	<Point x="795" y="2602"/>
+	<Point x="659" y="2594"/>
+	<Point x="569" y="2606"/>
+	<Point x="16" y="2607"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aquee mal hombre me niega mi hazienda: ſu miſmo
+criado diga la verdad, y  lo negaren, digalo ſu miſ-
+mo libro, donde ſe haarà eſcrito lo que de mi recibiò,
+y en que partidas, de la manera que ſe las entreguè,
+para que reconzca bien quien es cada uno, y qual dize
+verdad? Yo avia de pedir lo que no le dì? Dentro de
+un gato ſuyo metiò en aquel eſcritorio tres mil eſcudos
+de à dos y de à quatro: y por ſeñas mas verdaderas y
+ciertas, ay entre medias diez eſcudos de à diez, que
+todos hazen los tres mil al juo. Y en un talego que
+puſo á guardar dentro de aquel arca, en que me dixo
+que avria entonces haa diez y ete mil reales poco
+mas ò menos, con los mios, metiò los dos mil que le
+dì. Sino fuere como lo digo, que ſe quede con eo, y
+me quiten la cabeça como à traydor; con tal que luego
+ſe averigue mi verdad, en preſencia de vueras mer-
+cedes, antes que tenga lugar de poder lo traſponer en
+otra parte. Y ſeñalando al Barguelo, dixe: Vealo
+vuera merced, vealo, y vea quien trata falſedad y
+engaño. El mercader, entonces dixo: yo lo conen-
+to, trayganſe mis libros, veanſe todos, y quanto di-
+nero tengo en toda mi caſa:  tal aſ pareciere, yo
+quiero confear que dize verdad, y ſer el que miento.
+Los que preſentes avia, dixeron: Acabado es el pley-
+to, juiﬁcados ean, la verdad ſe verà bien clara y
+preo, en lo que ambos dizen. El mercader mandò à
+ſu caxero, ſacae ſu libro mayor, y quando lo truxò
+dixe: O traydor, no eà en ee libro, no en el ma-
+nual. Pidiò el manual de la caxa, y quando lo vì, bol-
+vì à dezir: No, no, no ſon aqui meneer tantos enre-
+dos, engañandonos con libros que no digo eos, ni ay
+para que roncear; en el que ſe aentaron las partidas,
+no es tan grande, un libro es angoo y largo. Enton-
+ces dixo Aguilera, en el de memorias deve de querer
+dezir, ſegun dà ſeñas del, que no ay otro en ea caſa
+de aquea manera, y ſacandolo ai, dixo: Es por
+ventura ee? Ee , ee , el es, veaſe lo que digo,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1310" y="2616"/>
+	<Point x="1405" y="2610"/>
+	<Point x="1400" y="2670"/>
+	<Point x="1298" y="2674"/>
+	<Point x="1296" y="2671"/>
+	<Point x="1292" y="2667"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="538" y="2874"/>
+	<Point x="1307" y="2866"/>
+	<Point x="1307" y="2935"/>
+	<Point x="531" y="2933"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1260" y="82"/>
+	<Point x="1260" y="167"/>
+	<Point x="1403" y="167"/>
+	<Point x="1403" y="82"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>169</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="650" y="2600"/>
+	<Point x="650" y="2676"/>
+	<Point x="836" y="2676"/>
+	<Point x="840" y="2608"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ll 5</Unicode></TextEquiv></TextRegion></Page></PcGts>

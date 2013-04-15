@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443677">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T09:30:08</Created>
+	<LastChange>2001-12-31T19:12:02</LastChange></Metadata>
+	<Page imageFilename="00443677.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="795" y="103"/>
+	<Point x="1363" y="103"/>
+	<Point x="1363" y="224"/>
+	<Point x="795" y="224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Declaracion de la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="303" y="236"/>
+	<Point x="1830" y="249"/>
+	<Point x="1832" y="2230"/>
+	<Point x="293" y="2230"/>
+	<Point x="303" y="2192"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>zir, que ſu vida i la vida de Crio toda era una vida por
+union de amor, Io cual ſe hara perfetamente en el cie
+lo en divina vida en todos los que merecieren verſe en
+Dios; por trãsformados en Dios, vivirã vida deDios,
+i no vida ſuya, aun  vida ſuya, por la vida de Dios
+ſerà vida ſuya: i entõces diran de veras, vivimos noſo-
+tros, i no noſotros por vive Dios en noſotros; lo cual
+en ea vida, aunque puede ſer como lo era en ſan Pa-
+blo no empero perfeta i acabadamente, aunque egue
+el alma a tal transformacion de amor, que ſea matrimo
+nio eſpiritual,  es el mas alto eado, a que ſe puede e
+gar en ea vida; porque todo ſe puede amar di buxo
+de amor en comparacion de aquea perfeta ﬁgura de
+transformacion de gloria. Pero cuando ee dibuxo
+de transformacion en ea vida ſe alcãça, es grande bue
+na dicha, porque con eſo ſe contenta grandemente el
+Amado, que por eſo deſeando el, que le pueſe la Eſpo
+ſa en ſu alma, como en dibuxo, le dixo en los Cantares:
+Pone me ut gnaculum ſuper cor tuum, ut gnaculum ſuper
+brachium tuum. Ponme como ſeñal en tu coraçon, co-
+mo ſeñal en tu braço. El coraçon gniﬁca el alma, en
+que en ea vida eà como en dibuxo de Fè, ſegun ſe
+ha dicho arriba; i el braço gniﬁca la voluntad
+fuerte, en que eà como en dibuxo de
+amor, como aora acabamos
+de dezir.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1392" y="2512"/>
+	<Point x="1827" y="2512"/>
+	<Point x="1827" y="2655"/>
+	<Point x="1392" y="2655"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAN-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="764" y="2921"/>
+	<Point x="1423" y="2921"/>
+	<Point x="1423" y="3003"/>
+	<Point x="764" y="3003"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="marginalia">
+	<Coords>
+	<Point x="58" y="1586"/>
+	<Point x="38" y="1652"/>
+	<Point x="58" y="1707"/>
+	<Point x="290" y="1707"/>
+	<Point x="290" y="1586"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cãt.8.6</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="293" y="114"/>
+	<Point x="510" y="114"/>
+	<Point x="510" y="212"/>
+	<Point x="293" y="212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>664</Unicode></TextEquiv></TextRegion></Page></PcGts>

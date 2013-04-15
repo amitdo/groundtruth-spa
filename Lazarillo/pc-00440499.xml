@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440499">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:46:34</Created>
+	<LastChange>2011-07-05T14:26:03</LastChange></Metadata>
+	<Page imageFilename="00440499.tif" imageWidth="880" imageHeight="1599">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="20" y="81"/>
+	<Point x="384" y="80"/>
+	<Point x="398" y="75"/>
+	<Point x="412" y="80"/>
+	<Point x="692" y="80"/>
+	<Point x="721" y="83"/>
+	<Point x="727" y="95"/>
+	<Point x="771" y="96"/>
+	<Point x="773" y="1498"/>
+	<Point x="17" y="1493"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vn moxquito, abro con mi deſa-
+prouechada llaue n eſperança de
+ſacar prouecho : y vi los dos o tres
+panes començados que mi amo
+creyo ear ratonados, de los qua-
+les ſaque vna lazeria, tocandolos
+muy ligeramente a vſo de diero
+eſgremidor. Pues como la nece-
+dad ſea tan gran maera, viendo-
+me con tanta hambre, noche, y
+dia, eaua pẽſando la manera que
+tendria en ſuentar la vida, y piẽſo
+que para hallar eos negros reme-
+dios, me era luz la hambre, pues
+dizen aguça el ingenio, y al cõtra-
+rio la hartura: y ai era en mi, eã-
+do vna noche deſuellado con ee
+penſamiento, imaginando como
+me podria valer, y aprouechar del
+arcaz, nti que mi amo dormia,
+y era facil de oyr lo ſegun los ron-
+quidos que durmiendo daua, le-
+uanteme muy quedito, y auien-
+do penſado lo que auia de hazer,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="credit">
+	<Coords>
+	<Point x="287" y="1555"/>
+	<Point x="570" y="1556"/>
+	<Point x="573" y="1584"/>
+	<Point x="287" y="1581"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="header">
+	<Coords>
+	<Point x="57" y="16"/>
+	<Point x="674" y="19"/>
+	<Point x="676" y="73"/>
+	<Point x="57" y="65"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LAZAR. DE TORM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="699" y="35"/>
+	<Point x="757" y="35"/>
+	<Point x="765" y="83"/>
+	<Point x="732" y="83"/>
+	<Point x="730" y="78"/>
+	<Point x="703" y="78"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>45</Unicode></TextEquiv></TextRegion></Page></PcGts>

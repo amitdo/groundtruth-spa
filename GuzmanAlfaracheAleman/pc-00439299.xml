@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439299">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T12:25:53</Created>
+	<LastChange>2011-05-12T13:39:57</LastChange></Metadata>
+	<Page imageFilename="00439299.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="534" y="121"/>
+	<Point x="537" y="115"/>
+	<Point x="850" y="95"/>
+	<Point x="1487" y="115"/>
+	<Point x="1503" y="181"/>
+	<Point x="1481" y="187"/>
+	<Point x="890" y="189"/>
+	<Point x="531" y="181"/>
+	<Point x="527" y="181"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="331" y="204"/>
+	<Point x="346" y="195"/>
+	<Point x="496" y="190"/>
+	<Point x="1704" y="204"/>
+	<Point x="1715" y="212"/>
+	<Point x="1716" y="2612"/>
+	<Point x="1692" y="2612"/>
+	<Point x="1644" y="2624"/>
+	<Point x="1634" y="2623"/>
+	<Point x="1607" y="2616"/>
+	<Point x="1553" y="2618"/>
+	<Point x="331" y="2619"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aquea ſombra carguè quanto mas pude, haa que no
+pudiendo ſufrir el peſo, me aentè como ediﬁcio falſo.
+Llegavaſe ya el tiempo de las pagas, que aunque
+empre corre para los que deven buela, y es mas
+corto. Vime apretado, no podia ſoegar un punto;
+fuime à caſa de mi ſuegro à darle quenta de mi cuyda-
+do, el me alentò quanto mas pudo, diziendo que no
+deſmayae, pues teniamos el remedio à las manos de
+puertas à dentro de nuera caſa. Tomò la capa y fuy-
+monos mano à mano los dos, al oﬁcio de un eſcri-
+vano de Provincia, grande amigo ſuyo, y evando-
+lo à ſanta Cruz, que es una Iglea, que eà en la
+miſma plaça, frontero de la carcel y de los oﬁcios; ai
+le hizimos en ſecreto relacion del caſo. Y dixo mi
+ſuegro: Señor N. ee negocia le ha de valer à V. m.
+muchos ducados, y en la peſadumbre paada que yo
+tuve, bien ſabe que no me evò blanca, ni derechos
+algunos de los que me tocavan en quanto el pleyta du-
+rò. Mi yerno deve por otra eſcritura primera que la
+mia mil ducados, y eà preſentada y hechas diligen-
+cias en otro oﬁcio: empero queremos que todo pae
+ante V. m. y en ea conderacion ha de tratarnos como
+à ſus amigos y ſervidores, que yo quiero no ſola dexar
+de ſatisfacer ea merced, empero aqui mi hijo el dia
+que ſaliere, darà para guantes docientos eſcudos, y yo
+quedo, por ſu ﬁador. El eſcrivano dixo: haraſe todo
+de la manera que V. m. fuere ſervido; preſenteſe lue-
+go ea eſcritura de los quatro mil ducados, y concer-
+tarèmos la dezima con un amigo à quien darèmos quen-
+ta dea pretenon, para que lo haga por qualquiera
+coſa que le dèmos, y lo mas dexeſe à mi cargo. Mi
+ſuegro preſentò ſu obligacion, y evaronme preo:
+executò me toda la hazienda, ſaliò luego mi muger con
+ſu carta de dote, conque ocuparon tanto paño, que
+faltava mucho para cumplir el veido: porque avien-
+do ſe ambos echado ſobre la caſa, obligaciones y muebles
+no quedò, ni ſe haò en que hincar el diente, que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1550" y="2630"/>
+	<Point x="1578" y="2619"/>
+	<Point x="1589" y="2620"/>
+	<Point x="1631" y="2626"/>
+	<Point x="1665" y="2635"/>
+	<Point x="1706" y="2625"/>
+	<Point x="1706" y="2693"/>
+	<Point x="1569" y="2693"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>joyas</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="555" y="2874"/>
+	<Point x="1297" y="2867"/>
+	<Point x="1298" y="2932"/>
+	<Point x="549" y="2923"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="323" y="85"/>
+	<Point x="475" y="85"/>
+	<Point x="475" y="185"/>
+	<Point x="323" y="185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>268</Unicode></TextEquiv></TextRegion></Page></PcGts>

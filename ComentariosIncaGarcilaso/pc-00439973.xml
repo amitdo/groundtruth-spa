@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439973">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T15:18:15</Created>
+	<LastChange>2011-07-05T14:26:00</LastChange></Metadata>
+	<Page imageFilename="00439973.tif" imageWidth="2557" imageHeight="4056">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="727" y="1410"/>
+	<Point x="2127" y="1410"/>
+	<Point x="2127" y="1545"/>
+	<Point x="727" y="1545"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Con Licencia de la Santa Inquicion.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="891" y="1732"/>
+	<Point x="2002" y="1732"/>
+	<Point x="2002" y="1875"/>
+	<Point x="891" y="1875"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EN LISBONA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="562" y="1913"/>
+	<Point x="2194" y="1913"/>
+	<Point x="2194" y="2197"/>
+	<Point x="562" y="2197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Impreo en caſa de Pedro Crasbeeck.
+Año de M DC VIII.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r4" type="stamp">
+	<Coords>
+	<Point x="1118" y="2478"/>
+	<Point x="1664" y="2478"/>
+	<Point x="1664" y="3048"/>
+	<Point x="1118" y="3048"/></Coords></GraphicRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="897" y="3935"/>
+	<Point x="1854" y="3935"/>
+	<Point x="1854" y="4021"/>
+	<Point x="897" y="4021"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords>
+	<Point x="348" y="1597"/>
+	<Point x="2486" y="1597"/>
+	<Point x="2486" y="1708"/>
+	<Point x="348" y="1708"/></Coords></SeparatorRegion></Page></PcGts>

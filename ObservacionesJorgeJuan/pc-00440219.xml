@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440219">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T23:30:07</Created>
+	<LastChange>2011-12-19T11:38:51</LastChange></Metadata>
+	<Page imageFilename="00440219.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r10" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r14" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1206" y="387"/>
+	<Point x="2032" y="387"/>
+	<Point x="2032" y="477"/>
+	<Point x="1206" y="477"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1222" y="545"/>
+	<Point x="2051" y="545"/>
+	<Point x="2051" y="674"/>
+	<Point x="1222" y="674"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITULO VI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="870" y="738"/>
+	<Point x="2403" y="738"/>
+	<Point x="2403" y="958"/>
+	<Point x="870" y="958"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Deduccion de las diancias entre los Paralelos
+de las Señales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="911" y="1037"/>
+	<Point x="1854" y="1037"/>
+	<Point x="2430" y="1038"/>
+	<Point x="2599" y="1033"/>
+	<Point x="2599" y="1261"/>
+	<Point x="2598" y="1489"/>
+	<Point x="2599" y="1519"/>
+	<Point x="1928" y="1517"/>
+	<Point x="1562" y="1532"/>
+	<Point x="1506" y="1530"/>
+	<Point x="1453" y="1518"/>
+	<Point x="1164" y="1527"/>
+	<Point x="1118" y="1533"/>
+	<Point x="976" y="1530"/>
+	<Point x="909" y="1528"/>
+	<Point x="817" y="1527"/>
+	<Point x="694" y="1522"/>
+	<Point x="680" y="1260"/>
+	<Point x="793" y="1256"/>
+	<Point x="912" y="1256"/>
+	<Point x="908" y="1120"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aadas yà las inclinaciones de los lados de la Série
+de triangulos reſpeto del Meridiano, podémos
+calcular las diancias entre los Paralelos de las Señales, ex‐
+plicando primero el methodo en que ſe deben deducir, y
+el motivo, que en el caſo preſente facilita el calculo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="2370" y="3433"/>
+	<Point x="2606" y="3433"/>
+	<Point x="2606" y="3529"/>
+	<Point x="2370" y="3529"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>trian-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="954" y="3996"/>
+	<Point x="1970" y="3996"/>
+	<Point x="1970" y="4103"/>
+	<Point x="954" y="4103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="725" y="387"/>
+	<Point x="725" y="490"/>
+	<Point x="912" y="490"/>
+	<Point x="912" y="387"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>200</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="drop-capital">
+	<Coords>
+	<Point x="683" y="1054"/>
+	<Point x="683" y="1255"/>
+	<Point x="907" y="1253"/>
+	<Point x="900" y="1054"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="661" y="2275"/>
+	<Point x="1019" y="2279"/>
+	<Point x="1039" y="2294"/>
+	<Point x="1174" y="2293"/>
+	<Point x="1207" y="2285"/>
+	<Point x="2450" y="2278"/>
+	<Point x="2586" y="2280"/>
+	<Point x="2658" y="2280"/>
+	<Point x="2660" y="3416"/>
+	<Point x="661" y="3445"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Condereſé formado debaxo del triangulo Eſphérico
+ZAN, el reilineo reangulo ZAD, de ſuerte, que el la‐
+do ZD coincida con el Meridiano ZN, y lo miſmo la Hy-
+pothenuſa del triangulo reilineo con el Azimuth ZA;
+quedando ſolo n coincidìr el lado AD con el circulo ma‐
+ximo AN; y el lado ZD del triangulo reilineo ſerà me‐
+nor, que el ZN del triangulo Eſphérico toda la porcion
+DN; mas èa es tan corta, que ſe puede, n que ſe origi‐
+ne yerro ſenble, tomar un lado por el otro en el calculo, y
+reſolver aſsimiſmo un trianglo por el otro; pero el circu‐
+lo maximo AN, que cae perpendicularmente ſobre el Me‐
+ridiano ZN, es por haverſe hecho la medida de la Sèrie de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="693" y="1528"/>
+	<Point x="1124" y="1536"/>
+	<Point x="1216" y="1528"/>
+	<Point x="1441" y="1523"/>
+	<Point x="1510" y="1534"/>
+	<Point x="1642" y="1537"/>
+	<Point x="1926" y="1521"/>
+	<Point x="2436" y="1525"/>
+	<Point x="2648" y="1528"/>
+	<Point x="2648" y="2278"/>
+	<Point x="2397" y="2275"/>
+	<Point x="2243" y="2275"/>
+	<Point x="2047" y="2276"/>
+	<Point x="1610" y="2278"/>
+	<Point x="1203" y="2281"/>
+	<Point x="1172" y="2291"/>
+	<Point x="1041" y="2292"/>
+	<Point x="1023" y="2276"/>
+	<Point x="689" y="2266"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En la Eereogrphica proyeccion de la Eſphera, ſobre
+el plano del Horizonte, ſean,
+Z � el Zenith, y una Señal
+A otra Señal
+ZN un Meridiano
+ZA un circulo de Azimuth
+AN un circulo maximo, que paando por la Señal A cae
+perpendicularmente ſobre el Meridiano ZN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="footnote">
+	<Coords>
+	<Point x="438" y="1700"/>
+	<Point x="438" y="1854"/>
+	<Point x="680" y="1854"/>
+	<Point x="680" y="1700"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a Fig. 8.
+Lam. 6.</Unicode></TextEquiv></TextRegion></Page></PcGts>

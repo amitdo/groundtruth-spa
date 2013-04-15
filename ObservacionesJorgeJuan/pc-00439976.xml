@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439976">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T22:48:41</Created>
+	<LastChange>2011-12-19T11:38:32</LastChange></Metadata>
+	<Page imageFilename="00439976.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r4" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/>
+	<RegionRefIndexed regionRef="r13" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="138" y="1327"/>
+	<Point x="2455" y="1325"/>
+	<Point x="2459" y="1568"/>
+	<Point x="1601" y="1572"/>
+	<Point x="131" y="1570"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Por D. JORGE JUAN, Comendador de Aliaga en el Orden de S. Juan, Socio Correſ‐
+pondiente de la R. Academia de las Ciencias de Parìs, y D. ANTONIO DE ULLOA,
+de la R. Sociedad de Londres, ambos Capitanes de Fragata de la R. Armada.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r12">
+	<Coords>
+	<Point x="2370" y="2337"/>
+	<Point x="2386" y="3381"/>
+	<Point x="2214" y="3383"/>
+	<Point x="2000" y="3390"/>
+	<Point x="1273" y="3406"/>
+	<Point x="282" y="3416"/>
+	<Point x="281" y="2326"/>
+	<Point x="407" y="2326"/>
+	<Point x="478" y="2335"/>
+	<Point x="544" y="2352"/>
+	<Point x="1145" y="2348"/>
+	<Point x="1235" y="2339"/></Coords></ImageRegion>
+	<TextRegion id="r16" type="credit">
+	<Coords>
+	<Point x="1006" y="4014"/>
+	<Point x="1947" y="4014"/>
+	<Point x="1947" y="4092"/>
+	<Point x="1006" y="4092"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="142" y="374"/>
+	<Point x="2438" y="374"/>
+	<Point x="2457" y="1296"/>
+	<Point x="157" y="1298"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES
+ASTRONOMICAS, Y PHISICAS
+HECHAS
+DE ORDEN DE S. MAG.
+EN
+LOS REYNOS DEL PERÙ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="181" y="1588"/>
+	<Point x="2433" y="1583"/>
+	<Point x="2363" y="2329"/>
+	<Point x="1235" y="2329"/>
+	<Point x="1150" y="2336"/>
+	<Point x="591" y="2339"/>
+	<Point x="536" y="2329"/>
+	<Point x="244" y="2280"/>
+	<Point x="179" y="2278"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LAS QUALES SE DEDUCE
+LA FIGURA, Y MAGNITUD
+DE LA TIERRA,
+Y SE APLICA
+A LA NAVEGACION.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="heading">
+	<Coords>
+	<Point x="232" y="3425"/>
+	<Point x="744" y="3429"/>
+	<Point x="2394" y="3389"/>
+	<Point x="2383" y="3765"/>
+	<Point x="231" y="3791"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>IMPRESSO DE ORDEN DEL REY NUESTRO SEÑOR
+EN MADRID
+POR JUAN DE ZUñIGA, Año M. D. CC. XL. VIII.</Unicode></TextEquiv></TextRegion></Page></PcGts>

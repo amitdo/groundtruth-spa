@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442467">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T23:03:46</Created>
+	<LastChange>2012-03-12T14:12:03</LastChange></Metadata>
+	<Page imageFilename="00442467.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="343" y="97"/>
+	<Point x="1044" y="93"/>
+	<Point x="1070" y="93"/>
+	<Point x="1063" y="188"/>
+	<Point x="437" y="196"/>
+	<Point x="335" y="188"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="105" y="208"/>
+	<Point x="576" y="206"/>
+	<Point x="1055" y="201"/>
+	<Point x="1369" y="200"/>
+	<Point x="1363" y="2163"/>
+	<Point x="1304" y="2168"/>
+	<Point x="1288" y="2159"/>
+	<Point x="955" y="2159"/>
+	<Point x="939" y="2169"/>
+	<Point x="98" y="2171"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>taran de las eſpaldas. Pero dexãdo eo aparte, diga-
+me vuera merced,  haremos dee cauao ruzio
+rodado,  parece aſno pardo,  dexò aqui deſampa‐
+rado aquel Martino,  vuera merced derribô,  ſe‐
+gũ el puſo los pies en poluoroſa, y cogio las de Via-
+diego, no eua pergenio de boluer por el jamas, y pa
+ra mis barbas, no es bueno elruzio. Nunca yo ac oſ
+tumbro, dixo don Quixote, deſpojar a los  venço,
+ni es vſo de cauaeria, quitarles los cauaos y dexar
+los apie. Si ya no fuee  el vencedor vuiee perdi‐
+do en la pendencia el ſuyo,  en tal caſo, licito es to‐
+mar el del vencido, como ganado en guerra licita.
+Aſsi  Sancho dexa ee cauao o aſno, o lo  tu qui‐
+eres  ſea,  como ſu dueño nos vea alongados de
+aqui, boluera por el. Dios ſabe  quiera euarle, re
+plicò Sancho, o por lo menos trocae cõ ee mio, 
+no me parece tan bueno, verdaderamẽte  ſon ere
+chas las leyes de cauaeria, pues no ſe eienden a de
+xar trocar vn aſno por otro, y querria ſaber  podria
+trocar los aparejos,  quiera. En eo no eoy muy
+cierto, reſpõdio don Quixote, y en caſo de duda, haſ
+ta ear mejor informado, digo  los trueques,  es 
+tienes deos neceſsidad erema. Tã erema es, reſ-
+põdio Sancho,   fueran para mi miſma perſona, no
+los vuiera meneer mas: y luego abilitado cõ aque‐
+a licẽcia, hizo mutacio caparũ, y puſo ſu jumẽto a
+las mil lindezas, dexandole mejorado en tercio y
+quinto. Hecho eo, aImorçarõ de las ſobras del real
+ del azemila de ſpojarõ, beuieron del agua del arro
+yo de los batanes, n boluer la cara a miraos, tal era
+el aborrecimiẽto  les tenian, por el miedo en  les
+auiã pueo. Cortada puesla colera y aũ la malẽ conia,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1095" y="2167"/>
+	<Point x="1216" y="2166"/>
+	<Point x="1327" y="2177"/>
+	<Point x="1330" y="2223"/>
+	<Point x="1092" y="2221"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſubieron</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="457" y="2295"/>
+	<Point x="1120" y="2295"/>
+	<Point x="1120" y="2356"/>
+	<Point x="454" y="2351"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1248" y="103"/>
+	<Point x="1248" y="187"/>
+	<Point x="1316" y="188"/>
+	<Point x="1366" y="187"/>
+	<Point x="1366" y="103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>96</Unicode></TextEquiv></TextRegion></Page></PcGts>

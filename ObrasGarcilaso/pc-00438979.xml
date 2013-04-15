@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438979">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T08:09:26</Created>
+	<LastChange>2011-06-24T14:04:29</LastChange></Metadata>
+	<Page imageFilename="00438979.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r4" index="0"/>
+	<RegionRefIndexed regionRef="r19" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r14" type="credit">
+	<Coords>
+	<Point x="490" y="2097"/>
+	<Point x="985" y="2090"/>
+	<Point x="982" y="2140"/>
+	<Point x="485" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="header">
+	<Coords>
+	<Point x="328" y="40"/>
+	<Point x="1104" y="12"/>
+	<Point x="1116" y="109"/>
+	<Point x="308" y="140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ANOTACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="87" y="154"/>
+	<Point x="316" y="145"/>
+	<Point x="639" y="137"/>
+	<Point x="1309" y="110"/>
+	<Point x="1313" y="1539"/>
+	<Point x="1240" y="1883"/>
+	<Point x="1156" y="1937"/>
+	<Point x="90" y="2016"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El agua en las azequias corre, y cantã
+los paxaros n dueño.
+Las fuentes al murmuo que leuantan,
+deſpiertan dulce ſueño.
+Y ya que el año cubre monte, y cerros
+con nieue, y con eladas:
+O lança el jauali con muchos perros
+en las redes paradas:
+O los goloſos tordos, ò con liga
+ò con red engañoſa:
+O la erangera grua en lazo obliga,
+que es preſa deleytoſa.
+Con eo, quien del pecho no deſprende
+quanto en amor ſe paa?
+Pues que,  la muger honea entiende
+los hĳos, y la caſa?
+Qual haze la Sabina, ò Calabreſa
+de andar al Sol toada,
+Y ya que viene el amo, enciende apriea
+la leña no mojada:
+Y ataja entre los çarços los ganados,
+y los ordeña luego,
+Y pone mil manjares no comprados,
+y el vino como fuego.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="catch-word">
+	<Coords>
+	<Point x="1204" y="1921"/>
+	<Point x="1356" y="1921"/>
+	<Point x="1356" y="2017"/>
+	<Point x="1204" y="2017"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No</Unicode></TextEquiv></TextRegion></Page></PcGts>

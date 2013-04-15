@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440185">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T15:53:50</Created>
+	<LastChange>2011-12-19T11:38:49</LastChange></Metadata>
+	<Page imageFilename="00440185.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="988" y="3984"/>
+	<Point x="1976" y="3984"/>
+	<Point x="1976" y="4100"/>
+	<Point x="988" y="4100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="617" y="472"/>
+	<Point x="2684" y="472"/>
+	<Point x="2709" y="3349"/>
+	<Point x="1953" y="3334"/>
+	<Point x="1923" y="3338"/>
+	<Point x="1869" y="3338"/>
+	<Point x="1788" y="3330"/>
+	<Point x="1784" y="3334"/>
+	<Point x="1773" y="3434"/>
+	<Point x="623" y="3434"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dias. El ano en que ſe haa, que eà contiguo à la Ciu‐
+dad de Cuenca, no era tan commodo como el de Yaruquì,
+pues tuvo algunas paredes, que derribar, y dos Rios de
+tres quartas, à una vara de agua de profundidad, que
+paar midiendo: lo que hizimos por medio de los Cava-
+etes; aunque con la incomodidad del agua, que nos daba
+ca à la cintura. Otro Rio algo mas caudaloſo, que es el
+que paa cerca de Guanacàuri, lo medimos geometrica‐
+mente por dos pequeños triangulos: cuyos angulos obſer‐
+vamos con el Quarto de circulo. En ﬁn hecha toda cor‐
+reccion conforme ſe dixo en la medida de la Baſe de Yaru-
+quì, y agregandole la porcion geometrica, haamos la diſ‐
+tancia de Guanacàuri (θ) à los Baños (ξ) de 6197 toeſas, 3
+pies, y 8 pulgadas; y la miſma diancia por la Série de
+triangulos la haè de 6196. FFFD 3.FFFD 07 pulgadas. Deſde lue‐
+go ſe preſenta à la via la diferencia 1 toeſa o pies 1 pul‐
+gada, que ſe diſcurrirà provenir de la medida de los trian‐
+gulos; pero  ſe atiende à que el temperamento de la Baſe
+de Cuenca, ò de Guanacàuri à los Baños no era tan calido
+como el de la Baſe de Yaruquì, ſe verà, que conviene una
+medida con otra. El temperamento medio de la Baſe de
+Yaruquì lo obſervamos de 1023 en el Thermometro de
+M. de Reaumur; y el de la Baſe de Cuenca de 1016; cuya
+diferencia es de 7 partes, ò grados; à las quales correſpon‐
+den ſegun el Libro IV. de la dilatacion de los Metales
+� de linea de dilatacion en cada toeſa; luego à las 6197
+les correſponderàn 7 pies 11½ pulgadas; de donde quitan‐
+do 6 pies 1 pulgada de la diferencia antecedente, queda-
+ràn ſolamente 1 piè 10½ pulgadas de diferencia, deſpues de
+una Série de triangulos tan larga.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="744" y="378"/>
+	<Point x="744" y="465"/>
+	<Point x="926" y="465"/>
+	<Point x="926" y="378"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>166</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="1205" y="366"/>
+	<Point x="1205" y="461"/>
+	<Point x="2033" y="461"/>
+	<Point x="2033" y="366"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="2373" y="3400"/>
+	<Point x="2373" y="3542"/>
+	<Point x="2592" y="3542"/>
+	<Point x="2592" y="3400"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Deſ‐</Unicode></TextEquiv></TextRegion></Page></PcGts>

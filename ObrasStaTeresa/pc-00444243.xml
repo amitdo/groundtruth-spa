@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444243">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:45:47</Created>
+	<LastChange>2011-12-19T11:39:33</LastChange></Metadata>
+	<Page imageFilename="00444243.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="360" y="138"/>
+	<Point x="1511" y="142"/>
+	<Point x="1510" y="250"/>
+	<Point x="366" y="246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1562" y="2683"/>
+	<Point x="1705" y="2675"/>
+	<Point x="1712" y="2751"/>
+	<Point x="1571" y="2755"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="598" y="3060"/>
+	<Point x="1583" y="3061"/>
+	<Point x="1583" y="3158"/>
+	<Point x="601" y="3150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="166" y="253"/>
+	<Point x="1761" y="268"/>
+	<Point x="1764" y="2662"/>
+	<Point x="703" y="2701"/>
+	<Point x="148" y="2692"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mo he dicho, que ſe hazian porque el
+Señor me euae por otro camino que
+fuee mas ſeguro, pues ee me dezian
+era tan ſoſpechoſo. Verdad es que aun-
+que yo lo ſuplicaua a Dios por mucho que
+queria deear otro camino, como via tan
+mejorada mi alma, no era alguna vez
+quando eaua muy fatigada de las co-
+ſas que me dezian, y miedos que me
+ponian, no era en mi mano deear-
+lo, aunque empre lo pedia. Yo me
+via otra en todo, no podia, no ponia
+me en las manos de Dios, que el ſabia
+lo que me conuenia que cumpliee en
+mi lo que era ſu voluntad en todo. Via que
+por ee camino le euaua para el cie-
+lo, y que antes yua al inﬁerno, que
+auia de deear eo, ni creer que era
+demonio no me podia forçar a mi, aun-
+que hazia quanto podia por creerlo, y
+deearlo, mas no era en mi mano. Oﬀre-
+cia lo que hazia  era alguna buena obra
+por eo. Tomaua ſantos deuotos porque
+me libraen del demonio. Andaua noue-
+nas, encomendauame a S. Hilarion, y a S.
+Miguel el Angel, con quien por eo tome
+nueuamente deuocion, y a otros muchos ſan</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1539" y="159"/>
+	<Point x="1539" y="259"/>
+	<Point x="1715" y="259"/>
+	<Point x="1715" y="159"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>315</Unicode></TextEquiv></TextRegion></Page></PcGts>

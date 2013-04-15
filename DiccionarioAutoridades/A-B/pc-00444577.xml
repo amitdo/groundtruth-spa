@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444577">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-29T23:38:53</Created>
+	<LastChange>2011-03-18T12:46:10</LastChange></Metadata>
+	<Page imageFilename="00444577.tif" imageWidth="2613" imageHeight="3944">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r41" index="0"/>
+	<RegionRefIndexed regionRef="r42" index="1"/>
+	<RegionRefIndexed regionRef="r43" index="2"/>
+	<RegionRefIndexed regionRef="r45" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r40" type="page-number">
+	<Coords>
+	<Point x="567" y="240"/>
+	<Point x="567" y="310"/>
+	<Point x="822" y="310"/>
+	<Point x="822" y="240"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LXXXX</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords>
+	<Point x="512" y="314"/>
+	<Point x="2459" y="314"/>
+	<Point x="2459" y="2083"/>
+	<Point x="512" y="2083"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Don Alonſo del Caio Solorzano.
+Luis de Meſa.
+Don Eevan Manuel de Viegas: las Eroticas.
+Franciſco Lopez de Zárate.
+Verſos de la Madre Luiſa Magdalena de Jeſus, en el glo Doña Luiſa Manrique de Lara,
+Condeſa de Parédes.
+Don Bernardo Balbuena: ſu Poema del Bernardo, y el glo de oro.
+El Maabeo: de Miguél de Sylveira.
+Thomé de Burguios.
+Don Geronymo Cancer.
+Licenciado Pedro Soto de Roxas.
+Salvador Jacinto Polo de Medina.
+Don Eugenio Colóma.
+Don Gabriel Bocangel.
+El Conde de Reboedo.
+La Moſéa: de Don Joſeph de Viavicioſa.
+Don Aguin Moréto.
+La Benediina: de Frai Nicolás Bravo, Ciercienſe.
+Maero Joſeph de Valdivieſo.
+Don Franciſco de Quevédo.
+Obras del Conde de Viamediana.
+Don Felix de Arteaga; ò ſea Horteno Paravino.
+Alphonſo de Salas Barbadio.
+Traducción de Ovidio: por Antonio Perez Siglér.
+La Comedia burleſca del Cabaero de Olmedo: de Don Franciſco Felix dé Monteſér, y las
+demás obras poéticas ſuyas.
+El M. Don Manuel de Leon: ſus Obras Poéticas.
+Juan Perez de Montalván.
+Don Franciſco de Roxas: ſus Obras Cómicas.
+Luis Velez de Guevara: ſus Obras Cómicas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="heading">
+	<Coords>
+	<Point x="525" y="2131"/>
+	<Point x="522" y="2190"/>
+	<Point x="536" y="2190"/>
+	<Point x="1128" y="2197"/>
+	<Point x="1775" y="2204"/>
+	<Point x="1813" y="2201"/>
+	<Point x="1927" y="2204"/>
+	<Point x="1972" y="2228"/>
+	<Point x="2010" y="2207"/>
+	<Point x="2024" y="2207"/>
+	<Point x="2446" y="2216"/>
+	<Point x="2451" y="2143"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EXPLICACION DE LAS CIFRAS GENERALES QUE SE PONEN</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="heading">
+	<Coords>
+	<Point x="1302" y="2214"/>
+	<Point x="1301" y="2256"/>
+	<Point x="1361" y="2257"/>
+	<Point x="1372" y="2271"/>
+	<Point x="1396" y="2256"/>
+	<Point x="1463" y="2256"/>
+	<Point x="1590" y="2257"/>
+	<Point x="1675" y="2257"/>
+	<Point x="1676" y="2211"/>
+	<Point x="1622" y="2209"/>
+	<Point x="1551" y="2209"/>
+	<Point x="1529" y="2207"/>
+	<Point x="1488" y="2211"/>
+	<Point x="1416" y="2209"/>
+	<Point x="1399" y="2203"/>
+	<Point x="1386" y="2214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>en ee Diccionario.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r44" embText="true">
+	<Coords>
+	<Point x="500" y="2297"/>
+	<Point x="1616" y="2297"/>
+	<Point x="1616" y="3364"/>
+	<Point x="500" y="3364"/></Coords></TableRegion>
+	<TextRegion id="r45" type="catch-word">
+	<Coords>
+	<Point x="2300" y="3602"/>
+	<Point x="2299" y="3678"/>
+	<Point x="2432" y="3682"/>
+	<Point x="2432" y="3602"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EX.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="credit">
+	<Coords>
+	<Point x="861" y="3849"/>
+	<Point x="830" y="3849"/>
+	<Point x="834" y="3917"/>
+	<Point x="1598" y="3917"/>
+	<Point x="1616" y="3929"/>
+	<Point x="1618" y="3930"/>
+	<Point x="1641" y="3917"/>
+	<Point x="1765" y="3916"/>
+	<Point x="1776" y="3859"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

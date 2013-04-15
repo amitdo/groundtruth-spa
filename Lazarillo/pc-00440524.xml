@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440524">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T17:49:04</Created>
+	<LastChange>2011-07-05T14:26:04</LastChange></Metadata>
+	<Page imageFilename="00440524.tif" imageWidth="876" imageHeight="1640">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="401" y="15"/>
+	<Point x="639" y="15"/>
+	<Point x="643" y="69"/>
+	<Point x="397" y="62"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="135" y="72"/>
+	<Point x="847" y="76"/>
+	<Point x="834" y="1485"/>
+	<Point x="111" y="1483"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>deſayune con mucha diligeneia,
+como moço nueuo, n que mi a-
+mo me viee : torne a caſa, y que-
+riendo la barrer que bien le hauia
+meneer, no halle cõque; puſe me
+a penſar que haria, pareciome eſ-
+perar le haa medio dia para veer
+ venia, y traya algo que comieſ-
+ſemos : mas en vano fue mi eſpe-
+rança, quando vi ſer las dos y que
+no venia, y la hambre me aquexa-
+ua, cerre mi puerta, y puee la lla-
+ue donde me hauia mandado
+torne me a mi meneer con ba-
+xa, y enferma boz, pueas las ma-
+nos en el ſeno, en Dios los ojos,
+y la lengua en ſu nombre, comen-
+çe a pedir pan, por las puertas, y
+caſas como ee oﬁcio le mame en
+la leche, quiero dezir, que con el
+gran maero el ciego lo aprendi,
+ſali can buen diſcipulo, que aun-
+que no auia caridad, ny el año era
+muy abundante, tan buena maña</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="283" y="1581"/>
+	<Point x="570" y="1582"/>
+	<Point x="570" y="1613"/>
+	<Point x="280" y="1611"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="138" y="18"/>
+	<Point x="136" y="68"/>
+	<Point x="212" y="66"/>
+	<Point x="212" y="18"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>70</Unicode></TextEquiv></TextRegion></Page></PcGts>

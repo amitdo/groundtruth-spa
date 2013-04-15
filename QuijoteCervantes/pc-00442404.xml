@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442404">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T04:21:27</Created>
+	<LastChange>2012-03-12T14:12:00</LastChange></Metadata>
+	<Page imageFilename="00442404.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="522" y="94"/>
+	<Point x="1156" y="94"/>
+	<Point x="1156" y="197"/>
+	<Point x="522" y="197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tercera parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="171" y="206"/>
+	<Point x="1470" y="206"/>
+	<Point x="1470" y="2197"/>
+	<Point x="171" y="2197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que cauaero auenturero, es vna coſa que en dos pa
+labras ſe ve apaleado, y Emperador. Oy eà la mas
+desdichada criatura del mũdo, y la mas meneero‐
+ſa, y mañana tendria dos o tres coronas de Reynos
+que dar a ſu eſcudero. Pues como vos, ẽdolo dee
+tan buen ſeñor, dixo la vẽtera, no teneis a lo que pa-
+rece, quiera algun Condado? Aun es temprano, reſ
+pondio Sancho, porque no ha no vn mes, que an‐
+damos buſcando las auenturas, y haa aora no he‐
+mos topado cõ ninguna que lo ſea. Y tal vez ay que
+ſe buſca vna coſa, y ſe haa otra. Verdad es, que 
+mi ſeñor don Quixote ſana dea herida, o cayda, y
+yo no quedo contrecho dea, no trocaria mis eſpe-
+ranças con el mejor titulo de Eſpaña. Todas eas
+platicas eaua eſcuchando muy atento don Qui-
+xote, y ſentandoſe en el lecho como pudo, toman‐
+do de la mano a laventera, le dixo: Creedme fermo‐
+ſa ſeñora, que os podeis amar venturoſa, por auer
+alojado en ee vuero caio a mi perſona, que es
+tal, que  yo no la alabo, es por lo que ſuele dezirſe,
+que la alabança propria enuilece: pero mi eſcude‐
+ro os dirà quien ſoy: Solo os digo, que tendre eter‐
+namente eſcrito en mi memoria, el ſeruicio que me
+auedes fecho, para agradeceroslo mientras la vida
+me durare. Y pluguiera a los altos cielos,  el amor
+no me tuuiera tan rendido, y tan ſujeto a ſus leyes,
+y los ojos de aquea hermoſa ingrata que digo en‐
+tre mis dientes, que los dea fermoſa donzea fue-
+ran ſeñores de mi libertad. Confuſas eauan la vẽ‐
+tera y ſu hija. Y la buena de Marit ornes, oyendo las
+razones del andante cauaero, que aſsi las entendiã
+como  hablara en Griego: aunque bien alcançarõ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="423" y="2294"/>
+	<Point x="1123" y="2294"/>
+	<Point x="1123" y="2369"/>
+	<Point x="423" y="2369"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1321" y="2200"/>
+	<Point x="1321" y="2260"/>
+	<Point x="1433" y="2260"/>
+	<Point x="1433" y="2200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion></Page></PcGts>

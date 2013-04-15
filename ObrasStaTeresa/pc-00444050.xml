@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444050">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T00:52:19</Created>
+	<LastChange>2011-12-19T11:39:22</LastChange></Metadata>
+	<Page imageFilename="00444050.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="416" y="209"/>
+	<Point x="1983" y="209"/>
+	<Point x="1981" y="2614"/>
+	<Point x="1870" y="2615"/>
+	<Point x="1850" y="2638"/>
+	<Point x="416" y="2638"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mos, como algunos ſantos lo hizieron, mas
+parecenos que lo damos to do, y es que oﬀre
+cemos a Dios la renta, o los frutos, y queda-
+monos con la rayz, y poeſsion: determina-
+monos a ſer pobres, y es de gran mereſcimiẽ
+to, mas muchas vezes tornamos a tener cuy-
+dado y diligencia, para que no nos falte no
+ſolo lo neceario, no lo ſuperﬂuo, y a gran-
+gear los amigos que nos lo den, y poner nos
+en mayor cuydado y por ventura peligro,
+porque no nos falte, que antes teniamos
+en poeer la hazienda. Parece tambien
+que dexamos la honra en ſer religioſos, o en
+auer ya començado a tener vida ſpiritual y
+a ſeguir perfecion y no nos han tocado en
+vn punto de honra, quando no ſe nos acuer‐
+da la hemos ya dado a Dios, y nos queremos
+tornar a alçar con ea, y tomarſela como
+dizen de las manos deſpues de auerle de
+nuera voluntad al parecer hecho ſeñor.
+Aſsi con todas las otras coſas. Donoſa ma-
+nera de buſcar amor de Dios ( y luego le que-
+remos a manos enas a manera de dezir ) te-
+nernos nueras afﬁciones ya que no procu-
+ramos eﬀetuar nueros deeos, y no aca‐
+barlos de leuãtar de la tierra, y muchas cõſo-
+laciones ſpirituales con eo. No viene bien,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1876" y="2619"/>
+	<Point x="1956" y="2619"/>
+	<Point x="1956" y="2694"/>
+	<Point x="1876" y="2694"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ni</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="611" y="3066"/>
+	<Point x="1588" y="3066"/>
+	<Point x="1588" y="3152"/>
+	<Point x="611" y="3152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="447" y="102"/>
+	<Point x="447" y="188"/>
+	<Point x="638" y="188"/>
+	<Point x="638" y="102"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>122</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="888" y="69"/>
+	<Point x="888" y="190"/>
+	<Point x="1514" y="190"/>
+	<Point x="1514" y="69"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

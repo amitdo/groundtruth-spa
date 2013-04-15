@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440327">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T15:18:31</Created>
+	<LastChange>2011-12-19T11:39:00</LastChange></Metadata>
+	<Page imageFilename="00440327.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r12" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r1" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r15" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="drop-capital">
+	<Coords>
+	<Point x="546" y="994"/>
+	<Point x="562" y="1084"/>
+	<Point x="598" y="1094"/>
+	<Point x="615" y="1240"/>
+	<Point x="606" y="1243"/>
+	<Point x="557" y="1243"/>
+	<Point x="366" y="1230"/>
+	<Point x="357" y="1131"/>
+	<Point x="366" y="994"/>
+	<Point x="462" y="986"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Q</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="800" y="773"/>
+	<Point x="1782" y="773"/>
+	<Point x="1782" y="917"/>
+	<Point x="800" y="917"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sobre la Figura de la Tierra.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="325" y="1272"/>
+	<Point x="631" y="1271"/>
+	<Point x="627" y="1086"/>
+	<Point x="571" y="1080"/>
+	<Point x="545" y="946"/>
+	<Point x="2274" y="965"/>
+	<Point x="2274" y="3089"/>
+	<Point x="330" y="3089"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Uedando yà inruìdos por la Introduccion de las va‐
+rias opiniones, que ha havido ſobre la Figura de
+la Tiera, ſolo nos detendrémos aquì en explicar
+la que reſulta de nueras operaciones, y de las otras, que
+ultimamente ſe hicieron por orden del Rey Chriianiſsi-
+mo. En la Lapponia M. de Maupertuis, con otros Acadé‐
+micos de las Ciencias de Parìs midieron, como noſotros lo
+hemos hecho, el extendido de 57' 28½"; y por èl haaron
+el grado de Meridiano, que cruza el circulo Polar, de
+57437. 9 toeſas. � Ultimamente midieron M. M. Caſsini
+de Thury, y el Abate de la Caie de nuevo todo el extendi‐
+do de la Francia, y reſolvieron la longitud de varios gra‐
+dos, que comprehende el Reyno; como ſe vè en la Obra,
+que dieron, intitulada La Meridienne de Parìs veriﬁèe; en la
+qual ſe haa pag. 112 una tabla del valor de muchos gra‐
+dos; ſegun la qual parece, que ſe puede ſuputar el grado
+de Meridiano, que cruza el paralelo 45° de 57050 toeſas;
+con lo qual, y haviendo determinado nuero grado de
+Meridiano contiguo à el Equador de 56767. 788 toeſas,
+tenemos de cierto, que los grados de Meridiano de la Tier‐
+ra no ſon iguales, y que vàn diſminuyendo al pao, que
+ſe aproximan al Equador; y aſsì ſe gue ea</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="926" y="3130"/>
+	<Point x="1660" y="3130"/>
+	<Point x="1660" y="3239"/>
+	<Point x="926" y="3239"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CONCLUSION.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="447" y="3246"/>
+	<Point x="1745" y="3243"/>
+	<Point x="2062" y="3240"/>
+	<Point x="2243" y="3246"/>
+	<Point x="2267" y="3322"/>
+	<Point x="2192" y="3325"/>
+	<Point x="2167" y="3332"/>
+	<Point x="2152" y="3337"/>
+	<Point x="2132" y="3327"/>
+	<Point x="2117" y="3317"/>
+	<Point x="2105" y="3325"/>
+	<Point x="1995" y="3320"/>
+	<Point x="1977" y="3352"/>
+	<Point x="1890" y="3340"/>
+	<Point x="1870" y="3377"/>
+	<Point x="644" y="3364"/>
+	<Point x="481" y="3349"/>
+	<Point x="467" y="3341"/>
+	<Point x="449" y="3277"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Os grados del Meridiano terrere no endo iguales, la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="2057" y="3337"/>
+	<Point x="2266" y="3351"/>
+	<Point x="2263" y="3429"/>
+	<Point x="2061" y="3414"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tier‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="footnote">
+	<Coords>
+	<Point x="409" y="3436"/>
+	<Point x="1665" y="3423"/>
+	<Point x="1667" y="3505"/>
+	<Point x="410" y="3505"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a. Memorias de la Academia de las Ciencias año 1737.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="1003" y="4009"/>
+	<Point x="1946" y="4009"/>
+	<Point x="1946" y="4093"/>
+	<Point x="1298" y="4089"/>
+	<Point x="1003" y="4093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="page-number">
+	<Coords>
+	<Point x="2014" y="422"/>
+	<Point x="2206" y="422"/>
+	<Point x="2200" y="482"/>
+	<Point x="2206" y="518"/>
+	<Point x="2014" y="518"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>305</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="signature-mark">
+	<Coords>
+	<Point x="1382" y="3534"/>
+	<Point x="1380" y="3642"/>
+	<Point x="1555" y="3647"/>
+	<Point x="1552" y="3534"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Qq</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="drop-capital">
+	<Coords>
+	<Point x="352" y="3237"/>
+	<Point x="360" y="3325"/>
+	<Point x="364" y="3376"/>
+	<Point x="466" y="3367"/>
+	<Point x="432" y="3236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="819" y="564"/>
+	<Point x="1873" y="564"/>
+	<Point x="1873" y="710"/>
+	<Point x="819" y="710"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITULO VI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="header">
+	<Coords>
+	<Point x="819" y="409"/>
+	<Point x="1812" y="409"/>
+	<Point x="1812" y="519"/>
+	<Point x="819" y="519"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion></Page></PcGts>

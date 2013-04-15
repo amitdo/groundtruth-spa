@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443129">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T12:31:44</Created>
+	<LastChange>2011-03-15T16:51:38</LastChange></Metadata>
+	<Page imageFilename="00443129.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/>
+	<RegionRefIndexed regionRef="r7" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="380" y="190"/>
+	<Point x="1888" y="190"/>
+	<Point x="1888" y="615"/>
+	<Point x="900" y="646"/>
+	<Point x="761" y="653"/>
+	<Point x="705" y="648"/>
+	<Point x="457" y="638"/>
+	<Point x="378" y="648"/>
+	<Point x="396" y="405"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>en la Contemplacion, i noticia ſenzia, que ſe ha dicho,
+no evieſe el alma empleada eãdo ocioſa de las unas
+i de las otras; no avia de donde, n¡ por donde ſe pudieſe
+dezir, que eaba el alma ocupada. Es pues luego nece-
+ſar¡a ea noticia para aver de dexar la via de Medita-
+cion i diſcurfo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="376" y="2281"/>
+	<Point x="505" y="2276"/>
+	<Point x="1832" y="2281"/>
+	<Point x="1832" y="2776"/>
+	<Point x="1731" y="2764"/>
+	<Point x="1362" y="2782"/>
+	<Point x="376" y="2776"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lo cual ſe entendera bien por ea comparacion.
+Si conderamos en el rayo del Sol, que entra por la
+ventana, vemos, que cuanto el aire eà mas poblado
+de àtomos i motas, mucho mas palpable, ſenble, i
+claro le parece al ſentido de la via; i eà cla-
+ro, que entonces el rayo eà menos puro, i menos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1653" y="2777"/>
+	<Point x="1704" y="2775"/>
+	<Point x="1831" y="2786"/>
+	<Point x="1831" y="2849"/>
+	<Point x="1653" y="2853"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>claro,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="775" y="2926"/>
+	<Point x="1418" y="2926"/>
+	<Point x="1418" y="2986"/>
+	<Point x="775" y="2986"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="373" y="657"/>
+	<Point x="490" y="651"/>
+	<Point x="772" y="675"/>
+	<Point x="1880" y="657"/>
+	<Point x="1869" y="935"/>
+	<Point x="1864" y="935"/>
+	<Point x="1864" y="1147"/>
+	<Point x="1862" y="1147"/>
+	<Point x="1882" y="2261"/>
+	<Point x="635" y="2270"/>
+	<Point x="351" y="2261"/>
+	<Point x="376" y="1145"/>
+	<Point x="376" y="1135"/>
+	<Point x="384" y="935"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pero conviene aqui ſaber, que ea noticia general,
+de que vamos hablando; es a vezes tan ſutil i delica-
+da; mayormente cuando ea es mas pura, ſenzia, i
+perfeta i mas eſpiritual i interior; que el alma, aun-
+que eà empleada en ea, nola echa de ver, ni la en-
+te. I eo acaece mas, como dezimos, cuando ea es
+en  mas clara, pura, i ſenzia; i entonces lo es, cuan-
+do ea enyie en el alma mas limpia, i agena de otras
+inteligencias i noticias particulares, en que podia ha-
+zer preſa el Entendimiento, ò ſentido; la cual por ca-
+recer de eas, que ſon acerca de las que el Entendi-
+miento i ſentido tiene habilidad i coumbre de exer-
+citarſe, no las ente, por cuanto le faltan ſus acoum
+brados ſenbles. I ea es la cauſa, por donde eando
+ea mas pura, perfeta, i ſenzia, menos la ente el En
+tendimiento, i mas eſcura le parece. I a por el con-
+trario, cuando ea noticia es menos pura i mple, mas
+clara i de mas tomo le parece al Entendimiento, por
+ear ea veida, o mezclada, ò embuelta en algunas
+formas inteligibles, en que puede tropeçar mas el En-
+tendimiento.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="543" y="50"/>
+	<Point x="531" y="140"/>
+	<Point x="460" y="140"/>
+	<Point x="402" y="149"/>
+	<Point x="402" y="50"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>118</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="1553" y="46"/>
+	<Point x="1546" y="161"/>
+	<Point x="768" y="149"/>
+	<Point x="768" y="50"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subida del monte Carmelo</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485183">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T02:22:39</Created>
+	<LastChange>2011-05-12T13:41:01</LastChange></Metadata>
+	<Page imageFilename="00485183.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="signature-mark">
+	<Coords>
+	<Point x="1045" y="2783"/>
+	<Point x="1163" y="2797"/>
+	<Point x="1180" y="2791"/>
+	<Point x="1205" y="2784"/>
+	<Point x="1258" y="2785"/>
+	<Point x="1257" y="2873"/>
+	<Point x="1045" y="2872"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Q iiĳ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="631" y="3028"/>
+	<Point x="1410" y="3028"/>
+	<Point x="1410" y="3091"/>
+	<Point x="631" y="3091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="345" y="211"/>
+	<Point x="1578" y="217"/>
+	<Point x="1578" y="2801"/>
+	<Point x="1280" y="2778"/>
+	<Point x="1202" y="2779"/>
+	<Point x="1180" y="2789"/>
+	<Point x="1164" y="2793"/>
+	<Point x="1139" y="2779"/>
+	<Point x="1042" y="2778"/>
+	<Point x="1010" y="2811"/>
+	<Point x="392" y="2822"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Como el aguja s'endereça al norte.)
+Empeço de luchar, contra la fuerça
+De los golpes del agua inexorable.
+Eran ai ſus braços los ſus remos,
+Seruianle los pies de gouernae:
+El fuerte pecho el agua iua cortando,
+Dexando con la 'ſpuma vn largo raro.
+Dezia el gran varon, ca entre dientes,
+El rato que las olas l'apretauan.
+Mientras que voy, o aguas amanſaos
+Ahogame deſpues quando boluiere.
+Eando enla mitad de ſu jornada,
+Agora, padeciendo ora, venciendo.
+ſaliole Doris con ſus hijas todas:
+Y todas le tomaron ai en medio,
+Por podee valer en ſu trabajo.
+Las vnas, l'iuan ſoiniendo el cuerpo:
+Las otras, l'aanauan el camino,
+Con manos poderoſas haa en eo.
+Otras ſe dauan a'ſparzie roſas,
+Con arrayan cogido entre'l rocio,
+Dela tierra de Cypro ﬂoreciente.
+Con aqueos regalos, y otros muchos,
+Al'oria ego, mas no tan ſano
+Que no morae en muy grã quebräto.
+No le pao tan bien Hero, ee rato,
+Deſd' ai donde 'aua en ſu ventana.
+No le pao tan bien, porque hartas vezes
+Ea quiera mas paar nadando,
+El erecho que no paar la pena:
+Que'ſperando, y temiendo padecia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="566" y="118"/>
+	<Point x="1117" y="118"/>
+	<Point x="1117" y="204"/>
+	<Point x="566" y="204"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="1188" y="109"/>
+	<Point x="1602" y="109"/>
+	<Point x="1602" y="205"/>
+	<Point x="1188" y="205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. CVIII.</Unicode></TextEquiv></TextRegion></Page></PcGts>

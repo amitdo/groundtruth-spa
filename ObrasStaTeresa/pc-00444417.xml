@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444417">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:07:40</Created>
+	<LastChange>2011-12-19T11:39:44</LastChange></Metadata>
+	<Page imageFilename="00444417.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="341" y="87"/>
+	<Point x="1493" y="87"/>
+	<Point x="1493" y="213"/>
+	<Point x="341" y="213"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="176" y="223"/>
+	<Point x="1729" y="230"/>
+	<Point x="1706" y="1449"/>
+	<Point x="927" y="1470"/>
+	<Point x="698" y="1481"/>
+	<Point x="594" y="1495"/>
+	<Point x="373" y="1480"/>
+	<Point x="328" y="1496"/>
+	<Point x="284" y="1481"/>
+	<Point x="257" y="1496"/>
+	<Point x="166" y="1495"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>eos, no me acaezca lo que a Lucifer,  por
+ſu culpa lo perdio todo. No lo permita por
+quiẽ el es,  no tengo poco temor algunas ve
+zes, aun por otra parte y lo muy ordinario la
+miſericordia de Dios me pone ſeguridad, que
+pues me ha ſacado de tãtos peccados no quer
+ra dexarme de ſu mano para  me pierda. Eo
+ſuplico yo a v.m. ẽpre lo ſuplique. Pues no
+ſon tan grãdes las mercedes dichas a mi pa-
+recer como ea que agora dire, por muchas
+cauſas y grandes bienes que de ea me que-
+daron, y gran fortaleza en el alma, aunque
+mirada cada coſa por , es tan grande que no
+ay que comparar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="173" y="1516"/>
+	<Point x="253" y="1503"/>
+	<Point x="292" y="1486"/>
+	<Point x="329" y="1498"/>
+	<Point x="371" y="1484"/>
+	<Point x="588" y="1499"/>
+	<Point x="699" y="1485"/>
+	<Point x="900" y="1478"/>
+	<Point x="1728" y="1464"/>
+	<Point x="1718" y="2644"/>
+	<Point x="1461" y="2650"/>
+	<Point x="965" y="2666"/>
+	<Point x="935" y="2657"/>
+	<Point x="154" y="2647"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eaua vn dia viſpera del Spiritu ſanto
+deſpues de Mia, fuyme a vna parte bien
+apartada adonde yo rezaua muchas vezes, y
+comence a leer en vn cartuxano ea ﬁe-
+a, y leyendo las ſeñales que han de te-
+ner los que comiençan y aprouechan, y los
+perfetos, para entender ea con eos el
+Spiritu ſanto, Ieydos eos tres eados
+pareciome por la bondad de Dios que no
+dexaua de ear conmigo a lo que yo po-
+dia entender: eandole alabando, y acordan-
+dome de otra vez que lo auia leydo que ea-
+ua bien falta de todo aqueo, que lo veya yo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1511" y="2654"/>
+	<Point x="1682" y="2653"/>
+	<Point x="1680" y="2739"/>
+	<Point x="1581" y="2734"/>
+	<Point x="1512" y="2731"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>muy</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="626" y="3040"/>
+	<Point x="1559" y="3040"/>
+	<Point x="1559" y="3154"/>
+	<Point x="626" y="3154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1535" y="125"/>
+	<Point x="1535" y="222"/>
+	<Point x="1716" y="222"/>
+	<Point x="1716" y="125"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>491</Unicode></TextEquiv></TextRegion></Page></PcGts>

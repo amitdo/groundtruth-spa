@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443575">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T03:33:13</Created>
+	<LastChange>2010-12-21T11:52:47</LastChange></Metadata>
+	<Page imageFilename="00443575.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="876" y="164"/>
+	<Point x="1133" y="158"/>
+	<Point x="1480" y="171"/>
+	<Point x="1487" y="271"/>
+	<Point x="874" y="271"/>
+	<Point x="876" y="214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Llama de amor viva.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="382" y="283"/>
+	<Point x="1894" y="292"/>
+	<Point x="1896" y="2751"/>
+	<Point x="1692" y="2744"/>
+	<Point x="1328" y="2766"/>
+	<Point x="380" y="2766"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Contemplacion, donde el Gitano del ſentido no haa
+pie ni arrimo, i dexa libre al Hĳo de Dios, que es el eſ
+piritu ſalido de los limites i quizios angoos de ſu ope
+racion, que es de ſu baxo entender, ſu roſco ſentir, ſu po
+bre guar; porque Dios le dè el ſuaue Manà, cuyo ſa-
+bor, aunque tiene todos eos ſabores i guos, en que
+tu quieres traer trabajando al alma, con todo eſo por
+ſer tan delicado que ſe des haze en la boca, no ſe ſenti-
+ra,  otro guo en otra coſa quieere ſentir, porque no
+le recibira. Procura deſarraigar al alma de todas las co
+dicias de jugos, guos, i meditaciones, i no la inquietes
+concuidado i ſolicitud alguna de arriba, i menos de a-
+baxo, poniendola en toda enagenacion i ſoledad po-
+ble. Porque cuanto mas eo alcançare, i mas preo e
+gàre a ea ocioſa tranquilidad, con tanta mas abundã
+cia ſe le va infundiendo el Eſpiritu de la divina Sabidu
+ria amoroſo, tranquilo, ſolitario, paciﬁco, ſuave, roba-
+dor del eſpiritu, ntiendoſe a vezes robado i agado
+ſerena i blandamente, n ſaber de quien, ni de donde,
+ni como; porque ſe comunicò n operacion propia en
+el ſentido dicho. I un poquito deo, que Dios obra en
+el alma en ee ſanto ocio i ſoledad, es ineimable bi
+mas que el alma puede penſar, ni el que la trata, i no ſe
+echa de ver, lo cual luzira en ſu tiempo. Alomenos lo
+que de preſente el alma podra alcançar a ſentir, es un
+enagenamiento i erañez, unas vezes mas que otras,
+acerca de todas las coſas, con un reſpiro ſuave del a-
+mor, i vida del eſpiritu, i con inclinacion a ſoledad, i
+tedio en las criaturas, i con el glo. Porque co-
+mo ſe gua en el eſpiritu, deſabrido es todo lo que
+es de carne. Pero los bienes interiores, que ea ca-
+ada Contemplacion dexa impreſos en el alma n
+ea ſentirlo, ſon ineimables; por en n ſon unciones</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1695" y="2754"/>
+	<Point x="1740" y="2754"/>
+	<Point x="1885" y="2759"/>
+	<Point x="1892" y="2819"/>
+	<Point x="1698" y="2821"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſecre-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="779" y="2934"/>
+	<Point x="1421" y="2937"/>
+	<Point x="1416" y="2995"/>
+	<Point x="778" y="2992"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="400" y="178"/>
+	<Point x="400" y="271"/>
+	<Point x="576" y="271"/>
+	<Point x="576" y="178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>564</Unicode></TextEquiv></TextRegion></Page></PcGts>

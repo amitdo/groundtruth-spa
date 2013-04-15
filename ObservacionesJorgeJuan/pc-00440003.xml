@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440003">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T15:22:46</Created>
+	<LastChange>2011-12-19T11:38:34</LastChange></Metadata>
+	<Page imageFilename="00440003.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="2128" y="373"/>
+	<Point x="2203" y="373"/>
+	<Point x="2203" y="411"/>
+	<Point x="2128" y="411"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>xv</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="309" y="387"/>
+	<Point x="2038" y="392"/>
+	<Point x="2103" y="431"/>
+	<Point x="2348" y="429"/>
+	<Point x="2374" y="1960"/>
+	<Point x="805" y="1974"/>
+	<Point x="794" y="2043"/>
+	<Point x="691" y="2045"/>
+	<Point x="682" y="2067"/>
+	<Point x="645" y="2068"/>
+	<Point x="623" y="2043"/>
+	<Point x="575" y="2046"/>
+	<Point x="490" y="2045"/>
+	<Point x="395" y="2049"/>
+	<Point x="315" y="2046"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Circulo que percurre; y como eas dos fuerzas ſe hacen
+mas, y mas contrarias una à otra, al pao que los Cuerpos
+eàn mas cercanos al Equador, reſulta, que ſe diſminu‐
+ye la gravedad mas, y mas, al pao que los Cuerpos eàn
+mas cercanos al Equador, tanto por ee motivo, como
+porque la fuerza centrifuga es mayor, quanto mas cerca‐
+nos eàn los Cuerpos à el Equador. De aquì nace, decìan
+los miſmos Philoſophos, que los Pendulos, y por la miſ‐
+ma razon todos los Cuerpos, tengan en igual cantidad de
+maſa menos peſadèz en Parìs, y Lugares tuados àcia los
+Polos, que en Cayenna, y Lugares tuados àcia el Equa‐
+dor. Sobre ee principio paaron tan adelante, que cal‐
+cularon la quantidad de fuerza centrifuga, que correſpon‐
+de à cada grado terrere, ſegun ſu mayor, ò menor La‐
+titud, y tambien, la diminucion, que en cada uno de
+eos reſpeivamente, debe cauſar èa en la gravedad de
+los Cuerpos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="295" y="2060"/>
+	<Point x="612" y="2057"/>
+	<Point x="632" y="2078"/>
+	<Point x="688" y="2080"/>
+	<Point x="698" y="2054"/>
+	<Point x="804" y="2057"/>
+	<Point x="828" y="2013"/>
+	<Point x="2384" y="1989"/>
+	<Point x="2415" y="3352"/>
+	<Point x="2147" y="3350"/>
+	<Point x="2124" y="3386"/>
+	<Point x="2091" y="3386"/>
+	<Point x="1980" y="3393"/>
+	<Point x="291" y="3406"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De ea Theorica inferìan neceariamente, que el
+Globo terraqueo no puede ſer perfeamente eſpherico;
+porque endolo, aſsi como todas las lineas tiradas del cen‐
+tro à qualquiera parte de la Superﬁcie ſon iguales, aſsi las
+porciones de maſa, que ſe comprehendan en Cilindros de
+iguales Diametros, y vayan eſde ddicho Centro àcia qual-
+quier parte de la Superﬁcie miſma, ſeràn tambien igua‐
+les; y como, por otro lado, las porciones de maſa en aque‐
+os que vàn al Equador, tienen menos peſadèz, por ra‐
+zon de la diminucion, que la fuerza centrifuga cauſa en
+ſu gravedad, que las porciones de maſa en aqueos que
+vàn à los Polos, donde es menor ea diminucion, ſal‐
+drìa, que endo iguales las porciones de maſa en una, y
+en otra parte, no ſerìan iguales las peſadezes; pues peſa-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="920" y="3978"/>
+	<Point x="1982" y="3978"/>
+	<Point x="1982" y="4093"/>
+	<Point x="920" y="4093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="2130" y="3395"/>
+	<Point x="2153" y="3362"/>
+	<Point x="2285" y="3364"/>
+	<Point x="2290" y="3454"/>
+	<Point x="2132" y="3450"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>rìan</Unicode></TextEquiv></TextRegion></Page></PcGts>

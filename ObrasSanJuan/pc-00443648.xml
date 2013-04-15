@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443648">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T22:21:37</Created>
+	<LastChange>2011-02-03T07:14:55</LastChange></Metadata>
+	<Page imageFilename="00443648.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r14" index="4"/>
+	<RegionRefIndexed regionRef="r12" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="564" y="101"/>
+	<Point x="1033" y="112"/>
+	<Point x="1027" y="209"/>
+	<Point x="574" y="212"/>
+	<Point x="550" y="216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cancion Sexta.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="88" y="251"/>
+	<Point x="1588" y="235"/>
+	<Point x="1603" y="503"/>
+	<Point x="88" y="512"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>en a mor por ee raro que ha conocido en las criatu-
+ras de la hermoſura de ſu Amado, con anas de ver a-
+quea hermoſura invible, la guiente Cancion dize:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="285" y="540"/>
+	<Point x="1400" y="537"/>
+	<Point x="1418" y="659"/>
+	<Point x="274" y="662"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CANCION SEXTA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="303" y="725"/>
+	<Point x="1375" y="716"/>
+	<Point x="1407" y="1227"/>
+	<Point x="307" y="1235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ai quien podrà ſanarme!
+Acaba de entregarte ya de ver o,
+No quieras embiarme
+De oi mas ya menſagero,
+Que no ſaben dezirme lo que quiero.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="438" y="1251"/>
+	<Point x="1225" y="1257"/>
+	<Point x="1227" y="1340"/>
+	<Point x="427" y="1351"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DECLARACION.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="1441" y="2594"/>
+	<Point x="1579" y="2587"/>
+	<Point x="1597" y="2688"/>
+	<Point x="1454" y="2697"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ai</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="772" y="2931"/>
+	<Point x="1420" y="2937"/>
+	<Point x="1424" y="2992"/>
+	<Point x="774" y="2994"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="1438" y="118"/>
+	<Point x="1438" y="214"/>
+	<Point x="1583" y="214"/>
+	<Point x="1583" y="118"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>635</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1590" y="1438"/>
+	<Point x="1591" y="1438"/>
+	<Point x="1591" y="1491"/>
+	<Point x="1592" y="1491"/>
+	<Point x="1592" y="1544"/>
+	<Point x="1593" y="1544"/>
+	<Point x="1593" y="1597"/>
+	<Point x="1594" y="1597"/>
+	<Point x="1594" y="1649"/>
+	<Point x="1595" y="1649"/>
+	<Point x="1595" y="1702"/>
+	<Point x="1596" y="1702"/>
+	<Point x="1596" y="1755"/>
+	<Point x="1597" y="1755"/>
+	<Point x="1597" y="1808"/>
+	<Point x="1598" y="1808"/>
+	<Point x="1598" y="1860"/>
+	<Point x="1599" y="1860"/>
+	<Point x="1599" y="1913"/>
+	<Point x="1600" y="1913"/>
+	<Point x="1600" y="1966"/>
+	<Point x="1601" y="1966"/>
+	<Point x="1601" y="2019"/>
+	<Point x="1602" y="2019"/>
+	<Point x="1602" y="2072"/>
+	<Point x="1603" y="2072"/>
+	<Point x="1603" y="2124"/>
+	<Point x="1604" y="2124"/>
+	<Point x="1604" y="2177"/>
+	<Point x="1605" y="2177"/>
+	<Point x="1605" y="2230"/>
+	<Point x="1606" y="2230"/>
+	<Point x="1606" y="2283"/>
+	<Point x="1607" y="2283"/>
+	<Point x="1607" y="2335"/>
+	<Point x="1608" y="2335"/>
+	<Point x="1608" y="2388"/>
+	<Point x="1609" y="2388"/>
+	<Point x="1609" y="2441"/>
+	<Point x="1610" y="2441"/>
+	<Point x="1610" y="2494"/>
+	<Point x="1611" y="2494"/>
+	<Point x="1611" y="2546"/>
+	<Point x="1612" y="2546"/>
+	<Point x="1510" y="2546"/>
+	<Point x="1510" y="2547"/>
+	<Point x="1409" y="2547"/>
+	<Point x="1409" y="2548"/>
+	<Point x="1308" y="2548"/>
+	<Point x="1308" y="2549"/>
+	<Point x="1207" y="2549"/>
+	<Point x="1207" y="2550"/>
+	<Point x="1106" y="2550"/>
+	<Point x="1106" y="2551"/>
+	<Point x="1005" y="2551"/>
+	<Point x="1005" y="2552"/>
+	<Point x="904" y="2552"/>
+	<Point x="904" y="2553"/>
+	<Point x="803" y="2553"/>
+	<Point x="803" y="2554"/>
+	<Point x="702" y="2554"/>
+	<Point x="702" y="2555"/>
+	<Point x="601" y="2555"/>
+	<Point x="601" y="2556"/>
+	<Point x="500" y="2556"/>
+	<Point x="500" y="2557"/>
+	<Point x="399" y="2557"/>
+	<Point x="399" y="2558"/>
+	<Point x="298" y="2558"/>
+	<Point x="298" y="2559"/>
+	<Point x="197" y="2559"/>
+	<Point x="197" y="2560"/>
+	<Point x="96" y="2560"/>
+	<Point x="96" y="2561"/>
+	<Point x="96" y="2455"/>
+	<Point x="95" y="2455"/>
+	<Point x="95" y="2350"/>
+	<Point x="94" y="2350"/>
+	<Point x="94" y="2245"/>
+	<Point x="93" y="2245"/>
+	<Point x="93" y="2139"/>
+	<Point x="92" y="2139"/>
+	<Point x="92" y="2034"/>
+	<Point x="91" y="2034"/>
+	<Point x="91" y="1929"/>
+	<Point x="90" y="1929"/>
+	<Point x="90" y="1824"/>
+	<Point x="89" y="1824"/>
+	<Point x="89" y="1718"/>
+	<Point x="88" y="1718"/>
+	<Point x="88" y="1613"/>
+	<Point x="87" y="1613"/>
+	<Point x="87" y="1551"/>
+	<Point x="156" y="1551"/>
+	<Point x="156" y="1550"/>
+	<Point x="231" y="1550"/>
+	<Point x="231" y="1549"/>
+	<Point x="232" y="1549"/>
+	<Point x="232" y="1546"/>
+	<Point x="231" y="1546"/>
+	<Point x="231" y="1530"/>
+	<Point x="230" y="1530"/>
+	<Point x="230" y="1513"/>
+	<Point x="229" y="1513"/>
+	<Point x="229" y="1496"/>
+	<Point x="228" y="1496"/>
+	<Point x="228" y="1480"/>
+	<Point x="227" y="1480"/>
+	<Point x="227" y="1463"/>
+	<Point x="226" y="1463"/>
+	<Point x="226" y="1446"/>
+	<Point x="225" y="1446"/>
+	<Point x="225" y="1430"/>
+	<Point x="224" y="1430"/>
+	<Point x="224" y="1413"/>
+	<Point x="223" y="1413"/>
+	<Point x="223" y="1402"/>
+	<Point x="253" y="1402"/>
+	<Point x="253" y="1401"/>
+	<Point x="336" y="1401"/>
+	<Point x="336" y="1400"/>
+	<Point x="420" y="1400"/>
+	<Point x="420" y="1399"/>
+	<Point x="504" y="1399"/>
+	<Point x="504" y="1398"/>
+	<Point x="587" y="1398"/>
+	<Point x="587" y="1397"/>
+	<Point x="671" y="1397"/>
+	<Point x="671" y="1396"/>
+	<Point x="754" y="1396"/>
+	<Point x="754" y="1395"/>
+	<Point x="838" y="1395"/>
+	<Point x="838" y="1394"/>
+	<Point x="922" y="1394"/>
+	<Point x="922" y="1393"/>
+	<Point x="1005" y="1393"/>
+	<Point x="1005" y="1392"/>
+	<Point x="1089" y="1392"/>
+	<Point x="1089" y="1391"/>
+	<Point x="1172" y="1391"/>
+	<Point x="1172" y="1390"/>
+	<Point x="1256" y="1390"/>
+	<Point x="1256" y="1389"/>
+	<Point x="1340" y="1389"/>
+	<Point x="1340" y="1388"/>
+	<Point x="1423" y="1388"/>
+	<Point x="1423" y="1387"/>
+	<Point x="1507" y="1387"/>
+	<Point x="1507" y="1386"/>
+	<Point x="1590" y="1386"/>
+	<Point x="1590" y="1385"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Omo las criaturas dierõ al alma ſeñas de ſu Ama
+do, morandole en  raro de ſu hermoſura i ex-
+celencia, aumentòſele el amor; i por conguiente cre-
+ciole el dolor de la auſencia; porque cuanto mas el al-
+ma conoce de Dios, mas le crece el apetito de verle, i
+como vè, que no ai coſa que la pueda curar ſu dolen-
+cia, no la via i la preſencia de ſu Amado, deſconﬁa-
+da de otro cualquiera remedio, pidele en ea Cancion
+la entrega i poſeon de ſu preſencia, diziendo, que no
+quiera de oi mas entretenerla con otras cualeſquier
+noticias i comunicaciones ſuyas, por no ſatisfazen a
+ſu deſeo i voluntad. La cual no ſe contenta con me-
+nos que ſu via i preſencia; por tanto que ſea el ſervi-
+do de entregarſe ya de veras en acabado i perfeto a-
+mor; i a dize:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="drop-capital">
+	<Coords>
+	<Point x="221" y="1402"/>
+	<Point x="221" y="1415"/>
+	<Point x="222" y="1415"/>
+	<Point x="222" y="1432"/>
+	<Point x="223" y="1432"/>
+	<Point x="223" y="1448"/>
+	<Point x="224" y="1448"/>
+	<Point x="224" y="1465"/>
+	<Point x="225" y="1465"/>
+	<Point x="225" y="1482"/>
+	<Point x="226" y="1482"/>
+	<Point x="226" y="1498"/>
+	<Point x="227" y="1498"/>
+	<Point x="227" y="1515"/>
+	<Point x="228" y="1515"/>
+	<Point x="228" y="1532"/>
+	<Point x="229" y="1532"/>
+	<Point x="229" y="1548"/>
+	<Point x="154" y="1548"/>
+	<Point x="154" y="1549"/>
+	<Point x="87" y="1549"/>
+	<Point x="87" y="1508"/>
+	<Point x="86" y="1508"/>
+	<Point x="86" y="1403"/>
+	<Point x="85" y="1403"/>
+	<Point x="169" y="1403"/>
+	<Point x="169" y="1402"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="signature-mark">
+	<Coords>
+	<Point x="973" y="2602"/>
+	<Point x="973" y="2718"/>
+	<Point x="1123" y="2718"/>
+	<Point x="1123" y="2602"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ss 3</Unicode></TextEquiv></TextRegion></Page></PcGts>

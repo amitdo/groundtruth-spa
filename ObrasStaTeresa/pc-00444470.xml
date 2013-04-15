@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444470">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:44:27</Created>
+	<LastChange>2011-12-19T11:39:47</LastChange></Metadata>
+	<Page imageFilename="00444470.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="826" y="56"/>
+	<Point x="1490" y="56"/>
+	<Point x="1490" y="182"/>
+	<Point x="826" y="182"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="374" y="214"/>
+	<Point x="1949" y="188"/>
+	<Point x="1947" y="1252"/>
+	<Point x="406" y="1272"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>hazer que no viniee la noche natural, por-
+que depende de mi gracia. El mejor reme-
+dio que puede auer para detener la luz, es
+entender el alma que no puede nada por ,
+y que le viene de mi, porque aunque ee
+en ea, en vn punto que yo me aparte ver-
+na la noche. Ea es la verdadera humil-
+dad conocer el alma lo que puede, y lo
+que yo puedo. No dexes de eſcreuir los
+auiſos que te doy, porque no ſe te oluiden
+pues quieres poner por eſcrito los de los
+hombres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="406" y="1276"/>
+	<Point x="860" y="1274"/>
+	<Point x="1966" y="1261"/>
+	<Point x="1965" y="2605"/>
+	<Point x="1770" y="2603"/>
+	<Point x="1588" y="2625"/>
+	<Point x="388" y="2619"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La biſpera de ſan Sebaian, el primer año
+que vine al moneerio de la Encarnacion a
+ſer priora, començando la Salue, vi en la
+a prioral adonde ea puea nuera Se-
+ñora abaxar con gran multitud de angeles
+a la madre de Dios, y ponerſe ai a mi pa-
+recer: no vi la imagen entonces, no ea
+Señora que digo, pareciome ſe parecia al-
+go a la imagen que me dio la Condea, aun-
+que fue de preo el poderla determinar,
+por ſuſpenderme luego mucho, parecian-
+me encima de las coronas de las as, y
+ſobre los antepechos muchos angeles, aun-
+que no conforma corporal, que era vion in-
+teetual. Euue an toda la ſalue, y dixome:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1752" y="2611"/>
+	<Point x="1935" y="2611"/>
+	<Point x="1938" y="2691"/>
+	<Point x="1747" y="2700"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bien</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="624" y="3070"/>
+	<Point x="1569" y="3070"/>
+	<Point x="1569" y="3154"/>
+	<Point x="624" y="3154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="378" y="102"/>
+	<Point x="378" y="202"/>
+	<Point x="566" y="202"/>
+	<Point x="566" y="102"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>550</Unicode></TextEquiv></TextRegion></Page></PcGts>

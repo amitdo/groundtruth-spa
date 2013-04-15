@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444094">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:27:12</Created>
+	<LastChange>2011-12-19T11:39:25</LastChange></Metadata>
+	<Page imageFilename="00444094.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="988" y="100"/>
+	<Point x="1592" y="97"/>
+	<Point x="1585" y="202"/>
+	<Point x="986" y="206"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="430" y="224"/>
+	<Point x="2018" y="228"/>
+	<Point x="2056" y="2613"/>
+	<Point x="1798" y="2616"/>
+	<Point x="1784" y="2648"/>
+	<Point x="1624" y="2648"/>
+	<Point x="426" y="2644"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pues fruto, y las ﬂores, y los claueles lo miſmo
+para dar olor. Regalame ea cõparacion por-
+que muchas vezes en mis principios, y ple-
+ga al Señor aya yo aora començado a ſeruir a
+ſu Magead, digo principio de lo que dire
+de aqui adelante de mi vida, me era gran de-
+leyte conderar ſer mi alma vn huerto, y al
+Señor que ſe paeaua en el, ſuplicauale au-
+mentae el olor de las ﬂorezitas de virtudes,
+que començauan a lo que parecia, a querer
+ſalir, y que fuee para ſu gloria, y las ſuen-
+tae, pues yo no queria nada para mi, y cor‐
+tae las que quiee, que ya ſabia auian de ſa
+lir mejores. Digo cortar, porque vienen tiem
+pos en el alma, que no ay memoria dee huer
+to, todo parece ea ſeco, y que no ha de auer
+agua para ſuentarle, ni parece vuo jamas en
+el alma coſa de virtud: paaſe mucho traba-
+jo, porque quiere el Señor que le parezca a
+el pobre hortelano, que todo el que ha teni-
+do en ſuentarle, y regalarle, va perdido.
+Entonces es el verdadero eſcardar, y quitar
+de rayz las yeruezias, aunque ſean peque-
+ñas, que han quedado malas, con conocer no
+ay diligencia que bae,  el agua de la gracia
+nos quita Dios: y tener en poco nuero na-
+da, y aun menos que nada, ganaſe aqui mu-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="596" y="3062"/>
+	<Point x="1594" y="3062"/>
+	<Point x="1594" y="3154"/>
+	<Point x="596" y="3154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="470" y="118"/>
+	<Point x="470" y="200"/>
+	<Point x="640" y="200"/>
+	<Point x="640" y="118"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>166</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1853" y="2626"/>
+	<Point x="1853" y="2725"/>
+	<Point x="2017" y="2725"/>
+	<Point x="2017" y="2626"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cha</Unicode></TextEquiv></TextRegion></Page></PcGts>

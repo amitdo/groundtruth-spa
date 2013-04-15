@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440181">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T07:23:11</Created>
+	<LastChange>2011-12-19T11:38:48</LastChange></Metadata>
+	<Page imageFilename="00440181.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r34" index="0"/>
+	<RegionRefIndexed regionRef="r35" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="746" y="350"/>
+	<Point x="913" y="350"/>
+	<Point x="913" y="476"/>
+	<Point x="746" y="476"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>162</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="1243" y="313"/>
+	<Point x="2013" y="313"/>
+	<Point x="2013" y="480"/>
+	<Point x="1243" y="480"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords>
+	<Point x="656" y="2810"/>
+	<Point x="2636" y="2810"/>
+	<Point x="2630" y="3406"/>
+	<Point x="2406" y="3403"/>
+	<Point x="2400" y="3450"/>
+	<Point x="660" y="3440"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Haviendonos parecido el angulo en màl pequeño, de
+que podìa reſultar yerro en el lado RS à poca diferencia
+del verdadero angulo; ſe reſolviò reiﬁcar el miſmo lado
+por nuevos triangulos, que ſon los que ſe vèn formados
+de puntos; pero haviendo haado el lado RS de igual
+magnitud, tanto por el primer methodo, como por el</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="catch-word">
+	<Coords>
+	<Point x="2466" y="3413"/>
+	<Point x="2603" y="3413"/>
+	<Point x="2603" y="3526"/>
+	<Point x="2466" y="3526"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſe-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="credit">
+	<Coords>
+	<Point x="979" y="3946"/>
+	<Point x="1974" y="3946"/>
+	<Point x="1974" y="4093"/>
+	<Point x="979" y="4093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r19">
+	<Coords>
+	<Point x="650" y="2256"/>
+	<Point x="2563" y="2256"/>
+	<Point x="2563" y="2753"/>
+	<Point x="650" y="2753"/></Coords></TableRegion>
+	<TableRegion id="r4">
+	<Coords>
+	<Point x="666" y="1690"/>
+	<Point x="2570" y="1690"/>
+	<Point x="2570" y="2200"/>
+	<Point x="666" y="2200"/></Coords></TableRegion>
+	<TableRegion id="r11">
+	<Coords>
+	<Point x="676" y="1130"/>
+	<Point x="2570" y="1130"/>
+	<Point x="2570" y="1633"/>
+	<Point x="676" y="1633"/></Coords></TableRegion>
+	<TableRegion id="r8">
+	<Coords>
+	<Point x="673" y="500"/>
+	<Point x="2613" y="500"/>
+	<Point x="2613" y="1076"/>
+	<Point x="673" y="1076"/></Coords></TableRegion></Page></PcGts>

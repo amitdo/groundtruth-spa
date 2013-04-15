@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00673164">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 10.0</Creator>
+	<Created>2012-02-01T10:49:00</Created>
+	<LastChange>2012-03-03T19:42:08</LastChange></Metadata>
+	<Page imageFilename="00673164.tif" imageWidth="1922" imageHeight="2621">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="510" y="2246"/>
+	<Point x="517" y="329"/>
+	<Point x="1694" y="320"/>
+	<Point x="1708" y="821"/>
+	<Point x="1704" y="2246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>guna delas ſobredichas por ocupar la ſalida al ar
+ﬁl del rey y aun aquella eaſa para el cau.del rey a-
+uiendo necedad de que ſalga por alli. Y lo prin
+cipal por quanto es de buẽ lance jug.la dama en
+aquella caſa eando fuera el arf. tanto es de em-
+baraçoſo antes que ee fuera.Pero con todo lo di
+cho ſe podra ordenar el juego dela manera que di
+remos. Si el bl.jug.el arf.de ſu rey ala.4.del arf. de
+ſu dama:el neg.jug.el peõ del arf. dela dama vna
+caſa. Si el blan.jug.el roque ala caſa del arf.para ſe
+traſponer:el neg jug.el peõ de ſu dama vna caſa.
+Si el blan.ſaltara con ſu rey: el neg. jug. el arﬁl de
+ſu dama ala. 4 del caua. del rey contrario ſobre el
+caua. Si el blan.jug.el peon dela dama vna caſa:el
+neg.jug.ſu dama.ala 3.del arﬁl de ſu rey para deſ-
+baratar la traſpuea de ſu enemigo. Si el blan.
+jug.el caua.de ſu dama ala.2.della meſma por no
+deſbaratarſe:el neg.jug.el arﬁl de ſu rey ala.2.del
+meſmo rey. Si el blan.jug. el peon del roque ſo-
+bre el arﬁl: el neg. no lo retirara. ala. 4. de ſu ro-
+que por lo perdera pujando el bl.el peon del ca.
+quanto va ſobre el dicho arf y  el neg.lo metera
+ala.3.del caua.de ſu rey:el blan pujara el peon del
+ca.otra caſa adelante ſobre la dama. Y  el neg.
+jug.la dama. ala. 4. del arf del rey contrario que
+no tiene otra: el blan. jug. el caua. de ſu dama en
+ſu propria caſa: y a le aura ganado la dama. Y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="catch-word">
+	<Coords>
+	<Point x="1600" y="2250"/>
+	<Point x="1600" y="2312"/>
+	<Point x="1713" y="2312"/>
+	<Point x="1713" y="2250"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>por</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="header">
+	<Coords>
+	<Point x="715" y="246"/>
+	<Point x="715" y="320"/>
+	<Point x="1456" y="313"/>
+	<Point x="1455" y="246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro dela inuencion liberal</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444162">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:05:44</Created>
+	<LastChange>2011-12-19T11:39:29</LastChange></Metadata>
+	<Page imageFilename="00444162.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="883" y="67"/>
+	<Point x="1551" y="80"/>
+	<Point x="1534" y="193"/>
+	<Point x="864" y="196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="405" y="226"/>
+	<Point x="1990" y="200"/>
+	<Point x="2040" y="2612"/>
+	<Point x="1786" y="2618"/>
+	<Point x="415" y="2697"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>muerte (que eo  cierto haze, yo me he vi-
+o en ee peligro algunas vezes, con gran-
+des enfermedades y ocaones, como he di-
+cho, y creo podria dezir es ee tan grande
+como todos) an el deeo que el cuerpo y al-
+ma tienen de no ſe apartar, es el que pide ſo-
+corro para tomar huelgo, y con dezirlo, y
+quexarſe y diuertirſe, buſcar remedio para
+viuir muy contra voluntad del ſpiritu, o de
+lo ſuperior del alma que no querria ſalir de-
+a pena. No ſe yo  atino a lo que digo, o
+ lo ſe dezir, mas a todo mi parecer paa an-
+, mire vueſa merced que deſcanſo puedo te-
+ner en ea vida, pues el que auia que era la
+oracion y ſoledad, porque ai me conſolaua
+el Señor, es ya lo mas ordinario ee tormen-
+to, y es tan ſabroſo, y vee el alma que es de tã
+to precio, que ya le quiere mas que todos los
+regalos que ſolia tener: parecele mas ſeguro,
+porque es camino de cruz, y en  tiene vn
+guo muy de valor a mi parecer, porque no
+participa con el cuerpo no pena, y el alma
+es la que padece, y goza ſola del gozo y con-
+tento que da ee padecer. No ſe yo como pue
+de ſer eo, mas an paa, que a mi parecer
+no trocaria ea merced que el Señor me ha-
+ze, que viene de ſu mano, como he dicho no</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1800" y="2622"/>
+	<Point x="1959" y="2619"/>
+	<Point x="1968" y="2706"/>
+	<Point x="1777" y="2712"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nada</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="604" y="3066"/>
+	<Point x="1572" y="3066"/>
+	<Point x="1572" y="3162"/>
+	<Point x="604" y="3162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="414" y="83"/>
+	<Point x="419" y="212"/>
+	<Point x="632" y="212"/>
+	<Point x="632" y="89"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>234</Unicode></TextEquiv></TextRegion></Page></PcGts>

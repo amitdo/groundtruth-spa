@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444008">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:47:12</Created>
+	<LastChange>2011-12-19T11:39:20</LastChange></Metadata>
+	<Page imageFilename="00444008.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="833" y="112"/>
+	<Point x="1518" y="107"/>
+	<Point x="1499" y="215"/>
+	<Point x="827" y="217"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="422" y="240"/>
+	<Point x="1971" y="236"/>
+	<Point x="1970" y="2652"/>
+	<Point x="1917" y="2650"/>
+	<Point x="1889" y="2636"/>
+	<Point x="1212" y="2636"/>
+	<Point x="1152" y="2655"/>
+	<Point x="398" y="2658"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que auia de venir a mi alma el daño, y diray
+miento, que deſpues entendi eran ſemejan-
+tes tratos, pareciome que coſa tan general, co
+mo es ee vitar en muchos moneerios, 
+no me haria a mi mas mal, que a las otras, que
+yo via eran buenas: y no miraua que eran
+muy mejores, y que lo que en mi fue peligro,
+en otras no ſeria tanto, que alguno dubdo yo
+le dexe de auer, aũque no ſea no tiempo mal
+gaado. Eando con vna perſona biẽ al prin-
+cipio de conocerla, quiſo el Señor darme a
+entender, que no me conuenian aqueas ami
+ades, y auiſarme, y darme luz en tan gran
+ceguedad, repreſentoſeme Chrio delante cõ
+mucho rigor, dandome a entender lo que de
+aqueo no le agradaua: vile con los ojos del
+alma, mas claramente que le pudiera ver con
+los del cuerpo, y quedome tã imprimido, que
+ha eo mas de veynte y ſeys años, y me pare-
+ce lo tengo preſente, yo quede muy eſpanta-
+da, y turbada, y no queria ver mas a con quiẽ
+eaua. Hizome mucho daño, no ſaber yo que
+era poſsible ver nada, no era cõ los ojos del
+cuerpo, y el demonio que me ayudo a que lo
+creyee an, y hazerme entẽder que era im-
+poſsible, y que ſe me auia antojado, y que po-
+dia ſer el demonio, y otras coſas dea ſuerte,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1751" y="2662"/>
+	<Point x="1945" y="2662"/>
+	<Point x="1945" y="2751"/>
+	<Point x="1751" y="2751"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pues</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="600" y="3062"/>
+	<Point x="1586" y="3062"/>
+	<Point x="1586" y="3164"/>
+	<Point x="600" y="3164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="443" y="121"/>
+	<Point x="438" y="213"/>
+	<Point x="550" y="213"/>
+	<Point x="553" y="120"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>80</Unicode></TextEquiv></TextRegion></Page></PcGts>

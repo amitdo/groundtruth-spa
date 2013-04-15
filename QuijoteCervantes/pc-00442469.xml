@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442469">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T18:04:05</Created>
+	<LastChange>2012-03-12T14:12:03</LastChange></Metadata>
+	<Page imageFilename="00442469.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="366" y="108"/>
+	<Point x="1112" y="91"/>
+	<Point x="1125" y="176"/>
+	<Point x="499" y="215"/>
+	<Point x="362" y="219"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="127" y="228"/>
+	<Point x="1242" y="201"/>
+	<Point x="1415" y="199"/>
+	<Point x="1417" y="2157"/>
+	<Point x="1287" y="2153"/>
+	<Point x="1262" y="2154"/>
+	<Point x="984" y="2151"/>
+	<Point x="868" y="2157"/>
+	<Point x="848" y="2155"/>
+	<Point x="750" y="2168"/>
+	<Point x="149" y="2173"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y ai no faltara quien ponga en eſcrito las hazañas
+de vuera merced, para perpetua memoria. De las
+mias no digo nada, pues no han de ſalir de los limi‐
+tes eſcuderiles: aunque ſe dezir, que  ſe vſa en la ca-
+uaeria, eſcriuir hazañas de eſcuderos, que no pien‐
+ſo que ſe han de quedar las mias entre renglones.
+No dizes mal Sancho, reſpondio don Quixote, mas
+antes que ſe egue a ee termino, es meneer an‐
+dar por el mundo, como en aprouacion, buſcando
+las auenturas; para que ac abando algunas, ſe cobre
+nombre y fama tal, que quando ſe fuere a la Corte
+de algun gran Monarca, ya ſea el cauaero conoci‐
+do por ſus obras, y que apenas le ayan vio entrar
+los muchachos por la puerta de la Ciudad, quando
+todos le gan y rodeen, dando vozes diziendo. Ee
+es el cauaero del Sol, o de la Sierpe, o de otra ing‐
+nia alguna, debaxo de la qual vuiere acabado gran‐
+des hazañas. Ee es diran, el que vencio en ngular
+bataa al Gigantazo Brocabruno, de la gran fuerça,
+el que deſencantò al gran Mameluco de Pera, del
+largo encantamento, en que auia eado ca noue-
+cientos años. Aſsi que de mano en mano, yran pre‐
+gonando tus hechos, y luego al alboroto de los mu‐
+chachos, y de la demas gente, ſe pararâ a las feneſ-
+tras de ſu real palacio el Rey de aquel reyno: y aſsi
+como vea al cauaero, conociendole por las armas,
+o por la empreſa del eſcudo, forçoſamente ha de de
+zir: Ea ſus ſalgan mis cauaeros, quantos en mi cor‐
+te eã, a recebir a la ﬂor dè la cauaeria, que ai vie‐
+ne, a cuyo mandamiento ſaldran todos, y el egara
+haa la mitad de la eſcalera, y le abraçara erechiſ-
+mamente, y le dara paz, beſandole en el roro, y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="465" y="2309"/>
+	<Point x="1119" y="2309"/>
+	<Point x="1119" y="2356"/>
+	<Point x="465" y="2356"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1262" y="102"/>
+	<Point x="1262" y="189"/>
+	<Point x="1381" y="189"/>
+	<Point x="1381" y="102"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>97</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1239" y="2158"/>
+	<Point x="1239" y="2223"/>
+	<Point x="1401" y="2223"/>
+	<Point x="1401" y="2158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>luego</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1007" y="2158"/>
+	<Point x="1007" y="2224"/>
+	<Point x="1069" y="2224"/>
+	<Point x="1069" y="2158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00484947">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T07:25:00</Created>
+	<LastChange>2011-05-12T13:40:37</LastChange></Metadata>
+	<Page imageFilename="00484947.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r2" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="560" y="76"/>
+	<Point x="1826" y="50"/>
+	<Point x="1830" y="450"/>
+	<Point x="1743" y="456"/>
+	<Point x="1730" y="450"/>
+	<Point x="1093" y="464"/>
+	<Point x="546" y="476"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ALOS LECTO
+RES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="696" y="739"/>
+	<Point x="1997" y="705"/>
+	<Point x="2008" y="2782"/>
+	<Point x="411" y="2777"/>
+	<Point x="392" y="1037"/>
+	<Point x="679" y="1028"/>
+	<Point x="679" y="959"/>
+	<Point x="684" y="831"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>STE libro conntio Boſcan que ſe imprimiſ
+ſe forçado delos ruegos de muchos, que tenian
+conel autoridad para perſuadir ſelo, y parece 
+era razon que ſus amigos le rogaen eo, por el gran
+bien que ſe gue de que ſea comunicado, atodos tal li⸗
+bro, y por el peligro que auia, en que n ſu voIũtad, no
+ſe adelätae otro a imprimirlo, y tambiẽ por que ſe aca⸗
+baen los yerros, que enlos traſlados, quele hurtauã auia
+que eran inﬁnitos, deſpues que el ya ſe dexo vencer: y ſe
+determino ala impreion, y andaua juntando ſus pape⸗
+les y examinandoIos, para  cõ concierto ſalieen adõde
+todo el mundo los viee, que era coſa que el nunca pen
+ſo enel principio quelo començo a eſcreuir, ſabemos que
+los tenia repartidos en quatro libros. Enel primero las
+primeras coſas  cõpuſo  ſon coplas Eſpañolas, y enel
+ſegũdo cãciões y ſõetos amanera đlos YtaIiãos, y enel ter
+cero epiolas y capitulos y otras obras tambiẽ ala Yta
+liana, enel quarto queria poner las obras de Garcilao
+dela vega, delas quales, ſe encargo Boſcã por el amiad
+grande que entrambos mucho tiempo tuuierõ, y porque
+deſpues dela muerte de Garcilao, le entregaron a el ſus
+obras para quelas dexae como deuian de ear, ya que
+ponia la mano en adereçar todo eo y querria deſpues
+de muy bien limado y polido, como el n falta, loſupiera</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="633" y="3021"/>
+	<Point x="1382" y="3020"/>
+	<Point x="1386" y="3086"/>
+	<Point x="1258" y="3090"/>
+	<Point x="632" y="3090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="drop-capital">
+	<Coords>
+	<Point x="429" y="729"/>
+	<Point x="432" y="1017"/>
+	<Point x="675" y="1012"/>
+	<Point x="677" y="768"/>
+	<Point x="688" y="729"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion></Page></PcGts>

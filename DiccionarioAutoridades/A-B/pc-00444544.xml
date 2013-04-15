@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444544">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T03:00:46</Created>
+	<LastChange>2011-03-05T07:06:46</LastChange></Metadata>
+	<Page imageFilename="00444544.tif" imageWidth="2613" imageHeight="3944">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r14" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/>
+	<RegionRefIndexed regionRef="r8" index="2"/>
+	<RegionRefIndexed regionRef="r10" index="3"/>
+	<RegionRefIndexed regionRef="r11" index="4"/>
+	<RegionRefIndexed regionRef="r12" index="5"/>
+	<RegionRefIndexed regionRef="r17" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="819" y="164"/>
+	<Point x="817" y="251"/>
+	<Point x="831" y="251"/>
+	<Point x="1439" y="243"/>
+	<Point x="2028" y="251"/>
+	<Point x="2028" y="242"/>
+	<Point x="2029" y="164"/>
+	<Point x="1460" y="173"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SOBRE LAS ETYMOLCGIAS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="2242" y="164"/>
+	<Point x="2240" y="207"/>
+	<Point x="2242" y="246"/>
+	<Point x="2400" y="248"/>
+	<Point x="2400" y="166"/>
+	<Point x="2261" y="166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LVII</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="signature-mark">
+	<Coords>
+	<Point x="1511" y="3663"/>
+	<Point x="1511" y="3729"/>
+	<Point x="1590" y="3729"/>
+	<Point x="1590" y="3663"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="catch-word">
+	<Coords>
+	<Point x="2276" y="3677"/>
+	<Point x="2276" y="3749"/>
+	<Point x="2427" y="3749"/>
+	<Point x="2427" y="3677"/>
+	<Point x="2336" y="3664"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bles,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="credit">
+	<Coords>
+	<Point x="826" y="3836"/>
+	<Point x="826" y="3931"/>
+	<Point x="1794" y="3931"/>
+	<Point x="1794" y="3836"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="426" y="351"/>
+	<Point x="361" y="351"/>
+	<Point x="359" y="360"/>
+	<Point x="357" y="413"/>
+	<Point x="362" y="804"/>
+	<Point x="429" y="804"/>
+	<Point x="456" y="826"/>
+	<Point x="486" y="804"/>
+	<Point x="537" y="812"/>
+	<Point x="558" y="804"/>
+	<Point x="601" y="804"/>
+	<Point x="605" y="818"/>
+	<Point x="625" y="823"/>
+	<Point x="648" y="804"/>
+	<Point x="1117" y="804"/>
+	<Point x="1138" y="813"/>
+	<Point x="1151" y="804"/>
+	<Point x="1155" y="807"/>
+	<Point x="1159" y="815"/>
+	<Point x="1179" y="823"/>
+	<Point x="1195" y="804"/>
+	<Point x="1715" y="805"/>
+	<Point x="1731" y="747"/>
+	<Point x="2452" y="744"/>
+	<Point x="2444" y="359"/>
+	<Point x="2427" y="353"/>
+	<Point x="2407" y="358"/>
+	<Point x="2391" y="360"/>
+	<Point x="2372" y="344"/>
+	<Point x="1812" y="339"/>
+	<Point x="1789" y="351"/>
+	<Point x="1766" y="345"/>
+	<Point x="1713" y="346"/>
+	<Point x="1703" y="338"/>
+	<Point x="1681" y="346"/>
+	<Point x="1667" y="339"/>
+	<Point x="1656" y="346"/>
+	<Point x="1590" y="346"/>
+	<Point x="1538" y="341"/>
+	<Point x="1525" y="336"/>
+	<Point x="1513" y="341"/>
+	<Point x="1500" y="342"/>
+	<Point x="1458" y="345"/>
+	<Point x="1266" y="355"/>
+	<Point x="1233" y="358"/>
+	<Point x="1213" y="354"/>
+	<Point x="1197" y="343"/>
+	<Point x="1188" y="343"/>
+	<Point x="1180" y="342"/>
+	<Point x="1058" y="341"/>
+	<Point x="1054" y="342"/>
+	<Point x="1052" y="342"/>
+	<Point x="1054" y="343"/>
+	<Point x="1029" y="343"/>
+	<Point x="1030" y="343"/>
+	<Point x="1023" y="347"/>
+	<Point x="1010" y="356"/>
+	<Point x="1001" y="359"/>
+	<Point x="992" y="358"/>
+	<Point x="985" y="353"/>
+	<Point x="981" y="344"/>
+	<Point x="969" y="341"/>
+	<Point x="800" y="346"/>
+	<Point x="636" y="344"/>
+	<Point x="610" y="360"/>
+	<Point x="598" y="381"/>
+	<Point x="553" y="350"/>
+	<Point x="515" y="354"/>
+	<Point x="461" y="355"/>
+	<Point x="458" y="354"/>
+	<Point x="445" y="353"/>
+	<Point x="441" y="353"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>30 Sea la ſegunda regla la que nos dá la miſma Voz Filius, y es atender
+à la conﬁguración de la Voz, que bien examinada, no ſuele tener mas que
+una, ù otra letra común; pero en el todo de ea ſe haa tal relación con la
+matríz, que ninguno puede dudar de ſu ﬁliación, endo uno miſmo el gni-
+ﬁcado: eo ſe vé en muas Voces. Sean exemplo Hĳo de Filius, Páxaro de
+Paſer, Apremiar de Premere, y aſsi otros muos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="361" y="841"/>
+	<Point x="354" y="1194"/>
+	<Point x="363" y="1440"/>
+	<Point x="648" y="1435"/>
+	<Point x="652" y="1452"/>
+	<Point x="671" y="1458"/>
+	<Point x="690" y="1452"/>
+	<Point x="705" y="1439"/>
+	<Point x="841" y="1436"/>
+	<Point x="859" y="1447"/>
+	<Point x="875" y="1435"/>
+	<Point x="885" y="1454"/>
+	<Point x="898" y="1457"/>
+	<Point x="911" y="1452"/>
+	<Point x="919" y="1434"/>
+	<Point x="994" y="1437"/>
+	<Point x="1190" y="1435"/>
+	<Point x="1444" y="1431"/>
+	<Point x="1472" y="1369"/>
+	<Point x="2460" y="1388"/>
+	<Point x="2458" y="808"/>
+	<Point x="1704" y="815"/>
+	<Point x="1659" y="815"/>
+	<Point x="1642" y="814"/>
+	<Point x="1592" y="820"/>
+	<Point x="1573" y="813"/>
+	<Point x="1556" y="821"/>
+	<Point x="1469" y="822"/>
+	<Point x="1450" y="814"/>
+	<Point x="1434" y="823"/>
+	<Point x="1153" y="827"/>
+	<Point x="1147" y="814"/>
+	<Point x="1125" y="821"/>
+	<Point x="1120" y="827"/>
+	<Point x="1030" y="828"/>
+	<Point x="1009" y="814"/>
+	<Point x="992" y="829"/>
+	<Point x="845" y="831"/>
+	<Point x="844" y="818"/>
+	<Point x="834" y="813"/>
+	<Point x="817" y="827"/>
+	<Point x="654" y="829"/>
+	<Point x="650" y="813"/>
+	<Point x="618" y="831"/>
+	<Point x="477" y="831"/>
+	<Point x="425" y="848"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>31 La tercéra regla es leer y examinar los libros antíguos, y en eos re-
+conocer las Voces, porque muas al princípio ſalieron mui ſemejantes à la
+matríz, y luego ſe han ido variando; y aunque ſu conﬁguración denóta la
+raíz, ſe hace mas patente ſabiendo la primer Voz de donde ſe corrompió, ò
+ſe pulió la que ahóra ſe uſa. Sea exemplo la Voz Conſéjo, que en lo antíguo
+del Conlium Latino ſe uſo mui freqüente Conſeio: de Fugere decimos oy
+Huir, ſuavizando el antíguo Fugir, que uſa empre el Fuero Juzgo, y la
+Chrónica general, y aſsi otros muos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="358" y="1470"/>
+	<Point x="338" y="2867"/>
+	<Point x="367" y="2867"/>
+	<Point x="363" y="2884"/>
+	<Point x="386" y="2892"/>
+	<Point x="407" y="2867"/>
+	<Point x="842" y="2867"/>
+	<Point x="851" y="2884"/>
+	<Point x="864" y="2887"/>
+	<Point x="880" y="2866"/>
+	<Point x="1133" y="2866"/>
+	<Point x="1145" y="2805"/>
+	<Point x="2446" y="2811"/>
+	<Point x="2457" y="1444"/>
+	<Point x="1463" y="1447"/>
+	<Point x="1279" y="1452"/>
+	<Point x="1262" y="1446"/>
+	<Point x="1248" y="1453"/>
+	<Point x="1094" y="1457"/>
+	<Point x="1075" y="1450"/>
+	<Point x="1057" y="1458"/>
+	<Point x="815" y="1465"/>
+	<Point x="794" y="1457"/>
+	<Point x="744" y="1458"/>
+	<Point x="732" y="1451"/>
+	<Point x="721" y="1460"/>
+	<Point x="654" y="1461"/>
+	<Point x="633" y="1453"/>
+	<Point x="621" y="1462"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>32 Sea la quarta regla que debe el Etymológico obſervar el no atender
+à las terminaciones de las Voces, porque eas ſon propriedád eſpecíﬁca de
+cada Léngua: y eá tan lejos de que eas puedan dirigir à la raíz, que para
+inferirla ſe deben ſeparar, como que ciertamente ſon adiciones, con las qua-
+les convirtió en próprias palabras la Léngua viva, las Voces de otras Lén-
+guas. El exemplo eá claro en los advérbios de modo, los quales en nuero
+Idióma ſe acaban en mente: como Claramente, cuya terminación ſeparada,
+queda el advérbio Latino Clarè con poca, ò ninguna mudanza, y no puede
+haver duda de la raíz con ſola ea breve reﬂexión en ſemejantes advérbios,
+Confuſamente, Blandamente, Delicadamente, Dulcemente, y otros inﬁnitos.
+Y eo miſmo ſucederá en muos Nombres, como los ſubantivos acaba-
+dos en anza, Labranza de Labor. Y en los acabados en is Latino, que en nueſ-
+tro Idióma ſe termínan en la L, quitado el is: como Filial de Filialis, Pueril
+de Puerilis: y es cierto que  ſe recorrieran todas las terminaciones Latinas,
+y Eſpañolas, ſe pudieran dár unas reglas mui generales para ee conocimien-
+to; pero aqui ſe omíten, porque eas terminaciones ſon próprio objéto de la
+Gramática, y al Etymológico le baa ſaber que debe ſeparar la terminación,
+para deſcubrir mejor la raíz.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="353" y="2900"/>
+	<Point x="355" y="3429"/>
+	<Point x="403" y="3438"/>
+	<Point x="441" y="3448"/>
+	<Point x="482" y="3445"/>
+	<Point x="496" y="3429"/>
+	<Point x="560" y="3429"/>
+	<Point x="561" y="3368"/>
+	<Point x="2449" y="3373"/>
+	<Point x="2443" y="2864"/>
+	<Point x="1412" y="2868"/>
+	<Point x="1126" y="2876"/>
+	<Point x="1020" y="2878"/>
+	<Point x="1008" y="2897"/>
+	<Point x="982" y="2873"/>
+	<Point x="961" y="2897"/>
+	<Point x="800" y="2898"/>
+	<Point x="779" y="2877"/>
+	<Point x="752" y="2895"/>
+	<Point x="650" y="2899"/>
+	<Point x="626" y="2880"/>
+	<Point x="590" y="2899"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>33 La quinta regla debe ſer el conocimiento de que como las Lénguas
+vivas ſe nutren, convierten en própria ſubáncia ſu miſma ſubáncia, engen-
+drando nuevas Voces de ſus miſmas Voces. Eo ſe vé claro en los Nombres
+ſubantivos acabados en ento: como Conocimiento de Conocer, Entendimien-
+to de Entender, Ardimiento de Arder, y al contrário algunos Verbos que na-
+cen de Nombres: como Alumbrar dc Lumbre, Apear de Pee, Apeſgar de
+Peſga.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="358" y="3464"/>
+	<Point x="358" y="3522"/>
+	<Point x="357" y="3668"/>
+	<Point x="1268" y="3661"/>
+	<Point x="1287" y="3674"/>
+	<Point x="1300" y="3661"/>
+	<Point x="1435" y="3661"/>
+	<Point x="1455" y="3673"/>
+	<Point x="1477" y="3661"/>
+	<Point x="1495" y="3661"/>
+	<Point x="1519" y="3652"/>
+	<Point x="1536" y="3652"/>
+	<Point x="1599" y="3653"/>
+	<Point x="1611" y="3661"/>
+	<Point x="2037" y="3661"/>
+	<Point x="2053" y="3669"/>
+	<Point x="2071" y="3661"/>
+	<Point x="2277" y="3661"/>
+	<Point x="2287" y="3665"/>
+	<Point x="2303" y="3661"/>
+	<Point x="2454" y="3661"/>
+	<Point x="2452" y="3423"/>
+	<Point x="653" y="3418"/>
+	<Point x="588" y="3423"/>
+	<Point x="576" y="3456"/>
+	<Point x="533" y="3454"/>
+	<Point x="445" y="3458"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>34 La ſexta regla para los Nombres que vienen del Latin, es atender al
+plurál Eſpañól, y al acuſativo del plurál Latino. Son muiſsimos los que
+convienen en un todo: como Aras, Ricas, Luces, Vivas, Límites, Divinos, No-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="384" y="270"/>
+	<Point x="384" y="336"/>
+	<Point x="417" y="337"/>
+	<Point x="589" y="337"/>
+	<Point x="599" y="358"/>
+	<Point x="634" y="335"/>
+	<Point x="983" y="337"/>
+	<Point x="1000" y="350"/>
+	<Point x="1022" y="337"/>
+	<Point x="1189" y="336"/>
+	<Point x="1200" y="340"/>
+	<Point x="1212" y="336"/>
+	<Point x="1269" y="336"/>
+	<Point x="1279" y="348"/>
+	<Point x="1315" y="341"/>
+	<Point x="1332" y="336"/>
+	<Point x="1371" y="325"/>
+	<Point x="1766" y="335"/>
+	<Point x="1788" y="344"/>
+	<Point x="1806" y="332"/>
+	<Point x="2350" y="329"/>
+	<Point x="2364" y="340"/>
+	<Point x="2383" y="345"/>
+	<Point x="2409" y="343"/>
+	<Point x="2447" y="337"/>
+	<Point x="2442" y="257"/>
+	<Point x="802" y="261"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>convengan en la O, R, y A: Hĳo, que viene de Filius, y ſolo convienen en la F.</Unicode></TextEquiv></TextRegion></Page></PcGts>

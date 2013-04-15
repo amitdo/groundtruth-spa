@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442899">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:51:02</Created>
+	<LastChange>2012-03-12T14:12:34</LastChange></Metadata>
+	<Page imageFilename="00442899.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="442" y="68"/>
+	<Point x="895" y="74"/>
+	<Point x="1149" y="70"/>
+	<Point x="1154" y="151"/>
+	<Point x="776" y="148"/>
+	<Point x="582" y="160"/>
+	<Point x="569" y="160"/>
+	<Point x="558" y="162"/>
+	<Point x="516" y="168"/>
+	<Point x="444" y="152"/>
+	<Point x="442" y="135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="179" y="147"/>
+	<Point x="426" y="151"/>
+	<Point x="454" y="162"/>
+	<Point x="514" y="171"/>
+	<Point x="549" y="166"/>
+	<Point x="566" y="167"/>
+	<Point x="734" y="159"/>
+	<Point x="787" y="154"/>
+	<Point x="1124" y="156"/>
+	<Point x="1205" y="159"/>
+	<Point x="1265" y="162"/>
+	<Point x="1314" y="167"/>
+	<Point x="1330" y="171"/>
+	<Point x="1363" y="168"/>
+	<Point x="1411" y="190"/>
+	<Point x="1441" y="195"/>
+	<Point x="1402" y="2124"/>
+	<Point x="1306" y="2117"/>
+	<Point x="1146" y="2141"/>
+	<Point x="180" y="2124"/>
+	<Point x="157" y="2122"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>el qual faltando tu en el quedarà eno de malhe-
+hores, n temor de ſer caigados de ſus malas fe-
+chorias. O liberal ſobre todos los Alexandros,
+pues por ſolos ocho meſes de ſeruicio me te-
+nias dada la mejor inſula que el mar ciñe, y rodea!
+O humilde con los ſoberuios, y arrogan-
+te con los humildes, acometedor de peligros,
+ſufridor de afrentas, enamorado n cauſa, imi-
+tador de los buenos, açote de los malos, enemi-
+go de los ruynes: en ﬁn cauaero andante, que es
+todo lo que dezir ſe puede. Con las vozes, y gemi-
+dos de Sancho, reuiuio don Quixote y la primer
+palabra que dixo fue: El que de vos viue auſente.
+dulciſsima Dulzinea, a mayores miſerias que eas
+eá ſujeto, ayudame Sãcho amigo a ponerme ſo-
+bre el carro encantado,  ya no eoypara oprimir
+la a de Rozinãte, por tengo todo ee ombro
+hecho pedaços. Eo hare yo de muy buena gana,
+ſeñor mio, reſpõdio Sãcho, y boluamos a mi aldea
+en cõpañia deos ſeñores  ſu bien deean, y ai
+daremos ordẽ de hazer otra ſalida que nos ſea de
+mas prouecho, y fama. Bien dizes Sãcho, reſpõdio
+dõ Quixote, y ſera grã prudẽcia dexarpaar el mal
+inﬂuxo delas ereas  agora corre. El canonigo,
+y el cura, y barbero le dixeron que haria muy biẽ
+en hazer lo que dezia, y aſsi auiendo recebido grã
+de guo de las mplicidades de Sancho Pança, pu
+eron a don Quixote en el carro, como antes ve-
+nia. La proceſsion, boluio a ordenarſe, y a proſe-
+guir ſu camino. El cabrero ſe deſpidio đ todos: los
+quadrieros no quieron paar adelante, y el cu
+ra les pagó lo que ſe les deuia: el Canonigo pidio al</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1249" y="2137"/>
+	<Point x="1265" y="2135"/>
+	<Point x="1334" y="2126"/>
+	<Point x="1366" y="2134"/>
+	<Point x="1364" y="2189"/>
+	<Point x="1240" y="2180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cura</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="462" y="2297"/>
+	<Point x="1126" y="2304"/>
+	<Point x="1114" y="2364"/>
+	<Point x="452" y="2360"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1291" y="97"/>
+	<Point x="1302" y="159"/>
+	<Point x="1322" y="168"/>
+	<Point x="1400" y="161"/>
+	<Point x="1417" y="98"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>312</Unicode></TextEquiv></TextRegion></Page></PcGts>

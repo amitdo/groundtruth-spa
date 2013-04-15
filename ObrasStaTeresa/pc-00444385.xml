@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444385">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:03:19</Created>
+	<LastChange>2011-12-19T11:39:42</LastChange></Metadata>
+	<Page imageFilename="00444385.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="298" y="80"/>
+	<Point x="1529" y="97"/>
+	<Point x="1522" y="221"/>
+	<Point x="289" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="140" y="231"/>
+	<Point x="1022" y="232"/>
+	<Point x="1786" y="264"/>
+	<Point x="1765" y="2672"/>
+	<Point x="1501" y="2657"/>
+	<Point x="1463" y="2652"/>
+	<Point x="1376" y="2670"/>
+	<Point x="1315" y="2657"/>
+	<Point x="1249" y="2655"/>
+	<Point x="1137" y="2658"/>
+	<Point x="113" y="2702"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>monio que como me queria encerrar en ca-
+ſa tan erecha, y con tantas enfermedades,
+que como auia de poder ſuﬀrir tanta peni-
+tencia, y dexaua caſa tan grande y deley-
+toſa, y adonde tan contenta empre auia
+eado, y tantas amigas, que quiça las de
+aca no ſerian a mi guo, que me auia obli-
+gado a mucho, que quiça earia deſeſpera-
+da, y que por ventura auia pretendido eo
+el demonio, quitarme la paz y quietud, y
+que an no podria tener oracion, ean-
+do deſaoegada y perderia el alma. Coſas
+de ea hechura juntas me ponia delante
+que no era en mi mano penſar en otra co-
+ſa, y con eo vna afﬂicion y eſcuridad, y
+tinieblas en el alma, que yo no lo ſe encare-
+cer, de que me vi aſsi, fuyme a ver el ſan-
+tiſsimo. Sacramento, aunque encomendar-
+me a el no podia, pareceme eaua con vna
+congoxa como quien ea en agonia de muer
+te. Tratarlo con nay de no auia de oſar, por-
+que aun confeor no tenia ſeñalado. O vala
+me Dios y que vida ea tan miſerable, no ay
+contento ſeguro, ni coſa n mudança. Auia
+tan poquito que no me parece trocara mi
+contento con ninguno de la tierra, y la miſ-
+ma cauſa de el me atormentaua aora de tal</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1442" y="2663"/>
+	<Point x="1523" y="2663"/>
+	<Point x="1708" y="2673"/>
+	<Point x="1714" y="2774"/>
+	<Point x="1445" y="2771"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſuerte</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="598" y="3058"/>
+	<Point x="1587" y="3058"/>
+	<Point x="1587" y="3163"/>
+	<Point x="598" y="3163"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1554" y="122"/>
+	<Point x="1554" y="242"/>
+	<Point x="1737" y="242"/>
+	<Point x="1737" y="122"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>457</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1126" y="2662"/>
+	<Point x="1114" y="2701"/>
+	<Point x="1117" y="2777"/>
+	<Point x="1249" y="2777"/>
+	<Point x="1317" y="2778"/>
+	<Point x="1329" y="2758"/>
+	<Point x="1332" y="2743"/>
+	<Point x="1341" y="2736"/>
+	<Point x="1340" y="2717"/>
+	<Point x="1332" y="2682"/>
+	<Point x="1309" y="2662"/>
+	<Point x="1237" y="2658"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ff 5</Unicode></TextEquiv></TextRegion></Page></PcGts>

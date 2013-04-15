@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439979">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T22:49:07</Created>
+	<LastChange>2011-12-19T11:38:32</LastChange></Metadata>
+	<Page imageFilename="00439979.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="325" y="432"/>
+	<Point x="2278" y="432"/>
+	<Point x="2278" y="2111"/>
+	<Point x="325" y="2111"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>por ee motivo, y para mayor claridad, y
+buen methodo le hemos dividido en dos
+partes. La una ( de que ſe ha encargado
+Don Antonio de Uoa ) contiene la relacion del
+Viage, Mapas, Deſcripciones de Paìſes, y
+noticias de todo lo que ſe haa de particu‐
+lar en los Reynos del Perù por donde he‐
+mos trantado. La otra, que es la que com-
+prehende ee Volumen, ha corrido à mi
+cargo, y encierra todas las Obſervaciones
+Aronomicas, y Phicas, que executamos,
+yà para el ﬁn principal de nuero Viage, yà
+para otros, que ſe rviò ordenarnos en ſu
+Real Inrucion S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="324" y="2122"/>
+	<Point x="2285" y="2118"/>
+	<Point x="2332" y="3408"/>
+	<Point x="2151" y="3398"/>
+	<Point x="2140" y="3424"/>
+	<Point x="2113" y="3425"/>
+	<Point x="2082" y="3424"/>
+	<Point x="2048" y="3435"/>
+	<Point x="2025" y="3445"/>
+	<Point x="929" y="3548"/>
+	<Point x="814" y="3555"/>
+	<Point x="325" y="3557"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El principal ﬁn del Viage, fuè el averi‐
+guar el verdadero valor de un grado terreſ‐
+tre ſobre el Equador, para que cotejado èſ‐
+te con el que reſultae tener el grado, que
+havìan de medir los Aronomos, embia-
+dos para eo al Norte, ſe inﬁriee n duda,
+de uno, y otro, la ﬁgura de la Tierra, y de‐
+màs de ſu utilidad, ſe decidiee de una vez,
+con tan ilures experiencias, ea ruidoſa
+queion, que ha agitado à todos los Ma-
+thematicos, y aun à las Naciones enteras por
+ca un Siglo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="987" y="4006"/>
+	<Point x="1945" y="4006"/>
+	<Point x="1945" y="4092"/>
+	<Point x="987" y="4092"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="2094" y="3428"/>
+	<Point x="2093" y="3541"/>
+	<Point x="2267" y="3541"/>
+	<Point x="2267" y="3429"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pe-</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443971">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:42:42</Created>
+	<LastChange>2011-12-19T11:39:18</LastChange></Metadata>
+	<Page imageFilename="00443971.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="284" y="30"/>
+	<Point x="1468" y="30"/>
+	<Point x="1468" y="206"/>
+	<Point x="284" y="206"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1483" y="2562"/>
+	<Point x="1727" y="2562"/>
+	<Point x="1727" y="2767"/>
+	<Point x="1483" y="2767"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cap.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="601" y="2967"/>
+	<Point x="1615" y="2967"/>
+	<Point x="1615" y="3147"/>
+	<Point x="601" y="3147"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="159" y="224"/>
+	<Point x="637" y="214"/>
+	<Point x="1724" y="221"/>
+	<Point x="1743" y="2535"/>
+	<Point x="1435" y="2548"/>
+	<Point x="1370" y="2621"/>
+	<Point x="345" y="2631"/>
+	<Point x="304" y="2621"/>
+	<Point x="162" y="2616"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pues me yria derecha al cielo, que ee era mi
+deeo, y en ee mouimiento de tomar ee
+eado mas me parece me mouia vn temor
+ſeruil, que amor. Poniame el demonio  no
+podria ſuﬀrir los trabajos de la religion, por
+ſer tan regalada, a eo me defendia cõ los tra‐
+bajos  pao Chrio,  no era mucho yo paſ-
+ſae algunos por el,  el me ayudaria a euar
+los, deuia pẽſar, (  eo porero no me acuer
+do ) pae hartas tẽtaciones eos dias. A uiã me
+dado cõ vnas calenturas vnos gandes deſma-
+yos,  empre tenia bien poca ſalud. Dio me
+la vida auer quedado ya amiga de buenos li‐
+bros, leya en las epiolas de Sant Hierony-
+mo, que me animauan de ſuerte que me de‐
+termine a dezirlo ami padre, que ca era co‐
+mo tomar el habito, porque era tan honro‐
+ſa que me parece, no tornara atras por nin‑
+guna manera auiendolo dicho vna vez: era
+tanto lo  me queria  en ninguna manera
+lo pude acabar con el, ni baaron ruegos
+de perſonas que procure le hablaen. Lo
+que mas ſepudo acabar fue que deſpues de
+ſus dias haria lo que quiee. Yo ya me te‐
+mia a mi y ami ﬂaza no tornae atras, y an‑
+ no me parecio me conuenia eo, yprocu
+relo por otra via como agora dire.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1544" y="76"/>
+	<Point x="1544" y="202"/>
+	<Point x="1690" y="202"/>
+	<Point x="1690" y="76"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>43</Unicode></TextEquiv></TextRegion></Page></PcGts>

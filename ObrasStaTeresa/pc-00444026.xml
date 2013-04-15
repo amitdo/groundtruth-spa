@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444026">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T19:19:19</Created>
+	<LastChange>2011-12-19T11:39:21</LastChange></Metadata>
+	<Page imageFilename="00444026.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="464" y="209"/>
+	<Point x="2047" y="209"/>
+	<Point x="2050" y="2607"/>
+	<Point x="1770" y="2605"/>
+	<Point x="1740" y="2645"/>
+	<Point x="464" y="2647"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bien que tiene quien ſe exercita en oracion
+ay muchos ſanos y buenos que lo han ſcri-
+to, digo oracion mental, gloria ſea a Dios por
+eo: y quando no fuera eo, aunque ſoy poco
+humilde, no tan ſoberuia, que en eo oſara
+hablar: de lo que yo tengo eſperiencia puedo
+dezir, y es, que por males que haga quien la
+ha comẽçado no ladexe, pues es el medio por
+donde puede tornarſe a remediar, y n ea ſe
+ra muy mas difﬁcultoſo, y no le tiente el de
+monio por la manera que a mi, a dexarla por
+humildad, crea que no pueden faltar ſus pala
+bras que en arrepintiendo nos de veras, y de‐
+terminandoſe a no le oﬀender, ſe torna a la
+amiad que eaua, y a hazer las mercedes, 
+antes hazia, y a las vezes mucho mas,  el ar-
+repẽtimiento lo merece: y quien no la ha co‐
+mençado por amor del Señor le ruego yo, no
+carezca de tanto bien. No ay aqui que temer,
+no que deear, por quando no fuere ade-
+lãte y ſe esforçare a ſer perfeo,  merezca
+los guos y regalos que a eos da Dios, a po
+co ganar yra entendiendo el camino para el
+cielo, y  perſeuera eſpero yo en la miſeri‐
+cordia de Dios que nadie le tomo por ami‐
+go, que no ſe lo pagae, porque no es otra
+coſa oracion mental a mi parecer no tratar</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1897" y="2617"/>
+	<Point x="2002" y="2617"/>
+	<Point x="2002" y="2710"/>
+	<Point x="1897" y="2710"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="617" y="3060"/>
+	<Point x="1575" y="3060"/>
+	<Point x="1575" y="3150"/>
+	<Point x="617" y="3150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="916" y="88"/>
+	<Point x="1605" y="88"/>
+	<Point x="1605" y="202"/>
+	<Point x="916" y="202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="466" y="88"/>
+	<Point x="612" y="88"/>
+	<Point x="612" y="202"/>
+	<Point x="466" y="202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>98</Unicode></TextEquiv></TextRegion></Page></PcGts>

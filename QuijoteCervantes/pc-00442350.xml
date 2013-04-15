@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442350">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T04:10:27</Created>
+	<LastChange>2012-03-12T14:11:53</LastChange></Metadata>
+	<Page imageFilename="00442350.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="497" y="70"/>
+	<Point x="1160" y="69"/>
+	<Point x="1170" y="157"/>
+	<Point x="884" y="170"/>
+	<Point x="779" y="182"/>
+	<Point x="681" y="170"/>
+	<Point x="599" y="183"/>
+	<Point x="481" y="178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Segunda parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="157" y="180"/>
+	<Point x="582" y="193"/>
+	<Point x="682" y="182"/>
+	<Point x="766" y="187"/>
+	<Point x="780" y="186"/>
+	<Point x="890" y="179"/>
+	<Point x="1150" y="170"/>
+	<Point x="1471" y="173"/>
+	<Point x="1459" y="2052"/>
+	<Point x="752" y="2054"/>
+	<Point x="190" y="2035"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que como yo no ſe leer, ni eſcreuir, como otra vez
+he dicho, no ſe ni he caydo en las reglas de la profeſ
+on cauaereſca, y de aqui adelante yo proueere
+las alforjas de todo genero de fruta ſeca para vueſ-
+tra merced, que es cauaero, y para mi las proueere
+pues no lo ſoy, de otras coſas bolatiles, y demas ſuſ-
+tancia. No digo yo, Sancho, replicò don Quixote,
+que ſea forçoſo a los cauaeros andantes, no comer
+otra coſa no eas frutas que dizes, no que ſu mas
+ordinario ſuento deuia de ſer deas, y de algunas
+yeruas que haauan por los campos, que eos co-
+nocian, y yo tambien conozco. Virtud es, reſpon-
+dio Sancho, conocer eas yeruas, que ſegun yo me
+voy imaginando, algun dia ſerâ meneervſar de eſ-
+ſe conocimiento. Y ſacãdo en eo, lo que dixo que
+trahia, comieron los dos en buena paz, y compaña.
+Pero deeoſos de buſcar donde alojar aquea no-
+che, acabaron con mucha breuedad ſu pobre, y ſeca
+comida. Subieron luego a cauao, y dieronſe prieſ-
+ſa por egar a poblado antes que anocheciee: pe-
+ro faltoles el ſol, y la eſperança de alcançar lo que
+deeuan, junto a vnas choças de vnos cabreros, y aſ
+ determinaron de paarla ai: que quanto fue de
+peſadumbre para Sancho no egar a poblado, fue
+de contento para ſu amo, dormirla al cielo deſcu-
+bierto, por parecerle que cada vez que eo le ſu-
+cedia era hazer vn ao poeſsiuo
+que facilitaua la prueua de
+ſu cauaeria.
+(?)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="433" y="2304"/>
+	<Point x="1123" y="2295"/>
+	<Point x="1145" y="2380"/>
+	<Point x="450" y="2384"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1300" y="2138"/>
+	<Point x="1300" y="2240"/>
+	<Point x="1457" y="2240"/>
+	<Point x="1457" y="2138"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cap-</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441730">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T09:39:38</Created>
+	<LastChange>2011-07-05T14:26:23</LastChange></Metadata>
+	<Page imageFilename="00441730.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r5" index="0"/>
+	<RegionRefIndexed regionRef="r27" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="780" y="171"/>
+	<Point x="1404" y="171"/>
+	<Point x="1404" y="254"/>
+	<Point x="780" y="254"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>POLYMNlA,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="credit">
+	<Coords>
+	<Point x="685" y="3134"/>
+	<Point x="1478" y="3134"/>
+	<Point x="1478" y="3202"/>
+	<Point x="685" y="3202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="433" y="269"/>
+	<Point x="1771" y="269"/>
+	<Point x="1771" y="2961"/>
+	<Point x="433" y="2961"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La enfermedad antigua,
+Que a todos los peccados
+Adelantò en el Cielo ſu malicia,
+En la parte mejor de ſu milicia.
+Invidia n color, i n conſuelo,
+Mancha primera, que borrò la vida
+A la innocencia humana;
+De la quietud, i la verdad tyrana:
+Furor envegecido,
+De el bien ageno por ſu mal nacido;
+Veneno de los glos,  ſe advierte,
+I miſerable cauſa de la Muerte.
+Ee furor eterno
+Con afrenta de el Sol poblò el inﬁerno,
+I debe a ſus intentos ciegos, vanos,
+La Deſeſperacion ſus ciudadanos.
+Ea previno avara
+Al hombre las eſpinas en la tierra;
+I el pan, que le mantiene en ea guerra,
+Con ſudor de ſus manos, i ſu cara.
+Fue motin porﬁado
+En la progenie de Abraham eterna,
+Contra el padre de el Pueblo endurecido,
+Que dio por eos el porer gemido.
+La Invidia no combate
+Los muros de la tierra, i mortal vida,
+Si bien la ſalud propria combatida
+Dexa tambien; ſolo pretende palma
+De batir los alcaçares del' Alma:
+I antes que las entrañas
+Sientan ſu artieria,
+Apriſsiona el diſcurſo,  porﬁa.
+Las diantes anuras de la Tierra
+A dos hermanos fueron
+Angoo eſpacio para mucha guerra.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="page-number">
+	<Coords>
+	<Point x="201" y="166"/>
+	<Point x="201" y="266"/>
+	<Point x="377" y="266"/>
+	<Point x="377" y="166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>134</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="catch-word">
+	<Coords>
+	<Point x="1819" y="2912"/>
+	<Point x="1819" y="3019"/>
+	<Point x="1992" y="3019"/>
+	<Point x="1992" y="2912"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I al</Unicode></TextEquiv></TextRegion></Page></PcGts>

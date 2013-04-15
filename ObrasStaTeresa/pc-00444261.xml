@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444261">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:17:57</Created>
+	<LastChange>2011-12-19T11:39:34</LastChange></Metadata>
+	<Page imageFilename="00444261.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="331" y="120"/>
+	<Point x="1465" y="120"/>
+	<Point x="1463" y="217"/>
+	<Point x="317" y="222"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="119" y="250"/>
+	<Point x="372" y="246"/>
+	<Point x="1729" y="252"/>
+	<Point x="1786" y="2645"/>
+	<Point x="135" y="2688"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>me dixee el confeor ſe me antojaua. Y tam
+bien deſpues de paada me acaecia, (eo era
+luego luego) penſar yo tambien en eo, que
+ſe me auia antojado, y fatigame de auerlo di-
+cho al confeor, penſando  le auia engaña-
+do, ee era otro anto, y yua a el, y deziaſelo,
+preguntauame que  me parecia a mi an, o
+ auia querido engañar: yo le dezia la verdad,
+porque a mi parecer no mẽtia, ni tal auia pre-
+tendido, ni por coſa del mundo dixera vna
+coſa por otra, eo bien lo ſabia el, y an pro-
+curaua ſoegarme, y yo ſentia tanto en yrle
+con eas coſas, que no ſe como el demonio
+me ponia, lo auia de ﬁngir para atormentar-
+me a mi meſma. Mas el Señor ſe dio tãta prieſ
+ſa a hazerme ea merced, y declarar ea ver-
+dad, que bien preo ſe me quito la duda, de 
+era antojo: y deſpues veo muy claro mi bo-
+ueria. Porque  euuiera muchos años ima-
+ginando como ﬁgurar coſa tan hermoſa no
+pudiera, ni ſupiera, porque excede a todo lo
+que aca ſe puede imaginar, aun ſola la blan-
+cura y reſplandor. No es reſplandor que deſ-
+lumbre, no vna blancura ſuaue. Y el reſplan
+dor infuſo, que da deleyte grandiſsimo a la
+via, y no la canſa, ni la claridad que ſe vee,
+para ver ea hermoſura tã diuina. Es vna luz</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1586" y="2666"/>
+	<Point x="1722" y="2668"/>
+	<Point x="1730" y="2732"/>
+	<Point x="1587" y="2736"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tan</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="619" y="3068"/>
+	<Point x="1572" y="3069"/>
+	<Point x="1567" y="3151"/>
+	<Point x="623" y="3154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1560" y="141"/>
+	<Point x="1560" y="236"/>
+	<Point x="1710" y="236"/>
+	<Point x="1710" y="141"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>333</Unicode></TextEquiv></TextRegion></Page></PcGts>

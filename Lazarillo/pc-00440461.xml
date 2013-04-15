@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440461">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T09:43:05</Created>
+	<LastChange>2011-07-05T14:26:01</LastChange></Metadata>
+	<Page imageFilename="00440461.tif" imageWidth="880" imageHeight="1599">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r5" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="header">
+	<Coords>
+	<Point x="25" y="8"/>
+	<Point x="672" y="8"/>
+	<Point x="668" y="68"/>
+	<Point x="27" y="84"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LAZAR. DE TORM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="690" y="11"/>
+	<Point x="758" y="11"/>
+	<Point x="758" y="76"/>
+	<Point x="690" y="76"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>7</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="19" y="100"/>
+	<Point x="589" y="79"/>
+	<Point x="654" y="75"/>
+	<Point x="778" y="87"/>
+	<Point x="778" y="1487"/>
+	<Point x="662" y="1490"/>
+	<Point x="549" y="1489"/>
+	<Point x="515" y="1500"/>
+	<Point x="462" y="1497"/>
+	<Point x="363" y="1510"/>
+	<Point x="312" y="1509"/>
+	<Point x="163" y="1511"/>
+	<Point x="21" y="1502"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>rae por mi, pues era huerfano.
+El le reſpondio que aſ lo haria, y
+que me recibia no por moço, no
+por hijo. Y ai començe a ſeruir,
+y aderar a mi nueuo, y viejo a-
+mo. Euuimos en Salamanca al-
+gunos dias donde pareciendole
+que no era la ganancia ſegun ſu
+deſeo, determino yrſe de ai. Y
+quando vuimos de partir, fuy a
+ver a mi madre, que orando con
+mi me dio ſu bendicion, y dixo:
+Hijo, ya ſe que no te vere mas, pro-
+cura ſer bueno, y Dios te guie,
+criado tehe, y con buen amo te
+he pueo, vale te por ti, y ai me
+fuy adonde mi amo eſperando
+me eaua. Salimos de Salaman-
+ca: a la entrada de cuya puente,
+ea vn animal de piedra que ca
+tiene forma de toro, mandome
+el ciego egae cerca del, y ha-
+ziendo lo, me dixo: Lazaro, eſcu-
+cha, y oyras gran ruydo dentro</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="259" y="1556"/>
+	<Point x="572" y="1560"/>
+	<Point x="572" y="1581"/>
+	<Point x="259" y="1581"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="444" y="1510"/>
+	<Point x="473" y="1503"/>
+	<Point x="629" y="1506"/>
+	<Point x="617" y="1555"/>
+	<Point x="444" y="1551"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A iiij</Unicode></TextEquiv></TextRegion></Page></PcGts>

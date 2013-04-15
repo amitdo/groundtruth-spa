@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00437861">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T16:24:32</Created>
+	<LastChange>2011-12-19T11:36:51</LastChange></Metadata>
+	<Page imageFilename="00437861.tif" imageWidth="2124" imageHeight="3165">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r14" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r15" index="8"/>
+	<RegionRefIndexed regionRef="r11" index="9"/>
+	<RegionRefIndexed regionRef="r12" index="10"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="599" y="28"/>
+	<Point x="1471" y="30"/>
+	<Point x="1485" y="133"/>
+	<Point x="914" y="136"/>
+	<Point x="596" y="130"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De Don Pedro Calderon.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="20" y="683"/>
+	<Point x="852" y="678"/>
+	<Point x="853" y="792"/>
+	<Point x="534" y="799"/>
+	<Point x="489" y="808"/>
+	<Point x="427" y="799"/>
+	<Point x="135" y="789"/>
+	<Point x="14" y="796"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tocan al arma, y ſale Seginundo, con
+toda la compañia</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="13" y="801"/>
+	<Point x="129" y="798"/>
+	<Point x="432" y="805"/>
+	<Point x="485" y="813"/>
+	<Point x="537" y="802"/>
+	<Point x="810" y="808"/>
+	<Point x="821" y="1042"/>
+	<Point x="810" y="1150"/>
+	<Point x="552" y="1146"/>
+	<Point x="458" y="1157"/>
+	<Point x="356" y="1146"/>
+	<Point x="27" y="1147"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Seg. En lo intrincado del monte,
+entre ſus eſpeſas ramas
+el Rey ſe eſconde, ſeguidle,
+no quede en ſus cumbres planta,
+que no examine el cuidado,
+tronco à tronco, y rama à rama.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="20" y="1151"/>
+	<Point x="351" y="1150"/>
+	<Point x="462" y="1163"/>
+	<Point x="540" y="1152"/>
+	<Point x="740" y="1156"/>
+	<Point x="746" y="1212"/>
+	<Point x="660" y="1222"/>
+	<Point x="509" y="1218"/>
+	<Point x="464" y="1218"/>
+	<Point x="421" y="1208"/>
+	<Point x="252" y="1208"/>
+	<Point x="213" y="1213"/>
+	<Point x="196" y="1212"/>
+	<Point x="118" y="1202"/>
+	<Point x="20" y="1208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Clot. Huye, ſeñor. Ba. Para què?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="19" y="1213"/>
+	<Point x="105" y="1207"/>
+	<Point x="144" y="1208"/>
+	<Point x="206" y="1217"/>
+	<Point x="258" y="1211"/>
+	<Point x="455" y="1221"/>
+	<Point x="459" y="1263"/>
+	<Point x="400" y="1264"/>
+	<Point x="260" y="1266"/>
+	<Point x="168" y="1269"/>
+	<Point x="57" y="1270"/>
+	<Point x="21" y="1265"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aol. Què intentas?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="11" y="1272"/>
+	<Point x="88" y="1277"/>
+	<Point x="154" y="1272"/>
+	<Point x="371" y="1269"/>
+	<Point x="638" y="1267"/>
+	<Point x="868" y="1267"/>
+	<Point x="860" y="1325"/>
+	<Point x="710" y="1341"/>
+	<Point x="446" y="1327"/>
+	<Point x="349" y="1332"/>
+	<Point x="193" y="1326"/>
+	<Point x="21" y="1323"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ba. Aolfo, aparta. Clo. Què quieres?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1070" y="150"/>
+	<Point x="1209" y="146"/>
+	<Point x="1440" y="147"/>
+	<Point x="1850" y="131"/>
+	<Point x="1870" y="3020"/>
+	<Point x="1718" y="3028"/>
+	<Point x="1638" y="3054"/>
+	<Point x="1596" y="3064"/>
+	<Point x="1484" y="3073"/>
+	<Point x="1100" y="3071"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>por eſcuſarſe à la ſaña
+de mi condicion, me hizo
+vn bruto, vna ﬁera humana:
+de ſuerte, que quando yo,
+por mi nobleza gaarda,
+por mi ſangre generoſa,
+por mi condicion bizarra
+huviera nacido docil,
+y humilde, ſolo baara
+tal genero de vivir,
+tal linage de criança,
+à hazer ﬁeras mis coumbres,
+què buen modo de eor varlas!
+Si à qualquier hombre dixeen:
+alguna ﬁera inhumana
+te darà muerte, eſcogiera
+buen remedio en deſpertarlas,
+quando euvieen durmiendo?
+Si dixeran: ea eſpadà,
+que traes ceñida, ha de ſer
+quien te dè la muerte, vana
+diligencia de evitarlo
+fuera entonces deſnudarla,
+y ponerſela à los pechos.
+Si dixeen: golfos de agua
+han de ſer tu ſepultura
+en monumentos de plata,
+mal hiziera en darſe al Mar,
+quando ſobervio levanta
+rizàdos montes de nieve,
+de crial creſpas montañas.
+Lo miſmo le ha ſucedido,
+que à quien porque le amenaza
+vna ﬁera, la deſpierta,
+que à quiẽ, temiẽdo vna eſpada,
+la deſnuda, y que à quien mueve
+las ondas de vna borraſca;
+y quando fuera (eſcuchadme)
+dormida ﬁera mi ſaña,
+templada eſpada mi furia,
+mi rigor quieta bonança,
+la fortuna no ſe vence
+con injuicia, y vengança,
+porque antes ſe incita mas;
+y aſsi, quien vencer aguarda
+à ſu fortuna, ha de ſer
+con cordura, y con templança:
+no antes de venir el daño,
+ſe reſerva, niſe guarda</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="catch-word">
+	<Coords>
+	<Point x="1712" y="3055"/>
+	<Point x="1851" y="3051"/>
+	<Point x="1857" y="3127"/>
+	<Point x="1713" y="3130"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>quien</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="credit">
+	<Coords>
+	<Point x="797" y="3102"/>
+	<Point x="1443" y="3104"/>
+	<Point x="1435" y="3164"/>
+	<Point x="796" y="3164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="14" y="382"/>
+	<Point x="12" y="628"/>
+	<Point x="110" y="638"/>
+	<Point x="812" y="628"/>
+	<Point x="818" y="392"/>
+	<Point x="470" y="402"/>
+	<Point x="406" y="398"/>
+	<Point x="376" y="394"/>
+	<Point x="168" y="391"/>
+	<Point x="146" y="401"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ba. Si eà de Dios que yo muera,
+ò  la muerte me aguarda
+aqui, oy la quiero buſcar,
+eſperando cara à cara.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="16" y="2146"/>
+	<Point x="20" y="3087"/>
+	<Point x="825" y="3087"/>
+	<Point x="825" y="2151"/>
+	<Point x="676" y="2156"/>
+	<Point x="571" y="2145"/>
+	<Point x="523" y="2158"/>
+	<Point x="470" y="2151"/>
+	<Point x="398" y="2150"/>
+	<Point x="235" y="2147"/>
+	<Point x="189" y="2159"/>
+	<Point x="166" y="2148"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Seg. Corte ilure de Polonia,
+que de admiraciones tantas
+ſois teigos, atended,
+que vuero Principe os habla.
+Lo que ea determinado
+del Cielo, y en azul tabla
+Dios con el dedo eſcriviò,
+de quien ſon cifras, y eampas
+tantos papeles azules,
+que adornan letras doradas,
+nunca engañan, nunca mienten,
+porque quien miente, y engaña,
+es quien para vſar mal deas,
+las penetra, y las alcança.
+Mi padre, que eà preſente,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="5" y="1327"/>
+	<Point x="178" y="1330"/>
+	<Point x="331" y="1334"/>
+	<Point x="447" y="1332"/>
+	<Point x="726" y="1350"/>
+	<Point x="824" y="1339"/>
+	<Point x="820" y="2138"/>
+	<Point x="682" y="2150"/>
+	<Point x="565" y="2143"/>
+	<Point x="523" y="2156"/>
+	<Point x="461" y="2147"/>
+	<Point x="404" y="2146"/>
+	<Point x="231" y="2143"/>
+	<Point x="191" y="2154"/>
+	<Point x="171" y="2144"/>
+	<Point x="17" y="2138"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ba. Hazer, Clotaldo,
+vn remedio que me falta:
+ à mi buſcandome vàs,
+ya eoy, Principe, à tus plantas,
+ſea deas blanca alfombra
+ea nieve de mis canas:
+piſa mi cerviz, y huea
+mi Corona; pora, arrara
+mi decoro, y mi reſpeto,
+toma de mi honor vengança,
+rvete de mi cautivo;
+y tras prevenciones tantas,
+cumpla el hado ſu omenage,
+cumpla el Cielo ſu palabra.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="22" y="144"/>
+	<Point x="786" y="156"/>
+	<Point x="790" y="382"/>
+	<Point x="469" y="398"/>
+	<Point x="415" y="393"/>
+	<Point x="387" y="389"/>
+	<Point x="172" y="387"/>
+	<Point x="162" y="391"/>
+	<Point x="146" y="399"/>
+	<Point x="120" y="394"/>
+	<Point x="22" y="377"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de ee monte eà vn cavao,
+veloz aborto del Aura,
+huye en èl, que yo entre tanto
+te guardarè las eſpaldas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

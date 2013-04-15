@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485497">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T23:36:49</Created>
+	<LastChange>2011-07-28T11:27:43</LastChange></Metadata>
+	<Page imageFilename="00485497.tif" imageWidth="2105" imageHeight="3042">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="566" y="46"/>
+	<Point x="601" y="23"/>
+	<Point x="1507" y="8"/>
+	<Point x="1503" y="143"/>
+	<Point x="1406" y="145"/>
+	<Point x="1366" y="121"/>
+	<Point x="1168" y="118"/>
+	<Point x="1165" y="143"/>
+	<Point x="1083" y="139"/>
+	<Point x="1069" y="122"/>
+	<Point x="541" y="123"/>
+	<Point x="545" y="98"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comedia de Lope de Vega.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="89" y="134"/>
+	<Point x="828" y="131"/>
+	<Point x="1051" y="140"/>
+	<Point x="1056" y="159"/>
+	<Point x="1178" y="166"/>
+	<Point x="1607" y="159"/>
+	<Point x="1610" y="2701"/>
+	<Point x="843" y="2707"/>
+	<Point x="131" y="2703"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Belardo. En efeo
+como te digo ſoy vn Cauaero
+vn hombre ſoy a bien querer ſujeto,
+ſoy de Leon adonde ame primero
+la miſma hĳa del Rey que no la amara:
+pues deſde entonces deerrado muero,
+coome mucho al ﬁn coome cara
+y quando yo penſe que mi eſperança
+la merecida poeſsion gozara,
+mudoſe el tiempo y buelta la mudança
+del amoroſo goço la tormenta
+rompio las belas de mi conﬁança,
+con el Rey de Leon por cierta afrenta,
+el de Nauarra, a fuego, y ſangre guerra,
+y que ea ocaon vengar ya intenta
+vn hĳo dee Rey ſupo en ſu tierra
+la hermoſura dea vea infanta,
+o quantos daños, el amor encierra
+crecio el amor, y la paſsion fue tanta
+que ſe vino a Leon en pobre traje
+vino ſecreto en el coſa que eſpanta
+dizen que el tiempo y vn diſcreto paje
+le fue tan buen tercero que muy breue,
+ſupo ſu amor, ſus prendas, y linaje
+y aſsi ſecreto en vn jardin ſe a treue
+a entrar a hablarla con ear guardado
+del propio viento que las hojas mueue</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="743" y="2951"/>
+	<Point x="1489" y="2955"/>
+	<Point x="1487" y="3010"/>
+	<Point x="1320" y="3007"/>
+	<Point x="747" y="3006"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1660" y="33"/>
+	<Point x="1660" y="133"/>
+	<Point x="1800" y="133"/>
+	<Point x="1800" y="33"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>15</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1635" y="2688"/>
+	<Point x="1635" y="2770"/>
+	<Point x="1796" y="2770"/>
+	<Point x="1796" y="2688"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no ſe</Unicode></TextEquiv></TextRegion></Page></PcGts>

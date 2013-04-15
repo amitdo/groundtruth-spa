@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442024">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T23:33:13</Created>
+	<LastChange>2011-07-05T14:26:46</LastChange></Metadata>
+	<Page imageFilename="00442024.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r11" index="2"/>
+	<RegionRefIndexed regionRef="r10" index="3"/>
+	<RegionRefIndexed regionRef="r17" index="4"/>
+	<RegionRefIndexed regionRef="r21" index="5"/>
+	<RegionRefIndexed regionRef="r25" index="6"/>
+	<RegionRefIndexed regionRef="r27" index="7"/>
+	<RegionRefIndexed regionRef="r13" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="870" y="195"/>
+	<Point x="1332" y="190"/>
+	<Point x="1337" y="281"/>
+	<Point x="866" y="278"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THALIA,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="259" y="311"/>
+	<Point x="1994" y="282"/>
+	<Point x="1994" y="647"/>
+	<Point x="251" y="640"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Enſeña, que las Dignidades, i Pueos altos, ſe
+ſuelen occupar de ſugetos indignos, i
+ignorantes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="435" y="689"/>
+	<Point x="1820" y="669"/>
+	<Point x="1821" y="1305"/>
+	<Point x="1058" y="1303"/>
+	<Point x="1059" y="1365"/>
+	<Point x="439" y="1372"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Para innuar ee penſamiento, un hombre de buen
+guo hiço una Pintura de la Rueda de la For-
+tuna, en donde el que eaba abaxo, era todo
+hombre, el que iba ſubiendo ſe iba convirtié-
+do en borrico, el que eaba encima lo era en-
+teramente, i el que iba baxando, ſe iba
+igualmente de borrico volviendo en hombre.
+I eaban a los lados el Tiempo, i la Fortu-
+na. I el argumento miſmo de ea Pintura, es
+el de ee Soneto.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="707" y="3125"/>
+	<Point x="1464" y="3127"/>
+	<Point x="1465" y="3201"/>
+	<Point x="705" y="3193"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="245" y="212"/>
+	<Point x="248" y="302"/>
+	<Point x="417" y="295"/>
+	<Point x="419" y="215"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>440</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r9" type="other">
+	<Coords>
+	<Point x="1933" y="1400"/>
+	<Point x="1933" y="1526"/>
+	<Point x="2038" y="1526"/>
+	<Point x="2038" y="1400"/></Coords></GraphicRegion>
+	<TextRegion id="r10" type="drop-capital">
+	<Coords>
+	<Point x="342" y="1445"/>
+	<Point x="342" y="1652"/>
+	<Point x="566" y="1646"/>
+	<Point x="563" y="1601"/>
+	<Point x="525" y="1605"/>
+	<Point x="517" y="1445"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>R</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="212" y="1451"/>
+	<Point x="219" y="1571"/>
+	<Point x="333" y="1574"/>
+	<Point x="334" y="1459"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="signature-mark">
+	<Coords>
+	<Point x="185" y="2885"/>
+	<Point x="185" y="3066"/>
+	<Point x="350" y="3066"/>
+	<Point x="350" y="2885"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Es</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="catch-word">
+	<Coords>
+	<Point x="1708" y="2879"/>
+	<Point x="1704" y="2971"/>
+	<Point x="1893" y="2975"/>
+	<Point x="1899" y="2880"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Diﬀer</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1903" y="1436"/>
+	<Point x="1911" y="1846"/>
+	<Point x="1485" y="1838"/>
+	<Point x="1458" y="1862"/>
+	<Point x="1440" y="1856"/>
+	<Point x="1447" y="1837"/>
+	<Point x="1380" y="1835"/>
+	<Point x="1379" y="1860"/>
+	<Point x="1317" y="1856"/>
+	<Point x="1318" y="1835"/>
+	<Point x="1086" y="1835"/>
+	<Point x="1074" y="1856"/>
+	<Point x="1047" y="1856"/>
+	<Point x="1045" y="1834"/>
+	<Point x="761" y="1848"/>
+	<Point x="449" y="1843"/>
+	<Point x="451" y="1661"/>
+	<Point x="588" y="1664"/>
+	<Point x="605" y="1559"/>
+	<Point x="550" y="1561"/>
+	<Point x="552" y="1561"/>
+	<Point x="542" y="1421"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eete a la Rueda, que procura
+Subas adonde el verte eſcandalice:
+Attiende al jò, que la humildad te dice,
+No al harre, en que te aguija la locura.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1841" y="1855"/>
+	<Point x="1836" y="2250"/>
+	<Point x="1528" y="2248"/>
+	<Point x="1510" y="2269"/>
+	<Point x="1489" y="2267"/>
+	<Point x="1489" y="2247"/>
+	<Point x="927" y="2245"/>
+	<Point x="903" y="2265"/>
+	<Point x="877" y="2263"/>
+	<Point x="885" y="2243"/>
+	<Point x="453" y="2253"/>
+	<Point x="442" y="1984"/>
+	<Point x="361" y="1967"/>
+	<Point x="354" y="1862"/>
+	<Point x="570" y="1856"/>
+	<Point x="775" y="1875"/>
+	<Point x="773" y="1853"/>
+	<Point x="1010" y="1846"/>
+	<Point x="1023" y="1862"/>
+	<Point x="1086" y="1860"/>
+	<Point x="1096" y="1843"/>
+	<Point x="1301" y="1849"/>
+	<Point x="1306" y="1870"/>
+	<Point x="1388" y="1870"/>
+	<Point x="1475" y="1874"/>
+	<Point x="1487" y="1848"/>
+	<Point x="1559" y="1854"/>
+	<Point x="1559" y="1853"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Caminas a la albarda, i matadura,
+Si no Luz Racional lo contradice;
+I para que el rebuzno te auorice.
+Con la oreja anina ſe conjura.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="351" y="2575"/>
+	<Point x="1072" y="2573"/>
+	<Point x="1083" y="2595"/>
+	<Point x="1214" y="2592"/>
+	<Point x="1227" y="2574"/>
+	<Point x="1793" y="2568"/>
+	<Point x="1912" y="2567"/>
+	<Point x="1916" y="2867"/>
+	<Point x="1696" y="2869"/>
+	<Point x="1686" y="2891"/>
+	<Point x="456" y="2907"/>
+	<Point x="449" y="2685"/>
+	<Point x="353" y="2676"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Beia con tigo ( ſeas quien fueres ) hablo.
+Crecer en cola, i no en Philoſophia,
+ﬁgurar Salon, el que es eablo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="355" y="2263"/>
+	<Point x="868" y="2254"/>
+	<Point x="874" y="2265"/>
+	<Point x="908" y="2268"/>
+	<Point x="927" y="2251"/>
+	<Point x="1470" y="2255"/>
+	<Point x="1481" y="2275"/>
+	<Point x="1884" y="2294"/>
+	<Point x="1887" y="2562"/>
+	<Point x="1155" y="2564"/>
+	<Point x="1140" y="2585"/>
+	<Point x="1103" y="2585"/>
+	<Point x="1092" y="2561"/>
+	<Point x="454" y="2566"/>
+	<Point x="449" y="2382"/>
+	<Point x="355" y="2382"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El Viejo cogitranco cada dia
+Te penſarà, i a eotra hija de el diablo
+Ia la tendras cargada, ia vacia,</Unicode></TextEquiv></TextRegion></Page></PcGts>

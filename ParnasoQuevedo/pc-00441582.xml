@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441582">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T22:06:49</Created>
+	<LastChange>2011-07-05T14:26:07</LastChange></Metadata>
+	<Page imageFilename="00441582.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="269" y="1059"/>
+	<Point x="270" y="1753"/>
+	<Point x="1909" y="1753"/>
+	<Point x="1909" y="1059"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quocirca BIIVGAM Ingeniorum iam RVPEM
+ſenticosâ aſperitudine protulimus, ſcandi
+haut proclivem. Atenim,  Eruditi ad-
+levant Principes, Optimates; ecce ſcan-
+les, inar graduum, ſcopuli. aliter, 
+ineruditi,  imbeneﬁci: næ &amp; ii ſcopu-
+li ſunt, &amp; obunt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="704" y="3126"/>
+	<Point x="704" y="3192"/>
+	<Point x="1305" y="3201"/>
+	<Point x="1463" y="3192"/>
+	<Point x="1463" y="3126"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="539" y="821"/>
+	<Point x="1639" y="821"/>
+	<Point x="1639" y="917"/>
+	<Point x="1487" y="917"/>
+	<Point x="1487" y="1012"/>
+	<Point x="658" y="1012"/>
+	<Point x="658" y="917"/>
+	<Point x="539" y="917"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SYMMACHIANVS AFER
+ADVERSVS MARClONEM.</Unicode></TextEquiv></TextRegion></Page></PcGts>

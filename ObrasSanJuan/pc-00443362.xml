@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443362">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:39:03</Created>
+	<LastChange>2010-12-30T10:08:17</LastChange></Metadata>
+	<Page imageFilename="00443362.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/>
+	<RegionRefIndexed regionRef="r11" index="2"/>
+	<RegionRefIndexed regionRef="r12" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="109" y="248"/>
+	<Point x="109" y="1522"/>
+	<Point x="1661" y="1522"/>
+	<Point x="1661" y="248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>NOCHE ESCVRA DEL ALMA,
+I
+DECLARACION
+delas Canciones que encierran
+el camino de la perfeta union
+de amor con Dios, cual
+ſe puede en ea
+vida.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords>
+	<Point x="154" y="1596"/>
+	<Point x="154" y="1941"/>
+	<Point x="1664" y="1941"/>
+	<Point x="1664" y="1596"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I LAS PROPIED ADES
+admirables del Alma, que a ea
+ha egado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="135" y="1983"/>
+	<Point x="135" y="2470"/>
+	<Point x="1635" y="2470"/>
+	<Point x="1635" y="1983"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>POR EL VENERABLE
+Padre Fr. luan de la
+Cruz.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="catch-word">
+	<Coords>
+	<Point x="1303" y="2700"/>
+	<Point x="1303" y="2825"/>
+	<Point x="1674" y="2825"/>
+	<Point x="1674" y="2700"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ARGV-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="credit">
+	<Coords>
+	<Point x="777" y="2935"/>
+	<Point x="780" y="3000"/>
+	<Point x="1425" y="3000"/>
+	<Point x="1425" y="2935"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444135">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:32:12</Created>
+	<LastChange>2011-12-19T11:39:27</LastChange></Metadata>
+	<Page imageFilename="00444135.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="311" y="100"/>
+	<Point x="1512" y="103"/>
+	<Point x="1520" y="218"/>
+	<Point x="301" y="213"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="85" y="227"/>
+	<Point x="1775" y="233"/>
+	<Point x="1826" y="2620"/>
+	<Point x="1480" y="2671"/>
+	<Point x="1400" y="2668"/>
+	<Point x="1125" y="2670"/>
+	<Point x="96" y="2687"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>para dexarlas mayores. Verdad es que a los
+principios paa en tan breue tiempo, alome-
+nos a mi an me acaecia, que en eas ſeñales
+exteriores, ni én la falta de los ſentidos, no ſe
+da tanto a entender, quando paa con breue-
+dad, mas bien ſe entiende en la ſobra de las
+mercedes, que ha do grande la claridad del
+Sol  ha eado ai, pues aſsi la ha derretido.
+Y noteſe eo, que a mi parecer por largo que
+ſea el eſpacio de ear el alma en ea ſuſpen-
+on de todas las potencias es muy breue, quã
+do euuiee media hora, es muy mucho: yo
+nunca a mi parecer euue tanto. Verdad es 
+ſe puede mal ſentir lo que ſe ea, pues no ſe
+ente, mas digo que de vna vez es muy po-
+co eſpacio n tornar alguna potencia en .
+La voluntad es la que mantiene la tela, mas
+las otras dos potencias, preo tornan a im-
+portunar, como la voluntad ea queda tor-
+nalas a ſuſpender, y ean otro poco, y tornan
+a biuir. En eo ſe puedẽ paar algunas horas
+de oracion, y ſe paan. Porque comẽçadas las
+dos potẽcias a emborrachar, y guar de aquel
+vino diuino, cõ facilidad ſe tornã a perder de
+, para ear muy mas ganadas, y acõpañan a
+la volũtad, y ſe gozã todas tres. Mas ee ear
+perdidas del todo, y n ninguna imaginaciõ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1606" y="2657"/>
+	<Point x="1731" y="2660"/>
+	<Point x="1733" y="2730"/>
+	<Point x="1608" y="2732"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>en</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="577" y="3050"/>
+	<Point x="1585" y="3050"/>
+	<Point x="1585" y="3170"/>
+	<Point x="577" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1561" y="111"/>
+	<Point x="1561" y="224"/>
+	<Point x="1759" y="224"/>
+	<Point x="1759" y="111"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>207</Unicode></TextEquiv></TextRegion></Page></PcGts>

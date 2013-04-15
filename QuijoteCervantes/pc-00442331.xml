@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442331">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T04:06:00</Created>
+	<LastChange>2012-03-12T14:11:52</LastChange></Metadata>
+	<Page imageFilename="00442331.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="473" y="2305"/>
+	<Point x="1120" y="2308"/>
+	<Point x="1119" y="2364"/>
+	<Point x="464" y="2355"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="194" y="160"/>
+	<Point x="622" y="177"/>
+	<Point x="764" y="175"/>
+	<Point x="1445" y="172"/>
+	<Point x="1424" y="2161"/>
+	<Point x="984" y="2145"/>
+	<Point x="817" y="2170"/>
+	<Point x="174" y="2161"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cho, dio en ſuentarſe de ſabroſas memorias. Tor-
+naron a ſu començado camino del puerto Lapice,
+y a obra de las tres del dia le deſcubrieron. Aqui
+(dixo en viendole don Quixote) podemos her-
+mano Sancho Pança meter las manos haa los co-
+dos, en eo que aman auenturas. Mas aduierte,
+que aunque me veas en los mayores peligros del
+mundo, no has de poner mano a tu eſpada para de-
+fenderme,  ya no vieres que los que me ofendẽ, es
+canaa, y gente baxa, que en tal caſo bien puedes
+ayudarme: pero  fueren cauaeros, en ninguna ma
+nera te es licito, ni concedido por las leyes de caua-
+eria que me ayudes, haa que ſeas armado cauae
+ro. Porcierto ſeñor, reſpondio Sancho, que vuera
+merced ſea muy bien obedicido en eo, y mas,  yo
+de mio me ſoy paciﬁco, y enemigo de meterme en
+ruydos, ni pendencias: bien es verdad,  en lo  to-
+care a defender mi perſona, no tendre mucha cuẽta
+con eas leyes, pues las diuinas y humanas permitẽ
+ cada vno ſe deﬁenda de quien quiere agruiarle.
+No digo yo menos, reſpondio dõ Quixote: pero en
+eo de ayudarme cõtra cauaeros, has de tenera ra
+ya tus naturales impetus. Digo  aſsi lo hare, reſpõ-
+dio Sancho, y  guardarè ee preceto, tãbien como
+el dia del Domingo. Eãdo en eas razones, aſoma
+ron por el camino dos frayles de la ordẽ de S. Beni-
+to, cauaeros ſobre dos Dromedarios,  no erã mas
+pequeñas dos mulas en  venian. Traían ſus antojos
+de camino, y ſus quitaſoles. Detras deos venia vn
+coche, con quatro, o cinco de acauao que le acom
+pañauan, y dos moços de mulas a pie. Venia en el
+coche, como deſpues ſe ſupo, vna ſeñora Vizcayna,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1315" y="98"/>
+	<Point x="1315" y="157"/>
+	<Point x="1395" y="157"/>
+	<Point x="1395" y="98"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>28</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="516" y="76"/>
+	<Point x="517" y="164"/>
+	<Point x="616" y="166"/>
+	<Point x="1076" y="155"/>
+	<Point x="1071" y="78"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1314" y="2166"/>
+	<Point x="1313" y="2231"/>
+	<Point x="1421" y="2230"/>
+	<Point x="1420" y="2167"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="967" y="2150"/>
+	<Point x="967" y="2225"/>
+	<Point x="1070" y="2225"/>
+	<Point x="1064" y="2155"/>
+	<Point x="997" y="2150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D 4</Unicode></TextEquiv></TextRegion></Page></PcGts>

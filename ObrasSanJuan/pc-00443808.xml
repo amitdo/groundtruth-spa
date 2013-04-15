@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443808">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T04:30:24</Created>
+	<LastChange>2010-12-27T09:18:18</LastChange></Metadata>
+	<Page imageFilename="00443808.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r9" index="2"/>
+	<RegionRefIndexed regionRef="r11" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="400" y="39"/>
+	<Point x="1164" y="39"/>
+	<Point x="1164" y="160"/>
+	<Point x="400" y="160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cancion Trigema Nona.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="51" y="171"/>
+	<Point x="1594" y="171"/>
+	<Point x="1594" y="1053"/>
+	<Point x="51" y="1053"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mos, participar el alma en la obra con la Trinidad en
+la union dicha: lo cual aun que ſe cumple perfetamen-
+te en la otra vida, todavia en ea ſe alcança gran raſ-
+tro i ſabor deo en el eado perfeto, al modo que va-
+mos diziendo, aun que no ſe puede dezir. O almas cria
+das para eas grandezas, i para eas amadas, que
+hazeis? en que os entreteneis? O miſerable ceguera
+de los hijos de Adan, pues en canta luz ean ciegos i a
+tan grandes vozes ſordos: pues en tanto que buſcan
+grandezas i gloria, ſe quedan miſerables i baxos de tã-
+tos bienes indignos. Sigueſe lo ſegundo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="341" y="1094"/>
+	<Point x="1248" y="1094"/>
+	<Point x="1248" y="1197"/>
+	<Point x="341" y="1197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El canto de la dulce Filomena.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1478" y="2634"/>
+	<Point x="1607" y="2632"/>
+	<Point x="1607" y="2708"/>
+	<Point x="1471" y="2698"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>han</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="777" y="2930"/>
+	<Point x="1420" y="2930"/>
+	<Point x="1420" y="2992"/>
+	<Point x="777" y="2992"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1420" y="56"/>
+	<Point x="1420" y="145"/>
+	<Point x="1575" y="145"/>
+	<Point x="1575" y="56"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>795</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="drop-capital">
+	<Coords>
+	<Point x="182" y="1258"/>
+	<Point x="179" y="1302"/>
+	<Point x="180" y="1304"/>
+	<Point x="188" y="1357"/>
+	<Point x="190" y="1360"/>
+	<Point x="187" y="1367"/>
+	<Point x="182" y="1395"/>
+	<Point x="184" y="1415"/>
+	<Point x="139" y="1415"/>
+	<Point x="139" y="1414"/>
+	<Point x="92" y="1414"/>
+	<Point x="92" y="1413"/>
+	<Point x="61" y="1413"/>
+	<Point x="61" y="1258"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1605" y="1258"/>
+	<Point x="1601" y="2627"/>
+	<Point x="1245" y="2629"/>
+	<Point x="1190" y="2629"/>
+	<Point x="1012" y="2618"/>
+	<Point x="852" y="2625"/>
+	<Point x="689" y="2649"/>
+	<Point x="277" y="2651"/>
+	<Point x="61" y="2646"/>
+	<Point x="61" y="1415"/>
+	<Point x="90" y="1415"/>
+	<Point x="90" y="1416"/>
+	<Point x="137" y="1416"/>
+	<Point x="137" y="1417"/>
+	<Point x="184" y="1417"/>
+	<Point x="184" y="1418"/>
+	<Point x="187" y="1418"/>
+	<Point x="187" y="1415"/>
+	<Point x="186" y="1415"/>
+	<Point x="184" y="1394"/>
+	<Point x="191" y="1371"/>
+	<Point x="195" y="1359"/>
+	<Point x="195" y="1350"/>
+	<Point x="185" y="1315"/>
+	<Point x="185" y="1300"/>
+	<Point x="184" y="1258"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O que nace en el alma de aquel aſpirar del aire, es
+el canto de la dulce Filomena: porque a como el can
+to de la Filomena, que es el Ruiſeñor, ſe oye en la Pri-
+mavera, paſados ya los frios i las uvias del invierno, i
+haze melodia al oido, i al eſpiritu recreacion, a en eſ-
+ta aual comunicacion i transformacion de amor, am-
+parada ya la Eſpoſa, i libre de todas las turbaciones i
+variedades tẽporales, i deſnuda i purgada de las imper
+feciones i penalidades, i nieblas naturales, ente nueva
+Primavera eu ſu eſpiritu, en el cual ente la dulce voz
+del Eſpoſo que es ſu dulce Filomena; la cual refrigera i
+renueva la ſuancia de ſu alma, diziendo: Surge prope-
+ra amica mea, Columba mea, formoſa mea, &amp; veni; iã enim
+hyems tranſyt, i mber abjit, &amp; receſsit, flores apparuerunt
+in tèrra nora, tempus putationis advenit, vox turturis
+audita e in terra nora, que quiere dezir: Levantate,
+date prieſa amiga mia, Paloma mia, hermoſa mia, i
+ven, porque ya ha paſado el invierno, las uvias ſe</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="signature-mark">
+	<Coords>
+	<Point x="988" y="2628"/>
+	<Point x="1180" y="2645"/>
+	<Point x="1163" y="2726"/>
+	<Point x="986" y="2714"/>
+	<Point x="988" y="2633"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eee 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="marginalia">
+	<Coords>
+	<Point x="1615" y="2104"/>
+	<Point x="1615" y="2196"/>
+	<Point x="1877" y="2196"/>
+	<Point x="1877" y="2104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cãt.1.10</Unicode></TextEquiv></TextRegion></Page></PcGts>

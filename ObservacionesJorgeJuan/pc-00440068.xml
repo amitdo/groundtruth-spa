@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440068">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T01:03:32</Created>
+	<LastChange>2011-12-19T11:38:39</LastChange></Metadata>
+	<Page imageFilename="00440068.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r11" index="0"/>
+	<RegionRefIndexed regionRef="r14" index="1"/>
+	<RegionRefIndexed regionRef="r10" index="2"/>
+	<RegionRefIndexed regionRef="r2" index="3"/>
+	<RegionRefIndexed regionRef="r3" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="725" y="1047"/>
+	<Point x="950" y="1052"/>
+	<Point x="946" y="1026"/>
+	<Point x="945" y="1004"/>
+	<Point x="932" y="925"/>
+	<Point x="929" y="900"/>
+	<Point x="922" y="832"/>
+	<Point x="2678" y="819"/>
+	<Point x="2682" y="3305"/>
+	<Point x="2685" y="3312"/>
+	<Point x="2516" y="3312"/>
+	<Point x="2432" y="3335"/>
+	<Point x="2327" y="3321"/>
+	<Point x="724" y="3332"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A Tabla de Declinaciones, que ſe gue, es nueva-
+mente conruìda, y diſpuea con nuevo methodo,
+dexando arbitraria la maxima Declinacion del Sol, para
+que, el que ſe rviere de ea, ſe valga de la que mas bien
+le quadrare: por conguiente, parece neceario, que
+endo diinta de todas las dadas haa el dia de hoy, nos
+detengamos en dàr de ea de antemano alguna breve ex‐
+plicacion para ſu mas perfea inteligencia. La primera, y
+quinta coluna contienen los grados, y minutos de los Sig‐
+nos de la Ecliptica, que ſe vèn en la cabeza, y pies de la
+ſegunda encerrando èa la Declinacin del Sol, en gra‐
+dos, minutos, ſegundos, y terceros, correſpondiente à
+dichos grados, y minutos de la Ecliptica: y como no ſe
+haa mas, que para cada 15 minutos, la coluna tercera
+contiene en ſegundos, terceros, y quartos la Declinacion,
+que correſponde à un minuto de mas, ò menos Longitud
+del Sol en la Ecliptica; la qual hace, que la tabla equi‐
+valga, à  euviera calculada minuto por minuto. La De‐
+clinacion eà ſuputada para la maxima Obliquidad de la
+Ecliptica 23° 28' 00'' pero la coluna quarta contiene
+una equacion para cada 10 ſegundos de mas, ò menos
+Obliquidad: con la qual ſe puede obtener la Declinacion
+del Sol, en la ſupocion de qualquier Obliquidad ( proxi‐
+ma à la duda ) que ſe le quiere agnar à la Ecliptica. Pon-
+drè un exemplo para mayor, ò mas clara explicacion y
+buſcarémos la Declinacion del Sol, que doy en el primer</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="2517" y="3322"/>
+	<Point x="2659" y="3322"/>
+	<Point x="2659" y="3406"/>
+	<Point x="2517" y="3406"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cal-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="971" y="4006"/>
+	<Point x="1975" y="4006"/>
+	<Point x="1975" y="4097"/>
+	<Point x="971" y="4097"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="799" y="248"/>
+	<Point x="958" y="251"/>
+	<Point x="953" y="391"/>
+	<Point x="796" y="389"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>52</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="heading">
+	<Coords>
+	<Point x="903" y="616"/>
+	<Point x="2483" y="624"/>
+	<Point x="2485" y="780"/>
+	<Point x="2491" y="789"/>
+	<Point x="905" y="778"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Explicacion, y uſo de la Tabla de Declinaciones.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="drop-capital">
+	<Coords>
+	<Point x="740" y="836"/>
+	<Point x="720" y="1040"/>
+	<Point x="944" y="1048"/>
+	<Point x="911" y="820"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="1241" y="273"/>
+	<Point x="2123" y="273"/>
+	<Point x="2117" y="417"/>
+	<Point x="1246" y="407"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="1265" y="443"/>
+	<Point x="1265" y="585"/>
+	<Point x="2070" y="585"/>
+	<Point x="2070" y="443"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITULO IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

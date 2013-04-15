@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440207">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T10:27:53</Created>
+	<LastChange>2011-12-19T11:38:50</LastChange></Metadata>
+	<Page imageFilename="00440207.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/>
+	<RegionRefIndexed regionRef="r11" index="2"/>
+	<RegionRefIndexed regionRef="r12" index="3"/>
+	<RegionRefIndexed regionRef="r16" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="677" y="470"/>
+	<Point x="2645" y="470"/>
+	<Point x="2645" y="766"/>
+	<Point x="677" y="766"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tres lados del triangulo PZO, por donde ſe vendrà en co‐
+nocimiento del angulo PZO, que es el horizontàl, compre‐
+hendido entre dichas Señales, P, O.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="883" y="2632"/>
+	<Point x="2441" y="2632"/>
+	<Point x="2441" y="2861"/>
+	<Point x="883" y="2861"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Reduccion de los angulos formados en Campa‐
+nàrio (ζ) à horizontales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="catch-word">
+	<Coords>
+	<Point x="2493" y="3422"/>
+	<Point x="2622" y="3422"/>
+	<Point x="2622" y="3516"/>
+	<Point x="2493" y="3516"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="credit">
+	<Coords>
+	<Point x="980" y="3993"/>
+	<Point x="1964" y="3993"/>
+	<Point x="1964" y="4096"/>
+	<Point x="980" y="4096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="page-number">
+	<Coords>
+	<Point x="764" y="367"/>
+	<Point x="763" y="459"/>
+	<Point x="950" y="460"/>
+	<Point x="951" y="367"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>188</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="header">
+	<Coords>
+	<Point x="1276" y="370"/>
+	<Point x="2051" y="370"/>
+	<Point x="2051" y="463"/>
+	<Point x="1276" y="463"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="footnote">
+	<Coords>
+	<Point x="464" y="796"/>
+	<Point x="464" y="961"/>
+	<Point x="690" y="961"/>
+	<Point x="690" y="796"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a Fig. 10.
+Lam. 4.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r4">
+	<Coords>
+	<Point x="607" y="1017"/>
+	<Point x="1496" y="1042"/>
+	<Point x="1624" y="1042"/>
+	<Point x="1674" y="1050"/>
+	<Point x="2728" y="1042"/>
+	<Point x="2738" y="2383"/>
+	<Point x="2502" y="2383"/>
+	<Point x="1708" y="2363"/>
+	<Point x="1491" y="2354"/>
+	<Point x="1375" y="2364"/>
+	<Point x="1339" y="2369"/>
+	<Point x="1238" y="2354"/>
+	<Point x="1066" y="2369"/>
+	<Point x="966" y="2362"/>
+	<Point x="882" y="2372"/>
+	<Point x="789" y="2357"/>
+	<Point x="591" y="2366"/></Coords></TableRegion>
+	<TableRegion id="r13">
+	<Coords>
+	<Point x="664" y="2906"/>
+	<Point x="2638" y="2906"/>
+	<Point x="2638" y="3383"/>
+	<Point x="664" y="3383"/></Coords></TableRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="785" y="803"/>
+	<Point x="2653" y="803"/>
+	<Point x="2614" y="1014"/>
+	<Point x="1669" y="1032"/>
+	<Point x="1610" y="1028"/>
+	<Point x="1571" y="1032"/>
+	<Point x="1432" y="1028"/>
+	<Point x="782" y="1000"/>
+	<Point x="782" y="800"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Reduccion de los angulos formados en Cuicòcha (Ψ)�
+à horizontales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="661" y="2550"/>
+	<Point x="2650" y="2591"/>
+	<Point x="2652" y="2397"/>
+	<Point x="2446" y="2386"/>
+	<Point x="2061" y="2377"/>
+	<Point x="1500" y="2372"/>
+	<Point x="1045" y="2375"/>
+	<Point x="861" y="2374"/>
+	<Point x="821" y="2371"/>
+	<Point x="792" y="2369"/>
+	<Point x="680" y="2386"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y guiendo el calculo ſe haarà ee angulo reducido à ho‐
+rizontàl de 66° 15' 32''</Unicode></TextEquiv></TextRegion></Page></PcGts>

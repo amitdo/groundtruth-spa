@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444048">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T00:52:04</Created>
+	<LastChange>2011-12-19T11:39:22</LastChange></Metadata>
+	<Page imageFilename="00444048.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r9" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="410" y="217"/>
+	<Point x="1948" y="217"/>
+	<Point x="1948" y="1669"/>
+	<Point x="410" y="1669"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſpirituales de muchos años, y veẽ,  en ſolos
+veynte y ete años,  ha  tengo oraciõ me ha
+dado ſu magead la eſperiẽcia cõ andar en tã
+tos tropieços, y tan mal ee camino,  a otros
+en treyntay ete y en quarẽta y ete,  cõ pe
+nitẽcia, y ẽpre virtud han caminado por el.
+Sea bẽdito por toda, y ruaſe de mi par quiẽ
+ſu magead es,  biẽ ſabe mi Señor,  no pre-
+tẽdo otra coſa en eo no  ſea alabado y en
+grandecido vn poquito, de ver  en vn mula
+dar tan ſuzio, y de mal olor hiziee huerto de
+tã ſuaues ﬂores, plega a ſu magead  por mi
+culpa no las torne yo a arrancar, y ſe torne a
+ſer lo  era. Eo pido yo por amor de el Señor
+le pida V. M. pues ſabe la  ſoy con mas clari
+dad que aquime lo ha dexado dezir.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="410" y="1692"/>
+	<Point x="1955" y="1692"/>
+	<Point x="1955" y="2332"/>
+	<Point x="410" y="2332"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP. XI. Dize en que ea la falta de no
+amar a Dios cõ perfeciõ en breue tiẽpo, comien
+ça a declarar por vna cõparaciõ que pone qua
+tro grados de oracion, va tratando aqui del
+primero, es muy prouechoſo paralos que comiẽ
+çan y paralos  no tienen guﬆos en la oraciõ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="719" y="2346"/>
+	<Point x="1936" y="2346"/>
+	<Point x="1942" y="2625"/>
+	<Point x="720" y="2646"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>V es hablando aora de los que co-
+miençan a ſer eruos del amor, que
+no me parece otra coſa determinar‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="drop-capital">
+	<Coords>
+	<Point x="437" y="2360"/>
+	<Point x="714" y="2360"/>
+	<Point x="714" y="2623"/>
+	<Point x="437" y="2623"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="607" y="3066"/>
+	<Point x="1566" y="3066"/>
+	<Point x="1566" y="3151"/>
+	<Point x="607" y="3151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="398" y="116"/>
+	<Point x="398" y="194"/>
+	<Point x="573" y="194"/>
+	<Point x="573" y="116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>120</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="848" y="85"/>
+	<Point x="848" y="191"/>
+	<Point x="1542" y="191"/>
+	<Point x="1542" y="85"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1790" y="2635"/>
+	<Point x="1790" y="2727"/>
+	<Point x="1970" y="2727"/>
+	<Point x="1970" y="2635"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nos</Unicode></TextEquiv></TextRegion></Page></PcGts>

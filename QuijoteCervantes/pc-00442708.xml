@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442708">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T12:46:12</Created>
+	<LastChange>2012-03-12T14:12:18</LastChange></Metadata>
+	<Page imageFilename="00442708.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="512" y="86"/>
+	<Point x="1130" y="73"/>
+	<Point x="1134" y="160"/>
+	<Point x="761" y="187"/>
+	<Point x="661" y="164"/>
+	<Point x="593" y="176"/>
+	<Point x="581" y="178"/>
+	<Point x="560" y="179"/>
+	<Point x="463" y="162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quarta parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="167" y="170"/>
+	<Point x="480" y="172"/>
+	<Point x="560" y="181"/>
+	<Point x="596" y="178"/>
+	<Point x="659" y="173"/>
+	<Point x="766" y="190"/>
+	<Point x="1474" y="167"/>
+	<Point x="1490" y="2141"/>
+	<Point x="1334" y="2135"/>
+	<Point x="1240" y="2146"/>
+	<Point x="1217" y="2147"/>
+	<Point x="164" y="2174"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mio: ni ea puede ſer tuya, porque es de Cardenio.
+Y mas facil te ſerà,  en eo miras, reduzir tu volũ-
+tad a querer a quien te adora, que no encaminar la
+que te aborrece a que bien te quiera. Tu ſolicitae
+mi deſcuydo, tu rogae a mi entereza, tu no igno-
+rae mi calidad: tu ſabes bien de la manera que me
+entreguè a toda tu voluntad, no te queda lugar, ni
+acogida de amarte a engaño. Y  eo es aſsi, co-
+mo lo es, y tu eres tan Chriiano como cauaero,
+porque por tantos rodeos dilatas de hazerme ven-
+turoſa en los ﬁnes, como me hezie en los princi-
+pios? Y no me quieres por la que ſoy, que ſoy tu
+verdadera y legitima eſpoſa, quiere me alomenos,
+y admiteme por tu eſclaua, que como yo eè en tu
+poder, me tendre por dichoſa, y bien afortunada.
+No permitas, con dexarme, y deſampararme, que
+ſe hagan, y junten corrios en mi deshonra. No des
+tan mala vejez a mis padres, pues no lo merecẽ los
+leales ſeruicios, que como buenos vaaos a los tu
+yos empre han hecho. Y  te parece que has de
+aniquilar tu ſangre por mezclarla con la mia, con-
+dera, que pocas, o ninguna nobleza ay en el mundo,
+que no aya corrido por ee camino: y que la que ſe
+toma de las mugeres, no es la que haze al caſo en las
+ilures decendencias. Quanto mas,  la verdadera
+nobleza cõe en la virtud, y  ea a ti te falta, ne-
+gandome lo que tan juamente me deues, yo que-
+darè con mas ventajas de noble, que las que tu tie-
+nes. En ﬁn, ſeñor, lo que vltimamente te digo, es, 
+quieras, no quieras, yo ſoy tu eſpoſa, teigos ſon
+tus palabras, que no han, ni deuen ſer mentiroſas, 
+ya es  te precias de aqueo por me deſprecias.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1229" y="2148"/>
+	<Point x="1327" y="2141"/>
+	<Point x="1422" y="2144"/>
+	<Point x="1445" y="2225"/>
+	<Point x="1206" y="2216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Teigo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="435" y="2290"/>
+	<Point x="1167" y="2287"/>
+	<Point x="1141" y="2384"/>
+	<Point x="441" y="2384"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

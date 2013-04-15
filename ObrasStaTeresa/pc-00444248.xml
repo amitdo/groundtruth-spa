@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444248">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:46:19</Created>
+	<LastChange>2011-12-19T11:39:34</LastChange></Metadata>
+	<Page imageFilename="00444248.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="812" y="79"/>
+	<Point x="1655" y="79"/>
+	<Point x="1655" y="207"/>
+	<Point x="812" y="207"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="438" y="244"/>
+	<Point x="2079" y="225"/>
+	<Point x="2080" y="244"/>
+	<Point x="2070" y="2651"/>
+	<Point x="2070" y="2638"/>
+	<Point x="2072" y="2635"/>
+	<Point x="2070" y="2653"/>
+	<Point x="1829" y="2633"/>
+	<Point x="1779" y="2631"/>
+	<Point x="1764" y="2638"/>
+	<Point x="1731" y="2659"/>
+	<Point x="1725" y="2650"/>
+	<Point x="1709" y="2646"/>
+	<Point x="1707" y="2644"/>
+	<Point x="1266" y="2681"/>
+	<Point x="435" y="2670"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que aca ſe puede mal dar a entender, aunque
+mas queramos dezir,  el Señor por eſperien
+cia no lo enſeña. Pone el Señor lo que quiere
+que el alma entienda, en lo muy interior del
+alma, y ai lo repreſenta n imagen ni for-
+ma de palabras, no a manera dea vion,
+que queda dicha. Y noteſe mucho ea mane
+ra de hazer Dios que entiende el alma lo que
+el quiere, y grandes verdades y mierios, por
+que muchas vezes lo que entiendo quando
+el Señor me declara alguna vion, que quie-
+re ſu Magead repreſentarme, es an, y pare-
+ceme que es adonde el demonio ſe puede en-
+tremeter menos por eas razones,  eas no
+ſon buenas yo me deuo engañar. Es vna coſa
+tan de ſpiritu ea manera de vion y de len
+guage, que ningun buicio ay en las poten-
+cias, ni en los ſentidos, a mi parecer, por don-
+de el demonio pueda ſacar nada. Eo es algu
+na vez, y con breuedad, que otras bien me pa
+rece ami, que no ean ſuſpendidas las poten-
+cias ni quitados los ſentidos no muy en ,
+que no es empre eo en contemplacion,
+antes muy pocas vezes, mas eas que ſon, di-
+go que no obramos noſotros nada, ni haze-
+mos nada, todo parece obra del Señor. Es co-
+mo quando ya ea pueo el manjar en el</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1688" y="2683"/>
+	<Point x="1738" y="2668"/>
+	<Point x="1766" y="2644"/>
+	<Point x="1779" y="2651"/>
+	<Point x="1920" y="2659"/>
+	<Point x="2003" y="2659"/>
+	<Point x="2044" y="2662"/>
+	<Point x="2037" y="2662"/>
+	<Point x="2057" y="2662"/>
+	<Point x="2059" y="2670"/>
+	<Point x="2055" y="2753"/>
+	<Point x="2051" y="2757"/>
+	<Point x="2027" y="2758"/>
+	<Point x="1985" y="2758"/>
+	<Point x="1949" y="2757"/>
+	<Point x="1916" y="2757"/>
+	<Point x="1844" y="2756"/>
+	<Point x="1807" y="2757"/>
+	<Point x="1696" y="2757"/>
+	<Point x="1698" y="2753"/>
+	<Point x="1696" y="2748"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>eomago</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="616" y="3031"/>
+	<Point x="1579" y="3031"/>
+	<Point x="1579" y="3170"/>
+	<Point x="616" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="511" y="124"/>
+	<Point x="511" y="229"/>
+	<Point x="750" y="229"/>
+	<Point x="750" y="124"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>320</Unicode></TextEquiv></TextRegion></Page></PcGts>

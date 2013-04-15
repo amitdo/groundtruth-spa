@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672941">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 10.0</Creator>
+	<Created>2012-02-01T01:49:00</Created>
+	<LastChange>2012-02-29T08:26:17</LastChange></Metadata>
+	<Page imageFilename="00672941.tif" imageWidth="1864" imageHeight="2614">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r31" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="560" y="348"/>
+	<Point x="560" y="262"/>
+	<Point x="1112" y="262"/>
+	<Point x="1113" y="345"/>
+	<Point x="748" y="349"/>
+	<Point x="731" y="348"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>del juego del axedrez.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="page-number">
+	<Coords>
+	<Point x="1378" y="330"/>
+	<Point x="1378" y="292"/>
+	<Point x="1458" y="292"/>
+	<Point x="1458" y="330"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="503" y="565"/>
+	<Point x="506" y="451"/>
+	<Point x="509" y="404"/>
+	<Point x="513" y="351"/>
+	<Point x="529" y="350"/>
+	<Point x="697" y="350"/>
+	<Point x="732" y="349"/>
+	<Point x="739" y="351"/>
+	<Point x="1122" y="349"/>
+	<Point x="1149" y="348"/>
+	<Point x="1179" y="345"/>
+	<Point x="1446" y="340"/>
+	<Point x="1446" y="389"/>
+	<Point x="1443" y="438"/>
+	<Point x="1446" y="456"/>
+	<Point x="1474" y="2227"/>
+	<Point x="1111" y="2232"/>
+	<Point x="1063" y="2246"/>
+	<Point x="272" y="2251"/>
+	<Point x="270" y="568"/>
+	<Point x="301" y="563"/>
+	<Point x="378" y="563"/>
+	<Point x="389" y="562"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ARA declaracion deo dize Iacobo
+de Ceolis, que fuerõ las caſas del table
+ro ſeenta y quatro, y el en forma qua-
+drada. Porque el philoſopho inuentor dee jue-
+go quiſo repreſentar por la figura del tablero la
+ciudad de Babylonia: aſsi como por los trebejos
+repreſento el rey, y todos los nobles, è innobles
+della:y  ea ciudad fue ampliſsima,y quadrada:
+y  cada quadro della tenia. 16. mil paos en nu-
+mero y medida : los quales deduzidos en quatro
+partes,  cõituyẽ ee quadro, crecẽ y ſe multipli
+cã en.64. Y aſsi ſe gue, Babylonia tenia en qua
+tro quadros.64.mil paos en medida y numero.
+Y eo dize aprouarſe por autoridad de ſant Iuã:
+lo qual yo no hallo,  diga ſant Iuã de Babylonia:
+no de Ieruſalẽ: pero no dize  tenia en cada qua
+dro, mas de doze mil paos. Aſsi  yo creo el phi
+loſopho auer mas aludido ala razon del numero
+oonario, ſobre el qual fundo aquea inuẽcion,
+como dexamos dicho enel capit 1. que no ala ciu
+dad de Babylonia. Por ee numero deduzido
+en ſu multiplicacion de ocho vezes ocho, viene à
+hazer y conituyr ee numero de ſoenta y qua
+tro.Y por ee numero cõituye vn quadro per
+feo: como arriba dexamos dicho de autoridad
+de Macrobio. Demas deo, por en ee tablero
+no repreſenta no vn cãpo, donde cõcurren dos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1357" type="marginalia">
+	<Coords>
+	<Point x="1452" y="382"/>
+	<Point x="1612" y="386"/>
+	<Point x="1612" y="468"/>
+	<Point x="1453" y="468"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Iacobo
+Ceolis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1123" y="2243"/>
+	<Point x="1123" y="2302"/>
+	<Point x="1235" y="2302"/>
+	<Point x="1235" y="2243"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1320" y="2256"/>
+	<Point x="1320" y="2315"/>
+	<Point x="1454" y="2315"/>
+	<Point x="1454" y="2256"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>reyes</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="drop-capital">
+	<Coords>
+	<Point x="279" y="340"/>
+	<Point x="279" y="561"/>
+	<Point x="499" y="561"/>
+	<Point x="502" y="365"/>
+	<Point x="499" y="340"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P</Unicode></TextEquiv></TextRegion></Page></PcGts>

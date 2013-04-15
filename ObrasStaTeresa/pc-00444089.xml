@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444089">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:56:38</Created>
+	<LastChange>2011-12-19T11:39:24</LastChange></Metadata>
+	<Page imageFilename="00444089.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="313" y="104"/>
+	<Point x="1023" y="105"/>
+	<Point x="1516" y="105"/>
+	<Point x="1514" y="214"/>
+	<Point x="301" y="212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1470" y="2658"/>
+	<Point x="1503" y="2652"/>
+	<Point x="1698" y="2656"/>
+	<Point x="1689" y="2736"/>
+	<Point x="1465" y="2734"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bienes</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="601" y="3077"/>
+	<Point x="1590" y="3077"/>
+	<Point x="1590" y="3156"/>
+	<Point x="601" y="3156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1556" y="122"/>
+	<Point x="1556" y="212"/>
+	<Point x="1733" y="212"/>
+	<Point x="1733" y="122"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>161</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="164" y="240"/>
+	<Point x="1742" y="242"/>
+	<Point x="1728" y="2640"/>
+	<Point x="1477" y="2641"/>
+	<Point x="1457" y="2665"/>
+	<Point x="1420" y="2669"/>
+	<Point x="1417" y="2642"/>
+	<Point x="1234" y="2644"/>
+	<Point x="1216" y="2665"/>
+	<Point x="1180" y="2669"/>
+	<Point x="1161" y="2650"/>
+	<Point x="1134" y="2650"/>
+	<Point x="1097" y="2648"/>
+	<Point x="701" y="2650"/>
+	<Point x="688" y="2673"/>
+	<Point x="642" y="2672"/>
+	<Point x="640" y="2649"/>
+	<Point x="156" y="2656"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>amar en aquel punto a otra coſa, no a vos.
+Las otras dos potencias ayudan a la vol ũtad,
+para que vaya haziendoſe habil, para gozar
+de tanto bien, pueo que algunas vezes, aun
+eando vnida la voluntad, acaece deſa yudar
+harto: mas entonces no haga caſo deas, no
+eeſe en ſu gozo y quietud, por  las quiere
+recoger, ea y eas perderan, que ſon en ton-
+ces como vnas palomas, que no ſe contentan
+con el ceuo, que les da el dueño del palomar,
+n trabajarlo eas, y van a buſcar de comer
+por otras partes, y haanlo tan mal que ſe tor
+nan, y an van, y vienen a ver  les da la vo-
+luntad de lo  goza,  el Señor quiere echar-
+les ceuo detienenſe, y  no tornanle a buſ-
+car, y deuen penſar que hazen a la voluntad
+prouecho, y a las vezes en querer la memoria
+o imaginacion repreſentarla lo que goza, la
+daña. Pues tenga auiſo de auerſe con eas co-
+mo dire. Pues todo eo que paa aqui es con
+grandiſsimo conſuelo, y con tan poco traba-
+jo, que no canſa la oracion, aunque dure mu-
+cho rato, porque el entendimiento obra aqui
+muy pao a pao, y ſaca muy mucha mas
+agua, que no ſacaua del pozo: las lagrimas
+que Dios aqui da, ya van con gozo, aunque ſe
+enten no ſe procuran. Ea agua de grandes</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="1242" y="2651"/>
+	<Point x="1242" y="2732"/>
+	<Point x="1309" y="2732"/>
+	<Point x="1309" y="2651"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L</Unicode></TextEquiv></TextRegion></Page></PcGts>

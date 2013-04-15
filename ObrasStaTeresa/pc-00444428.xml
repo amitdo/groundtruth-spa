@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444428">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T11:38:59</Created>
+	<LastChange>2011-12-19T11:39:44</LastChange></Metadata>
+	<Page imageFilename="00444428.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="879" y="108"/>
+	<Point x="1478" y="102"/>
+	<Point x="1472" y="225"/>
+	<Point x="862" y="221"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="388" y="246"/>
+	<Point x="2030" y="237"/>
+	<Point x="2068" y="2640"/>
+	<Point x="1563" y="2655"/>
+	<Point x="1469" y="2672"/>
+	<Point x="384" y="2686"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>enfermedad, y en algunas coſas parece ea-
+ua con enmienda. Murio n confeſsion, mas
+con todo eo no me parecia a mi que ſe auia
+de condenar. Eando amortajando el cuer-
+po, vi muchos demonios tomar aquel cuer-
+po, y parecia que jugauan con el, y hazian tã-
+bien juicias en el, que a mi me puſo gran
+pauor, que con garﬁos grandes le trayan de
+vno en otro: como le vi euar a enterrar con
+la honra y ceremonias que a todos, yo eaua
+penſando la bondad de Dios, como no que-
+ria fuee infamada aquel anima, no que
+fuee encubierto ſer ſu enemiga. Eaua yo
+medio boua de lo que auia vio, en todo el
+ofﬁcio no vi mas demonio, deſpues quando
+echaron el cuerpo en la ſepultura, era tanta
+la multitud que eauan dentro para tomar-
+le, que yo eaua fuera de mi de verlo, y no
+era meneer poco animo para diſsimularlo.
+Conderaua que hariã de aquel alma, quan-
+do aſsi ſe enſeñoreauan del trie cuerpo, plu
+guiera a el Señor que eo que yo vi, coſa tan
+eſpantoſa, vieran los que eã en mal eado,
+que me parece fuera gran coſa para hazerlos
+biuir bien. Todo eo me haze mas conocer
+lo que deuo a Dios, y de lo  me ha librado.
+Anduue harto temeroſa haa que lo trate cõ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1807" y="2655"/>
+	<Point x="1942" y="2654"/>
+	<Point x="1941" y="2733"/>
+	<Point x="1809" y="2735"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mi</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="621" y="3054"/>
+	<Point x="1581" y="3054"/>
+	<Point x="1570" y="3154"/>
+	<Point x="627" y="3160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="391" y="132"/>
+	<Point x="391" y="239"/>
+	<Point x="573" y="239"/>
+	<Point x="573" y="132"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>502</Unicode></TextEquiv></TextRegion></Page></PcGts>

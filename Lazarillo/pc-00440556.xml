@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440556">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T17:51:49</Created>
+	<LastChange>2011-07-05T14:26:06</LastChange></Metadata>
+	<Page imageFilename="00440556.tif" imageWidth="876" imageHeight="1640">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="109" y="87"/>
+	<Point x="272" y="90"/>
+	<Point x="305" y="81"/>
+	<Point x="331" y="90"/>
+	<Point x="836" y="90"/>
+	<Point x="827" y="1520"/>
+	<Point x="97" y="1519"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſeñor ſe hinco de rodillas en e
+pulpito, pueas las manos, y mi-
+rando al cielo, dixo ai : Señor
+Dios, de quien ninguna coſa ſe
+eſconde antes todas ean mani-
+ﬁeas, y a quien nada es impo-
+ble, antes todo poible, tu ſabes
+la verdad, y quan injuamente
+ſoy afrentado : en lo que a mi toca
+yo le perdono, porque tu Señor
+me perdones : no mires a aquel
+que no ſabe lo que haze, ni dize,
+mas la injuria a ti hecha, te ſupli-
+co, y por juicia te pido, no dii-
+mules, porque alguno de los que
+ean aqui, que poruentura penſo
+tomar ea ſanta bula, dando cre-
+dito a las falſas palabras de aquel
+hombre, lo dexara de hazer: y pues
+es tan en perjuyzio del proximo,
+te ſuplico no lo diimules, mas
+que luego agas aqui vn milagro, y
+ſea dea manera, que  es verdad
+lo que aquel dize, y que yo ſoy</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="280" y="1580"/>
+	<Point x="570" y="1578"/>
+	<Point x="570" y="1611"/>
+	<Point x="280" y="1610"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="221" y="38"/>
+	<Point x="221" y="79"/>
+	<Point x="190" y="79"/>
+	<Point x="135" y="80"/>
+	<Point x="136" y="36"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>102</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="360" y="29"/>
+	<Point x="648" y="28"/>
+	<Point x="649" y="84"/>
+	<Point x="360" y="84"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

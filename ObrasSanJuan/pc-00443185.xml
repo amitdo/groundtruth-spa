@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443185">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T12:48:48</Created>
+	<LastChange>2011-03-15T16:51:41</LastChange></Metadata>
+	<Page imageFilename="00443185.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="386" y="47"/>
+	<Point x="500" y="47"/>
+	<Point x="518" y="144"/>
+	<Point x="381" y="147"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>174</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="797" y="21"/>
+	<Point x="792" y="28"/>
+	<Point x="1544" y="21"/>
+	<Point x="1555" y="142"/>
+	<Point x="778" y="136"/>
+	<Point x="784" y="42"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subida del monte Carmelo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="352" y="173"/>
+	<Point x="1876" y="194"/>
+	<Point x="1832" y="2744"/>
+	<Point x="1834" y="2752"/>
+	<Point x="1784" y="2748"/>
+	<Point x="1648" y="2754"/>
+	<Point x="350" y="2773"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a flaqueza, haa que por boca de los hombres oyò lo
+que Dios le avia dicho. I fue, que como el le vio flaco,
+le dixo: Surge &amp; deſcende in cara, &amp; cum audieris quid
+loquantur, tunc confortabuntur manus tu &amp; ſecurior ad
+hoium cara deſcendes. Levantate, i deſciende al Real,
+i cuando oyeres ai lo que hablan los hombres, enton-
+ces recibiras fuerças en lo que te he dicho, i baxaràs
+con mas ſeguridad a los exercitos de los enemigos. I
+a fue, que oyendo contar un ſueño de un Madianita à
+otro, en que avia ſoñado, que Gedeon los avia de ven
+cer; fue mui esforçado, i començò a poner por obra
+con grande alegria la bataa. De donde ſe vè, que no
+quiſo Dios ſe aſeguraſe, haa que por boca de otros
+oyeſe lo miſmo. I mucho mas es de admirar lo que pa-
+ſò acerca deo en Moiſen,  con averle Dios manda-
+do con muchas razones, i conﬁrmadoſelo con las ſeña-
+les de la vara en ſerpiente, i de la mano leproſa,  fue-
+ſe a libertar los hijos de Iſrael, euvo tan flaco, dete-
+nido, i eſcuro en ea ida, que aunque ſe enojò Dios,
+nunca tuvo animo para acabar de tener fuerte Fè en el
+caſo, haa que le animò Dios en ſu hermano Aaron,
+diziendo: Aaronfrater tuus Levites ſcio, quod eloquens t,
+ecce ipſe egredietur in occurſum tuum, videnſquè te, ltabi-
+tur corde: loquere ad eum, &amp; pone verba mea in ore eius, &amp;
+ego ero in ore iuo, &amp; in ore iius. Yo sè, que tu hermano
+Aaron es hombre eloquente; el te ſaldra al encuentro,
+viendote, ſe alegrarà de coraçon: habla con el, i dile to
+das mis palabras, i yo ſerè en tu boca, i en la ſuya. Oi-
+das eas palabras Moiſen, animòſe luego cõ la eſperã-
+ça del conſuelo del conſejo  de ſu hermano avia de te
+ner. Por eo tiene el alma humilde  ſe atreve a tra-
+tar a ſolas con Dios, ni ſe puede acabar de ſatisfazer n
+gobierno, i conſejo humano. I a lo quiere Dios; por-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1686" y="2766"/>
+	<Point x="1712" y="2760"/>
+	<Point x="1810" y="2760"/>
+	<Point x="1810" y="2822"/>
+	<Point x="1738" y="2832"/>
+	<Point x="1714" y="2826"/>
+	<Point x="1692" y="2830"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="776" y="2932"/>
+	<Point x="1408" y="2926"/>
+	<Point x="1420" y="2996"/>
+	<Point x="776" y="2996"/>
+	<Point x="780" y="2988"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="marginalia">
+	<Coords>
+	<Point x="108" y="2062"/>
+	<Point x="108" y="2234"/>
+	<Point x="338" y="2234"/>
+	<Point x="338" y="2062"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Exod.4.
+14.15.</Unicode></TextEquiv></TextRegion></Page></PcGts>

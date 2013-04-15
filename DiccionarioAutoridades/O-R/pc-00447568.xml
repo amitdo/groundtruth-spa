@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00447568">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T21:04:25</Created>
+	<LastChange>2011-07-28T11:27:18</LastChange></Metadata>
+	<Page imageFilename="00447568.tif" imageWidth="2807" imageHeight="4132">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r72" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="327" y="248"/>
+	<Point x="2327" y="243"/>
+	<Point x="2327" y="422"/>
+	<Point x="327" y="437"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EXPLICACION DE LAS ABREVIATURAS DE LOS NOMBRES
+de los Autores y Obras, que van citados en ee quinto Tomo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r69" type="signature-mark">
+	<Coords>
+	<Point x="1750" y="3631"/>
+	<Point x="1845" y="3630"/>
+	<Point x="1845" y="3691"/>
+	<Point x="1750" y="3690"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>¶ 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r70" type="credit">
+	<Coords>
+	<Point x="970" y="3947"/>
+	<Point x="1820" y="3947"/>
+	<Point x="1820" y="4029"/>
+	<Point x="970" y="4029"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="323" y="452"/>
+	<Point x="2327" y="441"/>
+	<Point x="2350" y="3606"/>
+	<Point x="1755" y="3622"/>
+	<Point x="1220" y="3637"/>
+	<Point x="515" y="3638"/>
+	<Point x="472" y="3640"/>
+	<Point x="322" y="3644"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABARC. Annal. Padre Pedro de Abarca: Annales de Aragón.
+ABR. Com. de Terenc. Pedro Simón Abril: Traduccion de las Comedias de Terencio.
+ABR. Epi. Pedro Simón Abril: Traduccion de las Epíolas de Cicerón.
+ABR. Philoſ. Pedro Simón Abril: Philoſophía.
+ABR. Republ. Pedro Simón Abril: República de Arióreles.
+ACOST. Hi. Ind. Padre Joſeph de Acoa: Hioria naturál y morál de Indias.
+ALCAZ. Chron. P. Bartholomé Alcázar: Chronohioria de la Compañia de Jeſus.
+ALCAZ. Vid. de S. Julian. Padre Bartholomé Alcázar: Vid. de S. Julian Obiſpo de Cuenca.
+ALDRET. Antig. El Do. Bernardo Aldréte: Antigüedádes de Eſpaña.
+ALDRET. Orig. El Do. Bernardo Aldréte: Origen de la Lengua Caeana.
+ALFAR. La Vida de Guzmán de Alfarache: de Matheo Alemán.
+ALMAZ. Hi. del Momo. Aguin de Almazán: Traducción de la Hioria del Momo.
+ALV. GOM. Alvar Gomez de Ciudad Real: Sus Obras.
+ALVAR. DE TOLED. Hi. de la###Don Gabriel Alvarez de Toledo: Hioria de la Iglea y del
+###Igleſ. Mundo.
+AMAD. La Hioria de Amadís de Gáula.
+AMAY. Deſeng. Don Franciſco de Amaya: Deſengaño de los bienes humános.
+AMBR. MOR. Ambroo de Moráles: Sus Obras.
+A. MEND. Obr. Poet. Don Antonio de Mendoza: Sus Obras Poéticas.
+ANDR. Var. Ilur. Padre Alonſo de Andráde: Varónes Ilures de la Compañia.
+ANT. AGUST. Dial. Don Antonio Aguin: Diálogos de Medaas.
+ANT. PER. Cart. Antonio Perez: Sus Cartas.
+ARANC. Arancéles varios.
+ARDEM. Gob. Polit. Theodóro Ardemans: Gobierno político de las Fábricas.
+ARGENS. Annal. Bartholomé Leonardo de Argenſóla: Annáles de Aragón.
+ARGENS. Maluc. Bartholomé Leonardo de Argenſóla: Conquia de las Malúcas.
+ARGOT. Monter. Gonzalo Argóte de Molina: Tratado de la Montería.
+ARGOT. Nobl. Gonzalo Argóte de Molina: Nobleza de Andalucía.
+ARIAS MONT. Aphor. Arias Montano: Aphoriſmos de Tácito.
+ARTEAG. RIM. Don Felix de Arteaga: Rimas.
+AUT. ACORD. Los Autos Acordados del Conſéjo.
+Avil. Don Joſeph de Avilés: Ciencia heróica del Blaſón.
+AYAL. Caid. de Princ. Pedro Lopez de Ayála: Caida de Príncipes.
+AYAL. Cetrer. Pedro Lopez de Ayála: Tratado de Cetrería.
+BAB. Hi. Pintif. El Do. Luis de Babia: Continuacion de la Hioria Pontiﬁcál.
+BALB. Bern. El Do. D. Bernardo Balbuena: Poéma del Bernardo.
+BALLEST. Com. Eufrof. Don Fernando Baeeros: Comedia Eufrona.
+BARB. Cab. Perf. Alonſo de Salas Barbadio: El Cabaero perfeo.
+BARBAD. Coron. Alonſo de Salas Barbadio: Corónas del Parnáſo:
+BARBAD. Correcc. de vic. Alonſo de Salas Barbadio: Corrección de vicios.
+BARBAD. Urdem. Alonſo de Salas Barbadio: Vida de Pedro de Urdemálas.
+BAREN, Guerr. de Fland. P. Balio Barén de Soto: Traduccion de las Guerras de Flandes.
+BAREN, Guerr. de Franc. P. Balio Barén de Soto: Traduccion de las Guerras de Francia.
+B. ARGENS. Rim. Bartholomé Leonardo de Argenſóla: Rimas.
+B. CIUD. R. Epi. El Bachiér Fernan Gomez de Ciudad Real: Sus Epíolas.
+B. DE LA TORR. El Bachiér Franciſco de la Torre: Sus Obras.
+BETISS. Guichard. D. Othón Edilo Nato de Betiána: Epítome del Guichardíno.
+B. MEND. Polit. Don Bernardino de Mendóza: Política de Juo Lipo.
+BOBAD. Polit. Gerónymo del Caio y Bobadia: Política.
+BOC. DE OR. Bocados de Oro.
+BOCANG. Lyr. Don Gabriel Bocangel: La Lyra de las Muſas.
+BOLAñ. Cur. Philip. Juan de Hebia Bolaños: Curia Philípica.
+BOSC. Corteſ. Boſcán: El Corteſáno.
+BRAV. Benedi. Fr. Nicolás Bravo: Poéma, la Benediina.
+BROCENS. Franciſco Sanchez Brocenſe.
+BURG. Gatom. Thomé de Burguios: La Gatomáchia.
+BURG. Rim. Thomé de Burguios: Rimas.
+BUSCAY. Opuſc. El Marqués de Buſcayólo: Sus Opúſculos.
+CALD. Aut. Don Pedro Calderón de la Barca: Autos Sacramentales.
+CALD. Com. Don Pedro Calderón de la Barca: Comedias.
+CALIST. Y MELIB. La Tragicomédia de Calio y Melibéa:
+CALV. Albeit. Fernando Calvo: Albeitería.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r71" type="signature-mark">
+	<Coords>
+	<Point x="404" y="3648"/>
+	<Point x="405" y="3704"/>
+	<Point x="573" y="3704"/>
+	<Point x="573" y="3643"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tom. V.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r72" type="catch-word">
+	<Coords>
+	<Point x="2234" y="3630"/>
+	<Point x="2234" y="3684"/>
+	<Point x="2290" y="3677"/>
+	<Point x="2351" y="3684"/>
+	<Point x="2351" y="3630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAL-</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443977">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T11:13:30</Created>
+	<LastChange>2011-12-19T11:39:18</LastChange></Metadata>
+	<Page imageFilename="00443977.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="300" y="84"/>
+	<Point x="1481" y="84"/>
+	<Point x="1481" y="219"/>
+	<Point x="300" y="219"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="141" y="246"/>
+	<Point x="1738" y="248"/>
+	<Point x="1717" y="2656"/>
+	<Point x="1579" y="2671"/>
+	<Point x="1547" y="2647"/>
+	<Point x="1422" y="2645"/>
+	<Point x="1038" y="2667"/>
+	<Point x="863" y="2665"/>
+	<Point x="207" y="2666"/>
+	<Point x="148" y="2666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>recogerme, y an holgueme mucho cõ el, y
+determineme a ſeguir aquel camino con to‐
+das mis fuerças, y como ya el Señor me ha-
+uia dado don de lagrimas, y guaua de leer,
+comence a tener ratos de ſoledad, y a con-
+fearme a menudo, y començar aquel cami‐
+no teniendo aquel libro por maero, porque
+yo no hae maero, digo confeor, que me
+entendiee, aunque le buſque en veynte años
+deſpues deo  digo, que me hizo harto da
+ño para tornar muchas vezes atras: y aun pa‐
+ra del todo perderme, porque toda via me
+ayudara a ſalir de las occaones que tuue pa
+ra oﬀender a Dios. Començome ſu mage-
+ad a hazer tantas mercedes en eos princi-
+pios, que al ﬁn dee tiempo que euue aqui,
+que eran ca nueue meſes en ea ſoledad,
+aunque no tan libre de oﬀender a Dios, co‐
+mo el libro me dezia, mas por eo paaua
+yo, pareciame ca impoſsible tanta guarda.
+Tenia la de no hazer peccado mortal, y plu‐
+guiera a Dios la tuuiera empre: de los venia
+les hazia poco caſo, y eo fue lo que me de-
+ruyo. Començo el Señor a regalarme tanto
+por ee camino, que me hazía merced de
+dar me oracion de quietud, y alguna vez e-
+gaua a vnion, aunque yo no entendia que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="signature-mark">
+	<Coords>
+	<Point x="1340" y="2661"/>
+	<Point x="1470" y="2667"/>
+	<Point x="1470" y="2729"/>
+	<Point x="1352" y="2740"/>
+	<Point x="1329" y="2730"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="618" y="3054"/>
+	<Point x="1584" y="3054"/>
+	<Point x="1584" y="3157"/>
+	<Point x="618" y="3157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1566" y="122"/>
+	<Point x="1566" y="230"/>
+	<Point x="1703" y="230"/>
+	<Point x="1703" y="122"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>49</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1561" y="2679"/>
+	<Point x="1561" y="2750"/>
+	<Point x="1708" y="2750"/>
+	<Point x="1708" y="2679"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>era</Unicode></TextEquiv></TextRegion></Page></PcGts>

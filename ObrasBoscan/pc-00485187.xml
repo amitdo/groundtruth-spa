@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485187">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T02:23:07</Created>
+	<LastChange>2011-05-12T13:41:01</LastChange></Metadata>
+	<Page imageFilename="00485187.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="633" y="3029"/>
+	<Point x="1395" y="3029"/>
+	<Point x="1395" y="3093"/>
+	<Point x="633" y="3093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="320" y="202"/>
+	<Point x="1510" y="196"/>
+	<Point x="1556" y="2830"/>
+	<Point x="345" y="2832"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Atodos ala ley del matrimonio.
+No fueron eas bodas con padrinos,
+Ni con ſolenidad d'alegres ﬁeas.
+No aio Iuno prediendo al lecho,
+No'ſperaron para euar la'ſpoſa
+La ſalida del Heſpero luziente.
+No huuo Epitalameos de poetas,
+Ni tañer d' inurmentos ſonoroſos.
+No huuo lumbres colgadas delos techos,
+Ni ligero baylar con grandes ſaltos.
+No huuo no tiniebla, con lencio,
+Y ſoledad baante, aponer miedo.
+Y en lugar de cantar el Hymineo,
+Los moços, y donzeas Seianas:
+Canto el mochuelo deſde las almenas,
+Los agoreros, y funeos verſos,
+Que acuumbra cantar enlos principios,
+De muchos laimoſos infortunios.
+Nunca el aurora vio, el talamo deos
+Amantes, deſdichados, y contentos.
+La noche ſola fue, quien les compuſo
+Todos los ornamentos, y adereços.
+Por deſpues, que'ntrambos fuerõ enos,
+Del gozo que'l Amor vende tan caro:
+Ya que ſus menſageros la mañana
+Començaua a embiar, ſu poco apoco:
+Vuo Leandro de partirſe apriea.
+Y Seo fue con lagrimas de muerte,
+Y con dolor de laima entrañable,
+O tu amador que amae en algun tiempo,
+Tu, puedes veo agora y contemplao,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="header">
+	<Coords>
+	<Point x="608" y="101"/>
+	<Point x="1126" y="101"/>
+	<Point x="1126" y="189"/>
+	<Point x="608" y="189"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="page-number">
+	<Coords>
+	<Point x="1212" y="110"/>
+	<Point x="1554" y="110"/>
+	<Point x="1554" y="187"/>
+	<Point x="1212" y="187"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. CX.</Unicode></TextEquiv></TextRegion></Page></PcGts>

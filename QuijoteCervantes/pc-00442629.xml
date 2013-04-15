@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442629">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T10:31:51</Created>
+	<LastChange>2012-03-12T14:12:12</LastChange></Metadata>
+	<Page imageFilename="00442629.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="410" y="111"/>
+	<Point x="1188" y="97"/>
+	<Point x="1201" y="181"/>
+	<Point x="492" y="207"/>
+	<Point x="414" y="197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="171" y="197"/>
+	<Point x="333" y="201"/>
+	<Point x="454" y="207"/>
+	<Point x="490" y="210"/>
+	<Point x="521" y="208"/>
+	<Point x="1172" y="188"/>
+	<Point x="1295" y="197"/>
+	<Point x="1451" y="196"/>
+	<Point x="1431" y="1092"/>
+	<Point x="1433" y="1665"/>
+	<Point x="1426" y="2150"/>
+	<Point x="1404" y="2154"/>
+	<Point x="1269" y="2157"/>
+	<Point x="1201" y="2170"/>
+	<Point x="1079" y="2155"/>
+	<Point x="1003" y="2159"/>
+	<Point x="928" y="2177"/>
+	<Point x="158" y="2211"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dixo don Quixote, en yr me yo de ai, que no me
+auia de yr haa de xarte pagado: porque bien deuia
+yo de ſaber por luẽgas experiẽcias, que no ay via-
+no que guarde palabra que tiene,  el vee que no le
+eà bien guardaa. Pero ya te acuerdas Andres, que
+yo jurè  no te pagaua, que auia de yr abuſcarle, y
+que le auia de haar, aunque ſe eſcõdiee en el viẽ-
+tre de la Vaena. Aſsi es la verdad, dixo Andres, pe-
+ro no aprouechò nada. Ahora verás  aprouecha, di
+xo don Quixote, y diziendo eo, ſe Ieuantò muy
+apriea, y mandò a Sancho que enfrenae a Rozinã
+te, (que eaua paciendo entanto que eos comiã.)
+Preguntole Dorotea, que era lo que hazer queria?
+El le reſpondio, que queria yr abuſcar al viano, y
+caigae de tan mal termino, y hazer pagado a An-
+dres, haa el vltimo marauedi, a deſpecho, y peſar
+de quantos vianos huuiee en el mundo. A lo que
+ea reſpondio, que aduirtiee que no podia con-
+forme al don prometido entremeterſe en ninguna
+empreſa, haa acabar la ſuya, y que pues eo ſa-
+bia el mejor que otro alguno, que ſoegae el pe-
+cho, haa la buelta de ſu Reyno. Aſsi es verdad, reſ
+pondio don Quixote, y es forçoſo que Andres ten-
+ga paciencia haa la buelta, como vos ſeñora dezis,
+que yo le torno ã jurar yaprometer de nueuo, de no
+parar haa hazerle vengado, y pagado. No me creo
+deos juramentos, dixo Andres, mas quiera tener
+agora con que egar a Seuia, que todas las vengã-
+ças del mundo: de me  tiene aì algo que coma, y e
+ue, y quedeſe con Dios ſu merced, y todos los ca-
+uaeros andantes, que tambien andantes ſean eos
+para caigo, como lo han do para conmigo. Sacò</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="454" y="2305"/>
+	<Point x="1124" y="2302"/>
+	<Point x="1135" y="2368"/>
+	<Point x="458" y="2368"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1283" y="128"/>
+	<Point x="1286" y="193"/>
+	<Point x="1418" y="191"/>
+	<Point x="1424" y="126"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>177</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="1038" y="2164"/>
+	<Point x="1038" y="2215"/>
+	<Point x="1111" y="2215"/>
+	<Point x="1111" y="2164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Z</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1283" y="2160"/>
+	<Point x="1280" y="2218"/>
+	<Point x="1409" y="2218"/>
+	<Point x="1408" y="2160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de ſu</Unicode></TextEquiv></TextRegion></Page></PcGts>

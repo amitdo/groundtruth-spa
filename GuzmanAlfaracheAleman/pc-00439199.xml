@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439199">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T03:12:40</Created>
+	<LastChange>2011-05-12T13:39:51</LastChange></Metadata>
+	<Page imageFilename="00439199.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="151" y="80"/>
+	<Point x="1217" y="74"/>
+	<Point x="1226" y="169"/>
+	<Point x="137" y="171"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PARTE II. LIBRO II. CAP. VI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="48" y="183"/>
+	<Point x="1453" y="189"/>
+	<Point x="1468" y="2593"/>
+	<Point x="1185" y="2600"/>
+	<Point x="1137" y="2609"/>
+	<Point x="953" y="2624"/>
+	<Point x="881" y="2595"/>
+	<Point x="657" y="2600"/>
+	<Point x="598" y="2636"/>
+	<Point x="30" y="2624"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>V.m. El hombre ſe alterò, y dixo: Que dinero es
+el que V.m. manda que dè? y dixele, todo, ſeñor,
+todo, porque todo lo he meneer. El entonces dixo:
+Qual todo tengo de dar? Bolvile à dezir, el oro y la plata.
+Que oro y plata, me reſpondiò, y dixele, La plata y
+oro que V. m. acà tiene mio. Yo de V. m. oro ni plata
+me dixo? ni tengo plata ni oro, ni ſè lo  ſe dize. Como
+no sè lo que me digo, le reſpondì alborotado, bueno
+es eo por vida mia. Mejor es eotro dixo el, pedirme
+lo que no me diò, ni tengo ſuyo. Mire V. m. lo que
+dize, le bolvì à dezir, que para burlas baan, que
+ſon eas muy peſadas, para quien le falta guo. Eo
+eà bueno, me dixo, las de V. m. lo ſon, vayaſe en
+ora buena ſuplicole. Que me vaya dize, antes no
+deſseo ya otra coſa, mandeme dar V. m. aqueſse dinero.
+Qual dinero tengo yo de V. m. que me pide para que ſe
+lo dè? Pidole, dixe, los eſcudos y reales que le dexè à
+guardar eldia paſsado. V. m. me reſpondiò, nunca
+me dexò eſcudos ni reales, ni tal tengo ſuyo, Y dixe-
+le, acabò en ee momento de confeſsarme delante de
+todos eos cavaeros, quando le dixe, que vendria
+mañana mi criado por eos, que ſe los daria, y aora
+que buelvo yo, me los niega en un momento. Yo no
+niego à V. m. nada me dixo, porque no tengo recibido
+algo que poder bolver. Yo le truxe à V. m. avrà ocha
+dias mi hazienda, le dixe, y ſe la dì que me la guardaſse, y
+la tiene recebida, mandemela dar luego, porque no es
+mi voluntad tenerla mas un momento en ſu poder. En
+mi poder no tengo un quatrin ageno, vaya con Dios,
+no ſea el diablo que nos engañe à todos. A mi fue à quien
+ya engañò en darle à V. m. mi hazienda, y con una co-
+lera encendida, que parecia echar fuego por todo el
+roro, dixe: Que quiere dezir, no darme mi dinero;
+aqui me lo ha de dar luego de contado, n faltar un
+quatrin, ò mire como ha de ſer. Moròſe tan turbado y
+temeroſo, viendome tan colerico y reſuelto, que no
+ſupo que reſponder, y como ſonriendoſe, haziendo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1255" y="2606"/>
+	<Point x="1430" y="2601"/>
+	<Point x="1436" y="2677"/>
+	<Point x="1253" y="2682"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>burla</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="544" y="2872"/>
+	<Point x="1305" y="2865"/>
+	<Point x="1315" y="2936"/>
+	<Point x="540" y="2936"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1300" y="91"/>
+	<Point x="1300" y="180"/>
+	<Point x="1435" y="180"/>
+	<Point x="1435" y="91"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>167</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="696" y="2604"/>
+	<Point x="696" y="2689"/>
+	<Point x="890" y="2689"/>
+	<Point x="890" y="2604"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ll 4</Unicode></TextEquiv></TextRegion></Page></PcGts>

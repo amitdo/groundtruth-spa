@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444144">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:33:18</Created>
+	<LastChange>2011-12-19T11:39:28</LastChange></Metadata>
+	<Page imageFilename="00444144.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="935" y="86"/>
+	<Point x="1604" y="85"/>
+	<Point x="1600" y="215"/>
+	<Point x="928" y="213"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="369" y="225"/>
+	<Point x="1634" y="223"/>
+	<Point x="2027" y="228"/>
+	<Point x="2035" y="2614"/>
+	<Point x="1815" y="2619"/>
+	<Point x="1639" y="2629"/>
+	<Point x="1469" y="2657"/>
+	<Point x="388" y="2660"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>como me la ha dado a mi, penſando porque
+Señor dexays vnas perſonas muy ſantas, que
+ẽpre os hã ſeruido y trabajado, criadas en re
+ligion, y ẽdolo, y no como yo, que no tenia
+mas del nombre, y ver claro  no las hazeys
+las mercedes que a mi. Bien veo yo bien
+mio, que les guardays vos el premio para dar
+ſele junto, y  mi ﬂaqueza ha meneer eo,
+ya eos como fuertes os ruen n eo y los
+tratays como a gẽte esforçada, y no intereſal.
+Mas cõ todo ſabeys vos mi Señor  clamaua
+muchas vezes delante de vos diſculpando a
+las perſonas,  me murmurauã por me pare
+cia les ſobraua razõ. Eo era ya Señor deſpues
+ me teniades por vuera bõdad para  tãto
+no os oﬀendiee, y yo eaua ya deſuiandome
+de todo lo que me parecia os podia enojar, 
+en haziẽdo yo eo començaes Señor a abrir
+vueros theſoros para vuera erua, no pa-
+rece eſperauades otra coſa no que tuuiee
+voluntad y aparejo en mi, para recebirlos
+ſegun con breuedad començaes, a no ſolo
+dar los, no a querer entendieen me los da
+uades. Eo entendido començo a tenerſe
+buena opinion de la que todos aun no te-
+nian bien entendido quan mala era, aunque
+mucho ſe traſluzia, començo la murmu-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="601" y="3052"/>
+	<Point x="1587" y="3046"/>
+	<Point x="1584" y="3158"/>
+	<Point x="607" y="3160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="473" y="112"/>
+	<Point x="473" y="206"/>
+	<Point x="645" y="206"/>
+	<Point x="645" y="112"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>216</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1692" y="2630"/>
+	<Point x="1689" y="2715"/>
+	<Point x="1970" y="2722"/>
+	<Point x="1966" y="2623"/>
+	<Point x="1844" y="2627"/>
+	<Point x="1807" y="2628"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>racion</Unicode></TextEquiv></TextRegion></Page></PcGts>

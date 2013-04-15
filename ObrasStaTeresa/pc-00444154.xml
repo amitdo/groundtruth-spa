@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444154">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:34:35</Created>
+	<LastChange>2011-12-19T11:39:28</LastChange></Metadata>
+	<Page imageFilename="00444154.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1002" y="95"/>
+	<Point x="1602" y="92"/>
+	<Point x="1597" y="212"/>
+	<Point x="990" y="220"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="447" y="227"/>
+	<Point x="2022" y="232"/>
+	<Point x="2095" y="2642"/>
+	<Point x="1988" y="2637"/>
+	<Point x="1831" y="2654"/>
+	<Point x="450" y="2675"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>petu tan acelerado y fuerte, que veys y ſentis
+leuantarſe ea nuue, o ea aguila caudaloſa,
+y cogeros con ſus alas, y digo que ſe entien-
+de, y veys os euar y no ſabeys donde, porque
+aunque es con deleyte, la ﬂaqueza de nuero
+natural haze temer a los principios, y es me-
+neer anima determinada, y animoſa mucho
+mas que para lo que queda dicho para arriſ-
+carlo todo, venga lo que viniere, y dexarſe en
+las manos de Dios, e yr adonde nos euaren
+de grado, pues os euan aunque os peſe, y en
+tãto eremo que muy muchas vezes querria
+yo reir, y pongo todas mis fuerças en eſpe
+cial algunas, que es en publico, y otras hartas
+en ſecreto temiẽdo ſer engañada. Algunas ve
+zes podia algo con gran quebrantamiento,
+como quien pelea con vn jayan fuerte, que-
+daua deſpues canſada, otras era impoſsible 
+no que me euaua el alma, y aun ca ordina-
+rio la cabeça tras ea, n poderla tener, y al-
+gunas todo el cuerpo haa leuantarle. Eo
+na do pocas, porque como vna vez fuee
+adonde eauamos juntas en el choro, y yen-
+do a comulgar eando de rodias, dauame
+grandiſsima pena, porque me parecia coſa
+muy extraordinaria, y que auia de auer luego
+mucha nota, y an mande a las monjas (por-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1862" y="2657"/>
+	<Point x="1992" y="2655"/>
+	<Point x="2007" y="2658"/>
+	<Point x="2007" y="2757"/>
+	<Point x="1935" y="2752"/>
+	<Point x="1837" y="2745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="612" y="3058"/>
+	<Point x="1569" y="3058"/>
+	<Point x="1569" y="3164"/>
+	<Point x="612" y="3164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="474" y="117"/>
+	<Point x="474" y="220"/>
+	<Point x="633" y="220"/>
+	<Point x="633" y="117"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>226</Unicode></TextEquiv></TextRegion></Page></PcGts>

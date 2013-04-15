@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485267">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T13:32:18</Created>
+	<LastChange>2011-05-12T13:41:10</LastChange></Metadata>
+	<Page imageFilename="00485267.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="632" y="3026"/>
+	<Point x="1386" y="3026"/>
+	<Point x="1386" y="3091"/>
+	<Point x="632" y="3091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="377" y="143"/>
+	<Point x="732" y="156"/>
+	<Point x="1209" y="156"/>
+	<Point x="1250" y="145"/>
+	<Point x="1633" y="155"/>
+	<Point x="1642" y="875"/>
+	<Point x="377" y="875"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ea ciudad de mi tanto querida,
+Deſpues que con mis largos beneﬁcios,
+Entre todas s' haa ennohlecida,
+Acuerda de hazerme deſeruicios:
+Y ai peruerſa, y mal agradecida,
+Inuenta contra mi mil maleﬁcios,
+Maleﬁcios, que dan malos enxemplos:
+Contra los ſacriﬁcios de mis templos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="373" y="940"/>
+	<Point x="1585" y="940"/>
+	<Point x="1585" y="1676"/>
+	<Point x="373" y="1676"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dos ſeñoras ai, ſon principales
+En ſaber, en valer, y en hermoſura:
+Diſpueas paradar bienes, y males,
+Deleytes, y dolor gozo, y triura.
+Sobrepujan ſus gracias, las mortales.
+Traſlados proprios ſon de mi ﬁgura.
+Y no fueran tanto d'un ygual,
+Ambas murieran de quererſe mal.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="360" y="1739"/>
+	<Point x="1601" y="1739"/>
+	<Point x="1601" y="2488"/>
+	<Point x="360" y="2488"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eas pnera yo en tan alto grado,
+Que ſubieran a ſer mas que mugeres,
+Sino que ai, n mas an acordado,
+D'hazerſe contrami dos Luciferes:
+Quieren tener eſento ſu cuydado,
+Y libres ſus peſares, y plazeres.
+Y en ﬁn quieren biuir, como biuieran,
+Si n cuerpos aca ſolas nacieran.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="657" y="64"/>
+	<Point x="1208" y="64"/>
+	<Point x="1208" y="150"/>
+	<Point x="657" y="150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="page-number">
+	<Coords>
+	<Point x="1243" y="54"/>
+	<Point x="1690" y="56"/>
+	<Point x="1702" y="146"/>
+	<Point x="1595" y="139"/>
+	<Point x="1241" y="133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. CXLIX.</Unicode></TextEquiv></TextRegion></Page></PcGts>

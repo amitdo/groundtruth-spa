@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485038">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T00:06:10</Created>
+	<LastChange>2011-05-12T13:40:47</LastChange></Metadata>
+	<Page imageFilename="00485038.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r5" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1161" y="87"/>
+	<Point x="1635" y="96"/>
+	<Point x="1648" y="161"/>
+	<Point x="1593" y="200"/>
+	<Point x="1151" y="180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. XXXV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="credit">
+	<Coords>
+	<Point x="622" y="3012"/>
+	<Point x="1409" y="3012"/>
+	<Point x="1409" y="3096"/>
+	<Point x="622" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="406" y="164"/>
+	<Point x="1093" y="164"/>
+	<Point x="1096" y="177"/>
+	<Point x="1158" y="219"/>
+	<Point x="1587" y="219"/>
+	<Point x="1651" y="229"/>
+	<Point x="1658" y="1470"/>
+	<Point x="406" y="1470"/>
+	<Point x="380" y="225"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vuero gentil ſemblante
+Tan grandes ſon las fuerças,  en mi tiene,
+Que alguna vez me peſa vee tal.
+Mi alma no ſoiene
+Ver iunto tanto bien en vn inante:
+Y mas, que tan gran biẽ es muy gran mal.
+Como durara vn ſer tan degual.
+Vuero es el geo, y el mirar es mio,
+Y mientra mas vuera hermo ſura crece,
+Mi via mas padece,
+Tanto, que ya ſuﬀrirſe es deſuario.
+Totalmente a de ſer
+Forçado en ee crudo deſafﬁo,
+Que vos dexeys, o templeys vr̃o ſer,
+O yo ſeñora que os dexe de ver</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="358" y="1490"/>
+	<Point x="1635" y="1490"/>
+	<Point x="1635" y="2809"/>
+	<Point x="358" y="2809"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Las coſas que os contemplo,
+Quando os las miro, no pueden venir
+Ala medida d'vn hombre, que muere.
+No puedo yo ſentir
+De hermoſura vn tan ſubido enxemplo.
+Por fe os a de querer aquel que os quiere.
+Gran parte de ſu gloria, quien os viere,
+La perdera, por falta de ſentia.
+Ai que os empobreçe la riqueza.
+Pues vuera gentileza
+De mucha, no es de crea, ni dezia.
+Si yo pudiee gozaa
+Mi bienauenturança, o recebia,
+Como vos mi ſeñora podeys daa,
+Yo bien podria yo bien alcançaa.</Unicode></TextEquiv></TextRegion></Page></PcGts>

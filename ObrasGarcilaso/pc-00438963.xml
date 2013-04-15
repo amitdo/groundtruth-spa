@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438963">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T21:05:03</Created>
+	<LastChange>2011-06-24T14:04:28</LastChange></Metadata>
+	<Page imageFilename="00438963.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r11" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r18" index="3"/>
+	<RegionRefIndexed regionRef="r20" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="334" y="49"/>
+	<Point x="1135" y="33"/>
+	<Point x="1121" y="143"/>
+	<Point x="986" y="143"/>
+	<Point x="328" y="136"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ANOTACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1144" y="1964"/>
+	<Point x="1300" y="1954"/>
+	<Point x="1348" y="1960"/>
+	<Point x="1330" y="2029"/>
+	<Point x="1148" y="2028"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>citada</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="482" y="2095"/>
+	<Point x="978" y="2094"/>
+	<Point x="975" y="2140"/>
+	<Point x="491" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="103" y="136"/>
+	<Point x="233" y="132"/>
+	<Point x="300" y="148"/>
+	<Point x="661" y="146"/>
+	<Point x="1238" y="171"/>
+	<Point x="1207" y="422"/>
+	<Point x="987" y="435"/>
+	<Point x="834" y="457"/>
+	<Point x="713" y="435"/>
+	<Point x="545" y="449"/>
+	<Point x="517" y="451"/>
+	<Point x="466" y="437"/>
+	<Point x="411" y="460"/>
+	<Point x="340" y="452"/>
+	<Point x="326" y="446"/>
+	<Point x="314" y="432"/>
+	<Point x="132" y="430"/>
+	<Point x="120" y="408"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>en la cancion citada.
+Iui non corre il di verſo la ſera,
+ne le notti ſen' van contra il mattino,
+iui il caſo non po multo ne poco.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="123" y="439"/>
+	<Point x="275" y="440"/>
+	<Point x="316" y="445"/>
+	<Point x="353" y="461"/>
+	<Point x="378" y="468"/>
+	<Point x="390" y="466"/>
+	<Point x="506" y="453"/>
+	<Point x="693" y="448"/>
+	<Point x="734" y="448"/>
+	<Point x="839" y="465"/>
+	<Point x="979" y="448"/>
+	<Point x="1336" y="437"/>
+	<Point x="1338" y="785"/>
+	<Point x="380" y="820"/>
+	<Point x="102" y="812"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Piſa el in menſo Cielo. Bernar. Tao.
+E' cogi' aui &amp; col padre intorno, il piede mo-
+nendo mire le beate genti.
+chi han deor ben oprar giua mercede,
+Fracaor.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="marginalia">
+	<Coords>
+	<Point x="48" y="421"/>
+	<Point x="117" y="421"/>
+	<Point x="117" y="505"/>
+	<Point x="48" y="505"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>61</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="102" y="825"/>
+	<Point x="341" y="829"/>
+	<Point x="1347" y="808"/>
+	<Point x="1343" y="1403"/>
+	<Point x="1177" y="1419"/>
+	<Point x="887" y="1422"/>
+	<Point x="812" y="1440"/>
+	<Point x="773" y="1420"/>
+	<Point x="328" y="1419"/>
+	<Point x="94" y="1424"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quos inter tuusie recens à ſunere frater
+Mitatur cailum, cœli columquê domos.
+A Eternamque diem, &amp; fœlicem ex ordine
+gentem,
+Inter quos gaudet ſe quoque dinumerans.
+Quem circum iures anim, proauiquè,
+paterque,
+Intentos ocu los ore nepotis habent.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="95" y="1438"/>
+	<Point x="324" y="1426"/>
+	<Point x="647" y="1427"/>
+	<Point x="702" y="1428"/>
+	<Point x="782" y="1444"/>
+	<Point x="807" y="1448"/>
+	<Point x="821" y="1449"/>
+	<Point x="888" y="1432"/>
+	<Point x="1063" y="1428"/>
+	<Point x="1212" y="1434"/>
+	<Point x="1359" y="1418"/>
+	<Point x="1352" y="1835"/>
+	<Point x="830" y="1874"/>
+	<Point x="458" y="1884"/>
+	<Point x="128" y="1876"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mira la tierra. Tulio en el ſueño de Sci-
+pion: I am verò ipſa terra ita mihi parua vi-
+ſa e, vi me imperĳ nori, quo qua punum
+eius attingimus, pœniteret. Y Plinio libr. 2.
+capit. 68. la ama punto, y haze ſobre eo
+doas conderaciones.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="120" y="1880"/>
+	<Point x="447" y="1890"/>
+	<Point x="836" y="1884"/>
+	<Point x="1351" y="1860"/>
+	<Point x="1343" y="1944"/>
+	<Point x="685" y="1984"/>
+	<Point x="147" y="1968"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O bienauenturado que nira. Bembo en la</Unicode></TextEquiv></TextRegion></Page></PcGts>

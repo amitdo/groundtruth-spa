@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443970">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:42:33</Created>
+	<LastChange>2011-12-19T11:39:18</LastChange></Metadata>
+	<Page imageFilename="00443970.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="405" y="56"/>
+	<Point x="820" y="56"/>
+	<Point x="820" y="237"/>
+	<Point x="405" y="237"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>42</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="420" y="253"/>
+	<Point x="520" y="247"/>
+	<Point x="829" y="255"/>
+	<Point x="901" y="235"/>
+	<Point x="1997" y="228"/>
+	<Point x="2027" y="2635"/>
+	<Point x="1819" y="2631"/>
+	<Point x="1700" y="2674"/>
+	<Point x="1364" y="2666"/>
+	<Point x="410" y="2669"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dad del mundo. haziame le leyee, y aun no
+era amiga deos moraua  , por en eo
+de dar contẽto a otros he tenido eremo, aũ-
+ a mi me hiziee peſar, tãto  en otras fuera
+virtud, y en mi ha do grã falta, por yua mu
+chas vezes muy n diſcreciõ. O vala me Dios
+por terminosme andaua ſu magead diſpo
+niẽdo, para el eado en que ſe quiſo ſeruir de
+mi,  n quererlo yo me forço a  me hizieſ
+ſe fuerça; ſea bendito por empre amen. Aun
+ fueron los dias que euue pocos, cõ la fuer
+ça que hazian en mi coraçon las palabras de
+Dios, an leydas, como oydas, y la buena
+compañia vine a yr entendiendo laverdad de
+quando niña, de  no era todo nada, y la vani
+dad del mundo, y como acabaua en breue, y a
+temer,  me vuiera muerto, como me yua
+al inﬁerno, y aunque no acabaua mi volun
+tad de inclinarſe a ſer monja, vi era el me‐
+jor y mas ſeguro eado, y an poco apoco
+me determine a forçarme para tomarle. En
+ea bataa euue tres meſes, forçando me
+ami miſma con ea razon, que los trabajos y
+pena de ſer monja no podia ſer mayor que la
+del purgatorio, y que yo auia bien mereci‐
+do el inﬁerno, que no era mucho ear lo
+que biuiee como en purgatorio, y que deſ-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="623" y="3060"/>
+	<Point x="1560" y="3066"/>
+	<Point x="1582" y="3143"/>
+	<Point x="618" y="3144"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="879" y="96"/>
+	<Point x="879" y="216"/>
+	<Point x="1547" y="216"/>
+	<Point x="1547" y="96"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1797" y="2651"/>
+	<Point x="1797" y="2758"/>
+	<Point x="2003" y="2758"/>
+	<Point x="2003" y="2651"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pues</Unicode></TextEquiv></TextRegion></Page></PcGts>

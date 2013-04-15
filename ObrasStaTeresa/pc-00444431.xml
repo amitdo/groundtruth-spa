@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444431">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:39:21</Created>
+	<LastChange>2011-12-19T11:39:45</LastChange></Metadata>
+	<Page imageFilename="00444431.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="315" y="95"/>
+	<Point x="1507" y="114"/>
+	<Point x="1500" y="236"/>
+	<Point x="312" y="232"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="182" y="2497"/>
+	<Point x="359" y="2482"/>
+	<Point x="891" y="2489"/>
+	<Point x="973" y="2489"/>
+	<Point x="1023" y="2490"/>
+	<Point x="1586" y="2482"/>
+	<Point x="1713" y="2500"/>
+	<Point x="1755" y="2507"/>
+	<Point x="1750" y="2649"/>
+	<Point x="1632" y="2651"/>
+	<Point x="1562" y="2672"/>
+	<Point x="1158" y="2681"/>
+	<Point x="169" y="2685"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sabia que vna perſona que ſe auia deter-
+minado a ſeruir a Dios muy de veras, y te-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="621" y="3060"/>
+	<Point x="1568" y="3066"/>
+	<Point x="1561" y="3149"/>
+	<Point x="615" y="3156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="156" y="243"/>
+	<Point x="1787" y="247"/>
+	<Point x="1787" y="2494"/>
+	<Point x="1619" y="2476"/>
+	<Point x="1487" y="2476"/>
+	<Point x="1006" y="2488"/>
+	<Point x="929" y="2487"/>
+	<Point x="365" y="2474"/>
+	<Point x="183" y="2487"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mucha obligacion, queria hazer vna coſa har
+to contra Dios y ſu honra, y eaua ya muy
+determinado a eo, era tãta mi fatiga que no
+ſabia que hazer, remedio para que lo dexae,
+y aun parecia que no le auia, ſuplique a Dios
+muy de coraçõ que le puee, mas haa ver
+Io no podia aliuiarſe mi pena. Fuyme eãdo
+aſsi a vna ermita bien apartada, que las ay
+en ee moneerio, y eando en vna adonde
+ea Chrio a la colũna, ſuplicandole me hi-
+ziee ea merced: oy  me hablaua vna boz
+muy ſuaue como metida en vn luo, yo me
+eſpeluze toda que me hizo temor, y quiera
+entender lo que me dezia, mas no pude que
+pao muy en breue, paado mi temor que
+fue preo, quede con vn ſoſsiego y gozo, y
+deleyte interior que yo me eſpante, que ſolo
+oyr vna boz, que eo oylo con los oydos cor
+porales, y n entender palabra, hiziee tanta
+operacion en el alma. En eo vi que ſe auia
+de hazer lo que pedia, y an fue que ſe me
+quito del toda la pena, en coſa que aun no
+era como  lo viera hecha, como fue deſ-
+pues: dixelo a mis confeores que tenia entõ-
+ces dos harto letrados, y eruos de Dios.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1546" y="2683"/>
+	<Point x="1550" y="2753"/>
+	<Point x="1728" y="2744"/>
+	<Point x="1733" y="2663"/>
+	<Point x="1628" y="2660"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nido</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1540" y="122"/>
+	<Point x="1540" y="236"/>
+	<Point x="1727" y="236"/>
+	<Point x="1727" y="122"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>509</Unicode></TextEquiv></TextRegion></Page></PcGts>

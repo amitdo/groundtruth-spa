@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444206">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:41:16</Created>
+	<LastChange>2011-12-19T11:39:31</LastChange></Metadata>
+	<Page imageFilename="00444206.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r11" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="633" y="3055"/>
+	<Point x="1560" y="3055"/>
+	<Point x="1564" y="3145"/>
+	<Point x="624" y="3147"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="454" y="150"/>
+	<Point x="597" y="140"/>
+	<Point x="676" y="152"/>
+	<Point x="669" y="252"/>
+	<Point x="450" y="252"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>278</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="928" y="130"/>
+	<Point x="1557" y="119"/>
+	<Point x="1566" y="247"/>
+	<Point x="945" y="245"/>
+	<Point x="916" y="247"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="440" y="257"/>
+	<Point x="2004" y="257"/>
+	<Point x="1993" y="2640"/>
+	<Point x="1493" y="2677"/>
+	<Point x="440" y="2732"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dizen, que no lo creera nadie, no quien
+ha paado por eo, y por eſpero yo en Dios
+v. m. ha de aprouechar mucho lo digo aqui,
+que fue toda mi ſalud ſaberme curar, y te-
+ner humildad y charidad para ear conmi-
+go, y ſuﬀrimiento de ver que no en todo
+me enmendaua. Yua con diſcrecion poco a
+poco dando maneras para vencer al demo-
+nio. Yo le comence a tener tan grande amor,
+que no auia para mi mayor deſcanſo, que el
+dia que le via, aunque eran pocos. Quando
+tardaua luego me fatigaua mucho, parecien
+dome que por ſer tan ruyn no me via. Como
+el fue entẽdiendo mis imperfeciones tã grã-
+des, y aũ ſerian peccados, aunque deſpues  le
+trate mas enmẽdada eaua, y como le dixe las
+mercedes que Dios me hazia, para  me dieſ-
+ſe luz, dixo me que novenia lo vno cõ lo otro,
+que aqueos regalos eran de perſonas  ea-
+uan ya muy aprouechadas y mortiﬁcadas, 
+no podia dexar de temer mucho, porque le
+parecia mal ſpiritu en algunas coſas, mas
+que no ſe determinaua, mas que penſaſ-
+ſe bien todo lo que entendia de mi ora-
+cion, y ſe lo dixee, y era el trabajo,
+que yo no ſabia poco ni mucho dezir lo
+que era mi oracion, porque ea mer-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="catch-word">
+	<Coords>
+	<Point x="1825" y="2664"/>
+	<Point x="1981" y="2650"/>
+	<Point x="1977" y="2737"/>
+	<Point x="1825" y="2741"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ced</Unicode></TextEquiv></TextRegion></Page></PcGts>

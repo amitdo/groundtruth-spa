@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440229">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T12:31:36</Created>
+	<LastChange>2011-12-19T11:38:51</LastChange></Metadata>
+	<Page imageFilename="00440229.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r4" index="0"/>
+	<RegionRefIndexed regionRef="r11" index="1"/>
+	<RegionRefIndexed regionRef="r12" index="2"/>
+	<RegionRefIndexed regionRef="r19" index="3"/>
+	<RegionRefIndexed regionRef="r21" index="4"/>
+	<RegionRefIndexed regionRef="r14" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="724" y="1588"/>
+	<Point x="1864" y="1590"/>
+	<Point x="1910" y="1584"/>
+	<Point x="1948" y="1582"/>
+	<Point x="2160" y="1607"/>
+	<Point x="2388" y="1603"/>
+	<Point x="2681" y="1606"/>
+	<Point x="2682" y="2042"/>
+	<Point x="719" y="2058"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Con ea tabla, para reducir las diancias entre los pa‐
+ralelos de las Señales al nivèl del Mar, ſean,
+EA� la diancia, que ſe ha de reducir
+T el centro de la Tierra
+BC el nivèl del Mar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="717" y="2071"/>
+	<Point x="1020" y="2065"/>
+	<Point x="2680" y="2057"/>
+	<Point x="2682" y="2605"/>
+	<Point x="717" y="2620"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y tirando las dos lineas ET, AT; BC ſerà la diancia re‐
+ducida; la que ſe conocerà con ea analogìa.
+TE, el Radio de la Tierra mas la altura BE, es à
+EA diancia propuea: como
+BE altura ſobre el nivèl del Mar, à
+EA-BC.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="catch-word">
+	<Coords>
+	<Point x="2509" y="3432"/>
+	<Point x="2619" y="3432"/>
+	<Point x="2619" y="3491"/>
+	<Point x="2509" y="3491"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>re-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="credit">
+	<Coords>
+	<Point x="974" y="3990"/>
+	<Point x="1983" y="3990"/>
+	<Point x="1983" y="4103"/>
+	<Point x="974" y="4103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="page-number">
+	<Coords>
+	<Point x="806" y="364"/>
+	<Point x="806" y="441"/>
+	<Point x="990" y="441"/>
+	<Point x="990" y="364"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>210</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="header">
+	<Coords>
+	<Point x="1300" y="345"/>
+	<Point x="1300" y="441"/>
+	<Point x="2061" y="441"/>
+	<Point x="2061" y="345"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="729" y="448"/>
+	<Point x="2674" y="448"/>
+	<Point x="2674" y="1595"/>
+	<Point x="2234" y="1599"/>
+	<Point x="2110" y="1593"/>
+	<Point x="1942" y="1575"/>
+	<Point x="1797" y="1586"/>
+	<Point x="1260" y="1581"/>
+	<Point x="735" y="1576"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Altura de el Corazòn (G) 2298.1 toeſas
+Milìn (K) 1878.9
+Chulàpu (N) 2038.0
+Chichichòco (P) 1909.2
+Guayàma (R) 2329.0
+Siſa-Pòngo (T) 2180.8
+Lanlangùſo (U) 2319.0
+Chuſaì (Y) 2040.6
+Sinaſaguàn (α) 2419.1
+Bueràn (γ) 2061.5
+Surampàlte (π) 1903.8
+La Torre de Cuenca (ε) 1414.0</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="703" y="2632"/>
+	<Point x="2714" y="2630"/>
+	<Point x="2715" y="2900"/>
+	<Point x="1863" y="2939"/>
+	<Point x="1817" y="2934"/>
+	<Point x="1768" y="2910"/>
+	<Point x="1150" y="2907"/>
+	<Point x="700" y="2896"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cuyo ultimo termino  ſe ſubràe de la diancia propueſ‐
+ta, ſe tendrà la verdadera, ò reducida; y deſpues del calculo
+hecho ſe tendràn las reducciones guientes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="696" y="2912"/>
+	<Point x="1528" y="2916"/>
+	<Point x="1753" y="2925"/>
+	<Point x="1850" y="2952"/>
+	<Point x="2719" y="2919"/>
+	<Point x="2724" y="3422"/>
+	<Point x="693" y="3410"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Diancia entre los paralelos de ωΨ 12115.006 toeſas
+menos lo que la Caſa, que rviò de Señal
+en Mira eaba al Norte del Obſervato‐
+rio, del qual nos rviò una Hacienda
+cercana de Pueblo viejo 170.62</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="footnote">
+	<Coords>
+	<Point x="483" y="1745"/>
+	<Point x="703" y="1745"/>
+	<Point x="703" y="1861"/>
+	<Point x="483" y="1861"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a Fig. 9.
+Lam. 6.</Unicode></TextEquiv></TextRegion></Page></PcGts>

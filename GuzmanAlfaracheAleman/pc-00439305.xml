@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439305">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T01:26:33</Created>
+	<LastChange>2011-05-12T13:39:58</LastChange></Metadata>
+	<Page imageFilename="00439305.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="578" y="83"/>
+	<Point x="1489" y="87"/>
+	<Point x="1490" y="95"/>
+	<Point x="1487" y="189"/>
+	<Point x="583" y="187"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="331" y="218"/>
+	<Point x="1709" y="204"/>
+	<Point x="1710" y="2624"/>
+	<Point x="1648" y="2616"/>
+	<Point x="1621" y="2613"/>
+	<Point x="1557" y="2630"/>
+	<Point x="330" y="2636"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>quando para la primera entrada tengo de gaar en joyas
+y adereços, aqueo con que buſco mi vida. Gaeſe
+lo principal, y quedome deſpues con la neceſdad:
+porque quien compra lo que no ha meneer, vende
+lo que ha meneer. De que fruto es para un pobre
+hombre negociante, ſeys pares de veidos à ſu eſpoſa,
+en que conſume todo el caudal que tiene, por ventura
+podrà deſpues tratar con eos? Eava la ſeñora mi mu-
+ger mal acoumbrada y poco pratica en miſerias; en
+caſa de ſu padre lo avia paado bien, y con mucho re-
+galo, y en mi poder no menos, hazianſe los trabajos
+muchos y duros. Con lo poco que me quedò, bolvÌ à
+dar mis mohatras, con aquea libertad: Sicut erat in
+principo, Yo ﬁava, mi ſuegro comprava, y al contra-
+rio como caian las peſas: empero nunca la mercaduria
+ſalia de caſa. Lo mas ordinario era oro hilado, algunas
+vezes plata labrada, joyas de oro, encajando bien las
+hechuras, y con eo algunas bromas de que no ſe podia
+ſalir, y aviamos comprado à menos ſprecio. Ganavaſe
+con que menos mal paar, todo era poco, por ſerlo
+tambien el caudal, y ai poco à poco nos lo yvamos co-
+miendo y conſumiendo, empero à la dote no ſe tocava,
+empre andava en pie, por ſer poſseſones, aquien ja-
+mas mi muger conntiò que ſe egaſse, ni aun por lum-
+bre. Davamos la hazienda ﬁada por quatro meſes, con
+el quinto de ganancia el eſcrivano (que lo teniamos à
+propoto y conocido, como lo aviamos meneer) dava
+empre ſè del entrego de las mercaderias. Tomavalas
+luego en  el corredor, que era nuera tercera perso-
+na, y una miſma conmigo y con el eſcrivano. Llevava-
+las en ſu poder, y dentro de dos horas evava el dinero
+à ſu dueño, con aqueo menos en que dezia que lo ven-
+dia, y quedavaſenos en caſa, recebida ſu carta de pa-
+go, y à Dios con todos. Teniamos por coumbre valer-
+nos de un ardid ſubtiliſmo, para que no ſe nos eſca-
+paen algunos por los ayres, alegando hidalguia, ò
+alguna otra excepcion, que les valiee, ò de que ſe</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1607" y="2624"/>
+	<Point x="1654" y="2627"/>
+	<Point x="1689" y="2628"/>
+	<Point x="1693" y="2684"/>
+	<Point x="1643" y="2687"/>
+	<Point x="1607" y="2689"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pu-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="546" y="2865"/>
+	<Point x="1306" y="2865"/>
+	<Point x="1306" y="2930"/>
+	<Point x="1309" y="2933"/>
+	<Point x="1190" y="2933"/>
+	<Point x="546" y="2930"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="319" y="204"/>
+	<Point x="318" y="128"/>
+	<Point x="460" y="125"/>
+	<Point x="463" y="198"/>
+	<Point x="454" y="206"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>274</Unicode></TextEquiv></TextRegion></Page></PcGts>

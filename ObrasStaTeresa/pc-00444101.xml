@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444101">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:58:06</Created>
+	<LastChange>2011-12-19T11:39:25</LastChange></Metadata>
+	<Page imageFilename="00444101.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="357" y="108"/>
+	<Point x="1573" y="114"/>
+	<Point x="1577" y="218"/>
+	<Point x="358" y="218"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="192" y="244"/>
+	<Point x="1764" y="242"/>
+	<Point x="1776" y="2653"/>
+	<Point x="1541" y="2653"/>
+	<Point x="1503" y="2673"/>
+	<Point x="151" y="2678"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tengan las almas perfetas. Es ea centea vna
+ſeñal o prenda que da Dios a ea alma de
+que la eſcoge ya para grandes coſas,  ea ſe
+apareja para recebias, es gran don mucho
+mas de lo que yo podre dezir. Es me gran la-
+ima, porque como digo conozco muchas
+almas que egan aqui, y que paen de aqui,
+como han de paar, ſon tan pocas, que ſe me
+haze verguença dezirlo. No digo yo que ay
+pocas, que muchas deue de auer, que por algo
+nos ſuenta Dios, digo lo que he vio. Que-
+rrialas mucha auiſar que miren no abſcondã
+el talento, pues que parece las quiere Dios eſ-
+coger para prouecho de otras muchas, en eſ-
+pecial en eos tiẽpos, que ſon meneer ami-
+gos fuertes de Dios, para ſuentar los ﬂacos:
+y los que ea merced conocieren en , tengã
+ſe por tales,  ſaben reſponder con las leyes,
+que aun la buena amiad del mundo pide, y
+no, como he dicho, teman, y ayan miedo no
+ſe hagan a  mal, y plega a Dios ſea a  ſolos.
+Lo que ha de hazer el alma en los tiempos
+dea quietud, no es mas de conſuauidad, y n
+ruydo ( amo ruydo andar con el entendimiẽ
+to buſcando muchas palabras, y condera-
+ciones para dar gracias dee beneﬁcio, y a-
+montonar peccados ſuyos, y faltas para ver</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1580" y="2673"/>
+	<Point x="1755" y="2673"/>
+	<Point x="1755" y="2762"/>
+	<Point x="1580" y="2762"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="591" y="3032"/>
+	<Point x="1612" y="3032"/>
+	<Point x="1612" y="3149"/>
+	<Point x="591" y="3149"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1594" y="125"/>
+	<Point x="1594" y="234"/>
+	<Point x="1748" y="234"/>
+	<Point x="1748" y="125"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>173</Unicode></TextEquiv></TextRegion></Page></PcGts>

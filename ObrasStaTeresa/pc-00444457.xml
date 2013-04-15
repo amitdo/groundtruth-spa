@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444457">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:42:40</Created>
+	<LastChange>2011-12-19T11:39:46</LastChange></Metadata>
+	<Page imageFilename="00444457.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r8" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="311" y="38"/>
+	<Point x="1542" y="38"/>
+	<Point x="1542" y="216"/>
+	<Point x="311" y="216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="192" y="230"/>
+	<Point x="1747" y="226"/>
+	<Point x="1754" y="923"/>
+	<Point x="1752" y="1647"/>
+	<Point x="197" y="1650"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>uan con gran feruor, tenian los roros her-
+moſos y muy encendidos, y echauan mu-
+chos en el ſuelo vencidos, otros matauan:
+pareciame ea bataa contra los hereges. A
+ee glorioſo ſanto he vio algunas vezes, y
+me ha dicho algunas coſas, y agradecidome
+la oracion que hago por ſu orden, y prome-
+tido de encomendarme al Señor. No ſeñalo
+las ordenes,  el Señor es ſeruido ſe ſepa las
+declarara, porque no ſe agrauiẽ otras, mas ca-
+da orden auia de procurar, o cada vno de
+ea por  que por ſus medios hiziee el Se-
+ñor tan dichoſa ſu orden, que en tan gran
+neceſsidad como agora tiene la Iglea le
+ruieen, dichoſas vidas que en eo ſe aca-
+baren.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="197" y="1666"/>
+	<Point x="1759" y="1664"/>
+	<Point x="1747" y="2544"/>
+	<Point x="544" y="2545"/>
+	<Point x="408" y="2546"/>
+	<Point x="390" y="2555"/>
+	<Point x="360" y="2568"/>
+	<Point x="337" y="2567"/>
+	<Point x="325" y="2548"/>
+	<Point x="189" y="2553"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rogome vna perſona vna vez, que ſupli-
+coe a Dios le diee a entender  ſeria ſerui
+cio ſuyo tomar vn Obiſpado, dixome el Se-
+ñor acabando de comulgar, quando enten-
+diere con toda verdad y claridad que el ver-
+dadero Señorio es no poeer nada, entonces
+le podra tomar, dando a entender que ha de
+ear muy fuera de deearlo, ni quererlo,
+quien vuiere de tener prelacias, o alomenos
+de procurarlas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="303" y="2566"/>
+	<Point x="334" y="2569"/>
+	<Point x="355" y="2570"/>
+	<Point x="369" y="2570"/>
+	<Point x="387" y="2560"/>
+	<Point x="422" y="2554"/>
+	<Point x="431" y="2553"/>
+	<Point x="451" y="2551"/>
+	<Point x="829" y="2550"/>
+	<Point x="860" y="2551"/>
+	<Point x="1732" y="2558"/>
+	<Point x="1729" y="2645"/>
+	<Point x="1005" y="2658"/>
+	<Point x="869" y="2660"/>
+	<Point x="301" y="2658"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eas mercedes y otras muchas ha hecho</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="1357" y="2656"/>
+	<Point x="1550" y="2656"/>
+	<Point x="1550" y="2752"/>
+	<Point x="1357" y="2752"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ll 5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="614" y="3059"/>
+	<Point x="1568" y="3059"/>
+	<Point x="1568" y="3155"/>
+	<Point x="614" y="3155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1561" y="104"/>
+	<Point x="1561" y="214"/>
+	<Point x="1707" y="214"/>
+	<Point x="1707" y="104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>537</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="1646" y="2654"/>
+	<Point x="1731" y="2654"/>
+	<Point x="1731" y="2734"/>
+	<Point x="1646" y="2734"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>el</Unicode></TextEquiv></TextRegion></Page></PcGts>

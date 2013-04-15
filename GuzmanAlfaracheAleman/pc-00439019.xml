@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439019">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T15:50:18</Created>
+	<LastChange>2010-12-28T08:27:19</LastChange></Metadata>
+	<Page imageFilename="00439019.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r4" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/>
+	<RegionRefIndexed regionRef="r7" index="3"/>
+	<RegionRefIndexed regionRef="r8" index="4"/>
+	<RegionRefIndexed regionRef="r10" index="5"/>
+	<RegionRefIndexed regionRef="r11" index="6"/>
+	<RegionRefIndexed regionRef="r12" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="197" y="809"/>
+	<Point x="1478" y="819"/>
+	<Point x="1471" y="928"/>
+	<Point x="197" y="911"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ATALAYA DE LA VIDA HUMANA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="104" y="940"/>
+	<Point x="1566" y="940"/>
+	<Point x="1542" y="1240"/>
+	<Point x="135" y="1245"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Por MATEO ALEMAN
+Criado del Rey nuero Señor,
+y natural Vezino de Sevia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="126" y="1254"/>
+	<Point x="1557" y="1261"/>
+	<Point x="1554" y="1426"/>
+	<Point x="147" y="1420"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nueva Impeſsion, corregida de much as erratas, y
+enriqueſcida con muy lindas Eampas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="178" y="1430"/>
+	<Point x="318" y="1427"/>
+	<Point x="1459" y="1433"/>
+	<Point x="1475" y="1539"/>
+	<Point x="171" y="1533"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PARTE PRIMERA,</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r9" type="other">
+	<Coords>
+	<Point x="216" y="1557"/>
+	<Point x="1352" y="1554"/>
+	<Point x="1350" y="1727"/>
+	<Point x="1337" y="1789"/>
+	<Point x="1339" y="1814"/>
+	<Point x="1348" y="1859"/>
+	<Point x="1370" y="2375"/>
+	<Point x="172" y="2372"/></Coords></GraphicRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords>
+	<Point x="392" y="2411"/>
+	<Point x="1159" y="2407"/>
+	<Point x="1168" y="2496"/>
+	<Point x="388" y="2492"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EN AMBERES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="87" y="2505"/>
+	<Point x="1505" y="2503"/>
+	<Point x="1498" y="2655"/>
+	<Point x="1090" y="2664"/>
+	<Point x="88" y="2670"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Por GERONYMO VERDUSSEN, Impreor
+y Mercader de Libros, en el Leon dorado. 1681.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="455" y="2683"/>
+	<Point x="1124" y="2681"/>
+	<Point x="1122" y="2764"/>
+	<Point x="437" y="2755"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Con Licencia y Privilegio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="credit">
+	<Coords>
+	<Point x="529" y="2866"/>
+	<Point x="1305" y="2859"/>
+	<Point x="1300" y="2940"/>
+	<Point x="522" y="2937"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="121" y="52"/>
+	<Point x="1571" y="73"/>
+	<Point x="1552" y="738"/>
+	<Point x="1564" y="766"/>
+	<Point x="1566" y="790"/>
+	<Point x="109" y="776"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VIDA Y HECHOS
+DEL PICARO
+GVZMAN
+DE
+ALFARACHE.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r14" type="stamp">
+	<Coords>
+	<Point x="1375" y="1621"/>
+	<Point x="1351" y="1747"/>
+	<Point x="1344" y="1804"/>
+	<Point x="1351" y="1859"/>
+	<Point x="1385" y="1976"/>
+	<Point x="1638" y="1975"/>
+	<Point x="1638" y="1601"/></Coords></GraphicRegion></Page></PcGts>

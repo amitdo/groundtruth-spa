@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442259">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T08:18:52</Created>
+	<LastChange>2012-03-12T14:11:47</LastChange></Metadata>
+	<Page imageFilename="00442259.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/>
+	<RegionRefIndexed regionRef="r8" index="2"/>
+	<RegionRefIndexed regionRef="r9" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="616" y="129"/>
+	<Point x="616" y="274"/>
+	<Point x="1032" y="274"/>
+	<Point x="1032" y="129"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Prologo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="drop-capital">
+	<Coords>
+	<Point x="190" y="312"/>
+	<Point x="190" y="622"/>
+	<Point x="470" y="609"/>
+	<Point x="477" y="312"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="167" y="629"/>
+	<Point x="167" y="2164"/>
+	<Point x="978" y="2164"/>
+	<Point x="980" y="2147"/>
+	<Point x="1341" y="2159"/>
+	<Point x="1426" y="2162"/>
+	<Point x="1505" y="2173"/>
+	<Point x="1554" y="2164"/>
+	<Point x="1554" y="629"/>
+	<Point x="1532" y="292"/>
+	<Point x="1054" y="293"/>
+	<Point x="522" y="287"/>
+	<Point x="490" y="305"/>
+	<Point x="487" y="379"/>
+	<Point x="481" y="456"/>
+	<Point x="484" y="513"/>
+	<Point x="480" y="586"/>
+	<Point x="482" y="632"/>
+	<Point x="373" y="645"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ESOCVPADO Leor, n juramento
+me podras creer, que quiera que ee libro
+como hijo del entendimiento, fuera el mas
+hermoſo, el mas gaardo, y mas diſcreto, 
+pudiera imaginarſe. Pero no he podido yo
+contrauenir al orden de naturaleza, que en ea, cada co-
+ſa engendra ſu ſemejante. Y aſsi, que podra engendrar el
+eeril, y mal cultiuado ingenio mio, no la hioria de
+vn hijo ſeco, aueanado, antojadizo, y eno de pẽſamiẽ-
+tos varios, y nunca imaginados de otro alguno, bien co-
+mo quien ſe engendrò en vna carcel, donde toda inco-
+modidad tiene ſu aſsiento, y dõde todo trie ruydo haze
+ſu habitacion. El ſoſsiego, el lugar apazible, la amenidad
+de los cãpos, la ſerenidad de los cielos, el murmurar de
+las fuentes, la quietud del eſpiritu, ſon grande parte para
+que las muſas mas eeriles, ſe muerẽ fecundas, y ofrez-
+can partos al mundo,  le colmen de marauia, y de con-
+tento. A contece tener vn padre vn hijo feo, y n gracia
+alguna, y el amor que le tiene, le pone vna venda en los
+ojos, para  no vea ſus faltas, antes las juzga por diſcre-
+ciones, y lindezas, y las cuẽta a ſus amigos, por agudezas,
+y dona y res. Pero yo, que aunque parezco padre, ſoy pa-
+draro de don Quixote:no quiero yrme con la corrien-
+te del vſo, ni ſuplicarte, ca con las lagrimas en los ojos,
+como otros hazen, Leor cariſsimo, que perdones, o diſ
+mules las faltas que en ee mi hijo vieres, y ni eres ſu
+pariẽte, ni ſu amigo, y tienes tu alma en tu cuerpo, y tu li
+bre alue drio, como el mas pintado, y eas en tu caſa, don
+de eres ſeñor dea, como el Rey de ſus alc aualas, y ſabes
+lo que comunmente ſe dize, que debaxo de mi manto, al</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1361" y="2178"/>
+	<Point x="1354" y="2251"/>
+	<Point x="1516" y="2251"/>
+	<Point x="1507" y="2215"/>
+	<Point x="1505" y="2185"/>
+	<Point x="1445" y="2172"/>
+	<Point x="1409" y="2166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rey</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="signature-mark">
+	<Coords>
+	<Point x="1097" y="2165"/>
+	<Point x="1093" y="2241"/>
+	<Point x="1229" y="2241"/>
+	<Point x="1232" y="2183"/>
+	<Point x="1217" y="2162"/>
+	<Point x="1191" y="2164"/>
+	<Point x="1145" y="2158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>¶¶</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="credit">
+	<Coords>
+	<Point x="448" y="2296"/>
+	<Point x="448" y="2364"/>
+	<Point x="1177" y="2364"/>
+	<Point x="1177" y="2296"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440238">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:03:07</Created>
+	<LastChange>2011-12-19T11:38:52</LastChange></Metadata>
+	<Page imageFilename="00440238.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r44" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r28" type="credit">
+	<Coords>
+	<Point x="988" y="3995"/>
+	<Point x="1959" y="3995"/>
+	<Point x="1959" y="4100"/>
+	<Point x="988" y="4100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="header">
+	<Coords>
+	<Point x="757" y="373"/>
+	<Point x="1764" y="373"/>
+	<Point x="1764" y="485"/>
+	<Point x="757" y="485"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="page-number">
+	<Coords>
+	<Point x="1940" y="373"/>
+	<Point x="2150" y="373"/>
+	<Point x="2150" y="495"/>
+	<Point x="1940" y="495"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2I9</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r7">
+	<Coords>
+	<Point x="247" y="535"/>
+	<Point x="2169" y="535"/>
+	<Point x="2169" y="1076"/>
+	<Point x="247" y="1076"/></Coords></TableRegion>
+	<TableRegion id="r9">
+	<Coords>
+	<Point x="257" y="1140"/>
+	<Point x="2178" y="1140"/>
+	<Point x="2178" y="1645"/>
+	<Point x="257" y="1645"/></Coords></TableRegion>
+	<TableRegion id="r13">
+	<Coords>
+	<Point x="257" y="1688"/>
+	<Point x="2176" y="1688"/>
+	<Point x="2176" y="2211"/>
+	<Point x="257" y="2211"/></Coords></TableRegion>
+	<TableRegion id="r21">
+	<Coords>
+	<Point x="235" y="2252"/>
+	<Point x="2164" y="2252"/>
+	<Point x="2164" y="2771"/>
+	<Point x="235" y="2771"/></Coords></TableRegion>
+	<TableRegion id="r24">
+	<Coords>
+	<Point x="238" y="2816"/>
+	<Point x="2183" y="2816"/>
+	<Point x="2183" y="3338"/>
+	<Point x="238" y="3338"/></Coords></TableRegion>
+	<TextRegion id="r38" type="signature-mark">
+	<Coords>
+	<Point x="1285" y="3390"/>
+	<Point x="1480" y="3390"/>
+	<Point x="1480" y="3492"/>
+	<Point x="1285" y="3492"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ee 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="catch-word">
+	<Coords>
+	<Point x="1997" y="3390"/>
+	<Point x="2188" y="3390"/>
+	<Point x="2188" y="3492"/>
+	<Point x="1997" y="3492"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mi‐</Unicode></TextEquiv></TextRegion></Page></PcGts>

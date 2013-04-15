@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439177">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T14:09:51</Created>
+	<LastChange>2011-05-12T13:39:50</LastChange></Metadata>
+	<Page imageFilename="00439177.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="111" y="59"/>
+	<Point x="1197" y="50"/>
+	<Point x="1214" y="145"/>
+	<Point x="104" y="147"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PARTE II. LIBRO II. CAP. IV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="19" y="159"/>
+	<Point x="1461" y="166"/>
+	<Point x="1507" y="902"/>
+	<Point x="147" y="942"/>
+	<Point x="120" y="943"/>
+	<Point x="42" y="952"/>
+	<Point x="27" y="931"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>leo, eſcolta, eaſa, y zorro, ninguno de mi tamaño,
+ni mayor que yo ſeys años; en mi preſencia dexò de re-
+conocerſe Bajamanero, y Bahati: mas como por anti-
+guedad y reputacion, tenian tiranizado el nombre de
+famoſos Ceſares eos, y à noſotros los pobretos, nos
+trahian de caſa en caſa, fregando la plata, haziendo
+los ojeos, buſcando achaques, preguntando en unas
+partes, vive aqui el Señor fulano, han meneer vue-
+ras mercedes un moço? Quieren comprar un euche
+ﬁno; era de los que cortavamos à las mugeres, que ha-
+ziendolos adereçar con cintas nuevas, los yvamos à ven-
+der.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="14" y="964"/>
+	<Point x="131" y="950"/>
+	<Point x="1497" y="938"/>
+	<Point x="1510" y="2590"/>
+	<Point x="1099" y="2600"/>
+	<Point x="25" y="2599"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Otras vezes ﬁngiamos entrar à orinas; y  acertava-
+mos con la cavaeriza, donde nunca faltava la manta
+de la mula. el almohaça, ò criva, la capa dèl moço, y
+el trabon quando mas no podiamos; y  à caſo ai nos
+vehian, luego bajandonos al ſuelo, ſoltando la cinta
+de los caçones, nos poniamos à un rincon, y en di-
+ziendonos, ladron, y que hazeis vos aqui? Nos Ievan-
+tavamos atacando, y reſpondiamos: Mire vuera mer-
+ced como y con quien habla, que no ay aqui algun la-
+dron: haème neceſtado de la perſona, y entrème a-
+qui dentro. Unos lo crehian, otros no, empero paſ-
+ſavamos adelanta. Otras vezes, tomavamos por acha-
+que (y no malo) entrarnos por toda la caſa haa haar
+en que topar, y  nos vian, luego pediamos liſmoſna.
+Con eos y otros achaques no avia clavo en pared que
+no contaemos, ò quitaemos, nada tenia ſeguridad.
+Yo era rapazejo delgadio, de pocas carnes, traça-
+dor, y ſobre todo ligero como un gamo, aſechava de
+dia el trabajo de la noche, n empacharme por el tiem-
+po, y à peſar del ſueño. Aiamos de dia como bue-
+nos Chriianos en las Igleas, en Sermones, Mias,
+Eaciones, Jubileos, Fieas, y Proceones. Y va-
+mos à las comedias, à ver juiciados, y à todas y qua-
+leſquier juntas donde ſabiamos aver concurſo de gente,
+procurandonos haar à la continua en el mayor aprieto,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1223" y="2601"/>
+	<Point x="1282" y="2601"/>
+	<Point x="1385" y="2602"/>
+	<Point x="1430" y="2597"/>
+	<Point x="1435" y="2649"/>
+	<Point x="1422" y="2658"/>
+	<Point x="1231" y="2650"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>entran-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="545" y="2872"/>
+	<Point x="1297" y="2870"/>
+	<Point x="1302" y="2938"/>
+	<Point x="539" y="2932"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1280" y="71"/>
+	<Point x="1280" y="157"/>
+	<Point x="1430" y="157"/>
+	<Point x="1430" y="71"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>143</Unicode></TextEquiv></TextRegion></Page></PcGts>

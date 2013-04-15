@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444531">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T21:28:17</Created>
+	<LastChange>2011-03-09T06:32:03</LastChange></Metadata>
+	<Page imageFilename="00444531.tif" imageWidth="2613" imageHeight="3944">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/>
+	<RegionRefIndexed regionRef="r8" index="2"/>
+	<RegionRefIndexed regionRef="r9" index="3"/>
+	<RegionRefIndexed regionRef="r11" index="4"/>
+	<RegionRefIndexed regionRef="r14" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="497" y="232"/>
+	<Point x="491" y="236"/>
+	<Point x="493" y="291"/>
+	<Point x="659" y="291"/>
+	<Point x="661" y="280"/>
+	<Point x="662" y="262"/>
+	<Point x="662" y="254"/>
+	<Point x="663" y="227"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>XLIV</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="930" y="212"/>
+	<Point x="920" y="213"/>
+	<Point x="915" y="273"/>
+	<Point x="918" y="289"/>
+	<Point x="976" y="287"/>
+	<Point x="1826" y="272"/>
+	<Point x="1956" y="272"/>
+	<Point x="1965" y="232"/>
+	<Point x="1963" y="212"/>
+	<Point x="1958" y="201"/>
+	<Point x="1913" y="201"/>
+	<Point x="1710" y="203"/>
+	<Point x="1476" y="207"/>
+	<Point x="958" y="210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DISCURSO DEL ORIGEN</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="catch-word">
+	<Coords>
+	<Point x="2393" y="3627"/>
+	<Point x="2393" y="3673"/>
+	<Point x="2476" y="3673"/>
+	<Point x="2476" y="3627"/>
+	<Point x="2438" y="3624"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>en</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="credit">
+	<Coords>
+	<Point x="829" y="3852"/>
+	<Point x="829" y="3925"/>
+	<Point x="1763" y="3925"/>
+	<Point x="1763" y="3852"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="434" y="316"/>
+	<Point x="434" y="619"/>
+	<Point x="1133" y="604"/>
+	<Point x="1139" y="622"/>
+	<Point x="1169" y="628"/>
+	<Point x="1195" y="604"/>
+	<Point x="1272" y="601"/>
+	<Point x="1295" y="542"/>
+	<Point x="2434" y="536"/>
+	<Point x="2425" y="277"/>
+	<Point x="1375" y="290"/>
+	<Point x="1363" y="287"/>
+	<Point x="1354" y="290"/>
+	<Point x="490" y="300"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſes, con várias bataas favorables à los Romanos: de ſuerte, que en el año
+de 550. perdieron los Cartagineſes quanto havían ganado en Eſpaña: y
+aſsi en treinta y cinco años de Domínio no es verimil que pudieen intro-
+ducir enteramente ſu Léngua.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="434" y="654"/>
+	<Point x="456" y="1800"/>
+	<Point x="2156" y="1781"/>
+	<Point x="2180" y="1788"/>
+	<Point x="2190" y="1800"/>
+	<Point x="2205" y="1804"/>
+	<Point x="2223" y="1786"/>
+	<Point x="2272" y="1783"/>
+	<Point x="2300" y="1798"/>
+	<Point x="2348" y="1775"/>
+	<Point x="2374" y="1777"/>
+	<Point x="2381" y="1742"/>
+	<Point x="2383" y="1719"/>
+	<Point x="2453" y="1721"/>
+	<Point x="2439" y="587"/>
+	<Point x="1303" y="593"/>
+	<Point x="1260" y="625"/>
+	<Point x="1221" y="627"/>
+	<Point x="1181" y="634"/>
+	<Point x="1153" y="637"/>
+	<Point x="1127" y="631"/>
+	<Point x="822" y="624"/>
+	<Point x="695" y="625"/>
+	<Point x="680" y="625"/>
+	<Point x="665" y="624"/>
+	<Point x="562" y="631"/>
+	<Point x="536" y="631"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>9 Los Romanos reconociendo las riquezas y utilidades de nuera
+Província, con vários pretextos continuaron la guerra con los naturales,
+que por no haverſe unido deſde el princípio de ea, fueron vencidos y ſu-
+jétos à las leyes de los vencedóres. Para aegurarſe de eos fundaron vá-
+rias Colónias, dieron à muos Lugáres el honór de Municípios, hicieron
+Conventos jurídicos, ò Chancierías, para que los pléitos ſe decidieen
+por juícia conforme à las leyes. Se empezaron à contraher matrimónios
+entre Romanos y Eſpañoles, y por eos medios procuraron introducir
+ſus coumbres, deſnudando à los naturales de la rúica corteza de ſu tra-
+to. Luego que aentaron ſu Domínio, ordenaron (como dice Valério Má-
+ximo) que nadie pudiee hablar à los Pretóres, ò Gobernadores, no en
+la Léngua ſuya: con que viéndoſe preciſados à la comunicación con eos,
+aprendieron por neceſsidád los Eſpañoles la Léngua de los Romanos, la
+qual deſde las Colónias y Municípios ſe fué extendiendo à las Aldéas; y ſo-
+lamente los Vizcainos han conſervado haa ahóra tenáces ſu lenguage.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="462" y="1811"/>
+	<Point x="462" y="2435"/>
+	<Point x="609" y="2435"/>
+	<Point x="614" y="2368"/>
+	<Point x="2471" y="2359"/>
+	<Point x="2457" y="1809"/>
+	<Point x="2434" y="1806"/>
+	<Point x="2410" y="1806"/>
+	<Point x="2407" y="1783"/>
+	<Point x="2378" y="1793"/>
+	<Point x="2375" y="1806"/>
+	<Point x="2357" y="1795"/>
+	<Point x="2339" y="1789"/>
+	<Point x="2322" y="1792"/>
+	<Point x="2309" y="1807"/>
+	<Point x="2302" y="1806"/>
+	<Point x="2282" y="1793"/>
+	<Point x="2269" y="1792"/>
+	<Point x="2260" y="1806"/>
+	<Point x="2235" y="1790"/>
+	<Point x="2222" y="1794"/>
+	<Point x="2218" y="1809"/>
+	<Point x="2180" y="1809"/>
+	<Point x="2161" y="1789"/>
+	<Point x="1277" y="1801"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10 De ea manéra ſe habló en Eſpaña haa el princípio del glo
+quinto del nacimiento de nuero Redentor, y de todo ee tiempo no ſe
+ha deſcubierto monumento alguno de obra pública, de dedicación de
+Templo, ò Ara, de memória de Emperador, ò lápida ſepulcrál, que no ſea
+en Léngua Latina: de calidád, que ni aun en los libros ſe conſerva notícia
+alguna de lo contrario: de que ſe inﬁere con evidéncia, que en el tiempo
+que los Romanos ſeñorearon nuera Província, fué ſu Léngua vulgar en
+ea.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="467" y="2454"/>
+	<Point x="473" y="3380"/>
+	<Point x="1601" y="3372"/>
+	<Point x="1622" y="3381"/>
+	<Point x="1643" y="3372"/>
+	<Point x="1956" y="3369"/>
+	<Point x="1969" y="3379"/>
+	<Point x="2011" y="3367"/>
+	<Point x="2009" y="3360"/>
+	<Point x="2485" y="3359"/>
+	<Point x="2475" y="2414"/>
+	<Point x="721" y="2435"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>11 A los princípios del glo quinto inundaron à Eſpaña, buſcando
+mejor clima, los Suevos, Alános, Vándalos, y Silingos, derramandoſe
+por todo lo mejor de ea. Poco deſpues los Godos, que eaban en las Gá-
+lias, entraron como auxiliares de los Romanos contra eas Naciones, y
+en poco tiempo ſe hicieron dueños de todo lo que no ocuparon eas, y eſ-
+taba por el Imperio Románo: de ſuerte, que quedaron eas Províncias
+ocupadas de Suevos y Godos, endo los Suevos ſeñores de la antígua Ga-
+licia, y parte de la Lutánia, y los Godos del reo de Eſpaña, y la Galia
+Narbonenſe, haa que el Rey Leovigildo acabó con el Réino, y Domínio
+de los Suevos, quedando único Monara de nuera Província. Duró el
+Império de los Godos haa los princípios del glo oavo, en que feneció,
+con la invaón de los Sarracénos, en el Rey Don Rodrigo último de eos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="484" y="3392"/>
+	<Point x="489" y="3612"/>
+	<Point x="661" y="3609"/>
+	<Point x="678" y="3632"/>
+	<Point x="694" y="3634"/>
+	<Point x="709" y="3609"/>
+	<Point x="1237" y="3610"/>
+	<Point x="1235" y="3630"/>
+	<Point x="1261" y="3637"/>
+	<Point x="1276" y="3629"/>
+	<Point x="1276" y="3610"/>
+	<Point x="1615" y="3610"/>
+	<Point x="1632" y="3626"/>
+	<Point x="1654" y="3614"/>
+	<Point x="2493" y="3611"/>
+	<Point x="2488" y="3369"/>
+	<Point x="2206" y="3370"/>
+	<Point x="2189" y="3369"/>
+	<Point x="2163" y="3370"/>
+	<Point x="2145" y="3368"/>
+	<Point x="2131" y="3370"/>
+	<Point x="2115" y="3369"/>
+	<Point x="2061" y="3375"/>
+	<Point x="2053" y="3388"/>
+	<Point x="1999" y="3372"/>
+	<Point x="1988" y="3376"/>
+	<Point x="1977" y="3380"/>
+	<Point x="1965" y="3387"/>
+	<Point x="1957" y="3384"/>
+	<Point x="1935" y="3373"/>
+	<Point x="1902" y="3373"/>
+	<Point x="1886" y="3379"/>
+	<Point x="1878" y="3387"/>
+	<Point x="1768" y="3377"/>
+	<Point x="1684" y="3377"/>
+	<Point x="1675" y="3395"/>
+	<Point x="1584" y="3396"/>
+	<Point x="1569" y="3380"/>
+	<Point x="1371" y="3378"/>
+	<Point x="1353" y="3380"/>
+	<Point x="1348" y="3387"/>
+	<Point x="1323" y="3387"/>
+	<Point x="1306" y="3378"/>
+	<Point x="1288" y="3387"/>
+	<Point x="903" y="3384"/>
+	<Point x="795" y="3387"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>12 Uvalia, tercero Rey de los Godos, deruyó à los Vándalos y Si-
+lingos, que havían ocupado la Andalucía, volviéndola à poner debaxo
+del Império Románo: con que eos mal pudieron introducir ſu Léngua</Unicode></TextEquiv></TextRegion></Page></PcGts>

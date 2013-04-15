@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441744">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T20:42:07</Created>
+	<LastChange>2011-07-05T14:26:25</LastChange></Metadata>
+	<Page imageFilename="00441744.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="365" y="718"/>
+	<Point x="1721" y="718"/>
+	<Point x="1721" y="834"/>
+	<Point x="365" y="834"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LVCIVS ANNAEVS SENECA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="671" y="3126"/>
+	<Point x="1476" y="3126"/>
+	<Point x="1476" y="3205"/>
+	<Point x="671" y="3205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="292" y="902"/>
+	<Point x="1797" y="902"/>
+	<Point x="1797" y="1478"/>
+	<Point x="292" y="1478"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dies ie, quem tanquãm Extremum
+reformidas, Æterni Natalis e.
+Interea tamen ſcies, Magnorum
+Virorum, non minus Præſentiâ,
+ee utilem Memoriam.</Unicode></TextEquiv></TextRegion></Page></PcGts>

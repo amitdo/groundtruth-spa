@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442614">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T23:29:05</Created>
+	<LastChange>2012-03-12T14:12:11</LastChange></Metadata>
+	<Page imageFilename="00442614.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="500" y="110"/>
+	<Point x="1132" y="109"/>
+	<Point x="1132" y="198"/>
+	<Point x="923" y="202"/>
+	<Point x="774" y="218"/>
+	<Point x="755" y="218"/>
+	<Point x="504" y="214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quarta parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="153" y="212"/>
+	<Point x="604" y="218"/>
+	<Point x="637" y="219"/>
+	<Point x="760" y="223"/>
+	<Point x="923" y="209"/>
+	<Point x="1143" y="203"/>
+	<Point x="1446" y="198"/>
+	<Point x="1466" y="2228"/>
+	<Point x="917" y="2264"/>
+	<Point x="127" y="2272"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>euò la mia: eo dixo entrediẽtes, y proguio diziẽ
+do: y deſpues de auerſela tajado, y pueoos en paciﬁ
+ca poeſsiõ de vuero eado, quedarà a vuera vo-
+luntad, hazer de vuera perſona lo  mas en talante
+os viniere. Por mientras  yo tuuiere ocupada la
+memoria, y cautiua la volũtad, perdido el entẽdimiẽ
+to, a aquea, y no digo mas, no es poſsible  yo arroſ
+tre, ni por pienſo, el caſarme, aun fuee cõ el Auefe
+nix. Pareciole tã mal a Sancho, lo  vltimamente ſu
+amo dixo, acerca de no querer caſarſe,  con grãde
+enojo, alçando la voz, dixo: Boto a mi, y juro a mi, 
+no tiene vuera merced ſeñor don Quixote cabal
+juyzio: pues como es poſsible,  pone vuera mer-
+ced en duda el caſarſe con tan alta Princeſa como
+aquea? Piẽſa  le ha de ofrecer la fortuna, tras cada
+catio, ſemejãte vẽtura, como la  aora ſe le ofrece?
+Es por dicha mas hermoſa mi ſeñora Dulzinea? no
+porcierro, ni aun cõ la mitad, y aun eoy por dezir, 
+no ega a ſu çapato de la  eâ delãte. Aſsi norama-
+la alcãçare yo el Condado  eſpero,  vuera mer-
+ced ſe anda a pedir cotufas en el golfo, caſeſe, caſeſ-
+ſe luego, encomiẽdole yo a ſatanas, y tome ee rey-
+no  ſe le viene a las manos, de vobis, vobis, y en ẽ-
+do Rey, hagame Marques, o Adelantado, y luego 
+quiera ſe lo eue el diablo todo. Don Quixote,  ta
+les blasfemias oyò dezir cõtra ſu ſeñora Dulzinea,
+no lo pudo ſufrir, y alçãdo el lançõ, n hablae pala-
+bra a Sancho, y n dezirle ea boca es mia, le dio ta
+les dos palos,  dio cõ el en tierra, y no fuera por
+Dorotea lè dio vozes  no le diera mas, n duda le
+quitara ai la vida, Pẽſays le dixo, acabo de rato, vi-
+ano ruyn,  ha de auer lugar ẽpre para ponerme
+la mano en la horcaxadura, y  todo ha de ſer errar</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="448" y="2307"/>
+	<Point x="1125" y="2306"/>
+	<Point x="1125" y="2368"/>
+	<Point x="448" y="2376"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1292" y="2243"/>
+	<Point x="1298" y="2295"/>
+	<Point x="1433" y="2296"/>
+	<Point x="1435" y="2240"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vos,</Unicode></TextEquiv></TextRegion></Page></PcGts>

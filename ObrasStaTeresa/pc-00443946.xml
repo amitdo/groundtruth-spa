@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443946">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T00:39:26</Created>
+	<LastChange>2011-12-19T11:39:16</LastChange></Metadata>
+	<Page imageFilename="00443946.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="476" y="116"/>
+	<Point x="587" y="116"/>
+	<Point x="587" y="216"/>
+	<Point x="476" y="216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>18</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="474" y="237"/>
+	<Point x="2089" y="237"/>
+	<Point x="2091" y="2613"/>
+	<Point x="1934" y="2615"/>
+	<Point x="1904" y="2642"/>
+	<Point x="474" y="2641"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>las coſas. Ylo miſmo que nos enſeña con las
+palabras aqueﬆa eſcritura nos lo demuera
+luego con el exemplo de la miſma madre, de
+quien nos cuenta el recelo con que anduuo
+empre en todas ſus reuelaciones, y el exa‐
+men que deas hizo, y como empre ſe go‐
+uerno, no tanto por eas quanto por lo que
+le mandauan ſus perlados y confeores, con
+ſer eas tan notoriamente buenas, quanto
+moraron los eﬀetos de reformacion que en
+ea hizieron, y en toda ſu orden. An que
+las reuelaciones que aqui ſe cuentan, ni ſon
+dudoſas, ni abren puerta para las que lo ſon,
+antes deſcubren Iuz para conocer las que lo
+fueren: y ſon para aquee conocimiento co‐
+mo la piedra del toque eos libros. Reﬆa
+aora dezir algo a los que haan peligro en
+eos, por la delicadeza de lo que tratan,
+que dizen, no es para todos. Porque como
+aya tres maneras de gentes, vnos que tra‐
+tan de oracion, otros que no  quieen podrian
+tratar dea, otros que no podrian por la con-
+dicion de ſu eado, pregunto yo quales ſon</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="604" y="3068"/>
+	<Point x="1584" y="3068"/>
+	<Point x="1584" y="3156"/>
+	<Point x="604" y="3156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1919" y="2639"/>
+	<Point x="1919" y="2740"/>
+	<Point x="2038" y="2740"/>
+	<Point x="2038" y="2639"/>
+	<Point x="2037" y="2620"/>
+	<Point x="1953" y="2620"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>los</Unicode></TextEquiv></TextRegion></Page></PcGts>

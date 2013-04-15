@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440064">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-28T23:32:57</Created>
+	<LastChange>2011-12-19T11:38:39</LastChange></Metadata>
+	<Page imageFilename="00440064.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r21" index="3"/>
+	<RegionRefIndexed regionRef="r10" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="593" y="456"/>
+	<Point x="644" y="446"/>
+	<Point x="722" y="445"/>
+	<Point x="769" y="456"/>
+	<Point x="890" y="447"/>
+	<Point x="1140" y="444"/>
+	<Point x="1315" y="448"/>
+	<Point x="1722" y="447"/>
+	<Point x="2011" y="455"/>
+	<Point x="2031" y="452"/>
+	<Point x="2597" y="427"/>
+	<Point x="2604" y="940"/>
+	<Point x="2505" y="945"/>
+	<Point x="2354" y="947"/>
+	<Point x="1266" y="968"/>
+	<Point x="1138" y="1004"/>
+	<Point x="868" y="1016"/>
+	<Point x="802" y="1016"/>
+	<Point x="784" y="999"/>
+	<Point x="577" y="997"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>han de diar igualmente unos de otros; en lugar de po‐
+nerlos à desiguales diancias, y en la proporcion que ſe
+requiere, para que los corte la tranſverſal, dexando de
+uno, y otro lado los minutos, que ſe neceſsitan. Pondré‐
+mos el calculo para la inteligencia de los que no fueren
+muy verſados.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="710" y="1032"/>
+	<Point x="734" y="1023"/>
+	<Point x="927" y="1022"/>
+	<Point x="2609" y="987"/>
+	<Point x="2609" y="1561"/>
+	<Point x="634" y="1572"/>
+	<Point x="591" y="1559"/>
+	<Point x="590" y="1560"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sea AD a una de las tranſverſales del Inrumento AC,
+BD las continuaciones de los radios, comprehendidas en‑
+tre el circulo interno AB, y el externo CD EF uno de los
+circulos concentricos, que ſe quiere deſcribir, y ſaber lo
+que debe diar de qualquiera de los dos AB, CD: y ſean
+ademàs de eo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="1595" y="1582"/>
+	<Point x="1576" y="2447"/>
+	<Point x="1036" y="2447"/>
+	<Point x="1036" y="1585"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>AC = BD = a
+CD = b
+AB = c
+AF = x
+EG/GF = m/n
+EG = z
+GF = n/m z</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="catch-word">
+	<Coords>
+	<Point x="2454" y="3180"/>
+	<Point x="2581" y="3186"/>
+	<Point x="2601" y="3272"/>
+	<Point x="2434" y="3259"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EA,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="footnote">
+	<Coords>
+	<Point x="654" y="3234"/>
+	<Point x="1151" y="3240"/>
+	<Point x="1168" y="3243"/>
+	<Point x="1181" y="3234"/>
+	<Point x="1831" y="3240"/>
+	<Point x="1859" y="3241"/>
+	<Point x="1880" y="3236"/>
+	<Point x="2019" y="3230"/>
+	<Point x="2393" y="3273"/>
+	<Point x="2641" y="3280"/>
+	<Point x="2689" y="3278"/>
+	<Point x="2664" y="3505"/>
+	<Point x="656" y="3508"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>b. La militud de eos triangulos, igualmente que la de los otros dos, no es en rigor
+geometrico; pero por la cortedad de los arcos AB, CD, que ſe pueden tomar por lineas
+reas, y paralelas à EF, el yerro, que puede producirſe, no es ſenble.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="credit">
+	<Coords>
+	<Point x="908" y="3983"/>
+	<Point x="1977" y="3983"/>
+	<Point x="1969" y="4091"/>
+	<Point x="908" y="4091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="page-number">
+	<Coords>
+	<Point x="744" y="345"/>
+	<Point x="896" y="339"/>
+	<Point x="900" y="437"/>
+	<Point x="782" y="443"/>
+	<Point x="740" y="437"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>48</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="1216" y="305"/>
+	<Point x="2067" y="305"/>
+	<Point x="2067" y="440"/>
+	<Point x="1216" y="440"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="footnote">
+	<Coords>
+	<Point x="445" y="1025"/>
+	<Point x="665" y="1025"/>
+	<Point x="665" y="1107"/>
+	<Point x="445" y="1107"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a Fig. 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="585" y="2452"/>
+	<Point x="592" y="2452"/>
+	<Point x="2727" y="2472"/>
+	<Point x="2732" y="3162"/>
+	<Point x="2725" y="3165"/>
+	<Point x="535" y="3177"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y tendrémos en los triangulos ſemejantes ACD, AEG, b a:
+b = x: z y en los DBA, DFG, a: c = a-x: � z de don‐
+de ſe guen eas dos igualaciones bx = az, y ca-cx = ‐
+� az: luego nbx = mca-mex que dà ea proporcion
+a-x: x=nb: mc; eo es, la diancia CE ha de ſer à la</Unicode></TextEquiv></TextRegion></Page></PcGts>

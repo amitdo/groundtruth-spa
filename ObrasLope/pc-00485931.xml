@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485931">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T10:05:26</Created>
+	<LastChange>2011-07-28T11:29:14</LastChange></Metadata>
+	<Page imageFilename="00485931.tif" imageWidth="2090" imageHeight="3077">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="r9" index="2"/>
+	<RegionRefIndexed regionRef="r26" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r26" type="catch-word">
+	<Coords>
+	<Point x="1235" y="2771"/>
+	<Point x="1474" y="2770"/>
+	<Point x="1461" y="2843"/>
+	<Point x="1245" y="2839"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>en todo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="credit">
+	<Coords>
+	<Point x="672" y="2961"/>
+	<Point x="1373" y="2966"/>
+	<Point x="1372" y="3031"/>
+	<Point x="669" y="3023"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="90" y="163"/>
+	<Point x="248" y="162"/>
+	<Point x="856" y="172"/>
+	<Point x="1104" y="203"/>
+	<Point x="1211" y="183"/>
+	<Point x="1239" y="187"/>
+	<Point x="1438" y="244"/>
+	<Point x="1433" y="639"/>
+	<Point x="940" y="656"/>
+	<Point x="909" y="657"/>
+	<Point x="758" y="642"/>
+	<Point x="644" y="656"/>
+	<Point x="562" y="654"/>
+	<Point x="422" y="650"/>
+	<Point x="83" y="642"/>
+	<Point x="80" y="157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Roldan. Fuerte e inuio Emperador
+yo ſolo pienſo que bao
+para cauſarles temor,
+que es Alfonſo, tambien cao,
+en las armas y el valor,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="76" y="647"/>
+	<Point x="489" y="657"/>
+	<Point x="647" y="659"/>
+	<Point x="709" y="655"/>
+	<Point x="764" y="650"/>
+	<Point x="781" y="652"/>
+	<Point x="911" y="668"/>
+	<Point x="975" y="662"/>
+	<Point x="1396" y="657"/>
+	<Point x="1324" y="1134"/>
+	<Point x="834" y="1127"/>
+	<Point x="726" y="1139"/>
+	<Point x="481" y="1142"/>
+	<Point x="468" y="1143"/>
+	<Point x="412" y="1134"/>
+	<Point x="403" y="1129"/>
+	<Point x="203" y="1117"/>
+	<Point x="177" y="1141"/>
+	<Point x="69" y="1122"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Carlomagno. Yo te ſeguro que haes
+por el monte abiertas caes,
+y Eſpaña en breue diancia
+ore la entrada de Francia,
+por Pamplona, y Ronceſuaes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="70" y="1129"/>
+	<Point x="178" y="1147"/>
+	<Point x="205" y="1123"/>
+	<Point x="365" y="1131"/>
+	<Point x="452" y="1147"/>
+	<Point x="738" y="1146"/>
+	<Point x="771" y="1143"/>
+	<Point x="836" y="1135"/>
+	<Point x="1325" y="1144"/>
+	<Point x="1319" y="2758"/>
+	<Point x="99" y="2791"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dudon. Segun quenta Galalon,
+trahe poca gente y ruyn,
+Alfonſo en ea ocaon
+y Montañeſes al ﬁn,
+de Aurias y de Leon
+todos deſcalços deſnudos,
+mal diciplinados rudos,
+y en vez de limpios arneſes
+traen vnos toſcos paueſes
+y haya y corcho en vez de eſcudos:
+Marlio Rey de Aragon,
+y Brauonel con ſus moros
+le hazen rico eſquadron
+mas que de armas y teſoros,
+que ya como nueros ſon,
+y porque veas  crece,
+ſu temor, mira  ofrece</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="header">
+	<Coords>
+	<Point x="445" y="54"/>
+	<Point x="440" y="160"/>
+	<Point x="838" y="166"/>
+	<Point x="921" y="177"/>
+	<Point x="1086" y="197"/>
+	<Point x="1229" y="175"/>
+	<Point x="1323" y="205"/>
+	<Point x="1455" y="192"/>
+	<Point x="1420" y="51"/>
+	<Point x="1233" y="52"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comedia de Lope de Vega.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="page-number">
+	<Coords>
+	<Point x="1638" y="91"/>
+	<Point x="1637" y="210"/>
+	<Point x="1831" y="210"/>
+	<Point x="1827" y="97"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>56</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r30" type="handwritten-annotation">
+	<Coords>
+	<Point x="788" y="2805"/>
+	<Point x="788" y="2929"/>
+	<Point x="1038" y="2929"/>
+	<Point x="1038" y="2805"/></Coords></GraphicRegion></Page></PcGts>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444446">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:41:18</Created>
+	<LastChange>2011-12-19T11:39:45</LastChange></Metadata>
+	<Page imageFilename="00444446.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="945" y="93"/>
+	<Point x="1591" y="89"/>
+	<Point x="1558" y="209"/>
+	<Point x="957" y="212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="473" y="230"/>
+	<Point x="2034" y="242"/>
+	<Point x="2031" y="590"/>
+	<Point x="1447" y="590"/>
+	<Point x="875" y="586"/>
+	<Point x="634" y="604"/>
+	<Point x="612" y="603"/>
+	<Point x="453" y="595"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mas la grandeza de Dios, y ſus marauias, y
+para quando pienſo ſe trata en la ſantiſsima
+Trinidad, pareceme entiendo como puede
+ſer, y es me mucho contento.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="450" y="597"/>
+	<Point x="580" y="603"/>
+	<Point x="634" y="605"/>
+	<Point x="870" y="591"/>
+	<Point x="2107" y="592"/>
+	<Point x="2082" y="2293"/>
+	<Point x="1720" y="2279"/>
+	<Point x="1172" y="2272"/>
+	<Point x="1074" y="2279"/>
+	<Point x="918" y="2275"/>
+	<Point x="503" y="2267"/>
+	<Point x="502" y="2225"/>
+	<Point x="458" y="1895"/>
+	<Point x="462" y="1721"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vn dia de la auncion de la Reyna de
+los angeles y Señora nuera, me quiſo el
+Señor hazer ea merced, que en vn arro-
+bamiento ſe me repreſento ſu ſubida al cie-
+lo, y el alegria, y ſolemnidad con que fue
+recebida, y el lugar adonde ea. Dezir co-
+mo fue eo yo no ſabria. Fue grandiſsima
+la gloria que mi eſpiritu tuuo de ver tan-
+ta gloria, quede con grandes eﬀetos, y apro-
+uechome para deear mas paar grandes
+trabajos, y quedome grande deeo de ſer-
+uir a ea Señora pues tanto merecio. Ean-
+do en vn colegio de la compañia de Ieſus,
+y eando comulgando los hermanos de
+aquea caſa, vi vn palio muy rico
+ſobre ſus cabeças, eo vi dos
+vezes, quando otras per-
+ſonas comulgauan
+no lo via.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="602" y="3047"/>
+	<Point x="1585" y="3045"/>
+	<Point x="1575" y="3167"/>
+	<Point x="602" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="486" y="113"/>
+	<Point x="486" y="221"/>
+	<Point x="676" y="221"/>
+	<Point x="676" y="113"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>526</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1765" y="2442"/>
+	<Point x="1765" y="2572"/>
+	<Point x="2047" y="2572"/>
+	<Point x="2047" y="2442"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r8" type="other">
+	<Coords>
+	<Point x="1204" y="2280"/>
+	<Point x="1200" y="2381"/>
+	<Point x="1345" y="2381"/>
+	<Point x="1353" y="2282"/></Coords></GraphicRegion></Page></PcGts>

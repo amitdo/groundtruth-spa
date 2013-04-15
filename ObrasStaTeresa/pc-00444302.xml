@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444302">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:22:48</Created>
+	<LastChange>2011-12-19T11:39:37</LastChange></Metadata>
+	<Page imageFilename="00444302.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="490" y="230"/>
+	<Point x="2078" y="221"/>
+	<Point x="2020" y="1693"/>
+	<Point x="775" y="1690"/>
+	<Point x="775" y="1743"/>
+	<Point x="491" y="1745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ças corporales para hazer algo por el es
+vna pena bien grande, porque como le fal-
+tan fuerças para echar leña en ee fuego,
+y ea muere porque no ſe mate: pareceme
+que ea entre  ſe conſume y haze ceni-
+za, y ſe deshaze en lagrimas, y ſe quema,
+y es harto tormento aunque es ſabroſo. Ala-
+be muy mucho al Señor el alma que ha
+egado aqui, y le da fuerças corporales pa-
+ra hazer penitencia, o le dio letras y talen-
+to, y libertad para predicar y confear, y
+egar almas a Dios, que no ſabe ni entiende
+el bien que tiene no ha paado por guar
+que es no poder hazer nada en ſeruicio del
+Señor, y recebir empre mucho, ſea ben-
+dito por todo y den le gloria los Angeles,
+Amen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1807" y="2645"/>
+	<Point x="1846" y="2639"/>
+	<Point x="1991" y="2645"/>
+	<Point x="1991" y="2744"/>
+	<Point x="1925" y="2755"/>
+	<Point x="1807" y="2744"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cap.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="624" y="3075"/>
+	<Point x="1579" y="3075"/>
+	<Point x="1579" y="3151"/>
+	<Point x="1419" y="3164"/>
+	<Point x="624" y="3151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="489" y="1751"/>
+	<Point x="1116" y="1746"/>
+	<Point x="2018" y="1748"/>
+	<Point x="2003" y="2632"/>
+	<Point x="1989" y="2634"/>
+	<Point x="1980" y="2632"/>
+	<Point x="1969" y="2633"/>
+	<Point x="1945" y="2627"/>
+	<Point x="1931" y="2629"/>
+	<Point x="1898" y="2628"/>
+	<Point x="1881" y="2629"/>
+	<Point x="1854" y="2628"/>
+	<Point x="1833" y="2629"/>
+	<Point x="1736" y="2629"/>
+	<Point x="1693" y="2630"/>
+	<Point x="1663" y="2630"/>
+	<Point x="1568" y="2629"/>
+	<Point x="1567" y="2661"/>
+	<Point x="1475" y="2659"/>
+	<Point x="1457" y="2660"/>
+	<Point x="1440" y="2659"/>
+	<Point x="1424" y="2660"/>
+	<Point x="1283" y="2659"/>
+	<Point x="1061" y="2683"/>
+	<Point x="487" y="2661"/>
+	<Point x="435" y="2369"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No ſe  hago bien de eſcreuir tantas me-
+nudencias: como v. m. me torno a embiar
+a mandar que no ſe me diee nada de
+alargarme, ni dexae nada, voy tratando
+con claridad y verdad lo que ſe me acuer-
+da, y no puede ſer menos de dexarſe mu-
+cho, porque ſeria gaar mucho mas tiem-
+po, y tengo tan poco, como he di-
+cho, y por ventura no ſacar
+ningun prouecho.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="928" y="100"/>
+	<Point x="1623" y="100"/>
+	<Point x="1623" y="207"/>
+	<Point x="928" y="207"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="486" y="115"/>
+	<Point x="646" y="115"/>
+	<Point x="646" y="220"/>
+	<Point x="486" y="220"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>374</Unicode></TextEquiv></TextRegion></Page></PcGts>

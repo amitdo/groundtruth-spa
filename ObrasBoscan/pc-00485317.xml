@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485317">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T02:38:17</Created>
+	<LastChange>2011-05-12T13:41:14</LastChange></Metadata>
+	<Page imageFilename="00485317.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r12" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1125" y="58"/>
+	<Point x="1683" y="58"/>
+	<Point x="1683" y="170"/>
+	<Point x="1125" y="170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. CLXXIIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="credit">
+	<Coords>
+	<Point x="612" y="3006"/>
+	<Point x="1406" y="3006"/>
+	<Point x="1406" y="3096"/>
+	<Point x="612" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="374" y="183"/>
+	<Point x="1716" y="183"/>
+	<Point x="1716" y="1309"/>
+	<Point x="374" y="1309"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El cuerpo, ea en poder,
+Y en mano de quien puede
+Hazer aſu plazer lo que quiere.
+Mas no podra hazer
+Que mal librado quede:
+Mientras de mi otra prenda no tuuiere.
+Quando ya el mal viniere
+Y la porera ſuerte:
+Aqui me a d' haar
+En el miſmo lugar
+Que otra coſa mas dura que la muerte
+Me haa, y me a haado,
+Y eo ſabe muy bien quien lo a prouado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="309" y="1336"/>
+	<Point x="1722" y="1336"/>
+	<Point x="1722" y="2572"/>
+	<Point x="309" y="2572"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No es neccario agora
+Hablar mas n prouecho
+Que es mi neceﬁdad muy apretada:
+Pues a do en vn ora
+Todo aqueo deſhecho:
+En que toda mi vida fue gaada,
+Y al ﬁn de tal jornada
+Preſumen d'eſpantarme:
+Sepan, que ya no puedo
+Morir, no n miedo:
+Que aun, nunca que temer quiſo dexarme
+La deſuentura mia:
+Que'l bien, y el miedo me quito en vn dia.</Unicode></TextEquiv></TextRegion></Page></PcGts>

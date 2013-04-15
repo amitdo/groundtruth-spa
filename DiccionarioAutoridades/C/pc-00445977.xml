@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00445977">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:27:04</Created>
+	<LastChange>2011-07-05T09:19:36</LastChange></Metadata>
+	<Page imageFilename="00445977.tif" imageWidth="2906" imageHeight="4145">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r18" index="0"/>
+	<RegionRefIndexed regionRef="r22" index="1"/>
+	<RegionRefIndexed regionRef="r26" index="2"/>
+	<RegionRefIndexed regionRef="r30" index="3"/>
+	<RegionRefIndexed regionRef="r3" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r34" index="8"/>
+	<RegionRefIndexed regionRef="r38" index="9"/>
+	<RegionRefIndexed regionRef="r42" index="10"/>
+	<RegionRefIndexed regionRef="r46" index="11"/>
+	<RegionRefIndexed regionRef="r48" index="12"/>
+	<RegionRefIndexed regionRef="r50" index="13"/>
+	<RegionRefIndexed regionRef="r52" index="14"/>
+	<RegionRefIndexed regionRef="r54" index="15"/>
+	<RegionRefIndexed regionRef="r58" index="16"/>
+	<RegionRefIndexed regionRef="r62" index="17"/>
+	<RegionRefIndexed regionRef="r64" index="18"/>
+	<RegionRefIndexed regionRef="r13" index="19"/>
+	<RegionRefIndexed regionRef="r14" index="20"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="531" y="3474"/>
+	<Point x="660" y="3474"/>
+	<Point x="818" y="3477"/>
+	<Point x="877" y="3479"/>
+	<Point x="922" y="3478"/>
+	<Point x="976" y="3478"/>
+	<Point x="1016" y="3484"/>
+	<Point x="1018" y="3485"/>
+	<Point x="1035" y="3485"/>
+	<Point x="1042" y="3482"/>
+	<Point x="1508" y="3476"/>
+	<Point x="1508" y="3699"/>
+	<Point x="1406" y="3700"/>
+	<Point x="1187" y="3698"/>
+	<Point x="705" y="3684"/>
+	<Point x="575" y="3680"/>
+	<Point x="580" y="3516"/>
+	<Point x="538" y="3517"/>
+	<Point x="527" y="3510"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CRIMINOSO, SA. adj. Lo miſmo que Crimi-
+nál. Lat. Criminoſus, a, um, de donde viene.
+RECOP. lib. 2. tit. 10. l. 7. Si las cáuſas fueren
+dadas por baantes, ſea obligado à jurar y de-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="2073" y="234"/>
+	<Point x="2094" y="219"/>
+	<Point x="2111" y="214"/>
+	<Point x="2226" y="225"/>
+	<Point x="2236" y="239"/>
+	<Point x="2232" y="261"/>
+	<Point x="2229" y="280"/>
+	<Point x="2068" y="277"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CRI</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1585" y="3650"/>
+	<Point x="1846" y="3653"/>
+	<Point x="1869" y="3652"/>
+	<Point x="2331" y="3664"/>
+	<Point x="2552" y="3676"/>
+	<Point x="2561" y="3732"/>
+	<Point x="2538" y="3730"/>
+	<Point x="2428" y="3718"/>
+	<Point x="2355" y="3724"/>
+	<Point x="1828" y="3705"/>
+	<Point x="1581" y="3704"/>
+	<Point x="1576" y="3674"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CRINITO. Vale tambien coſa azaróſa, infaua,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="catch-word">
+	<Coords>
+	<Point x="2476" y="3731"/>
+	<Point x="2482" y="3731"/>
+	<Point x="2550" y="3734"/>
+	<Point x="2553" y="3766"/>
+	<Point x="2550" y="3770"/>
+	<Point x="2533" y="3776"/>
+	<Point x="2492" y="3773"/>
+	<Point x="2481" y="3772"/>
+	<Point x="2466" y="3770"/>
+	<Point x="2466" y="3752"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>deſ-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="635" y="184"/>
+	<Point x="628" y="202"/>
+	<Point x="611" y="242"/>
+	<Point x="626" y="250"/>
+	<Point x="649" y="249"/>
+	<Point x="716" y="251"/>
+	<Point x="743" y="252"/>
+	<Point x="743" y="229"/>
+	<Point x="730" y="195"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>660</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="header">
+	<Coords>
+	<Point x="1010" y="203"/>
+	<Point x="1010" y="260"/>
+	<Point x="1048" y="262"/>
+	<Point x="1071" y="260"/>
+	<Point x="1169" y="264"/>
+	<Point x="1163" y="203"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CRI</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="620" y="266"/>
+	<Point x="1550" y="271"/>
+	<Point x="1557" y="339"/>
+	<Point x="1552" y="444"/>
+	<Point x="1004" y="432"/>
+	<Point x="1005" y="473"/>
+	<Point x="992" y="474"/>
+	<Point x="810" y="470"/>
+	<Point x="800" y="477"/>
+	<Point x="738" y="467"/>
+	<Point x="642" y="467"/>
+	<Point x="632" y="476"/>
+	<Point x="617" y="475"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Audiéncias el Tribunál donde aſsien los Al-
+caldes del Crímen, y unicamente ſe tratan las
+cáuſas y pléitos crimináles. Tribunal caus ca-
+pitalibus judicandis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="576" y="469"/>
+	<Point x="599" y="473"/>
+	<Point x="615" y="477"/>
+	<Point x="648" y="478"/>
+	<Point x="672" y="477"/>
+	<Point x="698" y="473"/>
+	<Point x="792" y="480"/>
+	<Point x="1553" y="487"/>
+	<Point x="1557" y="1003"/>
+	<Point x="1196" y="1011"/>
+	<Point x="936" y="1000"/>
+	<Point x="944" y="1046"/>
+	<Point x="888" y="1044"/>
+	<Point x="615" y="1033"/>
+	<Point x="618" y="520"/>
+	<Point x="583" y="513"/>
+	<Point x="573" y="505"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CRIMINACION. ſ. f. Acuſacion, delacion de
+algun crímen, ù delíto. Es voz puramente
+Latina Criminatio. SANDOV. Hi. de Carl. V.
+lib. 15. §. 20. Pero porque no pareciee que
+con el mucho caar hacía verdadéras las cri-
+minaciónes y injurias que los enemigos decían,
+de fuerza ò de grado havía de morar la ver-
+dad à todos. QUEV. Vid. de S. Pablo. Yo, ha-
+Viendo oído ſus criminaciónes y ſu reſpuea,
+no hao cáuſa ni razón por qué deba conde-
+narle à muerte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="564" y="1040"/>
+	<Point x="663" y="1044"/>
+	<Point x="832" y="1051"/>
+	<Point x="965" y="1054"/>
+	<Point x="1220" y="1060"/>
+	<Point x="1540" y="1072"/>
+	<Point x="1535" y="1991"/>
+	<Point x="1292" y="1996"/>
+	<Point x="1156" y="1986"/>
+	<Point x="1057" y="1982"/>
+	<Point x="1069" y="2024"/>
+	<Point x="1055" y="2030"/>
+	<Point x="976" y="2029"/>
+	<Point x="960" y="2036"/>
+	<Point x="942" y="2037"/>
+	<Point x="932" y="2029"/>
+	<Point x="832" y="2025"/>
+	<Point x="795" y="2033"/>
+	<Point x="720" y="2024"/>
+	<Point x="686" y="2032"/>
+	<Point x="677" y="2031"/>
+	<Point x="595" y="2018"/>
+	<Point x="609" y="1091"/>
+	<Point x="563" y="1091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CRIMINAL. adj. de una term. Lo que pertene-
+ce al Crímen: como Cáuſa criminál, Juicio
+criminál. Lat. Criminalis &amp; e. RECOP. lib. 2.
+tit. 6. l. 5. Mandámos, que en las cáuſas crimi-
+náles, todos los dichos nueros quatro Jueces
+Alcaldes ſe junten para ſentenciar, y conde-
+nar ò abſolver diﬁnitivamente. NAVARR. Man.
+cap. 25. num. 32. Si ſe apartó de la demanda
+criminál de adultério, ò de otra en que no ho-
+viee pena de ſangre, ni endo crímen de fal-
+ſedád, por algo que le dieron. BOLAñ. Cur.
+Philip. part. 3. §. 8. num. 10. De la injuria re-
+ſultan dos acciónes al injuriado, una criminál,
+quanto à la pena, y otra civil, quanto à los da-
+ños y intereſes: y aſsi remitiendoſe la injúria
+mplemente, es vio ſer remitida ſolo quanto
+à la accion criminál de la pena, y no quanto à
+la civil de los daños y intereſes, que n em-
+bargo ſe pueden pedir.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="538" y="2031"/>
+	<Point x="564" y="2024"/>
+	<Point x="635" y="2027"/>
+	<Point x="676" y="2033"/>
+	<Point x="684" y="2034"/>
+	<Point x="739" y="2032"/>
+	<Point x="784" y="2034"/>
+	<Point x="804" y="2043"/>
+	<Point x="815" y="2034"/>
+	<Point x="912" y="2034"/>
+	<Point x="956" y="2040"/>
+	<Point x="980" y="2036"/>
+	<Point x="1084" y="2041"/>
+	<Point x="1111" y="2050"/>
+	<Point x="1276" y="2043"/>
+	<Point x="1524" y="2046"/>
+	<Point x="1529" y="2199"/>
+	<Point x="1366" y="2200"/>
+	<Point x="1381" y="2239"/>
+	<Point x="1264" y="2248"/>
+	<Point x="1179" y="2241"/>
+	<Point x="1156" y="2250"/>
+	<Point x="1150" y="2250"/>
+	<Point x="1134" y="2243"/>
+	<Point x="1101" y="2241"/>
+	<Point x="589" y="2225"/>
+	<Point x="601" y="2090"/>
+	<Point x="581" y="2069"/>
+	<Point x="564" y="2072"/>
+	<Point x="546" y="2064"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CRIMINALIDAD. ſ. f. La gravedád, calidad y
+circunancias que hacen y conituyen por
+delíto ò crímen algúna operacion ò accion
+mala. Lat. Criminis malitia, pervertas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="545" y="2232"/>
+	<Point x="774" y="2238"/>
+	<Point x="931" y="2242"/>
+	<Point x="1143" y="2248"/>
+	<Point x="1160" y="2259"/>
+	<Point x="1177" y="2249"/>
+	<Point x="1525" y="2259"/>
+	<Point x="1525" y="2669"/>
+	<Point x="1371" y="2668"/>
+	<Point x="1184" y="2665"/>
+	<Point x="1091" y="2658"/>
+	<Point x="1102" y="2701"/>
+	<Point x="957" y="2699"/>
+	<Point x="901" y="2706"/>
+	<Point x="736" y="2696"/>
+	<Point x="679" y="2704"/>
+	<Point x="673" y="2703"/>
+	<Point x="646" y="2691"/>
+	<Point x="580" y="2694"/>
+	<Point x="587" y="2276"/>
+	<Point x="545" y="2275"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CRIMINALMENTE. adv. Con delacion y acu-
+ſacion criminál. Lat. Criminaliter. RIBAD. Vid.
+de S. Ignac. lib. 2. cap. 2. Queriendo hacer una
+jornáda, que no podia excuſar, para Eſpaña,
+le aviſaron que havia do acuſado criminal-
+mente ante el Inquidór. PELLIC. Argen. part.
+2. fol. 130. Accion verdaderamente indígna
+ſerá acuſar criminalmente à aquel que ayer ar-
+rieſgó ſu vida por la mia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="544" y="2698"/>
+	<Point x="649" y="2699"/>
+	<Point x="668" y="2703"/>
+	<Point x="678" y="2705"/>
+	<Point x="707" y="2703"/>
+	<Point x="818" y="2705"/>
+	<Point x="911" y="2711"/>
+	<Point x="967" y="2707"/>
+	<Point x="1059" y="2708"/>
+	<Point x="1096" y="2712"/>
+	<Point x="1527" y="2718"/>
+	<Point x="1516" y="3135"/>
+	<Point x="1476" y="3137"/>
+	<Point x="1297" y="3122"/>
+	<Point x="1069" y="3129"/>
+	<Point x="740" y="3111"/>
+	<Point x="754" y="3156"/>
+	<Point x="640" y="3157"/>
+	<Point x="581" y="3152"/>
+	<Point x="583" y="2743"/>
+	<Point x="543" y="2739"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CRIMINAR. v. a. Acuſar, delatar, imputar à
+otros algun crimen ù delíto, y lo miſmo que
+Acriminar. Es voz de poco uſo y puramente
+Latina Criminari. SAAV. Empr. 75. Y  bien
+Lucinio Proculo ſe hizo lugár criminando à
+otros, y ſe adelantó à los buenos y modeos:
+eo ſuele ſuceder quando la bondad y mo-
+deia ſon tan encogidas, que viven congo
+miſmas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords>
+	<Point x="1676" y="284"/>
+	<Point x="1982" y="296"/>
+	<Point x="2263" y="298"/>
+	<Point x="2596" y="304"/>
+	<Point x="2599" y="372"/>
+	<Point x="2607" y="782"/>
+	<Point x="2117" y="767"/>
+	<Point x="2125" y="806"/>
+	<Point x="1861" y="801"/>
+	<Point x="1829" y="807"/>
+	<Point x="1808" y="808"/>
+	<Point x="1778" y="799"/>
+	<Point x="1669" y="798"/>
+	<Point x="1676" y="616"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>clarar, y reſponder à las preguntas no crimi-
+nóſas. AYAL. Caid. de Princ. cap. 9. fol. 9. Y por
+ſu culpa só yo aſsi trie y quereoſo, por ſus
+maleﬁcios y inſultos criminóſos, que ee malo
+cruel hizo contra mi. CORNEJ. Chron. tom. 1.
+lib. 1. cap. 12. Ea cueva ſe conſerva oy: en
+cuya obſcúra boca haa la devocion de quien
+la atiende, una recomendacion encarecida de
+la paciencia de San Franciſco, y una acuſacion
+criminóſa de ſu Padre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords>
+	<Point x="1620" y="801"/>
+	<Point x="1655" y="799"/>
+	<Point x="1717" y="815"/>
+	<Point x="1807" y="810"/>
+	<Point x="1861" y="815"/>
+	<Point x="1894" y="809"/>
+	<Point x="1961" y="812"/>
+	<Point x="2012" y="819"/>
+	<Point x="2127" y="817"/>
+	<Point x="2592" y="816"/>
+	<Point x="2601" y="858"/>
+	<Point x="2596" y="1445"/>
+	<Point x="2429" y="1441"/>
+	<Point x="2408" y="1450"/>
+	<Point x="2429" y="1490"/>
+	<Point x="2317" y="1490"/>
+	<Point x="2267" y="1497"/>
+	<Point x="2254" y="1496"/>
+	<Point x="2175" y="1485"/>
+	<Point x="1994" y="1479"/>
+	<Point x="1957" y="1488"/>
+	<Point x="1948" y="1490"/>
+	<Point x="1914" y="1477"/>
+	<Point x="1675" y="1472"/>
+	<Point x="1667" y="1463"/>
+	<Point x="1661" y="1427"/>
+	<Point x="1665" y="846"/>
+	<Point x="1619" y="848"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CRIMINÓSO. Vale tambien Facinoróſo, perverſo,
+y que ha cometido graves culpas y delitos.
+Lat. Criminoſus, a, um. NEBRIX. Chron. part. 3.
+cap. 22. Hizo juicia de algunos hombres cri-
+minóſos y ladrónes, que en el tiempo del Rey
+Don Henrique havian cometido muchos de-
+lítos. NAVARR. Man. cap. 27. num. 154. Suſ-
+pende al Clérigo notorio fornicario, criminóſo
+de otro crímen grave notorio. MEDIN. Dial.
+part. 2. Dial. 81. Tanta es la miſericordia del
+Soberano Dios, que  el pecadór, por mas
+criminóſo que ſea, hiciere peniténcia, tanto le
+ama como al que nunca hizo pecádo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords>
+	<Point x="1622" y="1474"/>
+	<Point x="1791" y="1483"/>
+	<Point x="1876" y="1484"/>
+	<Point x="1943" y="1496"/>
+	<Point x="1978" y="1488"/>
+	<Point x="1995" y="1486"/>
+	<Point x="2130" y="1491"/>
+	<Point x="2156" y="1494"/>
+	<Point x="2241" y="1504"/>
+	<Point x="2289" y="1496"/>
+	<Point x="2445" y="1498"/>
+	<Point x="2598" y="1505"/>
+	<Point x="2588" y="1814"/>
+	<Point x="2272" y="1798"/>
+	<Point x="2254" y="1803"/>
+	<Point x="2268" y="1851"/>
+	<Point x="2205" y="1852"/>
+	<Point x="2174" y="1855"/>
+	<Point x="2150" y="1859"/>
+	<Point x="2125" y="1847"/>
+	<Point x="1795" y="1836"/>
+	<Point x="1754" y="1846"/>
+	<Point x="1642" y="1827"/>
+	<Point x="1658" y="1520"/>
+	<Point x="1621" y="1516"/>
+	<Point x="1619" y="1507"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CRIMNO. ſ. m. Cierto género de harina, que
+ſe hace de eſpelta y de trigo, mas gruea-
+mente molida que la ordinaria, y de que co-
+munmente ſe hacen las gachas, ò puches. Es
+voz Griega. Lat. Crimnum. LAG. Dioſc. lib. 2.
+cap. 81. Dá el Crimno copioſo mantenimien-
+to, y con diﬁcultád ſe digiere.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="paragraph">
+	<Coords>
+	<Point x="1619" y="1842"/>
+	<Point x="1675" y="1842"/>
+	<Point x="1731" y="1845"/>
+	<Point x="1745" y="1847"/>
+	<Point x="1773" y="1851"/>
+	<Point x="1778" y="1844"/>
+	<Point x="2026" y="1850"/>
+	<Point x="2144" y="1867"/>
+	<Point x="2151" y="1863"/>
+	<Point x="2165" y="1858"/>
+	<Point x="2203" y="1860"/>
+	<Point x="2598" y="1876"/>
+	<Point x="2590" y="2546"/>
+	<Point x="2282" y="2532"/>
+	<Point x="2211" y="2528"/>
+	<Point x="2209" y="2569"/>
+	<Point x="2168" y="2574"/>
+	<Point x="2056" y="2567"/>
+	<Point x="1916" y="2562"/>
+	<Point x="1639" y="2558"/>
+	<Point x="1662" y="1889"/>
+	<Point x="1622" y="1885"/>
+	<Point x="1613" y="1869"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CRIN. ſ. f. Las cerdas que le nacen y crecen en
+la cerviz ò cueo al cabao, yegua ù otro ani-
+mál que las tiene: y tambien ſe ſuele tomar
+por los cabeos, aunque con poco uſo. Mu-
+chos dicen Clin. Viene del Latino Crinis. Lat.
+Iuba. Crinis. Coma. FR. L. DE. GRAN. Symb. part.
+1. cap. 22. §. 1. Tienen ſus galánas crínes, que
+les rven de penachos naturáles. ESPIN. Art.
+Bae. lib. 1. cap. 17. Es adornado de hermo-
+ſa crin y poblada cola, con que muera mas
+ſu brio y lozanía. QUEV. Fort. Yo ſoi Sanſóna
+femenina, que tengo la fuerza en el cabeo:
+quien ſabe arſe à mis crines, ſabe defenderſe
+de los corcóvos de mi ama.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords>
+	<Point x="1596" y="2566"/>
+	<Point x="1910" y="2574"/>
+	<Point x="2020" y="2573"/>
+	<Point x="2032" y="2574"/>
+	<Point x="2194" y="2582"/>
+	<Point x="2211" y="2574"/>
+	<Point x="2580" y="2590"/>
+	<Point x="2579" y="2697"/>
+	<Point x="1806" y="2675"/>
+	<Point x="1819" y="2720"/>
+	<Point x="1746" y="2725"/>
+	<Point x="1744" y="2727"/>
+	<Point x="1720" y="2726"/>
+	<Point x="1639" y="2719"/>
+	<Point x="1640" y="2616"/>
+	<Point x="1599" y="2619"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CRINADO, DA. adj. La coſa que tiene cerdas
+ò cabeos. Lat. Crinitus, a. um. F. HERR.
+Eleg. 9.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="paragraph">
+	<Coords>
+	<Point x="1697" y="2726"/>
+	<Point x="1742" y="2730"/>
+	<Point x="1772" y="2727"/>
+	<Point x="1826" y="2732"/>
+	<Point x="1843" y="2722"/>
+	<Point x="1944" y="2728"/>
+	<Point x="2401" y="2732"/>
+	<Point x="2400" y="2788"/>
+	<Point x="2272" y="2785"/>
+	<Point x="2273" y="2834"/>
+	<Point x="2231" y="2835"/>
+	<Point x="2041" y="2828"/>
+	<Point x="1914" y="2834"/>
+	<Point x="1775" y="2819"/>
+	<Point x="1713" y="2824"/>
+	<Point x="1691" y="2812"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rubio Phebo y crinádo, que aſcondido
+En el undóſo ſeno de Occidente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="paragraph">
+	<Coords>
+	<Point x="1646" y="2873"/>
+	<Point x="1972" y="2877"/>
+	<Point x="2056" y="2879"/>
+	<Point x="2040" y="2851"/>
+	<Point x="2044" y="2846"/>
+	<Point x="1981" y="2833"/>
+	<Point x="1883" y="2838"/>
+	<Point x="1831" y="2830"/>
+	<Point x="1641" y="2827"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LOP. Philom. fol. 2.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r54" type="paragraph">
+	<Coords>
+	<Point x="1752" y="2885"/>
+	<Point x="1759" y="2881"/>
+	<Point x="1877" y="2883"/>
+	<Point x="1903" y="2886"/>
+	<Point x="2332" y="2886"/>
+	<Point x="2329" y="2989"/>
+	<Point x="2296" y="2989"/>
+	<Point x="1749" y="2971"/>
+	<Point x="1745" y="2953"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La Furia de la guerra Tefonte
+Crináda la cabéza de culebras.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r58" type="paragraph">
+	<Coords>
+	<Point x="1600" y="2979"/>
+	<Point x="1728" y="2980"/>
+	<Point x="2327" y="3000"/>
+	<Point x="2336" y="2998"/>
+	<Point x="2573" y="2999"/>
+	<Point x="2572" y="3116"/>
+	<Point x="2402" y="3114"/>
+	<Point x="2308" y="3094"/>
+	<Point x="2258" y="3100"/>
+	<Point x="2057" y="3092"/>
+	<Point x="2066" y="3136"/>
+	<Point x="1950" y="3150"/>
+	<Point x="1920" y="3145"/>
+	<Point x="1913" y="3140"/>
+	<Point x="1821" y="3132"/>
+	<Point x="1782" y="3128"/>
+	<Point x="1724" y="3128"/>
+	<Point x="1652" y="3142"/>
+	<Point x="1632" y="3137"/>
+	<Point x="1637" y="3022"/>
+	<Point x="1614" y="3024"/>
+	<Point x="1599" y="3018"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CRINITAR. v. a. Agüerar, pronoicar males è
+infortúnios. Es voz inventada, culta y jocóſa.
+JACINT. POL. pl. 182.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r62" type="paragraph">
+	<Coords>
+	<Point x="1791" y="3161"/>
+	<Point x="1795" y="3138"/>
+	<Point x="1890" y="3142"/>
+	<Point x="1950" y="3157"/>
+	<Point x="1957" y="3155"/>
+	<Point x="2010" y="3146"/>
+	<Point x="2285" y="3138"/>
+	<Point x="2288" y="3342"/>
+	<Point x="2245" y="3348"/>
+	<Point x="2138" y="3357"/>
+	<Point x="2126" y="3355"/>
+	<Point x="2105" y="3349"/>
+	<Point x="2078" y="3345"/>
+	<Point x="2056" y="3343"/>
+	<Point x="2030" y="3356"/>
+	<Point x="2016" y="3357"/>
+	<Point x="1988" y="3341"/>
+	<Point x="1911" y="3340"/>
+	<Point x="1891" y="3348"/>
+	<Point x="1877" y="3349"/>
+	<Point x="1855" y="3337"/>
+	<Point x="1827" y="3353"/>
+	<Point x="1819" y="3340"/>
+	<Point x="1801" y="3342"/>
+	<Point x="1785" y="3348"/>
+	<Point x="1773" y="3343"/>
+	<Point x="1785" y="3297"/>
+	<Point x="1783" y="3276"/>
+	<Point x="1782" y="3252"/>
+	<Point x="1784" y="3174"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Crinitar pienſe celees
+blando el zephiro y el aura,
+del campo raſgos movibles,
+y fugitivas phantaſmas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r64" type="paragraph">
+	<Coords>
+	<Point x="1587" y="3345"/>
+	<Point x="1763" y="3345"/>
+	<Point x="1779" y="3350"/>
+	<Point x="1801" y="3345"/>
+	<Point x="1825" y="3359"/>
+	<Point x="1847" y="3349"/>
+	<Point x="1871" y="3348"/>
+	<Point x="1885" y="3355"/>
+	<Point x="1891" y="3351"/>
+	<Point x="1990" y="3351"/>
+	<Point x="2004" y="3352"/>
+	<Point x="2020" y="3364"/>
+	<Point x="2031" y="3358"/>
+	<Point x="2055" y="3352"/>
+	<Point x="2147" y="3367"/>
+	<Point x="2190" y="3357"/>
+	<Point x="2265" y="3361"/>
+	<Point x="2303" y="3356"/>
+	<Point x="2315" y="3361"/>
+	<Point x="2566" y="3357"/>
+	<Point x="2563" y="3620"/>
+	<Point x="2342" y="3621"/>
+	<Point x="2006" y="3610"/>
+	<Point x="1814" y="3601"/>
+	<Point x="1820" y="3643"/>
+	<Point x="1789" y="3646"/>
+	<Point x="1625" y="3644"/>
+	<Point x="1637" y="3392"/>
+	<Point x="1587" y="3386"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CRINITO, TA. adj. La perſona ò animál que
+tiene cabeo largo, ò crin crecida. Es voz pu-
+ramente Latina Crinitus. QUEV. Alguac. Hai
+amantes alacayueIos, que arden enos de cin-
+tas: otros crinítos, como cométas, enos de
+cabeos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r65" type="credit">
+	<Coords>
+	<Point x="1042" y="4014"/>
+	<Point x="1036" y="4063"/>
+	<Point x="1969" y="4072"/>
+	<Point x="1967" y="4016"/>
+	<Point x="1404" y="4014"/>
+	<Point x="1068" y="4013"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="534" y="3162"/>
+	<Point x="1517" y="3179"/>
+	<Point x="1517" y="3445"/>
+	<Point x="1174" y="3431"/>
+	<Point x="1177" y="3475"/>
+	<Point x="1059" y="3474"/>
+	<Point x="1009" y="3481"/>
+	<Point x="946" y="3469"/>
+	<Point x="850" y="3473"/>
+	<Point x="780" y="3468"/>
+	<Point x="654" y="3472"/>
+	<Point x="645" y="3470"/>
+	<Point x="581" y="3470"/>
+	<Point x="575" y="3449"/>
+	<Point x="574" y="3209"/>
+	<Point x="529" y="3209"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CRIMINOSAMENTE. adv. Lo miſmo que
+Criminalmente. Es voz de poco uſo, y la trahe
+Nebrixa en ſu Vocabulario. Lat. Criminosè.
+REPERT. DE LAS PART. en la palab. Criados.
+Criados no pueden acuſar à ſus Señóres, que
+ſon, ò fueren, criminoſamente.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443295">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T10:19:35</Created>
+	<LastChange>2010-12-31T06:18:24</LastChange></Metadata>
+	<Page imageFilename="00443295.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/>
+	<RegionRefIndexed regionRef="r11" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="345" y="116"/>
+	<Point x="345" y="204"/>
+	<Point x="488" y="204"/>
+	<Point x="488" y="116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>284</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="797" y="95"/>
+	<Point x="797" y="190"/>
+	<Point x="1580" y="190"/>
+	<Point x="1580" y="95"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subida del monte Carmelo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="358" y="222"/>
+	<Point x="357" y="1744"/>
+	<Point x="690" y="1743"/>
+	<Point x="684" y="1682"/>
+	<Point x="1867" y="1680"/>
+	<Point x="1877" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que ſuele egar a tanto, que tenga tedio grande, i trie
+za en las coſas de Dios haa venirlas à aborrecer. Pier
+deſe en ee Gozo infaliblemente el eſpiritu puro, por
+lo menos al principio. Porque  algun eſpiritu ſe ente
+ſera mui ſenble i groſero, poco eſpiritual i poco inte-
+rior, i recogido, coniendo mas en guo ſentivo que
+en fuerça de Eſpiritu. Porque pues el Eſpiritu eà tan
+baxo i flaco, que en  no apaga el habito del tal Go-
+zo, (que para no tener el Eſpiritu puro, baa tener eſ-
+te habito imperfeto, aunque quando ſe ofrezca, no
+conentas en los aos del Gozo) mas vive en cier
+ta manera en la flaqueza del Sentido, que en la fuer-
+ça del Eſpiritu. Lo cual en la perfecion i fortale-
+za que huviere en las ocaones, lo verà: aunque no
+niego que puede aver muchas virtudes con hartas im-
+perfeciones, mas con eos Gozos no apagados, ni pu-
+ro, ni ſabroſo el Eſpiritu interior, por aqui ca reina
+la carne, que milita contra el Eſpiritu, i aunque no ẽ
+ta el daño el Eſpiritu, por lo menos ſe le cauſa oculta
+diracion.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="370" y="1754"/>
+	<Point x="377" y="2110"/>
+	<Point x="381" y="2738"/>
+	<Point x="1867" y="2738"/>
+	<Point x="1877" y="1738"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pero bolviendo a hablar en aquel ſegundo daño, que
+contiene en  daños innumerables, no ſe pueden com-
+prehender con la pluma, ni gnicar, con palabras, haſ
+ta donde egue, i quanta ſea ea deſventura nacida
+del Gozo pueo en las gracias, i hermoſura natural:
+Quomodo obſcuratum e aurum, mutatus e color opti-
+mus, diſper ſunt lapides Sãuarÿ in capite omnium pla-
+tearum? Filÿ Sion incliti, &amp; amii auro primo, quomodo
+reputati ſunt in vaſa teea opus manuum ﬁguli? Pues
+que cada dia, por ea cauſa ſe ven tantas muer-
+tes de hombres, tantas honras perdidas, tantos in-
+ſultos hechos, tantas haziendas dipadas, tantas e-
+mulaciones i contiendas, tantos adulterios, i eupros</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="catch-word">
+	<Coords>
+	<Point x="1667" y="2745"/>
+	<Point x="1667" y="2800"/>
+	<Point x="1870" y="2800"/>
+	<Point x="1870" y="2745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>come-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="marginalia">
+	<Coords>
+	<Point x="121" y="2157"/>
+	<Point x="121" y="2251"/>
+	<Point x="370" y="2251"/>
+	<Point x="370" y="2161"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tren. 4.2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="credit">
+	<Coords>
+	<Point x="774" y="2922"/>
+	<Point x="774" y="2990"/>
+	<Point x="1425" y="2990"/>
+	<Point x="1425" y="2922"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

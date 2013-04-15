@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440090">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T10:07:10</Created>
+	<LastChange>2011-12-19T11:38:41</LastChange></Metadata>
+	<Page imageFilename="00440090.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/>
+	<RegionRefIndexed regionRef="r33" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="356" y="2047"/>
+	<Point x="538" y="2046"/>
+	<Point x="556" y="2045"/>
+	<Point x="592" y="2045"/>
+	<Point x="615" y="2038"/>
+	<Point x="646" y="2039"/>
+	<Point x="960" y="2032"/>
+	<Point x="1492" y="2021"/>
+	<Point x="1910" y="2029"/>
+	<Point x="1949" y="2036"/>
+	<Point x="2285" y="2037"/>
+	<Point x="2289" y="2204"/>
+	<Point x="1176" y="2205"/>
+	<Point x="1157" y="2211"/>
+	<Point x="1146" y="2229"/>
+	<Point x="1003" y="2232"/>
+	<Point x="961" y="2219"/>
+	<Point x="354" y="2213"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El reo de las Emerones no ſe pudieron lograr por
+las muchas Nubes, que cubrieron la Luna.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="352" y="2226"/>
+	<Point x="949" y="2230"/>
+	<Point x="1003" y="2236"/>
+	<Point x="1158" y="2235"/>
+	<Point x="1173" y="2217"/>
+	<Point x="2284" y="2220"/>
+	<Point x="2283" y="2353"/>
+	<Point x="1342" y="2378"/>
+	<Point x="1142" y="2382"/>
+	<Point x="1058" y="2430"/>
+	<Point x="353" y="2430"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El dia 8 de Septiembre de 1737, eando en Quito,
+obſervè el que ſe gue.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="signature-mark">
+	<Coords>
+	<Point x="1367" y="3376"/>
+	<Point x="1450" y="3376"/>
+	<Point x="1450" y="3454"/>
+	<Point x="1367" y="3454"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>K</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="catch-word">
+	<Coords>
+	<Point x="2051" y="3363"/>
+	<Point x="2238" y="3363"/>
+	<Point x="2238" y="3433"/>
+	<Point x="2051" y="3433"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Prin-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="credit">
+	<Coords>
+	<Point x="990" y="4016"/>
+	<Point x="1958" y="4016"/>
+	<Point x="1958" y="4096"/>
+	<Point x="990" y="4096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="header">
+	<Coords>
+	<Point x="853" y="331"/>
+	<Point x="1822" y="325"/>
+	<Point x="1828" y="414"/>
+	<Point x="1366" y="415"/>
+	<Point x="993" y="417"/>
+	<Point x="857" y="417"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="page-number">
+	<Coords>
+	<Point x="2061" y="342"/>
+	<Point x="2232" y="342"/>
+	<Point x="2232" y="441"/>
+	<Point x="2061" y="441"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>73</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r10">
+	<Coords>
+	<Point x="346" y="423"/>
+	<Point x="1553" y="423"/>
+	<Point x="1972" y="429"/>
+	<Point x="2091" y="455"/>
+	<Point x="2282" y="455"/>
+	<Point x="2281" y="1361"/>
+	<Point x="2280" y="1838"/>
+	<Point x="2288" y="2028"/>
+	<Point x="1976" y="2028"/>
+	<Point x="1947" y="2020"/>
+	<Point x="1818" y="2013"/>
+	<Point x="1440" y="2007"/>
+	<Point x="598" y="2034"/>
+	<Point x="595" y="2041"/>
+	<Point x="583" y="2042"/>
+	<Point x="558" y="2041"/>
+	<Point x="359" y="2042"/></Coords></TableRegion>
+	<TableRegion id="r23">
+	<Coords>
+	<Point x="347" y="2446"/>
+	<Point x="656" y="2448"/>
+	<Point x="726" y="2450"/>
+	<Point x="748" y="2451"/>
+	<Point x="1062" y="2451"/>
+	<Point x="1180" y="2422"/>
+	<Point x="1211" y="2419"/>
+	<Point x="1394" y="2398"/>
+	<Point x="2284" y="2380"/>
+	<Point x="2266" y="3349"/>
+	<Point x="2050" y="3351"/>
+	<Point x="1998" y="3351"/>
+	<Point x="1969" y="3360"/>
+	<Point x="1356" y="3358"/>
+	<Point x="1345" y="3370"/>
+	<Point x="605" y="3376"/>
+	<Point x="349" y="3376"/>
+	<Point x="349" y="3311"/>
+	<Point x="347" y="3050"/>
+	<Point x="346" y="2804"/></Coords></TableRegion></Page></PcGts>

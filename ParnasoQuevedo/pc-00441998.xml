@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441998">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:28:32</Created>
+	<LastChange>2011-07-05T14:26:45</LastChange></Metadata>
+	<Page imageFilename="00441998.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/>
+	<RegionRefIndexed regionRef="r10" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="482" y="196"/>
+	<Point x="482" y="278"/>
+	<Point x="541" y="281"/>
+	<Point x="674" y="278"/>
+	<Point x="674" y="196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>414</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="996" y="188"/>
+	<Point x="996" y="272"/>
+	<Point x="1496" y="272"/>
+	<Point x="1496" y="188"/>
+	<Point x="1356" y="193"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THALIA,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="506" y="321"/>
+	<Point x="505" y="690"/>
+	<Point x="1313" y="698"/>
+	<Point x="2070" y="700"/>
+	<Point x="2070" y="286"/>
+	<Point x="503" y="295"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De nuero commercio Iitterario, De la antigua ami-
+ad, derivada de los Padres miſmos con piadoſa Reli-
+gion. Eſcuche ia pues V.S. ſus Rhithmos, i caliﬁque ſus
+donaires; deſcubriendo como Maſcara ſon, que miente
+riſueña la melancolica mas, i Stoica Dorina.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="860" y="1680"/>
+	<Point x="866" y="1776"/>
+	<Point x="1700" y="1778"/>
+	<Point x="1700" y="1686"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PELIGNVS POETA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="494" y="1814"/>
+	<Point x="494" y="2070"/>
+	<Point x="2052" y="2070"/>
+	<Point x="2068" y="1820"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>At tu, quicũque es, quem Nora Licẽtia ldit;
+Si ſapis, ad numeros exige quque ſuos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="credit">
+	<Coords>
+	<Point x="701" y="3130"/>
+	<Point x="703" y="3190"/>
+	<Point x="703" y="3201"/>
+	<Point x="1476" y="3201"/>
+	<Point x="1473" y="3136"/>
+	<Point x="1318" y="3135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

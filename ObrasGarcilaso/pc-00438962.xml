@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438962">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T15:34:35</Created>
+	<LastChange>2011-06-24T14:04:28</LastChange></Metadata>
+	<Page imageFilename="00438962.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r12" index="0"/>
+	<RegionRefIndexed regionRef="r14" index="1"/>
+	<RegionRefIndexed regionRef="r20" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="482" y="2089"/>
+	<Point x="992" y="2092"/>
+	<Point x="985" y="2140"/>
+	<Point x="485" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="177" y="60"/>
+	<Point x="1043" y="53"/>
+	<Point x="1025" y="135"/>
+	<Point x="167" y="146"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A GARCILASSO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="1098" y="55"/>
+	<Point x="1216" y="63"/>
+	<Point x="1210" y="135"/>
+	<Point x="1108" y="130"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>113</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="0" y="144"/>
+	<Point x="156" y="151"/>
+	<Point x="1258" y="141"/>
+	<Point x="1260" y="1856"/>
+	<Point x="418" y="1873"/>
+	<Point x="276" y="1880"/>
+	<Point x="165" y="1890"/>
+	<Point x="0" y="1883"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>le orò. Declara Macrobio libr. 1. cap. 21.
+Saturn. Que Adonis es el Sol, y que le o-
+ra Venus, que es el hemisferio ſuperior
+(porque el inferior ſe ama Proſerpina)
+ora le porque ſe le mata vn puerco, que
+es el Inuierno, que es quando el Sol ſe ale-
+ja de noſotros, y ſon los dias muy peque-
+ños que ca el Sol no parece. Es compara-
+do el puerco al Inuierno, por ſer de pelo
+hiſpido y aſpero: y ſe huelga con lugares
+humidos, y lodoſos, y cubiertos de yelo, y
+come beotas, que es manjar de Inuierno.
+Pinſas que es otro el fuego que en Octa.
+Alcides ſe amô Hercules por ſu grãfuer-
+ça, porque en Griego Arce, es fuerça, O-
+tros dizen que por ſu abuelo Alceo. Dizẽ,
+que ntiendoſe morir de la ponçoña de la
+camiſa que ſu muger Dianira le auia em-
+biado, hizo vna hoguera en el mõte Oeta,
+y ai ſe quemò. Ea ﬁcciõ quieren que ſea
+la puriﬁcacion de los excelentes hombres
+que ſuben a ſer dioſes, dexando acà la vei
+dura groera del alma.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="0" y="1890"/>
+	<Point x="181" y="1895"/>
+	<Point x="204" y="1898"/>
+	<Point x="268" y="1886"/>
+	<Point x="426" y="1881"/>
+	<Point x="596" y="1880"/>
+	<Point x="1234" y="1867"/>
+	<Point x="1264" y="1941"/>
+	<Point x="865" y="1942"/>
+	<Point x="0" y="1992"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A gozar de las horas immortales. Bembo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="signature-mark">
+	<Coords>
+	<Point x="867" y="1953"/>
+	<Point x="945" y="1948"/>
+	<Point x="938" y="2022"/>
+	<Point x="865" y="2022"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="catch-word">
+	<Coords>
+	<Point x="1115" y="1966"/>
+	<Point x="1234" y="1957"/>
+	<Point x="1229" y="2021"/>
+	<Point x="1128" y="2026"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>en</Unicode></TextEquiv></TextRegion></Page></PcGts>

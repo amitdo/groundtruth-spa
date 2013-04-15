@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444523">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T19:26:52</Created>
+	<LastChange>2011-03-09T04:53:24</LastChange></Metadata>
+	<Page imageFilename="00444523.tif" imageWidth="2613" imageHeight="3944">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/>
+	<RegionRefIndexed regionRef="r8" index="2"/>
+	<RegionRefIndexed regionRef="r9" index="3"/>
+	<RegionRefIndexed regionRef="r14" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="891" y="252"/>
+	<Point x="891" y="347"/>
+	<Point x="2200" y="347"/>
+	<Point x="2200" y="252"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HISTORIA DE LA ACADEMIA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="583" y="272"/>
+	<Point x="559" y="337"/>
+	<Point x="554" y="351"/>
+	<Point x="802" y="345"/>
+	<Point x="786" y="259"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>XXXVI</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="catch-word">
+	<Coords>
+	<Point x="2412" y="3693"/>
+	<Point x="2391" y="3708"/>
+	<Point x="2404" y="3742"/>
+	<Point x="2516" y="3736"/>
+	<Point x="2514" y="3728"/>
+	<Point x="2514" y="3689"/>
+	<Point x="2493" y="3677"/>
+	<Point x="2483" y="3673"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cui-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="credit">
+	<Coords>
+	<Point x="833" y="3850"/>
+	<Point x="827" y="3914"/>
+	<Point x="833" y="3916"/>
+	<Point x="1622" y="3933"/>
+	<Point x="1772" y="3922"/>
+	<Point x="1766" y="3854"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="510" y="359"/>
+	<Point x="512" y="363"/>
+	<Point x="517" y="558"/>
+	<Point x="518" y="602"/>
+	<Point x="627" y="601"/>
+	<Point x="646" y="588"/>
+	<Point x="763" y="588"/>
+	<Point x="781" y="598"/>
+	<Point x="804" y="588"/>
+	<Point x="839" y="588"/>
+	<Point x="848" y="604"/>
+	<Point x="874" y="600"/>
+	<Point x="875" y="589"/>
+	<Point x="880" y="589"/>
+	<Point x="891" y="600"/>
+	<Point x="903" y="605"/>
+	<Point x="922" y="594"/>
+	<Point x="967" y="587"/>
+	<Point x="1162" y="590"/>
+	<Point x="1184" y="598"/>
+	<Point x="1193" y="607"/>
+	<Point x="1204" y="603"/>
+	<Point x="1223" y="594"/>
+	<Point x="1258" y="588"/>
+	<Point x="1528" y="587"/>
+	<Point x="1543" y="594"/>
+	<Point x="1568" y="605"/>
+	<Point x="1579" y="594"/>
+	<Point x="2520" y="593"/>
+	<Point x="2520" y="368"/>
+	<Point x="2465" y="364"/>
+	<Point x="796" y="355"/>
+	<Point x="768" y="360"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vados en los corazones de todos ſus indivíduos, mas durable, por ea razon, ſu
+memória, que  ſe eſculpieran en mármoles, y bronces: permaneciendo empre
+conante, à peſar de las injúrias del tiempo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="521" y="671"/>
+	<Point x="530" y="1142"/>
+	<Point x="685" y="1141"/>
+	<Point x="690" y="1150"/>
+	<Point x="701" y="1156"/>
+	<Point x="717" y="1152"/>
+	<Point x="726" y="1141"/>
+	<Point x="805" y="1142"/>
+	<Point x="816" y="1153"/>
+	<Point x="834" y="1155"/>
+	<Point x="851" y="1152"/>
+	<Point x="857" y="1141"/>
+	<Point x="2517" y="1131"/>
+	<Point x="2519" y="615"/>
+	<Point x="2125" y="600"/>
+	<Point x="2108" y="598"/>
+	<Point x="2096" y="600"/>
+	<Point x="2050" y="601"/>
+	<Point x="2039" y="613"/>
+	<Point x="2005" y="612"/>
+	<Point x="2000" y="598"/>
+	<Point x="1990" y="599"/>
+	<Point x="1960" y="597"/>
+	<Point x="1954" y="610"/>
+	<Point x="1877" y="607"/>
+	<Point x="1865" y="600"/>
+	<Point x="1844" y="606"/>
+	<Point x="1697" y="600"/>
+	<Point x="1672" y="599"/>
+	<Point x="1649" y="611"/>
+	<Point x="1547" y="613"/>
+	<Point x="1527" y="606"/>
+	<Point x="1520" y="597"/>
+	<Point x="1504" y="605"/>
+	<Point x="1271" y="598"/>
+	<Point x="1224" y="600"/>
+	<Point x="1200" y="616"/>
+	<Point x="1156" y="615"/>
+	<Point x="1147" y="600"/>
+	<Point x="1132" y="597"/>
+	<Point x="1115" y="600"/>
+	<Point x="1088" y="601"/>
+	<Point x="1069" y="601"/>
+	<Point x="1050" y="600"/>
+	<Point x="1009" y="602"/>
+	<Point x="994" y="600"/>
+	<Point x="977" y="597"/>
+	<Point x="961" y="602"/>
+	<Point x="950" y="616"/>
+	<Point x="916" y="616"/>
+	<Point x="855" y="612"/>
+	<Point x="833" y="601"/>
+	<Point x="819" y="601"/>
+	<Point x="810" y="609"/>
+	<Point x="662" y="600"/>
+	<Point x="647" y="598"/>
+	<Point x="630" y="606"/>
+	<Point x="627" y="626"/>
+	<Point x="603" y="671"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No puede proſeguir la Académia en las mal formadas cláuſulas, con que ex-
+plicaba ſu profundo agradecimiento, porque repentinamente emmudece, à im-
+pulſos de la admiración, del aombro, y del paſmo: y à no haverla ſocorrido la
+Divína Providéncia con el prontiſsimo alívio de convertir los ojos de quantos
+la componen en copioſos arroyos de lágrymas, ſufocados ſus leales corazones, con
+la amargúra de novedád tan impenſada, y peregrina, huvieran perdido à ma-
+nos de ſu rigór los últimos alientos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="533" y="1161"/>
+	<Point x="533" y="1939"/>
+	<Point x="572" y="1938"/>
+	<Point x="583" y="1922"/>
+	<Point x="679" y="1926"/>
+	<Point x="2514" y="1904"/>
+	<Point x="2514" y="1149"/>
+	<Point x="2042" y="1146"/>
+	<Point x="1950" y="1148"/>
+	<Point x="1557" y="1151"/>
+	<Point x="1378" y="1151"/>
+	<Point x="1132" y="1152"/>
+	<Point x="971" y="1153"/>
+	<Point x="955" y="1149"/>
+	<Point x="943" y="1156"/>
+	<Point x="887" y="1163"/>
+	<Point x="886" y="1152"/>
+	<Point x="865" y="1152"/>
+	<Point x="851" y="1158"/>
+	<Point x="842" y="1160"/>
+	<Point x="836" y="1156"/>
+	<Point x="822" y="1155"/>
+	<Point x="815" y="1157"/>
+	<Point x="810" y="1161"/>
+	<Point x="707" y="1157"/>
+	<Point x="692" y="1159"/>
+	<Point x="688" y="1162"/>
+	<Point x="676" y="1162"/>
+	<Point x="661" y="1153"/>
+	<Point x="641" y="1154"/>
+	<Point x="633" y="1162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eos efeos ha producido en la Académia la no imaginable determinación de
+trocar V. M. la Coróna, por la ſoledád, y las delícias de Reynar en ee mundo,
+por los cuidados de coronarſe en el Reyno immortál. Y aunque venera la Divína
+inſpiración de que vé aſsiido à V. M. (pues n ea no era praicable un he-
+o tan glorioſo) y n embargo de dexarnos V. M. una prenda, que por ſer vi-
+va Imagen ſuya, eſpéra ha de ſer ſu único conſuelo; con todo eo ora juamen-
+te el retíro de un Monara, adornado de toda aquea univerſalidád de pren-
+das, que pudo apetecer (y aun idear en ſu phantasía) el mas feliz vaaage: y
+ora con eſpecialidád la ſenble falta de ſu Real Fundadór, Proteór, Patrón,
+y Bienheor.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="611" y="1936"/>
+	<Point x="603" y="2006"/>
+	<Point x="542" y="2011"/>
+	<Point x="516" y="3605"/>
+	<Point x="513" y="3647"/>
+	<Point x="523" y="3662"/>
+	<Point x="525" y="3694"/>
+	<Point x="2172" y="3676"/>
+	<Point x="2191" y="3689"/>
+	<Point x="2213" y="3675"/>
+	<Point x="2404" y="3673"/>
+	<Point x="2420" y="3679"/>
+	<Point x="2440" y="3668"/>
+	<Point x="2547" y="3666"/>
+	<Point x="2510" y="1929"/>
+	<Point x="2072" y="1933"/>
+	<Point x="1781" y="1932"/>
+	<Point x="1626" y="1935"/>
+	<Point x="1190" y="1934"/>
+	<Point x="861" y="1936"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tiene preſente, que el ſeñor Emperador Carlos V. Avuelo auguiſsimo de
+V. M. renunció ſus Réinos, y que à ea reſolución graduó el mundo por la ma-
+yor hazaña de aquel invencible Heróe. Tambien que el Sereniſsimo Señor Del-
+phín, Padre digniſsimo de V. M. le cedió el dereo que tenía à la ſuceſsión de
+eos dilatados domínios, prorumpiendo en aqueas cláuſulas con razon admi-
+radas de quantos las ſupieron: Mas que el Reynar eimo poder decir, el Rey
+mi Padre, mi hĳo el Rey; pero no pueden eos Reales exemplares (por gran-
+des, y magnánimos que ſean) alegar ſe por exemplos de la glorioſa acción que V.
+M. acaba de executar: pues el ſeñor Emperador ſe haaba en la edad avanza-
+da de cinquenta y ſeis años, y tan gravado de enfermedades, y aaques habitua-
+les, que era mui naturál en ſu Ceſárea comprehenón anteviee mui cercano ſu
+ﬁn, como ſucedió. Le faltaba, tiempo havía, augua Conſorte, que le conſolae
+en ſus aﬂicciones, le ayudae en ſus fatígas, y le fuee ﬁel conſejéra en los caſos
+diﬁcultoſos. Tenía, no ſolo hĳo varon enſayado en el gobierno de eos Réinos,
+no tambien Nieto, y no faltó quien imprimiee tomó ea reſolución canſado
+del mundo, y de sí próprio. El Sereniſsimo Padre de V. M. (aunque preſunto, y
+digniſsimo heredero de tantas Corónas) no havía guado lo que era Reynar, ni
+las adoraciones que acompañan al Cetro. Con que ſe puede decir (n que la te-
+meridád ofenda la grandeza de ſu Real ánimo) que cedió lo que aun no havía
+experimentado. Pero V. M. en la edad robua de quarenta años, n accidentes
+que le embarácen manejarſe brioſo: con la apreciable digniſsima compañía de
+nuera amada Réina (en quien podía V. M. deſcanſar la mayor parte de ſus</Unicode></TextEquiv></TextRegion></Page></PcGts>

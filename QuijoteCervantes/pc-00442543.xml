@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442543">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T17:46:58</Created>
+	<LastChange>2012-03-12T14:12:07</LastChange></Metadata>
+	<Page imageFilename="00442543.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="446" y="62"/>
+	<Point x="1185" y="69"/>
+	<Point x="1176" y="160"/>
+	<Point x="558" y="157"/>
+	<Point x="545" y="173"/>
+	<Point x="435" y="174"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="201" y="180"/>
+	<Point x="1469" y="187"/>
+	<Point x="1473" y="2165"/>
+	<Point x="1474" y="2172"/>
+	<Point x="1322" y="2168"/>
+	<Point x="1312" y="2182"/>
+	<Point x="190" y="2180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſu amo quedaua ocupado en cierta parte, y en cier‐
+ta coſa, que le era de mucha importancia, la qual
+el no podia deſcubrir por los ojos que en la cara te‐
+nia. No, no, dixo el barbero, Sancho Pança,  vos
+no nos dezis donde queda, imaginaremos, como
+ya imaginamos, que vos le aueys muerto, y roba‐
+do, pues venis encima de ſu cauao, en verdad
+que nos aueys de dar el dueño del rozin, o ſobre
+eo morena. No ay para que conmigo amenazas,
+que yo no ſoy hombre que robo, ni mato a na‐
+die, a cada vno mate ſu ventura, o Dios que le hi‐
+zo. Mi amo queda haziendo penitencia en la mi‐
+tad dea montaña, muy a ſu ſabor. Y luego de
+corrida, y n parar, les conto de la ſuerte que
+quedaua, las auenturas que le auian ſucedido, y
+como euaua la carta a la ſeñora Dulzinea del
+Toboſo, que era la hija de Lorenço Corchuelo,
+de quien eaua enamorado haa los higados. Que‐
+daron admirados los dos, de lo que Sancho Pan-
+ça les contaua, y aunque ya ſabian la locura de
+don Quixote, y el genero dea, empre que
+la oyan, ſe admirauan de nueuo. Pidierondole a San‐
+cho Pança, que les enſeñae la carta que euaua a
+la ſeñora Dulzinea del Toboſo: el dixo que yua
+eſcrita en vn libro de memoria, y que era orden
+de ſu ſeñor, que la hiziee trasladar en papel, en
+el primer lugar que egae. A lo qual, dixo el
+cura, que ſe la morae, que el la trasladaria
+de muy buena letra. Metio la mano en el ſe‐
+no Sancho Pança, buſcando el librio, pero
+no le haò, ni le podia haar,  le buſcara haſ‐
+ta agora, porque ſe auia quedado don Quixote</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="428" y="2281"/>
+	<Point x="1160" y="2281"/>
+	<Point x="1160" y="2368"/>
+	<Point x="428" y="2368"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1328" y="94"/>
+	<Point x="1328" y="172"/>
+	<Point x="1471" y="172"/>
+	<Point x="1471" y="94"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>134</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1333" y="2180"/>
+	<Point x="1333" y="2230"/>
+	<Point x="1444" y="2230"/>
+	<Point x="1444" y="2180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>con</Unicode></TextEquiv></TextRegion></Page></PcGts>

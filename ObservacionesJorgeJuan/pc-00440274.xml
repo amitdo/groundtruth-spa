@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440274">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T12:39:25</Created>
+	<LastChange>2011-12-19T11:38:54</LastChange></Metadata>
+	<Page imageFilename="00440274.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r12" index="2"/>
+	<RegionRefIndexed regionRef="r14" index="3"/>
+	<RegionRefIndexed regionRef="r16" index="4"/>
+	<RegionRefIndexed regionRef="r22" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="264" y="499"/>
+	<Point x="748" y="505"/>
+	<Point x="799" y="512"/>
+	<Point x="852" y="509"/>
+	<Point x="2257" y="512"/>
+	<Point x="2257" y="1575"/>
+	<Point x="265" y="1575"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>los lados de los triangulos reſpeo del Meridiano, reducir
+à horizontàles algunos angulos de los de la primera Série,
+lo que hice yo en el miſmo Capitulo por Trigonometría
+Eſphérica; pero Don Antonio de Uoa para aegurar los
+calculos, quiſo tomarſe el trabajo de hacerlo por la plana,
+cuya via es algo mas larga; porque le fuè neceario haar
+todas las alturas de las Señales las unas reſpeo de las otras,
+para reducir à horizontàles igualmente todas ſus diancias,
+que es la obra antecedente; por medio de las quales, y el
+calculo ordinario deduce una nueva Série de triangulos
+horizontàles, que es la guiente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="382" y="1622"/>
+	<Point x="2160" y="1622"/>
+	<Point x="2160" y="1887"/>
+	<Point x="382" y="1887"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Série de los triangulos de la Meridiana
+reducidos à horizontàles.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="credit">
+	<Coords>
+	<Point x="985" y="4000"/>
+	<Point x="1955" y="4000"/>
+	<Point x="1955" y="4097"/>
+	<Point x="985" y="4097"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="811" y="413"/>
+	<Point x="1767" y="413"/>
+	<Point x="1767" y="505"/>
+	<Point x="811" y="505"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="page-number">
+	<Coords>
+	<Point x="1989" y="422"/>
+	<Point x="2166" y="422"/>
+	<Point x="2166" y="508"/>
+	<Point x="1989" y="508"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>255</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r4">
+	<Coords>
+	<Point x="485" y="2106"/>
+	<Point x="1169" y="2115"/>
+	<Point x="1459" y="2115"/>
+	<Point x="1476" y="2121"/>
+	<Point x="1476" y="2139"/>
+	<Point x="1618" y="2112"/>
+	<Point x="1714" y="2108"/>
+	<Point x="1715" y="2440"/>
+	<Point x="472" y="2440"/></Coords></TableRegion>
+	<TableRegion id="r7">
+	<Coords>
+	<Point x="467" y="2583"/>
+	<Point x="1678" y="2577"/>
+	<Point x="1675" y="2902"/>
+	<Point x="472" y="2902"/></Coords></TableRegion>
+	<TableRegion id="r10">
+	<Coords>
+	<Point x="485" y="3059"/>
+	<Point x="1003" y="3063"/>
+	<Point x="1622" y="3054"/>
+	<Point x="1632" y="3367"/>
+	<Point x="480" y="3367"/></Coords></TableRegion>
+	<TextRegion id="r22" type="catch-word">
+	<Coords>
+	<Point x="2062" y="3407"/>
+	<Point x="2062" y="3535"/>
+	<Point x="2220" y="3535"/>
+	<Point x="2220" y="3407"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pi-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1084" y="1995"/>
+	<Point x="1084" y="2095"/>
+	<Point x="1452" y="2095"/>
+	<Point x="1465" y="2111"/>
+	<Point x="1485" y="2119"/>
+	<Point x="1508" y="2110"/>
+	<Point x="1523" y="2094"/>
+	<Point x="1679" y="2095"/>
+	<Point x="1680" y="1994"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2 Triangulo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1086" y="2495"/>
+	<Point x="1086" y="2573"/>
+	<Point x="1142" y="2573"/>
+	<Point x="1142" y="2495"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1085" y="2968"/>
+	<Point x="1085" y="3054"/>
+	<Point x="1152" y="3054"/>
+	<Point x="1152" y="2968"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>4</Unicode></TextEquiv></TextRegion></Page></PcGts>

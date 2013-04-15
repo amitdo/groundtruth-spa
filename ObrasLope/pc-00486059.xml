@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00486059">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T04:59:11</Created>
+	<LastChange>2011-07-28T11:29:35</LastChange></Metadata>
+	<Page imageFilename="00486059.tif" imageWidth="2108" imageHeight="3023">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="113" y="2425"/>
+	<Point x="634" y="2431"/>
+	<Point x="687" y="2465"/>
+	<Point x="740" y="2427"/>
+	<Point x="956" y="2447"/>
+	<Point x="1796" y="2457"/>
+	<Point x="1770" y="2719"/>
+	<Point x="630" y="2752"/>
+	<Point x="130" y="2719"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Alarico. Vn ſoldado Romano,
+pregundo por ti corriendo a prieſa
+el monte como el ano,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1844" y="2717"/>
+	<Point x="2043" y="2718"/>
+	<Point x="2042" y="2813"/>
+	<Point x="1857" y="2814"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>agora</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="669" y="2940"/>
+	<Point x="1387" y="2936"/>
+	<Point x="1387" y="3000"/>
+	<Point x="671" y="2994"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="136" y="114"/>
+	<Point x="685" y="125"/>
+	<Point x="1513" y="160"/>
+	<Point x="1478" y="1854"/>
+	<Point x="1126" y="1849"/>
+	<Point x="556" y="1847"/>
+	<Point x="512" y="1876"/>
+	<Point x="475" y="1855"/>
+	<Point x="435" y="1849"/>
+	<Point x="362" y="1880"/>
+	<Point x="310" y="1855"/>
+	<Point x="165" y="1846"/>
+	<Point x="107" y="1832"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>veame el enemigo,
+en ſu poder, vendido por la mano
+de mi mayor amigo,
+y eando atado matemc vn viano,
+y para que concluya,
+yo viua y muera en la deſgracia tuya.
+No fuera conocido,
+a no ſer por mi boca confeado
+que viendome encendido,
+de hauer a dos Romanos derribado
+al vno dixe a vozes,
+mal el valor de vn Eſpañol conoces
+y al ﬁn eoy contigo,
+por el valor de aquel gentil Romano
+agradecido amigo,
+alça eos ojos dame aquea mano,
+hagamos amiades,
+no digan que hazes tu temeridades.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="105" y="1849"/>
+	<Point x="109" y="2424"/>
+	<Point x="635" y="2429"/>
+	<Point x="687" y="2462"/>
+	<Point x="739" y="2424"/>
+	<Point x="955" y="2442"/>
+	<Point x="1817" y="2442"/>
+	<Point x="1817" y="1864"/>
+	<Point x="1111" y="1851"/>
+	<Point x="556" y="1850"/>
+	<Point x="541" y="1859"/>
+	<Point x="513" y="1880"/>
+	<Point x="473" y="1859"/>
+	<Point x="435" y="1852"/>
+	<Point x="361" y="1884"/>
+	<Point x="330" y="1869"/>
+	<Point x="307" y="1859"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Claudia El alma al ﬁn no pudo,
+negarte eos abraços que prebengo
+ temo tiemblo, o dudo,
+eremos ſon del grande amor que tengo,
+veſme aqui ya rendida,
+eres al ﬁn de aqueos ojos vida Entra Alarico.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="511" y="18"/>
+	<Point x="512" y="106"/>
+	<Point x="1166" y="135"/>
+	<Point x="1571" y="144"/>
+	<Point x="1570" y="11"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comedia de Lope de Vega.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1875" y="6"/>
+	<Point x="1875" y="114"/>
+	<Point x="2059" y="114"/>
+	<Point x="2059" y="6"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>120</Unicode></TextEquiv></TextRegion></Page></PcGts>

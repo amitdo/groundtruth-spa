@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444074">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T11:25:02</Created>
+	<LastChange>2011-12-19T11:39:24</LastChange></Metadata>
+	<Page imageFilename="00444074.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="991" y="64"/>
+	<Point x="1671" y="64"/>
+	<Point x="1671" y="208"/>
+	<Point x="991" y="208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L A VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1751" y="2641"/>
+	<Point x="1996" y="2641"/>
+	<Point x="1996" y="2719"/>
+	<Point x="1751" y="2719"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>crean</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="553" y="3041"/>
+	<Point x="1637" y="3041"/>
+	<Point x="1637" y="3166"/>
+	<Point x="553" y="3166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="444" y="233"/>
+	<Point x="2044" y="221"/>
+	<Point x="2041" y="2633"/>
+	<Point x="444" y="2628"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>curar ſoledad y lencio, y otras muchas vir‐
+tudes, que no nos mataran eos negros cuer-
+pos, que tan concertadamente le quieren
+euar, para deſconcertar el alma, y el de‐
+monio ayuda mucho a hazerlos inhabiles,
+quando vee vn poco de temor, no quiere
+el mas, para hazernos entender que todo
+nos ha de matar, y quitar la ſalud, haa en
+tener lagrimas, nos haze temer de cegar. He
+paado por eo, y por eo lo ſe, y no ſe yo
+que mejor via ni ſalud podemos deear
+que perderla por tal cauſa. Como ſoy tan en‐
+ferma haa que me determine en no hazer
+caſo del cuerpo, ni de la ſalud, empre eu-
+ue atada n valer nada, y aora hago bien
+poco, mas como quiſo Dios entendiee
+ee ardid del demonio, y como me ponia
+delante el perder la ſalud, dezia yo, poco va
+en que me muera,  el deſcanſo, no he ya
+meneer, deſcanſo no cruz. An otras
+coſas. Vi claro que en muy muchas, aunque
+yo de hecho ſoy harto enferma, era tenta‐
+cion del demonio, o ﬂoxedad mia: que
+deſpues que no eoy tan mirada y regala‐
+da tengo mucha mas ſalud. An que va
+mucho a los principios de començar ora‐
+cion a no amilanar los penſamientos, y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="494" y="89"/>
+	<Point x="494" y="225"/>
+	<Point x="676" y="225"/>
+	<Point x="676" y="89"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>146</Unicode></TextEquiv></TextRegion></Page></PcGts>

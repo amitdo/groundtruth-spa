@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00446858">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:40:28</Created>
+	<LastChange>2011-07-28T11:26:10</LastChange></Metadata>
+	<Page imageFilename="00446858.tif" imageWidth="2826" imageHeight="4139">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r27" index="0"/>
+	<RegionRefIndexed regionRef="r43" index="1"/>
+	<RegionRefIndexed regionRef="r45" index="2"/>
+	<RegionRefIndexed regionRef="r37" index="3"/>
+	<RegionRefIndexed regionRef="r39" index="4"/>
+	<RegionRefIndexed regionRef="r41" index="5"/></OrderedGroup></ReadingOrder>
+	<GraphicRegion id="r25" type="handwritten-annotation">
+	<Coords>
+	<Point x="1256" y="91"/>
+	<Point x="1734" y="91"/>
+	<Point x="1734" y="226"/>
+	<Point x="1256" y="226"/></Coords></GraphicRegion>
+	<TextRegion id="r27" type="heading">
+	<Coords>
+	<Point x="588" y="511"/>
+	<Point x="2235" y="524"/>
+	<Point x="2237" y="1705"/>
+	<Point x="567" y="1696"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DICCIONARIO
+DE LA LENGUA CASTELLANA,
+EN QUE SE EXPLICA
+EL VERDADERO SENTIDO DE LAS VOCES,
+SU NATURALEZA Y CALIDAD,
+CON LAS PHRASES Ò MODOS DE HABLAR,
+LOS PROVERBIOS Ò REFRANES,
+Y OTRAS COSAS CONVENIENTES
+AL USO DE LA LENGUA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="heading">
+	<Coords>
+	<Point x="756" y="2722"/>
+	<Point x="1969" y="2726"/>
+	<Point x="1973" y="2769"/>
+	<Point x="1977" y="2850"/>
+	<Point x="1422" y="2850"/>
+	<Point x="756" y="2843"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TOMO QUARTO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="heading">
+	<Coords>
+	<Point x="547" y="2856"/>
+	<Point x="2211" y="2862"/>
+	<Point x="2205" y="2958"/>
+	<Point x="1833" y="2962"/>
+	<Point x="1820" y="3209"/>
+	<Point x="547" y="3184"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>QUE CONTIENE LAS LETRAS
+G. H. I. J. K. L. M. N.
+CON PRIVILEGIO.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r40" type="stamp">
+	<Coords>
+	<Point x="1860" y="2969"/>
+	<Point x="2086" y="2969"/>
+	<Point x="2090" y="3222"/>
+	<Point x="1858" y="3221"/></Coords></GraphicRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords>
+	<Point x="543" y="3234"/>
+	<Point x="2179" y="3256"/>
+	<Point x="2173" y="3381"/>
+	<Point x="543" y="3373"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EN MADRID: En la Imprenta de la Real Académia Eſpañóla: Por los Herederos
+de FRANCISCO DEL HIERRO. Año de 1734.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="heading">
+	<Coords>
+	<Point x="573" y="1718"/>
+	<Point x="2232" y="1716"/>
+	<Point x="2215" y="2460"/>
+	<Point x="543" y="2467"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DEDICADO
+AL REY NUESTRO SEÑOR
+DON PHELIPE V.
+(QUE DIOS GUARDE)
+A CUYAS REALES EXPENSAS SE HACE
+ea obra.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="heading">
+	<Coords>
+	<Point x="552" y="2477"/>
+	<Point x="2216" y="2488"/>
+	<Point x="2207" y="2715"/>
+	<Point x="550" y="2707"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>COMPUESTO
+POR LA REAL ACADEMIA ESPAÑOLA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="credit">
+	<Coords>
+	<Point x="1000" y="3986"/>
+	<Point x="984" y="4051"/>
+	<Point x="1356" y="4056"/>
+	<Point x="1813" y="4063"/>
+	<Point x="1974" y="4064"/>
+	<Point x="1975" y="4004"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r47">
+	<Coords>
+	<Point x="545" y="3203"/>
+	<Point x="545" y="3230"/>
+	<Point x="1793" y="3247"/>
+	<Point x="2158" y="3252"/>
+	<Point x="2160" y="3226"/>
+	<Point x="1940" y="3225"/>
+	<Point x="1842" y="3224"/>
+	<Point x="1820" y="3221"/></Coords></SeparatorRegion></Page></PcGts>

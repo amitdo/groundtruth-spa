@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485094">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T05:42:20</Created>
+	<LastChange>2011-05-12T13:40:53</LastChange></Metadata>
+	<Page imageFilename="00485094.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1233" y="107"/>
+	<Point x="1600" y="107"/>
+	<Point x="1598" y="214"/>
+	<Point x="1576" y="212"/>
+	<Point x="1233" y="207"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. LXIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="616" y="3019"/>
+	<Point x="1395" y="3019"/>
+	<Point x="1398" y="3096"/>
+	<Point x="1384" y="3090"/>
+	<Point x="613" y="3084"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="300" y="221"/>
+	<Point x="1425" y="223"/>
+	<Point x="1585" y="223"/>
+	<Point x="1594" y="1488"/>
+	<Point x="314" y="1488"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El dia que de veros no alcançaua,
+Deſcanſaua con quien vio os hauia,
+Rodeando mil platicas por vna:
+Y'ſperando de veros otro dia,
+Tanto mi coraçon s'alboroçaua,
+Que alabaua mi tiempo y mi fortuna,
+Deſde'l punto que fui pueo en la cuna.
+Como'l gloton, que gua alguna coſa,
+Y tanto guo dea en  le'viene,
+Que'ſpera, y ſe detiene,
+Y començar, por no acabar, no oſa.
+Ai mi fantaa
+De vuera via endo deeoſa,
+Alguna vez n veros ſe ſufria,
+Penſando que deſpues mas holgaria.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="360" y="1523"/>
+	<Point x="1636" y="1523"/>
+	<Point x="1640" y="2784"/>
+	<Point x="1483" y="2782"/>
+	<Point x="1453" y="2769"/>
+	<Point x="1409" y="2763"/>
+	<Point x="1365" y="2765"/>
+	<Point x="1349" y="2764"/>
+	<Point x="1246" y="2768"/>
+	<Point x="1135" y="2800"/>
+	<Point x="364" y="2805"/>
+	<Point x="332" y="1602"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quan al reues es lo que pao agora:
+Que conçertar no puedo mis paiones,
+Para ſu frias concertadamente:
+Ni me vale buſcar cien mil razones,
+Para en cien años alcançar vn'ora,
+En que pueda penar templadamente.
+Ea en ſu fuerça empre mi acidente:
+Y viendo's, y no viẽdo's, empre muero:
+Muero,  os veo, de mortal deeo:
+Y el dia que no's veo,
+De veros otro dia deſeſpero.
+No tengo ſufrimiento
+Para'ſperar vn poco lo que quiero:
+Ni puedo dar ſalida al ſentimiento,
+Con blando, ni con duro penſamiento.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="signature-mark">
+	<Coords>
+	<Point x="1229" y="2778"/>
+	<Point x="1222" y="2861"/>
+	<Point x="1437" y="2861"/>
+	<Point x="1437" y="2784"/>
+	<Point x="1421" y="2771"/>
+	<Point x="1399" y="2769"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>K iij</Unicode></TextEquiv></TextRegion></Page></PcGts>

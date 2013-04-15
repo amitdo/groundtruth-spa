@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485263">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T13:31:52</Created>
+	<LastChange>2011-05-12T13:41:10</LastChange></Metadata>
+	<Page imageFilename="00485263.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="356" y="973"/>
+	<Point x="1719" y="973"/>
+	<Point x="1719" y="1748"/>
+	<Point x="356" y="1748"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Voſotros ſoys de mi en tanto tenidos:
+Que ai como los dos mas principales,
+Acuerdo que ſeays mis eſcogidos,
+Para todos mis bienes y mis males.
+Y ai quiero, que ſean corregidos
+Por voſotros, los echos deguales,
+Que contra mi ſe hazen, y mi hijo:
+Dela qual cauſa, a mucho que maﬂijo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="317" y="1786"/>
+	<Point x="1622" y="1786"/>
+	<Point x="1561" y="2485"/>
+	<Point x="1466" y="2488"/>
+	<Point x="1380" y="2486"/>
+	<Point x="1355" y="2488"/>
+	<Point x="1340" y="2497"/>
+	<Point x="1314" y="2497"/>
+	<Point x="1300" y="2494"/>
+	<Point x="1273" y="2494"/>
+	<Point x="1205" y="2511"/>
+	<Point x="317" y="2511"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Andan, por todo el mundo deſafueros
+En grande daño mio, y deſacato:
+Vnos amores falſos liſongeros:
+Echos, y deſechos, muy barato.
+Otros prometimientos chocarreros,
+Con vn ciuil, y mintiroſo trato.
+Vn andar empre por buſcar ſalida,
+Ala coſa que veys que fue ﬁngida.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="1294" y="2499"/>
+	<Point x="1307" y="2497"/>
+	<Point x="1314" y="2498"/>
+	<Point x="1340" y="2498"/>
+	<Point x="1353" y="2491"/>
+	<Point x="1516" y="2490"/>
+	<Point x="1516" y="2586"/>
+	<Point x="1295" y="2583"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>X iiĳ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="630" y="3031"/>
+	<Point x="1398" y="3031"/>
+	<Point x="1398" y="3089"/>
+	<Point x="630" y="3089"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="412" y="187"/>
+	<Point x="1755" y="187"/>
+	<Point x="1755" y="924"/>
+	<Point x="412" y="924"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Venido pues el dia, y lugar cierto:
+En el qual informados ſer deuian:
+Fue d'ea el razonar con tal concierto:
+Que aun las piedras del ſon s'enternecian:
+Y por la ſoledad d'aquel deerto,
+Las aguas los ſus curſos detenian.
+Y fue la dulce boz quea mouio:
+Hablando eas palabras, que hablo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="648" y="72"/>
+	<Point x="1195" y="72"/>
+	<Point x="1195" y="179"/>
+	<Point x="648" y="179"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="1212" y="72"/>
+	<Point x="1691" y="72"/>
+	<Point x="1691" y="178"/>
+	<Point x="1212" y="178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. CXLVII.</Unicode></TextEquiv></TextRegion></Page></PcGts>

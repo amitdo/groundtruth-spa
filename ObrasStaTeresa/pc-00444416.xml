@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444416">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:07:34</Created>
+	<LastChange>2011-12-19T11:39:44</LastChange></Metadata>
+	<Page imageFilename="00444416.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="969" y="69"/>
+	<Point x="1600" y="69"/>
+	<Point x="1600" y="209"/>
+	<Point x="969" y="209"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="442" y="226"/>
+	<Point x="2021" y="231"/>
+	<Point x="2019" y="2623"/>
+	<Point x="1853" y="2627"/>
+	<Point x="1639" y="2658"/>
+	<Point x="430" y="2695"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>coſas celeiales, y procurar que nuera con-
+uerſacion ſea aa, hazeſe con facilidad. Eo
+es mucha ganancia, porque ſolo mirar al cie-
+lo recoge el alma, porque como ha querido
+el Señor morar algo de lo que ay aa, eaſe
+penſando, y acaeceme algunas vezes ſer los
+que me acompañan, y con los que me con-
+ſuelo, los que ſe que aa biuen, y parecerme
+aqueos verdaderamente los biuos, y los que
+aca biuen tan muertos, que todo el mundo
+me parece no me haze compañia, en eſpecial
+quando tengo aqueos impetus: todo me pa-
+rece ſueño, y que es burla lo que veo con los
+ojos del cuerpo, lo que he ya vio con los
+ojos del alma es lo que ea deea, y como ſe
+vee Iexos, ee es el morir. Al ﬁn es grandiſsi-
+ma la merced que el Señor haze aquien da
+ſemejantes viones, porque la ayuda mucho:
+y tambien a euar vna peſada cruz, porque
+todo no le ſatisfaze, todo le da en roro, y 
+el Señor no permitiee a vezes ſe oluidae,
+aunque ſe torna a acordar, no ſe como ſe po-
+dria biuir bendito ſea y alabado por empre
+jamas, plega a ſu Magead por la ſangre que
+ſu hijo derramo por mi, que ya que ha que-
+rido entienda algo de tan grandes bienes, y
+que comience en alguna manera a gozar de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="623" y="3075"/>
+	<Point x="1560" y="3075"/>
+	<Point x="1560" y="3164"/>
+	<Point x="623" y="3164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="464" y="121"/>
+	<Point x="464" y="221"/>
+	<Point x="626" y="221"/>
+	<Point x="635" y="124"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>490</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1772" y="2644"/>
+	<Point x="1821" y="2635"/>
+	<Point x="1894" y="2636"/>
+	<Point x="1988" y="2652"/>
+	<Point x="1987" y="2732"/>
+	<Point x="1769" y="2729"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>eos,</Unicode></TextEquiv></TextRegion></Page></PcGts>

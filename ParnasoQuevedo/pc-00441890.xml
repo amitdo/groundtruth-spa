@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441890">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T23:10:36</Created>
+	<LastChange>2011-07-05T14:26:38</LastChange></Metadata>
+	<Page imageFilename="00441890.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r11" index="1"/>
+	<RegionRefIndexed regionRef="r14" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="773" y="129"/>
+	<Point x="1309" y="129"/>
+	<Point x="1309" y="209"/>
+	<Point x="773" y="209"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MVSA IV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="102" y="1539"/>
+	<Point x="1780" y="1539"/>
+	<Point x="1780" y="2426"/>
+	<Point x="102" y="2426"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Canſada ERATO ia de arder gemidos,
+I de Cantar ſuſpiros, i dolores,
+Qual nunca tiernos mas fueron oidos,
+Templar quiſo al deſden tantos rigores:
+Amad, Amad, Amad, correſpondidos,
+Dixo,  ſois diſcretos Amadores;
+I el que el deſprecio no vengare necio,
+La Edad le vengarà de aquel deſprecio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="credit">
+	<Coords>
+	<Point x="695" y="3124"/>
+	<Point x="1492" y="3124"/>
+	<Point x="1492" y="3202"/>
+	<Point x="695" y="3202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="429" y="221"/>
+	<Point x="1582" y="221"/>
+	<Point x="1582" y="1024"/>
+	<Point x="429" y="1024"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dejo por mi heredero a mi deſeo.
+I de las joias mias,
+Que ſon las advertencias, i verdades,
+Quiero, que ſe reſcaten libertades;
+I lo demas ſe gae en obras pias,
+Pues muero de crueldades.
+Dejar invidia quiero,
+A quien ſupiere, que por Lis muero.
+Sola a ti en tal jornada,
+Por no dejarte, no te dejo nada.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="signature-mark">
+	<Coords>
+	<Point x="1131" y="2753"/>
+	<Point x="1382" y="2753"/>
+	<Point x="1382" y="2868"/>
+	<Point x="1131" y="2868"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pp 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="catch-word">
+	<Coords>
+	<Point x="1817" y="2753"/>
+	<Point x="1951" y="2753"/>
+	<Point x="1951" y="2858"/>
+	<Point x="1817" y="2858"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Si</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="page-number">
+	<Coords>
+	<Point x="1780" y="114"/>
+	<Point x="1963" y="114"/>
+	<Point x="1963" y="231"/>
+	<Point x="1780" y="231"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>299</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r8">
+	<Coords>
+	<Point x="900" y="1119"/>
+	<Point x="900" y="1309"/>
+	<Point x="1196" y="1309"/>
+	<Point x="1196" y="1119"/></Coords></ImageRegion></Page></PcGts>

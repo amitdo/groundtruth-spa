@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442901">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:21:27</Created>
+	<LastChange>2012-03-12T14:12:34</LastChange></Metadata>
+	<Page imageFilename="00442901.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="158" y="194"/>
+	<Point x="448" y="197"/>
+	<Point x="553" y="210"/>
+	<Point x="588" y="209"/>
+	<Point x="698" y="193"/>
+	<Point x="1037" y="198"/>
+	<Point x="1497" y="197"/>
+	<Point x="1484" y="2161"/>
+	<Point x="1397" y="2167"/>
+	<Point x="1281" y="2166"/>
+	<Point x="1216" y="2191"/>
+	<Point x="1127" y="2181"/>
+	<Point x="1083" y="2171"/>
+	<Point x="1026" y="2182"/>
+	<Point x="1002" y="2190"/>
+	<Point x="678" y="2195"/>
+	<Point x="157" y="2172"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>traeys a mi? Que çapaticos a vueros hijos? No tray
+go nada deo, dixo Sancho, muger mia, aunque tray
+go otras coſas de mas momento, y conderacion.
+Deo recibo yo mucho guo, reſpondio la muger:
+moradme eas coſas de mas conderacion, y mas
+momẽto, amigo mio, que las quiero ver, para que ſe
+me alegre ee coraçon, que tan trie, y deſcontento
+ha eado, en todos los glos de vuera auſencia? En
+caſa os las morarè muger, dixo Pança, y por agora
+ead contenta, que endo Dios ſeruido de que otra
+vez ſalgamos en viage, a buſcar auenturas, vos me
+vereys preo Conde, o Gouernador de vna Inſula,
+y no de las de por ahi, no la mejor que pueda haar
+ſe. Quieralo aſsi el cielo, marido mio, que biẽ lo aue
+mos meneer. Mas dezidme que es eo de Inſulas,
+que no lo entiendo? No es la miel para la boca del
+aſno, reſpondio Sancho, a ſu tiempo lo veras muger,
+y aun te admiraràs de oyrte amar ſeñoria de todos
+tus vaaos. Que es lo que dezis Sancho, de ſeño-
+rias, Inſulas, y vaaos? reſpondio Iuana Pança, que
+aſsi ſe amaua la muger de Sancho, aunque no eran
+pariẽtes, no porque ſe vſa en la Mancha, tomar las
+mugeres el apeido de ſus maridos. No te acucies
+Iuana, por ſaber todo eo tan apriea, baa que te
+digo verdad, y coſe la boca. Solo te ſabre dezir aſsi
+de pao, que no ay coſa mas guoſa en el mundo,
+que ſer vn hombre honrado, eſcudero de vn caua-
+ero andãte, buſcador de auenturas. Bien es verdad,
+que las mas que ſe haan, no ſalen tan a guo como
+el hombre querria, porque de ciento que ſe encuen
+tran, las nouenta y nueue ſuelen ſalir auieas, y tor-
+cidas. Selo yo de expiriencia, porque de algunas he</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="435" y="90"/>
+	<Point x="435" y="187"/>
+	<Point x="554" y="205"/>
+	<Point x="701" y="186"/>
+	<Point x="1189" y="192"/>
+	<Point x="1188" y="101"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1266" y="2176"/>
+	<Point x="1253" y="2234"/>
+	<Point x="1415" y="2235"/>
+	<Point x="1415" y="2170"/>
+	<Point x="1280" y="2169"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſalido</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="426" y="2284"/>
+	<Point x="437" y="2357"/>
+	<Point x="1166" y="2357"/>
+	<Point x="1181" y="2284"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="1053" y="2179"/>
+	<Point x="1053" y="2218"/>
+	<Point x="1103" y="2222"/>
+	<Point x="1102" y="2180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444364">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T06:00:34</Created>
+	<LastChange>2011-12-19T11:39:41</LastChange></Metadata>
+	<Page imageFilename="00444364.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="481" y="263"/>
+	<Point x="2040" y="248"/>
+	<Point x="2042" y="2653"/>
+	<Point x="1716" y="2655"/>
+	<Point x="1716" y="2693"/>
+	<Point x="487" y="2693"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>quien tiene el miſmo amor tras eas almas
+ſe auia de andar  pudiee. Gran coſa es a vn
+enfermo haar otro herido de aquel mal, mu
+cho ſe cõſuela de ver que no es ſolo, mucho
+ſe ayudan a padecer y aun a merecer, excelen
+tes eſpaldas ſe hazen la gente determinada a
+arriſcar mil vidas por Dios, y deean que
+ſe les oﬀrezca en que perderlas, ſon como
+los ſoldados que por ganar el deſpojo y ha-
+zerſe con el ricos deeã que aya guerras, tie-
+nen entẽdido no lo pueden ſer no por aqui.
+Es ee ſu ofﬁcio el trabajar, o gran coſa es
+adonde el Señor da luz de entender lo mu-
+cho que ſe gana en padecer por el: no ſe en-
+tiende eo bien haa que ſe dexa todo, por-
+que quien en eo ſe ea, ſeñal es que lo tie-
+ne en algo. Pues  lo tiene en algo, forçado le
+ha de peſar de dexao. Y ya va imperfeto to-
+do y perdido: bien viene aqui, que es perdido
+quien tras perdido anda. Y que mas perdiciõ,
+que mas ceguedad, que mas deſuentura que
+tener en mucho lo que no es nada? Pues tor-
+nando a lo que dezia, eando yo en grandiſ-
+mo gozo, mirando aquel alma que me pa-
+rece queria el Señor viee claro los theſoros
+que auia pueo en ea, y viendo la merced
+que me auia hecho, en que fuee por medio</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1853" y="2663"/>
+	<Point x="2012" y="2663"/>
+	<Point x="2012" y="2750"/>
+	<Point x="1853" y="2750"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mio</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="610" y="3069"/>
+	<Point x="1583" y="3069"/>
+	<Point x="1583" y="3149"/>
+	<Point x="610" y="3149"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="997" y="117"/>
+	<Point x="1623" y="117"/>
+	<Point x="1623" y="237"/>
+	<Point x="997" y="237"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="512" y="136"/>
+	<Point x="674" y="136"/>
+	<Point x="674" y="244"/>
+	<Point x="512" y="244"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>436</Unicode></TextEquiv></TextRegion></Page></PcGts>

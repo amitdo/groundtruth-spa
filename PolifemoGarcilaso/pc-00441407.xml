@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441407">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T04:49:53</Created>
+	<LastChange>2011-05-12T13:40:22</LastChange></Metadata>
+	<Page imageFilename="00441407.tif" imageWidth="1495" imageHeight="2328">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r13" index="0"/>
+	<RegionRefIndexed regionRef="r16" index="1"/>
+	<RegionRefIndexed regionRef="r17" index="2"/>
+	<RegionRefIndexed regionRef="r15" index="3"/>
+	<RegionRefIndexed regionRef="r18" index="4"/>
+	<RegionRefIndexed regionRef="r19" index="5"/>
+	<RegionRefIndexed regionRef="r20" index="6"/>
+	<RegionRefIndexed regionRef="r21" index="7"/>
+	<RegionRefIndexed regionRef="r22" index="8"/>
+	<RegionRefIndexed regionRef="r23" index="9"/>
+	<RegionRefIndexed regionRef="r24" index="10"/>
+	<RegionRefIndexed regionRef="r25" index="11"/>
+	<RegionRefIndexed regionRef="r26" index="12"/>
+	<RegionRefIndexed regionRef="r28" index="13"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="413" y="88"/>
+	<Point x="415" y="149"/>
+	<Point x="483" y="155"/>
+	<Point x="854" y="156"/>
+	<Point x="1076" y="164"/>
+	<Point x="1076" y="82"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>COMENTADO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="1246" y="101"/>
+	<Point x="1246" y="176"/>
+	<Point x="1326" y="176"/>
+	<Point x="1326" y="101"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>38</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="260" y="175"/>
+	<Point x="262" y="209"/>
+	<Point x="296" y="216"/>
+	<Point x="356" y="221"/>
+	<Point x="583" y="220"/>
+	<Point x="785" y="223"/>
+	<Point x="890" y="217"/>
+	<Point x="983" y="241"/>
+	<Point x="990" y="240"/>
+	<Point x="1032" y="229"/>
+	<Point x="1057" y="232"/>
+	<Point x="1060" y="175"/>
+	<Point x="440" y="165"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— Madidas Baccho neare rupes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="101" y="337"/>
+	<Point x="101" y="391"/>
+	<Point x="273" y="390"/>
+	<Point x="297" y="403"/>
+	<Point x="305" y="405"/>
+	<Point x="320" y="398"/>
+	<Point x="330" y="394"/>
+	<Point x="346" y="392"/>
+	<Point x="415" y="390"/>
+	<Point x="420" y="341"/>
+	<Point x="248" y="336"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y en el Tyran.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="107" y="214"/>
+	<Point x="107" y="294"/>
+	<Point x="191" y="284"/>
+	<Point x="323" y="278"/>
+	<Point x="366" y="290"/>
+	<Point x="416" y="276"/>
+	<Point x="726" y="276"/>
+	<Point x="956" y="302"/>
+	<Point x="1041" y="294"/>
+	<Point x="1041" y="252"/>
+	<Point x="1016" y="247"/>
+	<Point x="939" y="242"/>
+	<Point x="906" y="232"/>
+	<Point x="887" y="227"/>
+	<Point x="794" y="233"/>
+	<Point x="762" y="226"/>
+	<Point x="707" y="227"/>
+	<Point x="557" y="224"/>
+	<Point x="280" y="230"/>
+	<Point x="209" y="220"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y primero que todos Sofocles in Antigone.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="222" y="292"/>
+	<Point x="224" y="332"/>
+	<Point x="406" y="333"/>
+	<Point x="475" y="333"/>
+	<Point x="646" y="347"/>
+	<Point x="737" y="342"/>
+	<Point x="737" y="294"/>
+	<Point x="657" y="281"/>
+	<Point x="412" y="284"/>
+	<Point x="369" y="293"/>
+	<Point x="327" y="287"/>
+	<Point x="273" y="286"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cois viridis &amp; vitifer.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="215" y="402"/>
+	<Point x="209" y="446"/>
+	<Point x="329" y="449"/>
+	<Point x="362" y="450"/>
+	<Point x="378" y="461"/>
+	<Point x="436" y="448"/>
+	<Point x="710" y="456"/>
+	<Point x="747" y="453"/>
+	<Point x="748" y="401"/>
+	<Point x="436" y="404"/>
+	<Point x="421" y="399"/>
+	<Point x="335" y="401"/>
+	<Point x="310" y="414"/>
+	<Point x="280" y="405"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bacchus ſumma montium.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="87" y="451"/>
+	<Point x="89" y="617"/>
+	<Point x="200" y="620"/>
+	<Point x="292" y="622"/>
+	<Point x="350" y="622"/>
+	<Point x="364" y="619"/>
+	<Point x="378" y="629"/>
+	<Point x="393" y="635"/>
+	<Point x="419" y="624"/>
+	<Point x="448" y="631"/>
+	<Point x="506" y="593"/>
+	<Point x="986" y="589"/>
+	<Point x="1312" y="599"/>
+	<Point x="1313" y="470"/>
+	<Point x="865" y="457"/>
+	<Point x="766" y="469"/>
+	<Point x="647" y="459"/>
+	<Point x="625" y="464"/>
+	<Point x="603" y="458"/>
+	<Point x="442" y="455"/>
+	<Point x="399" y="460"/>
+	<Point x="376" y="468"/>
+	<Point x="366" y="457"/>
+	<Point x="356" y="454"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De aqui nacio el dezir, que Bacco fue criado en los mon-
+tes; y por eo celebrauan en eos las ﬁeas Bacanales.
+Sen. en el Edipo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="187" y="630"/>
+	<Point x="192" y="843"/>
+	<Point x="206" y="850"/>
+	<Point x="245" y="849"/>
+	<Point x="313" y="849"/>
+	<Point x="407" y="856"/>
+	<Point x="519" y="857"/>
+	<Point x="526" y="808"/>
+	<Point x="846" y="808"/>
+	<Point x="850" y="630"/>
+	<Point x="430" y="635"/>
+	<Point x="419" y="633"/>
+	<Point x="402" y="643"/>
+	<Point x="387" y="637"/>
+	<Point x="378" y="633"/>
+	<Point x="371" y="631"/>
+	<Point x="356" y="630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Te Baaridum comitata cohors,
+Nunc Edonij pede pulſauit
+Sola Pangi, nunc Threicio
+Vertice Pindi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="83" y="850"/>
+	<Point x="84" y="913"/>
+	<Point x="242" y="908"/>
+	<Point x="437" y="910"/>
+	<Point x="686" y="921"/>
+	<Point x="695" y="931"/>
+	<Point x="707" y="934"/>
+	<Point x="725" y="930"/>
+	<Point x="751" y="924"/>
+	<Point x="761" y="934"/>
+	<Point x="768" y="935"/>
+	<Point x="802" y="928"/>
+	<Point x="927" y="937"/>
+	<Point x="954" y="928"/>
+	<Point x="1218" y="939"/>
+	<Point x="1218" y="871"/>
+	<Point x="460" y="866"/>
+	<Point x="368" y="860"/>
+	<Point x="242" y="856"/>
+	<Point x="168" y="852"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y Catulo en la cancion de nuptĳs Pelei, &amp; Thetidos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="176" y="921"/>
+	<Point x="176" y="1023"/>
+	<Point x="328" y="1024"/>
+	<Point x="390" y="1037"/>
+	<Point x="405" y="1036"/>
+	<Point x="416" y="1039"/>
+	<Point x="450" y="1038"/>
+	<Point x="475" y="1033"/>
+	<Point x="514" y="1034"/>
+	<Point x="595" y="1034"/>
+	<Point x="668" y="1037"/>
+	<Point x="837" y="1048"/>
+	<Point x="855" y="1050"/>
+	<Point x="874" y="1047"/>
+	<Point x="888" y="1046"/>
+	<Point x="920" y="1039"/>
+	<Point x="923" y="1028"/>
+	<Point x="1059" y="983"/>
+	<Point x="1069" y="943"/>
+	<Point x="966" y="936"/>
+	<Point x="949" y="935"/>
+	<Point x="939" y="939"/>
+	<Point x="839" y="940"/>
+	<Point x="768" y="938"/>
+	<Point x="761" y="936"/>
+	<Point x="731" y="935"/>
+	<Point x="710" y="935"/>
+	<Point x="691" y="940"/>
+	<Point x="684" y="934"/>
+	<Point x="505" y="926"/>
+	<Point x="295" y="917"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Spè vagus Liber Parnaſsi è vertice ſummo
+Thiadas eﬀus euantes crinibus egit.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="71" y="1028"/>
+	<Point x="71" y="1268"/>
+	<Point x="175" y="1269"/>
+	<Point x="242" y="1254"/>
+	<Point x="384" y="1262"/>
+	<Point x="653" y="1267"/>
+	<Point x="1289" y="1238"/>
+	<Point x="1299" y="1053"/>
+	<Point x="957" y="1047"/>
+	<Point x="910" y="1054"/>
+	<Point x="728" y="1048"/>
+	<Point x="670" y="1044"/>
+	<Point x="560" y="1036"/>
+	<Point x="412" y="1042"/>
+	<Point x="349" y="1035"/>
+	<Point x="195" y="1030"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eftas ﬁeas de Baco eſcriuio en ſu Filomela, elegantiſsi-
+ma, quanto breuemente, Antonio Lopez de Vega, cuyo
+ingenio merece toda alabança, y cuya erudicion puede
+competir con ſus numeros.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="200" y="1269"/>
+	<Point x="203" y="1483"/>
+	<Point x="246" y="1482"/>
+	<Point x="260" y="1486"/>
+	<Point x="347" y="1500"/>
+	<Point x="378" y="1487"/>
+	<Point x="401" y="1500"/>
+	<Point x="412" y="1504"/>
+	<Point x="436" y="1487"/>
+	<Point x="521" y="1508"/>
+	<Point x="545" y="1495"/>
+	<Point x="812" y="1505"/>
+	<Point x="829" y="1502"/>
+	<Point x="964" y="1498"/>
+	<Point x="960" y="1432"/>
+	<Point x="932" y="1272"/>
+	<Point x="645" y="1272"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La popular, y noble turba vfana
+Ya en alegre ſuror el Dios enciende
+Del gran padre nacido, y engendrado,
+Y con propios efetos celebrado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="117" y="1492"/>
+	<Point x="140" y="1894"/>
+	<Point x="214" y="1942"/>
+	<Point x="254" y="1946"/>
+	<Point x="290" y="1958"/>
+	<Point x="387" y="1950"/>
+	<Point x="397" y="1961"/>
+	<Point x="409" y="1961"/>
+	<Point x="434" y="1954"/>
+	<Point x="525" y="1957"/>
+	<Point x="706" y="1957"/>
+	<Point x="709" y="1968"/>
+	<Point x="719" y="1970"/>
+	<Point x="728" y="1970"/>
+	<Point x="750" y="1964"/>
+	<Point x="772" y="1965"/>
+	<Point x="912" y="1969"/>
+	<Point x="896" y="1884"/>
+	<Point x="1076" y="1872"/>
+	<Point x="935" y="1591"/>
+	<Point x="965" y="1530"/>
+	<Point x="627" y="1506"/>
+	<Point x="563" y="1514"/>
+	<Point x="420" y="1514"/>
+	<Point x="388" y="1500"/>
+	<Point x="384" y="1500"/>
+	<Point x="335" y="1508"/>
+	<Point x="266" y="1504"/>
+	<Point x="241" y="1489"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Los ſexos ambos, con ygual tnmulto,
+De pampanos las frentes impedidas
+Corren en clara noche, alegre culto
+Con vozes celebrando repetidas.
+Qual en el Templo adora el ſacro buo,
+Qual vaga inquieto, qual frequento heridas
+En ſonante metal, todos haziendo
+En ſon diſcorde Bacanal eruendo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="94" y="1941"/>
+	<Point x="97" y="2059"/>
+	<Point x="263" y="2075"/>
+	<Point x="785" y="2082"/>
+	<Point x="1112" y="2100"/>
+	<Point x="1219" y="2110"/>
+	<Point x="1242" y="2112"/>
+	<Point x="1253" y="2108"/>
+	<Point x="1256" y="1984"/>
+	<Point x="983" y="1979"/>
+	<Point x="740" y="1973"/>
+	<Point x="666" y="1971"/>
+	<Point x="535" y="1963"/>
+	<Point x="424" y="1961"/>
+	<Point x="401" y="1968"/>
+	<Point x="388" y="1956"/>
+	<Point x="324" y="1960"/>
+	<Point x="289" y="1961"/>
+	<Point x="254" y="1957"/>
+	<Point x="236" y="1949"/>
+	<Point x="195" y="1940"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EN CARRO QVE ESTIVAL TRILLO PARECE
+A SVS CAMPAñAS CERES NO PERDONA]</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="signature-mark">
+	<Coords>
+	<Point x="855" y="2091"/>
+	<Point x="855" y="2166"/>
+	<Point x="973" y="2166"/>
+	<Point x="976" y="2103"/>
+	<Point x="905" y="2095"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>K 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="catch-word">
+	<Coords>
+	<Point x="1133" y="2110"/>
+	<Point x="1133" y="2166"/>
+	<Point x="1210" y="2173"/>
+	<Point x="1262" y="2166"/>
+	<Point x="1259" y="2119"/>
+	<Point x="1159" y="2108"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A re-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="credit">
+	<Coords>
+	<Point x="446" y="2251"/>
+	<Point x="446" y="2305"/>
+	<Point x="1028" y="2305"/>
+	<Point x="1028" y="2251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

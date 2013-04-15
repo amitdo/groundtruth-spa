@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485129">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T05:46:15</Created>
+	<LastChange>2011-05-12T13:40:56</LastChange></Metadata>
+	<Page imageFilename="00485129.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r4" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="623" y="3017"/>
+	<Point x="1410" y="3017"/>
+	<Point x="1410" y="3096"/>
+	<Point x="623" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="526" y="231"/>
+	<Point x="1768" y="223"/>
+	<Point x="1771" y="2743"/>
+	<Point x="537" y="2753"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mas por que'l templo donde eos eaua:
+Era eno de gente, y mil mancebos,
+Y mugeres que's mas yuan cayendo
+En eo, que aora os cuento d'ea ioria.
+A el le pareçio mejor conſejo:
+Eſperar, que la noche con ſu manto
+Ocupae los ojos empre ocioſos,
+En las vidas agenas ocupados.
+Y ai entre tanto que'l eo'ſperaua:
+L' Aurora que a Titon boluer queria,
+Por deſcanſar en ſus amados braços:
+Por las puertas ſe'entro del Oçidente.
+Y ai tras ea el ſol con ſus cauaos
+Cabuioſe, en la mar del viejo Atlante.
+Entonçes las tinieblas ſe'endieron,
+Por la haz dela tierra, poco apoco.
+Y el templo do los dos amantes eran,
+Tomo la'ſcuridad que conuenia:
+Al caſo que tratamos, y aun atodos
+Los caſos, que enrridar ſuele Cupido.
+Leandro, deſque vio oportuno el tiempo:
+A Hero ſe ego, con tanto miedo,
+Que apenas pudo Amor obrar ſu fuerça.
+Prouo a caar y earſe padeçiendo
+Su miſeria entre : pero no'aua
+Tan de'ſpacio, que'ar caando oſae:
+Y ai empeço de hablar, ſu boz temblando.
+Sus rodias tambien, que no podian
+La carga ſoener del trie cuerpo.
+Dixo mal ſu razon, y por mal cabo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="776" y="134"/>
+	<Point x="775" y="215"/>
+	<Point x="1276" y="215"/>
+	<Point x="1275" y="194"/>
+	<Point x="1269" y="176"/>
+	<Point x="1273" y="134"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r12">
+	<Coords>
+	<Point x="1280" y="145"/>
+	<Point x="1276" y="177"/>
+	<Point x="1281" y="207"/>
+	<Point x="1306" y="218"/>
+	<Point x="1412" y="212"/>
+	<Point x="1406" y="144"/></Coords></GraphicRegion></Page></PcGts>

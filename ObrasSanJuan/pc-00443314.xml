@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443314">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T10:24:47</Created>
+	<LastChange>2010-12-30T08:26:54</LastChange></Metadata>
+	<Page imageFilename="00443314.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r12" index="0"/>
+	<RegionRefIndexed regionRef="r13" index="1"/>
+	<RegionRefIndexed regionRef="r14" index="2"/>
+	<RegionRefIndexed regionRef="r16" index="3"/>
+	<RegionRefIndexed regionRef="r15" index="4"/>
+	<RegionRefIndexed regionRef="r17" index="5"/>
+	<RegionRefIndexed regionRef="r18" index="6"/>
+	<RegionRefIndexed regionRef="r19" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="587" y="106"/>
+	<Point x="587" y="212"/>
+	<Point x="1035" y="212"/>
+	<Point x="1035" y="106"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro tercero.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="1474" y="116"/>
+	<Point x="1474" y="212"/>
+	<Point x="1622" y="212"/>
+	<Point x="1622" y="116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>303</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="409" y="229"/>
+	<Point x="409" y="329"/>
+	<Point x="1329" y="329"/>
+	<Point x="1329" y="229"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITVLO XXVII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="heading">
+	<Coords>
+	<Point x="174" y="364"/>
+	<Point x="175" y="500"/>
+	<Point x="269" y="498"/>
+	<Point x="337" y="493"/>
+	<Point x="386" y="554"/>
+	<Point x="500" y="562"/>
+	<Point x="1372" y="531"/>
+	<Point x="1388" y="461"/>
+	<Point x="1538" y="427"/>
+	<Point x="1527" y="350"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De ete daños én que ſe puede caer, poniendo el
+Gozo de la Voluntad en los bienes</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="708" y="567"/>
+	<Point x="697" y="659"/>
+	<Point x="1000" y="658"/>
+	<Point x="1000" y="567"/>
+	<Point x="902" y="559"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Morales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="251" y="696"/>
+	<Point x="251" y="883"/>
+	<Point x="232" y="893"/>
+	<Point x="195" y="900"/>
+	<Point x="150" y="897"/>
+	<Point x="146" y="888"/>
+	<Point x="142" y="884"/>
+	<Point x="128" y="881"/>
+	<Point x="128" y="1024"/>
+	<Point x="178" y="1019"/>
+	<Point x="203" y="1034"/>
+	<Point x="222" y="1034"/>
+	<Point x="235" y="1017"/>
+	<Point x="1027" y="1017"/>
+	<Point x="1040" y="1027"/>
+	<Point x="1054" y="1029"/>
+	<Point x="1067" y="1027"/>
+	<Point x="1104" y="1009"/>
+	<Point x="1501" y="1006"/>
+	<Point x="1501" y="929"/>
+	<Point x="1630" y="932"/>
+	<Point x="1629" y="700"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Os daños principales en que puede caer el hom-
+bre por el Gozo vano de ſus buenas obras i coum
+bres, hao, queſon ete i mui perniciofos, porque ſon
+Eſpirituales, los cuales referirè aqui brevemente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="drop-capital">
+	<Coords>
+	<Point x="122" y="706"/>
+	<Point x="128" y="877"/>
+	<Point x="135" y="879"/>
+	<Point x="148" y="886"/>
+	<Point x="162" y="888"/>
+	<Point x="199" y="882"/>
+	<Point x="227" y="884"/>
+	<Point x="244" y="881"/>
+	<Point x="245" y="706"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="129" y="1396"/>
+	<Point x="158" y="1407"/>
+	<Point x="192" y="1408"/>
+	<Point x="264" y="1402"/>
+	<Point x="275" y="1398"/>
+	<Point x="337" y="1417"/>
+	<Point x="350" y="1418"/>
+	<Point x="457" y="1416"/>
+	<Point x="477" y="1414"/>
+	<Point x="501" y="1412"/>
+	<Point x="655" y="1397"/>
+	<Point x="672" y="1406"/>
+	<Point x="680" y="1407"/>
+	<Point x="818" y="1395"/>
+	<Point x="1435" y="1391"/>
+	<Point x="1448" y="1330"/>
+	<Point x="1632" y="1331"/>
+	<Point x="1632" y="1022"/>
+	<Point x="1115" y="1021"/>
+	<Point x="1037" y="1035"/>
+	<Point x="1033" y="1024"/>
+	<Point x="491" y="1023"/>
+	<Point x="222" y="1036"/>
+	<Point x="208" y="1037"/>
+	<Point x="193" y="1035"/>
+	<Point x="183" y="1042"/>
+	<Point x="183" y="1086"/>
+	<Point x="169" y="1121"/>
+	<Point x="133" y="1132"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El primer daño es vanidad, ſoberbia, vanagloria, y
+preſuncion. Porque gozarſe de ſus obras no puede ſer
+n eimarlas. I de aî nace la jatancia, y lo demas: como
+ſe dize del Fariſeo en el Evangelio; que oraba con jatã
+cia de que ayunaba, i hazia otras buenas obras.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="210" y="1419"/>
+	<Point x="137" y="1498"/>
+	<Point x="132" y="1566"/>
+	<Point x="127" y="1608"/>
+	<Point x="125" y="1765"/>
+	<Point x="126" y="1848"/>
+	<Point x="148" y="2026"/>
+	<Point x="158" y="2242"/>
+	<Point x="148" y="2800"/>
+	<Point x="1172" y="2807"/>
+	<Point x="1518" y="2806"/>
+	<Point x="1540" y="2793"/>
+	<Point x="1617" y="2793"/>
+	<Point x="1627" y="2795"/>
+	<Point x="1647" y="2796"/>
+	<Point x="1653" y="2794"/>
+	<Point x="1659" y="2333"/>
+	<Point x="1650" y="2068"/>
+	<Point x="1640" y="2036"/>
+	<Point x="1625" y="1992"/>
+	<Point x="1630" y="1911"/>
+	<Point x="1626" y="1409"/>
+	<Point x="1439" y="1403"/>
+	<Point x="690" y="1415"/>
+	<Point x="671" y="1413"/>
+	<Point x="658" y="1409"/>
+	<Point x="628" y="1406"/>
+	<Point x="489" y="1421"/>
+	<Point x="483" y="1415"/>
+	<Point x="475" y="1415"/>
+	<Point x="441" y="1420"/>
+	<Point x="380" y="1421"/>
+	<Point x="329" y="1421"/>
+	<Point x="319" y="1414"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El ſegundo daño comunmente va encadenado deſ-
+te, i es, que juzga a los demas por malos, i imperfetos
+comparativamente, pareciendole, que no hazẽ, ni obrã
+tambien como el, eimandolos en menos en ſu cora-
+çon, i a vezes por la palabra. I ee daño tambien le te
+nia el Fariſeo: pues en ſu oracion dezia: Deus gratias ti-
+bi ago, quia non ſum cut, exteribominum raptores, iniui
+adulteri: velut etiam bie Publicanus: ieiuno bis in Sabbato,
+&amp;c. No ſoi como los demas hombres robadores, injuſ
+tos, i adulteros. Demanera que en vn ſolo ao caìa
+en eos dos daños, eimandoſe a , i deſpreciando a
+los demas, como el dia de oi hazen muchos, que dizen:
+No ſoi yo como fulano, ni obro eo, ni aqueo como eſ
+te, ò el otro. I aun ſon peores que el Fariſeo muchos doſ
+tos: porque el no ſolamente deſpreciò a los demas,
+no tambien ſeñalò parte diziendo: No ſoi co-
+mo, ee Publicano. Mas eos no ſe contentan-
+do con eſo, i con eſotro, egan a enojarſe,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="catch-word">
+	<Coords>
+	<Point x="1558" y="2803"/>
+	<Point x="1558" y="2872"/>
+	<Point x="1675" y="2872"/>
+	<Point x="1677" y="2803"/>
+	<Point x="1625" y="2800"/>
+	<Point x="1597" y="2797"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ià</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="marginalia">
+	<Coords>
+	<Point x="1646" y="1860"/>
+	<Point x="1636" y="1900"/>
+	<Point x="1637" y="1960"/>
+	<Point x="1639" y="2009"/>
+	<Point x="1645" y="2030"/>
+	<Point x="1887" y="2038"/>
+	<Point x="1887" y="1854"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Luc. 18.
+11</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="credit">
+	<Coords>
+	<Point x="774" y="2929"/>
+	<Point x="774" y="3003"/>
+	<Point x="1429" y="3003"/>
+	<Point x="1429" y="2929"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

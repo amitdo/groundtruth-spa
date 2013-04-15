@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00437812">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T21:41:33</Created>
+	<LastChange>2011-12-19T11:36:34</LastChange></Metadata>
+	<Page imageFilename="00437812.tif" imageWidth="2124" imageHeight="3165">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r20" index="0"/>
+	<RegionRefIndexed regionRef="r22" index="1"/>
+	<RegionRefIndexed regionRef="r18" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="793" y="3104"/>
+	<Point x="1451" y="3104"/>
+	<Point x="1451" y="3164"/>
+	<Point x="793" y="3164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="marginalia">
+	<Coords>
+	<Point x="157" y="324"/>
+	<Point x="500" y="327"/>
+	<Point x="502" y="361"/>
+	<Point x="501" y="606"/>
+	<Point x="376" y="604"/>
+	<Point x="376" y="681"/>
+	<Point x="155" y="681"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cona por
+el Archivo
+de la Santa
+Iglea de
+Toledo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="marginalia">
+	<Coords>
+	<Point x="145" y="1907"/>
+	<Point x="500" y="1908"/>
+	<Point x="500" y="2244"/>
+	<Point x="146" y="2243"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cona pro
+el Archivo
+de la con-
+gregacion.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="catch-word">
+	<Coords>
+	<Point x="1945" y="2841"/>
+	<Point x="1945" y="2951"/>
+	<Point x="2103" y="2951"/>
+	<Point x="2103" y="2841"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Di-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="2085" y="65"/>
+	<Point x="2085" y="524"/>
+	<Point x="2086" y="524"/>
+	<Point x="2086" y="982"/>
+	<Point x="2087" y="982"/>
+	<Point x="2087" y="1176"/>
+	<Point x="1976" y="1176"/>
+	<Point x="1976" y="1175"/>
+	<Point x="1810" y="1175"/>
+	<Point x="1810" y="1174"/>
+	<Point x="1641" y="1174"/>
+	<Point x="1641" y="1175"/>
+	<Point x="1307" y="1175"/>
+	<Point x="1307" y="1188"/>
+	<Point x="1306" y="1188"/>
+	<Point x="1306" y="1189"/>
+	<Point x="1269" y="1189"/>
+	<Point x="1269" y="1190"/>
+	<Point x="1231" y="1190"/>
+	<Point x="1231" y="1191"/>
+	<Point x="1195" y="1191"/>
+	<Point x="1195" y="1190"/>
+	<Point x="1169" y="1190"/>
+	<Point x="1169" y="1189"/>
+	<Point x="1142" y="1189"/>
+	<Point x="1142" y="1188"/>
+	<Point x="1116" y="1188"/>
+	<Point x="1116" y="1187"/>
+	<Point x="1089" y="1187"/>
+	<Point x="1089" y="1186"/>
+	<Point x="1063" y="1186"/>
+	<Point x="1063" y="1185"/>
+	<Point x="1036" y="1185"/>
+	<Point x="1036" y="1184"/>
+	<Point x="1010" y="1184"/>
+	<Point x="1010" y="1183"/>
+	<Point x="983" y="1183"/>
+	<Point x="983" y="1182"/>
+	<Point x="982" y="1182"/>
+	<Point x="982" y="1181"/>
+	<Point x="980" y="1181"/>
+	<Point x="980" y="1180"/>
+	<Point x="978" y="1180"/>
+	<Point x="978" y="1179"/>
+	<Point x="976" y="1179"/>
+	<Point x="976" y="1178"/>
+	<Point x="974" y="1178"/>
+	<Point x="974" y="1177"/>
+	<Point x="972" y="1177"/>
+	<Point x="972" y="1176"/>
+	<Point x="970" y="1176"/>
+	<Point x="970" y="1175"/>
+	<Point x="968" y="1175"/>
+	<Point x="968" y="1174"/>
+	<Point x="946" y="1174"/>
+	<Point x="946" y="1173"/>
+	<Point x="792" y="1173"/>
+	<Point x="792" y="1172"/>
+	<Point x="638" y="1172"/>
+	<Point x="638" y="1171"/>
+	<Point x="492" y="1171"/>
+	<Point x="492" y="1057"/>
+	<Point x="493" y="1057"/>
+	<Point x="493" y="919"/>
+	<Point x="494" y="919"/>
+	<Point x="494" y="781"/>
+	<Point x="495" y="781"/>
+	<Point x="495" y="643"/>
+	<Point x="496" y="643"/>
+	<Point x="496" y="641"/>
+	<Point x="497" y="641"/>
+	<Point x="497" y="639"/>
+	<Point x="498" y="639"/>
+	<Point x="498" y="637"/>
+	<Point x="499" y="637"/>
+	<Point x="499" y="635"/>
+	<Point x="500" y="635"/>
+	<Point x="500" y="633"/>
+	<Point x="501" y="633"/>
+	<Point x="501" y="631"/>
+	<Point x="502" y="631"/>
+	<Point x="502" y="629"/>
+	<Point x="503" y="629"/>
+	<Point x="503" y="627"/>
+	<Point x="504" y="627"/>
+	<Point x="504" y="625"/>
+	<Point x="505" y="625"/>
+	<Point x="505" y="623"/>
+	<Point x="506" y="623"/>
+	<Point x="506" y="621"/>
+	<Point x="507" y="621"/>
+	<Point x="507" y="321"/>
+	<Point x="506" y="321"/>
+	<Point x="506" y="320"/>
+	<Point x="504" y="320"/>
+	<Point x="504" y="319"/>
+	<Point x="502" y="319"/>
+	<Point x="502" y="318"/>
+	<Point x="501" y="318"/>
+	<Point x="501" y="317"/>
+	<Point x="499" y="317"/>
+	<Point x="499" y="316"/>
+	<Point x="497" y="316"/>
+	<Point x="497" y="315"/>
+	<Point x="496" y="315"/>
+	<Point x="496" y="314"/>
+	<Point x="494" y="314"/>
+	<Point x="494" y="313"/>
+	<Point x="492" y="313"/>
+	<Point x="492" y="312"/>
+	<Point x="491" y="312"/>
+	<Point x="491" y="311"/>
+	<Point x="489" y="311"/>
+	<Point x="489" y="310"/>
+	<Point x="487" y="310"/>
+	<Point x="487" y="309"/>
+	<Point x="486" y="309"/>
+	<Point x="486" y="308"/>
+	<Point x="484" y="308"/>
+	<Point x="484" y="307"/>
+	<Point x="482" y="307"/>
+	<Point x="482" y="306"/>
+	<Point x="481" y="306"/>
+	<Point x="481" y="305"/>
+	<Point x="479" y="305"/>
+	<Point x="479" y="304"/>
+	<Point x="478" y="304"/>
+	<Point x="478" y="65"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>al mas forçoſo obſequio del ſeñor de los Exercitos, como tam-
+bien a la dulce quietud de las teſlivas Muſas. El de 53. repitiò ſu
+Magead ſus generoſos honores, dandole vna de las Capeanias
+de los ſeñores Reyes Nuevos de Toledo, de que tomò poeſsion
+en l9. de Junio de dicho año. El de 63. conderandole diſ-
+tanta para el empleo de ſus Reales Fieas, le honrò con otra Ca-
+peania de Honor en ſus Real Capia, haziendole corrientes los
+gajes, y emolumentos de Toledo en ea Corte, y dandole vna
+Penon en Sicilia, con otras eſpeciales, y continuas mercedes, en
+reconocimiento de ſus grandes ſervicios, y premio de ſus altos
+merecimientos; que aquel Quarto glorioſsimo Monarca fue
+magnanimo en premiar, por ſer generoſo en conocer los hom-
+bres de habilidad; con cuyo motivo anhelavan los eſpiritus va-
+lientes al glorioſo afan de los combates, con generoſa ambicion
+de conſeguir el digno premio, labrãdoſe en aquea feliciſsima ſe-
+rie mas fecundos Ingenios, que han ﬂorecido en todas las edades.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="636" y="1173"/>
+	<Point x="636" y="1174"/>
+	<Point x="790" y="1174"/>
+	<Point x="790" y="1175"/>
+	<Point x="944" y="1175"/>
+	<Point x="944" y="1176"/>
+	<Point x="966" y="1176"/>
+	<Point x="966" y="1177"/>
+	<Point x="968" y="1177"/>
+	<Point x="968" y="1178"/>
+	<Point x="970" y="1178"/>
+	<Point x="970" y="1179"/>
+	<Point x="972" y="1179"/>
+	<Point x="972" y="1180"/>
+	<Point x="974" y="1180"/>
+	<Point x="974" y="1181"/>
+	<Point x="976" y="1181"/>
+	<Point x="976" y="1182"/>
+	<Point x="978" y="1182"/>
+	<Point x="978" y="1183"/>
+	<Point x="980" y="1183"/>
+	<Point x="980" y="1184"/>
+	<Point x="981" y="1184"/>
+	<Point x="981" y="1185"/>
+	<Point x="1008" y="1185"/>
+	<Point x="1008" y="1186"/>
+	<Point x="1034" y="1186"/>
+	<Point x="1034" y="1187"/>
+	<Point x="1061" y="1187"/>
+	<Point x="1061" y="1188"/>
+	<Point x="1087" y="1188"/>
+	<Point x="1087" y="1189"/>
+	<Point x="1114" y="1189"/>
+	<Point x="1114" y="1190"/>
+	<Point x="1140" y="1190"/>
+	<Point x="1140" y="1191"/>
+	<Point x="1167" y="1191"/>
+	<Point x="1167" y="1192"/>
+	<Point x="1193" y="1192"/>
+	<Point x="1193" y="1193"/>
+	<Point x="1233" y="1193"/>
+	<Point x="1233" y="1192"/>
+	<Point x="1271" y="1192"/>
+	<Point x="1271" y="1191"/>
+	<Point x="1308" y="1191"/>
+	<Point x="1308" y="1190"/>
+	<Point x="1309" y="1190"/>
+	<Point x="1309" y="1177"/>
+	<Point x="1643" y="1177"/>
+	<Point x="1643" y="1176"/>
+	<Point x="1808" y="1176"/>
+	<Point x="1808" y="1177"/>
+	<Point x="1974" y="1177"/>
+	<Point x="1974" y="1178"/>
+	<Point x="2087" y="1178"/>
+	<Point x="2087" y="1440"/>
+	<Point x="2088" y="1440"/>
+	<Point x="2088" y="1899"/>
+	<Point x="2089" y="1899"/>
+	<Point x="2089" y="2357"/>
+	<Point x="2090" y="2357"/>
+	<Point x="2090" y="2815"/>
+	<Point x="2091" y="2815"/>
+	<Point x="1940" y="2815"/>
+	<Point x="1940" y="2816"/>
+	<Point x="1790" y="2816"/>
+	<Point x="1790" y="2817"/>
+	<Point x="1640" y="2817"/>
+	<Point x="1640" y="2818"/>
+	<Point x="1489" y="2818"/>
+	<Point x="1489" y="2819"/>
+	<Point x="1339" y="2819"/>
+	<Point x="1339" y="2820"/>
+	<Point x="1189" y="2820"/>
+	<Point x="1189" y="2821"/>
+	<Point x="1039" y="2821"/>
+	<Point x="1039" y="2906"/>
+	<Point x="1040" y="2906"/>
+	<Point x="766" y="2906"/>
+	<Point x="766" y="2907"/>
+	<Point x="494" y="2907"/>
+	<Point x="494" y="2908"/>
+	<Point x="493" y="2908"/>
+	<Point x="493" y="2907"/>
+	<Point x="494" y="2907"/>
+	<Point x="494" y="2783"/>
+	<Point x="495" y="2783"/>
+	<Point x="495" y="2659"/>
+	<Point x="496" y="2659"/>
+	<Point x="496" y="2535"/>
+	<Point x="497" y="2535"/>
+	<Point x="497" y="2411"/>
+	<Point x="498" y="2411"/>
+	<Point x="498" y="2287"/>
+	<Point x="499" y="2287"/>
+	<Point x="499" y="2285"/>
+	<Point x="500" y="2285"/>
+	<Point x="500" y="2283"/>
+	<Point x="501" y="2283"/>
+	<Point x="501" y="2281"/>
+	<Point x="502" y="2281"/>
+	<Point x="502" y="2279"/>
+	<Point x="503" y="2279"/>
+	<Point x="503" y="2277"/>
+	<Point x="504" y="2277"/>
+	<Point x="504" y="2276"/>
+	<Point x="505" y="2276"/>
+	<Point x="505" y="2274"/>
+	<Point x="506" y="2274"/>
+	<Point x="506" y="2272"/>
+	<Point x="507" y="2272"/>
+	<Point x="507" y="2270"/>
+	<Point x="508" y="2270"/>
+	<Point x="508" y="2268"/>
+	<Point x="509" y="2268"/>
+	<Point x="509" y="2267"/>
+	<Point x="510" y="2267"/>
+	<Point x="510" y="2145"/>
+	<Point x="511" y="2145"/>
+	<Point x="511" y="2024"/>
+	<Point x="512" y="2024"/>
+	<Point x="512" y="1902"/>
+	<Point x="510" y="1902"/>
+	<Point x="510" y="1901"/>
+	<Point x="508" y="1901"/>
+	<Point x="508" y="1900"/>
+	<Point x="507" y="1900"/>
+	<Point x="507" y="1899"/>
+	<Point x="505" y="1899"/>
+	<Point x="505" y="1898"/>
+	<Point x="503" y="1898"/>
+	<Point x="503" y="1897"/>
+	<Point x="502" y="1897"/>
+	<Point x="502" y="1896"/>
+	<Point x="500" y="1896"/>
+	<Point x="500" y="1895"/>
+	<Point x="499" y="1895"/>
+	<Point x="499" y="1894"/>
+	<Point x="497" y="1894"/>
+	<Point x="497" y="1893"/>
+	<Point x="495" y="1893"/>
+	<Point x="495" y="1892"/>
+	<Point x="494" y="1892"/>
+	<Point x="494" y="1891"/>
+	<Point x="492" y="1891"/>
+	<Point x="492" y="1890"/>
+	<Point x="490" y="1890"/>
+	<Point x="490" y="1889"/>
+	<Point x="489" y="1889"/>
+	<Point x="489" y="1888"/>
+	<Point x="487" y="1888"/>
+	<Point x="487" y="1887"/>
+	<Point x="486" y="1887"/>
+	<Point x="487" y="1887"/>
+	<Point x="487" y="1748"/>
+	<Point x="488" y="1748"/>
+	<Point x="488" y="1610"/>
+	<Point x="489" y="1610"/>
+	<Point x="489" y="1472"/>
+	<Point x="490" y="1472"/>
+	<Point x="490" y="1334"/>
+	<Point x="491" y="1334"/>
+	<Point x="491" y="1195"/>
+	<Point x="492" y="1195"/>
+	<Point x="492" y="1173"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Obligòſe aſsimilmo con premio, y aplauſo ea empre uſ-
+tre, y Coronada Via de Madrid algunos años à eſcrivir vno de
+los Autos Sacramentales con que celebra ſu feivo dia; y recono-
+ciendole deſpues por vnico, acordò que los continuaſle ſolo, co-
+mo lo hizo por eſpacio de treinta y ete años, eſcriviendo al miſ-
+mo tiempo los de Toledo, Sevia, y Granada, haa que en aque-
+lias ingnes Ciudades faltaron eos feejos: y aun mas aà de la
+vida paan los juiſsimos aplauſos dea Imperial Via, pues los
+repite en ſus feividades, con acertada reſolucion de continuar-
+los. El miſmo año de 63. fue recibido por Congregante en la
+Venerabiliſsima, y Nobiliſsima Congregacion del Glorioſo
+Apool San Pedro, de Presbyteros naturales dea Corte. El de
+66. fue eleo Capean Mayor de dicha Venerable Congrega-
+cion, y el de 81. agradecido à tantos ngulares beneﬁcios, ſe los
+recompensò, dexandola por ſu vniverſal heredera en el rema-
+nente de ſus bienes, que fue el año que nos le arrebatò la muerte
+de nueros amantes ojos. Domingo à 25. de Mayo, dia glorio-
+ſsimo de la Paſcua de Pentecoès, deſconſolado para todos ſus
+afeos, y lamentable para mi, que me faltò à vn tiempo Maero,
+Padre, y amigo. El invible golpe de ſu muerte hiriò muchos co-
+raçones, que por los labios, y los ojos deſahogaron ſu ſentimien-
+to ya en amargas quexas, y yà en dulces canciones; pues lagrimas,
+y acentos en obſequioſa demonracion ſe vnieron à dedicarle
+ap au os, y congoxas, como tributo debido à la Caeana Dei-
+dad de los reſpetos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

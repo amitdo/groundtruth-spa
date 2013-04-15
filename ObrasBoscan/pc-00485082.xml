@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485082">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T05:40:59</Created>
+	<LastChange>2011-05-12T13:40:51</LastChange></Metadata>
+	<Page imageFilename="00485082.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="300" y="212"/>
+	<Point x="748" y="196"/>
+	<Point x="835" y="183"/>
+	<Point x="1606" y="219"/>
+	<Point x="1612" y="1290"/>
+	<Point x="1606" y="1309"/>
+	<Point x="1554" y="1338"/>
+	<Point x="445" y="1345"/>
+	<Point x="341" y="1305"/>
+	<Point x="325" y="1319"/>
+	<Point x="290" y="1322"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Querria en algun tiempo quedar bueno,
+Para holgar quiera con mi anto,
+Y enchirme bien de mis malas venturas:
+Mas temo no e de ſer aun para tanto.
+Cierto ſegun del arte que yo peno,
+No e de tener recurſo a mis triuras.
+O fuertes deſuenturas, (do,
+Que aũ m'ha d'echar mi mal como a ꝑdi⸗
+Por hombre n ſentido:
+Y ha de quedar en mi, no vna trieza,
+A que'l alma ſaueza,
+Mas otro entriecer, que a quien le tiene,
+Deſeſperar muy preo le comuiene.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="616" y="2977"/>
+	<Point x="1441" y="2974"/>
+	<Point x="1441" y="3090"/>
+	<Point x="622" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="319" y="1677"/>
+	<Point x="1654" y="1609"/>
+	<Point x="1648" y="1745"/>
+	<Point x="1648" y="1777"/>
+	<Point x="1680" y="2412"/>
+	<Point x="296" y="2393"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cancion: bien ſabes quantos
+Dias ha ya, que agrauios me ſon hechos:
+Ya quedan ſatiſfechos
+Los que me quierẽ mal, y ai  vieres
+Aquea que ver quieres,
+Dile, que'n maltratarme ya s'atiente:
+Que no es bien dar plazer a mucha gẽte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="1206" y="100"/>
+	<Point x="1206" y="190"/>
+	<Point x="1577" y="190"/>
+	<Point x="1577" y="100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. LVII.</Unicode></TextEquiv></TextRegion></Page></PcGts>

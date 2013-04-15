@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440554">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T13:21:38</Created>
+	<LastChange>2011-07-05T14:26:06</LastChange></Metadata>
+	<Page imageFilename="00440554.tif" imageWidth="876" imageHeight="1640">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="83" y="115"/>
+	<Point x="357" y="113"/>
+	<Point x="377" y="114"/>
+	<Point x="390" y="127"/>
+	<Point x="492" y="127"/>
+	<Point x="515" y="118"/>
+	<Point x="531" y="120"/>
+	<Point x="629" y="120"/>
+	<Point x="650" y="111"/>
+	<Point x="833" y="110"/>
+	<Point x="824" y="1536"/>
+	<Point x="84" y="1544"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>del todo la aborrecieron. El ſeñor
+comiario ſe ſubio al pulpito, y
+començo ſu ſermon, y a animar a
+la gente a que no quedaen n
+tanto bien, y indulgencias, co-
+mo la ſana bula traya. Eando
+en lo mejor del, entro por la
+puerta dela Iglea el alguazil, y
+deſpues que huuo echo oracion
+ſe leuanto, y con bozalta, y pau-
+ſada, cuerdamente començo a de-
+zir : Buenos hombres oyd me vna
+palabra, que deſpues oyres aquien
+quieredes. Yo vine aqui con ee
+echacueruos, que os predica, el
+qual me engaño, y dixo que le fa-
+uoreciee en ee negocio, y que
+partiriamos la ganancia : aora vi-
+o el daño que haria a mi con-
+ciencia, y a vueras haziendas,
+arrepentido de lo hecho, os de-
+claro, que las bulas que predica
+ſon falſas, y que no le creays ni
+las tomeys, y que yo diree ni in-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="280" y="1582"/>
+	<Point x="568" y="1583"/>
+	<Point x="568" y="1613"/>
+	<Point x="280" y="1613"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="205" y="72"/>
+	<Point x="206" y="110"/>
+	<Point x="107" y="111"/>
+	<Point x="109" y="71"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>100</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="611" y="49"/>
+	<Point x="611" y="106"/>
+	<Point x="372" y="109"/>
+	<Point x="373" y="51"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

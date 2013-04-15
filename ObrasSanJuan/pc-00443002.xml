@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443002">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T19:23:49</Created>
+	<LastChange>2011-03-15T16:51:31</LastChange></Metadata>
+	<Page imageFilename="00443002.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="428" y="58"/>
+	<Point x="428" y="160"/>
+	<Point x="1018" y="160"/>
+	<Point x="1018" y="58"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>F. Ioan de la Cruz.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1422" y="78"/>
+	<Point x="1422" y="158"/>
+	<Point x="1516" y="158"/>
+	<Point x="1516" y="78"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>47</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="48" y="191"/>
+	<Point x="67" y="2640"/>
+	<Point x="1041" y="2652"/>
+	<Point x="1548" y="2637"/>
+	<Point x="1551" y="192"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Padre,  no ſe lo impidieran los ſuyos, que atonitos
+del caſo, no acababan de creer, fueſe aquella ſu hija:
+por tan muerta la tenian yà. Lo miſmo ſucedio alli a
+otra ſeñora, llamada doña Luiſa Vela; la cual apreta-
+da de una gravima enfermedad de apoplexia, i ocupa
+da de un mortal paraſmo, parecio aver finado del to
+do; negando a las mas fuertes i curioſas pruebas de los
+Medicos aun los menores indicios de reſpiracion i ſen
+timiento. Tocaronla con la miſma Reliquia i al punto
+parece ſe le infundio alma, ſentido, habla, i conſuelo. Pe
+ro no quedando entonces del todo ſana, al quinto dia,
+con ſegunda vita, i toque de la miſma Reliquia, eã
+do abraçada con ella, i pidiendole a Dios ſalud entcra
+por medio del Venerable Padre, ſe hallò ſubitamente
+buena i fuerte, i con tan entera i milagroſa ſalud, que o-
+bligò a los Religioſos circunantes a cantar, en hazi-
+miento de gracias, un Te Deum laudamus, concurriendo
+gran numero de pueblo a la fama de tan ilure mila-
+gro. No fue menor el que nuero Señor obrò con un
+hijo de don Franciſco de Narvaez, llamado Rodrigo,
+de edad de veinte meſes: el cual aviendo caido de un
+corredor mui alto, i crelladoſe en las loſas de un eã-
+que, echaba por boca, narizes i oìdos ſangre, i algo de
+los ſeſos. Agonizando ya el Niño n eſperança de vi-
+da, le aplicaron a la cabeça la Reliquia del Venerable
+Padre, i a ſu toque (ò rara i divina virtud!) cesò lue-
+go la ſangre, confortòſe la cabeça, conſolidaronſe
+los hueſos, i todo el cuerpo del Nino ſe reparò de-
+ſuerte, que dentro de dos dias, deſmentia ya con
+la ſalud preſente la deſgracia paſada. Otros muchos
+milagros i maravillas ha obrado nnero Señor en la
+miſma ciudad, por medio de aquel bendito Pie,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1450" y="2645"/>
+	<Point x="1450" y="2712"/>
+	<Point x="1552" y="2712"/>
+	<Point x="1552" y="2645"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="777" y="2934"/>
+	<Point x="777" y="2994"/>
+	<Point x="1417" y="2994"/>
+	<Point x="1417" y="2934"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439017">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T02:50:09</Created>
+	<LastChange>2010-12-28T07:24:49</LastChange></Metadata>
+	<Page imageFilename="00439017.tif" imageWidth="1736" imageHeight="2947">
+	<ImageRegion id="r1" embText="true">
+	<Coords>
+	<Point x="1717" y="64"/>
+	<Point x="1717" y="2663"/>
+	<Point x="0" y="2663"/>
+	<Point x="0" y="64"/></Coords></ImageRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="540" y="2862"/>
+	<Point x="1300" y="2870"/>
+	<Point x="1301" y="2940"/>
+	<Point x="539" y="2930"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

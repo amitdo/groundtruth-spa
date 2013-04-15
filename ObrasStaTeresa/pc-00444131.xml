@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444131">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:01:41</Created>
+	<LastChange>2011-12-19T11:39:27</LastChange></Metadata>
+	<Page imageFilename="00444131.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="335" y="92"/>
+	<Point x="756" y="102"/>
+	<Point x="1523" y="102"/>
+	<Point x="1512" y="218"/>
+	<Point x="335" y="217"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="172" y="224"/>
+	<Point x="344" y="223"/>
+	<Point x="370" y="225"/>
+	<Point x="541" y="224"/>
+	<Point x="1805" y="228"/>
+	<Point x="1813" y="2635"/>
+	<Point x="1635" y="2637"/>
+	<Point x="1605" y="2635"/>
+	<Point x="1254" y="2665"/>
+	<Point x="147" y="2715"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>el Señor lo que conuiene, y que no auia fuer-
+ças en mi alma para ſaluarſe,  ſu Magead
+con tantas mercedes no ſe las puera. Tãbien
+pretendo dezir las gracias y eﬀetos  quedan
+en el alma, y que es lo  puede de ſuyo hazer,
+o  es parte para egar a tan grande eado.
+Acaece venir ee leuantamiento de ſpiritu, o
+juntamiento cõ el amor celeial,  a mi entẽ-
+der es diﬀerente la vnion, de el leuãtamiento
+en ea miſma vnion, aquien no vuiere proua
+do lo porero, parecerle ha  no, y a mi pare-
+cer cõ ſer todo vno, obra el Señor de diﬀerẽte
+manera, y en el crecimiento del deſar de las
+criaturas, mas mucho en el buelo del ſpiritu,
+yo he vio claro ſer particular merced, aũque
+como digo ſea todo vno, o lo parezca. Mas vn
+fuego pequeño tãbien es fuego como vn grã
+de, y ya ſe vee la diﬀerencia que ay de lo vno
+a lo otro. En vn fuego pequeño primero que
+vn hierro pequeño ſe haze aſcua, paa mucho
+eſpacio mas  el fuego es grãde, aun ſea ma-
+yor el hierro, en muy poquito pierde del todo
+ſu ſer al parecer, an me parece es en eas dos
+maneras de mercedes del Señor, y ſe  quien
+vuiere egado a arrobamientos lo entendera
+biẽ,  no lo ha prouado parecerle ha deſatino,
+y ya puede ſer  lo ſea, porque querer vna co-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="594" y="3060"/>
+	<Point x="1590" y="3058"/>
+	<Point x="1590" y="3161"/>
+	<Point x="593" y="3158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1572" y="134"/>
+	<Point x="1574" y="223"/>
+	<Point x="1753" y="222"/>
+	<Point x="1751" y="129"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>203</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1530" y="2647"/>
+	<Point x="1523" y="2753"/>
+	<Point x="1800" y="2751"/>
+	<Point x="1793" y="2643"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mo yo</Unicode></TextEquiv></TextRegion></Page></PcGts>

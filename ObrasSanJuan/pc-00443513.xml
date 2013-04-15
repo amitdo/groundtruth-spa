@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443513">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T03:17:17</Created>
+	<LastChange>2010-12-21T11:46:24</LastChange></Metadata>
+	<Page imageFilename="00443513.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="370" y="1577"/>
+	<Point x="1935" y="1577"/>
+	<Point x="1935" y="1835"/>
+	<Point x="370" y="1835"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>POR EL VENERABLE
+P.F. Iuan de la CRVZ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1487" y="2125"/>
+	<Point x="1912" y="2125"/>
+	<Point x="1912" y="2290"/>
+	<Point x="1487" y="2290"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PRO-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="766" y="2931"/>
+	<Point x="1431" y="2931"/>
+	<Point x="1431" y="3001"/>
+	<Point x="766" y="3001"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="806" y="506"/>
+	<Point x="809" y="393"/>
+	<Point x="1412" y="393"/>
+	<Point x="1412" y="519"/>
+	<Point x="1925" y="522"/>
+	<Point x="1922" y="1141"/>
+	<Point x="1645" y="1141"/>
+	<Point x="1645" y="1296"/>
+	<Point x="1280" y="1296"/>
+	<Point x="1274" y="1448"/>
+	<Point x="938" y="1450"/>
+	<Point x="938" y="1312"/>
+	<Point x="641" y="1316"/>
+	<Point x="641" y="1177"/>
+	<Point x="345" y="1180"/>
+	<Point x="345" y="506"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LLAMA
+DE AMOR VIVA,
+y declaracion de las Cancio-
+nes, que tratan de la mas
+intima union i transforma-
+cion del alma con
+Dios.</Unicode></TextEquiv></TextRegion></Page></PcGts>

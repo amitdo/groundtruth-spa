@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442088">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T23:44:27</Created>
+	<LastChange>2011-07-05T14:26:51</LastChange></Metadata>
+	<Page imageFilename="00442088.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/>
+	<RegionRefIndexed regionRef="r72" index="2"/>
+	<RegionRefIndexed regionRef="r13" index="3"/>
+	<RegionRefIndexed regionRef="r17" index="4"/>
+	<RegionRefIndexed regionRef="r21" index="5"/>
+	<RegionRefIndexed regionRef="r25" index="6"/>
+	<RegionRefIndexed regionRef="r29" index="7"/>
+	<RegionRefIndexed regionRef="r33" index="8"/>
+	<RegionRefIndexed regionRef="r37" index="9"/>
+	<RegionRefIndexed regionRef="r39" index="10"/>
+	<RegionRefIndexed regionRef="r69" index="11"/>
+	<RegionRefIndexed regionRef="r71" index="12"/>
+	<RegionRefIndexed regionRef="r67" index="13"/>
+	<RegionRefIndexed regionRef="r63" index="14"/>
+	<RegionRefIndexed regionRef="r59" index="15"/>
+	<RegionRefIndexed regionRef="r55" index="16"/>
+	<RegionRefIndexed regionRef="r51" index="17"/>
+	<RegionRefIndexed regionRef="r47" index="18"/>
+	<RegionRefIndexed regionRef="r43" index="19"/>
+	<RegionRefIndexed regionRef="r5" index="20"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="978" y="183"/>
+	<Point x="1457" y="183"/>
+	<Point x="1457" y="269"/>
+	<Point x="978" y="269"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THALIA,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1939" y="2980"/>
+	<Point x="2087" y="2980"/>
+	<Point x="2087" y="3060"/>
+	<Point x="1939" y="3060"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Para</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="694" y="3128"/>
+	<Point x="1473" y="3128"/>
+	<Point x="1473" y="3199"/>
+	<Point x="694" y="3199"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="492" y="369"/>
+	<Point x="1951" y="369"/>
+	<Point x="1951" y="466"/>
+	<Point x="492" y="466"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dichas de el Caſado Primero, la maior n ſuegra;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords>
+	<Point x="896" y="501"/>
+	<Point x="1524" y="501"/>
+	<Point x="1524" y="580"/>
+	<Point x="896" y="580"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ROMANCE XIX.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="324" y="189"/>
+	<Point x="496" y="189"/>
+	<Point x="496" y="289"/>
+	<Point x="324" y="289"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>512</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="383" y="628"/>
+	<Point x="387" y="618"/>
+	<Point x="404" y="618"/>
+	<Point x="1180" y="612"/>
+	<Point x="1180" y="917"/>
+	<Point x="353" y="917"/>
+	<Point x="353" y="755"/>
+	<Point x="398" y="755"/>
+	<Point x="398" y="689"/>
+	<Point x="367" y="689"/>
+	<Point x="367" y="670"/>
+	<Point x="372" y="660"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Adre Adan, no lloreis duelos,
+Dexad buen viejo el llorar,
+Pues que fuies en la tierra
+El mas dichoſo mortal.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="286" y="925"/>
+	<Point x="1171" y="925"/>
+	<Point x="1171" y="1228"/>
+	<Point x="615" y="1228"/>
+	<Point x="585" y="1240"/>
+	<Point x="563" y="1228"/>
+	<Point x="489" y="1228"/>
+	<Point x="475" y="1237"/>
+	<Point x="444" y="1229"/>
+	<Point x="286" y="1228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De la variedad de el Mnndo,
+Entraes vos a gozar
+Sin ſares, ni mercaderes,
+Plagas que truxo otra edad.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="276" y="1233"/>
+	<Point x="442" y="1232"/>
+	<Point x="472" y="1240"/>
+	<Point x="496" y="1233"/>
+	<Point x="562" y="1232"/>
+	<Point x="583" y="1246"/>
+	<Point x="617" y="1231"/>
+	<Point x="1067" y="1233"/>
+	<Point x="1065" y="1526"/>
+	<Point x="485" y="1523"/>
+	<Point x="442" y="1541"/>
+	<Point x="407" y="1525"/>
+	<Point x="276" y="1523"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Para daros compañia,
+Quiſo el Señor aguardar,
+Haa que llegò la hora,
+Que ſenties ſoledad.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="284" y="1529"/>
+	<Point x="405" y="1529"/>
+	<Point x="443" y="1547"/>
+	<Point x="488" y="1529"/>
+	<Point x="1155" y="1536"/>
+	<Point x="1154" y="1843"/>
+	<Point x="772" y="1844"/>
+	<Point x="772" y="1830"/>
+	<Point x="517" y="1829"/>
+	<Point x="499" y="1842"/>
+	<Point x="483" y="1830"/>
+	<Point x="285" y="1829"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cooos la muger que os dierõ,
+Vna coilla, i acà
+Todos los gueſos nos cuean,
+Aunque ellas nos ponen mas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="267" y="1834"/>
+	<Point x="481" y="1832"/>
+	<Point x="499" y="1845"/>
+	<Point x="517" y="1834"/>
+	<Point x="768" y="1834"/>
+	<Point x="768" y="1847"/>
+	<Point x="801" y="1848"/>
+	<Point x="1150" y="1847"/>
+	<Point x="1150" y="2136"/>
+	<Point x="1056" y="2137"/>
+	<Point x="1039" y="2131"/>
+	<Point x="937" y="2131"/>
+	<Point x="265" y="2127"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dormies, i una muger
+Hallaes al deſpertar;
+I hoi, en durmiẽdo un marido,
+Halla a ſu lado otro Adan.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="266" y="2134"/>
+	<Point x="1034" y="2137"/>
+	<Point x="1047" y="2142"/>
+	<Point x="1140" y="2142"/>
+	<Point x="1144" y="2434"/>
+	<Point x="264" y="2432"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vn higo ſolo os vedaron,
+Sea mançana  guais;
+Que io para comer vna,
+Dios me lo habia de mandar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords>
+	<Point x="266" y="2437"/>
+	<Point x="1138" y="2437"/>
+	<Point x="1131" y="2740"/>
+	<Point x="598" y="2734"/>
+	<Point x="554" y="2747"/>
+	<Point x="526" y="2733"/>
+	<Point x="266" y="2731"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tuvies muger n Madre,
+Grande ſuerte, i de invidiar;
+Gozaes mundo n viejas,
+Ni Suegrecita inmortal.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="253" y="2735"/>
+	<Point x="526" y="2738"/>
+	<Point x="553" y="2750"/>
+	<Point x="600" y="2737"/>
+	<Point x="1169" y="2744"/>
+	<Point x="1167" y="2985"/>
+	<Point x="253" y="2985"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Si os quexais de la ſerpiẽte, (car;
+Que os hiço a entrambos maſ-
+Quanto es mejor la culebra</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="1206" y="2826"/>
+	<Point x="1318" y="2827"/>
+	<Point x="1336" y="2837"/>
+	<Point x="1370" y="2829"/>
+	<Point x="1932" y="2831"/>
+	<Point x="1929" y="3000"/>
+	<Point x="1206" y="3000"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eo dixo un enſuegrado,
+Llevandole a conjurar,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords>
+	<Point x="1208" y="2524"/>
+	<Point x="2079" y="2526"/>
+	<Point x="2078" y="2825"/>
+	<Point x="1367" y="2823"/>
+	<Point x="1337" y="2832"/>
+	<Point x="1316" y="2819"/>
+	<Point x="1209" y="2820"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I  guais de trocarla
+A ſuegras de ee lugar,
+Ved, Io que quereis encima,
+Que mil os la tomaràn.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="paragraph">
+	<Coords>
+	<Point x="1205" y="2222"/>
+	<Point x="1573" y="2223"/>
+	<Point x="1618" y="2240"/>
+	<Point x="1664" y="2228"/>
+	<Point x="1994" y="2228"/>
+	<Point x="1991" y="2515"/>
+	<Point x="1207" y="2515"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Señor Adan, menos quejas,
+I dexad el lamentar;
+Sabè eimar la culebra,
+I no la trateis tan mal.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r55" type="paragraph">
+	<Coords>
+	<Point x="1201" y="1920"/>
+	<Point x="1415" y="1919"/>
+	<Point x="1444" y="1936"/>
+	<Point x="1448" y="1933"/>
+	<Point x="1477" y="1916"/>
+	<Point x="1727" y="1916"/>
+	<Point x="1756" y="1933"/>
+	<Point x="1783" y="1920"/>
+	<Point x="1799" y="1937"/>
+	<Point x="1924" y="1936"/>
+	<Point x="1922" y="1920"/>
+	<Point x="2100" y="1921"/>
+	<Point x="2100" y="2232"/>
+	<Point x="2012" y="2232"/>
+	<Point x="2012" y="2221"/>
+	<Point x="1670" y="2221"/>
+	<Point x="1620" y="2233"/>
+	<Point x="1580" y="2216"/>
+	<Point x="1202" y="2219"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Conſejo fue de el demonio
+Que anda en aiunas lo mas;
+Que las madres de un al muer-
+La Tierra engullẽ, i el Mar. (ço</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r59" type="paragraph">
+	<Coords>
+	<Point x="1215" y="1617"/>
+	<Point x="1979" y="1617"/>
+	<Point x="1979" y="1913"/>
+	<Point x="1902" y="1912"/>
+	<Point x="1903" y="1928"/>
+	<Point x="1801" y="1928"/>
+	<Point x="1786" y="1912"/>
+	<Point x="1756" y="1928"/>
+	<Point x="1729" y="1910"/>
+	<Point x="1473" y="1910"/>
+	<Point x="1446" y="1928"/>
+	<Point x="1419" y="1913"/>
+	<Point x="1215" y="1913"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Llegaos a que aconſejára
+Madre dee temporal,
+Comer un bocado ſolo,
+Aunque fuera rejalgar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r63" type="paragraph">
+	<Coords>
+	<Point x="1225" y="1313"/>
+	<Point x="1571" y="1313"/>
+	<Point x="1607" y="1331"/>
+	<Point x="1652" y="1311"/>
+	<Point x="2052" y="1313"/>
+	<Point x="2052" y="1611"/>
+	<Point x="1225" y="1611"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Las culebras mucho ſaben,
+Mas una ſuegra infernal
+Mas ſabe, que las culebras,
+An lo dice el refran.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r67" type="paragraph">
+	<Coords>
+	<Point x="1227" y="1010"/>
+	<Point x="2002" y="1010"/>
+	<Point x="2002" y="1307"/>
+	<Point x="1646" y="1307"/>
+	<Point x="1607" y="1325"/>
+	<Point x="1580" y="1308"/>
+	<Point x="1227" y="1307"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Si Heva tuviera madre,
+Como tuvo a Satanas,
+Comieraſe el Paraiſo,
+No de un pero la mitad.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r69" type="paragraph">
+	<Coords>
+	<Point x="1302" y="621"/>
+	<Point x="2032" y="621"/>
+	<Point x="2031" y="715"/>
+	<Point x="1769" y="715"/>
+	<Point x="1728" y="717"/>
+	<Point x="1729" y="700"/>
+	<Point x="1663" y="700"/>
+	<Point x="1630" y="711"/>
+	<Point x="1604" y="700"/>
+	<Point x="1302" y="700"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Que la ſuegra, preguntad.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r71" type="paragraph">
+	<Coords>
+	<Point x="1226" y="705"/>
+	<Point x="1594" y="705"/>
+	<Point x="1629" y="717"/>
+	<Point x="1676" y="705"/>
+	<Point x="1721" y="704"/>
+	<Point x="1720" y="724"/>
+	<Point x="2094" y="722"/>
+	<Point x="2096" y="1004"/>
+	<Point x="1226" y="1004"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La culebra por lo menos
+Os da a los dos que comais;
+Si fuera ſuegra os comiera
+A los dos, i mas i mas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r72" type="drop-capital">
+	<Coords>
+	<Point x="284" y="633"/>
+	<Point x="283" y="740"/>
+	<Point x="364" y="739"/>
+	<Point x="364" y="633"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r36" type="other">
+	<Coords>
+	<Point x="280" y="768"/>
+	<Point x="336" y="770"/>
+	<Point x="337" y="825"/>
+	<Point x="280" y="827"/></Coords></GraphicRegion></Page></PcGts>

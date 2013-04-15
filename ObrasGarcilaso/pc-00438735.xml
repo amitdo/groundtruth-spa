@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438735">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T23:59:21</Created>
+	<LastChange>2011-06-24T14:04:14</LastChange></Metadata>
+	<Page imageFilename="00438735.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r2" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="154" y="154"/>
+	<Point x="1335" y="154"/>
+	<Point x="1335" y="361"/>
+	<Point x="1094" y="366"/>
+	<Point x="154" y="361"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EL MAESTRO FRAN-
+ciſco Sanchez al Leor S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="339" y="422"/>
+	<Point x="340" y="410"/>
+	<Point x="381" y="394"/>
+	<Point x="1385" y="391"/>
+	<Point x="1375" y="2069"/>
+	<Point x="1320" y="2049"/>
+	<Point x="1318" y="2046"/>
+	<Point x="1249" y="2042"/>
+	<Point x="1146" y="2052"/>
+	<Point x="27" y="2070"/>
+	<Point x="7" y="670"/>
+	<Point x="131" y="685"/>
+	<Point x="325" y="704"/>
+	<Point x="327" y="695"/>
+	<Point x="331" y="647"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I entre tres cõbidados (como dize el Poe-
+ta Horacio) ſe ſuele haar dienon de
+pala dar, y cada vno tiene diuerſo guo, no
+es de marauiar,  entre muchos leores,
+ò por mejor dezir cenſores, aya diuerſos
+pareceres, y opiniones. Muchos años ha, que por
+tener yo aﬁcion al excelente Poeta Garcilao de la
+Vega, hize ſobre el algunas anotaciones, y emien-
+das, y comunicandolas con algunos amigos mios, 
+tambien en eo pueron ſus diligencias, determine
+que por via de impreſsion fueen communicadas a
+los que del ingenio de Garcilao ſon aﬁcionados,
+A penas ſe diu ulgô e mi intento, quando luego ſo
+bre eo ſe leuantaron diuerſas, y contrarias opinio-
+nes. Pero vna de las que mas cuẽta ſe haze, es dezir,
+que con eas anotaciones mas afrẽta ſe haze al Poe
+ta que honra, pues por eas ſe deſcubren, y maniﬁeſ
+tan los hurtos que antes eauan encubiertos. Opi-
+niõ, indigna de reſpuea,  hablaemos cõ los muy
+doos: mas por ſatisfazer a los que tanto no lo ſon,
+digo, y aﬁrmo, que no tengo por buẽ Poeta al que
+no imita los excelentes antiguos. Y  me preguntã
+porque entre tantos miares de Poetas, como nueſ-
+tra Eſpaña tiene, tan pocos ſe pueden contar dignos
+dee nombre, digo que no ay otra razon, no por
+les faltan las ciencias, lenguas, y dotrina para ſaber
+imitar. Ningun Poeta Latino ay, que en ſu genero
+no aya imitado a otros, como Terencio a Menádro,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1185" y="2055"/>
+	<Point x="1243" y="2049"/>
+	<Point x="1346" y="2063"/>
+	<Point x="1362" y="2110"/>
+	<Point x="1185" y="2110"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Seue-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="485" y="2094"/>
+	<Point x="986" y="2094"/>
+	<Point x="994" y="2139"/>
+	<Point x="479" y="2134"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="drop-capital">
+	<Coords>
+	<Point x="70" y="415"/>
+	<Point x="337" y="429"/>
+	<Point x="326" y="683"/>
+	<Point x="74" y="673"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>S</Unicode></TextEquiv></TextRegion></Page></PcGts>

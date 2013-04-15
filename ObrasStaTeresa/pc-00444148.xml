@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444148">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:03:46</Created>
+	<LastChange>2011-12-19T11:39:28</LastChange></Metadata>
+	<Page imageFilename="00444148.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="448" y="130"/>
+	<Point x="613" y="135"/>
+	<Point x="613" y="217"/>
+	<Point x="448" y="217"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>220</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="960" y="97"/>
+	<Point x="1579" y="107"/>
+	<Point x="1573" y="215"/>
+	<Point x="943" y="218"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="409" y="225"/>
+	<Point x="1507" y="225"/>
+	<Point x="1589" y="221"/>
+	<Point x="1805" y="223"/>
+	<Point x="2025" y="225"/>
+	<Point x="2065" y="2619"/>
+	<Point x="1988" y="2642"/>
+	<Point x="1873" y="2623"/>
+	<Point x="1735" y="2627"/>
+	<Point x="1626" y="2630"/>
+	<Point x="1594" y="2632"/>
+	<Point x="1376" y="2669"/>
+	<Point x="382" y="2689"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cipio de la tentacion que hazia a Iudas me
+parece ea, no que no oſaua el traydor tan
+al deſcubierto, mas el viniera de poco en
+poco a dar conmigo adonde dio con el.
+Miren eo por amor de Dios todos los que
+tratan oracion. Sepan que el tiempo que
+euue n ea era mucho mas perdida mi
+vida, mireſe que buen remedio me daua
+el demonio, y que donoſa humildad, vn
+deſaoſsiego en mi grande. Mas como auia
+de ſoegar mi anima? apartauaſe la cuytada
+de ſu ſoſsiego, tenia preſentes las mercedes,
+y fauores, via los contentos de aca ſer aſco:
+como pudo paar me eſpanto, era con eſ-
+perança, que nunca yo, a lo que aora me
+acuerdo, porque deue auer eo mas de
+veynte y vn años, dexaua de ear deter-
+minada de tornar a la oracion, mas eſpe-
+raua a ear muy limpia de peccados, o que
+mal encaminada yua en ea eſperança, haa
+el dia del juyzio me la libraua el demonio, pa
+ra de ai euarme al inﬁerno. Pues teniẽdo li
+cion y oracion que era ver verdades, y el
+ruyn camino que euaua, e importunando al
+Señor con lagrimas muchas vezes era tan
+ruyn que no me podia valer, apartada de
+eo, puea en paatiempos con muchas</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1630" y="2632"/>
+	<Point x="1721" y="2632"/>
+	<Point x="1873" y="2626"/>
+	<Point x="1986" y="2646"/>
+	<Point x="1984" y="2741"/>
+	<Point x="1795" y="2734"/>
+	<Point x="1611" y="2729"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ocaones</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="613" y="3050"/>
+	<Point x="1585" y="3055"/>
+	<Point x="1578" y="3164"/>
+	<Point x="613" y="3153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

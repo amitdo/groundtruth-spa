@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438884">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T07:50:41</Created>
+	<LastChange>2011-06-24T14:04:23</LastChange></Metadata>
+	<Page imageFilename="00438884.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r10" index="0"/>
+	<RegionRefIndexed regionRef="r12" index="1"/>
+	<RegionRefIndexed regionRef="r13" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="207" y="33"/>
+	<Point x="1078" y="33"/>
+	<Point x="1061" y="122"/>
+	<Point x="207" y="152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GARCILASSO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1076" y="1984"/>
+	<Point x="1190" y="1949"/>
+	<Point x="1253" y="1952"/>
+	<Point x="1258" y="2055"/>
+	<Point x="1093" y="2049"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="487" y="2112"/>
+	<Point x="507" y="2079"/>
+	<Point x="984" y="2082"/>
+	<Point x="993" y="2119"/>
+	<Point x="971" y="2139"/>
+	<Point x="503" y="2136"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1133" y="61"/>
+	<Point x="1136" y="136"/>
+	<Point x="1238" y="138"/>
+	<Point x="1238" y="61"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>73</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="marginalia">
+	<Coords>
+	<Point x="1227" y="151"/>
+	<Point x="1324" y="129"/>
+	<Point x="1331" y="211"/>
+	<Point x="1227" y="218"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>181</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="48" y="166"/>
+	<Point x="1084" y="136"/>
+	<Point x="1232" y="315"/>
+	<Point x="1229" y="811"/>
+	<Point x="658" y="832"/>
+	<Point x="625" y="844"/>
+	<Point x="603" y="841"/>
+	<Point x="588" y="831"/>
+	<Point x="105" y="842"/>
+	<Point x="115" y="258"/>
+	<Point x="56" y="251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mas el por compañera tomô aquea.
+guiendo a la  es bea deſcubierta,
+y juzgada cubierta por disforme,
+el nõbre era conforme à aquea fama.
+Virtud ea ſe ama al mundo rara,
+quien tras ea guiara y gual en curſo,
+no ee, que el diſcurſo de ſu lumbre
+forçaua la coumbre de ſus años,
+no recibiendo engaños ſus deeos?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="96" y="847"/>
+	<Point x="52" y="851"/>
+	<Point x="51" y="894"/>
+	<Point x="64" y="929"/>
+	<Point x="96" y="925"/>
+	<Point x="109" y="943"/>
+	<Point x="115" y="1517"/>
+	<Point x="120" y="1533"/>
+	<Point x="150" y="1543"/>
+	<Point x="175" y="1543"/>
+	<Point x="188" y="1525"/>
+	<Point x="295" y="1525"/>
+	<Point x="311" y="1539"/>
+	<Point x="324" y="1537"/>
+	<Point x="330" y="1532"/>
+	<Point x="335" y="1530"/>
+	<Point x="344" y="1523"/>
+	<Point x="355" y="1521"/>
+	<Point x="746" y="1509"/>
+	<Point x="871" y="1514"/>
+	<Point x="938" y="1505"/>
+	<Point x="952" y="1520"/>
+	<Point x="974" y="1519"/>
+	<Point x="989" y="1513"/>
+	<Point x="1002" y="1504"/>
+	<Point x="1011" y="1517"/>
+	<Point x="1031" y="1523"/>
+	<Point x="1047" y="1508"/>
+	<Point x="1079" y="1514"/>
+	<Point x="1182" y="1189"/>
+	<Point x="1217" y="883"/>
+	<Point x="1192" y="844"/>
+	<Point x="1146" y="849"/>
+	<Point x="1070" y="843"/>
+	<Point x="976" y="834"/>
+	<Point x="907" y="828"/>
+	<Point x="813" y="834"/>
+	<Point x="674" y="840"/>
+	<Point x="653" y="853"/>
+	<Point x="641" y="856"/>
+	<Point x="607" y="858"/>
+	<Point x="582" y="853"/>
+	<Point x="571" y="844"/>
+	<Point x="519" y="844"/>
+	<Point x="428" y="846"/>
+	<Point x="310" y="849"/>
+	<Point x="104" y="859"/>
+	<Point x="100" y="852"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Los montes Pyrin eos (que ſe eima
+de abaxo, que la cima ea en el Cielo,
+y deſde arriba el ſuelo en el inﬁerno)
+en medio del Inuierno atraueaua:
+la nieue blanqueaua, y las corrientes
+por debaxo de puentes crialinas,
+y por eladas minas van caadas,
+el ayre las cargadas ramas mueue,
+que el peſo de la nieue las deſgaja:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="84" y="1529"/>
+	<Point x="47" y="1536"/>
+	<Point x="41" y="1567"/>
+	<Point x="50" y="1598"/>
+	<Point x="84" y="1610"/>
+	<Point x="120" y="1601"/>
+	<Point x="116" y="1636"/>
+	<Point x="120" y="1690"/>
+	<Point x="115" y="1873"/>
+	<Point x="107" y="1976"/>
+	<Point x="126" y="2007"/>
+	<Point x="796" y="1973"/>
+	<Point x="800" y="1983"/>
+	<Point x="827" y="1995"/>
+	<Point x="841" y="1992"/>
+	<Point x="856" y="1972"/>
+	<Point x="910" y="1963"/>
+	<Point x="940" y="1966"/>
+	<Point x="975" y="1967"/>
+	<Point x="1006" y="1966"/>
+	<Point x="1030" y="1967"/>
+	<Point x="1063" y="1966"/>
+	<Point x="1095" y="1966"/>
+	<Point x="1096" y="1912"/>
+	<Point x="1210" y="1896"/>
+	<Point x="1135" y="1535"/>
+	<Point x="1066" y="1529"/>
+	<Point x="1030" y="1532"/>
+	<Point x="1004" y="1526"/>
+	<Point x="994" y="1517"/>
+	<Point x="985" y="1519"/>
+	<Point x="978" y="1521"/>
+	<Point x="968" y="1525"/>
+	<Point x="948" y="1524"/>
+	<Point x="940" y="1516"/>
+	<Point x="933" y="1513"/>
+	<Point x="870" y="1520"/>
+	<Point x="641" y="1518"/>
+	<Point x="375" y="1525"/>
+	<Point x="348" y="1537"/>
+	<Point x="341" y="1531"/>
+	<Point x="331" y="1535"/>
+	<Point x="321" y="1541"/>
+	<Point x="312" y="1543"/>
+	<Point x="294" y="1537"/>
+	<Point x="256" y="1534"/>
+	<Point x="204" y="1535"/>
+	<Point x="186" y="1544"/>
+	<Point x="174" y="1549"/>
+	<Point x="137" y="1549"/>
+	<Point x="122" y="1538"/>
+	<Point x="85" y="1529"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Por aqui ſe trabaja el Duque oſado
+del tiempo contraado, y de la via,
+con clara compañia, de yr delante,
+el trabajo conante, y tan loable
+por la Francia mudable en ﬁn le eua
+la Fama en el renueua la preeza:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="signature-mark">
+	<Coords>
+	<Point x="887" y="1980"/>
+	<Point x="887" y="2060"/>
+	<Point x="988" y="2060"/>
+	<Point x="988" y="1980"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>K</Unicode></TextEquiv></TextRegion></Page></PcGts>

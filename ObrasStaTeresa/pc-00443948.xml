@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443948">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T00:39:44</Created>
+	<LastChange>2011-12-19T11:39:16</LastChange></Metadata>
+	<Page imageFilename="00443948.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="519" y="137"/>
+	<Point x="649" y="137"/>
+	<Point x="649" y="237"/>
+	<Point x="519" y="237"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>20</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="521" y="258"/>
+	<Point x="2100" y="258"/>
+	<Point x="2103" y="2623"/>
+	<Point x="1885" y="2621"/>
+	<Point x="1864" y="2655"/>
+	<Point x="519" y="2666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>eo cerrar la puerta a tanto prouecho, y de
+tantos? No ſe publique el Euangelio, por‐
+que en quien no le recibe, es ocaon de mayor
+perdicion, como ſant Pablo dezia. Que eſcri‐
+turas ay, aunque entren las ſagradas en eas,
+de que vn animo mal diſpueﬆo no pueda con‐
+cebir vn error? En el juzgar de las coſas, deue
+ſe attender a  eas ſon buenas en , y con‐
+uenientes para ſus ﬁnes, y no a lo que hara de‐
+as el mal vſo de algunos, que  a eﬆo ſe mi‐
+ra ninguna ay tan ſanta que no ſe pueda ve‐
+dar. Que mas ſantos que los ſacramentos?
+quantos por el mal vſo deos ſe hazen Peo‐
+res? El demonio como ſagaz, y que vela en
+dañarnos muda diﬀerentes colores, y muera
+ſe en los entendimientos de algunos recatado,
+y cuydadoſo del bien de los proximos, para por
+eſcuſar vn daño particular, quitar de los
+ojos de todos, lo que es bueno y prouechoſo en
+comun, bien ſabe el que perdera mas en los
+que ſe mejoraren, y hizieren eſpirituales per-
+ſetos, ayudados con la licion deﬆos libros, que
+ganara en la ignorancia o malicia de qual o</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1891" y="2635"/>
+	<Point x="2091" y="2635"/>
+	<Point x="2091" y="2764"/>
+	<Point x="1891" y="2764"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>qual</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="617" y="3069"/>
+	<Point x="1573" y="3069"/>
+	<Point x="1573" y="3151"/>
+	<Point x="617" y="3151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

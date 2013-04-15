@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442929">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T13:28:44</Created>
+	<LastChange>2011-03-15T16:51:28</LastChange></Metadata>
+	<Page imageFilename="00442929.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="747" y="57"/>
+	<Point x="1621" y="47"/>
+	<Point x="1618" y="142"/>
+	<Point x="747" y="142"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>INTRODVCION.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="428" y="198"/>
+	<Point x="1914" y="190"/>
+	<Point x="1918" y="2718"/>
+	<Point x="444" y="2771"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>gion Varon en todo genero de letras, conſejo, i gobier-
+no de tan grave autoridad como teifican, demas de
+ſus doiſimos libros, ſu fama en Salamanca, Eſpana, i to
+do el mundo:con la cual quiſo calificar eos Eſcritos,
+tan doa i gravemente como en ſu Elogio ſe verà. De
+la Familia ſagrada del melifluo Bernardo tenemos el
+teimonio del Iluriſimo ſeñor don Fr. Pedro de Ovie
+do, Arçobiſpo de la ciudad de Santo Domingo en In-
+dias: el cual, endo Catedratico de Viſperas en Alca-
+là, fue uno de los que principalmente concurrieron en
+la cenſura que en favor deos libros dio aquella inſigne
+Vniverdad. Tambien hallamos el miſmo afeo i ei-
+ma que en las dichas, en la perfetima Religion de la
+Cartuja; donde cuanto mas ſe exercita el trato de Ora
+cion, tanto es mas venerada la dotrina de nuero Miſ-
+tico Maero FRAI IOAN. Sea unico teimonio
+la ingne devocion que le tuvo el Religiomo Pa-
+dre Don Diego de Funes en el Convento de Aula
+Dei de Zaragoça; ingenio i eſpiritu adornado de ſupe-
+riores dones; el cual eſcribio un elegantimo Elogio
+en metro, en alabança de nuero Autor, i de ſus Obras.
+En ea conformidad pudieramos referir de las de-
+mas ſagradas Ordenes, no menos ilures teimonios
+para el miſmo propoto, no pretendieramos ſolo
+hazer mencion de los que ſe han impreſo, ò publica-
+do; i aun deos, ſolo traer aquellos que fe han ha-
+llado mas à mano, i ſido mas notorios, ſin buſcar o-
+tros, que por ventura, i muchos en las miſmas Reli-
+giones ſe hallaran. Solo de la nuera, aunque tan
+intereſada en las glorias de ſu Santo Padre FRAI
+IOAN, es juo referir la eima i alto conceto,
+que entre los mas graves, doos, i eſpirituales Re-
+gilioſos della ſe ha hecho deos libros. Los cua-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="783" y="2937"/>
+	<Point x="1416" y="2939"/>
+	<Point x="1420" y="2992"/>
+	<Point x="771" y="2988"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1823" y="2734"/>
+	<Point x="1823" y="2802"/>
+	<Point x="1892" y="2794"/>
+	<Point x="1918" y="2802"/>
+	<Point x="1918" y="2734"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>les</Unicode></TextEquiv></TextRegion></Page></PcGts>

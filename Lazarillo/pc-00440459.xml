@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440459">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T22:12:55</Created>
+	<LastChange>2011-07-05T14:26:01</LastChange></Metadata>
+	<Page imageFilename="00440459.tif" imageWidth="880" imageHeight="1599">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r10" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="page-number">
+	<Coords>
+	<Point x="694" y="20"/>
+	<Point x="732" y="20"/>
+	<Point x="732" y="70"/>
+	<Point x="694" y="70"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="31" y="17"/>
+	<Point x="161" y="13"/>
+	<Point x="331" y="9"/>
+	<Point x="503" y="7"/>
+	<Point x="606" y="6"/>
+	<Point x="672" y="7"/>
+	<Point x="671" y="69"/>
+	<Point x="393" y="70"/>
+	<Point x="302" y="72"/>
+	<Point x="28" y="75"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LAZAR. DE TORM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="280" y="1560"/>
+	<Point x="395" y="1559"/>
+	<Point x="584" y="1561"/>
+	<Point x="581" y="1587"/>
+	<Point x="280" y="1587"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="9" y="79"/>
+	<Point x="117" y="79"/>
+	<Point x="386" y="78"/>
+	<Point x="464" y="77"/>
+	<Point x="533" y="75"/>
+	<Point x="744" y="75"/>
+	<Point x="742" y="865"/>
+	<Point x="731" y="908"/>
+	<Point x="745" y="933"/>
+	<Point x="737" y="947"/>
+	<Point x="745" y="956"/>
+	<Point x="745" y="1240"/>
+	<Point x="751" y="1305"/>
+	<Point x="753" y="1391"/>
+	<Point x="755" y="1485"/>
+	<Point x="615" y="1487"/>
+	<Point x="553" y="1498"/>
+	<Point x="543" y="1500"/>
+	<Point x="444" y="1493"/>
+	<Point x="422" y="1501"/>
+	<Point x="406" y="1505"/>
+	<Point x="21" y="1504"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>criar a mi hermanico. No nos ma-
+rauiemos de vn clerigo, ni de vn
+frayle,  vno hurta a los pobres, y
+el otro de ſu caſa, para ſus deuotas,
+pues a vn pobre eſclauo el amor le
+animaua a eo. prouoſe le quanto
+digo, y aun mas, porque a micon
+amenazas me preguntauan, y co-
+mo niño con el miedo deſcubria,
+quanto ſabia, haa ciertas herra-
+duras que por mandado de mi
+madre a vn herrero vendi. Al tri
+e de mi padraro açotaron, y
+pringaron, y a mi madre Pueron
+pena por juicia ſobre el acoũ-
+brado centenario, que en caſa del
+ſobredicho comendador no en-
+trae, ni al laimado Zayde en la
+ſuya acogie por no echar la ſo-
+ga tras el caldero, la trie ſe eſ-
+forço, y cumplio la ſentencia, y
+por euitar peligro, y quitarſe de
+malas lẽguas, ſe fue a ſeruir al me-
+ſon de la Solana, y ai padecien-</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r12" type="handwritten-annotation">
+	<Coords>
+	<Point x="752" y="759"/>
+	<Point x="879" y="753"/>
+	<Point x="879" y="1332"/>
+	<Point x="753" y="1327"/>
+	<Point x="751" y="1250"/>
+	<Point x="749" y="1235"/>
+	<Point x="747" y="1178"/>
+	<Point x="747" y="947"/>
+	<Point x="749" y="941"/>
+	<Point x="747" y="934"/>
+	<Point x="735" y="909"/>
+	<Point x="738" y="902"/>
+	<Point x="743" y="890"/></Coords></GraphicRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="418" y="1515"/>
+	<Point x="446" y="1507"/>
+	<Point x="486" y="1500"/>
+	<Point x="521" y="1503"/>
+	<Point x="592" y="1503"/>
+	<Point x="594" y="1506"/>
+	<Point x="594" y="1556"/>
+	<Point x="416" y="1551"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A iii</Unicode></TextEquiv></TextRegion></Page></PcGts>

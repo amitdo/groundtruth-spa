@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444087">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:56:24</Created>
+	<LastChange>2011-12-19T11:39:24</LastChange></Metadata>
+	<Page imageFilename="00444087.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="312" y="80"/>
+	<Point x="1485" y="80"/>
+	<Point x="1487" y="191"/>
+	<Point x="308" y="191"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="128" y="203"/>
+	<Point x="1726" y="216"/>
+	<Point x="1748" y="216"/>
+	<Point x="1751" y="1460"/>
+	<Point x="126" y="1482"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mas que no ſe canſe empre en andar
+a buſcar eo, no que ſe ee ai con
+el acaado el entendimiento. Si pudie-
+re, occupele en que mire que le mira,
+y le acompañe, hable, y pida ſe humie,
+y regale con el, y acuerde que no me-
+recia ear ai. Quando pu diere ha-
+zer eo, aunque ſea al principio de co-
+mençar oracion haara grande prouecho,
+y haze muchos prouechos ea manera de
+oracion, a lo menos haole mi alma: no
+ſe  acierto a dezirlo v. m. lo vera, ple-
+ga al Señor acierte a contentarle em-
+pre. Amen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="153" y="1551"/>
+	<Point x="1716" y="1541"/>
+	<Point x="1717" y="2273"/>
+	<Point x="142" y="2280"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP. X IIII. Comiença a decla-
+rar el ſegundo grado de oracion que es
+ya dar el Señor al alma a ſentir guos
+mas particulares, declaralo para dar a
+entender como ſon ya ſobre natu-
+rales, es harto de
+notar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="466" y="2337"/>
+	<Point x="1716" y="2335"/>
+	<Point x="1716" y="2608"/>
+	<Point x="1357" y="2614"/>
+	<Point x="1323" y="2641"/>
+	<Point x="462" y="2648"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VES ya queda dicho con el
+trabajo que ſe riega ee vergel,
+y quan a fuerça de braços ſacando</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1567" y="2617"/>
+	<Point x="1680" y="2617"/>
+	<Point x="1680" y="2708"/>
+	<Point x="1567" y="2708"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>el</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="drop-capital">
+	<Coords>
+	<Point x="158" y="2351"/>
+	<Point x="451" y="2351"/>
+	<Point x="451" y="2642"/>
+	<Point x="158" y="2642"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="567" y="3051"/>
+	<Point x="1619" y="3051"/>
+	<Point x="1619" y="3167"/>
+	<Point x="567" y="3167"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1526" y="92"/>
+	<Point x="1705" y="92"/>
+	<Point x="1705" y="201"/>
+	<Point x="1526" y="201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>159</Unicode></TextEquiv></TextRegion></Page></PcGts>

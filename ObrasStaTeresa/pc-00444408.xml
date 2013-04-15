@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444408">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:06:23</Created>
+	<LastChange>2011-12-19T11:39:43</LastChange></Metadata>
+	<Page imageFilename="00444408.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="891" y="87"/>
+	<Point x="1615" y="87"/>
+	<Point x="1615" y="212"/>
+	<Point x="891" y="212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="449" y="235"/>
+	<Point x="2079" y="231"/>
+	<Point x="2037" y="2656"/>
+	<Point x="1718" y="2658"/>
+	<Point x="1559" y="2669"/>
+	<Point x="469" y="2674"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>quitos ratos como me quedã para gozar de
+vos, os me eſcondays, como ſe compadece
+eo en vuera miſericordia? como lo puede
+ſuﬀrir el amor que me teneys? Creo Señor
+que  fuera poſsible poderme eſconder yo
+de vos, como vos de mi, que pienſo y creo
+del amor  me teneys, que no lo ſuﬀririades:
+mas eays os vos conmigo, y veys me em-
+pre, no ſe ſuﬀre eo Señor mio, ſuplico os
+mireys que ſe haze agrauio a quien tanto os
+ama. Eo y otras coſas me ha acaecido dezir,
+entendiendo primero como era piadoſo el
+lugar que tenia en el inﬁerno para lo que me-
+recia, mas algunas vezes deſatina tanto el
+amor, que no me ento, no que en todo mi
+ſeſo doy eas quexas, y todo me lo ſuﬀre el
+Señor, alabado ſea tan buen Rey. Llegaramos
+a los de la tierra con eos atreuimientos. Aũ
+ya al rey no me marauio que no ſe oſe ha-
+blar, que es razõ ſe tema, y a los Señores que
+repreſentan ſer cabeças. Mas ea ya el mun-
+do de manera que auian de ſer mas largas las
+vidas para deprẽder los puntos y nouedades,
+y maneras que ay ya de criança,  han de ga-
+ar algo de ea en ſeruir a Dios: yo me ſanti-
+guo de ver lo que paa: el caſo es, que ya yo
+no ſabia como biuir quando aqui me meti,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1729" y="2667"/>
+	<Point x="1991" y="2667"/>
+	<Point x="1992" y="2761"/>
+	<Point x="1714" y="2763"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>porque</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="617" y="3065"/>
+	<Point x="1564" y="3065"/>
+	<Point x="1564" y="3155"/>
+	<Point x="617" y="3155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="465" y="130"/>
+	<Point x="462" y="230"/>
+	<Point x="647" y="232"/>
+	<Point x="645" y="130"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>482</Unicode></TextEquiv></TextRegion></Page></PcGts>

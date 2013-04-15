@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485306">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T02:37:01</Created>
+	<LastChange>2011-05-12T13:41:12</LastChange></Metadata>
+	<Page imageFilename="00485306.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="451" y="119"/>
+	<Point x="1758" y="119"/>
+	<Point x="1758" y="1300"/>
+	<Point x="451" y="1300"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Si aquea amariez, y los ſoſpiros,
+Salidos n licencia de ſu dueño:
+Si aquel hondo lencio, no han podido,
+Vn ſentimiento grande, ni pequeño,
+Mouer en vos, que bae a conuertiros
+A  quiera, ſaber que ſoy nacido.
+Bae ya hauer ſufrido
+Tanto tiempo, apeſar delo que bao:
+Que ami miſmo contrao:
+Dandome a entender que mi ﬂaqueza:
+Me tiene en la trieza
+En eoy pueo, y no lo que yo entiẽdo:
+Ai que con ﬂaqueza me deﬁendo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="435" y="1496"/>
+	<Point x="1732" y="1496"/>
+	<Point x="1732" y="2241"/>
+	<Point x="435" y="2241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cancion no as de tener
+Comigo  ver mas en malo o en bueno:
+Tratame como ageno:
+Que no te faltara de quien lo aprendas:
+Si has miedo que m' oﬀendas:
+No quieras hazer mas por mi derecho
+Delo que hize yo, quel mal me he hecho.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="616" y="3003"/>
+	<Point x="1440" y="3003"/>
+	<Point x="1440" y="3096"/>
+	<Point x="616" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="819" y="2406"/>
+	<Point x="819" y="2600"/>
+	<Point x="1212" y="2605"/>
+	<Point x="1203" y="2569"/>
+	<Point x="1198" y="2414"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ FIN.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r5" type="other">
+	<Coords>
+	<Point x="1212" y="2443"/>
+	<Point x="1207" y="2519"/>
+	<Point x="1212" y="2551"/>
+	<Point x="1346" y="2551"/>
+	<Point x="1346" y="2443"/></Coords></GraphicRegion></Page></PcGts>

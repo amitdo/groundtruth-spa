@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440071">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:03:58</Created>
+	<LastChange>2011-12-19T11:38:39</LastChange></Metadata>
+	<Page imageFilename="00440071.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="705" y="431"/>
+	<Point x="927" y="429"/>
+	<Point x="964" y="419"/>
+	<Point x="2664" y="407"/>
+	<Point x="2663" y="812"/>
+	<Point x="2664" y="1058"/>
+	<Point x="2663" y="1305"/>
+	<Point x="2664" y="1445"/>
+	<Point x="1908" y="1452"/>
+	<Point x="706" y="1453"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>eos, và mudando dicha ley, haa que haandoſe cerca
+de los Solicios, gue la que diximos en el Libro an‐
+tecedente pagina 13. De eo ſe gue, que las cantidades
+de la coluna tercera ſolo ſeràn exaas al principio de to‐
+da la Tabla, fuera del qual iràn cayendo en defeo,
+haa que al ﬁn de ea, eguen à tener el mayor de
+todos: pero es èe tal, que no ega à 2 terceros; can‐
+tidad deſpreciable, y que no merece, que ſe ponga ee
+aviſo, mas que para evitar el recelo, que pudiera
+ſobrevenirle, al que fuee eſcrupuloſo
+en los calculos.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords>
+	<Point x="2342" y="1680"/>
+	<Point x="2345" y="2621"/>
+	<Point x="940" y="2621"/>
+	<Point x="935" y="1690"/></Coords></ImageRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="985" y="4002"/>
+	<Point x="1954" y="4002"/>
+	<Point x="1954" y="4096"/>
+	<Point x="985" y="4096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="759" y="360"/>
+	<Point x="760" y="426"/>
+	<Point x="907" y="427"/>
+	<Point x="906" y="357"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>54</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="1223" y="304"/>
+	<Point x="1224" y="406"/>
+	<Point x="1627" y="407"/>
+	<Point x="1998" y="406"/>
+	<Point x="2042" y="406"/>
+	<Point x="2040" y="304"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="2273" y="3271"/>
+	<Point x="2273" y="3454"/>
+	<Point x="2621" y="3454"/>
+	<Point x="2621" y="3271"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>NUE‐</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r7" type="stamp">
+	<Coords>
+	<Point x="702" y="2782"/>
+	<Point x="702" y="3471"/>
+	<Point x="1361" y="3471"/>
+	<Point x="1361" y="2782"/></Coords></GraphicRegion></Page></PcGts>

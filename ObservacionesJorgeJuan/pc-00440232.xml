@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440232">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:02:04</Created>
+	<LastChange>2011-12-19T11:38:52</LastChange></Metadata>
+	<Page imageFilename="00440232.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="412" y="506"/>
+	<Point x="2003" y="506"/>
+	<Point x="2003" y="632"/>
+	<Point x="412" y="632"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De ee calculo ſe deduce la tabla, que ſe gue.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="251" y="680"/>
+	<Point x="2232" y="680"/>
+	<Point x="2232" y="1190"/>
+	<Point x="251" y="1190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tabla de las diancias entre los paralelos de
+las Señales Occidentàles de la Série de
+triangulos reducidas al Nivèl
+del Mar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="235" y="1241"/>
+	<Point x="2280" y="1241"/>
+	<Point x="2280" y="2854"/>
+	<Point x="235" y="2854"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Entre los de Pueblo viejo, y Cuicòcha (Ψ) 11939.543 toeſas
+Cuicòcha (Ψ) y Campanàrio (ζ) 21311.361
+Campanàrio (ζ) y Guàpulo (E) 8646.056
+Guàpulo (E) y el Corazòn (G) 19263.033
+el Corazòn (G) y Milìn (K) 18843.543
+Milìn (K) y Chulàpu (N) 16363.909
+Chulàpu (N) y Chichichòco (P) 13119.843
+Chichichòco (P) y Guayàma (R) 6452.203
+Guayàma (R) y Siſa-Pòngo (T) 12134.901
+Siſa-Pòngo (T) y Lanlang. (U) 13132.451
+Lanlangùſo (U) y Chuſaì (Y) 12513.288
+Chuſaì (Y) y Sinaſaguàn (α) 13314.369
+Sinaſaguàn (α) y Bueràn (γ) 11656.587
+Bueràn (γ) y Surampàlte (π) 7184.656
+Suramp. (π) y el Obſer. de Cuenca 9849.659
+Suma 195725.397</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="232" y="2877"/>
+	<Point x="2261" y="2877"/>
+	<Point x="2261" y="3322"/>
+	<Point x="232" y="3322"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ea ſuma es la diancia entre los paralelos de los dos
+Obſervatorios de Pueblo viejo, y Cuenca; ò la longitud del
+arco de Meridiano terrere comprehendido entre dichos
+Obſervatorios.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1980" y="3351"/>
+	<Point x="2212" y="3351"/>
+	<Point x="2212" y="3461"/>
+	<Point x="1980" y="3461"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SEC-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="987" y="3993"/>
+	<Point x="1961" y="3993"/>
+	<Point x="1961" y="4096"/>
+	<Point x="987" y="4096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="738" y="312"/>
+	<Point x="1767" y="312"/>
+	<Point x="1767" y="435"/>
+	<Point x="738" y="435"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="page-number">
+	<Coords>
+	<Point x="1948" y="338"/>
+	<Point x="2161" y="338"/>
+	<Point x="2161" y="438"/>
+	<Point x="1948" y="438"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>213</Unicode></TextEquiv></TextRegion></Page></PcGts>

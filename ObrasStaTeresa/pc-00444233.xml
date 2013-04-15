@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444233">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:44:38</Created>
+	<LastChange>2011-12-19T11:39:33</LastChange></Metadata>
+	<Page imageFilename="00444233.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="287" y="98"/>
+	<Point x="1474" y="98"/>
+	<Point x="1459" y="230"/>
+	<Point x="277" y="229"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="128" y="244"/>
+	<Point x="1718" y="255"/>
+	<Point x="1711" y="2650"/>
+	<Point x="1560" y="2665"/>
+	<Point x="1500" y="2665"/>
+	<Point x="1387" y="2688"/>
+	<Point x="139" y="2697"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>eran meneer muchas horas para perſuadir-
+me a que me ſoegae, y que no baara na-
+die, he me aqui con ſolas eas palabras ſoe-
+gada, con fortaIeza, con animo, cõ ſeguridad,
+cõ vna quietud y luz  en vn punto vi mi al-
+ma hecha otra, y me parece  cõ todo el mũdo
+diſputara  era Dios. O  buẽ Dios, o  buen
+Señor y que poderoſo, no ſolo da el conſejo,
+no el remedio. Sus palabras ſon obras, o va-
+la me Dios y como fortalece la fe, y ſe aumen-
+ta el amor. Es an cierto que muchas vezes
+me acordaua de quando el Señor mando a
+los vientos que euuieen quedos en el mar
+quando ſe leuanto la tempead y aſsi dezia
+yo, Quien es ee que an le obedecen todas
+mis potencias y da luz en tan grande obſcu-
+ridad en vn momento, y haze blando vn co-
+raçon que parecia piedra, da agua de lagri-
+mas ſuaues a donde parecia auia de auer mu-
+cho tiempo ſequedad. Quien pone eos deſ-
+ſeos? quien da ee animo? que me acaecio pẽ-
+ſar, de que temo? que es eo? yo deeo ſer
+uir a ee Señor, no pretendo otra coſa no
+contentarle, no quiero contento ni deſcanſo
+ni otro bien no hazer ſu voluntad, que de
+eo bien cierta eaua a mi parecer, que lo
+podia afﬁrmar, pues  ee Señor es podero-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1609" y="2667"/>
+	<Point x="1701" y="2661"/>
+	<Point x="1715" y="2751"/>
+	<Point x="1599" y="2752"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="602" y="3062"/>
+	<Point x="1576" y="3062"/>
+	<Point x="1576" y="3152"/>
+	<Point x="602" y="3152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="1389" y="2690"/>
+	<Point x="1396" y="2775"/>
+	<Point x="1498" y="2775"/>
+	<Point x="1492" y="2678"/>
+	<Point x="1480" y="2671"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>V</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1512" y="151"/>
+	<Point x="1516" y="248"/>
+	<Point x="1677" y="248"/>
+	<Point x="1679" y="149"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>305</Unicode></TextEquiv></TextRegion></Page></PcGts>

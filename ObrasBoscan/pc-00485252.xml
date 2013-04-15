@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485252">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T08:00:39</Created>
+	<LastChange>2011-05-12T13:41:10</LastChange></Metadata>
+	<Page imageFilename="00485252.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="443" y="1058"/>
+	<Point x="1612" y="1058"/>
+	<Point x="1612" y="1770"/>
+	<Point x="443" y="1770"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sobre vna freſca, y verde, y grande vega
+La caſa dea Reyna ea aentada:
+Vn rio, al derredor toda la riega,
+Darboles la ribera ea ſembrada:
+La ſombra de los quales, al ſol niega,
+(Enel ſolicio) Ia caliente entrada.
+Los arboles, ean enos de ﬂores,
+Pordo, cantando van los ruyſeñores.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="447" y="1947"/>
+	<Point x="1591" y="1947"/>
+	<Point x="1591" y="2663"/>
+	<Point x="447" y="2663"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Otros arroyos mil, andan corriendo,
+Aca, y aa, ſus bueltas rodeando:
+Diuerſos labyrinthos componiendo,
+Los vnos, por los otros traueando.
+Las ﬂores delos arboles, cayendo,
+Las dulces aguas andan meneando.
+Y cada ﬂor que deas ai cae,
+Parece, que al caer Amor la trae.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="624" y="3027"/>
+	<Point x="1393" y="3027"/>
+	<Point x="1393" y="3090"/>
+	<Point x="624" y="3090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="481" y="167"/>
+	<Point x="1720" y="167"/>
+	<Point x="1720" y="890"/>
+	<Point x="481" y="890"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Amor, los ediﬁcios repreſentan,
+Y aun las piedras, aqui direys que aman.
+Las fuentes, ai blandas ſe preſentan,
+Que penſareys que lagrimas derraman.
+Los rios, al correr d' Amor os tientan,
+Y Amor es, lo que ſueña y reclaman.
+Tan ſabroſos, aqui ſoplan los vientos,
+Que os mueuen amoroſos penſamientos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="751" y="64"/>
+	<Point x="751" y="159"/>
+	<Point x="1243" y="159"/>
+	<Point x="1225" y="58"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r8" type="other">
+	<Coords>
+	<Point x="1235" y="74"/>
+	<Point x="1250" y="151"/>
+	<Point x="1291" y="159"/>
+	<Point x="1370" y="159"/>
+	<Point x="1410" y="106"/>
+	<Point x="1343" y="58"/>
+	<Point x="1259" y="63"/></Coords></GraphicRegion></Page></PcGts>

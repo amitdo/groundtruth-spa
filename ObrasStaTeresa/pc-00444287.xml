@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444287">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:50:58</Created>
+	<LastChange>2011-12-19T11:39:36</LastChange></Metadata>
+	<Page imageFilename="00444287.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r14" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1486" y="2664"/>
+	<Point x="1747" y="2667"/>
+	<Point x="1769" y="2697"/>
+	<Point x="1747" y="2747"/>
+	<Point x="1488" y="2758"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y pare-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="619" y="3076"/>
+	<Point x="1578" y="3076"/>
+	<Point x="1578" y="3148"/>
+	<Point x="1412" y="3153"/>
+	<Point x="619" y="3148"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1601" y="118"/>
+	<Point x="1759" y="118"/>
+	<Point x="1759" y="230"/>
+	<Point x="1601" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>359</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="357" y="110"/>
+	<Point x="1526" y="110"/>
+	<Point x="1526" y="217"/>
+	<Point x="357" y="217"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="180" y="239"/>
+	<Point x="407" y="237"/>
+	<Point x="407" y="238"/>
+	<Point x="599" y="238"/>
+	<Point x="599" y="239"/>
+	<Point x="704" y="231"/>
+	<Point x="779" y="233"/>
+	<Point x="804" y="228"/>
+	<Point x="983" y="240"/>
+	<Point x="983" y="241"/>
+	<Point x="1175" y="241"/>
+	<Point x="1175" y="242"/>
+	<Point x="1367" y="242"/>
+	<Point x="1367" y="243"/>
+	<Point x="1559" y="243"/>
+	<Point x="1559" y="244"/>
+	<Point x="1751" y="244"/>
+	<Point x="1751" y="589"/>
+	<Point x="1752" y="589"/>
+	<Point x="1752" y="934"/>
+	<Point x="1753" y="934"/>
+	<Point x="1753" y="1279"/>
+	<Point x="1754" y="1279"/>
+	<Point x="1754" y="1624"/>
+	<Point x="1755" y="1624"/>
+	<Point x="1755" y="1969"/>
+	<Point x="1756" y="1969"/>
+	<Point x="1780" y="2309"/>
+	<Point x="1778" y="2319"/>
+	<Point x="1821" y="2607"/>
+	<Point x="1789" y="2626"/>
+	<Point x="1809" y="2658"/>
+	<Point x="1757" y="2658"/>
+	<Point x="1751" y="2653"/>
+	<Point x="1716" y="2657"/>
+	<Point x="1716" y="2656"/>
+	<Point x="1675" y="2656"/>
+	<Point x="1675" y="2655"/>
+	<Point x="1634" y="2655"/>
+	<Point x="1628" y="2660"/>
+	<Point x="1598" y="2660"/>
+	<Point x="1593" y="2653"/>
+	<Point x="1552" y="2653"/>
+	<Point x="1552" y="2652"/>
+	<Point x="1511" y="2652"/>
+	<Point x="1511" y="2651"/>
+	<Point x="1470" y="2651"/>
+	<Point x="1470" y="2650"/>
+	<Point x="1429" y="2650"/>
+	<Point x="1429" y="2649"/>
+	<Point x="1388" y="2649"/>
+	<Point x="1388" y="2648"/>
+	<Point x="1347" y="2648"/>
+	<Point x="1347" y="2658"/>
+	<Point x="1339" y="2658"/>
+	<Point x="1339" y="2657"/>
+	<Point x="1325" y="2657"/>
+	<Point x="1325" y="2656"/>
+	<Point x="1310" y="2656"/>
+	<Point x="1310" y="2655"/>
+	<Point x="1296" y="2655"/>
+	<Point x="1296" y="2654"/>
+	<Point x="1281" y="2654"/>
+	<Point x="1281" y="2653"/>
+	<Point x="1267" y="2653"/>
+	<Point x="1267" y="2652"/>
+	<Point x="1251" y="2652"/>
+	<Point x="1215" y="2651"/>
+	<Point x="1213" y="2651"/>
+	<Point x="1206" y="2652"/>
+	<Point x="1201" y="2653"/>
+	<Point x="1198" y="2654"/>
+	<Point x="1197" y="2655"/>
+	<Point x="1194" y="2655"/>
+	<Point x="1194" y="2656"/>
+	<Point x="1193" y="2656"/>
+	<Point x="1193" y="2657"/>
+	<Point x="1191" y="2657"/>
+	<Point x="1191" y="2658"/>
+	<Point x="1190" y="2658"/>
+	<Point x="1190" y="2659"/>
+	<Point x="1188" y="2659"/>
+	<Point x="1188" y="2660"/>
+	<Point x="1186" y="2660"/>
+	<Point x="1186" y="2661"/>
+	<Point x="1185" y="2661"/>
+	<Point x="1185" y="2662"/>
+	<Point x="1183" y="2662"/>
+	<Point x="1183" y="2663"/>
+	<Point x="1182" y="2663"/>
+	<Point x="1182" y="2664"/>
+	<Point x="1180" y="2664"/>
+	<Point x="1180" y="2665"/>
+	<Point x="1178" y="2665"/>
+	<Point x="1178" y="2666"/>
+	<Point x="1177" y="2666"/>
+	<Point x="1177" y="2667"/>
+	<Point x="1175" y="2667"/>
+	<Point x="1175" y="2668"/>
+	<Point x="1174" y="2668"/>
+	<Point x="1174" y="2669"/>
+	<Point x="210" y="2669"/>
+	<Point x="211" y="2669"/>
+	<Point x="211" y="2060"/>
+	<Point x="212" y="2060"/>
+	<Point x="212" y="1452"/>
+	<Point x="213" y="1452"/>
+	<Point x="213" y="844"/>
+	<Point x="214" y="844"/>
+	<Point x="170" y="243"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>gunas vezes de las mercedes que el Señor
+me hazia con auiſos harto prouechoſos pa-
+ra ſu alma.) Pues como lo ſupo, para que me-
+jor le pudiee tratar, n dezirme nada, recau
+do licencia de mi prouincial, para que ocho
+dias euuiee en ſu caſa, y en ea, y en algu-
+nas ygleas le hable muchas vezes, ea prime
+ra vez que euuo aqui, que deſpues en diuer
+ſos tiẽpos le comunique, como le di quẽta en
+ſuma de mi vida y manera de proceder de ora
+cion con la mayor claridad que yo ſupe (que
+eo he tenido empre tratar con toda clari-
+dad y verdad, con los que comunico mi alma
+haa Ios primeros mouimiẽtos querria yo les
+fueen publicos e las coſas mas dudoſas y de
+ſoſpecha, yo les arguya cõ razones cõtra mi)
+an que n doblez ni encubierta le trate mi
+alma ca a los principios, vi  me entẽdia por
+eſperiencia,  era todo lo  yo auia meneer,
+porque entonces no me ſabia entender como
+aora para ſaberlo dezir,  deſpues me lo ha da
+do Dios  ſepa entẽder y dezir las mercedes 
+ſu Magead me haze, y era meneer  vuiee
+paado por eo, quiẽ del todo me entẽdiee
+y declarae lo  era. El me dio grãdiſsima luz
+por almenos en las viones  no eran imagi
+narias no podia yo entẽder  podia ſer ao,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="signature-mark">
+	<Coords>
+	<Point x="1257" y="2653"/>
+	<Point x="1265" y="2654"/>
+	<Point x="1265" y="2655"/>
+	<Point x="1279" y="2655"/>
+	<Point x="1279" y="2656"/>
+	<Point x="1294" y="2656"/>
+	<Point x="1294" y="2657"/>
+	<Point x="1308" y="2657"/>
+	<Point x="1308" y="2658"/>
+	<Point x="1323" y="2658"/>
+	<Point x="1323" y="2659"/>
+	<Point x="1337" y="2659"/>
+	<Point x="1337" y="2660"/>
+	<Point x="1347" y="2660"/>
+	<Point x="1347" y="2744"/>
+	<Point x="1260" y="2744"/>
+	<Point x="1260" y="2745"/>
+	<Point x="1174" y="2745"/>
+	<Point x="1174" y="2746"/>
+	<Point x="1173" y="2746"/>
+	<Point x="1173" y="2745"/>
+	<Point x="1174" y="2745"/>
+	<Point x="1174" y="2707"/>
+	<Point x="1175" y="2707"/>
+	<Point x="1175" y="2671"/>
+	<Point x="1176" y="2671"/>
+	<Point x="1176" y="2670"/>
+	<Point x="1177" y="2670"/>
+	<Point x="1177" y="2669"/>
+	<Point x="1179" y="2669"/>
+	<Point x="1179" y="2668"/>
+	<Point x="1180" y="2668"/>
+	<Point x="1180" y="2667"/>
+	<Point x="1182" y="2667"/>
+	<Point x="1182" y="2666"/>
+	<Point x="1184" y="2666"/>
+	<Point x="1184" y="2665"/>
+	<Point x="1185" y="2665"/>
+	<Point x="1185" y="2664"/>
+	<Point x="1187" y="2664"/>
+	<Point x="1187" y="2663"/>
+	<Point x="1188" y="2663"/>
+	<Point x="1188" y="2662"/>
+	<Point x="1190" y="2662"/>
+	<Point x="1190" y="2661"/>
+	<Point x="1192" y="2661"/>
+	<Point x="1192" y="2660"/>
+	<Point x="1193" y="2660"/>
+	<Point x="1193" y="2659"/>
+	<Point x="1195" y="2659"/>
+	<Point x="1195" y="2658"/>
+	<Point x="1196" y="2658"/>
+	<Point x="1196" y="2657"/>
+	<Point x="1197" y="2656"/>
+	<Point x="1201" y="2655"/>
+	<Point x="1204" y="2654"/>
+	<Point x="1211" y="2653"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Z 4</Unicode></TextEquiv></TextRegion></Page></PcGts>

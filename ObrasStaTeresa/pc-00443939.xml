@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443939">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T11:08:14</Created>
+	<LastChange>2011-12-19T11:39:15</LastChange></Metadata>
+	<Page imageFilename="00443939.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="51" y="248"/>
+	<Point x="1670" y="248"/>
+	<Point x="1670" y="2639"/>
+	<Point x="51" y="2639"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dexan enamoradas del a las almas. An‐
+ que tornando al principio,  no la vi
+mientras euuo en la tierra aora la veo
+en ſus libros y hijas. O por dezirlo mejor
+en vueﬆras reuerencias ſolas la veo agora,
+que ſon ſus hijas de las mas parecidas a
+ſus coumbres, y ſon retrato viuo de ſus eſ‐
+crituras y libros. Los quales libros que ſa‐
+len a luz, y el Conſejo real me los cometio
+que los viee, puedo yo con derecho endere‐
+çarlos a ee ſanto conuento, como de hecho
+lo hago, por el trabajo que he pueﬆo en eos,
+que no ha do pequeño. Porque no ſolamen‐
+te he trabajado en verlos, y examinarlos
+que es lo que el conſejo mando, no tam‐
+bien en cotejarlos con los originales miſ-
+mos que euuieron en mi poder muchos
+dias, y en reduzirlos a ſu propria pu‐
+reza en la miſma manera que los dexo
+eſcritos de ſu mano la madre n mu‐
+darlos ni en palabras, ni en coſas, de que
+ſe auian apartado mucho los traſlados que
+andauan o por deſcuydo de los eſcriuientes,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1417" y="2643"/>
+	<Point x="1634" y="2643"/>
+	<Point x="1634" y="2756"/>
+	<Point x="1417" y="2756"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>o por</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="600" y="3039"/>
+	<Point x="1582" y="3039"/>
+	<Point x="1582" y="3156"/>
+	<Point x="600" y="3156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1519" y="136"/>
+	<Point x="1519" y="234"/>
+	<Point x="1643" y="234"/>
+	<Point x="1643" y="136"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>11</Unicode></TextEquiv></TextRegion></Page></PcGts>

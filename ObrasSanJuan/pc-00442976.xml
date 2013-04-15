@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442976">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T19:15:46</Created>
+	<LastChange>2011-03-15T16:51:30</LastChange></Metadata>
+	<Page imageFilename="00442976.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r11" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="566" y="78"/>
+	<Point x="566" y="183"/>
+	<Point x="1138" y="183"/>
+	<Point x="1138" y="78"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>F. Ioan de la Cruz.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1511" y="111"/>
+	<Point x="1511" y="188"/>
+	<Point x="1635" y="188"/>
+	<Point x="1635" y="111"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>21</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="1551" y="224"/>
+	<Point x="123" y="192"/>
+	<Point x="90" y="2671"/>
+	<Point x="298" y="2691"/>
+	<Point x="969" y="2716"/>
+	<Point x="996" y="2718"/>
+	<Point x="1144" y="2708"/>
+	<Point x="1574" y="2717"/>
+	<Point x="1641" y="265"/>
+	<Point x="1658" y="214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>le acordaſen. A un Religioſo grave de otra Orden,
+que (por verle inclinado a tratar de coſas naturales del
+campo, para div ertir platicas eſcuſadas) le dixo, pare-
+cia hijo de algun Labrador, reſpõdio el Siervo de Dios:
+Aun no ſoi tanto como eſo, no hijo de un pobre texedorcito.
+Con lo cual quedò el otro confuſo, i deſde entonces afi
+cionado a ſu virtud, i pregonero de ſu ſantidad. Dizien
+do un compañero del Venerable Padre en otra ocaõ,
+por honrarle delante de mucha gente,  avia do Prior
+encierto Convento, añadio el: Tambien en eſe miſmo
+fui Cozinero. Cuando en los Capitulos de la Orden le
+hazian Prelado, pueo luego derodillas ante los Eleo
+res, no ſolo renunciaba el Oficio, pero con lagrimas les
+hazia fuerça para que le dexaſen n el. Eo miſmo pe
+dia a nuero Señor, i particularmente que no murieſe
+Prelado, no ſubdito i abatido, i que por premio de ſer-
+vicios le dieſe deſprecios. No ai que buſcar mas argu-
+mentos de ſu humildad, que ſu vida toda: porque o-
+bras, palabras, roro, ſemblante, veido, i cuanto
+ſe veìa en el, todo eaba pregonando el modeimo
+afeo de ſu coraçon. Tambien lo pregonaba ſu ri-
+qu¡ma Pobreza; la cual fue uno de los mayores teſo-
+ros de ſu alma; porque deſpreciadas todas las como-
+didades temporales, era ſu unica abundancia el care-
+cer de todo. Vivia de ordinario en la celda mas angoſ-
+ta, ideſechada del Convento, que algunas vezes ſo-
+lia ſer el hueco de una eſcalera, i en ella ſu adorno i
+menage era una Cruz de palo, o eampa de papel,
+Breviario, Biblia, diciplina, i cilicio era ſu mayor
+axuar. Traìa un habito mui groſero, corto, viejo, i re
+mendado, aunque limpio. En los caminos, teniendo
+fuerças, andaba à pie, i pedia limoſna; de la cual, to-
+mado parcamente lo neceſario para ſu abinencia,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="signature-mark">
+	<Coords>
+	<Point x="1018" y="2718"/>
+	<Point x="1085" y="2720"/>
+	<Point x="1091" y="2801"/>
+	<Point x="981" y="2800"/>
+	<Point x="975" y="2721"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>b 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="catch-word">
+	<Coords>
+	<Point x="1418" y="2722"/>
+	<Point x="1418" y="2796"/>
+	<Point x="1590" y="2796"/>
+	<Point x="1590" y="2722"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>daba</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="credit">
+	<Coords>
+	<Point x="775" y="2992"/>
+	<Point x="775" y="2940"/>
+	<Point x="1419" y="2940"/>
+	<Point x="1419" y="2992"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

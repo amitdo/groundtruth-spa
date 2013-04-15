@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443164">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T07:12:12</Created>
+	<LastChange>2011-03-15T16:51:40</LastChange></Metadata>
+	<Page imageFilename="00443164.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="598" y="56"/>
+	<Point x="1072" y="52"/>
+	<Point x="1052" y="176"/>
+	<Point x="590" y="178"/>
+	<Point x="592" y="168"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro ſegundo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="78" y="188"/>
+	<Point x="1632" y="188"/>
+	<Point x="1603" y="2431"/>
+	<Point x="1608" y="2710"/>
+	<Point x="825" y="2737"/>
+	<Point x="78" y="2732"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>giras a todas las gentes con vara de hierro, i deſmenu-
+zarlahas como a un vaſo de barro. En la cual habla Dios
+ſegun el principal i perfeco ſenorio que es el Eterno, el
+cual ſe cumplio; i no ſegun el menos principal que era
+el temporal, el cual en Crio no ſe cumplio en toda ſu
+vida temporal. Pongamos otro exemplo. Eà una al-
+ma con grandes deſeos de ſer martir, acaecera, que Dios
+la reſponda: Tu ſeras martir, i le dè interiormente gran
+conſuelo i conﬁança, que lo ha de ſer; i con todo acae-
+cera, que no muera martir, i ſerà la promeſa verdadera.
+Pues como no ſe cumple a? Porque ſe cumplira ſegun
+lo principal i eſencial dea, que ſerà dandole el amor
+i premio de martir eſencialmente, i haziendola martir,
+de amor, i dandola un prolongado martirio en traba-
+jos, cuya continuacion ſea mas penoſa que el morir, i
+a dà verdaderamente al alma lo que ea deſeaba, i lo
+que el la prometio. Porque lo principal del deſeo era,
+no aquea manera de muerte, no hazer a Dios aquel
+ſervicio de martir, i exercitar el amor por el como mar-
+tir. Porque aquea manera de morir, por  no vale nada
+n amiad de Dios; el cual amor i exercicio, i premio de
+martir le dà por otros medios muy perfetamente. De
+manera, que aũque no muera como martir, queda el al-
+ma muy ſatisfecha de que la dio lo  ea deſeaba. Por-
+que tales deſeos (cuando nacen de vivo amor, i otros ſe-
+mejantes) aunque no ſe les cumplan de aquea manera
+que eos los pintan, i los entienden, cumplenſeles de
+otra, i mejor, i mas a honra de Dios, que eos ſabran pe
+dir. De donde dize David: Dederium pauperum exau-
+divit Dominus. El Señor cumplio a los pobres ſu deſeo.
+I en los Proverbios dize la Sabiduria divina: Dederiũ
+ſuum iuis dabitur. A los juos darſeles ha ſu deſeo.
+De donde, pues vemos, que muchos Santos deſearon</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1458" y="2736"/>
+	<Point x="1600" y="2736"/>
+	<Point x="1600" y="2786"/>
+	<Point x="1458" y="2786"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mu-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="775" y="2927"/>
+	<Point x="1422" y="2927"/>
+	<Point x="1422" y="2997"/>
+	<Point x="775" y="2997"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1488" y="68"/>
+	<Point x="1488" y="164"/>
+	<Point x="1620" y="164"/>
+	<Point x="1620" y="68"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>153</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="marginalia">
+	<Coords>
+	<Point x="1617" y="2346"/>
+	<Point x="1854" y="2346"/>
+	<Point x="1860" y="2439"/>
+	<Point x="1628" y="2429"/>
+	<Point x="1618" y="2421"/>
+	<Point x="1621" y="2400"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pſ.9.17.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="marginalia">
+	<Coords>
+	<Point x="1618" y="2504"/>
+	<Point x="1614" y="2660"/>
+	<Point x="1858" y="2650"/>
+	<Point x="1868" y="2506"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Prov.10
+24.</Unicode></TextEquiv></TextRegion></Page></PcGts>

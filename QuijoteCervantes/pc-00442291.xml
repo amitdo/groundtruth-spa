@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442291">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T05:56:24</Created>
+	<LastChange>2012-03-12T14:11:49</LastChange></Metadata>
+	<Page imageFilename="00442291.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/>
+	<RegionRefIndexed regionRef="r8" index="2"/>
+	<RegionRefIndexed regionRef="r9" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1274" y="38"/>
+	<Point x="1274" y="119"/>
+	<Point x="1338" y="119"/>
+	<Point x="1338" y="38"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>7</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="445" y="38"/>
+	<Point x="445" y="119"/>
+	<Point x="518" y="130"/>
+	<Point x="614" y="111"/>
+	<Point x="1030" y="104"/>
+	<Point x="1041" y="38"/>
+	<Point x="886" y="21"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="112" y="129"/>
+	<Point x="112" y="280"/>
+	<Point x="363" y="303"/>
+	<Point x="1406" y="280"/>
+	<Point x="1406" y="129"/>
+	<Point x="707" y="124"/>
+	<Point x="522" y="142"/>
+	<Point x="512" y="140"/>
+	<Point x="457" y="132"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cap. III. Donde ſe cuenta la gracioſa manera que tuuo
+don Quixote en armarſe cauaero.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="drop-capital">
+	<Coords>
+	<Point x="93" y="322"/>
+	<Point x="93" y="554"/>
+	<Point x="369" y="552"/>
+	<Point x="369" y="394"/>
+	<Point x="364" y="327"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="119" y="577"/>
+	<Point x="119" y="2151"/>
+	<Point x="200" y="2172"/>
+	<Point x="483" y="2172"/>
+	<Point x="1169" y="2174"/>
+	<Point x="1196" y="2153"/>
+	<Point x="1358" y="2158"/>
+	<Point x="1406" y="2151"/>
+	<Point x="1406" y="577"/>
+	<Point x="1378" y="309"/>
+	<Point x="896" y="309"/>
+	<Point x="714" y="312"/>
+	<Point x="505" y="314"/>
+	<Point x="377" y="317"/>
+	<Point x="381" y="567"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aſsi fatigado dee pẽſamiento, abreuiò ſu
+venteril y limitada cena, la qual acabada
+amò al ventero, y encerrandoſe con el en
+la cauaeriza, ſe hincò de rodias ante
+el, diziendole: No me leuantarè jamas de donde eoy
+valeroſo cauaero, faa  lavuer a cortea me otor-
+gue vn dõ que pedirle quiero, el qual redũdarà en ala-
+bança vuera, y en pro del genero humano: el vẽtero
+ vio a ſu hueſped a ſus pies, y oyò ſemejates razones,
+eaua confuſo mirãdole, n ſaber que hazerſe, ni de-
+zirle, y porﬁaua con el  ſe leuantaſe, y jamas quiſo,
+haa que le huuo de dezir que el le otorgaua el don
+ le pedia. No eſperaua yo menos de la grã magniﬁcẽ
+cia va ſeñor mio, reſpondio don Quixote, y aſsi os di
+go que el don que os he pedido, y de vuera liberali-
+dad me ha do otorgado, es, que mañana en aquel dia
+me aueys de armar cauaero, y ea noche en la capi-
+a dee vuero caio velarè las armas: y mañana,
+como tengo dicho, ſe cumpliràlo que tãto deeo pa-
+ra poder como ſe deue yr por todas las quatro partes
+del mũdo, buſcãdo las auẽturas, en pro de los menee
+roſos, como eâ a cargo de la cauaeria, y de los caua
+eros andantes, como yo ſoy, cuyo deeo a ſemejan-
+tes fazañas es inclinado. Elvẽtero (como ea dicho)
+era vn poco ſocarron, y ya tenia algunos barrũtos de
+la falta de juyzio de ſu hueſped, acabò decreerlo quã-
+do acabò de oyrle ſemejantes razones, y por tener 
+reyr aquea noche, determinò de ſeguirle el humor,
+y aſsi le dixo que andaua muy acertado enlo que deſ-
+ſeaua, y pedia, y  tal proſupueo era propio, y natural</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1224" y="2164"/>
+	<Point x="1216" y="2232"/>
+	<Point x="1396" y="2232"/>
+	<Point x="1389" y="2169"/>
+	<Point x="1288" y="2161"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de los</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="435" y="2287"/>
+	<Point x="439" y="2357"/>
+	<Point x="1152" y="2361"/>
+	<Point x="1154" y="2287"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

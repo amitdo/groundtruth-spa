@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00446868">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T04:43:27</Created>
+	<LastChange>2011-07-28T11:26:11</LastChange></Metadata>
+	<Page imageFilename="00446868.tif" imageWidth="2787" imageHeight="4120">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r24" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r24" type="catch-word">
+	<Coords>
+	<Point x="2321" y="3656"/>
+	<Point x="2521" y="3656"/>
+	<Point x="2521" y="3839"/>
+	<Point x="2321" y="3839"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>G.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="credit">
+	<Coords>
+	<Point x="982" y="3974"/>
+	<Point x="1958" y="3971"/>
+	<Point x="1960" y="4060"/>
+	<Point x="973" y="4066"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="456" y="339"/>
+	<Point x="2504" y="339"/>
+	<Point x="2504" y="1643"/>
+	<Point x="456" y="1643"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VALVERD. Vid. de Chri. Fr. Fernando de Valverde: Vida de Chrio.
+VELASC. Dial. Fernan Nuñez de Velaſco: Dialogos.
+VELEZ DE GUEV. Com. Luis Velez de Guevára: Sus Comedias.
+VENEG. Agon. Alexo Venegas: Agonía de la muerte.
+VENEG. Difer. Alexo Venegas: Diferencia de libros.
+VILLAIZ. Chron. Juan Nuñez de Viaizán: Sus Chrónicas.
+VILLALOB. Com. de Amphitr. Do. Franciſco de Vialóbos: Traduccion de la Comedia de
+###Amphitrión.
+VILLALOB. Probl. Do. Franciſco de Vialóbos: Problemas y otras obras.
+VILLALOB. Sum. Fr. Henrique de Vialobos: Suma Morál.
+VILLAM. El Conde de Viamediana: Obras Poéticas.
+VILLAV. Moſch. Don Joſeph de Viavicioſa: La Moſchéa.
+VILLEG. Erot. Don Eeban Manuel de Viegas: Las Eróticas.
+VILLEN. Trab. Don Henrique de Viéna: Trabajos de Hércules.
+Vocab. marit. de Sev. El Vocabulario Marítimo de Sevia.
+YEP. Chron. Fr. Antonio de Yepes: Chrónica de San Benito.
+YEP. Vid. de Sant. Ter. Fr. Diego de Yepes: Vida de Santa . Tereſa.
+ZABAL. Dia de ﬁe. Don Juan de Zabaléta: El dia de ﬁea.
+ZABAL. Theatr. Don Juan de Zabaléta: Theatro del hombre el hombre.
+ZAMOR. Com. Don Antonio de Zamóra: Sus Comedias.
+ZARAT. Franciſco Lopez de Zárate: Sus Obras.
+ZUñIG. Annal. Don Diego Ortiz de Zúñiga: Annáles de Sevia.
+ZUñIG. Cetr. Don Fadrique de Zúñiga Sotomayór: Tratádo de Çetrexla.
+ZURIT. Annal. Gerónymo de Zurita: Annátes de Aragón.</Unicode></TextEquiv></TextRegion></Page></PcGts>

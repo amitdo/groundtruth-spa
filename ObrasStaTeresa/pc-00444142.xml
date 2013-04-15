@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444142">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T11:03:04</Created>
+	<LastChange>2011-12-19T11:39:27</LastChange></Metadata>
+	<Page imageFilename="00444142.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="906" y="80"/>
+	<Point x="1600" y="81"/>
+	<Point x="1607" y="204"/>
+	<Point x="884" y="204"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="426" y="228"/>
+	<Point x="618" y="228"/>
+	<Point x="922" y="212"/>
+	<Point x="1550" y="218"/>
+	<Point x="2022" y="219"/>
+	<Point x="1991" y="2634"/>
+	<Point x="1855" y="2618"/>
+	<Point x="1674" y="2648"/>
+	<Point x="376" y="2660"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>adelante cõ el exercicio de ea, yo lo creo,
+ dexa la oracion, y no ſe enmienda del mal.
+Mas no la dexa, crea que le ſacara a puerto
+de luz. Hizome en eo gran bateria el
+demonio, y pae tanto en parecerme po-
+ca humildad tenerla endo tan ruyn, que
+como ya he dicho la dexe año y medio, al
+menos vn año, que del medio no me acuer-
+do bien, y no fuera mas, ni fue, que
+meterme yo meſma n auer meneer demo-
+nios que me hizieen yr al inﬁerno. O va-
+la me Dios que ceguedad tan grande, y que
+bien acierta el demonio, para ſu propoto
+en cargar aqui la mano: ſabe el traydor, que
+alma que tenga con perſeuerancia oracion
+la tiene perdida, y que todas las caydas que
+la haze dar, la ayudan por la bondad de
+Dios a dar deſpues mayor ſalto, en lo que
+es ſu ſeruicio, algo le va en eo. O Ieſus
+mio, que es ver vn alma  ha egado aqui,
+cayda en vn peccado, quando vos por vue-
+ra miſericordia la tornays a dar la mano,
+y la leuantays como conoce la multitud de
+vueras grandezas, y miſericordias, y ſu
+miſeria: aqui es el deshazerſe deueras, y
+conocer vueras grandezas: aqui el no oſar
+alçar los ojos: aqui es el leuantarlos para co-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="595" y="3050"/>
+	<Point x="1583" y="3051"/>
+	<Point x="1585" y="3168"/>
+	<Point x="593" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="450" y="133"/>
+	<Point x="450" y="218"/>
+	<Point x="602" y="221"/>
+	<Point x="657" y="213"/>
+	<Point x="654" y="133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>214</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1744" y="2642"/>
+	<Point x="1737" y="2710"/>
+	<Point x="1959" y="2718"/>
+	<Point x="1959" y="2639"/>
+	<Point x="1855" y="2626"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nocer</Unicode></TextEquiv></TextRegion></Page></PcGts>

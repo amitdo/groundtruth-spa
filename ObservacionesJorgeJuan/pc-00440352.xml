@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440352">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T12:52:50</Created>
+	<LastChange>2011-12-19T11:39:03</LastChange></Metadata>
+	<Page imageFilename="00440352.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r26" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r25" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="868" y="495"/>
+	<Point x="1648" y="495"/>
+	<Point x="1648" y="575"/>
+	<Point x="868" y="575"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITULO IV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="334" y="587"/>
+	<Point x="2151" y="587"/>
+	<Point x="2154" y="774"/>
+	<Point x="326" y="770"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De las Experiencias hechas en el Cabo Francès, ò Guarìco,
+y razon en que ſe hace la peſadèz.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="477" y="972"/>
+	<Point x="475" y="774"/>
+	<Point x="2205" y="777"/>
+	<Point x="2212" y="2339"/>
+	<Point x="268" y="2339"/>
+	<Point x="275" y="970"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N mi regreo à Eſpaña por el Cabo de Hornos, arri-
+bamos, por eàr faltos de agua, y viveres, al Puerto
+del Guaríco, en donde, interin ſe preparaba el Navio, em‐
+prendí algunas Obſervaciones, entre las quales me pareciò
+apropoto hacer las del Pendulo, para ſaber en què razon ſe
+hacen las peſadeces à diintas latitudes; ſervíme para eo de
+la miſma Maquina, que tengo deſcrita; ſolo sì en lugar del
+duplo cono puſe una Eſphera de cobre, que haè baan‐
+temente redonda, cuyo Semidiametro era de 4.125 lineas,
+y peſaba 14 y medio adarmes, valiendome al miſmo tiem‐
+po del propio hilo de Pita, que me rviò en Quito. Segun
+eas dimenones el centro de Oſcilacion de la Eſphera eſ‐
+taba mas baxo, que el de gravedad de 0.015 lineas; pero
+por motivo del hilo ſe levantaría de 0.035; de cuyas canti‐
+dades ſe han corregido las Obſervaciones guientes.
+Tabla de las Experiencias del Pendulo mple hechas en el
+Guarìo, ò Cabo Francès.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r5">
+	<Coords>
+	<Point x="295" y="2351"/>
+	<Point x="2139" y="2351"/>
+	<Point x="2138" y="3521"/>
+	<Point x="1482" y="3531"/>
+	<Point x="1476" y="3520"/>
+	<Point x="1356" y="3520"/>
+	<Point x="1337" y="3532"/>
+	<Point x="295" y="3540"/></Coords></TableRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="990" y="4002"/>
+	<Point x="1973" y="4002"/>
+	<Point x="1973" y="4090"/>
+	<Point x="990" y="4090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="763" y="378"/>
+	<Point x="1718" y="378"/>
+	<Point x="1718" y="487"/>
+	<Point x="763" y="487"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="1966" y="378"/>
+	<Point x="2153" y="378"/>
+	<Point x="2153" y="497"/>
+	<Point x="1966" y="497"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>329</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="signature-mark">
+	<Coords>
+	<Point x="1360" y="3523"/>
+	<Point x="1464" y="3522"/>
+	<Point x="1465" y="3593"/>
+	<Point x="1360" y="3593"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tt</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="catch-word">
+	<Coords>
+	<Point x="2089" y="3529"/>
+	<Point x="2174" y="3520"/>
+	<Point x="2182" y="3574"/>
+	<Point x="2180" y="3600"/>
+	<Point x="2091" y="3598"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="drop-capital">
+	<Coords>
+	<Point x="291" y="775"/>
+	<Point x="291" y="968"/>
+	<Point x="474" y="968"/>
+	<Point x="474" y="775"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion></Page></PcGts>

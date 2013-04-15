@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444398">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:04:58</Created>
+	<LastChange>2011-12-19T11:39:43</LastChange></Metadata>
+	<Page imageFilename="00444398.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="845" y="89"/>
+	<Point x="1564" y="76"/>
+	<Point x="1570" y="211"/>
+	<Point x="832" y="214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="436" y="238"/>
+	<Point x="1313" y="222"/>
+	<Point x="2035" y="220"/>
+	<Point x="2035" y="523"/>
+	<Point x="1226" y="584"/>
+	<Point x="1174" y="583"/>
+	<Point x="990" y="585"/>
+	<Point x="911" y="596"/>
+	<Point x="814" y="585"/>
+	<Point x="635" y="595"/>
+	<Point x="467" y="581"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a ea primera regla nuera, plega al Se-
+ñor ſea todo para gloria y alabança ſuya,
+y de la glorioſa Virgen Maria, cuyo abi-
+to traemos, Amen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="450" y="587"/>
+	<Point x="653" y="599"/>
+	<Point x="814" y="589"/>
+	<Point x="836" y="590"/>
+	<Point x="912" y="600"/>
+	<Point x="1000" y="588"/>
+	<Point x="1104" y="587"/>
+	<Point x="1246" y="588"/>
+	<Point x="1549" y="581"/>
+	<Point x="2049" y="537"/>
+	<Point x="2083" y="2600"/>
+	<Point x="2023" y="2615"/>
+	<Point x="1865" y="2618"/>
+	<Point x="1793" y="2650"/>
+	<Point x="1345" y="2667"/>
+	<Point x="399" y="2658"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Creo ſe enfadara v.m. de la larga rela-
+cion que he dado dee moneerio,y va
+muy corta para los muchos trabajos y ma-
+rauias que el Señor en eo ha obrado,
+que ay deo muchos teigos que lo po-
+dran jurar, y an pido yo a v.m. por amor
+de Dios, que  le pareciere romper lo de-
+mas que aqui va eſcrito, lo que toca a ee
+moneerio v.m. lo guarde, y muerta yo
+lo de a las hermanas que aqui euuieren,
+que animara mucho para ſeruir a Dios, las
+que vinieren, y a procurar no caya lo co-
+mençado, no que vaya empre adelan-
+te, quando vean lo mucho que puſo ſu
+Magead en hazerla por medio de coſa
+tan ruin y baxa como yo. Y pues el Señor
+tan particularmente ſe ha querido morar
+en fauorecer para que ſe hiziee, parece
+me a mi que hara mucho mal, y ſera muy
+caigada de Dios la que començare a re-
+laxar la perfecion, que aqui el Señor ha
+començado y fauorecido, para que ſe e-
+ue con tanta ſuauidad, que ſe vee muy bien</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1899" y="2627"/>
+	<Point x="2015" y="2625"/>
+	<Point x="2023" y="2717"/>
+	<Point x="1893" y="2716"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>es</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="604" y="3051"/>
+	<Point x="1574" y="3060"/>
+	<Point x="1575" y="3164"/>
+	<Point x="601" y="3160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="426" y="113"/>
+	<Point x="426" y="228"/>
+	<Point x="630" y="228"/>
+	<Point x="630" y="113"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>472</Unicode></TextEquiv></TextRegion></Page></PcGts>

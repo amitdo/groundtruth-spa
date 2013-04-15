@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444066">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T08:54:08</Created>
+	<LastChange>2011-12-19T11:39:23</LastChange></Metadata>
+	<Page imageFilename="00444066.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="866" y="35"/>
+	<Point x="1571" y="35"/>
+	<Point x="1571" y="196"/>
+	<Point x="866" y="196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="387" y="223"/>
+	<Point x="2008" y="205"/>
+	<Point x="2060" y="2619"/>
+	<Point x="1617" y="2639"/>
+	<Point x="1437" y="2676"/>
+	<Point x="1399" y="2673"/>
+	<Point x="398" y="2682"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aunque yo nunca lo hize, que no tenia ha‐
+bilidad como he dicho, y me haaua tan
+ruyn, que aun para penſar coſas de la tier‐
+ra me hazia Dios merced, de que enten-
+diee ea verdad, que no era poco atreui-
+miento, quanto mas para las del cielo, otras
+perſonas ſe aprouecharan, en eſpecial  tie‐
+nen letras, que es vn grande theſoro pa‐
+ra ee exercicio, a mi parecer,  ſon con
+humildad. De vnos dias aca lo he vio
+por algunos letrados, que ha poco que co‐
+mençaron, y han aprouechado muy mu‐
+cho, y eo me haze tener grandes anas,
+porque muchos fueen ſpirituales, como
+adelante dire. Pues lo que digo no ſe ſu‐
+ban n que Dios los ſuba, es lenguage de
+ſpiritu, entenderme ha quien tuuiere alguna
+eſperiencia, que yo no lo ſe dezir,  por aqui
+no ſe entiende. En la myica theologia, que
+comence a dezir, pierde de obrar el enten‐
+dimiento, porque le ſuſpende Dios, Como
+deſpues declarare mas  ſupiere, y el me die‐
+re para eo ſu fauor: preſumir, ni penſar de
+ſuſpenderle noſotros, es lo que digo no ſe
+haga, ni ſe dexe de obrar con el, porque
+nos quedaremos bouos, y frios, y ni hare‐
+mos lo vno, ni lo otro. Que quando el Se-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1810" y="2639"/>
+	<Point x="2051" y="2639"/>
+	<Point x="2051" y="2749"/>
+	<Point x="1810" y="2749"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ñor</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="542" y="3058"/>
+	<Point x="1669" y="3058"/>
+	<Point x="1669" y="3170"/>
+	<Point x="542" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="432" y="71"/>
+	<Point x="432" y="207"/>
+	<Point x="653" y="207"/>
+	<Point x="653" y="71"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>138</Unicode></TextEquiv></TextRegion></Page></PcGts>

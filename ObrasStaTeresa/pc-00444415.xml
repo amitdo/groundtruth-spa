@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444415">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:07:25</Created>
+	<LastChange>2011-12-19T11:39:44</LastChange></Metadata>
+	<Page imageFilename="00444415.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="307" y="91"/>
+	<Point x="1485" y="91"/>
+	<Point x="1485" y="210"/>
+	<Point x="307" y="210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="149" y="214"/>
+	<Point x="1778" y="232"/>
+	<Point x="1780" y="2634"/>
+	<Point x="1143" y="2635"/>
+	<Point x="1069" y="2676"/>
+	<Point x="142" y="2658"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bajo nuero, todo lo haze Dios, que muera
+ſu Magead eas verdades, de manera que
+quedan tan imprimidas, que ſe vee claro, no
+lo pudieramos por noſotros de aquea ma-
+nera en tan breue tiempo adquirir. Quedo-
+me tan bien poco miedo a la muerte, a quien
+yo ẽpre temia mucho, aora pareceme faci-
+liſsima coſa para quien rue a Dios, por en
+vn momento ſe vee el alma libre dea car-
+cel, y puea en deſcãſo. Que ee euar Dios
+el ſpiritu, y morarle coſas tan excelentes en
+eos arrobamientos, pareceme a mi confor-
+ma mucho a quando ſale vn alma del cuer-
+po, que en vn inãte ſe vee en todo ee biẽ,
+dexemos los dolores de quando ſe arranca,
+que ay poco caſo que hazer de eos, y los
+que de veras amaren a Dios, y vuieren dado
+de mano a las coſas de ea vida, mas ſuaue-
+mente deuen de morir. Tambien me parece
+me aprouecho mucho para conocer nuera
+verdadera tierra, y ver  ſomos aca peregri-
+nos, y es gran coſa ver lo que ay aa y ſaber
+adonde hemos de biuir: porque  vno ha de
+yr a biuir de aſsiento en vna tierra, es le gran
+ayuda para paar el trabajo del camino, auer
+vio que es tierra adonde ha de ear muy a
+ſu deſcanſo. Y tambien para conderar las</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1521" y="2640"/>
+	<Point x="1701" y="2639"/>
+	<Point x="1712" y="2739"/>
+	<Point x="1523" y="2744"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>coſas</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="627" y="3071"/>
+	<Point x="1579" y="3071"/>
+	<Point x="1579" y="3156"/>
+	<Point x="627" y="3156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1517" y="108"/>
+	<Point x="1516" y="150"/>
+	<Point x="1515" y="220"/>
+	<Point x="1683" y="223"/>
+	<Point x="1685" y="107"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>489</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1168" y="2638"/>
+	<Point x="1167" y="2757"/>
+	<Point x="1417" y="2757"/>
+	<Point x="1423" y="2644"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hh 5</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444113">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T05:59:33</Created>
+	<LastChange>2011-12-19T11:39:26</LastChange></Metadata>
+	<Page imageFilename="00444113.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="365" y="33"/>
+	<Point x="1505" y="33"/>
+	<Point x="1505" y="210"/>
+	<Point x="365" y="210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="195" y="227"/>
+	<Point x="1755" y="235"/>
+	<Point x="1743" y="2618"/>
+	<Point x="1337" y="2611"/>
+	<Point x="1098" y="2630"/>
+	<Point x="1085" y="2632"/>
+	<Point x="1021" y="2613"/>
+	<Point x="185" y="2632"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mo la mia me dio el Señor oy acabando de
+comulgar ea oraciõ n poder yr adelante,
+y me puſo eas cõparaciones y enſeño la ma
+nera de dezirlo, y lo que ha de hazer aqui el
+alma, que cierto yo me eſpante, y entendi en
+vn punto. Muchas vezes eaua an como de‐
+ſatinada, y embriagada en ee amor, y jamas
+auia podido entender como era: bien enten-
+dia  era Dios, mas no podia entender como
+obraua aqui, porque en hecho de verdad eã
+ca del todo vnidas las potencias, mas no tan
+engolfadas que no obren: guado he en ere
+mo de auerlo aora entendido. Bendito ſea el
+Señor que an me ha regalado. Solo tienẽ ha
+bilidad las potencias para ocuparſe todas en
+Dios, no parece ſe oſa buir ninguna ni la
+podemos hazer menear,  con mucho eu‐
+dio no quieemos diuertirnos, y aun no me
+parece que del todo ſe podria entonces ha‐
+zer: hablanſe aqui muchas palabras en alabã
+ças de Dios n concierto,  el miſmo Señor
+no las concierta, alomenos el entendimiento
+no vale aqui nada: querria dar vozes en alabã
+ças el alma, y ea que no cabe en , vn
+deſaoſsiego ſabroſo, ya, ya ſe abrẽ las ﬂores,
+ya comiençan a dar olor, aqui querria el al‐
+ma que todos la vieen y entendieen ſu</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="signature-mark">
+	<Coords>
+	<Point x="1109" y="2633"/>
+	<Point x="1182" y="2628"/>
+	<Point x="1402" y="2638"/>
+	<Point x="1402" y="2745"/>
+	<Point x="1110" y="2745"/>
+	<Point x="1089" y="2733"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M 5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="630" y="3069"/>
+	<Point x="1565" y="3079"/>
+	<Point x="1570" y="3149"/>
+	<Point x="617" y="3145"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1562" y="75"/>
+	<Point x="1562" y="217"/>
+	<Point x="1767" y="217"/>
+	<Point x="1767" y="75"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>185</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1446" y="2627"/>
+	<Point x="1446" y="2742"/>
+	<Point x="1707" y="2742"/>
+	<Point x="1707" y="2627"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>gloria,</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442990">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T21:19:49</Created>
+	<LastChange>2011-03-15T16:51:31</LastChange></Metadata>
+	<Page imageFilename="00442990.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="552" y="70"/>
+	<Point x="552" y="186"/>
+	<Point x="1160" y="186"/>
+	<Point x="1160" y="70"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fr. Ioan de la Cruz.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1516" y="100"/>
+	<Point x="1516" y="184"/>
+	<Point x="1606" y="184"/>
+	<Point x="1606" y="100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>35</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="136" y="191"/>
+	<Point x="110" y="2643"/>
+	<Point x="766" y="2673"/>
+	<Point x="1256" y="2653"/>
+	<Point x="1626" y="2660"/>
+	<Point x="1645" y="201"/>
+	<Point x="1581" y="198"/>
+	<Point x="1173" y="208"/>
+	<Point x="441" y="201"/>
+	<Point x="176" y="181"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>?onas graves; i antes que al Venerable Padre le aviſa-
+ran coſa alguna en deſcredito de la Novicia, eſcrivio
+deſde Granada, donde era Prelado, a la Priora, que
+en todo caſo la echaſen, que no convenia para la Re-
+ligion. I a ſe vio luego, conociendoſe que era un eſpi
+ritu mui engañado del demonio. 4 Siendo el Venera-
+ble Padre Provincial, enfermò gravemente en Gua-
+dalcaçar, i llegò tan al eremo, que dixo el Medico, mo
+riria ſin duda de aquella enfermedad; pero el Profetico
+Varon reſpondio con ſoego: Padecerè mucho, mas no
+morirè dee mal; porque aun no eà la piedra acabada
+de labrar, i a fue. Rean las dos ultimas Gracias, de
+Variedad de lenguas, i Interpretacion de lenguages.
+I aunque de la primera, por no aver do neceſario ſu
+uſo, no hallamos exemplo en la vida del Siervo de
+Dios Fr. IOAN; pero de la ultima ai muchos i ma-
+ravilloſos teimonios; porque de las coſas de Dios (a
+cuya declaracion ſe ordenan eas Gracias) hablaba tã
+alta i eficazmente que ſuſpendia con ſuavima dulçu-
+ra las almas; i haziendolas olvidar de , las traſponia
+en Dios. Dexò lo que le pasò a nuera Madre ſanta
+TERESA en Avila con èl hablando del Mierio
+de la ſantima Trinidad, de que ſe ha hecho mencion
+arriba: i ſolo digo lo que ſucedia à otras muchas perſo
+nas; las cuales ſe embebian tanto en oìr aquella lengua
+del cielo, que dexaban, o dilataban muchas vezes por
+eo la comida, i otras eando en ella, ſe olvidaban de
+comer ſu pan. Por ea cauſa le llamaban unos, divino
+Encantador; otros Querubin encarnado; otros Do-
+tor Extatico; i otros Maero del Cielo, buſcan-
+do titulos i renombres, con que gnificar el poderio
+i ſuavidad de ſus dulces palabras. Otras innumerables</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="777" y="2938"/>
+	<Point x="777" y="2991"/>
+	<Point x="1415" y="2991"/>
+	<Point x="1415" y="2938"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="catch-word">
+	<Coords>
+	<Point x="1331" y="2662"/>
+	<Point x="1331" y="2748"/>
+	<Point x="1590" y="2748"/>
+	<Point x="1598" y="2675"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Gracias,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="signature-mark">
+	<Coords>
+	<Point x="935" y="2677"/>
+	<Point x="935" y="2748"/>
+	<Point x="1051" y="2748"/>
+	<Point x="1051" y="2677"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>c 2</Unicode></TextEquiv></TextRegion></Page></PcGts>

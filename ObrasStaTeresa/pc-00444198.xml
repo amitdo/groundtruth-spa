@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444198">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:40:17</Created>
+	<LastChange>2011-12-19T11:39:31</LastChange></Metadata>
+	<Page imageFilename="00444198.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r11" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="621" y="2985"/>
+	<Point x="1602" y="3002"/>
+	<Point x="1592" y="3116"/>
+	<Point x="1554" y="3170"/>
+	<Point x="600" y="3157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="926" y="101"/>
+	<Point x="978" y="107"/>
+	<Point x="1542" y="100"/>
+	<Point x="1518" y="228"/>
+	<Point x="871" y="217"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="426" y="131"/>
+	<Point x="624" y="120"/>
+	<Point x="608" y="207"/>
+	<Point x="574" y="237"/>
+	<Point x="433" y="244"/>
+	<Point x="422" y="227"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>270</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1723" y="2450"/>
+	<Point x="1723" y="2650"/>
+	<Point x="2080" y="2650"/>
+	<Point x="2080" y="2450"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="441" y="258"/>
+	<Point x="766" y="244"/>
+	<Point x="2085" y="248"/>
+	<Point x="2060" y="2379"/>
+	<Point x="1646" y="2405"/>
+	<Point x="1225" y="2377"/>
+	<Point x="1118" y="2394"/>
+	<Point x="1007" y="2434"/>
+	<Point x="430" y="2424"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tuuiera palabras, para dar a entender que
+days a los que ſe ﬁan de vos, y que pierden
+los que egan a ee eado, y ſe quedan con
+go meſmos . No quereys vos eo Señor,
+pues mas que eo hazeys vos, que os venis
+a vna poſada tan ruyn como la mia : bendito
+ſeays por empre jamas . Torno a ſuplicar a
+vueſa merced, que eas coſas que he eſcrito
+de oracion,  las tratare con perſonas ſpiri-
+tuales lo ſean, porque  no ſaben mas de vn
+camino, o ſe han quedado en el medio, no
+podran aſsi atinar, y ay algunas que deſde lue
+go las eua Dios por muy ſubido camino, y
+pareceles que an podran los otros aproue-
+char ai, y quietar el entendimiento, y no ſe
+aprouechar de medios de coſas corporeas, y
+quedar ſe han ſecos como vn palo, y algunos
+que ayan tenido vn poco de quietud, luego
+pienſan que como tienen lo vno pueden ha-
+zer lo otro, y en lugar de aprouechar deſa‐
+prouecharan como he dicho, an que
+en todo es meneer eſperiencia y
+diſcrecion, el Señor nos la
+de por ſu bondad.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r13" type="other">
+	<Coords>
+	<Point x="1192" y="2392"/>
+	<Point x="1325" y="2393"/>
+	<Point x="1369" y="2459"/>
+	<Point x="1331" y="2492"/>
+	<Point x="1185" y="2500"/>
+	<Point x="1177" y="2436"/></Coords></GraphicRegion></Page></PcGts>

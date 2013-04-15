@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442547">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T17:47:41</Created>
+	<LastChange>2012-03-12T14:12:08</LastChange></Metadata>
+	<Page imageFilename="00442547.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="392" y="74"/>
+	<Point x="1118" y="81"/>
+	<Point x="1106" y="166"/>
+	<Point x="499" y="165"/>
+	<Point x="479" y="184"/>
+	<Point x="396" y="180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="129" y="192"/>
+	<Point x="1402" y="192"/>
+	<Point x="1402" y="2174"/>
+	<Point x="103" y="2189"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que aqui rogaremos a vuero amo, y ſe lo aconſeja
+remos, y aun ſe lo pondremos en caſo de conciẽcia,
+que ſea Emperador, y no Arçobiſpo, porque le ſera
+mas facil, a cauſa de que el es mas valiente, que eu‐
+diante. Aſsi me ha parecido a mi, reſpondio Sancho,
+aunque ſe dezir, que para todo tiene abilidad, lo que
+yo pienſo hazer de mi parte, es, rogarle a nuero Se
+ñor, que le eche a aqueas partes donde el mas ſe r
+ua, y adonde a mi mas mercedes me haga. Vos lo de‐
+zis como diſcreto, dixo el cura, y lo hareys como
+buen Chriiano. Mas lo  aora ſe ha de hazer, es dar
+ordẽ como ſacar a vuero amo, de aquea inutil pe
+nitencia  dezis  queda haziendo, y para penſar el
+modo  hemos de tener, y para comer  ya es hora,
+ſera bien nos entremos en ea venta. Sancho dixo 
+entraen eos,  el eſperaria ai fuera, y  deſpues
+les diria la cauſa por no entraua, ni le conuenia en‐
+trar en ea, mas  les rogaua  le ſacaen ai algo de
+comer,  fuee coſa caliẽte, y an miſmo ceuada pa
+ra Rozinãte. Eos ſe entraron y le dexarõ, y de ai a
+poco, el barbero le ſacô de comer. Deſpues auiẽdo
+bien penſado entre los dos, el modo  tendrian para
+cõſeguir lo  deeauã, vino el cura en vn penſamiẽ-
+to muy acomodado al guo de don Quixote, y para
+lo  eos querian. Y fue,  dixo al barbero,  lo que
+auia penſado era,  el ſe veiria en habito de dõzea
+andãte, y  el procurae poner ſe lo mejor  pudieſ-
+ſe, como eſcudero, y  aſsi yrian adõde dõ Quixote
+eaua: ﬁngiendo ſer ea vna donzea aﬂigida, y me
+neeroſa, y le pediria vn dõ, el qual el no podria de-
+xarſele de otorgar, como valeroſo cauaero andan
+te. Y que el don  le penſaua pedir era,  ſe viniee</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1224" y="2188"/>
+	<Point x="1358" y="2185"/>
+	<Point x="1366" y="2233"/>
+	<Point x="1222" y="2235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>con</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="439" y="2285"/>
+	<Point x="1158" y="2285"/>
+	<Point x="1158" y="2364"/>
+	<Point x="439" y="2364"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1282" y="86"/>
+	<Point x="1282" y="179"/>
+	<Point x="1398" y="179"/>
+	<Point x="1398" y="86"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>136</Unicode></TextEquiv></TextRegion></Page></PcGts>

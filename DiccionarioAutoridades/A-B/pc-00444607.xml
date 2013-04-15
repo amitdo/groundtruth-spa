@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444607">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T06:49:32</Created>
+	<LastChange>2011-03-18T06:44:13</LastChange></Metadata>
+	<Page imageFilename="00444607.tif" imageWidth="2613" imageHeight="3944">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r38" index="0"/>
+	<RegionRefIndexed regionRef="r39" index="1"/>
+	<RegionRefIndexed regionRef="r40" index="2"/>
+	<RegionRefIndexed regionRef="r43" index="3"/>
+	<RegionRefIndexed regionRef="r44" index="4"/>
+	<RegionRefIndexed regionRef="r45" index="5"/>
+	<RegionRefIndexed regionRef="r47" index="6"/>
+	<RegionRefIndexed regionRef="r46" index="7"/>
+	<RegionRefIndexed regionRef="r48" index="8"/>
+	<RegionRefIndexed regionRef="r49" index="9"/>
+	<RegionRefIndexed regionRef="r50" index="10"/>
+	<RegionRefIndexed regionRef="r51" index="11"/>
+	<RegionRefIndexed regionRef="r65" index="12"/>
+	<RegionRefIndexed regionRef="r64" index="13"/>
+	<RegionRefIndexed regionRef="r63" index="14"/>
+	<RegionRefIndexed regionRef="r62" index="15"/>
+	<RegionRefIndexed regionRef="r61" index="16"/>
+	<RegionRefIndexed regionRef="r60" index="17"/>
+	<RegionRefIndexed regionRef="r59" index="18"/>
+	<RegionRefIndexed regionRef="r58" index="19"/>
+	<RegionRefIndexed regionRef="r57" index="20"/>
+	<RegionRefIndexed regionRef="r56" index="21"/>
+	<RegionRefIndexed regionRef="r55" index="22"/>
+	<RegionRefIndexed regionRef="r54" index="23"/>
+	<RegionRefIndexed regionRef="r53" index="24"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r35" type="header">
+	<Coords>
+	<Point x="795" y="195"/>
+	<Point x="792" y="280"/>
+	<Point x="970" y="280"/>
+	<Point x="970" y="224"/>
+	<Point x="973" y="202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABR</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="page-number">
+	<Coords>
+	<Point x="439" y="243"/>
+	<Point x="439" y="297"/>
+	<Point x="539" y="297"/>
+	<Point x="539" y="243"/>
+	<Point x="502" y="237"/>
+	<Point x="453" y="236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>24</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="header">
+	<Coords>
+	<Point x="1846" y="187"/>
+	<Point x="1846" y="260"/>
+	<Point x="2024" y="260"/>
+	<Point x="2024" y="187"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABR</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords>
+	<Point x="453" y="300"/>
+	<Point x="450" y="343"/>
+	<Point x="889" y="336"/>
+	<Point x="896" y="344"/>
+	<Point x="910" y="336"/>
+	<Point x="934" y="335"/>
+	<Point x="952" y="335"/>
+	<Point x="957" y="341"/>
+	<Point x="974" y="345"/>
+	<Point x="985" y="331"/>
+	<Point x="1007" y="333"/>
+	<Point x="1022" y="344"/>
+	<Point x="1044" y="335"/>
+	<Point x="1053" y="344"/>
+	<Point x="1067" y="346"/>
+	<Point x="1085" y="330"/>
+	<Point x="1170" y="331"/>
+	<Point x="1170" y="302"/>
+	<Point x="1142" y="278"/>
+	<Point x="1064" y="285"/>
+	<Point x="825" y="291"/>
+	<Point x="808" y="301"/>
+	<Point x="792" y="291"/>
+	<Point x="776" y="301"/>
+	<Point x="671" y="301"/>
+	<Point x="660" y="292"/>
+	<Point x="642" y="301"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Locus muris non cinus, neque ſeptus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="397" y="349"/>
+	<Point x="396" y="398"/>
+	<Point x="450" y="402"/>
+	<Point x="443" y="608"/>
+	<Point x="453" y="850"/>
+	<Point x="528" y="850"/>
+	<Point x="534" y="862"/>
+	<Point x="548" y="861"/>
+	<Point x="548" y="849"/>
+	<Point x="625" y="848"/>
+	<Point x="630" y="860"/>
+	<Point x="638" y="864"/>
+	<Point x="647" y="859"/>
+	<Point x="650" y="848"/>
+	<Point x="667" y="848"/>
+	<Point x="688" y="866"/>
+	<Point x="709" y="851"/>
+	<Point x="761" y="850"/>
+	<Point x="769" y="859"/>
+	<Point x="781" y="858"/>
+	<Point x="790" y="847"/>
+	<Point x="849" y="846"/>
+	<Point x="854" y="856"/>
+	<Point x="868" y="856"/>
+	<Point x="874" y="846"/>
+	<Point x="1140" y="843"/>
+	<Point x="1145" y="805"/>
+	<Point x="1404" y="796"/>
+	<Point x="1399" y="322"/>
+	<Point x="1228" y="327"/>
+	<Point x="1151" y="341"/>
+	<Point x="1128" y="335"/>
+	<Point x="1102" y="348"/>
+	<Point x="972" y="348"/>
+	<Point x="961" y="344"/>
+	<Point x="951" y="348"/>
+	<Point x="857" y="348"/>
+	<Point x="850" y="343"/>
+	<Point x="834" y="350"/>
+	<Point x="650" y="344"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Reo abierto. El que tiene alguno, ſuperiór em-
+pre al que tienen los demás que juegan: eo es,
+que empre gana ò pierde el mayór reo que
+huviere. Lat. Ludo ſumma quacumque ne ua
+ſumm limitatione conténdere, certare. Cov. en la
+palabra Abierto. Reo abierto ſe dice, quando
+el que juega, tiene libertád de hacer el reo
+que quiere. ESTEB. fol. 186. Jugué n miedo, co-
+mo quien tenía reo abierto, y baantes carrí-
+os para pagar qualquier cantidád.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords>
+	<Point x="397" y="856"/>
+	<Point x="397" y="908"/>
+	<Point x="449" y="913"/>
+	<Point x="451" y="1310"/>
+	<Point x="788" y="1302"/>
+	<Point x="792" y="1316"/>
+	<Point x="808" y="1320"/>
+	<Point x="813" y="1303"/>
+	<Point x="1061" y="1301"/>
+	<Point x="1158" y="1298"/>
+	<Point x="1183" y="1312"/>
+	<Point x="1191" y="1310"/>
+	<Point x="1203" y="1298"/>
+	<Point x="1240" y="1296"/>
+	<Point x="1241" y="1304"/>
+	<Point x="1251" y="1304"/>
+	<Point x="1258" y="1298"/>
+	<Point x="1412" y="1292"/>
+	<Point x="1404" y="827"/>
+	<Point x="1157" y="829"/>
+	<Point x="1142" y="856"/>
+	<Point x="953" y="856"/>
+	<Point x="942" y="850"/>
+	<Point x="926" y="856"/>
+	<Point x="873" y="857"/>
+	<Point x="863" y="857"/>
+	<Point x="807" y="856"/>
+	<Point x="788" y="858"/>
+	<Point x="774" y="864"/>
+	<Point x="759" y="855"/>
+	<Point x="709" y="853"/>
+	<Point x="687" y="869"/>
+	<Point x="657" y="857"/>
+	<Point x="656" y="859"/>
+	<Point x="639" y="869"/>
+	<Point x="621" y="859"/>
+	<Point x="578" y="859"/>
+	<Point x="569" y="856"/>
+	<Point x="559" y="856"/>
+	<Point x="541" y="866"/>
+	<Point x="536" y="875"/>
+	<Point x="526" y="875"/>
+	<Point x="527" y="864"/>
+	<Point x="516" y="858"/>
+	<Point x="509" y="870"/>
+	<Point x="477" y="871"/>
+	<Point x="469" y="856"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vér el Cielo abierto. Phraſe con que ſe gniﬁca,
+que n eſperarlo, por algun accidente ò camino,
+ſe ſalió de algun trabájo ò aprieto, ò ſucedió al-
+guna coſa mui favorable. Lat. In gentem ſubitò
+aﬀulgere ſpem rei conſequend, potiund, &amp;c. CA-
+LIXT. Y MELIB. fol. 144. Y veria él los Cielos abier-
+tos en tornarle yo à hablar y mandar. QUEV.
+Tac. cap. 12. Yo ví el Cielo abierto y en ſon de
+entretenimiento para el camino le rogué, &amp;c.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="410" y="1314"/>
+	<Point x="409" y="1360"/>
+	<Point x="457" y="1365"/>
+	<Point x="456" y="1563"/>
+	<Point x="572" y="1563"/>
+	<Point x="579" y="1520"/>
+	<Point x="1411" y="1506"/>
+	<Point x="1412" y="1302"/>
+	<Point x="1273" y="1305"/>
+	<Point x="1236" y="1306"/>
+	<Point x="1231" y="1311"/>
+	<Point x="1215" y="1312"/>
+	<Point x="1211" y="1303"/>
+	<Point x="1202" y="1303"/>
+	<Point x="1189" y="1316"/>
+	<Point x="1172" y="1307"/>
+	<Point x="1151" y="1304"/>
+	<Point x="1060" y="1307"/>
+	<Point x="979" y="1309"/>
+	<Point x="834" y="1312"/>
+	<Point x="815" y="1315"/>
+	<Point x="809" y="1324"/>
+	<Point x="801" y="1324"/>
+	<Point x="786" y="1313"/>
+	<Point x="771" y="1313"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABROCHADURA (Abrochaúra.) ſ. f. La obra
+ò accion de abrocharſe. Es verbal del verbo
+Abrochar; pero de poco, ò ningun uſo, aunque
+le trahe Nebrixa en ſu vocabulario. Lat. Stric-
+túra.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords>
+	<Point x="412" y="1568"/>
+	<Point x="412" y="1618"/>
+	<Point x="464" y="1622"/>
+	<Point x="464" y="1920"/>
+	<Point x="475" y="1928"/>
+	<Point x="484" y="1929"/>
+	<Point x="487" y="1917"/>
+	<Point x="582" y="1918"/>
+	<Point x="583" y="1927"/>
+	<Point x="596" y="1931"/>
+	<Point x="612" y="1926"/>
+	<Point x="613" y="1919"/>
+	<Point x="636" y="1920"/>
+	<Point x="736" y="1920"/>
+	<Point x="744" y="1874"/>
+	<Point x="1417" y="1869"/>
+	<Point x="1410" y="1553"/>
+	<Point x="598" y="1555"/>
+	<Point x="581" y="1568"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABROCHAMIENTO. ſ.m. Término antiguo y
+n uſo, que equivale à la accion de abroquelar-
+ſe y defenderſe. Lat. Sub ſcuto, aut parma pro-
+teio, obteio. CHRON. GEN. fol. 388. Efueron-
+ſe par de él de la una parte el camino, è de la
+otra faciendo ademánes è ſus abrochamientos una
+pieza grande.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords>
+	<Point x="417" y="1926"/>
+	<Point x="417" y="1975"/>
+	<Point x="468" y="1976"/>
+	<Point x="462" y="2231"/>
+	<Point x="952" y="2222"/>
+	<Point x="1267" y="2223"/>
+	<Point x="1283" y="2223"/>
+	<Point x="1424" y="2219"/>
+	<Point x="1417" y="1907"/>
+	<Point x="761" y="1913"/>
+	<Point x="755" y="1924"/>
+	<Point x="631" y="1925"/>
+	<Point x="612" y="1927"/>
+	<Point x="596" y="1932"/>
+	<Point x="574" y="1925"/>
+	<Point x="492" y="1925"/>
+	<Point x="484" y="1930"/>
+	<Point x="472" y="1929"/>
+	<Point x="456" y="1925"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABROCHAR. v. a. Aegurar, ò cerrar el veido,
+ù otra coſa con broches, cordónes, ò hebias.
+Es voz compuea de la particula A, y del nom-
+bre Broche. Lat. Veem ﬁbulis néere, ringe-
+re. AMBR. MOR. tom. 1. fol. 89. Que ſe abrochaba
+con un corchete ò hebia. GONG. Rom.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="paragraph">
+	<Coords>
+	<Point x="418" y="2432"/>
+	<Point x="416" y="2483"/>
+	<Point x="475" y="2490"/>
+	<Point x="473" y="2581"/>
+	<Point x="648" y="2577"/>
+	<Point x="655" y="2588"/>
+	<Point x="665" y="2588"/>
+	<Point x="676" y="2579"/>
+	<Point x="799" y="2578"/>
+	<Point x="813" y="2589"/>
+	<Point x="830" y="2578"/>
+	<Point x="993" y="2577"/>
+	<Point x="997" y="2544"/>
+	<Point x="1415" y="2540"/>
+	<Point x="1418" y="2431"/>
+	<Point x="1030" y="2431"/>
+	<Point x="1018" y="2445"/>
+	<Point x="872" y="2435"/>
+	<Point x="723" y="2435"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABROCHADO, DA. part. paſ. del verbo Abro-
+char. Aegurado y aﬁrmado con broches. Lat.
+Fibulis adrius, innexus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords>
+	<Point x="673" y="2232"/>
+	<Point x="668" y="2429"/>
+	<Point x="973" y="2424"/>
+	<Point x="978" y="2439"/>
+	<Point x="1009" y="2441"/>
+	<Point x="1023" y="2425"/>
+	<Point x="1160" y="2426"/>
+	<Point x="1160" y="2236"/>
+	<Point x="1124" y="2228"/>
+	<Point x="961" y="2228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sus extremos abrochaba,
+digo ſus margenes breves,
+con un alamar de plata
+una bien labrada puente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords>
+	<Point x="421" y="2587"/>
+	<Point x="421" y="2638"/>
+	<Point x="465" y="2639"/>
+	<Point x="474" y="2736"/>
+	<Point x="581" y="2736"/>
+	<Point x="587" y="2740"/>
+	<Point x="597" y="2735"/>
+	<Point x="601" y="2744"/>
+	<Point x="610" y="2745"/>
+	<Point x="625" y="2732"/>
+	<Point x="1012" y="2731"/>
+	<Point x="1085" y="2728"/>
+	<Point x="1095" y="2740"/>
+	<Point x="1121" y="2741"/>
+	<Point x="1128" y="2731"/>
+	<Point x="1203" y="2733"/>
+	<Point x="1238" y="2688"/>
+	<Point x="1425" y="2691"/>
+	<Point x="1420" y="2566"/>
+	<Point x="1015" y="2562"/>
+	<Point x="1014" y="2584"/>
+	<Point x="828" y="2584"/>
+	<Point x="812" y="2593"/>
+	<Point x="795" y="2584"/>
+	<Point x="678" y="2583"/>
+	<Point x="665" y="2589"/>
+	<Point x="655" y="2589"/>
+	<Point x="641" y="2585"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABROGACION (Abrogación.) ſ. f. Lo miſmo
+que derogación y revocación. Es término fo-
+renſe, y tomado del Latino Abrogatio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords>
+	<Point x="424" y="2743"/>
+	<Point x="421" y="2800"/>
+	<Point x="471" y="2803"/>
+	<Point x="472" y="3193"/>
+	<Point x="670" y="3192"/>
+	<Point x="672" y="3204"/>
+	<Point x="686" y="3203"/>
+	<Point x="686" y="3194"/>
+	<Point x="813" y="3195"/>
+	<Point x="824" y="3155"/>
+	<Point x="1437" y="3157"/>
+	<Point x="1436" y="2734"/>
+	<Point x="1217" y="2734"/>
+	<Point x="1192" y="2745"/>
+	<Point x="1080" y="2745"/>
+	<Point x="1071" y="2739"/>
+	<Point x="1063" y="2737"/>
+	<Point x="1000" y="2737"/>
+	<Point x="1000" y="2743"/>
+	<Point x="819" y="2741"/>
+	<Point x="620" y="2742"/>
+	<Point x="610" y="2747"/>
+	<Point x="594" y="2743"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABROGAR, v.a. Revocar ù derogar lo que por
+ley, ò privilégio eaba concedido. Es voz foren-
+ſe, y viene del Latino Abrogáre. Lat. Reſcíndere.
+FR. LUIS DE GRAN. Symb. part. 5. trat. 2. cap. 16.
+Abrogando las leyes antiguas de ſus mayores.
+NAVARRET. Conſerv. Diſc. 38. El Emperador
+Tibério, referido por Tácito, decía, que unas
+leyes ſe abrogaban con la antigüedád, y otras
+con el deſprécio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="paragraph">
+	<Coords>
+	<Point x="431" y="3200"/>
+	<Point x="431" y="3255"/>
+	<Point x="476" y="3255"/>
+	<Point x="480" y="3448"/>
+	<Point x="625" y="3450"/>
+	<Point x="641" y="3412"/>
+	<Point x="1436" y="3412"/>
+	<Point x="1443" y="3193"/>
+	<Point x="1227" y="3194"/>
+	<Point x="691" y="3198"/>
+	<Point x="688" y="3205"/>
+	<Point x="671" y="3205"/>
+	<Point x="668" y="3200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABROGADO, DA. part. paſ. Revocado, ù dero-
+gado. Lat. Abrogatus. Reſcius. Obliteratus. PE-
+LLIC. Argen. part. 2. fol. 126. Abrogada en ea
+forma la ley Sálica Ambiodorige tyranizó el
+Reino.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="paragraph">
+	<Coords>
+	<Point x="435" y="3453"/>
+	<Point x="435" y="3505"/>
+	<Point x="482" y="3506"/>
+	<Point x="483" y="3664"/>
+	<Point x="1437" y="3674"/>
+	<Point x="1439" y="3442"/>
+	<Point x="635" y="3454"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABROJO. ſ. m. El fruto que dá la planta, amada
+Tríbulo, por las tres puntas que produce en el
+abrójo. Ee de qualquier ſuerte que caiga, le-
+vanta en alto una punta agúda, Parece puede</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="credit">
+	<Coords>
+	<Point x="814" y="3841"/>
+	<Point x="814" y="3924"/>
+	<Point x="1787" y="3924"/>
+	<Point x="1787" y="3841"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="catch-word">
+	<Coords>
+	<Point x="2378" y="3660"/>
+	<Point x="2378" y="3709"/>
+	<Point x="2497" y="3709"/>
+	<Point x="2497" y="3660"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>otro</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r54" type="paragraph">
+	<Coords>
+	<Point x="1481" y="3600"/>
+	<Point x="1478" y="3651"/>
+	<Point x="1843" y="3653"/>
+	<Point x="2207" y="3654"/>
+	<Point x="2232" y="3665"/>
+	<Point x="2252" y="3654"/>
+	<Point x="2415" y="3655"/>
+	<Point x="2490" y="3651"/>
+	<Point x="2490" y="3595"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABROTANO. ſ.m. Planta bien conocida, por</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r55" type="paragraph">
+	<Coords>
+	<Point x="1485" y="3448"/>
+	<Point x="1485" y="3505"/>
+	<Point x="1528" y="3595"/>
+	<Point x="1661" y="3595"/>
+	<Point x="1677" y="3562"/>
+	<Point x="2490" y="3561"/>
+	<Point x="2489" y="3439"/>
+	<Point x="2179" y="3437"/>
+	<Point x="2163" y="3448"/>
+	<Point x="1972" y="3446"/>
+	<Point x="1963" y="3452"/>
+	<Point x="1931" y="3450"/>
+	<Point x="1929" y="3444"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABROQUELADO, DA. part. paſ. de ee verbo
+en ambas acepciones. Lat. Proteus, a, um. Mu-
+nitus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r56" type="paragraph">
+	<Coords>
+	<Point x="1477" y="2985"/>
+	<Point x="1477" y="3034"/>
+	<Point x="1527" y="3037"/>
+	<Point x="1535" y="3443"/>
+	<Point x="1937" y="3438"/>
+	<Point x="1939" y="3449"/>
+	<Point x="1962" y="3450"/>
+	<Point x="1975" y="3439"/>
+	<Point x="2161" y="3438"/>
+	<Point x="2185" y="3396"/>
+	<Point x="2496" y="3403"/>
+	<Point x="2509" y="2992"/>
+	<Point x="2433" y="2983"/>
+	<Point x="1829" y="2985"/>
+	<Point x="1814" y="2996"/>
+	<Point x="1544" y="2997"/>
+	<Point x="1519" y="2985"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABROQUELARSE. Vale por translación ampararſe,
+defenderſe, eſcudarſe, tomando el reſgúardo
+conveniente, para ear, ò quedar aegurado en
+las ocaones de aprieto y empeño: como ſuce-
+de en un lance de honór, acogiendoſe al ampa-
+ro de perſona de autoridad: ò en el aprieto y
+erecho de alguna qüeion ò duda, valiendoſe
+de algunas razones, ò argumentos conducentes
+al intento. Lat. Prótegi. Se tueri.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r57" type="paragraph">
+	<Coords>
+	<Point x="1477" y="2681"/>
+	<Point x="1477" y="2732"/>
+	<Point x="1521" y="2732"/>
+	<Point x="1512" y="2979"/>
+	<Point x="1548" y="2982"/>
+	<Point x="1724" y="2979"/>
+	<Point x="1728" y="2992"/>
+	<Point x="1755" y="2991"/>
+	<Point x="1762" y="2979"/>
+	<Point x="2234" y="2978"/>
+	<Point x="2240" y="2936"/>
+	<Point x="2477" y="2936"/>
+	<Point x="2479" y="2656"/>
+	<Point x="1959" y="2658"/>
+	<Point x="1931" y="2679"/>
+	<Point x="1700" y="2683"/>
+	<Point x="1550" y="2682"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABROQUELARSE. v.r. Cubrirſe con el broquél
+para no ſer ofendido. Es voz compuea de la
+partícula A, y del nombre Broquél. Lat. Clypeo
+ſe protégere. Tutari ſe parma, aut ſcuto. PIC. JUST.
+fol. 73. Aun ahóra no me parece que he acabá-
+do de abroquelarme de ſus eocádas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r58" type="paragraph">
+	<Coords>
+	<Point x="1476" y="2526"/>
+	<Point x="1474" y="2573"/>
+	<Point x="1527" y="2575"/>
+	<Point x="1515" y="2677"/>
+	<Point x="1527" y="2680"/>
+	<Point x="1544" y="2680"/>
+	<Point x="1552" y="2671"/>
+	<Point x="1635" y="2672"/>
+	<Point x="1636" y="2679"/>
+	<Point x="1651" y="2679"/>
+	<Point x="1656" y="2672"/>
+	<Point x="1709" y="2674"/>
+	<Point x="1714" y="2681"/>
+	<Point x="1725" y="2681"/>
+	<Point x="1744" y="2673"/>
+	<Point x="1778" y="2679"/>
+	<Point x="1917" y="2676"/>
+	<Point x="1944" y="2641"/>
+	<Point x="2474" y="2628"/>
+	<Point x="2492" y="2602"/>
+	<Point x="2470" y="2521"/>
+	<Point x="2010" y="2518"/>
+	<Point x="1724" y="2523"/>
+	<Point x="1712" y="2530"/>
+	<Point x="1691" y="2531"/>
+	<Point x="1685" y="2525"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABROMADO, DA. part. paſ. del verbo Abromar.
+Lo que eá con broma, ó la tiene. Lat. Carie con-
+feus, exeſus, a, um.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r59" type="paragraph">
+	<Coords>
+	<Point x="1472" y="2321"/>
+	<Point x="1473" y="2368"/>
+	<Point x="1521" y="2371"/>
+	<Point x="1518" y="2519"/>
+	<Point x="1687" y="2519"/>
+	<Point x="1694" y="2530"/>
+	<Point x="1709" y="2529"/>
+	<Point x="1722" y="2519"/>
+	<Point x="1877" y="2519"/>
+	<Point x="1886" y="2483"/>
+	<Point x="2482" y="2483"/>
+	<Point x="2485" y="2312"/>
+	<Point x="1668" y="2321"/>
+	<Point x="1666" y="2328"/>
+	<Point x="1646" y="2327"/>
+	<Point x="1645" y="2317"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABROMARSE. v.r. Término náutico. Lo miſmo
+que enarſe de broma el navío. Es voz com-
+puea de la partícula A, y del nombre Broma.
+Lat. Cónﬁci carie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r60" type="paragraph">
+	<Coords>
+	<Point x="1469" y="1957"/>
+	<Point x="1469" y="2017"/>
+	<Point x="1517" y="2017"/>
+	<Point x="1521" y="2315"/>
+	<Point x="1647" y="2315"/>
+	<Point x="1649" y="2326"/>
+	<Point x="1664" y="2327"/>
+	<Point x="1668" y="2315"/>
+	<Point x="1900" y="2315"/>
+	<Point x="1914" y="2282"/>
+	<Point x="2485" y="2277"/>
+	<Point x="2495" y="1953"/>
+	<Point x="2120" y="1961"/>
+	<Point x="2105" y="1969"/>
+	<Point x="2096" y="1961"/>
+	<Point x="2083" y="1967"/>
+	<Point x="2051" y="1962"/>
+	<Point x="1989" y="1963"/>
+	<Point x="1972" y="1973"/>
+	<Point x="1954" y="1964"/>
+	<Point x="1876" y="1966"/>
+	<Point x="1851" y="1962"/>
+	<Point x="1706" y="1964"/>
+	<Point x="1681" y="1959"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABROJO. Los Navegantes Eſpañóles han dado ee
+nombre à diverſos paráges del mar, enos de
+ocúltos eſcóos. Lat. Syrtes, um. Brevia, um. La-
+tentes ſcopuli. ARGENS. Maluc. lib. 4. fol. 173.
+Apartabanſe quanto podian de la tierra, por no
+dar en los abrójos ò ſyrtes, de que abunda mu-
+cho aquea Coa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r61" type="paragraph">
+	<Coords>
+	<Point x="1714" y="1760"/>
+	<Point x="1721" y="1955"/>
+	<Point x="1957" y="1953"/>
+	<Point x="1972" y="1969"/>
+	<Point x="1995" y="1953"/>
+	<Point x="2060" y="1952"/>
+	<Point x="2062" y="1960"/>
+	<Point x="2074" y="1964"/>
+	<Point x="2084" y="1965"/>
+	<Point x="2097" y="1959"/>
+	<Point x="2105" y="1966"/>
+	<Point x="2123" y="1958"/>
+	<Point x="2236" y="1951"/>
+	<Point x="2233" y="1748"/>
+	<Point x="1919" y="1746"/>
+	<Point x="1891" y="1769"/>
+	<Point x="1806" y="1771"/>
+	<Point x="1794" y="1760"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mas que todos los abrójos
+me laimarán los ciegos
+con aquel ſaca Pilatos,
+dicho à voces y con geos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r62" type="paragraph">
+	<Coords>
+	<Point x="1458" y="1451"/>
+	<Point x="1458" y="1498"/>
+	<Point x="1521" y="1501"/>
+	<Point x="1516" y="1757"/>
+	<Point x="1811" y="1755"/>
+	<Point x="1821" y="1766"/>
+	<Point x="1842" y="1767"/>
+	<Point x="1842" y="1755"/>
+	<Point x="1880" y="1754"/>
+	<Point x="1889" y="1705"/>
+	<Point x="2468" y="1719"/>
+	<Point x="2470" y="1445"/>
+	<Point x="2315" y="1441"/>
+	<Point x="2293" y="1451"/>
+	<Point x="2208" y="1448"/>
+	<Point x="2067" y="1450"/>
+	<Point x="2066" y="1451"/>
+	<Point x="2031" y="1453"/>
+	<Point x="1988" y="1447"/>
+	<Point x="1747" y="1453"/>
+	<Point x="1545" y="1455"/>
+	<Point x="1513" y="1451"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABROJO. Se ama tambien el que ſe hace de plata
+ú de otra matéria, de la miſma hechúra y tamá-
+ño que el campesíno. Uſan dél los diciplinantes,
+poniendole en el ramál ò azote, para que ſalga
+la ſangre con abundáncia. Lat. Tribulus, i. QUEV.
+Muſ. 6. Rom. 48.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r63" type="paragraph">
+	<Coords>
+	<Point x="1463" y="887"/>
+	<Point x="1462" y="940"/>
+	<Point x="1514" y="940"/>
+	<Point x="1512" y="1446"/>
+	<Point x="1740" y="1445"/>
+	<Point x="1750" y="1451"/>
+	<Point x="1777" y="1445"/>
+	<Point x="2032" y="1440"/>
+	<Point x="2037" y="1451"/>
+	<Point x="2057" y="1450"/>
+	<Point x="2059" y="1441"/>
+	<Point x="2295" y="1444"/>
+	<Point x="2313" y="1406"/>
+	<Point x="2483" y="1399"/>
+	<Point x="2487" y="875"/>
+	<Point x="2237" y="884"/>
+	<Point x="2142" y="884"/>
+	<Point x="2128" y="899"/>
+	<Point x="2112" y="885"/>
+	<Point x="2106" y="884"/>
+	<Point x="1928" y="888"/>
+	<Point x="1918" y="898"/>
+	<Point x="1901" y="899"/>
+	<Point x="1885" y="887"/>
+	<Point x="1863" y="896"/>
+	<Point x="1833" y="900"/>
+	<Point x="1821" y="901"/>
+	<Point x="1797" y="888"/>
+	<Point x="1716" y="890"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABROJO. Tambien se ama aſsi el que artiﬁcial-
+mente ſe hace de hierro de la miſma hechúra
+que el campesíno. Sirven eos para ſembrarlos
+en los paráges, por donde ſe quiere impedir que
+pae la cabaería: y es ardíd de guerra, de que
+ſe uſó mucho antiguamente. Lat. Tribulus. Mu-
+rex ferreus. CHRON. GEN. fol. 356. Los Moros
+echaron muchos abrójos de ﬁerro por los camí-
+nos. GRAC. Mor. fol. 21. Aconſejóle Polibio,
+que en el mar que eaba en medio, que no era
+mui hondo, ſembrae abrójos de hierro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r64" type="paragraph">
+	<Coords>
+	<Point x="1719" y="779"/>
+	<Point x="1714" y="882"/>
+	<Point x="1798" y="878"/>
+	<Point x="1804" y="887"/>
+	<Point x="1814" y="893"/>
+	<Point x="1831" y="896"/>
+	<Point x="1844" y="893"/>
+	<Point x="1846" y="882"/>
+	<Point x="2112" y="880"/>
+	<Point x="2127" y="893"/>
+	<Point x="2141" y="877"/>
+	<Point x="2196" y="878"/>
+	<Point x="2194" y="780"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>... Y manda à la tierra
+correſponder con abrójos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r65" type="paragraph">
+	<Coords>
+	<Point x="1488" y="271"/>
+	<Point x="1501" y="785"/>
+	<Point x="1679" y="784"/>
+	<Point x="1696" y="743"/>
+	<Point x="2486" y="742"/>
+	<Point x="2484" y="260"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tomar origen ea palabra de Abre el ojo, por el
+cuidado que ha meneer tener el que anda en
+el campo, para no clavarſe en eos: y deſpues
+ncopádò ſe dixo Abrójo. Lat. Tribulus. LAG.
+Dioſc. lib. 4. cap. 16. El tríbulo terrere no diﬁe-
+re de los abrójos. SAAV. Empr. 71. El Templo de
+la gloria no eá en vae améno, no en la cum-
+bre de un monte, adonde ſe ſube por áſperos
+ſendéros entre abrójos y eſpinas. DAV. Pa. E. 6.
+Cant. 2.</Unicode></TextEquiv></TextRegion></Page></PcGts>

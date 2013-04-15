@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485119">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T11:15:04</Created>
+	<LastChange>2011-05-12T13:40:56</LastChange></Metadata>
+	<Page imageFilename="00485119.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="804" y="142"/>
+	<Point x="1249" y="139"/>
+	<Point x="1248" y="220"/>
+	<Point x="804" y="221"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="629" y="3028"/>
+	<Point x="1388" y="3028"/>
+	<Point x="1388" y="3089"/>
+	<Point x="629" y="3089"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="536" y="228"/>
+	<Point x="1683" y="228"/>
+	<Point x="1683" y="2745"/>
+	<Point x="536" y="2745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D' acudir por ſu parte, en tal jornada.
+Todos fueron en ſon d'alegre ﬁea:
+Ceñidas ſus cabeças d'arrayanes,
+Diuerdad de ﬂores eſpatziendo,
+Flores, que Amor, y amores inﬂuyan.
+Los mancebos en quien la ſangre hierue,
+Dela ſolenidad curauan poco,
+No curauan no delas mugeres.
+Vian entrar las vnas, y las otras:
+Delas vnas notauan hermoſura:
+Delas otras notauan otras gracias.
+Eos eando ai, veys donde aoma
+Por la mas principal puerta del templo,
+Hero la virgen generoſa, iure,
+Entraua con ſus rayos d'hermoſura,
+A ca, y aa mil gracias deſcubriendo:
+Mil gracias, que'ncubrir no ſe podian.
+Como ſalir la blanca aurora ſuele,
+Con ſu color las roſas imitando,
+Y el oro ﬁgurando en ſus cabeos:
+Y al ſu ſalir las gentes s'alboroçan,
+Y empieçan a ſentir nueua alegria,
+Renouando ſe en ſus viejos trabajos,
+Ai ſalio la virgen, quando entraua,
+Por el templo de Venus, y ai iua,
+Haziendo'ar atentos mil ſentidos.
+Mouia con ſu geo, y refrenaua
+Quantos eran ai: y en vn momento
+Contrarios acidentes produzia.
+En ſu cuerpo ſu alma ſe moraua:</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r8">
+	<Coords>
+	<Point x="1257" y="147"/>
+	<Point x="1257" y="222"/>
+	<Point x="1385" y="222"/>
+	<Point x="1385" y="147"/></Coords></GraphicRegion></Page></PcGts>

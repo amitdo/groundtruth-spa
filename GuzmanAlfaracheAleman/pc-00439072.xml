@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439072">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T13:56:50</Created>
+	<LastChange>2010-12-28T05:18:07</LastChange></Metadata>
+	<Page imageFilename="00439072.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="491" y="112"/>
+	<Point x="1435" y="114"/>
+	<Point x="1437" y="203"/>
+	<Point x="505" y="199"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="260" y="216"/>
+	<Point x="407" y="212"/>
+	<Point x="1701" y="208"/>
+	<Point x="1714" y="2619"/>
+	<Point x="1517" y="2626"/>
+	<Point x="1476" y="2649"/>
+	<Point x="1066" y="2660"/>
+	<Point x="299" y="2637"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>es de lo que me rio:  vays ee viage, ſubì en un jumento
+deos, dirè os por el camino lo que paa. Yo ſe lo agra-
+decì, ſegun lo avia meneer, rindiendole las palabras que
+me parecieron baar por ſuﬁciente paga, que à buenas
+obras pagan buenas palabras, quando no ay otra moneda,
+y el deudor eà neceſtado. Con eo, aunque mal gi-
+nete de albarda, me pareciò aqueo a de manos, litera
+ò carroça de quatro cavaos: porque el ſocorro en la ne-
+ceſdad, aunque ſea poco ayuda mucho, y una niñeria
+ſuple inﬁnito. Es como pequeña piedra arrojada en agua
+clara, que haze cercos muchos y grandes, y entonces es
+mas de eimar, quando viene à buena coyuntura, aun-
+que empre ega bien, y no tarda,  viene. Vì el cielo a-
+bierto, el me pareciò un Ángel, tal ſe me repreſentò ſu
+cara, como la del deeado Medico al enfermo. Digo, deſ-
+ſeado, porque como avràs oydo dezir, tiene tres caras el
+Medico; de hombre, quando lo vemos, y no lo avemos
+meneer; de Angel, quando del tenemos neceſdad; y
+de diablo, quando ſe acaban à un tiempo la enfermedad
+y la bolſa, y el por ſu interes perſevera en vitar: como
+ſucediò à un cavaero en Madrid, que aviendo amado
+ã uno para cierta enfermedad, le dava un eſcudo à cada
+vita. El humor ſe acabò, y el no de deſpedirſe. Viendo-
+ſe ſano el cavaero, y que porﬁava en vitarle, ſe levan-
+tò una mañana, y fuee à la Iglea. Como el Medico lo
+Viniee à vitar y no lo haae en caſa, preguntò à don-
+de avia ydo: No faltò un criado tonto (que para el daño
+empre ſobran, y para el provecho todos faltan) que le
+dixo donde eava en Mia. El ſeñor Door, eſpolean-
+do à priea ſu mula, egò aà: y andando en ſu buſca,
+haòlo, y dixole: Pues como ha hecho V. m. tan gran
+exceo, ſalir de caſa n mi licencia? El cavaero que en-
+tendiò lo que buſcava, y viendo que ya no le avia mene-
+er, echando mano à la bolſa, ſacò un eſcudo, y dixo:
+Tome ſeñor Door, que à fè de quien ſoy, que para con
+V. m. no me ha de valer ſagrado. Ved à donde ega la
+codicia de un Medico necio, y la fuerça de un pecho hi-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="535" y="2862"/>
+	<Point x="1305" y="2869"/>
+	<Point x="1312" y="2930"/>
+	<Point x="1175" y="2939"/>
+	<Point x="535" y="2942"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="269" y="114"/>
+	<Point x="269" y="208"/>
+	<Point x="380" y="208"/>
+	<Point x="380" y="114"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>40</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1532" y="2630"/>
+	<Point x="1532" y="2705"/>
+	<Point x="1703" y="2705"/>
+	<Point x="1703" y="2630"/>
+	<Point x="1580" y="2627"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dalgo,</Unicode></TextEquiv></TextRegion></Page></PcGts>

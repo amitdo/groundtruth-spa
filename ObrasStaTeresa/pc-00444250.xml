@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444250">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:16:32</Created>
+	<LastChange>2011-12-19T11:39:34</LastChange></Metadata>
+	<Page imageFilename="00444250.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="852" y="100"/>
+	<Point x="1597" y="100"/>
+	<Point x="1597" y="211"/>
+	<Point x="852" y="211"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="450" y="237"/>
+	<Point x="2080" y="237"/>
+	<Point x="2069" y="2627"/>
+	<Point x="2068" y="2629"/>
+	<Point x="2060" y="2628"/>
+	<Point x="2054" y="2629"/>
+	<Point x="2038" y="2630"/>
+	<Point x="2014" y="2633"/>
+	<Point x="2022" y="2634"/>
+	<Point x="2002" y="2631"/>
+	<Point x="1973" y="2629"/>
+	<Point x="1939" y="2627"/>
+	<Point x="1927" y="2627"/>
+	<Point x="1916" y="2626"/>
+	<Point x="1841" y="2627"/>
+	<Point x="1832" y="2628"/>
+	<Point x="1817" y="2630"/>
+	<Point x="1765" y="2630"/>
+	<Point x="1728" y="2632"/>
+	<Point x="1292" y="2660"/>
+	<Point x="450" y="2672"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>myerio de la ſaniſsima Trinidad, y de
+otras coſas muy ſubidas, que no ay theolo-
+go, con quien no ſe atreuiee a diſputar la
+verdad deas grandezas. Quedaſe tan eſpan-
+tada que baa vna merced de eas, para tro-
+car toda vn alma, y hazerla no amar coſa, -
+no a quien vee que n trabajo ninguno ſuyo
+la haze capaz de tan grandes bienes, y le co-
+munica ſecretos, y trata con ea con tanta
+amiad y amor que no ſe ſuﬀre eſcriuir, por-
+que haze algunas mercedes, que congo
+traen la ſoſpecha, por ſer de tanta admira-
+cion, y hechas a quien tan poco las ha mere-
+cido, que no ay muy viua fe, no ſe podran
+creer, y an yo pienſo dezir pocas de las que
+el Señor me ha hecho a mi, no me manda-
+ren otra coſa,  no ſon algunas viones que
+pueden para alguna coſa aprouechar, o para
+que a quien el Señor ſe las diere, no ſe eſpan-
+te pareciendole impoſsible como yo hazia, o
+para declararle el modo o camino por don-
+de el Señor me ha euado, que es lo que me
+mandan eſcriuir. Pues tornando a ea mane-
+ra de entender, lo que me parece es que quie-
+re el Señor de todas maneras, tenga ea al-
+ma alguna noticia de lo que paa en el cie-
+lo, y pareceme a mi que aſsi como aa n</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1785" y="2636"/>
+	<Point x="1937" y="2638"/>
+	<Point x="2030" y="2639"/>
+	<Point x="2033" y="2724"/>
+	<Point x="1783" y="2724"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>hablar</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="597" y="3015"/>
+	<Point x="1585" y="3015"/>
+	<Point x="1585" y="3170"/>
+	<Point x="597" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="511" y="125"/>
+	<Point x="511" y="220"/>
+	<Point x="675" y="220"/>
+	<Point x="675" y="125"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>322</Unicode></TextEquiv></TextRegion></Page></PcGts>

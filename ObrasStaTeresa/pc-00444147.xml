@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444147">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:03:37</Created>
+	<LastChange>2011-12-19T11:39:28</LastChange></Metadata>
+	<Page imageFilename="00444147.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="377" y="80"/>
+	<Point x="1517" y="89"/>
+	<Point x="1516" y="209"/>
+	<Point x="735" y="211"/>
+	<Point x="710" y="209"/>
+	<Point x="375" y="207"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="162" y="214"/>
+	<Point x="685" y="221"/>
+	<Point x="731" y="223"/>
+	<Point x="880" y="220"/>
+	<Point x="1103" y="219"/>
+	<Point x="1177" y="217"/>
+	<Point x="1271" y="215"/>
+	<Point x="1794" y="236"/>
+	<Point x="1792" y="2618"/>
+	<Point x="1706" y="2622"/>
+	<Point x="1630" y="2619"/>
+	<Point x="1473" y="2628"/>
+	<Point x="576" y="2663"/>
+	<Point x="147" y="2681"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que lo fue, a mi muchas, que con ra-
+zon me tentaua el demonio no preten-
+diee amiad erecha, con quien tra-
+taua enemiad tan publica, que cegue-
+dad tan grande la mia, adonde penſaua
+Señor mio haar remedio, no en vos,
+que diſparate huyr de la luz para andar
+empre tropeçando, que humildad tan
+ſoberuia inuentaua en mi el demonio apar-
+tar de ear arrimada a la columna, y
+baculo que me ha de ſuentar para no
+dar tan gran cayda. Aora me ſantiguo y
+no me parece que he paado peligro tan
+peligroſo como ea inuencion, que el
+demonio me enſeñaua, por via de hu-
+mildad. Poniame en el penſamiento,
+que como coſa tan ruyn y auiendo re-
+cibido tantas mercedes auia de egar-
+me a la oracion? que me baaua re-
+zar lo que deuia como todas. Mas que
+aun pues eo no hazia bien, como
+queria hazer mas? que era poco aca-
+tamiento y tener en poco las mercedes
+de Dios. Bien era penſar y entender
+eo, mas ponerlo por obra, fue el
+grandiſsimo mal. Bendito ſeays vos Se-
+ñor que an me remediaes. Prin-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="580" y="3041"/>
+	<Point x="1569" y="3052"/>
+	<Point x="1608" y="3047"/>
+	<Point x="1597" y="3170"/>
+	<Point x="561" y="3166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1550" y="103"/>
+	<Point x="1550" y="207"/>
+	<Point x="1680" y="223"/>
+	<Point x="1780" y="207"/>
+	<Point x="1780" y="103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>219</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1500" y="2629"/>
+	<Point x="1500" y="2733"/>
+	<Point x="1720" y="2731"/>
+	<Point x="1717" y="2625"/>
+	<Point x="1636" y="2623"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cipio</Unicode></TextEquiv></TextRegion></Page></PcGts>

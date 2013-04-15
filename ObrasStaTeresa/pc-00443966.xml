@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443966">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:41:59</Created>
+	<LastChange>2011-12-19T11:39:17</LastChange></Metadata>
+	<Page imageFilename="00443966.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="411" y="18"/>
+	<Point x="877" y="18"/>
+	<Point x="877" y="198"/>
+	<Point x="411" y="198"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>38</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="467" y="232"/>
+	<Point x="2000" y="216"/>
+	<Point x="2003" y="2607"/>
+	<Point x="1865" y="2601"/>
+	<Point x="1811" y="2627"/>
+	<Point x="1782" y="2627"/>
+	<Point x="486" y="2622"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ner gran temor de Dios quando le oﬀendia,
+y procuraua confearme con breuedad: traya
+vn deſaoſsiego, que en ocho dias, y aun
+creo que en menos, eaua muy mas conten‐
+ta que en caſa de mi padre: todas lo eauan
+conmigo porque en eo me daua el Señor
+gracia en dar contento a donde quiera que
+euuiee, y an era muy querida: y pueo
+que yo eaua entonces enemigiſsima de ſer
+monja, holgaua me de ver tan buenas mon
+jas que lo eran mucho las de aquea caſa, y
+de gran honeidad, y religion, y recatamien-
+to. Aun con todo eo no me dexaua el demo
+nio de tentar, y buſcar los de fuera como me
+deſaoegar con recaudos, como no auia lu‐
+gar preo ſe acabo, y començo mi alma a tor
+narſe a acoũbrar enel bien de mi primera
+edad, y vi la gran merced que haze Dios a
+quien pone en compañia de buenos. Parece-
+me andaua ſu magead mirando y remiran
+do por donde me podia tornar a . Bendito
+ſeays vos Señor, que tanto me aueys çufrido
+amen. Vna coſa tenia que parece me podia
+ſer alguna diſculpa, no tuuiera tantas cul‐
+pas, y es, que era el trato con quien por
+via de caſamiento me parecia podia aca-
+bar en bien: e informada de con quien</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1848" y="2623"/>
+	<Point x="1975" y="2623"/>
+	<Point x="1978" y="2697"/>
+	<Point x="1838" y="2689"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>me</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="635" y="3051"/>
+	<Point x="1581" y="3069"/>
+	<Point x="1573" y="3148"/>
+	<Point x="615" y="3137"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="939" y="83"/>
+	<Point x="939" y="181"/>
+	<Point x="1594" y="181"/>
+	<Point x="1594" y="83"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

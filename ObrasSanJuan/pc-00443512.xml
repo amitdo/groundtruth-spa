@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443512">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T03:17:07</Created>
+	<LastChange>2010-12-21T11:46:40</LastChange></Metadata>
+	<Page imageFilename="00443512.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r19" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="112" y="713"/>
+	<Point x="1642" y="700"/>
+	<Point x="1638" y="1167"/>
+	<Point x="1551" y="1167"/>
+	<Point x="1552" y="1241"/>
+	<Point x="1384" y="1241"/>
+	<Point x="1384" y="1316"/>
+	<Point x="1169" y="1316"/>
+	<Point x="1170" y="1416"/>
+	<Point x="966" y="1418"/>
+	<Point x="967" y="1475"/>
+	<Point x="709" y="1478"/>
+	<Point x="709" y="1395"/>
+	<Point x="555" y="1394"/>
+	<Point x="555" y="1329"/>
+	<Point x="342" y="1329"/>
+	<Point x="342" y="1248"/>
+	<Point x="186" y="1248"/>
+	<Point x="187" y="1179"/>
+	<Point x="114" y="1179"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La tercera es, que aunque no va arrimada à alguna
+particular luz interior del Entendimiento, ni à alguna
+guia eerior, para recebir ſatisfacion dea en ee alto
+camino, teniendola privada de todo eo eas eſcuras
+tinieblas; pero el amor i Fè, que en ee tiẽpo arde, ſo-
+licitando el coraçon por el Amado, es el que mueve
+i guia al alma entonces, i la haze bolar a ſu Dios
+por el camino de la ſoledad, n ea
+ſaber como ni en que
+manera.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="773" y="2940"/>
+	<Point x="1423" y="2940"/>
+	<Point x="1423" y="2993"/>
+	<Point x="773" y="2993"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="571" y="105"/>
+	<Point x="1046" y="105"/>
+	<Point x="1046" y="228"/>
+	<Point x="571" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro Segundo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1492" y="119"/>
+	<Point x="1628" y="119"/>
+	<Point x="1628" y="232"/>
+	<Point x="1492" y="232"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>501</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="109" y="240"/>
+	<Point x="1641" y="247"/>
+	<Point x="1634" y="654"/>
+	<Point x="306" y="651"/>
+	<Point x="306" y="705"/>
+	<Point x="108" y="704"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no mirando el alma, ni pudiendo mirar en nada no ſe
+detie ne en nada fuera de Dios, para ir a el; per cuan-
+to va libre de los obaculos de formas i ﬁguras, i de
+las aprehenones naturales, que ſon las que ſue-
+len en pachar al alma, para no ſe unir empre con
+Dios.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="signature-mark">
+	<Coords>
+	<Point x="912" y="2112"/>
+	<Point x="1087" y="2112"/>
+	<Point x="1087" y="2260"/>
+	<Point x="912" y="2260"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ii 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="catch-word">
+	<Coords>
+	<Point x="1297" y="2097"/>
+	<Point x="1617" y="2097"/>
+	<Point x="1617" y="2230"/>
+	<Point x="1297" y="2230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LLA-</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r20" type="stamp">
+	<Coords>
+	<Point x="685" y="2427"/>
+	<Point x="685" y="2847"/>
+	<Point x="1182" y="2847"/>
+	<Point x="1182" y="2427"/></Coords></GraphicRegion>
+	<GraphicRegion id="r21" type="stamp">
+	<Coords>
+	<Point x="1432" y="2412"/>
+	<Point x="1432" y="2812"/>
+	<Point x="1842" y="2812"/>
+	<Point x="1842" y="2412"/></Coords></GraphicRegion></Page></PcGts>

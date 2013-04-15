@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438999">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T02:44:52</Created>
+	<LastChange>2011-06-24T14:04:31</LastChange></Metadata>
+	<Page imageFilename="00438999.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="r9" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="371" y="96"/>
+	<Point x="1138" y="84"/>
+	<Point x="1137" y="167"/>
+	<Point x="367" y="187"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ANOTACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="108" y="193"/>
+	<Point x="363" y="194"/>
+	<Point x="1172" y="176"/>
+	<Point x="1371" y="168"/>
+	<Point x="1373" y="1790"/>
+	<Point x="468" y="1797"/>
+	<Point x="416" y="1846"/>
+	<Point x="145" y="1850"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſe de gran tirador de arcabuz: y eando
+los dos delante de la dama, ſaco el Duque
+vn lienço, y poniendolo en las narizes di-
+xo: O como hiede por aqui a poluora:
+entonces rioſe la dama, y corrioſe el Ca-
+uaero, y luego lo mas ſecreto que pudo
+apartò al Duque, y deſaﬁole a eſpada y
+capa a la Puente de ſan Pablo, a cierta ho-
+ra de la noche, y egando el Duque, dixo
+el otro: Que armas traeys? y dixo el Du-
+que: Eſpada, y daga: dixo el otro. Yo no
+tengo mas que eſpada: entonces el Duque
+ſacò ſu daga, y echola de la puente abaxo
+en el rio: començaron ſu deſaﬁo, y ai ſe
+hizieron amigos, y trataron deque no ſe
+ſupiee ee hecho, mas huuoſe de deſcu-
+brir, porque al tomar de las capas que eſ-
+tauan en el ſuelo, ſe trocaron, y el Duque
+no cayendo en eo, deſcubrio en Palacio
+la Encomienda de Santiago, que tenia la
+capa del otro, y por aqui ſe vino a ſaber el
+deſaﬁo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="496" y="2100"/>
+	<Point x="980" y="2100"/>
+	<Point x="980" y="2140"/>
+	<Point x="496" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="192" y="1857"/>
+	<Point x="526" y="1849"/>
+	<Point x="1253" y="1835"/>
+	<Point x="1253" y="1924"/>
+	<Point x="1140" y="1923"/>
+	<Point x="1141" y="2010"/>
+	<Point x="183" y="2034"/>
+	<Point x="180" y="1950"/>
+	<Point x="186" y="1942"/>
+	<Point x="184" y="1910"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A hurtar a la muerte. Bembo ſoneto. 1.
+Vſe far a la morte iuri inganni.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="marginalia">
+	<Coords>
+	<Point x="70" y="1870"/>
+	<Point x="182" y="1859"/>
+	<Point x="181" y="1936"/>
+	<Point x="70" y="1956"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>178</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1159" y="1983"/>
+	<Point x="1359" y="1983"/>
+	<Point x="1359" y="2083"/>
+	<Point x="1159" y="2083"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eaua</Unicode></TextEquiv></TextRegion></Page></PcGts>

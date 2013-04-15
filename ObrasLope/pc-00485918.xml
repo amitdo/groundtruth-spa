@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485918">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T04:33:38</Created>
+	<LastChange>2011-07-28T11:29:12</LastChange></Metadata>
+	<Page imageFilename="00485918.tif" imageWidth="2250" imageHeight="3124">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r18" index="0"/>
+	<RegionRefIndexed regionRef="r19" index="1"/>
+	<RegionRefIndexed regionRef="r20" index="2"/>
+	<RegionRefIndexed regionRef="r21" index="3"/>
+	<RegionRefIndexed regionRef="r22" index="4"/>
+	<RegionRefIndexed regionRef="r26" index="5"/>
+	<RegionRefIndexed regionRef="r30" index="6"/>
+	<RegionRefIndexed regionRef="r32" index="7"/>
+	<RegionRefIndexed regionRef="r9" index="8"/>
+	<RegionRefIndexed regionRef="r33" index="9"/>
+	<RegionRefIndexed regionRef="r11" index="10"/>
+	<RegionRefIndexed regionRef="r15" index="11"/>
+	<RegionRefIndexed regionRef="r23" index="12"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="565" y="100"/>
+	<Point x="1729" y="104"/>
+	<Point x="1750" y="142"/>
+	<Point x="1752" y="186"/>
+	<Point x="1720" y="193"/>
+	<Point x="1611" y="220"/>
+	<Point x="1581" y="221"/>
+	<Point x="1568" y="221"/>
+	<Point x="1547" y="218"/>
+	<Point x="1454" y="203"/>
+	<Point x="1282" y="220"/>
+	<Point x="1200" y="206"/>
+	<Point x="734" y="202"/>
+	<Point x="510" y="193"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comedia de Lope de Vega.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="credit">
+	<Coords>
+	<Point x="654" y="3047"/>
+	<Point x="1413" y="3051"/>
+	<Point x="1400" y="3112"/>
+	<Point x="642" y="3104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="282" y="206"/>
+	<Point x="282" y="362"/>
+	<Point x="301" y="386"/>
+	<Point x="441" y="416"/>
+	<Point x="475" y="416"/>
+	<Point x="485" y="409"/>
+	<Point x="500" y="399"/>
+	<Point x="532" y="400"/>
+	<Point x="579" y="407"/>
+	<Point x="616" y="413"/>
+	<Point x="629" y="414"/>
+	<Point x="640" y="414"/>
+	<Point x="683" y="404"/>
+	<Point x="788" y="394"/>
+	<Point x="872" y="424"/>
+	<Point x="1890" y="368"/>
+	<Point x="1921" y="336"/>
+	<Point x="1909" y="217"/>
+	<Point x="1717" y="205"/>
+	<Point x="1613" y="221"/>
+	<Point x="1591" y="222"/>
+	<Point x="1565" y="222"/>
+	<Point x="1457" y="211"/>
+	<Point x="1281" y="236"/>
+	<Point x="1273" y="231"/>
+	<Point x="1246" y="219"/>
+	<Point x="1214" y="213"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Roldan. Pues quien heres. Bernardo. Yo ſoy yo
+que ſoy mas que tu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="285" y="400"/>
+	<Point x="293" y="672"/>
+	<Point x="419" y="688"/>
+	<Point x="704" y="688"/>
+	<Point x="859" y="705"/>
+	<Point x="881" y="705"/>
+	<Point x="910" y="704"/>
+	<Point x="1413" y="679"/>
+	<Point x="1468" y="676"/>
+	<Point x="1475" y="424"/>
+	<Point x="870" y="435"/>
+	<Point x="856" y="434"/>
+	<Point x="806" y="405"/>
+	<Point x="727" y="409"/>
+	<Point x="667" y="411"/>
+	<Point x="617" y="420"/>
+	<Point x="522" y="406"/>
+	<Point x="488" y="412"/>
+	<Point x="479" y="417"/>
+	<Point x="448" y="417"/>
+	<Point x="437" y="420"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Roldan. Noſe
+ conoces mi valor
+como has reſpondido an.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="306" y="703"/>
+	<Point x="310" y="883"/>
+	<Point x="414" y="885"/>
+	<Point x="425" y="886"/>
+	<Point x="437" y="888"/>
+	<Point x="467" y="896"/>
+	<Point x="479" y="897"/>
+	<Point x="502" y="884"/>
+	<Point x="698" y="884"/>
+	<Point x="724" y="898"/>
+	<Point x="735" y="900"/>
+	<Point x="790" y="879"/>
+	<Point x="1689" y="889"/>
+	<Point x="1689" y="703"/>
+	<Point x="1460" y="682"/>
+	<Point x="864" y="711"/>
+	<Point x="669" y="692"/>
+	<Point x="558" y="693"/>
+	<Point x="339" y="694"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bernardo. Porque a mi Rey defendi
+que es digno de todo honor.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="324" y="893"/>
+	<Point x="324" y="1058"/>
+	<Point x="450" y="1092"/>
+	<Point x="471" y="1096"/>
+	<Point x="486" y="1095"/>
+	<Point x="552" y="1065"/>
+	<Point x="846" y="1072"/>
+	<Point x="1072" y="1092"/>
+	<Point x="1100" y="1089"/>
+	<Point x="1167" y="1068"/>
+	<Point x="1596" y="1058"/>
+	<Point x="1596" y="893"/>
+	<Point x="1124" y="886"/>
+	<Point x="776" y="887"/>
+	<Point x="728" y="908"/>
+	<Point x="707" y="894"/>
+	<Point x="684" y="889"/>
+	<Point x="516" y="889"/>
+	<Point x="500" y="890"/>
+	<Point x="484" y="900"/>
+	<Point x="470" y="900"/>
+	<Point x="451" y="893"/>
+	<Point x="430" y="892"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Roldan. Fiaete en el guro
+que le dan al menſagero</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="327" y="1079"/>
+	<Point x="327" y="1455"/>
+	<Point x="466" y="1446"/>
+	<Point x="481" y="1464"/>
+	<Point x="529" y="1475"/>
+	<Point x="580" y="1459"/>
+	<Point x="727" y="1449"/>
+	<Point x="952" y="1473"/>
+	<Point x="1050" y="1454"/>
+	<Point x="1641" y="1429"/>
+	<Point x="1644" y="1079"/>
+	<Point x="1214" y="1073"/>
+	<Point x="1088" y="1094"/>
+	<Point x="1069" y="1096"/>
+	<Point x="846" y="1079"/>
+	<Point x="664" y="1073"/>
+	<Point x="477" y="1104"/>
+	<Point x="373" y="1079"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bernardo. No no en mi blanco azero
+que es el lugar mas guro
+que an como eoy aguardo
+a quantos contigo ean.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="315" y="1764"/>
+	<Point x="350" y="1752"/>
+	<Point x="608" y="1746"/>
+	<Point x="683" y="1751"/>
+	<Point x="744" y="1744"/>
+	<Point x="805" y="1747"/>
+	<Point x="823" y="1750"/>
+	<Point x="875" y="1746"/>
+	<Point x="906" y="1743"/>
+	<Point x="945" y="1745"/>
+	<Point x="987" y="1746"/>
+	<Point x="1001" y="1746"/>
+	<Point x="1014" y="1743"/>
+	<Point x="1019" y="1743"/>
+	<Point x="1056" y="1742"/>
+	<Point x="1062" y="1742"/>
+	<Point x="1087" y="1741"/>
+	<Point x="1101" y="1743"/>
+	<Point x="1133" y="1742"/>
+	<Point x="1173" y="1742"/>
+	<Point x="1245" y="1746"/>
+	<Point x="1266" y="1746"/>
+	<Point x="1406" y="1745"/>
+	<Point x="1451" y="1747"/>
+	<Point x="1545" y="1747"/>
+	<Point x="1606" y="1760"/>
+	<Point x="1831" y="1764"/>
+	<Point x="1855" y="1819"/>
+	<Point x="1781" y="1956"/>
+	<Point x="1402" y="1985"/>
+	<Point x="1320" y="2012"/>
+	<Point x="1304" y="2018"/>
+	<Point x="1289" y="2029"/>
+	<Point x="1264" y="2037"/>
+	<Point x="1179" y="2022"/>
+	<Point x="1029" y="2020"/>
+	<Point x="975" y="2043"/>
+	<Point x="904" y="2031"/>
+	<Point x="868" y="2035"/>
+	<Point x="783" y="2039"/>
+	<Point x="722" y="2020"/>
+	<Point x="679" y="2022"/>
+	<Point x="626" y="2045"/>
+	<Point x="599" y="2045"/>
+	<Point x="416" y="2022"/>
+	<Point x="364" y="1923"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Roldan. huelgo Bernardo de verte
+hombre eres robuo y fuerte
+mi eſpada y braços te doy.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="322" y="2143"/>
+	<Point x="385" y="2141"/>
+	<Point x="491" y="2152"/>
+	<Point x="611" y="2138"/>
+	<Point x="743" y="2137"/>
+	<Point x="945" y="2150"/>
+	<Point x="962" y="2133"/>
+	<Point x="1008" y="2127"/>
+	<Point x="1126" y="2132"/>
+	<Point x="1335" y="2135"/>
+	<Point x="1402" y="2139"/>
+	<Point x="1552" y="2144"/>
+	<Point x="1681" y="2152"/>
+	<Point x="1850" y="2162"/>
+	<Point x="2010" y="2172"/>
+	<Point x="2018" y="2406"/>
+	<Point x="1434" y="2427"/>
+	<Point x="1224" y="2411"/>
+	<Point x="1195" y="2424"/>
+	<Point x="1175" y="2430"/>
+	<Point x="1166" y="2430"/>
+	<Point x="1132" y="2417"/>
+	<Point x="1066" y="2412"/>
+	<Point x="1033" y="2428"/>
+	<Point x="1014" y="2432"/>
+	<Point x="974" y="2430"/>
+	<Point x="881" y="2414"/>
+	<Point x="759" y="2407"/>
+	<Point x="310" y="2406"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bernardo. Yo no abraſo a mi enemigo
+ quieres verte conmigo
+Roldan famoſo que aguardas,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="308" y="2420"/>
+	<Point x="745" y="2414"/>
+	<Point x="867" y="2417"/>
+	<Point x="979" y="2437"/>
+	<Point x="1018" y="2436"/>
+	<Point x="1069" y="2420"/>
+	<Point x="1142" y="2424"/>
+	<Point x="1155" y="2429"/>
+	<Point x="1169" y="2439"/>
+	<Point x="1193" y="2434"/>
+	<Point x="1215" y="2421"/>
+	<Point x="1449" y="2440"/>
+	<Point x="1444" y="2810"/>
+	<Point x="947" y="2823"/>
+	<Point x="506" y="2822"/>
+	<Point x="334" y="2810"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Roldan. No ſe  eres Scipion
+o tienes ventura ygual
+pues miro como Anibal
+tu preſencia y opinion</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="catch-word">
+	<Coords>
+	<Point x="1686" y="2777"/>
+	<Point x="1686" y="2891"/>
+	<Point x="2055" y="2891"/>
+	<Point x="2055" y="2777"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vete en</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r24" type="handwritten-annotation">
+	<Coords>
+	<Point x="1061" y="2845"/>
+	<Point x="1238" y="2845"/>
+	<Point x="1238" y="2945"/>
+	<Point x="1061" y="2945"/></Coords></GraphicRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="1718" y="1446"/>
+	<Point x="1718" y="1447"/>
+	<Point x="1722" y="1447"/>
+	<Point x="1722" y="1448"/>
+	<Point x="1726" y="1448"/>
+	<Point x="1726" y="1449"/>
+	<Point x="1730" y="1449"/>
+	<Point x="1730" y="1450"/>
+	<Point x="1734" y="1450"/>
+	<Point x="1734" y="1451"/>
+	<Point x="1738" y="1451"/>
+	<Point x="1738" y="1452"/>
+	<Point x="1742" y="1452"/>
+	<Point x="1742" y="1453"/>
+	<Point x="1746" y="1453"/>
+	<Point x="1746" y="1454"/>
+	<Point x="1750" y="1454"/>
+	<Point x="1750" y="1455"/>
+	<Point x="1754" y="1455"/>
+	<Point x="1754" y="1456"/>
+	<Point x="1758" y="1456"/>
+	<Point x="1758" y="1457"/>
+	<Point x="1762" y="1457"/>
+	<Point x="1762" y="1458"/>
+	<Point x="1766" y="1458"/>
+	<Point x="1766" y="1459"/>
+	<Point x="1770" y="1459"/>
+	<Point x="1770" y="1460"/>
+	<Point x="1774" y="1460"/>
+	<Point x="1774" y="1461"/>
+	<Point x="1778" y="1461"/>
+	<Point x="1778" y="1462"/>
+	<Point x="1782" y="1462"/>
+	<Point x="1782" y="1463"/>
+	<Point x="1786" y="1463"/>
+	<Point x="1786" y="1464"/>
+	<Point x="1790" y="1464"/>
+	<Point x="1790" y="1465"/>
+	<Point x="1794" y="1465"/>
+	<Point x="1794" y="1466"/>
+	<Point x="1798" y="1466"/>
+	<Point x="1798" y="1467"/>
+	<Point x="1802" y="1467"/>
+	<Point x="1802" y="1468"/>
+	<Point x="1806" y="1468"/>
+	<Point x="1806" y="1469"/>
+	<Point x="1810" y="1469"/>
+	<Point x="1810" y="1470"/>
+	<Point x="1814" y="1470"/>
+	<Point x="1814" y="1471"/>
+	<Point x="1818" y="1471"/>
+	<Point x="1818" y="1472"/>
+	<Point x="1822" y="1472"/>
+	<Point x="1822" y="1473"/>
+	<Point x="1826" y="1473"/>
+	<Point x="1826" y="1474"/>
+	<Point x="1830" y="1474"/>
+	<Point x="1830" y="1475"/>
+	<Point x="1834" y="1475"/>
+	<Point x="1834" y="1476"/>
+	<Point x="1838" y="1476"/>
+	<Point x="1838" y="1477"/>
+	<Point x="1842" y="1477"/>
+	<Point x="1842" y="1544"/>
+	<Point x="1754" y="1544"/>
+	<Point x="1754" y="1545"/>
+	<Point x="1607" y="1545"/>
+	<Point x="1459" y="1546"/>
+	<Point x="1459" y="1547"/>
+	<Point x="1190" y="1549"/>
+	<Point x="1136" y="1561"/>
+	<Point x="1103" y="1550"/>
+	<Point x="1017" y="1549"/>
+	<Point x="1017" y="1550"/>
+	<Point x="963" y="1573"/>
+	<Point x="870" y="1550"/>
+	<Point x="870" y="1551"/>
+	<Point x="723" y="1551"/>
+	<Point x="723" y="1552"/>
+	<Point x="575" y="1552"/>
+	<Point x="575" y="1553"/>
+	<Point x="428" y="1553"/>
+	<Point x="428" y="1554"/>
+	<Point x="324" y="1554"/>
+	<Point x="324" y="1523"/>
+	<Point x="323" y="1523"/>
+	<Point x="330" y="1463"/>
+	<Point x="427" y="1483"/>
+	<Point x="450" y="1475"/>
+	<Point x="472" y="1476"/>
+	<Point x="492" y="1472"/>
+	<Point x="518" y="1481"/>
+	<Point x="536" y="1489"/>
+	<Point x="564" y="1492"/>
+	<Point x="593" y="1484"/>
+	<Point x="644" y="1467"/>
+	<Point x="675" y="1466"/>
+	<Point x="729" y="1460"/>
+	<Point x="781" y="1475"/>
+	<Point x="890" y="1481"/>
+	<Point x="947" y="1487"/>
+	<Point x="1004" y="1480"/>
+	<Point x="1026" y="1478"/>
+	<Point x="1037" y="1465"/>
+	<Point x="1037" y="1464"/>
+	<Point x="1043" y="1463"/>
+	<Point x="1049" y="1463"/>
+	<Point x="1049" y="1462"/>
+	<Point x="1055" y="1461"/>
+	<Point x="1061" y="1460"/>
+	<Point x="1067" y="1459"/>
+	<Point x="1073" y="1459"/>
+	<Point x="1073" y="1458"/>
+	<Point x="1079" y="1458"/>
+	<Point x="1079" y="1457"/>
+	<Point x="1112" y="1466"/>
+	<Point x="1131" y="1457"/>
+	<Point x="1131" y="1456"/>
+	<Point x="1184" y="1456"/>
+	<Point x="1184" y="1455"/>
+	<Point x="1237" y="1455"/>
+	<Point x="1237" y="1454"/>
+	<Point x="1290" y="1454"/>
+	<Point x="1290" y="1453"/>
+	<Point x="1343" y="1453"/>
+	<Point x="1343" y="1452"/>
+	<Point x="1396" y="1452"/>
+	<Point x="1396" y="1451"/>
+	<Point x="1449" y="1451"/>
+	<Point x="1449" y="1450"/>
+	<Point x="1502" y="1450"/>
+	<Point x="1502" y="1449"/>
+	<Point x="1555" y="1449"/>
+	<Point x="1555" y="1448"/>
+	<Point x="1608" y="1448"/>
+	<Point x="1608" y="1447"/>
+	<Point x="1661" y="1447"/>
+	<Point x="1661" y="1446"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Roldan. Sabes tu que ſoy Roldan.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="1842" y="1646"/>
+	<Point x="1287" y="1641"/>
+	<Point x="1227" y="1656"/>
+	<Point x="1096" y="1645"/>
+	<Point x="1043" y="1666"/>
+	<Point x="947" y="1640"/>
+	<Point x="707" y="1641"/>
+	<Point x="326" y="1643"/>
+	<Point x="326" y="1633"/>
+	<Point x="325" y="1633"/>
+	<Point x="325" y="1578"/>
+	<Point x="324" y="1578"/>
+	<Point x="315" y="1564"/>
+	<Point x="420" y="1575"/>
+	<Point x="609" y="1563"/>
+	<Point x="818" y="1561"/>
+	<Point x="955" y="1580"/>
+	<Point x="976" y="1578"/>
+	<Point x="1143" y="1567"/>
+	<Point x="1189" y="1555"/>
+	<Point x="1563" y="1555"/>
+	<Point x="1758" y="1575"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bernardo. Sabes tu que ſoy Bernardo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="1842" y="1740"/>
+	<Point x="1841" y="1740"/>
+	<Point x="1841" y="1741"/>
+	<Point x="1840" y="1741"/>
+	<Point x="1840" y="1743"/>
+	<Point x="1839" y="1743"/>
+	<Point x="1839" y="1744"/>
+	<Point x="1838" y="1744"/>
+	<Point x="1838" y="1745"/>
+	<Point x="1837" y="1745"/>
+	<Point x="1837" y="1747"/>
+	<Point x="1836" y="1747"/>
+	<Point x="1836" y="1748"/>
+	<Point x="1835" y="1748"/>
+	<Point x="1835" y="1750"/>
+	<Point x="1834" y="1750"/>
+	<Point x="1834" y="1751"/>
+	<Point x="1833" y="1751"/>
+	<Point x="1833" y="1752"/>
+	<Point x="1832" y="1752"/>
+	<Point x="1832" y="1754"/>
+	<Point x="1831" y="1754"/>
+	<Point x="1831" y="1755"/>
+	<Point x="1830" y="1755"/>
+	<Point x="1830" y="1757"/>
+	<Point x="1819" y="1757"/>
+	<Point x="1819" y="1756"/>
+	<Point x="1809" y="1756"/>
+	<Point x="1809" y="1755"/>
+	<Point x="1799" y="1755"/>
+	<Point x="1799" y="1754"/>
+	<Point x="1788" y="1754"/>
+	<Point x="1788" y="1753"/>
+	<Point x="1778" y="1753"/>
+	<Point x="1778" y="1752"/>
+	<Point x="1768" y="1752"/>
+	<Point x="1768" y="1751"/>
+	<Point x="1757" y="1751"/>
+	<Point x="1757" y="1750"/>
+	<Point x="1747" y="1750"/>
+	<Point x="1747" y="1749"/>
+	<Point x="1737" y="1749"/>
+	<Point x="1737" y="1748"/>
+	<Point x="1726" y="1748"/>
+	<Point x="1726" y="1747"/>
+	<Point x="1716" y="1747"/>
+	<Point x="1716" y="1746"/>
+	<Point x="1706" y="1746"/>
+	<Point x="1706" y="1745"/>
+	<Point x="1696" y="1745"/>
+	<Point x="1696" y="1744"/>
+	<Point x="1685" y="1744"/>
+	<Point x="1685" y="1743"/>
+	<Point x="1675" y="1743"/>
+	<Point x="1675" y="1742"/>
+	<Point x="1665" y="1742"/>
+	<Point x="1665" y="1741"/>
+	<Point x="1654" y="1741"/>
+	<Point x="1654" y="1740"/>
+	<Point x="1644" y="1740"/>
+	<Point x="1644" y="1739"/>
+	<Point x="1634" y="1739"/>
+	<Point x="1634" y="1738"/>
+	<Point x="1439" y="1738"/>
+	<Point x="1439" y="1739"/>
+	<Point x="1244" y="1739"/>
+	<Point x="1244" y="1738"/>
+	<Point x="1233" y="1738"/>
+	<Point x="1233" y="1737"/>
+	<Point x="1223" y="1737"/>
+	<Point x="1223" y="1736"/>
+	<Point x="1212" y="1736"/>
+	<Point x="1212" y="1735"/>
+	<Point x="1201" y="1735"/>
+	<Point x="1201" y="1734"/>
+	<Point x="1190" y="1734"/>
+	<Point x="1190" y="1733"/>
+	<Point x="1102" y="1733"/>
+	<Point x="1102" y="1734"/>
+	<Point x="1025" y="1734"/>
+	<Point x="1025" y="1735"/>
+	<Point x="947" y="1735"/>
+	<Point x="947" y="1736"/>
+	<Point x="870" y="1736"/>
+	<Point x="870" y="1737"/>
+	<Point x="793" y="1737"/>
+	<Point x="793" y="1738"/>
+	<Point x="715" y="1738"/>
+	<Point x="715" y="1739"/>
+	<Point x="638" y="1739"/>
+	<Point x="638" y="1740"/>
+	<Point x="561" y="1740"/>
+	<Point x="561" y="1741"/>
+	<Point x="483" y="1741"/>
+	<Point x="483" y="1742"/>
+	<Point x="406" y="1742"/>
+	<Point x="406" y="1743"/>
+	<Point x="327" y="1743"/>
+	<Point x="327" y="1688"/>
+	<Point x="326" y="1688"/>
+	<Point x="338" y="1670"/>
+	<Point x="369" y="1655"/>
+	<Point x="669" y="1656"/>
+	<Point x="692" y="1660"/>
+	<Point x="803" y="1655"/>
+	<Point x="906" y="1650"/>
+	<Point x="1033" y="1672"/>
+	<Point x="1284" y="1660"/>
+	<Point x="1747" y="1650"/>
+	<Point x="1843" y="1680"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Roldan. Bernardo eres tu. Bernardo Yo ſoy.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="283" y="2039"/>
+	<Point x="304" y="2112"/>
+	<Point x="321" y="2128"/>
+	<Point x="383" y="2129"/>
+	<Point x="912" y="2112"/>
+	<Point x="1585" y="2137"/>
+	<Point x="1795" y="2145"/>
+	<Point x="2020" y="2131"/>
+	<Point x="2045" y="2027"/>
+	<Point x="1951" y="2019"/>
+	<Point x="1514" y="2050"/>
+	<Point x="1447" y="2025"/>
+	<Point x="1306" y="2035"/>
+	<Point x="1268" y="2045"/>
+	<Point x="1229" y="2038"/>
+	<Point x="1140" y="2035"/>
+	<Point x="1033" y="2047"/>
+	<Point x="818" y="2050"/>
+	<Point x="720" y="2038"/>
+	<Point x="685" y="2039"/>
+	<Point x="641" y="2050"/>
+	<Point x="564" y="2058"/>
+	<Point x="454" y="2047"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bernardo. Hazte aa. Roldan. De que te guardas</Unicode></TextEquiv></TextRegion></Page></PcGts>

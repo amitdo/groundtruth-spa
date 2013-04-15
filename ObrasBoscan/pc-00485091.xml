@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485091">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T18:41:59</Created>
+	<LastChange>2011-05-12T13:40:52</LastChange></Metadata>
+	<Page imageFilename="00485091.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="803" y="1206"/>
+	<Point x="1321" y="1206"/>
+	<Point x="1321" y="1359"/>
+	<Point x="606" y="1359"/>
+	<Point x="600" y="1218"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ CANCION.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="624" y="3010"/>
+	<Point x="1408" y="3010"/>
+	<Point x="1408" y="3096"/>
+	<Point x="624" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="415" y="1462"/>
+	<Point x="1678" y="1462"/>
+	<Point x="1678" y="2746"/>
+	<Point x="415" y="2746"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bien penſe yo paar mi trie vida
+Del arte, que otro tiempo la paaua,
+Concertandome en mi con mis tormẽtos.
+Pero engañeme yo en lo que penſaua:
+Y ai agora mi alma de corrida
+Anda buſcando entre ſus ſentimientos,
+Como pueda engañar mis penſamientos.
+Al vno dize, que mi mal no es nada:
+Y al otro, que no pierda el eſperança:
+Que'n ﬁn todo s'alcança.
+Anda por me'ngañar, y'a engañada:
+Que ya toda ſu maña
+Es toda para mi muy eſcuſada.
+Pienſa que me regala,  me'ngaña:
+Y en engañarme, mas me deſengaña.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="431" y="190"/>
+	<Point x="1678" y="190"/>
+	<Point x="1678" y="1065"/>
+	<Point x="431" y="1065"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cançion tu vas peor que no mereçes,
+Deſnuda, y con tus agas deſcubiertas.
+No as d'andar mas tus cuitas declarando,
+Pues tu necedad las va morando:
+Dela qual ya ſeñales dan muy ciertas
+Tus eſperanças muertas.
+Prouaras tu fortuna todauia,
+Y buſcaras vn dia,
+Que amanezca tã bien, que'n el t'atreuas
+A dar de mis tormentos eas nueuas.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r10">
+	<Coords>
+	<Point x="1333" y="1341"/>
+	<Point x="1328" y="1321"/>
+	<Point x="1333" y="1262"/>
+	<Point x="1460" y="1262"/>
+	<Point x="1460" y="1341"/>
+	<Point x="1367" y="1358"/></Coords></GraphicRegion></Page></PcGts>

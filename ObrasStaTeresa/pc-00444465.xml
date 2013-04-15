@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444465">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:43:41</Created>
+	<LastChange>2011-12-19T11:39:47</LastChange></Metadata>
+	<Page imageFilename="00444465.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r8" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1602" y="141"/>
+	<Point x="1737" y="141"/>
+	<Point x="1737" y="227"/>
+	<Point x="1602" y="227"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>545</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="202" y="946"/>
+	<Point x="392" y="948"/>
+	<Point x="446" y="948"/>
+	<Point x="480" y="946"/>
+	<Point x="494" y="947"/>
+	<Point x="493" y="946"/>
+	<Point x="507" y="895"/>
+	<Point x="511" y="627"/>
+	<Point x="1723" y="639"/>
+	<Point x="1748" y="639"/>
+	<Point x="1743" y="638"/>
+	<Point x="1748" y="639"/>
+	<Point x="1746" y="1695"/>
+	<Point x="178" y="1692"/>
+	<Point x="176" y="946"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>On los originales deﬆe libro vinieron
+a mis manos vnos papeles eſcritos
+por las de la ſanta madre Tereſa de
+Ieſus, en que, o para memoria ſuya, o para
+dar quenta a ſus confeores, tenia pueas co-
+ſas que Dios le dezia, y mercedes que le ha-
+zia demas de las que en eﬆe libro ſe contie-
+nen, que me parecio ponerlas con el, por ſer
+de mucha ediﬁcacion. Y an las puſe a la letra
+como la madre las eſcriue, que dize an.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="204" y="2048"/>
+	<Point x="424" y="2040"/>
+	<Point x="438" y="2040"/>
+	<Point x="513" y="2036"/>
+	<Point x="504" y="1746"/>
+	<Point x="504" y="1763"/>
+	<Point x="503" y="1735"/>
+	<Point x="568" y="1731"/>
+	<Point x="1775" y="1740"/>
+	<Point x="1780" y="1740"/>
+	<Point x="1788" y="2659"/>
+	<Point x="1669" y="2663"/>
+	<Point x="1613" y="2661"/>
+	<Point x="1559" y="2669"/>
+	<Point x="1418" y="2659"/>
+	<Point x="1402" y="2662"/>
+	<Point x="1384" y="2658"/>
+	<Point x="1144" y="2640"/>
+	<Point x="1046" y="2653"/>
+	<Point x="815" y="2684"/>
+	<Point x="204" y="2690"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sto me dixo el Señor vn dia. Pienſas
+hija que eà el merecer en gozar, no
+eà no en obrar y en padecer, y en
+amar. No auras oydo que ſan Pablo euuiee
+gozando de los gozos celeiales mas de vna
+vez, y muchas que padecio. Y ves mi vida to
+da ena de padecer, y ſolo en el monte Tabor
+auras oydo mi gozo. No pienſes quando
+ves a mi madre que me tiene en los braços,
+que gozaua de aqueos contentos, n graue</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1417" y="2675"/>
+	<Point x="1420" y="2674"/>
+	<Point x="1551" y="2679"/>
+	<Point x="1743" y="2669"/>
+	<Point x="1744" y="2744"/>
+	<Point x="1414" y="2738"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tormen-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="drop-capital">
+	<Coords>
+	<Point x="502" y="628"/>
+	<Point x="495" y="917"/>
+	<Point x="493" y="922"/>
+	<Point x="205" y="916"/>
+	<Point x="207" y="625"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="drop-capital">
+	<Coords>
+	<Point x="203" y="1773"/>
+	<Point x="493" y="1767"/>
+	<Point x="500" y="2032"/>
+	<Point x="205" y="2042"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="627" y="3068"/>
+	<Point x="1573" y="3068"/>
+	<Point x="1573" y="3148"/>
+	<Point x="627" y="3148"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="signature-mark">
+	<Coords>
+	<Point x="1101" y="2659"/>
+	<Point x="1291" y="2659"/>
+	<Point x="1291" y="2766"/>
+	<Point x="1101" y="2766"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mm</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="203" y="231"/>
+	<Point x="1722" y="231"/>
+	<Point x="1722" y="608"/>
+	<Point x="203" y="608"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EL MAESTRO
+F. LVYS DE LEON
+Al Leor.</Unicode></TextEquiv></TextRegion></Page></PcGts>

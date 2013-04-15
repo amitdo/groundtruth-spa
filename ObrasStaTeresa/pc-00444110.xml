@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444110">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:59:10</Created>
+	<LastChange>2011-12-19T11:39:26</LastChange></Metadata>
+	<Page imageFilename="00444110.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="492" y="29"/>
+	<Point x="816" y="29"/>
+	<Point x="816" y="216"/>
+	<Point x="492" y="216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>182</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="504" y="239"/>
+	<Point x="2035" y="225"/>
+	<Point x="2037" y="2607"/>
+	<Point x="1801" y="2604"/>
+	<Point x="1727" y="2626"/>
+	<Point x="1677" y="2604"/>
+	<Point x="1125" y="2627"/>
+	<Point x="465" y="2625"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>con humildad y temor de que ha de ſaluarſe
+Echa luego el temor ſeruil del alma, y ponele
+el ﬁlial temor muy mas crecido, vee  ſe le co
+miença vn amor cõ Dios muy n intereſe ſu-
+yo, y deea ratos de ſoledad, para gozar mas
+de aquel bien. En n por no me canſar es vn
+principio de todos los bienes, vn ear ya las
+ﬂores en termino que no les falta ca nada pa
+ra brotar, y eo vera muy claro el alma, y en
+ninguna manera por eonces ſe podra deter
+minar a que no euuo Dios con ea, haa
+que ſe torna a ver con quiebras y imperfecio
+nes, que eonces todo lo teme, y es bien que
+tema: aũque almas ay que les aprouecha mas
+creer cierto que es Dios, que todos los temo
+res que le puedan poner, porque  de ſuyo
+es amoroſa y agradecida, mas la haze tornar
+a Dios la memoria de la merced que le hizo,
+que todos los caigos del inﬁerno que le re‑
+preſentan, alomenos a la mia, aunque tan
+ruyn, eo le acaecia. Porque las ſeñales
+del buen ſpiritu ſe yran diziendo mas ( co‑
+mo aquien le cuean muchos trabajos ſacar
+las en limpio ) no las digo aora aqui. Y creo cõ
+el fauor de Dios en eo atinare aIgo, porque
+dexada la eſperiencia en que he mucho en‑
+tendido, ſelo de algunos letrados muy letra‑</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="615" y="3034"/>
+	<Point x="1571" y="3034"/>
+	<Point x="1571" y="3164"/>
+	<Point x="615" y="3164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="905" y="72"/>
+	<Point x="1594" y="72"/>
+	<Point x="1594" y="209"/>
+	<Point x="905" y="209"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1823" y="2623"/>
+	<Point x="1823" y="2733"/>
+	<Point x="2015" y="2733"/>
+	<Point x="2015" y="2623"/>
+	<Point x="1872" y="2609"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dos,</Unicode></TextEquiv></TextRegion></Page></PcGts>

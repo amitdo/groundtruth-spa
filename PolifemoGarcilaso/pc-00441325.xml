@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441325">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:56:29</Created>
+	<LastChange>2011-05-12T13:40:13</LastChange></Metadata>
+	<Page imageFilename="00441325.tif" imageWidth="1495" imageHeight="2328">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r13" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="447" y="2237"/>
+	<Point x="688" y="2232"/>
+	<Point x="1012" y="2230"/>
+	<Point x="1022" y="2304"/>
+	<Point x="871" y="2312"/>
+	<Point x="845" y="2314"/>
+	<Point x="771" y="2311"/>
+	<Point x="477" y="2307"/>
+	<Point x="451" y="2310"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="160" y="1438"/>
+	<Point x="174" y="1426"/>
+	<Point x="1096" y="1445"/>
+	<Point x="1104" y="1508"/>
+	<Point x="1096" y="1863"/>
+	<Point x="1136" y="1863"/>
+	<Point x="1148" y="1992"/>
+	<Point x="1140" y="1990"/>
+	<Point x="1112" y="1994"/>
+	<Point x="1083" y="1993"/>
+	<Point x="1055" y="1993"/>
+	<Point x="688" y="2000"/>
+	<Point x="240" y="2016"/>
+	<Point x="208" y="1872"/>
+	<Point x="204" y="1860"/>
+	<Point x="178" y="1864"/>
+	<Point x="166" y="1498"/>
+	<Point x="152" y="1456"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Crece, y a tu niñez, modea, y graue,
+Suceda juuentud eſclarecida,
+Cuyo progreo excederà ſuaue
+Los dichoſos anuncios de tu vida:
+En el humano pielago tu naue
+Verà ſeguras olas combatida,
+Y al ſoplo de tus años liſongero
+Tu virtud ſerà el Norte verdadero.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="111" y="170"/>
+	<Point x="110" y="782"/>
+	<Point x="1164" y="782"/>
+	<Point x="1212" y="372"/>
+	<Point x="1227" y="171"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Crece dichſo, porque el mundo vea
+Logradas tus hero ycas perfecciones,
+Y el Caeano Iupiter poea
+Atlante de ſus inclitas acciones:
+Con eloquencia muda liſongea
+Propicio las fieles atenciones,
+Mientras el ﬁn de ſu eſperança jua
+No ſolicitas en edad robua</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="110" y="814"/>
+	<Point x="110" y="1402"/>
+	<Point x="1270" y="1402"/>
+	<Point x="1270" y="814"/>
+	<Point x="128" y="812"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Crece feliz, o vitorioſa rama
+De aqueos Regios troncos inmortales
+Que deuoto venero, y cuya fama
+Penetra los zaﬁros celeiales. (ma
+Crece, y los rayos  anu la invidia acla-
+Indiintos agora, al ſol yguales
+Honren, eternizando miribera,
+Las Eclypticas nobles de tu esfera.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="signature-mark">
+	<Coords>
+	<Point x="782" y="2008"/>
+	<Point x="782" y="2095"/>
+	<Point x="979" y="2095"/>
+	<Point x="979" y="2008"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>❡❡❡ 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="catch-word">
+	<Coords>
+	<Point x="1100" y="2004"/>
+	<Point x="1100" y="2081"/>
+	<Point x="1305" y="2081"/>
+	<Point x="1305" y="2004"/>
+	<Point x="1153" y="1998"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cre-</Unicode></TextEquiv></TextRegion></Page></PcGts>

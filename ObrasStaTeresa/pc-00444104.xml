@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444104">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:58:26</Created>
+	<LastChange>2011-12-19T11:39:25</LastChange></Metadata>
+	<Page imageFilename="00444104.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="456" y="53"/>
+	<Point x="768" y="53"/>
+	<Point x="768" y="241"/>
+	<Point x="456" y="241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>176</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="436" y="263"/>
+	<Point x="2017" y="248"/>
+	<Point x="2025" y="2656"/>
+	<Point x="1733" y="2658"/>
+	<Point x="1719" y="2663"/>
+	<Point x="1604" y="2683"/>
+	<Point x="1406" y="2676"/>
+	<Point x="453" y="2663"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>la ahogaran, eo es bueno para los letrados
+ me lo mandan eſcriuir, porque por la bon‐
+dad de Dios todos egan aqui, y podra ſer ſe
+les vaya el tiempo en aplicar ſcrituras, y aun‐
+que no les dexaran de aprouechar mucho las
+letras antes y deſpues, aqui en eos ratos de
+oracion, poca neceſsidad ay de eas a mi pa‐
+recer,  no es para entibiar la voluntad, por‐
+que el entendimiento ea entonces de verſe
+cerca de la luz con grandiſsima claridad, que
+aun yo, con ſer la que ſoy, parezco otra, y es
+an que me ha acaecido eando en ea quie
+tud, con no entender ca coſa, que reze en
+Latin, en eſpecial del Pſalterio, no ſolo enten‐
+der el verſo en romance, no paar adelante
+en regalarme de ver lo que el romance quie‐
+re dezir: dexemos  vuieen de predicar o
+enſeñar, que entonces bien es ayudarſe de
+aquel bien, para ayudar a los pobres de poco
+ſaber, como yo, que es gran coſa la charidad,
+y ee aprouechar almas empre yendo deſ‐
+nudamente por Dios. An que en eos tiem
+pos de quietud, dexar deſcanſar el alma cõ ſu
+deſcanſo: quedenſe las letras a vn cabo: tiem
+po vendra que aprouechen a el Señor, y las tẽ
+gan en tanto, que por ningun theſoro quie‐
+ran auerlas dexado de ſaber, ſolo para ſeruir a</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1730" y="2669"/>
+	<Point x="1794" y="2662"/>
+	<Point x="1981" y="2673"/>
+	<Point x="2014" y="2709"/>
+	<Point x="1991" y="2776"/>
+	<Point x="1720" y="2776"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſu Ma-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="630" y="3064"/>
+	<Point x="1575" y="3064"/>
+	<Point x="1575" y="3149"/>
+	<Point x="630" y="3149"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="953" y="121"/>
+	<Point x="953" y="224"/>
+	<Point x="1573" y="224"/>
+	<Point x="1573" y="121"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442627">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T23:31:29</Created>
+	<LastChange>2012-03-12T14:12:12</LastChange></Metadata>
+	<Page imageFilename="00442627.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="413" y="63"/>
+	<Point x="1187" y="65"/>
+	<Point x="1183" y="171"/>
+	<Point x="505" y="187"/>
+	<Point x="374" y="180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="165" y="184"/>
+	<Point x="353" y="187"/>
+	<Point x="452" y="190"/>
+	<Point x="1193" y="182"/>
+	<Point x="1472" y="187"/>
+	<Point x="1481" y="1580"/>
+	<Point x="1471" y="2148"/>
+	<Point x="1247" y="2147"/>
+	<Point x="1005" y="2168"/>
+	<Point x="156" y="2171"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y abraçandole por las piernas, comẽço a orar muy
+de propoto, diziendo: Ay ſeñor mio, no me cono-
+ce vuera merced? Pues mireme bien, que yo ſoy
+aquel moço Andres, que quitò vuera merced de la
+encina donde eaua atado. Reconociole don Quixo
+te, y aẽdole por la mano, ſe boluio a los que ai eſ-
+tauan, y dixo. Porque vean vueras mercedes, quan
+de importancia es, auer cauaeros andates en el mũ-
+do, que desfagan los tuertos, y agrauios, que en el ſe
+hazen, por los inſolentes, y malos hombres, que en
+el viuen. Sepan vueras mercedes, que los dias paſ-
+ſados, paando yo por vn boſque, oy vnos gritos, y
+vnas vozes muy laimoſas, como de perſona aﬂigi-
+da, y meneeroſa: acudi luego, euado de mi obliga
+cion, hazia la parte donde me parecio que las lamen
+tables vozes ſonauan, y haè atado a vna encina, a
+ee muchacho, que aora eà delante (de lo que me
+huelgo en el alma, porque ſera teigo que no me de
+xarà mentir en nada.) Digo que eaua atado a la en-
+cina, deſnudo del medio cuerpo arriba, y eauale
+abriendo a açotes con las riendas de vna yegua, vn
+viano, que deſpues ſupe que era amo ſuyo: y aſsi
+como yo le vi, le pregunte la cauſa de tan atroz va-
+pulamiento, reſpondio el zaﬁo, que le açotaua por-
+que era ſu criado, y que ciertos deſcuydos que te-
+nia, nacian mas de ladron, que de mple. A lo qual
+ee niño dixo: Señor no me açota no porque le pi
+do mi ſalario. El amo replicò, no ſe que arengas, y
+diſculpas, las quales aunque de mi fueron oydas, no
+fueron admitidas. En reſulucion, yo le hize deſatar,
+y tomè juramento al viano, de que le euaria con
+go, y le pagaria vn real ſobre otro, y aun ſanumados.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1259" y="2151"/>
+	<Point x="1414" y="2152"/>
+	<Point x="1419" y="2211"/>
+	<Point x="1250" y="2217"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No es</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1272" y="82"/>
+	<Point x="1266" y="169"/>
+	<Point x="1463" y="176"/>
+	<Point x="1462" y="78"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>176</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="450" y="2292"/>
+	<Point x="449" y="2357"/>
+	<Point x="920" y="2356"/>
+	<Point x="1126" y="2357"/>
+	<Point x="1138" y="2292"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

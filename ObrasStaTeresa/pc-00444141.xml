@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444141">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:32:57</Created>
+	<LastChange>2011-12-19T11:39:27</LastChange></Metadata>
+	<Page imageFilename="00444141.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="363" y="94"/>
+	<Point x="1538" y="106"/>
+	<Point x="1536" y="227"/>
+	<Point x="348" y="218"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="173" y="225"/>
+	<Point x="968" y="226"/>
+	<Point x="1785" y="240"/>
+	<Point x="1801" y="2630"/>
+	<Point x="1671" y="2651"/>
+	<Point x="1640" y="2636"/>
+	<Point x="1540" y="2642"/>
+	<Point x="1479" y="2675"/>
+	<Point x="1439" y="2628"/>
+	<Point x="912" y="2655"/>
+	<Point x="142" y="2654"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>muy deſada de proprio intereſe, el agua ſe
+enbeue tanto que ca nunca ſe ſeca, mas  es
+tierra que aun ſe ea en la tierra, y con tan-
+tas eſpinas como yo al principio eaua, y aun
+no quitada de las ocaones, ni tan agradeci-
+da como merece tan gran merced, tornaſe la
+tierra a ſecar, y  el hortelano ſe deſcuyda,
+y el Señor por ſola ſu bondad no torna a que-
+rer ouer, dad por perdida la huerta, que an
+me acaecio a mi algunas vezes, que cierto yo
+me eſpanto, y  no vuiera paado por mi no
+lo pudiera creer, eſcriuolo para cõſuelo de al-
+mas tã ﬂacas como la mia  nunca deſeſperẽ,
+ni dexẽ de cõﬁar en la grandeza de Dios, aũ-
+que deſpues de tã encumbradas como es e-
+garlas el Señor aqui, cayã, no deſmayẽ, no ſe
+quieren perder del todo,  lagrimas todo lo
+ganã, vn agua trae otra. Vna de las coſas por
+me animo ẽdo la  ſoy a obedecer en eſcri-
+uir eo, y dar quẽta de mi ruyn vida, y de las
+mercedes  me ha hecho el Señor cõ no ſeruir
+le, no oﬀenderle, ha do ea, que cierto yo
+quiera aqui tener gran autoridad, para  ſe
+me creyera eo. Al Señor ſuplico ſu mage-
+ad la de. Digo que no deſmaye nadie de
+los que han començado a tener oracion
+con dezir  torno a ſer malo es peor yr</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1550" y="2654"/>
+	<Point x="1611" y="2643"/>
+	<Point x="1639" y="2637"/>
+	<Point x="1671" y="2653"/>
+	<Point x="1724" y="2647"/>
+	<Point x="1745" y="2731"/>
+	<Point x="1577" y="2739"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ade-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="600" y="3052"/>
+	<Point x="1616" y="3052"/>
+	<Point x="1593" y="3170"/>
+	<Point x="600" y="3166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1577" y="129"/>
+	<Point x="1575" y="228"/>
+	<Point x="1750" y="234"/>
+	<Point x="1736" y="129"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>213</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1276" y="2642"/>
+	<Point x="1283" y="2737"/>
+	<Point x="1425" y="2733"/>
+	<Point x="1459" y="2723"/>
+	<Point x="1428" y="2633"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O 3</Unicode></TextEquiv></TextRegion></Page></PcGts>

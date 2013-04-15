@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441763">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T15:16:15</Created>
+	<LastChange>2011-07-05T14:26:28</LastChange></Metadata>
+	<Page imageFilename="00441763.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r16" index="1"/>
+	<RegionRefIndexed regionRef="r30" index="2"/>
+	<RegionRefIndexed regionRef="r34" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r33" type="credit">
+	<Coords>
+	<Point x="688" y="3114"/>
+	<Point x="1485" y="3114"/>
+	<Point x="1461" y="3214"/>
+	<Point x="700" y="3211"/>
+	<Point x="690" y="3190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="catch-word">
+	<Coords>
+	<Point x="1809" y="2821"/>
+	<Point x="1809" y="2933"/>
+	<Point x="1990" y="2933"/>
+	<Point x="1990" y="2821"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dul-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="421" y="2523"/>
+	<Point x="1620" y="2546"/>
+	<Point x="1647" y="2892"/>
+	<Point x="442" y="2855"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vn pintado Gilguero,
+Mas ramiete, que ave, parecia;
+Con pico liſongero
+Cantor de la Alba, que deſpierta al dia;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="392" y="1169"/>
+	<Point x="1623" y="1169"/>
+	<Point x="1671" y="2492"/>
+	<Point x="409" y="2495"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vi, con prodiga vena
+De parlero crial un Arroiuelo,
+Iugando con la arena,
+I enamorando de ſu riſa al Cielo.
+A la margen amena,
+Vna vez murmurando, otra corriendo,
+Eaba entreteniendo;
+Eſpejo guarnecido de eſmeralda
+Me parecio, al mirae,
+De el prado la guirnalda:
+Mas abrioſe en el vae
+Vna invidioſa cueva de repente,
+Enmudecio el Arroio,
+Crecio la obſcuridad de el negro hoio,
+I ſepultò recien nacida Fuente;
+Cuia corriente breve reauraron
+Ojos, que de piadoſos la oraron.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="469" y="266"/>
+	<Point x="1669" y="254"/>
+	<Point x="1678" y="1126"/>
+	<Point x="454" y="1130"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La Tierra eaba ufana,
+I en aura blanda la adulaba el viento
+Quando una nube fria
+Hurtò en breve momento
+A mis ojos el dia;
+I arrojando de el ſeno un duro raio,
+Tocò la Planta bea,
+I juntamente derribò con ea
+Toda la gala, Primavera, i Maio.
+Quedò el ſuelo de verde honor robado,
+I vio en ceniças ſu ſoberbia el prado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="header">
+	<Coords>
+	<Point x="752" y="135"/>
+	<Point x="752" y="238"/>
+	<Point x="1509" y="238"/>
+	<Point x="1509" y="135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MELPOMENE,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="page-number">
+	<Coords>
+	<Point x="204" y="126"/>
+	<Point x="204" y="250"/>
+	<Point x="383" y="250"/>
+	<Point x="383" y="126"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>168</Unicode></TextEquiv></TextRegion></Page></PcGts>

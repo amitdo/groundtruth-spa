@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438233">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T03:41:34</Created>
+	<LastChange>2011-12-19T11:38:27</LastChange></Metadata>
+	<Page imageFilename="00438233.tif" imageWidth="2124" imageHeight="3165">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r37" index="0"/>
+	<RegionRefIndexed regionRef="r59" index="1"/>
+	<RegionRefIndexed regionRef="r22" index="2"/>
+	<RegionRefIndexed regionRef="r47" index="3"/>
+	<RegionRefIndexed regionRef="r27" index="4"/>
+	<RegionRefIndexed regionRef="r49" index="5"/>
+	<RegionRefIndexed regionRef="r51" index="6"/>
+	<RegionRefIndexed regionRef="r29" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="500" y="71"/>
+	<Point x="1552" y="57"/>
+	<Point x="1560" y="136"/>
+	<Point x="1500" y="175"/>
+	<Point x="1388" y="178"/>
+	<Point x="1374" y="173"/>
+	<Point x="1361" y="173"/>
+	<Point x="1315" y="179"/>
+	<Point x="1162" y="176"/>
+	<Point x="755" y="192"/>
+	<Point x="626" y="189"/>
+	<Point x="590" y="188"/>
+	<Point x="557" y="181"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De Don Pedro Calderon de la Barca.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="1057" y="251"/>
+	<Point x="1130" y="185"/>
+	<Point x="1157" y="181"/>
+	<Point x="1167" y="183"/>
+	<Point x="1202" y="188"/>
+	<Point x="1333" y="184"/>
+	<Point x="1354" y="181"/>
+	<Point x="1397" y="184"/>
+	<Point x="1483" y="181"/>
+	<Point x="1494" y="181"/>
+	<Point x="1592" y="174"/>
+	<Point x="1730" y="168"/>
+	<Point x="1839" y="192"/>
+	<Point x="1977" y="705"/>
+	<Point x="1967" y="777"/>
+	<Point x="1965" y="820"/>
+	<Point x="1947" y="885"/>
+	<Point x="1918" y="2106"/>
+	<Point x="1735" y="2112"/>
+	<Point x="1543" y="2101"/>
+	<Point x="1511" y="2084"/>
+	<Point x="1321" y="2087"/>
+	<Point x="1258" y="2092"/>
+	<Point x="1190" y="2087"/>
+	<Point x="1179" y="2088"/>
+	<Point x="1148" y="2089"/>
+	<Point x="1102" y="2089"/>
+	<Point x="1093" y="2087"/>
+	<Point x="1066" y="2082"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ninguna deſdicha iguala,
+que ſentencia fuera mala,
+ traxo en tanto rigor
+la ſentencia en mi favor:
+ò mal aya la importuna
+erea, que n ninguna
+piedad me inﬂuyò al nacer
+larga vida, para ſer
+objeto de la fortuna.
+Plegue à Dios,  en ſus hiorias
+Bredà, eſcrivan mil naciones
+con tu ruina ſus blaſones,
+con tu ſangre ſus vitorias:
+cubra el olvido tus glorias,
+y  alabança deſeas,
+porados tus muros veas,
+Corra ſangriento el Conﬁn
+tu miſma ſangre, y al ﬁn
+deerta campaña ſeas.
+Eſlas azules vanderas,
+que Aſpas queman en las luzes
+del Sol, con las roxas Cruzes,
+entapizen ſus esferas,
+à tus miſmas anas mueras,
+endo vna vengança eraña
+ﬁn dea infelize hazaña;
+y porque todo lo tengas,
+plegue à los Cielos, que vengas
+Bredà, â ſer del Rey de Aſpaña.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="catch-word">
+	<Coords>
+	<Point x="1527" y="2948"/>
+	<Point x="1573" y="2948"/>
+	<Point x="1632" y="2955"/>
+	<Point x="1630" y="3033"/>
+	<Point x="1517" y="3029"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>las</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="credit">
+	<Coords>
+	<Point x="765" y="3054"/>
+	<Point x="1465" y="3047"/>
+	<Point x="1456" y="3157"/>
+	<Point x="1356" y="3160"/>
+	<Point x="769" y="3156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>©Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="signature-mark">
+	<Coords>
+	<Point x="1087" y="3018"/>
+	<Point x="1079" y="3004"/>
+	<Point x="1100" y="2953"/>
+	<Point x="1111" y="2946"/>
+	<Point x="1178" y="2945"/>
+	<Point x="1221" y="2995"/>
+	<Point x="1200" y="3009"/>
+	<Point x="1144" y="3027"/>
+	<Point x="1101" y="3017"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords>
+	<Point x="22" y="166"/>
+	<Point x="244" y="150"/>
+	<Point x="530" y="202"/>
+	<Point x="974" y="224"/>
+	<Point x="996" y="226"/>
+	<Point x="1022" y="216"/>
+	<Point x="1020" y="302"/>
+	<Point x="851" y="313"/>
+	<Point x="756" y="301"/>
+	<Point x="319" y="307"/>
+	<Point x="310" y="316"/>
+	<Point x="309" y="315"/>
+	<Point x="301" y="319"/>
+	<Point x="291" y="319"/>
+	<Point x="281" y="317"/>
+	<Point x="268" y="329"/>
+	<Point x="254" y="320"/>
+	<Point x="240" y="313"/>
+	<Point x="183" y="304"/>
+	<Point x="165" y="310"/>
+	<Point x="117" y="306"/>
+	<Point x="65" y="317"/>
+	<Point x="34" y="312"/>
+	<Point x="10" y="278"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Los dos. A mi.
+Mor. Quien và deerrado? Los dos. Yo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords>
+	<Point x="28" y="2042"/>
+	<Point x="275" y="2038"/>
+	<Point x="326" y="2042"/>
+	<Point x="554" y="2042"/>
+	<Point x="595" y="2038"/>
+	<Point x="601" y="2041"/>
+	<Point x="616" y="2033"/>
+	<Point x="629" y="2032"/>
+	<Point x="640" y="2032"/>
+	<Point x="968" y="2022"/>
+	<Point x="974" y="2089"/>
+	<Point x="687" y="2091"/>
+	<Point x="490" y="2092"/>
+	<Point x="452" y="2091"/>
+	<Point x="441" y="2091"/>
+	<Point x="438" y="2096"/>
+	<Point x="435" y="2100"/>
+	<Point x="400" y="2104"/>
+	<Point x="371" y="2099"/>
+	<Point x="362" y="2107"/>
+	<Point x="171" y="2130"/>
+	<Point x="31" y="2117"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Morg. Vamos, pues. Alb. A midolor</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="4" y="1642"/>
+	<Point x="484" y="1638"/>
+	<Point x="611" y="1631"/>
+	<Point x="958" y="1625"/>
+	<Point x="958" y="1992"/>
+	<Point x="684" y="2024"/>
+	<Point x="640" y="2023"/>
+	<Point x="622" y="2023"/>
+	<Point x="616" y="2027"/>
+	<Point x="609" y="2035"/>
+	<Point x="601" y="2038"/>
+	<Point x="583" y="2030"/>
+	<Point x="517" y="2029"/>
+	<Point x="9" y="2029"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Carl. Yo voy contento à morir,
+dame, madre, mil abraços,
+antes que tan breves lazos
+pueda la muerte romper;
+pueo que no me he de vèr
+otra vez en eós braços.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords>
+	<Point x="370" y="2191"/>
+	<Point x="397" y="2128"/>
+	<Point x="397" y="2117"/>
+	<Point x="416" y="2105"/>
+	<Point x="442" y="2101"/>
+	<Point x="511" y="2100"/>
+	<Point x="660" y="2099"/>
+	<Point x="681" y="2097"/>
+	<Point x="1097" y="2096"/>
+	<Point x="1136" y="2104"/>
+	<Point x="1141" y="2093"/>
+	<Point x="1157" y="2094"/>
+	<Point x="1168" y="2094"/>
+	<Point x="1193" y="2102"/>
+	<Point x="1232" y="2096"/>
+	<Point x="1248" y="2102"/>
+	<Point x="1336" y="2094"/>
+	<Point x="1508" y="2093"/>
+	<Point x="1523" y="2110"/>
+	<Point x="1571" y="2110"/>
+	<Point x="1634" y="2114"/>
+	<Point x="1610" y="2344"/>
+	<Point x="1103" y="2356"/>
+	<Point x="979" y="2351"/>
+	<Point x="930" y="2362"/>
+	<Point x="812" y="2349"/>
+	<Point x="798" y="2350"/>
+	<Point x="789" y="2354"/>
+	<Point x="782" y="2363"/>
+	<Point x="764" y="2366"/>
+	<Point x="735" y="2370"/>
+	<Point x="717" y="2355"/>
+	<Point x="667" y="2368"/>
+	<Point x="643" y="2362"/>
+	<Point x="573" y="2318"/>
+	<Point x="381" y="2332"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vanſe, y ſale el Principe de Polonia, Eſpinola, y
+todos los que pudieren acompañandolos, y tocan
+atabales, y trompetas, y al ſalir el de Polonia,
+y Eſpinola, tocan chirimias.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="paragraph">
+	<Coords>
+	<Point x="367" y="2362"/>
+	<Point x="469" y="2348"/>
+	<Point x="566" y="2344"/>
+	<Point x="611" y="2369"/>
+	<Point x="687" y="2375"/>
+	<Point x="724" y="2376"/>
+	<Point x="765" y="2377"/>
+	<Point x="796" y="2359"/>
+	<Point x="843" y="2358"/>
+	<Point x="932" y="2367"/>
+	<Point x="976" y="2358"/>
+	<Point x="1103" y="2362"/>
+	<Point x="1346" y="2356"/>
+	<Point x="1598" y="2361"/>
+	<Point x="1581" y="2932"/>
+	<Point x="1507" y="2939"/>
+	<Point x="1252" y="2916"/>
+	<Point x="1160" y="2888"/>
+	<Point x="1125" y="2937"/>
+	<Point x="1009" y="2970"/>
+	<Point x="390" y="2970"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eſp. Venga tu Alteza, ò Principe excelente.
+cuya vida felize, cuyo Eado
+en quieta paz, en dulce vnion ſe aumente,
+à lo voraz del tiempo reſervado:
+venga tu Alteza venturoſamente
+en alas de ſu fama celebrado
+deſde el do ſel de ſu templada Corte
+à los elados pielagos del Norte.
+Aqui ſu fa ma vivirà ſegura</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r59" type="paragraph">
+	<Coords>
+	<Point x="24" y="331"/>
+	<Point x="31" y="342"/>
+	<Point x="58" y="325"/>
+	<Point x="93" y="319"/>
+	<Point x="176" y="320"/>
+	<Point x="204" y="321"/>
+	<Point x="232" y="317"/>
+	<Point x="246" y="320"/>
+	<Point x="252" y="322"/>
+	<Point x="260" y="330"/>
+	<Point x="269" y="335"/>
+	<Point x="316" y="324"/>
+	<Point x="332" y="315"/>
+	<Point x="750" y="312"/>
+	<Point x="893" y="320"/>
+	<Point x="906" y="1615"/>
+	<Point x="760" y="1619"/>
+	<Point x="522" y="1628"/>
+	<Point x="127" y="1634"/>
+	<Point x="33" y="1636"/>
+	<Point x="0" y="1633"/>
+	<Point x="6" y="344"/>
+	<Point x="3" y="327"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Flor. Eſcucha, Morgan, que à vno
+hiz� de mi voto empleo,
+q� quando nombrar deſeo
+el vno, y me determino,
+al primero que me inclino,
+es al porero que veo:
+pero  atento al juizio
+de mi voz el Mundo eà,
+en mis eremos verà
+que doy de mi honor indicio:
+ſea trie ſacriﬁcio
+vn hĳo al piadoſo Altar
+de vn padre, porque al juzgar
+en tan grande confuon,
+ſerà mas noble eleccion,
+agradecer, que obligar.
+Carlos, Carlos, tu has de ſer
+de mis braços deerrado,
+tu ciegamente entregado,
+de la Via has de ſalir.</Unicode></TextEquiv></TextRegion></Page></PcGts>

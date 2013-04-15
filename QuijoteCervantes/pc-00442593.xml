@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442593">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T09:55:27</Created>
+	<LastChange>2012-03-12T14:12:10</LastChange></Metadata>
+	<Page imageFilename="00442593.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="146" y="178"/>
+	<Point x="360" y="178"/>
+	<Point x="376" y="200"/>
+	<Point x="516" y="196"/>
+	<Point x="518" y="181"/>
+	<Point x="1480" y="178"/>
+	<Point x="1470" y="2157"/>
+	<Point x="1232" y="2157"/>
+	<Point x="1230" y="2181"/>
+	<Point x="146" y="2188"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>moſa Dorotea, la hija vnica del rico Clenardo. Ad‐
+mirada quedó Dorotea, quando oyo el nombre de
+ſu padre, y de ver quan de poco era el que le nom‐
+braua, porque ya ſe ha dicho de la mala manera que
+Cardenio eaua veido. Y aſsi le dixo: Y quien ſoys
+vos hermano, que aſsi ſabeys el nombre de mi pa‐
+dre, porque yo haa aora ( mal no me acuerdo) en
+todo el diſcurſo del cuento, de mi deſdicha, no le he
+nombrado? Soy, reſpondio Cardenio, aquel n ven‐
+tura, que ſegun vos ſeñora aueys dicho, Luſzinda di
+xo que era ſu eſpoſa. Soy el deſdichado Cardenio, a
+quien el mal termino de aquel que a vos os ha pueſ‐
+to en el que eays, me ha traydo a que me veays,
+qual me veys, roto, deſnudo, falto de todo humano
+conſuelo, y lo que es peor de todo, falto de juyzio,
+pues no le tengo, no quãdo al cielo ſe le antoja dar
+mele, por algun breue eſpacio. Yo, Teodora ſoy, el
+que me haè preſente a las n razones de don Fer‐
+nando, y el que aguardò oyr el , que de ſer ſu eſpo‐
+ſa pronunciò Luſzinda. Yo ſoy el que no tuuo ani‐
+mo, para ver en que paraua ſu deſmayo ni lo que re‐
+ſulraua del papel, que le fue haa do en el pecho. Por
+que no tuuo el alma ſufrimiento, para ver tantas deſ
+uenturas juntas, y aſsi dexè la caſa, y la paciencia, y
+vna carta que dexè a vn hueſped mio, a quien rogue
+que en manos de Luſzinda la puee, y vineme a eſ
+tas ſoledados, con intencion de acabar en eas la vi‐
+da, que deſde aquel pũto aborreci, como mortal ene
+miga mia. Mas no ha querido la ſuerte quitarme la,
+contentandoſe con quitarme el juyzio, quiça por
+guardarme para la buena ventura, que he tenido en
+haaros: pues endo verdad, como creo que lo es,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1258" y="2162"/>
+	<Point x="1493" y="2162"/>
+	<Point x="1493" y="2242"/>
+	<Point x="1258" y="2242"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>lo que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="457" y="2300"/>
+	<Point x="1128" y="2306"/>
+	<Point x="1124" y="2354"/>
+	<Point x="1020" y="2357"/>
+	<Point x="445" y="2354"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="381" y="76"/>
+	<Point x="381" y="188"/>
+	<Point x="500" y="189"/>
+	<Point x="498" y="169"/>
+	<Point x="1102" y="173"/>
+	<Point x="1102" y="76"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1265" y="80"/>
+	<Point x="1265" y="165"/>
+	<Point x="1417" y="165"/>
+	<Point x="1417" y="80"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>159</Unicode></TextEquiv></TextRegion></Page></PcGts>

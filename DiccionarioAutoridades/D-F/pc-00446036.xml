@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00446036">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T01:48:03</Created>
+	<LastChange>2011-06-24T14:05:34</LastChange></Metadata>
+	<Page imageFilename="00446036.tif" imageWidth="2818" imageHeight="4078">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="471" y="277"/>
+	<Point x="1442" y="277"/>
+	<Point x="1641" y="275"/>
+	<Point x="2510" y="281"/>
+	<Point x="2520" y="323"/>
+	<Point x="2510" y="348"/>
+	<Point x="2480" y="361"/>
+	<Point x="2263" y="353"/>
+	<Point x="2247" y="437"/>
+	<Point x="1861" y="427"/>
+	<Point x="1847" y="452"/>
+	<Point x="1802" y="446"/>
+	<Point x="1792" y="428"/>
+	<Point x="1543" y="431"/>
+	<Point x="1375" y="427"/>
+	<Point x="1356" y="450"/>
+	<Point x="1305" y="446"/>
+	<Point x="1270" y="428"/>
+	<Point x="1126" y="423"/>
+	<Point x="1114" y="446"/>
+	<Point x="1095" y="447"/>
+	<Point x="1077" y="427"/>
+	<Point x="724" y="434"/>
+	<Point x="710" y="355"/>
+	<Point x="461" y="353"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EXPLICACION DE LAS ABREVIATURAS DE LOS NOMBRES
+de los Autores y obras, que van citados en ee tercer Tomo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="2427" y="3700"/>
+	<Point x="2557" y="3700"/>
+	<Point x="2550" y="3773"/>
+	<Point x="2418" y="3763"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAN-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="credit">
+	<Coords>
+	<Point x="936" y="3929"/>
+	<Point x="1070" y="3932"/>
+	<Point x="1859" y="3931"/>
+	<Point x="1866" y="3966"/>
+	<Point x="1858" y="3991"/>
+	<Point x="1839" y="4000"/>
+	<Point x="1521" y="3993"/>
+	<Point x="950" y="3990"/>
+	<Point x="941" y="3987"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r158" embText="true">
+	<Coords>
+	<Point x="450" y="463"/>
+	<Point x="2581" y="463"/>
+	<Point x="2583" y="3645"/>
+	<Point x="2442" y="3657"/>
+	<Point x="2292" y="3721"/>
+	<Point x="823" y="3716"/>
+	<Point x="452" y="3711"/></Coords></TableRegion></Page></PcGts>

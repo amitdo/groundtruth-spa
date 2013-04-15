@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440060">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T01:02:20</Created>
+	<LastChange>2011-12-19T11:38:39</LastChange></Metadata>
+	<Page imageFilename="00440060.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r16" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/>
+	<RegionRefIndexed regionRef="r11" index="3"/>
+	<RegionRefIndexed regionRef="r12" index="4"/>
+	<RegionRefIndexed regionRef="r13" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="736" y="374"/>
+	<Point x="781" y="373"/>
+	<Point x="855" y="371"/>
+	<Point x="872" y="368"/>
+	<Point x="872" y="448"/>
+	<Point x="738" y="448"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>44</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="705" y="640"/>
+	<Point x="1556" y="635"/>
+	<Point x="2588" y="638"/>
+	<Point x="2583" y="1012"/>
+	<Point x="1067" y="1017"/>
+	<Point x="1009" y="1020"/>
+	<Point x="995" y="1010"/>
+	<Point x="707" y="1014"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El dia 25, de Noviembre de 1740 entrò en el anteojo
+del dicho Inrumento el limbo Meridionàl del Sol, y le
+obſervamos diar ( en partes del Micrometro ) del centro
+del anteojo 1068</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="709" y="2812"/>
+	<Point x="886" y="2813"/>
+	<Point x="906" y="2814"/>
+	<Point x="924" y="2813"/>
+	<Point x="1362" y="2814"/>
+	<Point x="1975" y="2818"/>
+	<Point x="2054" y="2820"/>
+	<Point x="2127" y="2826"/>
+	<Point x="2159" y="2826"/>
+	<Point x="2262" y="2827"/>
+	<Point x="2346" y="2831"/>
+	<Point x="2602" y="2825"/>
+	<Point x="2592" y="3286"/>
+	<Point x="1929" y="3288"/>
+	<Point x="716" y="3272"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El dia 27 del miſmo mes entrò el limbo Septentrionàl
+por el otro lado del anteojo, en el qual obſervabamos α de
+Aquario; y le haamos diàr del centro, ò de la cruz de
+los hilos, en partes del Micro‑
+metro 2209</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="812" y="3286"/>
+	<Point x="988" y="3289"/>
+	<Point x="1763" y="3290"/>
+	<Point x="1762" y="3375"/>
+	<Point x="811" y="3362"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El medio entre todas las ob‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="catch-word">
+	<Coords>
+	<Point x="2477" y="3399"/>
+	<Point x="2605" y="3399"/>
+	<Point x="2605" y="3478"/>
+	<Point x="2477" y="3478"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſer-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="credit">
+	<Coords>
+	<Point x="1011" y="4019"/>
+	<Point x="1939" y="4019"/>
+	<Point x="1939" y="4087"/>
+	<Point x="1011" y="4087"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="1204" y="343"/>
+	<Point x="2043" y="343"/>
+	<Point x="2043" y="444"/>
+	<Point x="1204" y="444"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="684" y="461"/>
+	<Point x="683" y="629"/>
+	<Point x="1033" y="625"/>
+	<Point x="2630" y="613"/>
+	<Point x="2629" y="445"/>
+	<Point x="2383" y="449"/>
+	<Point x="1863" y="453"/>
+	<Point x="1406" y="449"/>
+	<Point x="1048" y="451"/>
+	<Point x="984" y="454"/>
+	<Point x="972" y="454"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nacion de la amplitud del arco celee, que comprehendìa
+la Meridiana.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r10">
+	<Coords>
+	<Point x="691" y="1784"/>
+	<Point x="1161" y="1778"/>
+	<Point x="1493" y="1773"/>
+	<Point x="1830" y="1786"/>
+	<Point x="2629" y="1797"/>
+	<Point x="2631" y="2818"/>
+	<Point x="2170" y="2822"/>
+	<Point x="2045" y="2812"/>
+	<Point x="681" y="2805"/></Coords></TableRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="709" y="1023"/>
+	<Point x="1705" y="1021"/>
+	<Point x="2644" y="1023"/>
+	<Point x="2636" y="1789"/>
+	<Point x="2563" y="1788"/>
+	<Point x="2423" y="1785"/>
+	<Point x="2158" y="1784"/>
+	<Point x="1842" y="1782"/>
+	<Point x="1826" y="1768"/>
+	<Point x="1717" y="1764"/>
+	<Point x="1473" y="1761"/>
+	<Point x="1158" y="1773"/>
+	<Point x="706" y="1778"/>
+	<Point x="706" y="1389"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El medio entre todas las ob‑
+ſervaciones de ε de Oriòn, que
+paaba por el miſmo lado, dàn
+la diancia de ea Erea del
+centro del anteojo 1374
+luego diancia de ε al limbo Me‑
+ridionàl del Sol en partes del
+Micrometro 306 = 00 01 24 00⅔</Unicode></TextEquiv></TextRegion></Page></PcGts>

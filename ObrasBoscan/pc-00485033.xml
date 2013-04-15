@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485033">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T18:35:38</Created>
+	<LastChange>2011-05-12T13:40:46</LastChange></Metadata>
+	<Page imageFilename="00485033.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="369" y="160"/>
+	<Point x="1513" y="152"/>
+	<Point x="1582" y="1260"/>
+	<Point x="1586" y="1282"/>
+	<Point x="1582" y="1307"/>
+	<Point x="1500" y="1308"/>
+	<Point x="403" y="1298"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tengo en el alma pueo
+Su geo tan hermoſo,
+Y aquel ſaber ear adonde quiera:
+El recoger oneo,
+El alegre repoſo,
+El noſeque, de no ſe que manera.
+Y con aneza entera
+El ſaber deſcanſado:
+El dulce trato hablando,
+El acudir caando,
+Y aquel graue mirar diimulado.
+Todo eo'a auſente:
+Y otro tiempo lo tuue muy preſente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="347" y="1321"/>
+	<Point x="1708" y="1321"/>
+	<Point x="1708" y="2504"/>
+	<Point x="347" y="2504"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Contando oy los dias
+Que pao no ſe como:
+Con los paados no oſo entrar en cuenta.
+Acuden fantaas.
+Ai a orar me tomo,
+De ver tanta ﬂaqueza en tanta aﬀrenta.
+Ai ſe me preſenta
+La aga del penar.
+Hazenſeme mil años
+Las oras de mis daños:
+Por otra parte' l empre imaginar
+Me haze pareçer,
+Que quanto e paado, fue ayer.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="613" y="3026"/>
+	<Point x="1400" y="3026"/>
+	<Point x="1400" y="3096"/>
+	<Point x="613" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

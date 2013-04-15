@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485265">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T13:32:05</Created>
+	<LastChange>2011-05-12T13:41:10</LastChange></Metadata>
+	<Page imageFilename="00485265.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="361" y="955"/>
+	<Point x="1641" y="955"/>
+	<Point x="1641" y="1705"/>
+	<Point x="361" y="1705"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y  en amar alguna vez aciertan
+Eas, que ſaltan contra'I poder mio:
+Acada pao el punto deſconciertan,
+El punto, del amar que'n eas crio.
+Para querer, tan tibias ſe deſpiertan,
+Que aun el fuego d'amor hazen ſer frio.
+Tienen cienmil errores, y eregias,
+En los precetos delas leyes mias.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="337" y="1773"/>
+	<Point x="1602" y="1773"/>
+	<Point x="1602" y="2526"/>
+	<Point x="337" y="2526"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ea maldad peruerſa, y tan eraña,
+Anda por todo el mundo derramada:
+En Thracia, en Macedonia, en Alemaña:
+En Memphis, y en la Libya deſpoblada.
+Pero de todas eas, es Eſpaña,
+Dea aga mortal mas infamada:
+En ea reynan mas eos errores,
+Los quales peilencias ſon d'amores.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="625" y="3027"/>
+	<Point x="1398" y="3027"/>
+	<Point x="1398" y="3091"/>
+	<Point x="625" y="3091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="377" y="170"/>
+	<Point x="1162" y="169"/>
+	<Point x="1240" y="158"/>
+	<Point x="1629" y="163"/>
+	<Point x="1650" y="902"/>
+	<Point x="380" y="886"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Algunas ay del todo endurecidas,
+Contra'l poder que ſobre'l mundo tengo:
+En deſechar mi ley enuegecidas,
+Diziendo, que ya yo, ni voy ni vengo.
+Aqueas an de ſer muy bien punidas,
+Por la mengua que deas yo ſoengo.
+Es vna gente inﬁel ea, y perjura:
+Contra'l deleyte, y ley dela natura.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="584" y="56"/>
+	<Point x="1126" y="62"/>
+	<Point x="1129" y="161"/>
+	<Point x="579" y="158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="1144" y="61"/>
+	<Point x="1637" y="63"/>
+	<Point x="1650" y="151"/>
+	<Point x="1151" y="150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. CXLVIII.</Unicode></TextEquiv></TextRegion></Page></PcGts>

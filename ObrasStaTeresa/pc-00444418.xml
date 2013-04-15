@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444418">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T11:37:47</Created>
+	<LastChange>2011-12-19T11:39:44</LastChange></Metadata>
+	<Page imageFilename="00444418.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="922" y="61"/>
+	<Point x="1561" y="61"/>
+	<Point x="1561" y="206"/>
+	<Point x="922" y="206"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="426" y="220"/>
+	<Point x="2028" y="209"/>
+	<Point x="2019" y="2652"/>
+	<Point x="408" y="2680"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>muy biẽ aſsi como agora entẽdia lo cõtrario
+de mi. Y an conoci era merced grãde la que
+el Señor me auia hecho, y an comence a cõ-
+derar el lugar que tenia en el inﬁerno me-
+recido por mis peccados, y daua muchos loo-
+res a Dios, porque no me parecia conocia mi
+alma ſegun la veya trocada. Eando en ea
+conderaciõ, dio me vn impetu grande n
+entender yo la ocaon, parecia que el alma
+ſe me queria ſalir del cuerpo, porque no ca-
+bia en ea ni ſe haaua capaz de eſperar tan-
+to bien, era impetu exceſsiuo que no me po-
+dia valer, y a mi parecer diﬀerente de otras
+vezes, ni entendia que auia el alma, ni que
+queria que tan alterada eaua, arrimeme
+que aun ſentada no podia ear, porque
+la fuerça natural me faltaua toda. Ean-
+do en eo veo ſobre mi cabeça vna palo-
+ma bien diﬀerente de las de aca, porque no
+tenia eas plumas, no las alas de vnas con-
+chicas que echauan de  gran reſplandor,
+era grande mas que paloma, pareceme
+que oya el ruydo que hazia con las alas,
+earia aleando eſpacio de vna Aue Ma-
+ria, ya el alma eaua de tal ſuerte, que
+perdiendoſe aſsi de  la perdio de via,
+ſoegoſe el ſpiritu con tan buen hueſped</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1822" y="2661"/>
+	<Point x="1966" y="2658"/>
+	<Point x="1966" y="2743"/>
+	<Point x="1820" y="2751"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="612" y="3070"/>
+	<Point x="1569" y="3070"/>
+	<Point x="1569" y="3162"/>
+	<Point x="612" y="3162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="429" y="112"/>
+	<Point x="425" y="211"/>
+	<Point x="631" y="212"/>
+	<Point x="632" y="112"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>492</Unicode></TextEquiv></TextRegion></Page></PcGts>

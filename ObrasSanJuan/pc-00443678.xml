@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443678">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T04:00:23</Created>
+	<LastChange>2011-01-03T10:27:32</LastChange></Metadata>
+	<Page imageFilename="00443678.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r16" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r15" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="89" y="256"/>
+	<Point x="1558" y="264"/>
+	<Point x="1565" y="372"/>
+	<Point x="89" y="372"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CANCION DECIMATERCIA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="313" y="443"/>
+	<Point x="1330" y="419"/>
+	<Point x="1375" y="616"/>
+	<Point x="1351" y="945"/>
+	<Point x="307" y="940"/>
+	<Point x="314" y="650"/>
+	<Point x="310" y="626"/>
+	<Point x="312" y="606"/>
+	<Point x="314" y="548"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Apartalos Amado,
+Que voi de buelo: Buelvete Paloma,
+Que el ciervo vulnerado
+Por el otero aſoma,
+I al aire de tu buelo freſco toma.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="254" y="974"/>
+	<Point x="1371" y="974"/>
+	<Point x="1371" y="1110"/>
+	<Point x="254" y="1110"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DECLARACION.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="214" y="1165"/>
+	<Point x="1360" y="1171"/>
+	<Point x="1610" y="1181"/>
+	<Point x="1584" y="2387"/>
+	<Point x="986" y="2374"/>
+	<Point x="81" y="2387"/>
+	<Point x="81" y="1396"/>
+	<Point x="212" y="1389"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N los grandes deſeos i fervores de amor, cuales en
+las Canciones paſadas ha morado el alma; ſuele
+el Amado vitar a ſu Eſpoſa, alta i delicada i amo-
+ſamente, i con grande fuerça de amor; porque ordina-
+riamente ſegun los grandes fervores i anas de amor,
+que han precedido en el alma, ſuelen ſer tambien gran
+des las mercedes i vias que Dios la haze, i como aora
+el alma con tantas anas avia deſeado eos divinos
+ojos, que en la Cancion paſada acaba de dezir, deſcu-
+briole el Amado algunos rayos de ſu grandeza i divini
+dad, ſegun ea deſeaba, los cuales fueron de tanta alte
+za,i con tanta fuerça comunicados, que la hizo ſalir de
+ por arrobamiento i ea, el cual acaece al principio
+con gran detrimento i temor del natural, i a no pudiẽ
+do ſufrir el ſuceſo en ſujeto tan flaco, dize en la preſen-
+to Cancion:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="496" y="2394"/>
+	<Point x="946" y="2386"/>
+	<Point x="1104" y="2388"/>
+	<Point x="1109" y="2500"/>
+	<Point x="496" y="2500"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Apartalos Amado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="catch-word">
+	<Coords>
+	<Point x="1334" y="2784"/>
+	<Point x="1371" y="2784"/>
+	<Point x="1372" y="2778"/>
+	<Point x="1387" y="2760"/>
+	<Point x="1396" y="2758"/>
+	<Point x="1412" y="2758"/>
+	<Point x="1449" y="2756"/>
+	<Point x="1508" y="2756"/>
+	<Point x="1528" y="2759"/>
+	<Point x="1564" y="2772"/>
+	<Point x="1586" y="2824"/>
+	<Point x="1345" y="2824"/>
+	<Point x="1346" y="2825"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bolaba</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="credit">
+	<Coords>
+	<Point x="765" y="2924"/>
+	<Point x="1430" y="2924"/>
+	<Point x="1430" y="2996"/>
+	<Point x="765" y="2996"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="572" y="137"/>
+	<Point x="998" y="137"/>
+	<Point x="998" y="236"/>
+	<Point x="572" y="236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cancion 13.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1415" y="166"/>
+	<Point x="1430" y="240"/>
+	<Point x="1534" y="250"/>
+	<Point x="1596" y="246"/>
+	<Point x="1586" y="163"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>665</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="206" y="2519"/>
+	<Point x="1583" y="2518"/>
+	<Point x="1572" y="2674"/>
+	<Point x="1577" y="2683"/>
+	<Point x="1578" y="2689"/>
+	<Point x="1577" y="2745"/>
+	<Point x="1559" y="2751"/>
+	<Point x="1415" y="2750"/>
+	<Point x="1386" y="2747"/>
+	<Point x="1379" y="2766"/>
+	<Point x="1364" y="2773"/>
+	<Point x="1197" y="2772"/>
+	<Point x="1148" y="2759"/>
+	<Point x="1095" y="2772"/>
+	<Point x="1066" y="2768"/>
+	<Point x="946" y="2753"/>
+	<Point x="99" y="2776"/>
+	<Point x="109" y="2688"/>
+	<Point x="106" y="2688"/>
+	<Point x="200" y="2671"/>
+	<Point x="203" y="2630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>S a ſaber, eſos tus ojos divinos porque me hazen bo
+lar ſaliendo de mi a ſuma contemplacion, ſobre lo
+que ſufre el natural, lo cual dize, porque le parecia</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="signature-mark">
+	<Coords>
+	<Point x="924" y="2781"/>
+	<Point x="924" y="2827"/>
+	<Point x="971" y="2832"/>
+	<Point x="1089" y="2827"/>
+	<Point x="1089" y="2781"/>
+	<Point x="974" y="2764"/>
+	<Point x="948" y="2760"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vu 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="drop-capital">
+	<Coords>
+	<Point x="84" y="2522"/>
+	<Point x="84" y="2648"/>
+	<Point x="196" y="2648"/>
+	<Point x="200" y="2629"/>
+	<Point x="196" y="2522"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="drop-capital">
+	<Coords>
+	<Point x="80" y="1172"/>
+	<Point x="80" y="1347"/>
+	<Point x="207" y="1342"/>
+	<Point x="204" y="1172"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="marginalia">
+	<Coords>
+	<Point x="95" y="521"/>
+	<Point x="95" y="660"/>
+	<Point x="287" y="660"/>
+	<Point x="303" y="619"/>
+	<Point x="306" y="610"/>
+	<Point x="303" y="598"/>
+	<Point x="300" y="570"/>
+	<Point x="287" y="521"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eſpoſo.</Unicode></TextEquiv></TextRegion></Page></PcGts>

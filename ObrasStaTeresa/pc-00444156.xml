@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444156">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:34:51</Created>
+	<LastChange>2011-12-19T11:39:28</LastChange></Metadata>
+	<Page imageFilename="00444156.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="876" y="86"/>
+	<Point x="1564" y="82"/>
+	<Point x="1566" y="208"/>
+	<Point x="896" y="216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="444" y="228"/>
+	<Point x="2029" y="223"/>
+	<Point x="2058" y="2656"/>
+	<Point x="436" y="2682"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lo vno mueraſe el gran poder del Señor, y
+como no ſomos parte, quando ſu Magead
+quiere, de detener tãpoco el cuerpo como el
+alma, ni ſomos ſeñores de eo, no que mal
+que nos peſe, vemos que ay ſuperior, y que
+eas mercedes ſon dadas del, y  de noſotros
+no podemos en nada nada: e imprimeſe mu-
+cha humildad, y aun yo conﬁeo  grã temor
+me hizo, al principio grandiſsimo, porque ver
+ſe an leuantar vn cuerpo de la tierra, que
+aunque el ſpiritu euaua tras , y es con ſua-
+uidad grande  no ſe ree, no ſe pierde el
+ſentido, a lo menos yo eaua de manera en
+mi, que podia entẽder era euada. Mueraſe
+vna Magead de quiẽ puede hazer aqueo 
+eſpeluza los cabeos, y queda vn gran temor
+de oﬀender a tan grã Dios, ee embuelto en
+grandiſsimo amor, que ſe cobra de nueuo a
+quien vemos le tiene tan grande, a vn guſano
+tan podrido, que no parece ſe contenta con
+euar tan de veras el alma a , no que quie-
+re el cuerpo, aun endo tan mortal, y de tier-
+ra tan ſuzia, como por tãtas oﬀenſas ſe ha he-
+cho. Tambien dexa vn deſamiento eraño,
+que yo no podre dezir como es, pareceme 
+puedo dezir es diﬀerente en alguna manera,
+digo mas que eotras coſas de ſolo ſpiritu,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1733" y="2665"/>
+	<Point x="2013" y="2663"/>
+	<Point x="2017" y="2746"/>
+	<Point x="1999" y="2745"/>
+	<Point x="1732" y="2757"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>porque</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="624" y="3076"/>
+	<Point x="1580" y="3068"/>
+	<Point x="1571" y="3143"/>
+	<Point x="1425" y="3154"/>
+	<Point x="624" y="3143"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="461" y="119"/>
+	<Point x="461" y="216"/>
+	<Point x="661" y="216"/>
+	<Point x="661" y="119"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>228</Unicode></TextEquiv></TextRegion></Page></PcGts>

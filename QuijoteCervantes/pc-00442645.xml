@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442645">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:05:03</Created>
+	<LastChange>2012-03-12T14:12:13</LastChange></Metadata>
+	<Page imageFilename="00442645.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="434" y="76"/>
+	<Point x="1151" y="95"/>
+	<Point x="1159" y="176"/>
+	<Point x="891" y="180"/>
+	<Point x="633" y="177"/>
+	<Point x="523" y="196"/>
+	<Point x="424" y="173"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="152" y="185"/>
+	<Point x="367" y="169"/>
+	<Point x="524" y="200"/>
+	<Point x="627" y="184"/>
+	<Point x="1174" y="181"/>
+	<Point x="1430" y="191"/>
+	<Point x="1456" y="2137"/>
+	<Point x="1101" y="2130"/>
+	<Point x="1021" y="2133"/>
+	<Point x="998" y="2148"/>
+	<Point x="158" y="2168"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que no le dan ocaon para que ſe ſuelte, y la que ſa-
+be que tiene marido, que en cogiendola en la pri-
+mera deſemboltura, la ha de quitar la vida? An 
+la que es buena por temor, o por falta de lugar, yo
+no la quiero tener en aquea eima en que tendrè
+a la ſolicitada, y perſeguida, que ſalio con la corona
+del vencimiento. De modo que por eas razones,
+y por otras muchas que te pudiera dezir, para acre
+ditar, y fortalecer la opinion que tengo, deeo que
+Camila mi eſpoſa, pae por eas diﬁcultades, y ſe
+acriſole, y quilate en el fuego de verſe requerida, y
+ſolicitada, y de quiẽ tenga valor para poner en ea
+ſus deeos: y  ea ſale, como creo que ſaldra, con
+la palma dea bataa, tendrè yo por n ygual mi
+ventura. Podrè yo dezir, que eà colmo el vazio
+de mis deeos. Dire que me cupo en ſuerte, la mu-
+ger fuerte, de quien el Sabio dize, que quien la ha-
+arà? Y quando eo ſuceda al reues de lo que pien-
+ſo, con el guo de ver que acertè en mi opinion, e
+uarè n pena, la que de razon podra cauſarme mi
+tan cooſa experiencia. Y proſupueo que ningu-
+na coſa de quantas me dixeres en contra de mi deſ-
+ſeo, ha de ſer de algun prouecho, para dexar de po-
+nerle por la obra, quiero, o amigo Lotario, que te
+diſpongas a ſer el inrumento que labre aquea
+obra de mi guo, que yo te dare lugar para que lo
+hagas, n faltarte todo aqueo que yo viere ſer ne-
+ceario para ſolicitar a vna muger honea, honra-
+da, recogida, y denterefſada. Y mueueme, entre
+otras coſas, a ﬁar de ti ea tan ardua empreſa, el ver
+que  de ti es vencida Camila, no ha de egar el vẽ
+cimiento a todo trance, y rigor, no a ſolo a tener</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="462" y="2306"/>
+	<Point x="1128" y="2306"/>
+	<Point x="1128" y="2360"/>
+	<Point x="462" y="2360"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1288" y="83"/>
+	<Point x="1288" y="179"/>
+	<Point x="1430" y="185"/>
+	<Point x="1431" y="138"/>
+	<Point x="1433" y="83"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>185</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="1059" y="2145"/>
+	<Point x="1059" y="2194"/>
+	<Point x="1154" y="2194"/>
+	<Point x="1154" y="2145"/>
+	<Point x="1089" y="2132"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aa</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1331" y="2151"/>
+	<Point x="1330" y="2218"/>
+	<Point x="1434" y="2218"/>
+	<Point x="1443" y="2148"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>por</Unicode></TextEquiv></TextRegion></Page></PcGts>

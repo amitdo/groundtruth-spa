@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442433">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T09:57:05</Created>
+	<LastChange>2012-03-12T14:12:01</LastChange></Metadata>
+	<Page imageFilename="00442433.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="401" y="39"/>
+	<Point x="1151" y="32"/>
+	<Point x="1160" y="155"/>
+	<Point x="710" y="158"/>
+	<Point x="565" y="179"/>
+	<Point x="490" y="182"/>
+	<Point x="392" y="162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="183" y="176"/>
+	<Point x="556" y="192"/>
+	<Point x="1344" y="169"/>
+	<Point x="1430" y="188"/>
+	<Point x="1436" y="2159"/>
+	<Point x="1388" y="2154"/>
+	<Point x="1353" y="2163"/>
+	<Point x="1284" y="2148"/>
+	<Point x="1258" y="2162"/>
+	<Point x="1182" y="2167"/>
+	<Point x="918" y="2171"/>
+	<Point x="196" y="2163"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>modo no tenemos que comer oy, replico don Qui‐
+xote. Eo fuera, reſpondio Sancho, quando faltaran
+por eos prados las yeruas  vuera merced dize 
+conoce, con que ſuelen ſuplir ſemejantes faltas, los
+tan mal auenturados andãtes cauaeros como vueſ‐
+tra merced es. Con todo eo, reſpondio don Quixo
+te, tomara yo aora mas ayna vn quartal de pan, o vna
+hogaza, y dos cabeças de ſardinas arenques, que
+quantas yeruas deſcriue Dioſcorides, aunque fuera
+el ilurado por el Door Laguna. Mas con todo
+eo ſube en tu jumento, Sancho el bueno, y vente
+tras mi, que Dios  es proueedor de todas las coſas,
+no nos ha de faltar, y mas andãdo tan en ſu ſeruicio,
+como andamos, pues no falta a los moſquitos del
+ayre, ni a los guſanios de la tierra, ni a los renaqua-
+jos del agua. Y es tan piadoſo que haze ſalir ſu ſol, ſo
+bre los buenos y los malos, y ueue ſobre los injuſ‐
+tos y juos. Mas bueno era vuera merced, dixo Sã‐
+cho, para predicador, que para cauaero andante.
+De todo ſahian, y han de ſaber, los cauaeros andan‐
+tes Sancho, dixo dõ Quixote, porque cauaero an‐
+dante vuo en los paados glos, que aſsi ſe paraua a
+hazer vn ſermon, o platica enmitad de vn campo
+real, como  fuera graduado por la vniuerdad de
+Paris: de donde ſe inﬁere, que nunca la lança emho‐
+to la pluma, ni la pluma, la lança. Aora bien ſea aſsi,
+como vuera merced dize, reſpõdio Sãcho, vamos
+aora de aqui, y procuremos donde aloxar ea no-
+che, y quiera Dios  ſea en parte donde no aya man‐
+tas, ni mãteadores, ni fantaſmas, ni Moros encãtados,
+  los ay, dare al diablo el hato, y el garauato. Pide‐
+ſelo tu a Dios hijo, dixo don Quixote, y guia tu por</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="465" y="2298"/>
+	<Point x="1126" y="2291"/>
+	<Point x="1122" y="2358"/>
+	<Point x="458" y="2358"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1256" y="2168"/>
+	<Point x="1256" y="2214"/>
+	<Point x="1433" y="2214"/>
+	<Point x="1433" y="2168"/>
+	<Point x="1387" y="2159"/>
+	<Point x="1365" y="2172"/>
+	<Point x="1292" y="2157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>donde</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1295" y="80"/>
+	<Point x="1295" y="165"/>
+	<Point x="1418" y="165"/>
+	<Point x="1418" y="80"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>79</Unicode></TextEquiv></TextRegion></Page></PcGts>

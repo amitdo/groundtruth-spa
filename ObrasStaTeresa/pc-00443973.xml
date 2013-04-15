@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443973">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T05:43:00</Created>
+	<LastChange>2011-12-19T11:39:18</LastChange></Metadata>
+	<Page imageFilename="00443973.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="288" y="59"/>
+	<Point x="1512" y="59"/>
+	<Point x="1512" y="214"/>
+	<Point x="288" y="214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="151" y="240"/>
+	<Point x="1664" y="231"/>
+	<Point x="1681" y="2604"/>
+	<Point x="1646" y="2618"/>
+	<Point x="1615" y="2625"/>
+	<Point x="1585" y="2613"/>
+	<Point x="1572" y="2622"/>
+	<Point x="1418" y="2609"/>
+	<Point x="1389" y="2636"/>
+	<Point x="1343" y="2639"/>
+	<Point x="505" y="2635"/>
+	<Point x="137" y="2627"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>luego me dio el Señor a entender, como fa-
+uorece a los que ſe hazen fuerça para ſeruir-
+le, la qual nadie no entendia de mi, no gran
+diſsima voluntad. A la hora me dio vn tan
+gran contento de tener aquel eado, que
+nunca jamas me falto haa oy: y mudo Dios
+la ſequedad que tenia mi alma, en grandiſ-
+ma ternura, dauãme deleyte todas las coſas
+de la religion, y es verdad que andaua algu‐
+nas vezes barriendo en horas, que yo ſolia
+occupar en mi regalo y gala, y acordando‐
+ſeme que eaua. libre de aqueo me daua vn
+nueuo gozo, que yo me eſpantaua, y no po-
+dia entender por donde venia. Quãdo deo
+me acuerdo no ay coſa que delante ſe me pu
+ee, por graue que fuee, que dubdae
+de acometerla, porque ya tengo experien‑
+cia en muchas, que  me ayudo al principio
+a determinarme a hazerlo, que endo ſolo
+por Dios haa encomençarlo quiere, para
+que mas merezcamos que el alma ẽta aquel
+eſpanto, y mientras mayor,  ſale con eo,
+mayor premio, y mas ſabroſo ſe haze deſ‑
+pues, aun en ea vida lo paga ſu Magead
+por vnas vias, que ſolo quien goza deo lo
+entiende. Eo tengo por experiencia, como
+he dicho, en muchas coſas harto graues, y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1517" y="2626"/>
+	<Point x="1581" y="2638"/>
+	<Point x="1595" y="2629"/>
+	<Point x="1619" y="2626"/>
+	<Point x="1635" y="2622"/>
+	<Point x="1664" y="2626"/>
+	<Point x="1666" y="2680"/>
+	<Point x="1664" y="2692"/>
+	<Point x="1618" y="2697"/>
+	<Point x="1514" y="2696"/>
+	<Point x="1513" y="2675"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>an</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="625" y="3058"/>
+	<Point x="1560" y="3061"/>
+	<Point x="1582" y="3145"/>
+	<Point x="608" y="3144"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1551" y="131"/>
+	<Point x="1551" y="222"/>
+	<Point x="1707" y="222"/>
+	<Point x="1707" y="131"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>45</Unicode></TextEquiv></TextRegion></Page></PcGts>

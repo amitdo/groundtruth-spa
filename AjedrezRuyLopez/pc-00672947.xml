@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672947">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 10.0</Creator>
+	<Created>2012-02-01T19:52:00</Created>
+	<LastChange>2012-03-05T06:46:08</LastChange></Metadata>
+	<Page imageFilename="00672947.tif" imageWidth="1864" imageHeight="2614">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r12" index="0"/>
+	<RegionRefIndexed regionRef="r16" index="1"/>
+	<RegionRefIndexed regionRef="r1204" index="2"/>
+	<RegionRefIndexed regionRef="r22" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1204" type="drop-capital">
+	<Coords>
+	<Point x="261" y="1561"/>
+	<Point x="257" y="1243"/>
+	<Point x="599" y="1243"/>
+	<Point x="600" y="1418"/>
+	<Point x="599" y="1554"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="signature-mark">
+	<Coords>
+	<Point x="1111" y="2230"/>
+	<Point x="1111" y="2305"/>
+	<Point x="1230" y="2305"/>
+	<Point x="1230" y="2230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B 5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1300" y="2231"/>
+	<Point x="1300" y="2291"/>
+	<Point x="1428" y="2291"/>
+	<Point x="1428" y="2231"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>otra</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="568" y="251"/>
+	<Point x="568" y="323"/>
+	<Point x="747" y="328"/>
+	<Point x="763" y="323"/>
+	<Point x="1101" y="323"/>
+	<Point x="1101" y="251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>del juego del axedrez.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1366" y="277"/>
+	<Point x="1366" y="326"/>
+	<Point x="1415" y="326"/>
+	<Point x="1415" y="277"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>13</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="marginalia">
+	<Coords>
+	<Point x="1441" y="327"/>
+	<Point x="1440" y="349"/>
+	<Point x="1439" y="365"/>
+	<Point x="1441" y="370"/>
+	<Point x="1561" y="370"/>
+	<Point x="1561" y="327"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Seneca.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="marginalia">
+	<Coords>
+	<Point x="1432" y="394"/>
+	<Point x="1432" y="452"/>
+	<Point x="1589" y="452"/>
+	<Point x="1589" y="394"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ouidio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="marginalia">
+	<Coords>
+	<Point x="1436" y="567"/>
+	<Point x="1436" y="610"/>
+	<Point x="1574" y="610"/>
+	<Point x="1574" y="567"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Marcial.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="251" y="321"/>
+	<Point x="301" y="321"/>
+	<Point x="301" y="322"/>
+	<Point x="351" y="322"/>
+	<Point x="351" y="323"/>
+	<Point x="401" y="323"/>
+	<Point x="401" y="324"/>
+	<Point x="451" y="324"/>
+	<Point x="451" y="325"/>
+	<Point x="500" y="325"/>
+	<Point x="500" y="326"/>
+	<Point x="550" y="326"/>
+	<Point x="550" y="327"/>
+	<Point x="600" y="327"/>
+	<Point x="600" y="328"/>
+	<Point x="650" y="328"/>
+	<Point x="650" y="329"/>
+	<Point x="700" y="329"/>
+	<Point x="700" y="330"/>
+	<Point x="918" y="330"/>
+	<Point x="918" y="329"/>
+	<Point x="1087" y="329"/>
+	<Point x="1087" y="328"/>
+	<Point x="1255" y="328"/>
+	<Point x="1255" y="327"/>
+	<Point x="1255" y="328"/>
+	<Point x="1276" y="328"/>
+	<Point x="1276" y="329"/>
+	<Point x="1297" y="329"/>
+	<Point x="1297" y="330"/>
+	<Point x="1317" y="330"/>
+	<Point x="1317" y="331"/>
+	<Point x="1338" y="331"/>
+	<Point x="1338" y="332"/>
+	<Point x="1359" y="332"/>
+	<Point x="1359" y="333"/>
+	<Point x="1379" y="333"/>
+	<Point x="1379" y="334"/>
+	<Point x="1400" y="334"/>
+	<Point x="1400" y="335"/>
+	<Point x="1420" y="335"/>
+	<Point x="1422" y="377"/>
+	<Point x="1421" y="379"/>
+	<Point x="1421" y="422"/>
+	<Point x="1422" y="422"/>
+	<Point x="1422" y="466"/>
+	<Point x="1423" y="466"/>
+	<Point x="1423" y="509"/>
+	<Point x="1424" y="509"/>
+	<Point x="1424" y="553"/>
+	<Point x="1425" y="553"/>
+	<Point x="1425" y="596"/>
+	<Point x="1426" y="596"/>
+	<Point x="1426" y="640"/>
+	<Point x="1427" y="640"/>
+	<Point x="1427" y="683"/>
+	<Point x="1428" y="683"/>
+	<Point x="1428" y="727"/>
+	<Point x="1429" y="727"/>
+	<Point x="1429" y="770"/>
+	<Point x="1430" y="770"/>
+	<Point x="1430" y="814"/>
+	<Point x="1431" y="814"/>
+	<Point x="1431" y="857"/>
+	<Point x="1432" y="857"/>
+	<Point x="1432" y="901"/>
+	<Point x="1433" y="901"/>
+	<Point x="1433" y="944"/>
+	<Point x="1434" y="944"/>
+	<Point x="1434" y="955"/>
+	<Point x="1345" y="955"/>
+	<Point x="1345" y="956"/>
+	<Point x="1202" y="956"/>
+	<Point x="1202" y="957"/>
+	<Point x="1059" y="957"/>
+	<Point x="1059" y="958"/>
+	<Point x="915" y="958"/>
+	<Point x="915" y="959"/>
+	<Point x="821" y="959"/>
+	<Point x="821" y="960"/>
+	<Point x="727" y="960"/>
+	<Point x="727" y="961"/>
+	<Point x="626" y="961"/>
+	<Point x="626" y="962"/>
+	<Point x="524" y="962"/>
+	<Point x="524" y="963"/>
+	<Point x="422" y="963"/>
+	<Point x="422" y="964"/>
+	<Point x="320" y="964"/>
+	<Point x="320" y="965"/>
+	<Point x="251" y="965"/>
+	<Point x="251" y="320"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode> arman aechãças. Seneca. Latrũculis ludimus.
+Iugamos al juego delos ſalteadorcicos. Ouidio.
+Siue latrocinij ſub imagine calculus ibit : fac pe-
+reat vitreo miles ab hoe tuus. Marcial. Hic mi-
+hi bieno numeratur teera pũo : calculus hic
+gemino diſcolor hoe perit. No pongo aqui los
+nõbres delas otras prouincias, porque ni es eo
+mi intencion, ni era coſa de hazer: porque fuera
+nunca acabar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="1185" y="1228"/>
+	<Point x="1185" y="1229"/>
+	<Point x="1329" y="1229"/>
+	<Point x="1329" y="1230"/>
+	<Point x="1440" y="1230"/>
+	<Point x="1440" y="1248"/>
+	<Point x="1441" y="1248"/>
+	<Point x="1440" y="1248"/>
+	<Point x="1440" y="1263"/>
+	<Point x="1439" y="1263"/>
+	<Point x="1439" y="1278"/>
+	<Point x="1438" y="1278"/>
+	<Point x="1438" y="1292"/>
+	<Point x="1437" y="1292"/>
+	<Point x="1437" y="1307"/>
+	<Point x="1436" y="1307"/>
+	<Point x="1436" y="1322"/>
+	<Point x="1435" y="1322"/>
+	<Point x="1435" y="1640"/>
+	<Point x="1436" y="1640"/>
+	<Point x="1435" y="1640"/>
+	<Point x="1435" y="2216"/>
+	<Point x="1407" y="2216"/>
+	<Point x="1407" y="2217"/>
+	<Point x="1379" y="2217"/>
+	<Point x="1379" y="2218"/>
+	<Point x="1352" y="2218"/>
+	<Point x="1352" y="2219"/>
+	<Point x="1324" y="2219"/>
+	<Point x="1324" y="2220"/>
+	<Point x="1297" y="2220"/>
+	<Point x="1297" y="2221"/>
+	<Point x="1269" y="2221"/>
+	<Point x="1269" y="2222"/>
+	<Point x="1241" y="2222"/>
+	<Point x="1241" y="2223"/>
+	<Point x="1214" y="2223"/>
+	<Point x="1214" y="2224"/>
+	<Point x="1186" y="2224"/>
+	<Point x="1186" y="2225"/>
+	<Point x="1159" y="2225"/>
+	<Point x="1159" y="2226"/>
+	<Point x="1131" y="2226"/>
+	<Point x="1131" y="2227"/>
+	<Point x="1103" y="2227"/>
+	<Point x="1103" y="2228"/>
+	<Point x="1076" y="2228"/>
+	<Point x="1076" y="2229"/>
+	<Point x="1048" y="2229"/>
+	<Point x="1048" y="2230"/>
+	<Point x="1021" y="2230"/>
+	<Point x="1021" y="2231"/>
+	<Point x="926" y="2231"/>
+	<Point x="926" y="2230"/>
+	<Point x="246" y="2230"/>
+	<Point x="246" y="1578"/>
+	<Point x="245" y="1578"/>
+	<Point x="602" y="1578"/>
+	<Point x="602" y="1465"/>
+	<Point x="603" y="1465"/>
+	<Point x="603" y="1352"/>
+	<Point x="605" y="1352"/>
+	<Point x="605" y="1236"/>
+	<Point x="625" y="1236"/>
+	<Point x="625" y="1235"/>
+	<Point x="651" y="1235"/>
+	<Point x="651" y="1234"/>
+	<Point x="677" y="1234"/>
+	<Point x="677" y="1233"/>
+	<Point x="703" y="1233"/>
+	<Point x="703" y="1232"/>
+	<Point x="729" y="1232"/>
+	<Point x="729" y="1231"/>
+	<Point x="755" y="1231"/>
+	<Point x="755" y="1230"/>
+	<Point x="781" y="1230"/>
+	<Point x="781" y="1229"/>
+	<Point x="1042" y="1229"/>
+	<Point x="1042" y="1228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OS NOMBRES De los ſca-
+chos ſon ocho : y el mas principal
+ſe llama Rey, en cuyo bien, ò cõtra
+ria fortuna cõe el ganarſe, ò per
+derſe el juego. El ſegundo ſe llama
+reyna, ò dama, ò dona en Ytaliano. Los que ean
+mas coniuntos a eas dos pieças ſe llamã Arﬁles,
+vno arﬁl del rey, y otro arﬁl dela Reyna, ò dama.
+Tras eos ſe ponẽ otros, vno de vna parte, y otro
+dela otra: y llamã ſe Cauallos : el  ea de la parte
+del rey, ſe llama, cauallo del rey: y el que ea dela
+parte dela dama, ſe llama cauallo dela dama. Tras
+eos eã otros dos, vno dela parte del rey en la vl
+tima caſa, y llama ſe Roque del Rey : y otro en la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="heading">
+	<Coords>
+	<Point x="1347" y="957"/>
+	<Point x="1434" y="957"/>
+	<Point x="1434" y="988"/>
+	<Point x="1435" y="988"/>
+	<Point x="1435" y="1031"/>
+	<Point x="1436" y="1031"/>
+	<Point x="1436" y="1075"/>
+	<Point x="1437" y="1075"/>
+	<Point x="1437" y="1118"/>
+	<Point x="1438" y="1118"/>
+	<Point x="1438" y="1162"/>
+	<Point x="1439" y="1162"/>
+	<Point x="1439" y="1205"/>
+	<Point x="1440" y="1205"/>
+	<Point x="1440" y="1228"/>
+	<Point x="1331" y="1228"/>
+	<Point x="1331" y="1227"/>
+	<Point x="1187" y="1227"/>
+	<Point x="1187" y="1226"/>
+	<Point x="1040" y="1226"/>
+	<Point x="1040" y="1227"/>
+	<Point x="779" y="1227"/>
+	<Point x="779" y="1228"/>
+	<Point x="753" y="1228"/>
+	<Point x="753" y="1229"/>
+	<Point x="727" y="1229"/>
+	<Point x="727" y="1230"/>
+	<Point x="701" y="1230"/>
+	<Point x="701" y="1231"/>
+	<Point x="675" y="1231"/>
+	<Point x="675" y="1232"/>
+	<Point x="649" y="1232"/>
+	<Point x="649" y="1233"/>
+	<Point x="623" y="1233"/>
+	<Point x="623" y="1234"/>
+	<Point x="605" y="1234"/>
+	<Point x="605" y="1232"/>
+	<Point x="488" y="1232"/>
+	<Point x="488" y="1233"/>
+	<Point x="371" y="1233"/>
+	<Point x="371" y="1234"/>
+	<Point x="254" y="1234"/>
+	<Point x="254" y="1235"/>
+	<Point x="254" y="1183"/>
+	<Point x="253" y="1183"/>
+	<Point x="253" y="1132"/>
+	<Point x="252" y="1132"/>
+	<Point x="252" y="1081"/>
+	<Point x="251" y="1081"/>
+	<Point x="251" y="967"/>
+	<Point x="322" y="967"/>
+	<Point x="322" y="966"/>
+	<Point x="424" y="966"/>
+	<Point x="424" y="965"/>
+	<Point x="526" y="965"/>
+	<Point x="526" y="964"/>
+	<Point x="628" y="964"/>
+	<Point x="628" y="963"/>
+	<Point x="729" y="963"/>
+	<Point x="729" y="962"/>
+	<Point x="823" y="962"/>
+	<Point x="823" y="961"/>
+	<Point x="917" y="961"/>
+	<Point x="917" y="960"/>
+	<Point x="1061" y="960"/>
+	<Point x="1061" y="959"/>
+	<Point x="1204" y="959"/>
+	<Point x="1204" y="958"/>
+	<Point x="1347" y="958"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Capitu, ix. En que ſe declaran
+los nombres delos ſcachos particularmente, y
+forma y tio dellos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

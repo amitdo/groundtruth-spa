@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442421">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:54:41</Created>
+	<LastChange>2012-03-12T14:12:00</LastChange></Metadata>
+	<Page imageFilename="00442421.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r14" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="126" y="194"/>
+	<Point x="1374" y="194"/>
+	<Point x="1374" y="1745"/>
+	<Point x="126" y="1745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ojos como de traues, y dixo con otras mayores: Por
+dicha haſele oluidado a vuera merced, como yo no
+ſoy cauaero, o quiere que acabe de vomitar las en
+trañas, que me quedaron de anoche. Guardeſe ſu li‐
+cor con todos los diablos, y dexeme a mi. Y el aca-
+bar de dezir eo, y el començar a beuer, todo fue
+vno: mas como al primer trago vio que era agua,
+no quiſo paar adelante, y rogò a Maritornes que ſe
+le truxee de vino, y aſsi lo hizo ea de muy buena
+voluntad, y lo pagò de ſu meſmo dinero, porque en
+efeo ſe dize dea, que aunque eaua en aquel tra‐
+to, tenia vnas ſombras y lexos de Chriiana. Aſsi
+como beuio Sancho, dio de los carcanos a ſu aſno, y
+abriendole la puerta de la venta de par en par, ſe ſa‐
+lio dea, muy contento de no auer pagado nada, y
+de auer ſalido co ſu intencion, aunque auia do a coſ
+ta de ſus acoumbrados ﬁadores, que eran ſus eſpal‐
+das, Verdad es, que el ventero ſe quedó con ſus al‐
+forjas, en pago de lo que ſe le deuia; mas Sancho no
+las echò menos, ſegun ſalio turbado. Quiſo el ven‐
+tero atrancar bien la puerta, aſsi como le vio fuera,
+mas no lo conntieron los mante adores, que era gé
+te, que aunque don Quixote fuera verdaderamen‐
+te de los cauaeros andantes, de la tabla redonda, no
+le eimaran en dos ardites.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="136" y="1840"/>
+	<Point x="1361" y="1840"/>
+	<Point x="1361" y="2092"/>
+	<Point x="136" y="2092"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cap. XVIII. Donde ſe cuentã las razones que pao San
+cho Pança con ſu ſeñor don Quixote, con otras auẽ-
+turas dignas de ſer contadas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="signature-mark">
+	<Coords>
+	<Point x="977" y="2172"/>
+	<Point x="1040" y="2172"/>
+	<Point x="1040" y="2241"/>
+	<Point x="977" y="2241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>K</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="457" y="2304"/>
+	<Point x="1125" y="2304"/>
+	<Point x="1125" y="2356"/>
+	<Point x="457" y="2356"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="1089" y="78"/>
+	<Point x="1089" y="188"/>
+	<Point x="874" y="182"/>
+	<Point x="274" y="188"/>
+	<Point x="274" y="78"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1366" y="78"/>
+	<Point x="1366" y="188"/>
+	<Point x="1267" y="188"/>
+	<Point x="1267" y="187"/>
+	<Point x="1266" y="187"/>
+	<Point x="1266" y="186"/>
+	<Point x="1265" y="186"/>
+	<Point x="1265" y="185"/>
+	<Point x="1264" y="185"/>
+	<Point x="1264" y="184"/>
+	<Point x="1263" y="184"/>
+	<Point x="1264" y="184"/>
+	<Point x="1264" y="144"/>
+	<Point x="1265" y="144"/>
+	<Point x="1265" y="104"/>
+	<Point x="1266" y="104"/>
+	<Point x="1266" y="78"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>73</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="catch-word">
+	<Coords>
+	<Point x="1206" y="2166"/>
+	<Point x="1206" y="2260"/>
+	<Point x="1381" y="2260"/>
+	<Point x="1381" y="2166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Llego</Unicode></TextEquiv></TextRegion></Page></PcGts>

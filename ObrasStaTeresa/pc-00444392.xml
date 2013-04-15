@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444392">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:34:17</Created>
+	<LastChange>2011-12-19T11:39:43</LastChange></Metadata>
+	<Page imageFilename="00444392.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="929" y="73"/>
+	<Point x="1592" y="89"/>
+	<Point x="1580" y="215"/>
+	<Point x="1068" y="209"/>
+	<Point x="1025" y="212"/>
+	<Point x="912" y="207"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="445" y="232"/>
+	<Point x="673" y="236"/>
+	<Point x="984" y="223"/>
+	<Point x="1143" y="229"/>
+	<Point x="2060" y="228"/>
+	<Point x="2071" y="2600"/>
+	<Point x="1992" y="2624"/>
+	<Point x="1799" y="2624"/>
+	<Point x="1055" y="2705"/>
+	<Point x="427" y="2679"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que vuo eas dos juntas que digo en el pue-
+blo, y eando bien fatigada me dixo el Señor,
+No ſabes que ſoy poderoſo, de que temes? y me ae-
+guro que no ſe desharia, con eo quede muy
+conſolada, embiaron al conſejo real con ſu in
+formacion, vino prouion para que ſe diee
+relaciõ de como ſe auia hecho. Hele aqui co
+mençado vn gran pleyto, porque de la ciu-
+dad fueron a la corte, y vuieron de yr de par-
+te del moneerio, y ni auia dineros, ni yo ſa-
+bia que hazer, proueyolo el Señor, que nun-
+ca mi padre prouincial me mando dexae de
+entender en eo, porque es tan amigo de to-
+da virtud, que aunque no ayudaua, no queria
+ſer contra eo, no me dio licencia haa ver
+en lo que paraua para venir aca. Eas er-
+uas de Dios eauan ſolas, y hazian mas con
+ſus oraciones, que con quanto yo andaua ne-
+gociando, aunque fue meneer harta diligen
+cia, algunas vezes parecia que todo faltaua, en
+eſpecial vn dia antes que viniee el prouin-
+cial, que me mãdo la Priora no tratae en na-
+da y era dexarſe todo. Yo me fuy a Dios, y di
+xele Señor ea caſa no es mia, por vos ſe ha
+hecho, aora que no ay nadie que negocie ha-
+galo vuera magead. Quedaua tã deſcanſa
+da, y tan n pena como  tuuiera a todo el</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1727" y="2636"/>
+	<Point x="1797" y="2627"/>
+	<Point x="1850" y="2626"/>
+	<Point x="1901" y="2626"/>
+	<Point x="1998" y="2628"/>
+	<Point x="2011" y="2721"/>
+	<Point x="1730" y="2723"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mundo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="593" y="3056"/>
+	<Point x="1578" y="3068"/>
+	<Point x="1583" y="3161"/>
+	<Point x="597" y="3155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="456" y="110"/>
+	<Point x="642" y="110"/>
+	<Point x="640" y="227"/>
+	<Point x="446" y="219"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>464</Unicode></TextEquiv></TextRegion></Page></PcGts>

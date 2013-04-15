@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443685">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T09:32:12</Created>
+	<LastChange>2011-01-03T08:37:04</LastChange></Metadata>
+	<Page imageFilename="00443685.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="header">
+	<Coords>
+	<Point x="800" y="102"/>
+	<Point x="1422" y="102"/>
+	<Point x="1422" y="225"/>
+	<Point x="800" y="225"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Declaracion de la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1370" y="2425"/>
+	<Point x="1819" y="2425"/>
+	<Point x="1819" y="2615"/>
+	<Point x="1370" y="2615"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAN-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="766" y="2928"/>
+	<Point x="1432" y="2928"/>
+	<Point x="1432" y="2992"/>
+	<Point x="1300" y="2997"/>
+	<Point x="766" y="2992"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="351" y="248"/>
+	<Point x="381" y="245"/>
+	<Point x="410" y="245"/>
+	<Point x="582" y="242"/>
+	<Point x="1887" y="247"/>
+	<Point x="1883" y="832"/>
+	<Point x="1897" y="872"/>
+	<Point x="1895" y="895"/>
+	<Point x="1890" y="2065"/>
+	<Point x="1842" y="2062"/>
+	<Point x="1055" y="2107"/>
+	<Point x="410" y="2057"/>
+	<Point x="327" y="2040"/>
+	<Point x="295" y="1965"/>
+	<Point x="305" y="1180"/>
+	<Point x="322" y="1127"/>
+	<Point x="322" y="1007"/>
+	<Point x="325" y="970"/>
+	<Point x="325" y="952"/>
+	<Point x="307" y="912"/>
+	<Point x="320" y="845"/>
+	<Point x="317" y="280"/>
+	<Point x="330" y="255"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que es el aire del buelo dea, ama aqui tomar freſco. I
+a es, como  dixera, al ardor de tu buelo arde mas; por
+que un amor enciende otro amor. Donde es de notar,
+que Dios no pone ſu gracia i amor en el alma, no ſegú
+la voluntad i amor del alma; por lo cual eo ha de pro-
+curar el buen enamorado, que no falte, pues por eſe me-
+dio, como avemos dicho, moverà mas  a ſe puede de-
+zir a que Dios le tenga mas amor, i ſe recree mas en ſu
+alma; i para ſeguir ea caridad ha de exercitar lo que
+dea dize el Apool, diziendo: Charitas patiens e, be
+nigna e, charitas non amulatur, non agit perperam, non
+inflatur, non e ambitioſa, non qurit qu ſua ſunt, non
+irritatur, non cogitat malum, nongaudet ſuper iniquitate,
+congaudet autem veritati, omnia ﬀert, omnia credit,
+omnia ſperat, omnia ſuinet. La caridad es paciente, es
+benigna, no es embidicſa, no haze mal, no ſe enſober
+bece, no es ambicioſa, no buſca ſus meſmas coſas, no
+ſe alborota, no pienſa mal, no ſe huelga ſobre la mal-
+dad, gozaſe en la verdad, todas las coſas ſufre que ſon
+de ſufrir, cree todas las coſas, es a ſaber, las que ſe de-
+ven creer, todas las coſas eſpera, i todas las
+coſas ſuenta, es a ſaber, que
+convienen a la
+caridad.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="marginalia">
+	<Coords>
+	<Point x="42" y="887"/>
+	<Point x="42" y="1090"/>
+	<Point x="285" y="1090"/>
+	<Point x="302" y="975"/>
+	<Point x="285" y="887"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1.Cor.i3
+4.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="290" y="112"/>
+	<Point x="497" y="112"/>
+	<Point x="497" y="225"/>
+	<Point x="290" y="225"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>672</Unicode></TextEquiv></TextRegion></Page></PcGts>

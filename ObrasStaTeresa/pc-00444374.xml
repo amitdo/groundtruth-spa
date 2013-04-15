@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444374">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:01:46</Created>
+	<LastChange>2011-12-19T11:39:42</LastChange></Metadata>
+	<Page imageFilename="00444374.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="935" y="106"/>
+	<Point x="1198" y="106"/>
+	<Point x="1545" y="107"/>
+	<Point x="1548" y="220"/>
+	<Point x="924" y="224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="415" y="245"/>
+	<Point x="2040" y="231"/>
+	<Point x="2057" y="2629"/>
+	<Point x="1717" y="2631"/>
+	<Point x="1645" y="2658"/>
+	<Point x="1603" y="2660"/>
+	<Point x="466" y="2680"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que como eaua ai a mi plazer y con rega-
+lo no queria yrme a oﬀrecer al trabajo, que to
+do era palabras con Dios, que por pudiẽdo
+ear adonde era mas perfeciõ auia de dexar-
+lo, que  me muriee, muriee. Y con eo
+vn apretamiento de alma, vn quitarme el Se-
+ñor todo el guo en la oracion. En ﬁn yo
+eaua tal que ya me era tormento tan gran-
+de, que ſuplique a aquea ſeñora vuiee por
+bien dexarme venir, porque ya mi confeor
+como me vio aſsi me dixo que me fuee,
+que tambien le mouia Dios como a mi. Ea
+ſentia tanto que la dexae, que era otro tor-
+mento que le auia coado mucho acabarlo
+con el Prouincial por muchas maneras de
+importunaciones. Tuue por grandiſsima co-
+ſa querer venir en eo ſegun lo que ſentia,
+no como era muy temeroſa de Dios, y co-
+mo le dixe que ſe le podia hazer gran ſerui-
+cio, y otras hartas coſas, y di le eſperança que
+era poſsible tornarla a ver, y an con harta
+pena lo tuuo por bien. Ya yo no la tenia de
+venirme, porque entendiendo yo era mas
+perfecion vna coſa y ſeruicio de Dios, con
+el contento que me da contentarle, pae la
+pena de dexar a aquea ſeñora, que tanto la
+via ſentir, y a otras perſonas a quien deuia</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1719" y="2638"/>
+	<Point x="2002" y="2639"/>
+	<Point x="2010" y="2735"/>
+	<Point x="1720" y="2731"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mucho,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="614" y="3057"/>
+	<Point x="1571" y="3065"/>
+	<Point x="1565" y="3163"/>
+	<Point x="622" y="3163"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="442" y="140"/>
+	<Point x="441" y="237"/>
+	<Point x="636" y="229"/>
+	<Point x="637" y="131"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>446</Unicode></TextEquiv></TextRegion></Page></PcGts>

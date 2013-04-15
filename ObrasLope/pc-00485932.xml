@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485932">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T04:35:37</Created>
+	<LastChange>2011-07-28T11:29:14</LastChange></Metadata>
+	<Page imageFilename="00485932.tif" imageWidth="2250" imageHeight="3124">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="603" y="189"/>
+	<Point x="975" y="204"/>
+	<Point x="1436" y="188"/>
+	<Point x="1487" y="194"/>
+	<Point x="1501" y="197"/>
+	<Point x="1547" y="210"/>
+	<Point x="1566" y="207"/>
+	<Point x="1588" y="194"/>
+	<Point x="1604" y="185"/>
+	<Point x="1885" y="218"/>
+	<Point x="1895" y="2754"/>
+	<Point x="1746" y="2768"/>
+	<Point x="1563" y="2781"/>
+	<Point x="1534" y="2791"/>
+	<Point x="1424" y="2789"/>
+	<Point x="1343" y="2802"/>
+	<Point x="1126" y="2800"/>
+	<Point x="549" y="2788"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que no ay que temer deſorden,
+ con vuero amparo van,
+y vos Reynaldos famoſo,
+vuero valor belicoſo,
+oy ſe conſagra a la fama,
+que oy Francia ſu padre os ama,
+y defenſor valeroſo,
+y voſotros fuertes pares
+que haueys hecho hazañas tantas
+en tan diuerſos logares,
+oy pondreys las fuertes plantas
+de la fama en los altares,
+quedara nombre de todos
+quando por tan varios modos,
+ee esfuerço yrreparable
+rinda al yugo, la indomable
+ceruiz de los fuertes godos,
+ee es Roncefuaes donde
+ya ſe ven vueras ventajas:
+y que el Eſpañol ſe eſconde,
+que en ſolo tocar las caxas
+Francia en ſus ecos reſponde,
+ aquee campo rompeys,
+donde yo y todos le veys,
+para paar a Pamplona,
+en la Lis de mi corona,
+vn Leon de Eſpaña porneys:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1468" y="2792"/>
+	<Point x="1458" y="2877"/>
+	<Point x="1769" y="2877"/>
+	<Point x="1769" y="2800"/>
+	<Point x="1619" y="2786"/>
+	<Point x="1585" y="2785"/>
+	<Point x="1569" y="2788"/>
+	<Point x="1524" y="2795"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Roldan</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r6" type="handwritten-annotation">
+	<Coords>
+	<Point x="1063" y="2866"/>
+	<Point x="1063" y="2983"/>
+	<Point x="1336" y="2983"/>
+	<Point x="1336" y="2866"/></Coords></GraphicRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="994" y="94"/>
+	<Point x="998" y="184"/>
+	<Point x="1433" y="181"/>
+	<Point x="1504" y="190"/>
+	<Point x="1554" y="205"/>
+	<Point x="1573" y="202"/>
+	<Point x="1592" y="190"/>
+	<Point x="1609" y="180"/>
+	<Point x="1896" y="215"/>
+	<Point x="1923" y="224"/>
+	<Point x="1976" y="203"/>
+	<Point x="2029" y="167"/>
+	<Point x="2025" y="94"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comedia de Lope de Vega.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="676" y="3064"/>
+	<Point x="648" y="3067"/>
+	<Point x="642" y="3108"/>
+	<Point x="1276" y="3108"/>
+	<Point x="1276" y="3117"/>
+	<Point x="1288" y="3117"/>
+	<Point x="1291" y="3108"/>
+	<Point x="1396" y="3108"/>
+	<Point x="1406" y="3068"/>
+	<Point x="1130" y="3064"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

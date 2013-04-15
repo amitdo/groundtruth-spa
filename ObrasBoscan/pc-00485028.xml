@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485028">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T13:05:09</Created>
+	<LastChange>2011-05-12T13:40:46</LastChange></Metadata>
+	<Page imageFilename="00485028.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r11" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="357" y="159"/>
+	<Point x="1023" y="166"/>
+	<Point x="1290" y="200"/>
+	<Point x="1623" y="228"/>
+	<Point x="1652" y="504"/>
+	<Point x="359" y="476"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cancion  de muy larga te culparen,
+Reſpondeles que ſuﬀran con paciẽcia,
+Que vn gran dolor de todo da licencia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="636" y="3005"/>
+	<Point x="1389" y="3010"/>
+	<Point x="1396" y="3089"/>
+	<Point x="635" y="3088"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1273" y="102"/>
+	<Point x="1278" y="178"/>
+	<Point x="1643" y="205"/>
+	<Point x="1676" y="195"/>
+	<Point x="1676" y="102"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. XXX.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="373" y="921"/>
+	<Point x="362" y="2202"/>
+	<Point x="1202" y="2198"/>
+	<Point x="1272" y="2179"/>
+	<Point x="1368" y="2179"/>
+	<Point x="1458" y="2190"/>
+	<Point x="1575" y="2164"/>
+	<Point x="1608" y="921"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Claros y freſcos Rios
+Que manſamente vays
+Siguiendo vuero natural camino,
+Deertos montes mios
+Que' n vn eado eays
+De ſoledad muy trie de contino,
+Aues en quien ay tino
+De deſcanſar cantando
+Arboles que biuis
+Y en ﬁn tambien moris
+Y'ays perdiendo a tiempos, y ganando,
+Oydme juntamente
+Mi boz amarga ronca, y tan doliente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="607" y="704"/>
+	<Point x="1257" y="702"/>
+	<Point x="1236" y="732"/>
+	<Point x="1257" y="791"/>
+	<Point x="1268" y="838"/>
+	<Point x="1258" y="838"/>
+	<Point x="607" y="840"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞CANCION.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r12" type="other">
+	<Coords>
+	<Point x="1262" y="742"/>
+	<Point x="1261" y="791"/>
+	<Point x="1274" y="818"/>
+	<Point x="1303" y="841"/>
+	<Point x="1402" y="840"/>
+	<Point x="1402" y="742"/></Coords></GraphicRegion>
+	<TextRegion id="r13" type="signature-mark">
+	<Coords>
+	<Point x="1258" y="2191"/>
+	<Point x="1257" y="2295"/>
+	<Point x="1430" y="2295"/>
+	<Point x="1426" y="2194"/>
+	<Point x="1359" y="2184"/>
+	<Point x="1310" y="2187"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>F ij</Unicode></TextEquiv></TextRegion></Page></PcGts>

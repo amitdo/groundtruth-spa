@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442735">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T07:21:21</Created>
+	<LastChange>2012-03-12T14:12:19</LastChange></Metadata>
+	<Page imageFilename="00442735.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="439" y="78"/>
+	<Point x="1169" y="78"/>
+	<Point x="1169" y="205"/>
+	<Point x="439" y="205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="187" y="235"/>
+	<Point x="1449" y="235"/>
+	<Point x="1449" y="451"/>
+	<Point x="187" y="451"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cap. XXXIX. Donde el cautiuo cuenta ſu vida, y ſu-
+ceos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="461" y="723"/>
+	<Point x="464" y="465"/>
+	<Point x="1426" y="469"/>
+	<Point x="1423" y="2134"/>
+	<Point x="1258" y="2126"/>
+	<Point x="1239" y="2141"/>
+	<Point x="1204" y="2136"/>
+	<Point x="1188" y="2210"/>
+	<Point x="169" y="2216"/>
+	<Point x="172" y="718"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>NVN lugar de los Montañas de Leon,
+tuuo principio mi linaje, con quien fue
+mas agradecida, y liberal lu naturale-
+za, que la fortuna. Aunque en la ereche
+za de aqueos pueblos, todavia alcançaua mi padre
+fama de rico, y verdaderamente lo fuera,  aſsi ſe
+diera maña a conſeruar ſu hazienda, como ſe la da-
+ua en gaaa. Y la condicion que tenia, de ſer libe-
+ral, y gaador, le procedio de auer do ſoldado, los
+años de ſu jouentud. Que es eſcuela la ſoldadeſca,
+donde el mezquino ſe haze franco, y el franco pro-
+digo, y  algunos ſoldados ſe haan miſerables, ſon
+como monruos, que ſe ven raras vezes, Paaua
+mi padre los terminos de la liberalidad, y rayaua
+en los de ſer prodigo. Coſa que no le es de nin-
+gun prouecho al hombre caſado, ý que tiene hi-
+jos que le han de ſuceder en el nombre, y en el ſer.
+Los que mi padre tenia eran tres, todos varones, y
+todos de edad de poder elegir eado. Viendo pues
+mi padre, que ſegun el dezia, no podia yrſe a la ma-
+no contra ſu condicion, quiſo priuarſe del inrumẽ-
+to, y cauſa,  le hazia gaador, y dadiuoſo,  fue pri-
+uarſe de la hazienda, n la qual, el miſmo Alexãdro
+pareciera erecho. Y aſsi amandonos vn dia a to-
+dos tres, a ſolas en vn apoſento, nos dixo vnas razo-
+nes, ſemejantes a las  aora dire. Hĳos, para deziros
+que os quiero bien, baa ſaber, y dezir, que ſoys mis</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="453" y="2305"/>
+	<Point x="1125" y="2305"/>
+	<Point x="1127" y="2354"/>
+	<Point x="1026" y="2356"/>
+	<Point x="454" y="2350"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1233" y="2150"/>
+	<Point x="1258" y="2131"/>
+	<Point x="1307" y="2135"/>
+	<Point x="1378" y="2143"/>
+	<Point x="1385" y="2154"/>
+	<Point x="1397" y="2203"/>
+	<Point x="1368" y="2212"/>
+	<Point x="1232" y="2210"/>
+	<Point x="1229" y="2159"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>hĳos,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="drop-capital">
+	<Coords>
+	<Point x="188" y="460"/>
+	<Point x="188" y="715"/>
+	<Point x="459" y="715"/>
+	<Point x="459" y="460"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1273" y="110"/>
+	<Point x="1273" y="206"/>
+	<Point x="1463" y="206"/>
+	<Point x="1463" y="110"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>230</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444422">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T06:08:16</Created>
+	<LastChange>2011-12-19T11:39:44</LastChange></Metadata>
+	<Page imageFilename="00444422.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="914" y="66"/>
+	<Point x="1566" y="66"/>
+	<Point x="1566" y="194"/>
+	<Point x="914" y="194"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="453" y="219"/>
+	<Point x="2071" y="201"/>
+	<Point x="2094" y="2632"/>
+	<Point x="1833" y="2639"/>
+	<Point x="1470" y="2668"/>
+	<Point x="435" y="2649"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>con tanta vanidad que auia tenido, y dixo-
+me que tuuiee en mucho querer que ſe pu-
+ee en el voluntad que tan mal ſe auia ga-
+ado como la mia y admitirla el. Otras vezes
+me dixo que me acordae quãdo parece te-
+nia por honra el yr contra la ſuya. Otras que
+me acordae lo que le deuia, que quando yo
+le daua mayor golpe, eaua el haziendome
+mercedes. Si tenia algunas faltas, que no ſon
+pocas, de manera me las da el Señor a en-
+tender que toda parece me deshago, y como
+muchas, es muchas vezes, acaeciame repre-
+henderme el confeor, y quererme conſolar
+en la oracion, y haar ai la reprehẽon ver-
+dadera. Pues tornando a lo que dezia como
+començo el Señor a traerme a la memoria mi
+ruin vida, a bueltas de mis lagrymas, como
+yo entonces no auia hecho nada a mi pare-
+cer, penſe  me queria hazer alguna merced,
+porque es muy ordinario quando alguna par
+ticular merced recibo del Señor auerme pri-
+mero deshecho a mi miſma, para que vea
+mas claro quan fuera de merecerlas yo ſon,
+pienſo lo deue el Señor de hazer. Deſde a vn
+poco fue tan arrebatado mi ſpiritu que ca
+me parecio eaua del todo fuera del cuerpo,
+alomenos no ſe entiende que ſe biue en el,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1922" y="2639"/>
+	<Point x="2037" y="2636"/>
+	<Point x="2035" y="2720"/>
+	<Point x="1917" y="2719"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vi</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="612" y="3065"/>
+	<Point x="1566" y="3065"/>
+	<Point x="1566" y="3154"/>
+	<Point x="612" y="3154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="448" y="90"/>
+	<Point x="453" y="207"/>
+	<Point x="655" y="207"/>
+	<Point x="665" y="93"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>496</Unicode></TextEquiv></TextRegion></Page></PcGts>

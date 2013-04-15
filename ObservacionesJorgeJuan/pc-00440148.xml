@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440148">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T23:17:57</Created>
+	<LastChange>2011-12-19T11:38:45</LastChange></Metadata>
+	<Page imageFilename="00440148.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/>
+	<RegionRefIndexed regionRef="r29" index="3"/>
+	<RegionRefIndexed regionRef="r34" index="4"/>
+	<RegionRefIndexed regionRef="r24" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="305" y="1005"/>
+	<Point x="2250" y="1005"/>
+	<Point x="2250" y="1642"/>
+	<Point x="305" y="1642"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Alturas deducidas por la progreſsion ag‐
+nada, y las experiencias del Barometro, tales
+como ſe haaron ſobre el terreno, compa‐
+radas con las que dieron las operaciones
+geometricas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="892" y="1664"/>
+	<Point x="1674" y="1664"/>
+	<Point x="1674" y="1757"/>
+	<Point x="892" y="1757"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Alturas ſobre Carabùru.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="catch-word">
+	<Coords>
+	<Point x="2089" y="3402"/>
+	<Point x="2213" y="3412"/>
+	<Point x="2213" y="3498"/>
+	<Point x="2092" y="3498"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="credit">
+	<Coords>
+	<Point x="997" y="4006"/>
+	<Point x="1950" y="4006"/>
+	<Point x="1950" y="4095"/>
+	<Point x="997" y="4095"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="319" y="478"/>
+	<Point x="324" y="446"/>
+	<Point x="1946" y="458"/>
+	<Point x="2017" y="480"/>
+	<Point x="2256" y="473"/>
+	<Point x="2270" y="990"/>
+	<Point x="280" y="990"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>por primer termino empezando del nivèl de Carabùru 103½
+pies; y por exceo � de pie: y ſe empieza del nivèl
+del Mar, ea miſma progreſsion tiene por primer termi‐
+no 86. 246 pies; y dà las alturas, que ſe guen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="header">
+	<Coords>
+	<Point x="809" y="362"/>
+	<Point x="809" y="440"/>
+	<Point x="1768" y="444"/>
+	<Point x="1764" y="362"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="page-number">
+	<Coords>
+	<Point x="2031" y="379"/>
+	<Point x="2031" y="466"/>
+	<Point x="2203" y="466"/>
+	<Point x="2203" y="379"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>129</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r8">
+	<Coords>
+	<Point x="309" y="1768"/>
+	<Point x="2262" y="1768"/>
+	<Point x="2262" y="2631"/>
+	<Point x="990" y="2612"/>
+	<Point x="978" y="2640"/>
+	<Point x="893" y="2641"/>
+	<Point x="885" y="2631"/>
+	<Point x="309" y="2631"/></Coords></TableRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="736" y="2635"/>
+	<Point x="838" y="2635"/>
+	<Point x="849" y="2655"/>
+	<Point x="989" y="2652"/>
+	<Point x="1012" y="2626"/>
+	<Point x="1784" y="2635"/>
+	<Point x="1784" y="2722"/>
+	<Point x="736" y="2722"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Alturas ſobre el nivèl del Mar.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r31">
+	<Coords>
+	<Point x="314" y="2722"/>
+	<Point x="720" y="2719"/>
+	<Point x="739" y="2754"/>
+	<Point x="1386" y="2738"/>
+	<Point x="2249" y="2736"/>
+	<Point x="2234" y="3195"/>
+	<Point x="2012" y="3197"/>
+	<Point x="1891" y="3207"/>
+	<Point x="1553" y="3192"/>
+	<Point x="1528" y="3211"/>
+	<Point x="1455" y="3197"/>
+	<Point x="1080" y="3188"/>
+	<Point x="1056" y="3189"/>
+	<Point x="323" y="3190"/></Coords></TableRegion>
+	<TextRegion id="r32" type="signature-mark">
+	<Coords>
+	<Point x="1437" y="3408"/>
+	<Point x="1437" y="3480"/>
+	<Point x="1513" y="3480"/>
+	<Point x="1513" y="3408"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>R</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords>
+	<Point x="302" y="3195"/>
+	<Point x="302" y="3397"/>
+	<Point x="867" y="3413"/>
+	<Point x="1409" y="3404"/>
+	<Point x="1676" y="3402"/>
+	<Point x="1708" y="3416"/>
+	<Point x="2006" y="3407"/>
+	<Point x="2038" y="3387"/>
+	<Point x="2268" y="3388"/>
+	<Point x="2283" y="3201"/>
+	<Point x="1899" y="3215"/>
+	<Point x="1513" y="3224"/>
+	<Point x="1460" y="3205"/>
+	<Point x="1268" y="3207"/>
+	<Point x="1208" y="3195"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La altura de la Señal de Pambamarca por geometría es
+de 16½ toeſas mayor, que la dada por la regla; pero como</Unicode></TextEquiv></TextRegion></Page></PcGts>

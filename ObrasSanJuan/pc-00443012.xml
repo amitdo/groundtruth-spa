@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443012">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T08:27:08</Created>
+	<LastChange>2011-03-15T16:51:32</LastChange></Metadata>
+	<Page imageFilename="00443012.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r24" index="1"/>
+	<RegionRefIndexed regionRef="r11" index="2"/>
+	<RegionRefIndexed regionRef="r17" index="3"/>
+	<RegionRefIndexed regionRef="r18" index="4"/>
+	<RegionRefIndexed regionRef="r14" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="47" y="233"/>
+	<Point x="52" y="494"/>
+	<Point x="1647" y="482"/>
+	<Point x="1652" y="233"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SVBIDA
+DEL MONTE CARMELO.
+POR</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="308" y="1158"/>
+	<Point x="308" y="1341"/>
+	<Point x="1338" y="1341"/>
+	<Point x="1338" y="1158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ARGVMENTO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="catch-word">
+	<Coords>
+	<Point x="1354" y="2531"/>
+	<Point x="1354" y="2677"/>
+	<Point x="1651" y="2677"/>
+	<Point x="1651" y="2531"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAN-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="signature-mark">
+	<Coords>
+	<Point x="997" y="2540"/>
+	<Point x="997" y="2634"/>
+	<Point x="1102" y="2634"/>
+	<Point x="1102" y="2540"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="credit">
+	<Coords>
+	<Point x="768" y="2911"/>
+	<Point x="768" y="2994"/>
+	<Point x="1457" y="2994"/>
+	<Point x="1457" y="2911"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="drop-capital">
+	<Coords>
+	<Point x="51" y="1381"/>
+	<Point x="51" y="1788"/>
+	<Point x="451" y="1788"/>
+	<Point x="447" y="1425"/>
+	<Point x="444" y="1396"/>
+	<Point x="451" y="1381"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="455" y="1377"/>
+	<Point x="454" y="1441"/>
+	<Point x="455" y="1445"/>
+	<Point x="455" y="1413"/>
+	<Point x="456" y="1467"/>
+	<Point x="457" y="1515"/>
+	<Point x="462" y="1810"/>
+	<Point x="55" y="1822"/>
+	<Point x="52" y="2467"/>
+	<Point x="1655" y="2470"/>
+	<Point x="1655" y="1377"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ODA la dotrina, que entiendo tratar
+en ea SVBIDA DEL MONTE
+CARMELO, eà incluida en las guien
+tes CANCIONES: i en ellas ſe con-
+tiene el modo de ſubir haa la cumbre
+del, que es el alto eado de la PERFE-
+CION, que aqui llamamos VNION DEL
+ALMA CONDIOS. I porque tiene de ir funda-
+do ſobre ellas lo que dixere, las he querido poner aqui jũ
+tas, para que ſe entienda, i vea junta toda la ſuancia
+de lo que ſe ha de eſcribir. Aunque al tiempo de la decla-
+racion convendra poner cada CANCION de por
+, i ni mas ni menos los Verſos de cada una, ſegun lo pi-
+diere la materia i declaracion.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="heading">
+	<Coords>
+	<Point x="927" y="541"/>
+	<Point x="927" y="547"/>
+	<Point x="928" y="547"/>
+	<Point x="928" y="568"/>
+	<Point x="929" y="568"/>
+	<Point x="929" y="588"/>
+	<Point x="930" y="588"/>
+	<Point x="930" y="608"/>
+	<Point x="931" y="608"/>
+	<Point x="931" y="629"/>
+	<Point x="932" y="629"/>
+	<Point x="932" y="649"/>
+	<Point x="933" y="649"/>
+	<Point x="933" y="670"/>
+	<Point x="934" y="670"/>
+	<Point x="934" y="690"/>
+	<Point x="935" y="690"/>
+	<Point x="935" y="710"/>
+	<Point x="936" y="710"/>
+	<Point x="936" y="711"/>
+	<Point x="1003" y="711"/>
+	<Point x="1003" y="710"/>
+	<Point x="1069" y="710"/>
+	<Point x="1069" y="709"/>
+	<Point x="1135" y="709"/>
+	<Point x="1135" y="708"/>
+	<Point x="1201" y="708"/>
+	<Point x="1201" y="707"/>
+	<Point x="1267" y="707"/>
+	<Point x="1267" y="706"/>
+	<Point x="1333" y="706"/>
+	<Point x="1333" y="705"/>
+	<Point x="1399" y="705"/>
+	<Point x="1399" y="704"/>
+	<Point x="1465" y="704"/>
+	<Point x="1465" y="703"/>
+	<Point x="1525" y="703"/>
+	<Point x="1525" y="1022"/>
+	<Point x="55" y="1022"/>
+	<Point x="55" y="687"/>
+	<Point x="669" y="687"/>
+	<Point x="669" y="686"/>
+	<Point x="670" y="686"/>
+	<Point x="670" y="644"/>
+	<Point x="671" y="644"/>
+	<Point x="671" y="602"/>
+	<Point x="672" y="602"/>
+	<Point x="672" y="560"/>
+	<Point x="673" y="560"/>
+	<Point x="673" y="541"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EL VENERABLE PADRE
+F. IOAN DE LA CRVZ.
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

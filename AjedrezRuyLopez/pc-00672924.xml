@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672924">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 10.0</Creator>
+	<Created>2012-02-01T00:31:00</Created>
+	<LastChange>2012-03-05T06:44:08</LastChange></Metadata>
+	<Page imageFilename="00672924.tif" imageWidth="1915" imageHeight="2621">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r36" index="0"/>
+	<RegionRefIndexed regionRef="r42" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="1429" y="240"/>
+	<Point x="1429" y="241"/>
+	<Point x="1428" y="241"/>
+	<Point x="1428" y="244"/>
+	<Point x="1427" y="244"/>
+	<Point x="1427" y="248"/>
+	<Point x="1426" y="248"/>
+	<Point x="1426" y="251"/>
+	<Point x="1425" y="251"/>
+	<Point x="1425" y="254"/>
+	<Point x="1424" y="254"/>
+	<Point x="1424" y="258"/>
+	<Point x="1423" y="258"/>
+	<Point x="1423" y="261"/>
+	<Point x="1422" y="261"/>
+	<Point x="1422" y="264"/>
+	<Point x="1421" y="264"/>
+	<Point x="1421" y="268"/>
+	<Point x="1420" y="268"/>
+	<Point x="1420" y="271"/>
+	<Point x="1419" y="271"/>
+	<Point x="1419" y="274"/>
+	<Point x="1418" y="274"/>
+	<Point x="1418" y="278"/>
+	<Point x="1417" y="278"/>
+	<Point x="1417" y="281"/>
+	<Point x="1416" y="281"/>
+	<Point x="1416" y="284"/>
+	<Point x="1415" y="284"/>
+	<Point x="1415" y="288"/>
+	<Point x="1414" y="288"/>
+	<Point x="1414" y="291"/>
+	<Point x="1413" y="291"/>
+	<Point x="1413" y="294"/>
+	<Point x="1412" y="294"/>
+	<Point x="1412" y="298"/>
+	<Point x="1411" y="298"/>
+	<Point x="1411" y="301"/>
+	<Point x="1410" y="301"/>
+	<Point x="1410" y="304"/>
+	<Point x="1409" y="304"/>
+	<Point x="1409" y="305"/>
+	<Point x="1408" y="305"/>
+	<Point x="1408" y="306"/>
+	<Point x="1279" y="306"/>
+	<Point x="1279" y="307"/>
+	<Point x="1150" y="307"/>
+	<Point x="1150" y="308"/>
+	<Point x="1021" y="308"/>
+	<Point x="1021" y="309"/>
+	<Point x="894" y="309"/>
+	<Point x="894" y="308"/>
+	<Point x="821" y="308"/>
+	<Point x="821" y="307"/>
+	<Point x="748" y="307"/>
+	<Point x="748" y="306"/>
+	<Point x="677" y="306"/>
+	<Point x="677" y="295"/>
+	<Point x="678" y="295"/>
+	<Point x="678" y="282"/>
+	<Point x="679" y="282"/>
+	<Point x="679" y="269"/>
+	<Point x="680" y="269"/>
+	<Point x="680" y="257"/>
+	<Point x="681" y="257"/>
+	<Point x="681" y="244"/>
+	<Point x="682" y="244"/>
+	<Point x="682" y="240"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro dela inuencion liberal.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="marginalia">
+	<Coords>
+	<Point x="438" y="1196"/>
+	<Point x="438" y="1237"/>
+	<Point x="281" y="1237"/>
+	<Point x="281" y="1199"/>
+	<Point x="298" y="1199"/>
+	<Point x="298" y="1198"/>
+	<Point x="349" y="1198"/>
+	<Point x="349" y="1197"/>
+	<Point x="400" y="1197"/>
+	<Point x="400" y="1196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Macobri.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="marginalia">
+	<Coords>
+	<Point x="446" y="612"/>
+	<Point x="446" y="631"/>
+	<Point x="445" y="631"/>
+	<Point x="445" y="651"/>
+	<Point x="434" y="651"/>
+	<Point x="434" y="652"/>
+	<Point x="414" y="652"/>
+	<Point x="414" y="653"/>
+	<Point x="394" y="653"/>
+	<Point x="394" y="654"/>
+	<Point x="374" y="654"/>
+	<Point x="374" y="655"/>
+	<Point x="354" y="655"/>
+	<Point x="354" y="656"/>
+	<Point x="334" y="656"/>
+	<Point x="334" y="657"/>
+	<Point x="314" y="657"/>
+	<Point x="314" y="658"/>
+	<Point x="294" y="658"/>
+	<Point x="294" y="659"/>
+	<Point x="281" y="659"/>
+	<Point x="281" y="612"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Macrob.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="marginalia">
+	<Coords>
+	<Point x="293" y="884"/>
+	<Point x="286" y="920"/>
+	<Point x="437" y="920"/>
+	<Point x="437" y="884"/>
+	<Point x="361" y="876"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ariote.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords>
+	<Point x="1630" y="294"/>
+	<Point x="1630" y="2214"/>
+	<Point x="1464" y="2214"/>
+	<Point x="1464" y="2213"/>
+	<Point x="1217" y="2213"/>
+	<Point x="1217" y="2214"/>
+	<Point x="1214" y="2214"/>
+	<Point x="1214" y="2215"/>
+	<Point x="1210" y="2215"/>
+	<Point x="1210" y="2216"/>
+	<Point x="1207" y="2216"/>
+	<Point x="1207" y="2217"/>
+	<Point x="1203" y="2217"/>
+	<Point x="1203" y="2218"/>
+	<Point x="1199" y="2218"/>
+	<Point x="1199" y="2219"/>
+	<Point x="1196" y="2219"/>
+	<Point x="1196" y="2220"/>
+	<Point x="1192" y="2220"/>
+	<Point x="1192" y="2221"/>
+	<Point x="1189" y="2221"/>
+	<Point x="1189" y="2222"/>
+	<Point x="1185" y="2222"/>
+	<Point x="1185" y="2223"/>
+	<Point x="1181" y="2223"/>
+	<Point x="1181" y="2224"/>
+	<Point x="1178" y="2224"/>
+	<Point x="1178" y="2225"/>
+	<Point x="1174" y="2225"/>
+	<Point x="1174" y="2226"/>
+	<Point x="1170" y="2226"/>
+	<Point x="1170" y="2227"/>
+	<Point x="1167" y="2227"/>
+	<Point x="1167" y="2228"/>
+	<Point x="1163" y="2228"/>
+	<Point x="1163" y="2229"/>
+	<Point x="1160" y="2229"/>
+	<Point x="1160" y="2230"/>
+	<Point x="1156" y="2230"/>
+	<Point x="1156" y="2231"/>
+	<Point x="1152" y="2231"/>
+	<Point x="1152" y="2232"/>
+	<Point x="1149" y="2232"/>
+	<Point x="1149" y="2233"/>
+	<Point x="1145" y="2233"/>
+	<Point x="1145" y="2234"/>
+	<Point x="1143" y="2234"/>
+	<Point x="1143" y="2233"/>
+	<Point x="1107" y="2233"/>
+	<Point x="1107" y="2232"/>
+	<Point x="1070" y="2232"/>
+	<Point x="1070" y="2231"/>
+	<Point x="1033" y="2231"/>
+	<Point x="1033" y="2230"/>
+	<Point x="996" y="2230"/>
+	<Point x="996" y="2229"/>
+	<Point x="959" y="2229"/>
+	<Point x="959" y="2228"/>
+	<Point x="922" y="2228"/>
+	<Point x="922" y="2227"/>
+	<Point x="428" y="2227"/>
+	<Point x="428" y="2203"/>
+	<Point x="429" y="2203"/>
+	<Point x="429" y="2162"/>
+	<Point x="430" y="2162"/>
+	<Point x="430" y="2121"/>
+	<Point x="431" y="2121"/>
+	<Point x="431" y="2079"/>
+	<Point x="432" y="2079"/>
+	<Point x="432" y="2038"/>
+	<Point x="433" y="2038"/>
+	<Point x="433" y="1997"/>
+	<Point x="434" y="1997"/>
+	<Point x="434" y="1956"/>
+	<Point x="435" y="1956"/>
+	<Point x="435" y="1915"/>
+	<Point x="436" y="1915"/>
+	<Point x="436" y="1873"/>
+	<Point x="437" y="1873"/>
+	<Point x="437" y="1770"/>
+	<Point x="438" y="1770"/>
+	<Point x="438" y="1666"/>
+	<Point x="439" y="1666"/>
+	<Point x="439" y="1563"/>
+	<Point x="440" y="1563"/>
+	<Point x="440" y="1459"/>
+	<Point x="441" y="1459"/>
+	<Point x="441" y="1353"/>
+	<Point x="440" y="1353"/>
+	<Point x="440" y="1059"/>
+	<Point x="441" y="1059"/>
+	<Point x="441" y="976"/>
+	<Point x="442" y="976"/>
+	<Point x="442" y="893"/>
+	<Point x="443" y="893"/>
+	<Point x="443" y="810"/>
+	<Point x="444" y="810"/>
+	<Point x="444" y="766"/>
+	<Point x="445" y="766"/>
+	<Point x="445" y="722"/>
+	<Point x="446" y="722"/>
+	<Point x="446" y="678"/>
+	<Point x="447" y="678"/>
+	<Point x="447" y="633"/>
+	<Point x="448" y="633"/>
+	<Point x="448" y="589"/>
+	<Point x="449" y="589"/>
+	<Point x="449" y="545"/>
+	<Point x="450" y="545"/>
+	<Point x="450" y="498"/>
+	<Point x="449" y="498"/>
+	<Point x="449" y="396"/>
+	<Point x="448" y="396"/>
+	<Point x="448" y="311"/>
+	<Point x="460" y="311"/>
+	<Point x="460" y="310"/>
+	<Point x="492" y="310"/>
+	<Point x="492" y="309"/>
+	<Point x="524" y="309"/>
+	<Point x="524" y="308"/>
+	<Point x="556" y="308"/>
+	<Point x="556" y="307"/>
+	<Point x="588" y="307"/>
+	<Point x="588" y="306"/>
+	<Point x="620" y="306"/>
+	<Point x="620" y="305"/>
+	<Point x="652" y="305"/>
+	<Point x="652" y="304"/>
+	<Point x="675" y="304"/>
+	<Point x="675" y="305"/>
+	<Point x="674" y="305"/>
+	<Point x="674" y="308"/>
+	<Point x="746" y="308"/>
+	<Point x="746" y="309"/>
+	<Point x="819" y="309"/>
+	<Point x="819" y="310"/>
+	<Point x="892" y="310"/>
+	<Point x="892" y="311"/>
+	<Point x="1023" y="311"/>
+	<Point x="1023" y="310"/>
+	<Point x="1152" y="310"/>
+	<Point x="1152" y="309"/>
+	<Point x="1281" y="309"/>
+	<Point x="1281" y="308"/>
+	<Point x="1410" y="308"/>
+	<Point x="1410" y="307"/>
+	<Point x="1411" y="307"/>
+	<Point x="1411" y="306"/>
+	<Point x="1412" y="306"/>
+	<Point x="1412" y="303"/>
+	<Point x="1413" y="303"/>
+	<Point x="1413" y="300"/>
+	<Point x="1414" y="300"/>
+	<Point x="1414" y="298"/>
+	<Point x="1429" y="298"/>
+	<Point x="1429" y="297"/>
+	<Point x="1483" y="297"/>
+	<Point x="1483" y="296"/>
+	<Point x="1538" y="296"/>
+	<Point x="1538" y="295"/>
+	<Point x="1592" y="295"/>
+	<Point x="1592" y="294"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>en todo, vienen a formar vna ſuperﬁcie, y cuerpo
+plano, y quadrado con ſeenta y quatro caſas.
+Aſsi que es claro tener ſu fundamẽto ſobre eos
+dos numeros, quatro, y ocho: de cuya gniﬁca-
+cion trae muchas coſas Macrobio en el primero
+libro de ſomno Scipionis. La ſegunda, porque,
+por ſer inuencion mathematica,es todo juego de
+ſciẽcia,n tener nada de fortuna: y ea todo pue
+o en demonracion: porque ſegun Arioteles
+en el libro primero magnorum moralium. capit.
+27. Scientia e eorum, quæ ſunt cum demonra
+tione. Quiere dezir, que ſciençia es de aquellas
+coſas, que ſon cõdemonracion. Ea todo el pue
+o en demonracion:porque como dize Macro
+bio primero lib. de ſomno Scipionis: Facilior ad
+intelligendum per oculos via e, quam per ſer-
+monem. Quiere dezir, que es mas facil la via que
+ea puea en demõracion, para entender, que
+no la que ſe demuera por palabras. La tercera,
+porque para conſeguir bien, y perfeamẽte ea
+arte, ſe requieren todas las coſas, que para las
+otras artes liberales: y aun mas comuladamente,
+conuiene a ſaber, ingenio, memoria, fuerça de
+imrginacion, exercicio, y aﬃcion. Porque pue-
+o que aya muchos que jueguen, en los quales
+no concurran todas eas coſas, ò alomenos con-
+currieron al tiempo del deprendello : eos tales</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="catch-word">
+	<Coords>
+	<Point x="1630" y="2216"/>
+	<Point x="1630" y="2274"/>
+	<Point x="1517" y="2274"/>
+	<Point x="1517" y="2270"/>
+	<Point x="1518" y="2270"/>
+	<Point x="1518" y="2264"/>
+	<Point x="1519" y="2264"/>
+	<Point x="1519" y="2258"/>
+	<Point x="1520" y="2258"/>
+	<Point x="1520" y="2251"/>
+	<Point x="1521" y="2251"/>
+	<Point x="1521" y="2245"/>
+	<Point x="1522" y="2245"/>
+	<Point x="1522" y="2239"/>
+	<Point x="1523" y="2239"/>
+	<Point x="1523" y="2232"/>
+	<Point x="1524" y="2232"/>
+	<Point x="1524" y="2226"/>
+	<Point x="1525" y="2226"/>
+	<Point x="1525" y="2220"/>
+	<Point x="1526" y="2220"/>
+	<Point x="1526" y="2216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no</Unicode></TextEquiv></TextRegion></Page></PcGts>

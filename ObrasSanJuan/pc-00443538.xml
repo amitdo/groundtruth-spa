@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443538">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T03:23:20</Created>
+	<LastChange>2010-12-20T09:34:21</LastChange></Metadata>
+	<Page imageFilename="00443538.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="492" y="97"/>
+	<Point x="1041" y="92"/>
+	<Point x="1036" y="226"/>
+	<Point x="839" y="224"/>
+	<Point x="487" y="221"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cancion Segunda.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="70" y="233"/>
+	<Point x="1603" y="237"/>
+	<Point x="1601" y="1303"/>
+	<Point x="594" y="1304"/>
+	<Point x="521" y="1317"/>
+	<Point x="491" y="1320"/>
+	<Point x="473" y="1319"/>
+	<Point x="430" y="1308"/>
+	<Point x="68" y="1309"/>
+	<Point x="64" y="590"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de. O dichoſa Llaga! hecha por quien no ſabe no ſa-
+nar. O venturoſa, i mucho dichoſa Llaga! pues no fuiſ-
+te hecha no para regalo i deleite del alma. Grande es
+la Llaga, porque grande es el que la hizo, i grande es
+ſu regalo; pues el fuego de amor es inﬁnito. O pues re-
+galada Llaga! i tanto mas ſubidamente regalada, cuan
+to mas en el centro intimo del alma toca el Cauterio
+de amor, abraſando todo lo que ſe pudo abraſar, para
+regalar todo lo  ſe pudo regalar. Ee Cauterio, i ea
+aga es a mi ver el mas alto grado  en ee eado pue
+de ſer. Mas ai otras muchas maneras, que ni egan a-
+qui, ni ſon como ea. Porque eo es de toque de divi-
+nidad en el alma, n forma ni ﬁgura alguna, natural,
+formal, ni imaginaria.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="68" y="1315"/>
+	<Point x="194" y="1315"/>
+	<Point x="493" y="1325"/>
+	<Point x="637" y="1315"/>
+	<Point x="1293" y="1308"/>
+	<Point x="1587" y="1313"/>
+	<Point x="1585" y="2742"/>
+	<Point x="1268" y="2740"/>
+	<Point x="1245" y="2764"/>
+	<Point x="1211" y="2764"/>
+	<Point x="322" y="2762"/>
+	<Point x="86" y="2761"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mas otra manera de cauterizar el alma ſuele aver
+tambien mui ſubida, i es en ea manera. Acaecera, que
+eando el alma inflamada en ee amor, aunque no eſ-
+tà tan cauterizada como aqui avemos dicho, aun har
+to conviene lo eè, para lo quiero dezir, i es, que acae-
+cera que el alma enta enveir en ea un Seraﬁn con
+un dardo enerbolado de amor encendidimo, traſpa-
+ſandola ea aſcua encendida, o por mejor dezir, aque-
+a Llama cauterizandola ſubidamente, i entonces en
+ee cauterizar traſpaſandola, apreſuraſe la ama, i ſu
+be de punto con vehemencia, al modo que en un encen
+didimo horno, o fragua, cuando mcnean, o rebuelv
+la leña, ſe afervora la ama, i ſe aviva el fuego; i enton
+ces ente ea aga el alma en deleite ſobre todo enca
+recimiento. Porque demas de ſer toda removida, al
+tiempo que la rebuelven, ya la mocion impetuoſa de ſu
+fuego, en que es grande el ardor i derretimiento de a-
+mor, la herida ﬁna i eﬁcaz la yerva con que vivamente
+iva templado el hierro, ente el alma lo profundo del</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1386" y="2748"/>
+	<Point x="1436" y="2748"/>
+	<Point x="1595" y="2750"/>
+	<Point x="1585" y="2838"/>
+	<Point x="1388" y="2835"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>eſpiri-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="781" y="2932"/>
+	<Point x="1415" y="2936"/>
+	<Point x="1412" y="3000"/>
+	<Point x="780" y="2995"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1426" y="102"/>
+	<Point x="1426" y="219"/>
+	<Point x="1600" y="219"/>
+	<Point x="1600" y="102"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>527</Unicode></TextEquiv></TextRegion></Page></PcGts>

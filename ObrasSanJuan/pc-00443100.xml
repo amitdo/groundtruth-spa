@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443100">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T12:23:26</Created>
+	<LastChange>2011-03-15T16:51:37</LastChange></Metadata>
+	<Page imageFilename="00443100.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/>
+	<RegionRefIndexed regionRef="r11" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="658" y="80"/>
+	<Point x="1111" y="80"/>
+	<Point x="1111" y="202"/>
+	<Point x="658" y="202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro ſegundo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="176" y="222"/>
+	<Point x="1704" y="223"/>
+	<Point x="1703" y="484"/>
+	<Point x="435" y="489"/>
+	<Point x="436" y="538"/>
+	<Point x="177" y="539"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>te de cualquier ſentido interior i exterior; i los incen-
+venientes i daños que puede recebir con to das eas
+noticias, para no ir adelante ado al propio medio, que
+es la Fè.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="775" y="2937"/>
+	<Point x="1420" y="2937"/>
+	<Point x="1420" y="2998"/>
+	<Point x="775" y="2998"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1589" y="95"/>
+	<Point x="1589" y="188"/>
+	<Point x="1680" y="188"/>
+	<Point x="1680" y="95"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>89</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="261" y="620"/>
+	<Point x="260" y="547"/>
+	<Point x="465" y="547"/>
+	<Point x="478" y="527"/>
+	<Point x="1718" y="526"/>
+	<Point x="1712" y="2754"/>
+	<Point x="171" y="2774"/>
+	<Point x="173" y="620"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Es pues de ſaber, que ſegun regla de Filoſoﬁa, todos
+los medios han de ſer proporcionados al ﬁn, teniendo
+alguna conveniencia i ſemejança con el, tal cual baa,
+para que por ea ſe pueda conſeguir el ﬁn, que ſe pre-
+tende. Pongo exemplo. Quiere uno egar a una ciu-
+dad, neceſariamente ha de ir por el camino, que es el
+medio que eva a la miſma ciudad. Tambien haſe de
+unir i jun tar el fuego con el madero, es neceſario, que
+el calor, que es el medio, diſponga al madero con tan-
+tos grados de calor, que tenga gran ſemejança i pro-
+porcion con el fuego. De donde  quieſen diſpo-
+ner al madero con otro medio, que el propio que es
+el calor, a como con aire, ò agua, ò tierra, ſe-
+ria impoble que el madero ſe pudieſe unir con el fue-
+go . A pues, para que el entendimiento ſe venga en
+ea vida a unir con Dios, ſegun que en ea ſe puede,
+neceſariamente ha de tomar aquel medio, que junta
+con el, i tiene con el proxima ſemejança. En lo cual
+avemos de advertir, que entre todas las criaturas ſu-
+periores i inferiores, ninguna ai, que proximamente
+junte con Dios, ni tenga ſemejança con ſu ſer. Por-
+que aunque es verdad, que todas eas tienen (como
+dizen los Teologos) cierta relacion a Dios i raro dèl,
+unas mas i otras menos, ſegun fu mas, o menos prin-
+cipal ſer; de Dios a eas ningun reſpeto ai, ni ſemejan
+ça eſencial, antes la diancia que ai entre ſu divino
+ſer, i el deas, es inﬁnita; i por eſo es impoble, que el
+Entendimiento pueda dar perfetamente en Dios por
+medios de las criaturas, aora ſean ceiales, aora te-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="catch-word">
+	<Coords>
+	<Point x="1466" y="2772"/>
+	<Point x="1686" y="2772"/>
+	<Point x="1686" y="2837"/>
+	<Point x="1466" y="2837"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>rrenas;</Unicode></TextEquiv></TextRegion></Page></PcGts>

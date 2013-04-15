@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485134">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T05:46:52</Created>
+	<LastChange>2011-05-12T13:40:57</LastChange></Metadata>
+	<Page imageFilename="00485134.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r10" type="signature-mark">
+	<Coords>
+	<Point x="1188" y="2798"/>
+	<Point x="1210" y="2798"/>
+	<Point x="1380" y="2795"/>
+	<Point x="1385" y="2886"/>
+	<Point x="1190" y="2888"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N iij</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="credit">
+	<Coords>
+	<Point x="628" y="3011"/>
+	<Point x="1405" y="3015"/>
+	<Point x="1401" y="3095"/>
+	<Point x="627" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="322" y="204"/>
+	<Point x="1596" y="194"/>
+	<Point x="1569" y="2800"/>
+	<Point x="1435" y="2804"/>
+	<Point x="1376" y="2790"/>
+	<Point x="1246" y="2790"/>
+	<Point x="1198" y="2789"/>
+	<Point x="1091" y="2817"/>
+	<Point x="762" y="2826"/>
+	<Point x="328" y="2808"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O hombre que venie por mal tuyo,
+A ee templo, a deſlurar mi hontra:
+Sin entender quan gran locura emprendes.
+No ſabes tu que ſoy erua de venus:
+Y virgen, y por virgen que la ruo.
+No ſabes tu los hombres de mi ſangre,
+Que te caigaran,  ſaben eo.
+Y no ſabes tambien que'oy criada,
+En grande encerramiento con mis padres:
+Y que nunca ſali, querer egar
+Al Iecho virginal, es coſa dura:
+Vete, y jamas parezcas do'uuiere.
+Eo dicho cao como vençida:
+Con lagrimas venidas alos ojos:
+Pero bueltas a tras, luego en vn punto.
+Leandro, aun que oyo tales palabras,
+Que a los oydos le ſonaron fuertes:
+Dentro en ea ntio cierta blandura:
+Que monto mas que'l trie ſon de fuera.
+Y ai no deſmayo, antes ﬁando
+D'vn dulce enternecer, que'n  ſentia:
+Soltando la ſu boz ai reſponde.
+O ſeñora, gran Reyna d'hermoſura,
+Tanto, que competir puedes con Venus:
+Y en ſaber puedes ſer otra Minerua:
+Yo muy bien ſe, que todo lo que as dicho
+Es gran verdad, n reçebir contrario:
+Y ſe muy bien quan gran locura emprẽdo.
+Mas el Amor ningun peligro eſcucha:
+Ni por diﬁcultad ſuele atajarſe.
+Conreñido por el, a tus pies m'hecho:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="460" y="92"/>
+	<Point x="460" y="186"/>
+	<Point x="1000" y="186"/>
+	<Point x="1000" y="92"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1038" y="102"/>
+	<Point x="1038" y="174"/>
+	<Point x="1594" y="174"/>
+	<Point x="1594" y="102"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. LXXXIII.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441324">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:26:24</Created>
+	<LastChange>2011-05-12T13:40:13</LastChange></Metadata>
+	<Page imageFilename="00441324.tif" imageWidth="1444" imageHeight="2304">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/>
+	<RegionRefIndexed regionRef="r7" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="175" y="752"/>
+	<Point x="1216" y="752"/>
+	<Point x="1233" y="994"/>
+	<Point x="1216" y="1345"/>
+	<Point x="1080" y="1380"/>
+	<Point x="702" y="1363"/>
+	<Point x="486" y="1372"/>
+	<Point x="175" y="1345"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En honda gruta de crial luziente
+El Betis repoſaua caudaloſo,
+Quando apeſar del muro tranſparente
+Oyò aclamar tu nombre generoſo:
+Al prodigio feliz la anciana frente
+Leuantò, y en ſu margen deleytoſo
+Deſcubriendo el objeto memorable,
+Aſsi tus glorias pronoica afable.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1109" y="1985"/>
+	<Point x="1141" y="1976"/>
+	<Point x="1174" y="1970"/>
+	<Point x="1190" y="1968"/>
+	<Point x="1243" y="1982"/>
+	<Point x="1257" y="2021"/>
+	<Point x="1243" y="2035"/>
+	<Point x="1240" y="2035"/>
+	<Point x="1225" y="2045"/>
+	<Point x="1171" y="2048"/>
+	<Point x="1123" y="2035"/>
+	<Point x="1104" y="2025"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cre-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="415" y="2206"/>
+	<Point x="818" y="2206"/>
+	<Point x="1001" y="2207"/>
+	<Point x="996" y="2281"/>
+	<Point x="420" y="2279"/>
+	<Point x="414" y="2250"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="155" y="125"/>
+	<Point x="1139" y="125"/>
+	<Point x="1169" y="627"/>
+	<Point x="1139" y="722"/>
+	<Point x="744" y="744"/>
+	<Point x="155" y="722"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fauorables los aros concurrieron
+A tus primeras luzes mierioſas ,
+Y n temor del yelo ﬂorecieron
+Candidos lilios y purpureas roſas:
+Pazicas ſu agrauio permitieron
+Las maritimas ondas proceloſas,
+Y blando el fuego con ardor ſeguro
+Señales dio de tu poder futuro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="177" y="1422"/>
+	<Point x="169" y="1375"/>
+	<Point x="227" y="1386"/>
+	<Point x="1248" y="1409"/>
+	<Point x="1280" y="1611"/>
+	<Point x="1248" y="1901"/>
+	<Point x="1139" y="1901"/>
+	<Point x="1158" y="1933"/>
+	<Point x="1154" y="1953"/>
+	<Point x="1150" y="1962"/>
+	<Point x="1131" y="1971"/>
+	<Point x="991" y="1980"/>
+	<Point x="375" y="1980"/>
+	<Point x="286" y="1983"/>
+	<Point x="180" y="1968"/>
+	<Point x="161" y="1911"/>
+	<Point x="166" y="1888"/>
+	<Point x="166" y="1891"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O tu, ſegundo Apolo, que preuienes
+Inextinguible la grandeza Hiſpana,
+Nueua reauracion de aqueos bienes
+Que la malicia dipò tirana:
+En cuyas, tiernas oy, auguas enes
+Venera abſorta la noticia humana,
+Entretexidas con la yedra errante,
+Sagradas hojas de laurel triunfante.</Unicode></TextEquiv></TextRegion></Page></PcGts>

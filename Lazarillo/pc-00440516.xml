@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440516">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T13:18:13</Created>
+	<LastChange>2011-07-05T14:26:04</LastChange></Metadata>
+	<Page imageFilename="00440516.tif" imageWidth="876" imageHeight="1640">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="84" y="112"/>
+	<Point x="390" y="118"/>
+	<Point x="830" y="129"/>
+	<Point x="788" y="1554"/>
+	<Point x="682" y="1555"/>
+	<Point x="669" y="1546"/>
+	<Point x="48" y="1544"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>me auian quedado delos de por
+Dios. Viendo me comer me dixo:
+Ven aca moço, que comes? llegue
+me a el, y moro le el pan, tomo-
+me el mejor pedaço de tres que
+tenia diziendo : Por mi vida que
+parece buen pan. Y como dixe yo
+ es bueno ? quiẽte lo dio es de ma-
+nos limpias? no ſe le reſpondi a mi
+no me da aſco el ſabor del, co-
+menço a dar en el tan grandes bo-
+cados como yo en lo que me que-
+daua, diziendo. Por Dios que es
+ſabroimo ee pan : como le
+ſenti de que pie coxeaua, dime
+priea; porque le vi en diſpociõ,
+ acabaua antes que yo, de come-
+dir ſe ayudarme alo que me que-
+daua: y a acabamos ca a vna: ſa-
+cudioe vnas migajas, menudas,
+que en los pechos ſe le auian que-
+dado, entro en vna camareta que
+alli eaua, y ſaco vn jarro deſbo-
+cado, y no muy nueuo, y deſpues</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="credit">
+	<Coords>
+	<Point x="282" y="1585"/>
+	<Point x="567" y="1588"/>
+	<Point x="567" y="1611"/>
+	<Point x="285" y="1608"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="header">
+	<Coords>
+	<Point x="348" y="63"/>
+	<Point x="601" y="63"/>
+	<Point x="601" y="114"/>
+	<Point x="344" y="111"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="106" y="59"/>
+	<Point x="102" y="102"/>
+	<Point x="166" y="101"/>
+	<Point x="163" y="61"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>62</Unicode></TextEquiv></TextRegion></Page></PcGts>

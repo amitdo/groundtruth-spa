@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485280">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T19:04:00</Created>
+	<LastChange>2011-05-12T13:41:11</LastChange></Metadata>
+	<Page imageFilename="00485280.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r10" index="0"/>
+	<RegionRefIndexed regionRef="r14" index="1"/>
+	<RegionRefIndexed regionRef="r16" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="612" y="3010"/>
+	<Point x="1412" y="3010"/>
+	<Point x="1412" y="3090"/>
+	<Point x="1285" y="3096"/>
+	<Point x="612" y="3090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1709" y="187"/>
+	<Point x="1709" y="188"/>
+	<Point x="1718" y="188"/>
+	<Point x="1718" y="189"/>
+	<Point x="1727" y="189"/>
+	<Point x="1727" y="190"/>
+	<Point x="1735" y="190"/>
+	<Point x="1735" y="257"/>
+	<Point x="1736" y="257"/>
+	<Point x="1736" y="324"/>
+	<Point x="1737" y="324"/>
+	<Point x="1737" y="390"/>
+	<Point x="1738" y="390"/>
+	<Point x="1737" y="390"/>
+	<Point x="1737" y="466"/>
+	<Point x="1736" y="466"/>
+	<Point x="1736" y="541"/>
+	<Point x="1735" y="541"/>
+	<Point x="1735" y="616"/>
+	<Point x="1734" y="616"/>
+	<Point x="1734" y="691"/>
+	<Point x="1733" y="691"/>
+	<Point x="1733" y="766"/>
+	<Point x="1732" y="766"/>
+	<Point x="1732" y="841"/>
+	<Point x="1731" y="841"/>
+	<Point x="1731" y="916"/>
+	<Point x="1730" y="916"/>
+	<Point x="1730" y="927"/>
+	<Point x="1409" y="927"/>
+	<Point x="1409" y="926"/>
+	<Point x="1053" y="926"/>
+	<Point x="1053" y="925"/>
+	<Point x="697" y="925"/>
+	<Point x="697" y="924"/>
+	<Point x="374" y="924"/>
+	<Point x="374" y="187"/>
+	<Point x="818" y="200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En voſotras,  os vemos contemplamos:
+El mas perfeto bien, que el mũdo aſconde.
+Y  a aIguno, milagros preguntamos:
+Con vueras hermoſuras nos reſponde.
+Y quando algun eraño bien dudamos:
+Mirando os, como ea, vemos y donde.
+Y en voſotras quedamos informados:
+De quanto eſcrito ea por los paados.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="361" y="943"/>
+	<Point x="1730" y="943"/>
+	<Point x="1730" y="1746"/>
+	<Point x="361" y="1746"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Figuras ſon, y fueron prophecias:
+Quãto ea eſcrito ẽ loor, đ otras beezas:
+Cumplidas todas ſon en nueros dias:
+Con ſolo el bien de vueras gentilezas.
+Deuria el mundo hazer empre alegrias:
+Por eas dos hermoſas erañezas.
+Devria s' alegrar, pero parece:
+Que a las vezes, por eo s'entriece.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="365" y="1768"/>
+	<Point x="1719" y="1768"/>
+	<Point x="1719" y="2569"/>
+	<Point x="365" y="2569"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El ayre, el ademan, y la poura:
+La autoridad del cuerpo, y el ſemblante:
+La biueza, la ſombra, la hermoſura:
+El variar, con vn geo conante:
+La claridad del roro, la freſcura:
+El aomar, que mata en vn inante:
+De qualquier d' eas coſas, quiẽ las viere:
+Salueſe con ſu eſfuerço,  pudiere.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r19" type="other">
+	<Coords>
+	<Point x="1282" y="74"/>
+	<Point x="1280" y="180"/>
+	<Point x="1435" y="180"/>
+	<Point x="1435" y="75"/></Coords></GraphicRegion>
+	<TextRegion id="r17" type="header">
+	<Coords>
+	<Point x="915" y="81"/>
+	<Point x="1264" y="81"/>
+	<Point x="1264" y="180"/>
+	<Point x="902" y="180"/>
+	<Point x="902" y="188"/>
+	<Point x="762" y="188"/>
+	<Point x="762" y="90"/>
+	<Point x="915" y="90"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion></Page></PcGts>

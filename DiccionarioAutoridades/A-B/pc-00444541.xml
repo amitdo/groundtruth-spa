@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444541">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T14:00:10</Created>
+	<LastChange>2011-03-09T08:34:58</LastChange></Metadata>
+	<Page imageFilename="00444541.tif" imageWidth="2613" imageHeight="3944">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/>
+	<RegionRefIndexed regionRef="r12" index="2"/>
+	<RegionRefIndexed regionRef="r13" index="3"/>
+	<RegionRefIndexed regionRef="r11" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="490" y="233"/>
+	<Point x="490" y="269"/>
+	<Point x="489" y="300"/>
+	<Point x="623" y="296"/>
+	<Point x="624" y="229"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIV</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="970" y="223"/>
+	<Point x="960" y="298"/>
+	<Point x="1883" y="300"/>
+	<Point x="1905" y="294"/>
+	<Point x="1909" y="270"/>
+	<Point x="1917" y="233"/>
+	<Point x="1900" y="227"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DISCURSO PROEMIAL</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="824" y="3841"/>
+	<Point x="826" y="3935"/>
+	<Point x="1767" y="3933"/>
+	<Point x="1764" y="3848"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="catch-word">
+	<Coords>
+	<Point x="2292" y="3653"/>
+	<Point x="2292" y="3714"/>
+	<Point x="2410" y="3716"/>
+	<Point x="2410" y="3653"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ter-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="417" y="310"/>
+	<Point x="420" y="376"/>
+	<Point x="424" y="468"/>
+	<Point x="716" y="468"/>
+	<Point x="726" y="473"/>
+	<Point x="741" y="474"/>
+	<Point x="755" y="464"/>
+	<Point x="764" y="460"/>
+	<Point x="1055" y="468"/>
+	<Point x="1075" y="478"/>
+	<Point x="1098" y="468"/>
+	<Point x="1229" y="468"/>
+	<Point x="1249" y="483"/>
+	<Point x="1281" y="468"/>
+	<Point x="1580" y="468"/>
+	<Point x="1580" y="413"/>
+	<Point x="2440" y="418"/>
+	<Point x="2436" y="306"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ﬁcado, puliendo unas Voces, ſuavizando otras, vá transformando inſen-
+blemente yá las letras, yá la gniﬁcación.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="418" y="486"/>
+	<Point x="414" y="1725"/>
+	<Point x="794" y="1725"/>
+	<Point x="795" y="1735"/>
+	<Point x="814" y="1743"/>
+	<Point x="836" y="1725"/>
+	<Point x="1143" y="1725"/>
+	<Point x="1150" y="1731"/>
+	<Point x="1167" y="1741"/>
+	<Point x="1198" y="1728"/>
+	<Point x="1242" y="1728"/>
+	<Point x="1248" y="1737"/>
+	<Point x="1265" y="1739"/>
+	<Point x="1276" y="1735"/>
+	<Point x="1282" y="1728"/>
+	<Point x="1904" y="1734"/>
+	<Point x="1916" y="1677"/>
+	<Point x="2466" y="1681"/>
+	<Point x="2441" y="467"/>
+	<Point x="1760" y="471"/>
+	<Point x="1741" y="476"/>
+	<Point x="1655" y="469"/>
+	<Point x="1623" y="474"/>
+	<Point x="1609" y="486"/>
+	<Point x="1398" y="480"/>
+	<Point x="1376" y="473"/>
+	<Point x="1350" y="478"/>
+	<Point x="1333" y="492"/>
+	<Point x="1210" y="491"/>
+	<Point x="1200" y="474"/>
+	<Point x="1179" y="474"/>
+	<Point x="1144" y="491"/>
+	<Point x="1042" y="489"/>
+	<Point x="1019" y="475"/>
+	<Point x="1007" y="473"/>
+	<Point x="996" y="477"/>
+	<Point x="973" y="476"/>
+	<Point x="796" y="478"/>
+	<Point x="766" y="473"/>
+	<Point x="754" y="473"/>
+	<Point x="735" y="481"/>
+	<Point x="701" y="478"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>20 Eas transformaciones ſon naturales, y aun precíſas en nuera
+Léngua, por ſer viva. Es bien ſabido de todos que las Lénguas ſe divíden
+en muertas, y vivas. Léngua muerta ſe ama la que como la Latina, He-
+bréa, y antígua Griega, ſon immutables, porque no hablandoſe, ni uſan-
+doſe comunmente, permanécen en ſu immutable sér, n que el que las uſa
+tenga libertad de inventar, ò mudar, no ſolo Voz, pero ni aun caſo, ò
+tiempo, n el rieſgo de incurrir en la vergonzoſa nota de cometer barba-
+riſmo, ò ſoleciſmo, por ſalir de aqueos riguroſos preceptos en que las
+tiene, ò aprionadas, ù defendidas la exaa obſervación de los Gramá-
+ticos. La Léngua viva es aquea que ſe nutre aumentandoſe con nuevas
+Voces, ſuavizando, ò perﬁcionando las que poee, ſe purga olvidando
+algunas menos expreſsívas, y limpiando algunas durézas y barbaridades,
+con que como de corta edad obligaba à que fueen balbucientes à los que
+las uſaban : y ultimamente tiene tambien ſu vejéz en que cadúca, perdien-
+do ſu eſplendór : propriedades todas, que por ſerlo de los vivientes le con-
+ceden con expreſsión mui própria el atribúto de vivas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="416" y="1750"/>
+	<Point x="422" y="2918"/>
+	<Point x="903" y="2913"/>
+	<Point x="929" y="2928"/>
+	<Point x="957" y="2913"/>
+	<Point x="1370" y="2909"/>
+	<Point x="1380" y="2859"/>
+	<Point x="2439" y="2857"/>
+	<Point x="2439" y="1741"/>
+	<Point x="1793" y="1747"/>
+	<Point x="1757" y="1740"/>
+	<Point x="1723" y="1747"/>
+	<Point x="1542" y="1749"/>
+	<Point x="1525" y="1740"/>
+	<Point x="1509" y="1749"/>
+	<Point x="1450" y="1750"/>
+	<Point x="1431" y="1742"/>
+	<Point x="1417" y="1750"/>
+	<Point x="1273" y="1756"/>
+	<Point x="1269" y="1741"/>
+	<Point x="1255" y="1741"/>
+	<Point x="1165" y="1745"/>
+	<Point x="1152" y="1738"/>
+	<Point x="1139" y="1746"/>
+	<Point x="927" y="1755"/>
+	<Point x="917" y="1736"/>
+	<Point x="896" y="1736"/>
+	<Point x="867" y="1738"/>
+	<Point x="863" y="1753"/>
+	<Point x="770" y="1751"/>
+	<Point x="768" y="1742"/>
+	<Point x="742" y="1736"/>
+	<Point x="707" y="1737"/>
+	<Point x="679" y="1749"/>
+	<Point x="548" y="1746"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>21 Eo miſmo tuvo la Léngua Latina : nació en el tiempo de Jano,
+y Saturno, y en ee eſcribieron aqueos verſos los Sacerdotes de Marte,
+amados Salios, que ſe conſervan por veneración de una antigüedád, que
+demuera la inculta niñéz de una Léngua. Creció ea en el Latio, de
+donde tomó el nombre Latina, y yá dexaba oirſe n aſperéza, y en ea
+ſe eſcribieron las doce tablas de las Leyes. Perﬁcionóſe entre los Romános
+en ſu ﬂorida amenidád, en que la cultivaron Cicerón, Pláuto, Virgílio,
+y los otros, que el dia de oy ſon nueros Maeros, y cuyos libros y eſ-
+critos ſon textos que hacen Ley entre los Gramáticos ; pero fenecido el
+Império de los Romános, con él cayó tambien la Léngua, degenerando
+entre aquea media latinidád, que yá ſe mira como corrompida entre
+barbariſmos, y à cuyas Voces temen los Gramáticos preſentes, como
+que no ſon dignas de introducirſe entre la Léngua muerta, y que por me-
+nos puras y caízas ſolo las reciben quando por falta de Voces entre los
+Romános les obliga la neceſsidád.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="421" y="2927"/>
+	<Point x="418" y="3644"/>
+	<Point x="1903" y="3660"/>
+	<Point x="1931" y="3657"/>
+	<Point x="1980" y="3653"/>
+	<Point x="2205" y="3637"/>
+	<Point x="2433" y="3642"/>
+	<Point x="2431" y="2918"/>
+	<Point x="2110" y="2920"/>
+	<Point x="1671" y="2922"/>
+	<Point x="1252" y="2922"/>
+	<Point x="1233" y="2921"/>
+	<Point x="1219" y="2921"/>
+	<Point x="1185" y="2924"/>
+	<Point x="1175" y="2926"/>
+	<Point x="1162" y="2920"/>
+	<Point x="1148" y="2926"/>
+	<Point x="1015" y="2936"/>
+	<Point x="1003" y="2920"/>
+	<Point x="994" y="2919"/>
+	<Point x="979" y="2920"/>
+	<Point x="965" y="2919"/>
+	<Point x="954" y="2922"/>
+	<Point x="945" y="2935"/>
+	<Point x="888" y="2936"/>
+	<Point x="870" y="2927"/>
+	<Point x="722" y="2925"/>
+	<Point x="691" y="2920"/>
+	<Point x="669" y="2928"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>22 Las tres miſmas edades ha tenido nuera Léngua, que haa ahó-
+ra, aunque mui antígua, no ha padecido debilidád alguna en ſu anciani-
+dád. Nació entre aquea antígua Léngua que hablaban los Eſpañoles
+quando vinieron los Romanos. Aqueos nacionales es de creer que uſaron
+en aqueos princípios un lenguage tan diﬁcil de entender, que ſolo po-
+dían lograr ea fortúna à la preción de una neceſsidád, porque n duda
+mezclarían un Idióma con otro, y harían un mixto, que ni fuee Eſpañol,
+ni Latino : propriedad que en todos los que aprenden nueva Léngua es
+por naturaleza ca precíſa. No olvidaron ſu dialeo, y conſervaron las</Unicode></TextEquiv></TextRegion></Page></PcGts>

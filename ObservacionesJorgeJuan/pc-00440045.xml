@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440045">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T22:59:33</Created>
+	<LastChange>2011-12-19T11:38:38</LastChange></Metadata>
+	<Page imageFilename="00440045.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="777" y="259"/>
+	<Point x="1738" y="259"/>
+	<Point x="1738" y="400"/>
+	<Point x="777" y="400"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="300" y="426"/>
+	<Point x="2204" y="426"/>
+	<Point x="2204" y="787"/>
+	<Point x="300" y="787"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Obſervaciones de Latitud, hechas en Cartagena por D. An‑
+tonio de Uoa, y por mì con el Annulo aronómico,
+que fuè del P. Feüiée.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r3">
+	<Coords>
+	<Point x="495" y="828"/>
+	<Point x="2195" y="809"/>
+	<Point x="2250" y="2845"/>
+	<Point x="2252" y="2873"/>
+	<Point x="2195" y="2871"/>
+	<Point x="502" y="2892"/></Coords></TableRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="332" y="2920"/>
+	<Point x="2253" y="2904"/>
+	<Point x="2255" y="3242"/>
+	<Point x="1018" y="3332"/>
+	<Point x="961" y="3332"/>
+	<Point x="332" y="3342"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aſsi que egaron à la Baìa de Cartagena los Académicos
+Franceſes, deſembarcò M. Godin ſu Quarto de circulo de
+22 pulgadas de radio, con el qual ſe hicieron las obſer‐
+vaciones, que ſe guen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="987" y="3995"/>
+	<Point x="1963" y="3995"/>
+	<Point x="1963" y="4104"/>
+	<Point x="987" y="4104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1995" y="276"/>
+	<Point x="2204" y="276"/>
+	<Point x="2204" y="409"/>
+	<Point x="1995" y="409"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>29</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="2030" y="3277"/>
+	<Point x="2234" y="3277"/>
+	<Point x="2234" y="3426"/>
+	<Point x="2030" y="3426"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ob‐</Unicode></TextEquiv></TextRegion></Page></PcGts>

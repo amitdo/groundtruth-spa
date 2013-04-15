@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672964">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 10.0</Creator>
+	<Created>2012-02-01T01:47:00</Created>
+	<LastChange>2012-03-02T12:13:42</LastChange></Metadata>
+	<Page imageFilename="00672964.tif" imageWidth="1911" imageHeight="2614">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="426" y="1884"/>
+	<Point x="438" y="305"/>
+	<Point x="1345" y="315"/>
+	<Point x="1643" y="336"/>
+	<Point x="1644" y="1884"/>
+	<Point x="1637" y="2216"/>
+	<Point x="1427" y="2227"/>
+	<Point x="430" y="2218"/>
+	<Point x="427" y="1884"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>puea, ide, como quien dixee en vn campo,
+aguardando ſu enemigo ala batalla. Eos arﬁles
+empre que tuuieren la via deſembaraçada, pue
+den correr por ſu eſquina, ò punta todas las caſas
+que alcançarã hiriendo, ò no hiriendo. Y para ſa
+ber bien ſu herir condera lo en ſu caſa. Y  es ar
+ﬁl del rey blanco puede por ſu mano derecha he-
+rir en dos partes, y dos lineas, cõuiene a ſaber, en
+la. 2. caſa dela linea de ſu cauallo, y en la.3.dela li-
+nea de ſu Roque. Si Caminare por ſu mano yz-
+quierda puede caminar dẽde ſu caſa alo mas ſeys
+caſas, contando dende la ſuya,y ſeys lineas, con-
+uiene à ſaber la ſuya, y la del rey.2. y la.3. dela da-
+ma, y la.4. del arﬁl de ſu dama, y eo por ſu cam
+po,y termino:y por el ageno ala.4.del cauallo de
+la dama contraria: y ala. 3. del roque de la dama
+contraria. Pero  ſe hallare enmedio del tablero,
+como ala. 4. caſa de ſu rey,hiere a quatro partes,
+por las dos hazia el enemigo: y por las otras dos
+hazia los ſuyos. Hazia el aduerſario hiere a mano
+derecha,ala. 4.del arﬁl, y ala. 3. del cauallo, y ala
+2. del roque del rey contrario. A mano yzquier-
+da ala. 4. dela dama, ala.3.del arﬁl, ala.2.del caua
+llo, y enla caſa del roque dela dama. Buelto hazia
+los ſuyos, hiere ala mano yzquierda, ala. 3. de ſu
+dama, y ala.2. del arﬁl,y ala caſa del cauallo de ſu
+meſma dama. Ala mano derecha hiere,ala.3.de </Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="header">
+	<Coords>
+	<Point x="695" y="235"/>
+	<Point x="695" y="305"/>
+	<Point x="1411" y="305"/>
+	<Point x="1411" y="235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro dela inuencion liberal</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1440" y="2233"/>
+	<Point x="1440" y="2293"/>
+	<Point x="1625" y="2293"/>
+	<Point x="1625" y="2233"/>
+	<Point x="1537" y="2225"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>meſmo</Unicode></TextEquiv></TextRegion></Page></PcGts>

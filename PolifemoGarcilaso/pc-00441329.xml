@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441329">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:57:02</Created>
+	<LastChange>2011-05-12T13:40:13</LastChange></Metadata>
+	<Page imageFilename="00441329.tif" imageWidth="1495" imageHeight="2328">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r13" index="0"/>
+	<RegionRefIndexed regionRef="r14" index="1"/>
+	<RegionRefIndexed regionRef="r10" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="83" y="1063"/>
+	<Point x="605" y="1058"/>
+	<Point x="900" y="1057"/>
+	<Point x="974" y="1074"/>
+	<Point x="996" y="1132"/>
+	<Point x="997" y="1291"/>
+	<Point x="974" y="1361"/>
+	<Point x="758" y="1382"/>
+	<Point x="450" y="1380"/>
+	<Point x="96" y="1361"/>
+	<Point x="56" y="1251"/>
+	<Point x="63" y="1176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rompe tu pluma la tiniebla fria,
+Que Apolo le preò ſus rayos de oro,
+Porque manifeaes el teſoro,
+Oculto en ſombras, a la fantaa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="71" y="1391"/>
+	<Point x="729" y="1396"/>
+	<Point x="931" y="1407"/>
+	<Point x="974" y="1467"/>
+	<Point x="931" y="1612"/>
+	<Point x="710" y="1640"/>
+	<Point x="454" y="1634"/>
+	<Point x="248" y="1625"/>
+	<Point x="92" y="1612"/>
+	<Point x="55" y="1574"/>
+	<Point x="57" y="1485"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y para que mas claro reſplandezca
+Su diuino eſplendor, el ſeno abierto
+Dexas al velo, que la luz, encubre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="52" y="1641"/>
+	<Point x="587" y="1651"/>
+	<Point x="1004" y="1658"/>
+	<Point x="1036" y="1677"/>
+	<Point x="1044" y="1795"/>
+	<Point x="1022" y="1881"/>
+	<Point x="850" y="1886"/>
+	<Point x="88" y="1876"/>
+	<Point x="43" y="1725"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Duda la fama a quien mas lauro ofrezca,
+Si al que formado lo dexò cubierto,
+Si a quien al Orbe ſu Deidad deſcubre.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r8" type="stamp">
+	<Coords>
+	<Point x="520" y="1900"/>
+	<Point x="843" y="1900"/>
+	<Point x="843" y="2200"/>
+	<Point x="520" y="2200"/></Coords></GraphicRegion>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="438" y="2269"/>
+	<Point x="460" y="2244"/>
+	<Point x="643" y="2238"/>
+	<Point x="870" y="2252"/>
+	<Point x="957" y="2250"/>
+	<Point x="1002" y="2247"/>
+	<Point x="1038" y="2269"/>
+	<Point x="1011" y="2297"/>
+	<Point x="957" y="2310"/>
+	<Point x="745" y="2317"/>
+	<Point x="552" y="2311"/>
+	<Point x="480" y="2307"/>
+	<Point x="462" y="2297"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="146" y="743"/>
+	<Point x="568" y="724"/>
+	<Point x="855" y="743"/>
+	<Point x="941" y="763"/>
+	<Point x="948" y="814"/>
+	<Point x="990" y="949"/>
+	<Point x="1006" y="990"/>
+	<Point x="961" y="1038"/>
+	<Point x="107" y="1020"/>
+	<Point x="107" y="863"/>
+	<Point x="123" y="863"/>
+	<Point x="153" y="844"/>
+	<Point x="152" y="815"/>
+	<Point x="149" y="753"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mprimes en los talamos del dia
+Del Ciſne Cordoues, rithmo ſonoro,
+Pues pones ilurando ſu decoro,
+Contrapunto a ſu metrica armonia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="drop-capital">
+	<Coords>
+	<Point x="94" y="750"/>
+	<Point x="98" y="803"/>
+	<Point x="95" y="837"/>
+	<Point x="100" y="853"/>
+	<Point x="133" y="848"/>
+	<Point x="142" y="842"/>
+	<Point x="141" y="753"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="70" y="170"/>
+	<Point x="70" y="455"/>
+	<Point x="1255" y="455"/>
+	<Point x="1255" y="170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DEL DOCTOR MIGVEL DE
+Silueyra, a don Garcia de Salzedo
+Coronel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="heading">
+	<Coords>
+	<Point x="385" y="540"/>
+	<Point x="385" y="665"/>
+	<Point x="915" y="665"/>
+	<Point x="915" y="540"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SONETO.</Unicode></TextEquiv></TextRegion></Page></PcGts>

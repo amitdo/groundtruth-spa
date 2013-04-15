@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438201">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-29T16:34:32</Created>
+	<LastChange>2011-12-19T11:38:21</LastChange></Metadata>
+	<Page imageFilename="00438201.tif" imageWidth="2124" imageHeight="3165">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r49" index="0"/>
+	<RegionRefIndexed regionRef="r51" index="1"/>
+	<RegionRefIndexed regionRef="r53" index="2"/>
+	<RegionRefIndexed regionRef="r71" index="3"/>
+	<RegionRefIndexed regionRef="r75" index="4"/>
+	<RegionRefIndexed regionRef="r79" index="5"/>
+	<RegionRefIndexed regionRef="r81" index="6"/>
+	<RegionRefIndexed regionRef="r88" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="494" y="52"/>
+	<Point x="1343" y="48"/>
+	<Point x="1356" y="188"/>
+	<Point x="485" y="182"/>
+	<Point x="487" y="166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De Don Pedro Calderon.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="credit">
+	<Coords>
+	<Point x="806" y="3100"/>
+	<Point x="1434" y="3102"/>
+	<Point x="1435" y="3136"/>
+	<Point x="1436" y="3155"/>
+	<Point x="1337" y="3160"/>
+	<Point x="806" y="3157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords>
+	<Point x="470" y="222"/>
+	<Point x="1393" y="222"/>
+	<Point x="1401" y="291"/>
+	<Point x="1080" y="306"/>
+	<Point x="900" y="307"/>
+	<Point x="880" y="309"/>
+	<Point x="762" y="301"/>
+	<Point x="473" y="290"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Salen Don Juan, y Don Ceſar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="paragraph">
+	<Coords>
+	<Point x="1403" y="320"/>
+	<Point x="1403" y="325"/>
+	<Point x="1404" y="325"/>
+	<Point x="1404" y="377"/>
+	<Point x="1405" y="377"/>
+	<Point x="1405" y="429"/>
+	<Point x="1406" y="429"/>
+	<Point x="1406" y="482"/>
+	<Point x="1407" y="482"/>
+	<Point x="1407" y="534"/>
+	<Point x="1408" y="534"/>
+	<Point x="1408" y="586"/>
+	<Point x="1409" y="586"/>
+	<Point x="1409" y="638"/>
+	<Point x="1410" y="638"/>
+	<Point x="1410" y="690"/>
+	<Point x="1411" y="690"/>
+	<Point x="1411" y="743"/>
+	<Point x="1412" y="743"/>
+	<Point x="1412" y="795"/>
+	<Point x="1413" y="795"/>
+	<Point x="1413" y="847"/>
+	<Point x="1414" y="847"/>
+	<Point x="1414" y="899"/>
+	<Point x="1415" y="899"/>
+	<Point x="1415" y="952"/>
+	<Point x="1416" y="952"/>
+	<Point x="1416" y="1004"/>
+	<Point x="1417" y="1004"/>
+	<Point x="1417" y="1056"/>
+	<Point x="1418" y="1056"/>
+	<Point x="1418" y="1108"/>
+	<Point x="1419" y="1108"/>
+	<Point x="1419" y="1160"/>
+	<Point x="1420" y="1160"/>
+	<Point x="1420" y="1213"/>
+	<Point x="1421" y="1213"/>
+	<Point x="1421" y="1265"/>
+	<Point x="1422" y="1265"/>
+	<Point x="1422" y="1317"/>
+	<Point x="1423" y="1317"/>
+	<Point x="1423" y="1369"/>
+	<Point x="1424" y="1369"/>
+	<Point x="1425" y="1404"/>
+	<Point x="1419" y="1410"/>
+	<Point x="1331" y="1414"/>
+	<Point x="1077" y="1415"/>
+	<Point x="1040" y="1404"/>
+	<Point x="690" y="1411"/>
+	<Point x="449" y="1421"/>
+	<Point x="449" y="1422"/>
+	<Point x="448" y="1422"/>
+	<Point x="448" y="1421"/>
+	<Point x="449" y="1421"/>
+	<Point x="449" y="1346"/>
+	<Point x="450" y="1346"/>
+	<Point x="450" y="1270"/>
+	<Point x="451" y="1270"/>
+	<Point x="451" y="1195"/>
+	<Point x="452" y="1195"/>
+	<Point x="452" y="1119"/>
+	<Point x="453" y="1119"/>
+	<Point x="453" y="1044"/>
+	<Point x="454" y="1044"/>
+	<Point x="454" y="968"/>
+	<Point x="455" y="968"/>
+	<Point x="455" y="893"/>
+	<Point x="456" y="893"/>
+	<Point x="456" y="817"/>
+	<Point x="457" y="817"/>
+	<Point x="457" y="741"/>
+	<Point x="458" y="741"/>
+	<Point x="458" y="666"/>
+	<Point x="459" y="666"/>
+	<Point x="459" y="590"/>
+	<Point x="460" y="590"/>
+	<Point x="460" y="515"/>
+	<Point x="461" y="515"/>
+	<Point x="461" y="439"/>
+	<Point x="462" y="439"/>
+	<Point x="462" y="364"/>
+	<Point x="463" y="364"/>
+	<Point x="463" y="301"/>
+	<Point x="763" y="312"/>
+	<Point x="769" y="312"/>
+	<Point x="886" y="320"/>
+	<Point x="1073" y="316"/>
+	<Point x="1082" y="318"/>
+	<Point x="1094" y="321"/>
+	<Point x="1125" y="323"/>
+	<Point x="1243" y="329"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Juan. Ceſar, corrido vengo
+de aver de vuero amor deſconﬁado;
+mas por diſculpa tengo,
+que pintan al Amor ciego, y vendado,
+à quien dieron los Cielos,
+para que le guiaen à los zelos.
+Moços de ciego han do,
+(no os parezca baxeza ee concepto)
+eos han conducido
+à Amor por donde quieren, y èl ſugeto,
+y humilde à obedeceos,
+ha de creer lo que dixeren eos.
+La reſpuea que dixe,
+que oy os avia de dar, ha do ea,
+ningun temor me aﬂige,
+admitir la diſculpa por reſpuea,
+ya yo eoy ſatisfecho:
+mas  vos no lo eais, rõpedme el pecho.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="paragraph">
+	<Coords>
+	<Point x="443" y="1428"/>
+	<Point x="470" y="1428"/>
+	<Point x="702" y="1419"/>
+	<Point x="995" y="1421"/>
+	<Point x="1045" y="1411"/>
+	<Point x="1061" y="1413"/>
+	<Point x="1079" y="1423"/>
+	<Point x="1459" y="1428"/>
+	<Point x="1462" y="2122"/>
+	<Point x="1352" y="2141"/>
+	<Point x="981" y="2165"/>
+	<Point x="886" y="2185"/>
+	<Point x="849" y="2167"/>
+	<Point x="806" y="2169"/>
+	<Point x="592" y="2176"/>
+	<Point x="463" y="2172"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ceſ. Don Juan, aunque pudiera
+agraviarme de vos, la quexa mia
+remito, que no fuera
+amigo, como ſoy,  el primer dia
+que os diſguais conmigo,
+no os ſufriera vn defeo, como amigo:
+Conﬁeo que era fuerte
+la ocaon que tuvieis, y conﬁeo,
+que el no darme la muerte
+entonces, fue valor; pero tràs eo,
+de otro hombre no ſufriera,
+que mis ſatisfaciones no admitiera:
+como os deſengañaeis?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r71" type="paragraph">
+	<Coords>
+	<Point x="428" y="2182"/>
+	<Point x="852" y="2179"/>
+	<Point x="869" y="2191"/>
+	<Point x="987" y="2173"/>
+	<Point x="1155" y="2164"/>
+	<Point x="1487" y="2182"/>
+	<Point x="1483" y="2436"/>
+	<Point x="1107" y="2469"/>
+	<Point x="875" y="2459"/>
+	<Point x="804" y="2478"/>
+	<Point x="793" y="2480"/>
+	<Point x="770" y="2465"/>
+	<Point x="591" y="2470"/>
+	<Point x="537" y="2466"/>
+	<Point x="432" y="2449"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Jua. Si fue eo hazer à mi amiad agravio,
+para què me acordaeis
+que os ofendi? ya el coraçon, ya el labio
+ee ſecreto ſea:
+bea es la preſa vuera.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r75" type="paragraph">
+	<Coords>
+	<Point x="424" y="2485"/>
+	<Point x="625" y="2477"/>
+	<Point x="769" y="2486"/>
+	<Point x="803" y="2485"/>
+	<Point x="877" y="2472"/>
+	<Point x="973" y="2474"/>
+	<Point x="1026" y="2485"/>
+	<Point x="1490" y="2455"/>
+	<Point x="1494" y="2494"/>
+	<Point x="1367" y="2499"/>
+	<Point x="1109" y="2498"/>
+	<Point x="998" y="2515"/>
+	<Point x="862" y="2525"/>
+	<Point x="825" y="2534"/>
+	<Point x="795" y="2527"/>
+	<Point x="652" y="2529"/>
+	<Point x="567" y="2541"/>
+	<Point x="517" y="2522"/>
+	<Point x="426" y="2536"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ceſ. No es muy bea?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r79" type="paragraph">
+	<Coords>
+	<Point x="420" y="2549"/>
+	<Point x="526" y="2537"/>
+	<Point x="539" y="2539"/>
+	<Point x="558" y="2542"/>
+	<Point x="591" y="2548"/>
+	<Point x="643" y="2540"/>
+	<Point x="809" y="2536"/>
+	<Point x="839" y="2546"/>
+	<Point x="948" y="2526"/>
+	<Point x="1506" y="2511"/>
+	<Point x="1504" y="2875"/>
+	<Point x="960" y="2875"/>
+	<Point x="919" y="2889"/>
+	<Point x="873" y="2876"/>
+	<Point x="642" y="2876"/>
+	<Point x="622" y="2889"/>
+	<Point x="608" y="2887"/>
+	<Point x="542" y="2858"/>
+	<Point x="437" y="2852"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Juan. Si, mas junto à Liſarda,
+es junto al dia vna tiniebla obſcura,
+es vna nube parda
+junto al Sol es vn Mar de la hermoſura;
+ninguna ſe la atreve,
+que como arroyos faciles los bebe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r81" type="paragraph">
+	<Coords>
+	<Point x="428" y="2891"/>
+	<Point x="549" y="2878"/>
+	<Point x="612" y="2894"/>
+	<Point x="642" y="2885"/>
+	<Point x="903" y="2887"/>
+	<Point x="937" y="2897"/>
+	<Point x="946" y="2885"/>
+	<Point x="980" y="2882"/>
+	<Point x="1507" y="2882"/>
+	<Point x="1506" y="2924"/>
+	<Point x="1082" y="2938"/>
+	<Point x="1019" y="2934"/>
+	<Point x="990" y="2935"/>
+	<Point x="952" y="2935"/>
+	<Point x="670" y="2964"/>
+	<Point x="426" y="2962"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ceſ. Quando tan bea ſea,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r86" type="signature-mark">
+	<Coords>
+	<Point x="958" y="2941"/>
+	<Point x="1046" y="2941"/>
+	<Point x="1046" y="3012"/>
+	<Point x="958" y="3008"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r88" type="catch-word">
+	<Coords>
+	<Point x="1413" y="2938"/>
+	<Point x="1516" y="2938"/>
+	<Point x="1517" y="3012"/>
+	<Point x="1416" y="3016"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r89" type="page-number">
+	<Coords>
+	<Point x="1754" y="176"/>
+	<Point x="1721" y="173"/>
+	<Point x="1719" y="69"/>
+	<Point x="1869" y="73"/>
+	<Point x="1871" y="183"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>17</Unicode></TextEquiv></TextRegion></Page></PcGts>

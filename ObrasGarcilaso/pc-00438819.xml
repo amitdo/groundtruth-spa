@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438819">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:41:00</Created>
+	<LastChange>2011-06-24T14:04:19</LastChange></Metadata>
+	<Page imageFilename="00438819.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="418" y="53"/>
+	<Point x="1126" y="50"/>
+	<Point x="1123" y="146"/>
+	<Point x="1056" y="144"/>
+	<Point x="823" y="146"/>
+	<Point x="643" y="149"/>
+	<Point x="433" y="149"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBRAS DE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="192" y="121"/>
+	<Point x="436" y="154"/>
+	<Point x="733" y="154"/>
+	<Point x="793" y="155"/>
+	<Point x="1067" y="151"/>
+	<Point x="1127" y="153"/>
+	<Point x="1239" y="133"/>
+	<Point x="1378" y="136"/>
+	<Point x="1371" y="988"/>
+	<Point x="424" y="991"/>
+	<Point x="400" y="991"/>
+	<Point x="358" y="990"/>
+	<Point x="174" y="989"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de do viene el temor que nos eſpanta,
+y la medroſa forma en que ſe ofrece
+aqueo que la noche nos encubre,
+haa que el Sol deſcubre
+ſu luz pura, y hermoſa.
+Tales la tenebroſa
+noche de tu partir, en que he quedado,
+de ſombra y de temor atormentado,
+haa que muerte el tiempo determine,
+que a ver el deeado
+Sol de tu clara via me encamine.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1291" y="1954"/>
+	<Point x="1385" y="1954"/>
+	<Point x="1385" y="2045"/>
+	<Point x="1291" y="2045"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>al</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="477" y="2086"/>
+	<Point x="983" y="2086"/>
+	<Point x="983" y="2140"/>
+	<Point x="477" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="157" y="996"/>
+	<Point x="150" y="2010"/>
+	<Point x="902" y="1990"/>
+	<Point x="1333" y="1919"/>
+	<Point x="1359" y="994"/>
+	<Point x="1143" y="990"/>
+	<Point x="1114" y="991"/>
+	<Point x="783" y="993"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Qual ſuele el ruy ſeñor con trie canto
+quexarſe, entre las hojas eſcondido,
+del duro labrador, que cautamente
+le deſpojò ſu caro, y dulce nido
+de los tiernos hijuelos, entre tanto
+que del amado ramo eaua auſente,
+y aquel dolor que ente,
+con diferencia tanta
+por la dulce garganta
+deſpide, y a ſu canto el ay re ſuena.
+y la caada noche no refrena
+ſu lamedtable oﬁcio, y ſus quereas,
+trayendo de ſu pena</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="marginalia">
+	<Coords>
+	<Point x="23" y="990"/>
+	<Point x="23" y="1073"/>
+	<Point x="150" y="1073"/>
+	<Point x="156" y="1023"/>
+	<Point x="150" y="990"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>107</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444256">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:47:16</Created>
+	<LastChange>2011-12-19T11:39:34</LastChange></Metadata>
+	<Page imageFilename="00444256.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="880" y="112"/>
+	<Point x="1550" y="100"/>
+	<Point x="1551" y="227"/>
+	<Point x="887" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1819" y="2651"/>
+	<Point x="1992" y="2642"/>
+	<Point x="1999" y="2739"/>
+	<Point x="1821" y="2741"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cer,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="600" y="3062"/>
+	<Point x="1589" y="3051"/>
+	<Point x="1593" y="3159"/>
+	<Point x="593" y="3162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="386" y="246"/>
+	<Point x="727" y="239"/>
+	<Point x="1675" y="236"/>
+	<Point x="2062" y="240"/>
+	<Point x="2090" y="2628"/>
+	<Point x="1293" y="2674"/>
+	<Point x="383" y="2698"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſe puſo la capia, por grandes ſoles y aguas
+que hiziee, ni coſa en los pies, ni veida, -
+no vn habito de ſayal, n ninguna otra coſa
+ſobre las carnes, y ee tã angoo como ſe po
+dia ſuﬀrir, y vn mãtio de lo miſmo encima,
+deziame que en los grandes frios ſe le quita-
+ua, y dexaua la puerta y ventania abierta
+de la celda, para que con ponerſe deſpues el
+manto, y cerrar la puerta contentae al cuer-
+po, para que ſoegae cõ mas abrigo. Comer,
+a tercero dia era muy ordinario. Y dixome
+que de que me eſpantaua, que muy poſsible
+era a quien ſe acoumbraua a eo. Vn ſu cõ-
+pañero me dixo que le acaecia ear ocho dias
+n comer. Deuia ſer eando en oracion, por-
+que tenia grandes arrobamientos, y impetus
+de amor de Dios, de  vna vez yo fuy teigo.
+Su pobreza era erema, y mortiﬁcacion en la
+mocedad, que me dixo, que le auia acaecido
+ear tres años en vna caſa de ſu orden, y no
+conocer frayle, no era por la habla, porque
+no alçaua los ojos jamas, y an a las partes 
+de neceſsidad auia de yr no ſabia, no yuaſe
+tras los frayles. Eo le acaecia por los cami-
+nos. A mugeres jamas miraua, eo muchos
+años, deziame  ya no ſe le daua mas ver  no
+ver, mas era muy viejo quãdo le vine a cono-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="403" y="133"/>
+	<Point x="403" y="233"/>
+	<Point x="633" y="233"/>
+	<Point x="633" y="133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>328</Unicode></TextEquiv></TextRegion></Page></PcGts>

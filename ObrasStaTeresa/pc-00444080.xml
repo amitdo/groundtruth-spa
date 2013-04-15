@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444080">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T00:55:41</Created>
+	<LastChange>2011-12-19T11:39:24</LastChange></Metadata>
+	<Page imageFilename="00444080.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="426" y="230"/>
+	<Point x="2033" y="230"/>
+	<Point x="2023" y="2630"/>
+	<Point x="683" y="2628"/>
+	<Point x="680" y="2659"/>
+	<Point x="426" y="2659"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aﬀligen en penſar en el inﬁerno: otras
+en la muerte: algunas  ſon tiernas de
+coraçon ſe fatigan mucho de penſar em‐
+pre en la paſsion y ſe regalan y aproue-
+chan en mirar el poder y grandeza de
+Dios en las criaturas, y el amor que nos
+tuuo, que en todas las coſas ſe repreſen‐
+ta, y es admirable manera de proceder,
+no dexando muchas vezes la paſsion y
+vida de Chrio, que es de donde nos
+ha venido y viene todo el bien. Ha me‐
+neer auiſo el que comiença para mirar
+en lo que aprouecha mas, para eo es
+muy neceario el maero  es eſperi‐
+mentado, que no mucho puede errar
+y traer vn alma n entenderla, ni de-
+xarla a  miſma entender: porque co‐
+mo ſabe que es gran merito ear ſuge-
+ta a maero, no oſa ſalir de lo que ſe
+le manda: yo he topado almas acorrala‐
+das y aﬀligidas por no tener eſperien‐
+cia quien las enſeñaua, que me hazian
+laima y alguna que no ſabia ya que ha-
+zer de , porque no entendiendo el ſpi-
+ritu aﬀligen alma y cuerpo, y eoruan
+el aprouechamiento. Vna trato conmi‐
+go que la tenia el maero atada ocho</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1733" y="2638"/>
+	<Point x="1997" y="2638"/>
+	<Point x="1997" y="2733"/>
+	<Point x="1733" y="2733"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>años</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="623" y="3064"/>
+	<Point x="1569" y="3064"/>
+	<Point x="1569" y="3159"/>
+	<Point x="623" y="3159"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="428" y="107"/>
+	<Point x="428" y="219"/>
+	<Point x="638" y="219"/>
+	<Point x="638" y="107"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>152</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="873" y="76"/>
+	<Point x="873" y="204"/>
+	<Point x="1535" y="204"/>
+	<Point x="1535" y="76"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

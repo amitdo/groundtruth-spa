@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444150">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:04:01</Created>
+	<LastChange>2011-12-19T11:39:28</LastChange></Metadata>
+	<Page imageFilename="00444150.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="912" y="82"/>
+	<Point x="1652" y="82"/>
+	<Point x="1654" y="195"/>
+	<Point x="912" y="200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1778" y="2611"/>
+	<Point x="1889" y="2631"/>
+	<Point x="1949" y="2604"/>
+	<Point x="2029" y="2596"/>
+	<Point x="2031" y="2723"/>
+	<Point x="1752" y="2727"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>puede</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="585" y="3054"/>
+	<Point x="1597" y="3054"/>
+	<Point x="1597" y="3170"/>
+	<Point x="585" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="420" y="210"/>
+	<Point x="1696" y="202"/>
+	<Point x="2100" y="192"/>
+	<Point x="2096" y="238"/>
+	<Point x="2094" y="264"/>
+	<Point x="2104" y="2587"/>
+	<Point x="2029" y="2591"/>
+	<Point x="1947" y="2600"/>
+	<Point x="1889" y="2628"/>
+	<Point x="1757" y="2603"/>
+	<Point x="1009" y="2644"/>
+	<Point x="420" y="2632"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ponerſe en las ocaones y peligros por gran
+des deeos y determinaciones que tengã. Es
+excelẽte dorina ea, y no mia no enſeñada
+de Dios, y an querria que perſonas ignoran
+tes como yo la ſupieen, porque aunque ee
+vn alma en ee eado no ha de ﬁar de  pa-
+ra ſalir a combatir, porque hara harto en de-
+fenderſe. Aqui ſon meneer armas para de-
+fenderſe de los demonios y aun no tiene fuer
+ça para pelear contra eos, y traerlos debaxo
+de los pies como hazen los que ean en el
+eado que dire deſpues. Ee es el engaño
+con que coge el demonio, que como ſe vee
+vn alma tan egada a Dios, y vee la diﬀeren-
+cia que ay del bien del cielo al de tierra, y el
+amor que la muera el Señor, dee amor
+naſce conﬁança y ſeguridad de no caer de lo
+que goza, parecele que vee claro el pre-
+mio, que no es poſsible ya en coſa, que aun
+para la vida es tan deleytoſa y ſuaue, dexarla
+por coſa tan baxa y ſuzia como es el deley-
+te, y con ea conﬁança quitale el demonio
+la poca que ha de tener de , y como digo
+poneſe en los peligros, y comiença con
+buen zelo a dar de la fruta n taa, creyen-
+do que ya no ay que temer de , y eo no va
+con ſoberuia que bien entiende el alma  no</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="452" y="104"/>
+	<Point x="452" y="200"/>
+	<Point x="676" y="200"/>
+	<Point x="676" y="104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>222</Unicode></TextEquiv></TextRegion></Page></PcGts>

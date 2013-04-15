@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440574">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T15:23:27</Created>
+	<LastChange>2011-07-05T14:26:06</LastChange></Metadata>
+	<Page imageFilename="00440574.tif" imageWidth="876" imageHeight="1640">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r18" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="107" y="115"/>
+	<Point x="110" y="100"/>
+	<Point x="495" y="100"/>
+	<Point x="547" y="96"/>
+	<Point x="692" y="95"/>
+	<Point x="737" y="90"/>
+	<Point x="757" y="95"/>
+	<Point x="838" y="95"/>
+	<Point x="838" y="1289"/>
+	<Point x="80" y="1289"/>
+	<Point x="80" y="117"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de los amigos, y vida corteſana.
+Euue muy a mi plazer con acre-
+centamiento de alegria, y linage,
+por el nacimiento de vna muy
+hermoſa niña que en eos me-
+dios mi muger pario, que aunque
+yo tenia alguna ſoſpecha, ella me
+juro que era mia. Haa que a la
+fortuna le parecio auer me mu-
+cho oluidado, y ſer juo tornar-
+me a marar ſu ayrado, ſeuero, y
+cruel geo, y aguarme eo pocos
+años de ſabroſa, y deſcanlada vi-
+da, con otros tantos de trabajos,
+y a marga muerte. O gran Dios, y
+qui en podra eſcreuir vn infortu-
+nio tan deſarado, y acaecimien-
+to tan n dicha, que no dexe hol-
+gar el tintero poniendo la pluma
+en ſus ojos ?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="274" y="1577"/>
+	<Point x="568" y="1577"/>
+	<Point x="568" y="1619"/>
+	<Point x="274" y="1619"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="91" y="58"/>
+	<Point x="180" y="58"/>
+	<Point x="180" y="95"/>
+	<Point x="91" y="95"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>120</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="353" y="39"/>
+	<Point x="608" y="39"/>
+	<Point x="608" y="90"/>
+	<Point x="353" y="90"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="heading">
+	<Coords>
+	<Point x="109" y="1331"/>
+	<Point x="836" y="1331"/>
+	<Point x="836" y="1394"/>
+	<Point x="779" y="1394"/>
+	<Point x="779" y="1451"/>
+	<Point x="639" y="1451"/>
+	<Point x="639" y="1518"/>
+	<Point x="349" y="1518"/>
+	<Point x="349" y="1451"/>
+	<Point x="189" y="1451"/>
+	<Point x="189" y="1394"/>
+	<Point x="109" y="1394"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FIN DE LA PRIMERA
+PARTE DE LA VIDA
+de Lazarillo.</Unicode></TextEquiv></TextRegion></Page></PcGts>

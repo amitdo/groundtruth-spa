@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485184">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T07:52:46</Created>
+	<LastChange>2011-05-12T13:41:01</LastChange></Metadata>
+	<Page imageFilename="00485184.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="623" y="3012"/>
+	<Point x="1398" y="3012"/>
+	<Point x="1398" y="3095"/>
+	<Point x="623" y="3095"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacio'nal de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="500" y="200"/>
+	<Point x="1633" y="225"/>
+	<Point x="1640" y="1169"/>
+	<Point x="1733" y="1173"/>
+	<Point x="1746" y="1322"/>
+	<Point x="1640" y="1340"/>
+	<Point x="1650" y="2823"/>
+	<Point x="509" y="2816"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vn rato ſe quexaua de  miſma,
+Porque puſo ſu'ſpoſo en tal peligro.
+Luego deſpues, ſe quereaua del
+Culpandole porque, tardaua tanto.
+Ningun peligro entonces, ſoſpechaua
+Sino de deſamor o de deſcuydo.
+No temia la mar, no las caes
+Y las caſas d'Abydo, y las ventanas.
+Boluia deſpues, a'ſegurarſe deo,
+Y la mar, y los vientos la'ſpantauan.
+Y entonces, ya tomara por partido,
+Que'uuiera Leandro donde quiera,
+Holgando aſu plazer, pueo enlos braços
+D'otra muger aquien mas s'inclinae:
+Con tal que ſu ſalud, y vida ſueen
+Seguras de peligros deſarados.
+Eando en ee miedo, contemplaua
+La gran difﬁcultad de ſu venida.
+Y'aua atenta  venir l'oyee.
+Y acada golpe dela mar, que oya,
+Penſaua que'I ſeria, pero luego
+Con la verdad venia el deſengaño:
+Y tornaua de nueuo a'ar atenta,
+Haa que ya ſentio que'ra egado.
+Y no vuo mas lugar de penſamientos,
+Sino que hizo luego con preeza,
+Y con cautela lo que conuenia.
+Y ai abaxando, con medroſos paos
+A vna puerta, que ai'aua pequeña
+Iunto al' oria, donde daua el agua,
+En l'arena aentado vio ſu'ſpoſo:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="769" y="97"/>
+	<Point x="769" y="200"/>
+	<Point x="1242" y="200"/>
+	<Point x="1242" y="97"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r11" type="other">
+	<Coords>
+	<Point x="1254" y="124"/>
+	<Point x="1254" y="208"/>
+	<Point x="1375" y="208"/>
+	<Point x="1375" y="124"/></Coords></GraphicRegion></Page></PcGts>

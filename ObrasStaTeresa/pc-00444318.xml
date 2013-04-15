@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444318">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T11:24:40</Created>
+	<LastChange>2011-12-19T11:39:38</LastChange></Metadata>
+	<Page imageFilename="00444318.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="460" y="256"/>
+	<Point x="1183" y="242"/>
+	<Point x="2012" y="252"/>
+	<Point x="2042" y="2669"/>
+	<Point x="1897" y="2673"/>
+	<Point x="1826" y="2688"/>
+	<Point x="442" y="2680"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vida nunca ay todo n muchos peligros, pa-
+reciame a mi pocos años ha, que no ſolo no
+eaua ada a mis deudos, no que me can-
+ſauan, y era cierto aſsi que ſu conuerſacion
+no podia euar, oﬀrecioſe cierto negocio
+de harta importancia, y vue de ear con
+vna hermana mia, a quien yo queria muy
+mucho antes, y pueo que en la conuerſa-
+cion, aunque ea es mejor que yo, no me ha-
+zia con ea, porque como tiene diﬀerente
+eado que es caſada, no puede ſer la con-
+uerſacion empre en lo que yo la querria,
+y lo mas que podia me eaua ſola, vi que
+me dauan pena ſus penas, mas harto que de
+proximo, y algun cuydado, en ﬁn entendi
+de mi, que no eaua tan libre como yo pen-
+ſaua, y que aun auia meneer huyr la oca-
+on, para que ea virtud que el Señor me
+auia començado a dar fuee en crecimien-
+to, y an con ſu fauor lo he procurado hazer
+empre deſpues aca. En mucho ſe ha de te-
+ner vna virtud, quando el Señor la comien-
+ça a dar, y en ninguna manera ponernos en
+peligro de perderla, an es en coſas de hon-
+ra, y en otras muchas que crea v. m. que no to
+dos los que penſamos eamos deſados del
+todo, lo ean, y es meneer nunca deſcuydar</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1904" y="2683"/>
+	<Point x="1996" y="2689"/>
+	<Point x="2014" y="2764"/>
+	<Point x="1880" y="2752"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>en</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="620" y="3070"/>
+	<Point x="1585" y="3069"/>
+	<Point x="1571" y="3170"/>
+	<Point x="620" y="3147"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="949" y="116"/>
+	<Point x="1535" y="116"/>
+	<Point x="1535" y="226"/>
+	<Point x="949" y="226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="473" y="134"/>
+	<Point x="624" y="134"/>
+	<Point x="624" y="233"/>
+	<Point x="476" y="242"/>
+	<Point x="473" y="233"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>390</Unicode></TextEquiv></TextRegion></Page></PcGts>

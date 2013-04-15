@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444401">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:05:16</Created>
+	<LastChange>2011-12-19T11:39:43</LastChange></Metadata>
+	<Page imageFilename="00444401.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="309" y="94"/>
+	<Point x="1418" y="90"/>
+	<Point x="1443" y="216"/>
+	<Point x="284" y="215"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="116" y="224"/>
+	<Point x="1696" y="234"/>
+	<Point x="1716" y="2655"/>
+	<Point x="92" y="2645"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>guo y conſuelo al que da en otras, que
+yo me eſpanto de tanta diﬀerencia de go-
+zar, aun en ea vida, porque acaece ſer
+tanta la diﬀerencia que ay de vn guo y
+regalo, que da Dios en vna vion o en
+vn arrobamiento, que parece no es poſ-
+ble poder auer mas aca que deear, y
+aſsi el alma no lo deea, ni pediria mas
+contento, aunque deſpues que el Señor
+me ha dado a entender la diﬀerencia que
+ay en el cielo, de lo que gozan vnos a lo
+que gozan otros quan grande es. Bien veo
+que tambien aca no ay taa en el dar quan-
+do el Señor es ſeruido, y an no quer-
+ria yo la vuiee en ſeruir yo a ſu Mage-
+ad, y emplear toda mi vida y fuerças,
+y ſalud en eo: y no querria por mi cul-
+pa perder vn tantito de mas gozar. Y di-
+go aſsi, que  me dixeen qual quiero mas
+ear con todos los trabajos del mundo ha-
+a el ﬁn del, y deſpues ſubir vn poqui-
+to mas en gloria, o n ninguno yrme a vn
+poco de gloria mas baxa, que de muy bue-
+na gana tomaria todos los trabajos por
+vn tantico de gozar mas de entender la
+grandeza de Dios. Pues veo quien mas lo
+entiende, mas le ama y le alaba: no digo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1498" y="2660"/>
+	<Point x="1639" y="2661"/>
+	<Point x="1648" y="2751"/>
+	<Point x="1489" y="2746"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="616" y="3060"/>
+	<Point x="1568" y="3060"/>
+	<Point x="1568" y="3166"/>
+	<Point x="616" y="3166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1483" y="115"/>
+	<Point x="1488" y="229"/>
+	<Point x="1656" y="228"/>
+	<Point x="1656" y="116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>475</Unicode></TextEquiv></TextRegion></Page></PcGts>

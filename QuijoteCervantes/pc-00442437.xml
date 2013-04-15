@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442437">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T09:57:50</Created>
+	<LastChange>2012-03-12T14:12:01</LastChange></Metadata>
+	<Page imageFilename="00442437.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="413" y="63"/>
+	<Point x="1132" y="73"/>
+	<Point x="1126" y="150"/>
+	<Point x="540" y="154"/>
+	<Point x="520" y="175"/>
+	<Point x="475" y="171"/>
+	<Point x="408" y="153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="162" y="166"/>
+	<Point x="381" y="172"/>
+	<Point x="521" y="179"/>
+	<Point x="540" y="161"/>
+	<Point x="1397" y="160"/>
+	<Point x="1397" y="2103"/>
+	<Point x="1089" y="2114"/>
+	<Point x="1063" y="2123"/>
+	<Point x="965" y="2105"/>
+	<Point x="899" y="2106"/>
+	<Point x="869" y="2107"/>
+	<Point x="675" y="2127"/>
+	<Point x="148" y="2119"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>me lo va pareciendo, adonde aura coias que la
+ſufran. Por mas fantaſmas que ſean, dixo don Qui-
+xote, no conſentire yo que te toque en el pelo de
+la ropa: que  la otra vez ſe burlaron contigo, fue
+porque no pude yo ſaltar las paredes del corral,
+pero aora eamos en campo raſo, donde podrè yo
+como quiere eſgremir mi eſpada. Y  le encantã
+y entomecen, como la otra vez lo hizieron, dixo
+Sancho, que aprouecharà ear en campo abierto,
+o no? Con todo eo, replicò don Quixote, te rue‑
+go Sancho, que tengas buen animo, que la experiẽ
+cia te dara a entender el que yo tengo. Si tendre, 
+a Dios plaze, reſpondio Sancho, y apartandoſe los
+dos a vn lado del camino, tornaron a mirar atenta‐
+mente, lo que aqueo de aqueas lumbres que ca-
+minauan podia ſer: y de ai a muy poco deſcubrie
+ron muchos encamiſados, cuya temeroſa vion
+de todo punto rematò el animo de Sancho Pança,
+el qual començo a dar diente con diẽte, como quiẽ
+tiene frio de quartana: y crecio mas el batir y den‑
+teear, quando diintamente vieron lo que era,
+porque deſcubrieron haa veynte encamiſados,
+todos a cauao, con ſus hachas encẽdidas en las ma
+nos: detras de los quales venia vna litera, cubierta
+de luto, a la qual ſeguian otros ſeys de a cauao,
+enlutados haa los pies de las mulas, que bien vie‐
+ron que no eran cauaos en el ſoſsiego con que ca
+minauan. Yuan los encamiſados murmurando en‐
+tre , con vna voz baxa, y compaſsiua. Ea eraña
+vion a tales horas, y en tal deſpoblado, biẽ baa-
+ua para poner miedo en el coraçon de Sancho, y
+aun en el de ſu amo: y aſsi fuera en quanto a don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="470" y="2296"/>
+	<Point x="1128" y="2300"/>
+	<Point x="1125" y="2353"/>
+	<Point x="1070" y="2361"/>
+	<Point x="463" y="2354"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1280" y="72"/>
+	<Point x="1280" y="150"/>
+	<Point x="1420" y="150"/>
+	<Point x="1420" y="72"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>81</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="857" y="2114"/>
+	<Point x="857" y="2166"/>
+	<Point x="921" y="2166"/>
+	<Point x="921" y="2114"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1101" y="2127"/>
+	<Point x="1101" y="2190"/>
+	<Point x="1386" y="2190"/>
+	<Point x="1386" y="2127"/>
+	<Point x="1152" y="2119"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote,</Unicode></TextEquiv></TextRegion></Page></PcGts>

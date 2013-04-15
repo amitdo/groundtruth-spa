@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442303">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T22:29:16</Created>
+	<LastChange>2012-03-12T14:11:50</LastChange></Metadata>
+	<Page imageFilename="00442303.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="141" y="120"/>
+	<Point x="588" y="145"/>
+	<Point x="888" y="143"/>
+	<Point x="1461" y="146"/>
+	<Point x="1441" y="2169"/>
+	<Point x="1304" y="2173"/>
+	<Point x="1136" y="2173"/>
+	<Point x="1108" y="2170"/>
+	<Point x="1007" y="2170"/>
+	<Point x="683" y="2183"/>
+	<Point x="147" y="2169"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a vn camino que en quatro ſe dinidia. Y luego ſe le
+vino a la imaginacion las encruzexadas donde los
+cauaeros andantes ſe ponian a penſar qual cami-
+no de aqueos tomarian: y por imitarlos euuo vn
+rato quedo, y al cabo de auerlo muy bien penſado,
+ſoltò la rienda a Rozinante, dexando a la volun-
+tad del rozin la ſuya, el qual guio ſu primer in-
+tento, que fue el yrſe camino de ſu cauaeriza. Y
+auiendo andado como dos mias, deſcubrio don
+Quixote vn grande tropel de gente, que como deſ-
+pues ſe ſupo, eran vnos mercaderes Toledanos, que
+yuan a comprar ſeda a Murcia. Eran ſeys, y ve-
+nian con ſus quitaſoles, con otros quatro criados
+acauao, y tres moços de mulas a pie. A penas los
+diuiſò don Quixote, quando ſe imaginó ſer coſa
+de nueua auentura. Y por imitar en todo, quanto a el
+le parecia poſsible, los paos que auia leydo en ſus
+libros, le parecio venir ai de molde vno que penſa-
+ua hazer. Y aſsi con gentil continente, y denuedo ſe
+a ﬁrmò bien en los eribos, apreto la lança, egò la a-
+darga al pecho: y pueo en la mitad del camino, eu-
+uo eſperando que aqueos cauaeros andantes e-
+gaen, que ya el por tales Ios tenia y juzgaua: y quan-
+do egaron a trecho que ſe pudieron ver, y oyr, le-
+uantò don Quixote la voz, y con ademan arrogante,
+dixo: Todo el mundo ſe tenga,  todo el mundo no
+conﬁea, que no ay en el mundo todo, donzea mas
+hermoſa que la Emperatriz de la Mancha, la mpar
+Dulzinea del Toboſo. Pararõſe los mercaderes al ſon
+deas razones, y a ver la era ña ﬁgura del que las de-
+zia: y por la ﬁgura, y por las razones, luego echarõ de
+ver la locura de ſu dueño, mas quier on ver deſpacio,
+en que paraua aquea confeſsion que ſe les pedia:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="catch-word">
+	<Coords>
+	<Point x="1277" y="2179"/>
+	<Point x="1433" y="2175"/>
+	<Point x="1442" y="2247"/>
+	<Point x="1288" y="2248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y vno</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="463" y="2307"/>
+	<Point x="1125" y="2307"/>
+	<Point x="1125" y="2361"/>
+	<Point x="464" y="2353"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="524" y="50"/>
+	<Point x="511" y="127"/>
+	<Point x="608" y="137"/>
+	<Point x="1074" y="123"/>
+	<Point x="1083" y="46"/>
+	<Point x="621" y="40"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1334" y="81"/>
+	<Point x="1339" y="134"/>
+	<Point x="1418" y="137"/>
+	<Point x="1419" y="77"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>14</Unicode></TextEquiv></TextRegion></Page></PcGts>

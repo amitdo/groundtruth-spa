@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439309">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T06:57:00</Created>
+	<LastChange>2011-05-12T13:39:58</LastChange></Metadata>
+	<Page imageFilename="00439309.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="575" y="103"/>
+	<Point x="1513" y="106"/>
+	<Point x="1513" y="192"/>
+	<Point x="574" y="184"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="313" y="204"/>
+	<Point x="1663" y="196"/>
+	<Point x="1698" y="200"/>
+	<Point x="1692" y="2612"/>
+	<Point x="1537" y="2613"/>
+	<Point x="1527" y="2613"/>
+	<Point x="330" y="2621"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>daderamente quanto el matrimonio contraydo, es malo
+deſañudar; quando eà mal unido, es peor de ſufrir:
+porque la muger codicioſa, es como la caſa que toda ſe
+ueve, y tanto quanto reſplandece mas, en prudencia
+y buen govierno, quando ſe quiere acomodar con la
+virtud, tanto mas queda obſcura, inſufrible, y aborre-
+cida en apartandoſe dea. Que facilidad tienen para
+todo? que habilidad Eſcotia, para qualquiera coſa de
+ſu antojo. No ay juyzio de mil hombres, que ygualen
+à ſolo el de una muger, para fabricar una mentira de
+repente. Y aunque ſuelen dezir, que el hombre que
+apetece ſoledad, tiene mucho de Dios ò de beia; yo
+digo que no es tanta la ſoledad que el ſolo padece, quanta
+la pena que recibe quien tiene compañia contra ſu gu-
+o. Casème rico, caſado eoy pobre, alegres fueron
+los dias de mi boda para mis amigos, tries los de mi ma-
+trimonio para mi: eos los tuvieron buenos y ſefueron
+à ſus caſas, yo quedè padeciendo los malos en la mia, no
+por mas de por quererlo aſ mi muger, y ſer preſump-
+tuoſa. Era gaadora, franca, liberal, enſeñada em-
+pre à verme venir como aveja cargado de regalos, no
+evava en paciencia verme ſalir por la mañana, y que
+à medio dia bolviee n blanca: perdia el juyzio quando
+via que lo paado faltava. Pues ya pobre de mi, quando
+del todo ſe acabò el azeyte, y ntiò que ſe ardian las tor-
+zidas, quando no aviendo que comer, ni adonde ſalir-
+lo à buſcar ſe ſacavan de caſa las prendas para vender.
+Aqui era eo, aqui perdiò pie y paciencia, nunca
+mas me pudo ver, aborreciòme como  fuera ſu enemi-
+go verdadero. Ni mis blandas palabras, amoneaciones
+de ſu padre, ni ruego de ſus deudos, conocidos, ni pa-
+rientes fueron parte para bolverme à ſu gracia. Huia
+de la paz, porque la haava en la diſcordia; amava la
+inquietud por ſer ſu ſoſego, tomava por vengança re-
+tirarſe à ſolas, ſaltandome à la cama y meſa, y aun de-
+xava de comer muchas vezes, porque ſabia lo bien que
+la queria, y con aqueo me martyrizava. No ſabia ya</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="543" y="2866"/>
+	<Point x="1301" y="2866"/>
+	<Point x="1303" y="2931"/>
+	<Point x="543" y="2931"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1571" y="2687"/>
+	<Point x="1571" y="2624"/>
+	<Point x="1586" y="2616"/>
+	<Point x="1690" y="2619"/>
+	<Point x="1690" y="2689"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="322" y="195"/>
+	<Point x="319" y="121"/>
+	<Point x="437" y="121"/>
+	<Point x="437" y="192"/>
+	<Point x="421" y="196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>278</Unicode></TextEquiv></TextRegion></Page></PcGts>

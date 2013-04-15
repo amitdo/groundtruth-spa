@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443645">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T16:50:35</Created>
+	<LastChange>2011-02-03T05:53:10</LastChange></Metadata>
+	<Page imageFilename="00443645.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r12" index="3"/>
+	<RegionRefIndexed regionRef="r14" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r20" index="6"/>
+	<RegionRefIndexed regionRef="r22" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="509" y="341"/>
+	<Point x="512" y="330"/>
+	<Point x="1763" y="336"/>
+	<Point x="1772" y="472"/>
+	<Point x="505" y="469"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CANCION QVINTA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="629" y="492"/>
+	<Point x="1747" y="501"/>
+	<Point x="1747" y="1009"/>
+	<Point x="612" y="1005"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mil gracias derramando
+Pasò por estos ſotos con preſura,
+I yendolos mirando,
+Con ſola ſu ﬁgura
+Veidos los dexò de ſu hermoſura.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="747" y="1041"/>
+	<Point x="1527" y="1040"/>
+	<Point x="1536" y="1132"/>
+	<Point x="736" y="1138"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DECLARACION.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="665" y="2254"/>
+	<Point x="1427" y="2249"/>
+	<Point x="1438" y="2380"/>
+	<Point x="650" y="2370"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mil gracias derramando.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="774" y="2929"/>
+	<Point x="1416" y="2934"/>
+	<Point x="1421" y="2996"/>
+	<Point x="776" y="2996"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="892" y="126"/>
+	<Point x="892" y="247"/>
+	<Point x="1454" y="247"/>
+	<Point x="1454" y="126"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Declaracion de la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="392" y="142"/>
+	<Point x="392" y="242"/>
+	<Point x="573" y="242"/>
+	<Point x="573" y="142"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>632</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="catch-word">
+	<Coords>
+	<Point x="1758" y="2738"/>
+	<Point x="1758" y="2792"/>
+	<Point x="1870" y="2792"/>
+	<Point x="1870" y="2738"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ma</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="drop-capital">
+	<Coords>
+	<Point x="414" y="1166"/>
+	<Point x="540" y="1166"/>
+	<Point x="540" y="1216"/>
+	<Point x="541" y="1216"/>
+	<Point x="541" y="1270"/>
+	<Point x="542" y="1270"/>
+	<Point x="542" y="1324"/>
+	<Point x="543" y="1324"/>
+	<Point x="543" y="1375"/>
+	<Point x="517" y="1375"/>
+	<Point x="517" y="1374"/>
+	<Point x="489" y="1374"/>
+	<Point x="489" y="1373"/>
+	<Point x="461" y="1373"/>
+	<Point x="461" y="1372"/>
+	<Point x="433" y="1372"/>
+	<Point x="433" y="1371"/>
+	<Point x="408" y="1371"/>
+	<Point x="408" y="1350"/>
+	<Point x="409" y="1350"/>
+	<Point x="409" y="1319"/>
+	<Point x="410" y="1319"/>
+	<Point x="410" y="1288"/>
+	<Point x="411" y="1288"/>
+	<Point x="411" y="1257"/>
+	<Point x="412" y="1257"/>
+	<Point x="412" y="1226"/>
+	<Point x="413" y="1226"/>
+	<Point x="413" y="1195"/>
+	<Point x="414" y="1195"/>
+	<Point x="414" y="1165"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="713" y="1166"/>
+	<Point x="713" y="1167"/>
+	<Point x="1012" y="1167"/>
+	<Point x="1012" y="1168"/>
+	<Point x="1310" y="1168"/>
+	<Point x="1310" y="1169"/>
+	<Point x="1609" y="1169"/>
+	<Point x="1609" y="1170"/>
+	<Point x="1907" y="1170"/>
+	<Point x="1906" y="1170"/>
+	<Point x="1906" y="1700"/>
+	<Point x="1905" y="1700"/>
+	<Point x="1905" y="2229"/>
+	<Point x="1809" y="2229"/>
+	<Point x="1809" y="2230"/>
+	<Point x="1714" y="2230"/>
+	<Point x="1714" y="2231"/>
+	<Point x="1618" y="2231"/>
+	<Point x="1618" y="2232"/>
+	<Point x="1523" y="2232"/>
+	<Point x="1523" y="2233"/>
+	<Point x="1428" y="2233"/>
+	<Point x="1428" y="2234"/>
+	<Point x="1332" y="2234"/>
+	<Point x="1332" y="2235"/>
+	<Point x="1237" y="2235"/>
+	<Point x="1237" y="2236"/>
+	<Point x="1142" y="2236"/>
+	<Point x="1142" y="2237"/>
+	<Point x="1046" y="2237"/>
+	<Point x="1046" y="2238"/>
+	<Point x="951" y="2238"/>
+	<Point x="951" y="2239"/>
+	<Point x="855" y="2239"/>
+	<Point x="855" y="2240"/>
+	<Point x="760" y="2240"/>
+	<Point x="760" y="2241"/>
+	<Point x="665" y="2241"/>
+	<Point x="665" y="2242"/>
+	<Point x="569" y="2242"/>
+	<Point x="569" y="2243"/>
+	<Point x="474" y="2243"/>
+	<Point x="474" y="2244"/>
+	<Point x="380" y="2244"/>
+	<Point x="380" y="2245"/>
+	<Point x="379" y="2245"/>
+	<Point x="379" y="2244"/>
+	<Point x="380" y="2244"/>
+	<Point x="380" y="2214"/>
+	<Point x="381" y="2214"/>
+	<Point x="381" y="2183"/>
+	<Point x="382" y="2183"/>
+	<Point x="382" y="2152"/>
+	<Point x="383" y="2152"/>
+	<Point x="383" y="2121"/>
+	<Point x="384" y="2121"/>
+	<Point x="384" y="2090"/>
+	<Point x="385" y="2090"/>
+	<Point x="385" y="2059"/>
+	<Point x="386" y="2059"/>
+	<Point x="386" y="2029"/>
+	<Point x="387" y="2029"/>
+	<Point x="387" y="1998"/>
+	<Point x="388" y="1998"/>
+	<Point x="388" y="1967"/>
+	<Point x="389" y="1967"/>
+	<Point x="389" y="1936"/>
+	<Point x="390" y="1936"/>
+	<Point x="390" y="1905"/>
+	<Point x="391" y="1905"/>
+	<Point x="391" y="1874"/>
+	<Point x="392" y="1874"/>
+	<Point x="392" y="1843"/>
+	<Point x="393" y="1843"/>
+	<Point x="393" y="1813"/>
+	<Point x="394" y="1813"/>
+	<Point x="394" y="1782"/>
+	<Point x="395" y="1782"/>
+	<Point x="395" y="1751"/>
+	<Point x="396" y="1751"/>
+	<Point x="396" y="1720"/>
+	<Point x="397" y="1720"/>
+	<Point x="397" y="1689"/>
+	<Point x="398" y="1689"/>
+	<Point x="398" y="1658"/>
+	<Point x="399" y="1658"/>
+	<Point x="399" y="1627"/>
+	<Point x="400" y="1627"/>
+	<Point x="400" y="1597"/>
+	<Point x="401" y="1597"/>
+	<Point x="401" y="1566"/>
+	<Point x="402" y="1566"/>
+	<Point x="402" y="1535"/>
+	<Point x="403" y="1535"/>
+	<Point x="403" y="1504"/>
+	<Point x="404" y="1504"/>
+	<Point x="404" y="1473"/>
+	<Point x="405" y="1473"/>
+	<Point x="405" y="1442"/>
+	<Point x="406" y="1442"/>
+	<Point x="406" y="1411"/>
+	<Point x="407" y="1411"/>
+	<Point x="407" y="1381"/>
+	<Point x="408" y="1381"/>
+	<Point x="408" y="1373"/>
+	<Point x="431" y="1373"/>
+	<Point x="431" y="1374"/>
+	<Point x="459" y="1374"/>
+	<Point x="459" y="1375"/>
+	<Point x="487" y="1375"/>
+	<Point x="487" y="1376"/>
+	<Point x="515" y="1376"/>
+	<Point x="515" y="1377"/>
+	<Point x="543" y="1377"/>
+	<Point x="543" y="1378"/>
+	<Point x="546" y="1378"/>
+	<Point x="546" y="1375"/>
+	<Point x="545" y="1375"/>
+	<Point x="545" y="1322"/>
+	<Point x="544" y="1322"/>
+	<Point x="544" y="1268"/>
+	<Point x="543" y="1268"/>
+	<Point x="543" y="1214"/>
+	<Point x="542" y="1214"/>
+	<Point x="542" y="1166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N ea Cancion reſponden las criaturas al alma:
+la cual reſpuea, como tambien dize ſan Aguin
+en aquel meſmo lugar, es el teimonio que dan en
+ de la grandeza i excelencia de Dios al alma, que
+por la conderacion ſe lo pregunta. I a en ea Can-
+cion lo que ſe contiene en ſuancia, es, que Dios criò
+todas las coſas con gran facilidad i brevedad; i en eas
+dexò algun raro de quien el era, no ſolo dandoles el
+ſer de no nada, mas aun dotandolas de ¡numerables
+gracias i virtudes, hermoſeandolas con admirable or-
+den ¡ dependencia indeﬁciente, que tienen unas de o-
+tras, i eo todo haziendolo con la ſabiduria ſuya por
+quien las crio, que es el Verbo ſu unigenito Hĳo. Dize
+pues a:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="drop-capital">
+	<Coords>
+	<Point x="394" y="2399"/>
+	<Point x="490" y="2399"/>
+	<Point x="490" y="2420"/>
+	<Point x="489" y="2420"/>
+	<Point x="489" y="2444"/>
+	<Point x="488" y="2444"/>
+	<Point x="488" y="2467"/>
+	<Point x="487" y="2467"/>
+	<Point x="487" y="2491"/>
+	<Point x="486" y="2491"/>
+	<Point x="486" y="2515"/>
+	<Point x="485" y="2515"/>
+	<Point x="485" y="2532"/>
+	<Point x="453" y="2532"/>
+	<Point x="453" y="2531"/>
+	<Point x="419" y="2531"/>
+	<Point x="419" y="2530"/>
+	<Point x="389" y="2530"/>
+	<Point x="389" y="2509"/>
+	<Point x="390" y="2509"/>
+	<Point x="390" y="2487"/>
+	<Point x="391" y="2487"/>
+	<Point x="391" y="2464"/>
+	<Point x="392" y="2464"/>
+	<Point x="392" y="2442"/>
+	<Point x="393" y="2442"/>
+	<Point x="393" y="2420"/>
+	<Point x="394" y="2420"/>
+	<Point x="394" y="2398"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="518" y="2399"/>
+	<Point x="518" y="2400"/>
+	<Point x="642" y="2400"/>
+	<Point x="642" y="2401"/>
+	<Point x="766" y="2401"/>
+	<Point x="766" y="2402"/>
+	<Point x="889" y="2402"/>
+	<Point x="889" y="2403"/>
+	<Point x="1013" y="2403"/>
+	<Point x="1013" y="2404"/>
+	<Point x="1137" y="2404"/>
+	<Point x="1137" y="2405"/>
+	<Point x="1261" y="2405"/>
+	<Point x="1261" y="2406"/>
+	<Point x="1384" y="2406"/>
+	<Point x="1384" y="2407"/>
+	<Point x="1508" y="2407"/>
+	<Point x="1508" y="2408"/>
+	<Point x="1632" y="2408"/>
+	<Point x="1632" y="2409"/>
+	<Point x="1756" y="2409"/>
+	<Point x="1756" y="2410"/>
+	<Point x="1879" y="2410"/>
+	<Point x="1879" y="2489"/>
+	<Point x="1880" y="2489"/>
+	<Point x="1880" y="2568"/>
+	<Point x="1881" y="2568"/>
+	<Point x="1881" y="2647"/>
+	<Point x="1882" y="2647"/>
+	<Point x="1882" y="2725"/>
+	<Point x="1883" y="2725"/>
+	<Point x="1668" y="2725"/>
+	<Point x="1668" y="2726"/>
+	<Point x="1453" y="2726"/>
+	<Point x="1453" y="2727"/>
+	<Point x="1238" y="2727"/>
+	<Point x="1238" y="2728"/>
+	<Point x="1023" y="2728"/>
+	<Point x="1023" y="2729"/>
+	<Point x="808" y="2729"/>
+	<Point x="808" y="2730"/>
+	<Point x="593" y="2730"/>
+	<Point x="593" y="2731"/>
+	<Point x="380" y="2731"/>
+	<Point x="380" y="2732"/>
+	<Point x="379" y="2732"/>
+	<Point x="379" y="2731"/>
+	<Point x="380" y="2731"/>
+	<Point x="380" y="2709"/>
+	<Point x="381" y="2709"/>
+	<Point x="381" y="2687"/>
+	<Point x="382" y="2687"/>
+	<Point x="382" y="2665"/>
+	<Point x="383" y="2665"/>
+	<Point x="383" y="2642"/>
+	<Point x="384" y="2642"/>
+	<Point x="384" y="2620"/>
+	<Point x="385" y="2620"/>
+	<Point x="385" y="2598"/>
+	<Point x="386" y="2598"/>
+	<Point x="386" y="2576"/>
+	<Point x="387" y="2576"/>
+	<Point x="387" y="2553"/>
+	<Point x="388" y="2553"/>
+	<Point x="388" y="2532"/>
+	<Point x="417" y="2532"/>
+	<Point x="417" y="2533"/>
+	<Point x="451" y="2533"/>
+	<Point x="451" y="2534"/>
+	<Point x="470" y="2537"/>
+	<Point x="476" y="2537"/>
+	<Point x="481" y="2538"/>
+	<Point x="484" y="2538"/>
+	<Point x="484" y="2537"/>
+	<Point x="486" y="2537"/>
+	<Point x="487" y="2535"/>
+	<Point x="488" y="2535"/>
+	<Point x="488" y="2533"/>
+	<Point x="487" y="2533"/>
+	<Point x="487" y="2517"/>
+	<Point x="488" y="2517"/>
+	<Point x="488" y="2493"/>
+	<Point x="489" y="2493"/>
+	<Point x="489" y="2469"/>
+	<Point x="490" y="2469"/>
+	<Point x="490" y="2446"/>
+	<Point x="491" y="2446"/>
+	<Point x="491" y="2422"/>
+	<Point x="492" y="2422"/>
+	<Point x="492" y="2413"/>
+	<Point x="493" y="2413"/>
+	<Point x="493" y="2399"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Or eas mil gracias que dize, iva derramando, ſe
+entiende la multitud de las criaturas inumerables;
+que por eſo pone aqui el numero mayor que es mil, pa-
+ra dar a entender la multitud deas, a las cuales a-</Unicode></TextEquiv></TextRegion></Page></PcGts>

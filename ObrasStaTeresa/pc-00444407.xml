@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444407">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T11:36:11</Created>
+	<LastChange>2011-12-19T11:39:43</LastChange></Metadata>
+	<Page imageFilename="00444407.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="262" y="101"/>
+	<Point x="1447" y="108"/>
+	<Point x="1452" y="217"/>
+	<Point x="248" y="212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="82" y="227"/>
+	<Point x="1685" y="235"/>
+	<Point x="1681" y="2652"/>
+	<Point x="1543" y="2660"/>
+	<Point x="1510" y="2661"/>
+	<Point x="1251" y="2671"/>
+	<Point x="1223" y="2642"/>
+	<Point x="1168" y="2657"/>
+	<Point x="1086" y="2658"/>
+	<Point x="60" y="2704"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>baxeza de vn alma quando no anda Dios ẽ-
+pre obrando en ea. Bien vee que no ea n
+el en ee eado, que no es como los grandes
+trabajos que he dicho tengo algunas vezes,
+mas aunque pone leña y haze eo poco que
+puede de ſu parte, no ay arder el fuego de
+amor de Dios, harta miſericordia ſuya es, que
+ſe vee el humo para entender que no ea
+del todo muerto, torna el Señor a encender,
+que entonces vn alma aunque ſe quiebre la
+cabeça en ſoplar y en concertar los leños, pa-
+rece que todo lo ahoga mas, creo es lo me-
+jor rẽdirſe del todo a que no puede nada por
+ ſola, y entender en otras coſas como he di
+cho meritorias, porque por ventura la quita
+el Señor la oracion, para que entiẽda en eas,
+y conozca por eſperiencia lo poco que pue-
+de por . Es cierto que yo me he regalado oy
+cõ el Señor, y atreuido a quexarme de ſu Ma
+gead, y le he dicho, como Dios mio que no
+baa que me teneys en ea miſerable vida, y
+que por amor de vos pao por eo, y quiero
+biuir adonde todo es embaraços para no go-
+zaros, no que he de comer y dormir, y ne-
+gociar y tratar con todos, y todo lo pao por
+amor de vos. Pues bien ſabeys Señor mio que
+me es tormento grandiſsimo, y que tan po-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1385" y="2671"/>
+	<Point x="1497" y="2663"/>
+	<Point x="1516" y="2662"/>
+	<Point x="1620" y="2659"/>
+	<Point x="1647" y="2760"/>
+	<Point x="1382" y="2765"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>quitos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="600" y="3071"/>
+	<Point x="1566" y="3071"/>
+	<Point x="1566" y="3153"/>
+	<Point x="600" y="3153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1471" y="115"/>
+	<Point x="1470" y="225"/>
+	<Point x="1634" y="221"/>
+	<Point x="1638" y="114"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>481</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1097" y="2661"/>
+	<Point x="1101" y="2747"/>
+	<Point x="1268" y="2750"/>
+	<Point x="1260" y="2700"/>
+	<Point x="1248" y="2686"/>
+	<Point x="1224" y="2650"/>
+	<Point x="1168" y="2659"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hh</Unicode></TextEquiv></TextRegion></Page></PcGts>

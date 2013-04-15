@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443943">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T13:38:57</Created>
+	<LastChange>2011-12-19T11:39:16</LastChange></Metadata>
+	<Page imageFilename="00443943.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1544" y="123"/>
+	<Point x="1655" y="123"/>
+	<Point x="1657" y="216"/>
+	<Point x="1544" y="216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>15</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="98" y="221"/>
+	<Point x="1676" y="221"/>
+	<Point x="1676" y="2630"/>
+	<Point x="98" y="2630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cada dia haze nos ponen fuera de toda duda
+ſu ſanidad, encubrir las mercedes que Dios
+le hizo viuiendo, y no querer publicar los me‐
+dios con que la perﬁciono para bien de tantas
+gentes, ſeria en cierta manera hazer iniu-
+ria al ſpirituſano, y eſcurecer ſus mara-
+uias, y poner velo a ſu gloria. Y an nin-
+guno que bien juzgue tendra por bueno que
+eﬆas reuelaciones ſe encubran. Que lo
+que algunos dizen ſer inconueniente que
+la madre miſma eſcriua ſus reuelaciones de
+, para lo que toca a ea, y a ſu humildad
+y modeia no lo es, porque las eſcriuio man
+dada y forçada: y para lo que toca a noſotros y a
+nuero credito antes es lo mas conueniente.
+Porque de qualquier otro que las eſcriuiera
+ſe pudiera tener duda  ſe engañaua, o 
+queria engañar, lo que no ſe puede preſumir
+de la madre, que eſcriuia lo que paaua
+por ea, y era tan ſana que no trocar a la
+verdaden coſas tangraues. Lo que yo de algu
+nos temo es, quede ſguã de ſemejãtes eſcrituras
+no por el engaño  puede auer en eas, no por el</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1524" y="2635"/>
+	<Point x="1673" y="2635"/>
+	<Point x="1673" y="2726"/>
+	<Point x="1524" y="2726"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="616" y="3060"/>
+	<Point x="1583" y="3060"/>
+	<Point x="1583" y="3162"/>
+	<Point x="616" y="3162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444218">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:42:42</Created>
+	<LastChange>2011-12-19T11:39:32</LastChange></Metadata>
+	<Page imageFilename="00444218.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r19" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="627" y="3070"/>
+	<Point x="644" y="3050"/>
+	<Point x="995" y="3026"/>
+	<Point x="1516" y="3044"/>
+	<Point x="1569" y="3076"/>
+	<Point x="1586" y="3112"/>
+	<Point x="1553" y="3142"/>
+	<Point x="1515" y="3170"/>
+	<Point x="1007" y="3169"/>
+	<Point x="636" y="3142"/>
+	<Point x="606" y="3104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="478" y="161"/>
+	<Point x="680" y="162"/>
+	<Point x="665" y="251"/>
+	<Point x="531" y="260"/>
+	<Point x="478" y="247"/>
+	<Point x="431" y="208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>290</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="741" y="161"/>
+	<Point x="1091" y="111"/>
+	<Point x="1397" y="108"/>
+	<Point x="1511" y="108"/>
+	<Point x="1540" y="131"/>
+	<Point x="1545" y="205"/>
+	<Point x="1560" y="257"/>
+	<Point x="741" y="247"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="485" y="288"/>
+	<Point x="1211" y="271"/>
+	<Point x="1934" y="282"/>
+	<Point x="1996" y="288"/>
+	<Point x="2062" y="522"/>
+	<Point x="2122" y="1628"/>
+	<Point x="1996" y="2381"/>
+	<Point x="1389" y="2407"/>
+	<Point x="1238" y="2407"/>
+	<Point x="1126" y="2406"/>
+	<Point x="485" y="2381"/>
+	<Point x="365" y="1714"/>
+	<Point x="368" y="517"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>to, que no me parece fue mas, dexar otra a ſu
+erua. An que no fue meneer mandarme-
+lo mas, que como me via el confeor tan a .
+da, en eo no auia oſado determinadamente
+dezir que lo hiziee. Deuia de aguardar a que
+el Señor obrae, como lo hizo, ni yo penſe
+ſalir con eo, porque ya yo meſma lo auia
+procurado, y era tanta la pena que me daua,
+que como coſa que me parecia, no era in-
+conuiniente lo dexaua, y aqui me dio el Se-
+ñor libertad, y fuerça para ponerlo por obra.
+An ſe lo dixe al confeor, y lo dexe todo
+conforme a como me lo mando. Hizo harto
+prouecho a quien yo trataua, ver en mi ea
+determinacion . Sea Dios bendito por em-
+pre, que en vn punto me dio la libertad, que
+yo con todas quantas diligencias auia hecho
+muchos años auia, no pude alcançar conmi-
+go, haziendo hartas vezes tan gran fuerça, que
+me coaua harto de mi ſalud. Como fue
+hecho de quien es poderoſo, y
+Señor verdadero de to-
+do ninguna pena
+me dio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="catch-word">
+	<Coords>
+	<Point x="2078" y="2474"/>
+	<Point x="2078" y="2672"/>
+	<Point x="1564" y="2672"/>
+	<Point x="1564" y="2669"/>
+	<Point x="1563" y="2669"/>
+	<Point x="1563" y="2637"/>
+	<Point x="1562" y="2637"/>
+	<Point x="1562" y="2605"/>
+	<Point x="1561" y="2605"/>
+	<Point x="1561" y="2573"/>
+	<Point x="1560" y="2573"/>
+	<Point x="1560" y="2542"/>
+	<Point x="1559" y="2542"/>
+	<Point x="1559" y="2510"/>
+	<Point x="1558" y="2510"/>
+	<Point x="1558" y="2478"/>
+	<Point x="1557" y="2478"/>
+	<Point x="1557" y="2474"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r27" type="other">
+	<Coords>
+	<Point x="976" y="2415"/>
+	<Point x="1236" y="2415"/>
+	<Point x="1455" y="2418"/>
+	<Point x="1485" y="2548"/>
+	<Point x="966" y="2548"/></Coords></GraphicRegion></Page></PcGts>

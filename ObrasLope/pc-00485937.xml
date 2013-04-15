@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485937">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T10:06:12</Created>
+	<LastChange>2011-07-28T11:29:14</LastChange></Metadata>
+	<Page imageFilename="00485937.tif" imageWidth="2144" imageHeight="3104">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="110" y="192"/>
+	<Point x="366" y="184"/>
+	<Point x="443" y="189"/>
+	<Point x="501" y="204"/>
+	<Point x="628" y="184"/>
+	<Point x="904" y="196"/>
+	<Point x="1007" y="222"/>
+	<Point x="1372" y="253"/>
+	<Point x="1462" y="230"/>
+	<Point x="1411" y="2762"/>
+	<Point x="756" y="2781"/>
+	<Point x="77" y="2765"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>gloria y honra de Caia
+de Leon corona y lauro
+nueuo Macedon en Tebas,
+y nueuo Scipion Romano,
+deſdichado en no nacer
+donde Ceſar y Alexandro
+que como Eſpaña oprimida
+no puede mouer los labios,
+y en vez de ſutiles plumas
+lanças exercita y dardos,
+que daran tus claros hechos
+por falta de ciſnes claros,
+o fabuloſos aſcuras
+al reboluer de los años:
+Hermelinda de Toledo
+que Conantino es ſu hermano
+y a Eſpaña truxo el famoſo
+Paleologo amado,
+ſera tu querida eſpoſa
+por donde deſpues paando
+las edades venideras
+herede Toledo al Carpio,
+que ee caio famoſo
+junto al Tormes fabricado
+ſera de los Duques de Alua,
+Fadriques, Garcias, Fernandos,
+vaIeroſos cauaeros</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="catch-word">
+	<Coords>
+	<Point x="1342" y="2781"/>
+	<Point x="1527" y="2770"/>
+	<Point x="1527" y="2917"/>
+	<Point x="1307" y="2915"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y capi-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="696" y="2975"/>
+	<Point x="1393" y="2971"/>
+	<Point x="1410" y="3018"/>
+	<Point x="1393" y="3063"/>
+	<Point x="687" y="3050"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1797" y="150"/>
+	<Point x="1797" y="278"/>
+	<Point x="2013" y="278"/>
+	<Point x="2013" y="150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>59</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="460" y="87"/>
+	<Point x="436" y="172"/>
+	<Point x="919" y="183"/>
+	<Point x="993" y="212"/>
+	<Point x="1019" y="216"/>
+	<Point x="1048" y="216"/>
+	<Point x="1071" y="210"/>
+	<Point x="1334" y="236"/>
+	<Point x="1483" y="203"/>
+	<Point x="1478" y="109"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comedia de Lope de Vega.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r6" type="handwritten-annotation">
+	<Coords>
+	<Point x="781" y="2834"/>
+	<Point x="781" y="2947"/>
+	<Point x="968" y="2947"/>
+	<Point x="968" y="2834"/></Coords></GraphicRegion></Page></PcGts>

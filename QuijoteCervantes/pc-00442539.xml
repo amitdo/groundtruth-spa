@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442539">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T23:16:14</Created>
+	<LastChange>2012-03-12T14:12:07</LastChange></Metadata>
+	<Page imageFilename="00442539.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="384" y="72"/>
+	<Point x="1118" y="78"/>
+	<Point x="1121" y="160"/>
+	<Point x="478" y="162"/>
+	<Point x="490" y="182"/>
+	<Point x="379" y="171"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="148" y="189"/>
+	<Point x="1409" y="191"/>
+	<Point x="1401" y="2138"/>
+	<Point x="1013" y="2126"/>
+	<Point x="989" y="2126"/>
+	<Point x="969" y="2124"/>
+	<Point x="963" y="2135"/>
+	<Point x="929" y="2138"/>
+	<Point x="91" y="2132"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Porque lo que hizo, ſegun ſu hioria, no fue mas,
+de que por verſe deſdeñado de ſu ſeñora Oriana,
+que le auia mandado, que no pareciee ante ſu
+preſencia, haa que fuee ſu voluntad. De que ſe
+retiró a la peña Pobre, en compañia de vn ermi‐
+taño, y ai ſe harto de orar, y de encomendarſe a
+Dios, haa que el cielo le acorrio, en medio de ſu
+mayor cuyta y neceſsidad. Y  eo es verdad, co‐
+mo lo es, para que quiero yo tomar trabajo ago-
+ra, de deſnudarme del todo, ni dar peſadumbre a
+eos arboles, que no me han hecho mal alguno,
+ni tengo para que enturbiar, el agua clara deos
+arroyos, los quales me han de dar de beuer, quan-
+do tenga gana. Viua la memoria de Amadis, y ſea
+imitado de don Quixote de la Mancha, en todo lo
+que pudiere. Del qual ſe dira, lo que del otro ſe
+dixo, que no acabò grandes coſas, murio por
+acometeas: y  yo no ſoy deſechado, ni deſde‐
+ñado de Dulzinea del Toboſo, baame, como ya
+he dicho, ear auſente dea. Ea pues, manos a la
+obra, venid a mi memoria coſas de Amadis, y enſe‐
+ñadme por donde tengo de començar a imitaros,
+mas ya ſe que lo mas que el hizo, fue rezar, y enco‐
+mendarſe a Dios: pero que hare de roſario, que no
+le tengo? En eo le vino al penſamiento, como le ha
+ria, y fue, que raſgó vna gran tira de las faldas de la
+camiſa, que andauan colgando, y diole honze ñu-
+dos, el vno mas gordo que los demas, y eo le ruio
+de roſario, el tiempo que ai euuo, donde rezò vn
+miõ de Aue Marias. Y lo que le fatigaua mucho, era
+no haar por ai otro ermitaño, que le confeae,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="461" y="2307"/>
+	<Point x="1127" y="2307"/>
+	<Point x="1127" y="2361"/>
+	<Point x="461" y="2361"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1271" y="93"/>
+	<Point x="1271" y="180"/>
+	<Point x="1403" y="180"/>
+	<Point x="1403" y="93"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>132</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1227" y="2149"/>
+	<Point x="1227" y="2215"/>
+	<Point x="1369" y="2215"/>
+	<Point x="1369" y="2149"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y con</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="942" y="2141"/>
+	<Point x="942" y="2213"/>
+	<Point x="1055" y="2212"/>
+	<Point x="1055" y="2135"/>
+	<Point x="985" y="2134"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>R 4</Unicode></TextEquiv></TextRegion></Page></PcGts>

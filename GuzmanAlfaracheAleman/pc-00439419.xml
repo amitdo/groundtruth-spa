@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439419">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T20:11:17</Created>
+	<LastChange>2011-05-12T13:40:09</LastChange></Metadata>
+	<Page imageFilename="00439419.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="540" y="116"/>
+	<Point x="1483" y="116"/>
+	<Point x="1483" y="204"/>
+	<Point x="541" y="191"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="254" y="210"/>
+	<Point x="418" y="208"/>
+	<Point x="454" y="204"/>
+	<Point x="1658" y="210"/>
+	<Point x="1658" y="2647"/>
+	<Point x="254" y="2647"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſervir à mi amo el Comitre, y quanto mas lo ſuplicava,
+mas inavan en que por el miſmo caſo, aunque me peſ-
+ſae, avia de aſir ai toda mi vida. Pobre de mi, dixe,
+ya no sè que hazer, ni como poderme guardar de tray-
+dores. Hazia quanto podia y era en mi mano, velando
+con cien ojos encima de cada niñeria, y nada baò, que
+ya ſe yva haziendo tiempo de levantarme, y era necea-
+rio caer primero. Una tarde que mi amo vino de fuera,
+lo ſalì à recebir como empre à la eſcaleria, dile la ma-
+no, ſubiò arriba, quitèle la capa, la eſpada, y el ſombrero,
+dile ſu ropa y montera de damaſco verde, que la tenia
+empre à punto, baxè lo demas abajo, poniendo en ſu
+lugar cada coſa. Ea miſma noche, n ſaber como, quien,
+ò porque modo: porque no fue obra del Demonio,
+nunca pude colegir lo que fuee, que derribando el ſom-
+brero de donde lo avia colgado, lo haè n trenzein, el
+qual tenia unas piecas de oro. El ſe deſpareciò en los ay-
+res, que quando à la mañana lo vì n el, y de aquea ma-
+nera, quedè aombrado. Hize quantas diligencias pude,
+buſcandolo, y ninguna fue de provecho. No pareciò ni
+del huyo raro ni memoria. Quando à mi amo ſe lo
+dixe, dixo: Ya os conozco ladron, y sè quien ſoys, y por-
+que lo hazeys. Pues deſengañaos, que ha de parecer el
+trenzein, y no aveys de ſalir con vueras pretenones.
+Bien penſays que dende que faltò el trincheo, no he vio
+vueros malos higados, y que andays rodeando como
+no ſervirme; pues aveyslo de hazer aunque os pee por
+los ojos, y aveys de evar cada dia mil palos, y mas que
+para empre no aveys de tener en galera otro amo, que
+quando yo no lo fuere, os han de poner adonde merecen
+vueras veaquerias y mal trato, pues el bueno que
+con vos he uſado, no ha do parte para que dexeys de
+ſer el que empre, y ſoys Guzman de Alfarache, que
+baa. No sè que dezirte, ò como encarecerte lo que con
+aqueo ſentì, haandome inocente y con carga ligiti-
+ma cargado. Palabra no repliquè ni la tuve, porque aun-
+que la dixera del Evangelio pronunciada por mi boca,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1550" y="2653"/>
+	<Point x="1642" y="2653"/>
+	<Point x="1642" y="2704"/>
+	<Point x="1550" y="2704"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="548" y="2869"/>
+	<Point x="1316" y="2869"/>
+	<Point x="1316" y="2935"/>
+	<Point x="548" y="2935"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="274" y="134"/>
+	<Point x="274" y="203"/>
+	<Point x="404" y="203"/>
+	<Point x="404" y="134"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>390</Unicode></TextEquiv></TextRegion></Page></PcGts>

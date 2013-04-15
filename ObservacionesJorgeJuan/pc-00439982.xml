@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439982">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T04:19:33</Created>
+	<LastChange>2011-12-19T11:38:32</LastChange></Metadata>
+	<Page imageFilename="00439982.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="655" y="412"/>
+	<Point x="2572" y="412"/>
+	<Point x="2575" y="1355"/>
+	<Point x="1556" y="1379"/>
+	<Point x="1539" y="1400"/>
+	<Point x="1470" y="1400"/>
+	<Point x="1410" y="1377"/>
+	<Point x="647" y="1380"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El ſeptimo, la medida del grado de Me‐
+ridiano terrere contiguo al Equador, con
+la explicacion del methodo que ſe tuvo en
+medirle, conruccion, y uſo del Inru‐
+mento de 20 pies de radio, con que ſe hi‐
+cieron las Obſervaciones Aronomicas, y
+concluon de la razon del Exe de la Tierra
+al Diametro del Equador.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="662" y="1393"/>
+	<Point x="1425" y="1396"/>
+	<Point x="1452" y="1404"/>
+	<Point x="1564" y="1404"/>
+	<Point x="1613" y="1396"/>
+	<Point x="2553" y="1400"/>
+	<Point x="2591" y="1400"/>
+	<Point x="2601" y="2156"/>
+	<Point x="1537" y="2154"/>
+	<Point x="1481" y="2206"/>
+	<Point x="741" y="2198"/>
+	<Point x="719" y="2220"/>
+	<Point x="655" y="2220"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El oavo, las Experiencias del Pendulo
+mple; la deſcripcion del Inrumento, con
+que ſe executaron; y determinacion de la
+Figura de la Tierra; ſobre la qual ſe dàn
+Tablas del valor de cada grado del Meridia‐
+no terrere, y de la longitud del Pendulo
+para cada Latitud.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="641" y="2232"/>
+	<Point x="779" y="2231"/>
+	<Point x="795" y="2212"/>
+	<Point x="1524" y="2221"/>
+	<Point x="1569" y="2177"/>
+	<Point x="2603" y="2198"/>
+	<Point x="2620" y="2740"/>
+	<Point x="1131" y="2723"/>
+	<Point x="1073" y="2780"/>
+	<Point x="730" y="2786"/>
+	<Point x="717" y="2810"/>
+	<Point x="646" y="2810"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El noveno, y ultimo, la praica de la
+Navegacion ſobre la ﬁgura de la Tierra, yà
+determinada; con una nueva Tabla de par‐
+tes Meridionales, para el uſo de la miſma
+praica.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="641" y="2823"/>
+	<Point x="772" y="2816"/>
+	<Point x="809" y="2796"/>
+	<Point x="2596" y="2804"/>
+	<Point x="2586" y="3433"/>
+	<Point x="627" y="3441"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Advierto ultimamente, que endo mu‐
+chas de las coſas, que ſe tocan en ea Obra
+de muy ſublime Geometría, he procurado
+explicarme del modo mas claro, y percepti‐
+ble, para que me entiendan aun los no muy</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="2348" y="3449"/>
+	<Point x="2559" y="3449"/>
+	<Point x="2559" y="3544"/>
+	<Point x="2348" y="3544"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ver-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="998" y="4016"/>
+	<Point x="1951" y="4016"/>
+	<Point x="1951" y="4096"/>
+	<Point x="998" y="4096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

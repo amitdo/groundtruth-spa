@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485127">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T00:16:01</Created>
+	<LastChange>2011-05-12T13:40:56</LastChange></Metadata>
+	<Page imageFilename="00485127.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="621" y="3013"/>
+	<Point x="1401" y="3013"/>
+	<Point x="1401" y="3096"/>
+	<Point x="621" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="436" y="195"/>
+	<Point x="1666" y="210"/>
+	<Point x="1673" y="1016"/>
+	<Point x="1675" y="2791"/>
+	<Point x="475" y="2770"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Con eas coſas Hero fue engañada:
+Con eo Amor ſus tratos componia:
+Con eos echadizos era cierta
+La traycion, que'aua muy ſecreta,
+Para ſalir en oportuno tiempo.
+Concebido pues ea el ſentimiento,
+Que vio ſalir del geo del mancebo,
+Abaxo los ſus ojos blandamente,
+Con vna pura y virginal verguença,
+Que luego ſe'endio toda en ſu roro.
+Y vnnoſeque le puſo d' hermoſura
+Por encima d' aquel, que ya tenia.
+Abaxo los ſus ojos, como digo:
+Luego deſpues los leuanto a ſu tiempo,
+Boluiendo s' a Leandro manſamente.
+Mas eo fue con ademan tan cuerdo,
+Que'l ſeſo ſe moro muy deſcubierto,
+Y d' Amor parecio ſola vna ſombra.
+Sintio Leandro en l'amoroſa ﬂecha
+Salida del mirar de'a donzea,
+Vn gozo tal, con vna tal blandura,
+Que  no aconteciera en los comiencos
+Que ſuelen ſer alboroçados todos,
+En lagrimas parara ee acidente.
+Tanto ſe'nternecio el alma del moço.
+En n el s'alegro d' vna alegria
+Conﬁada, de ver que era admitido
+Su coraçon en el coraçon dea.
+Mas ee ſentimiento fue tan alto,
+Y vino le ee bien tan n penſao,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="782" y="103"/>
+	<Point x="780" y="191"/>
+	<Point x="1281" y="193"/>
+	<Point x="1275" y="154"/>
+	<Point x="1276" y="104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r7">
+	<Coords>
+	<Point x="1283" y="123"/>
+	<Point x="1281" y="153"/>
+	<Point x="1286" y="192"/>
+	<Point x="1316" y="195"/>
+	<Point x="1409" y="196"/>
+	<Point x="1413" y="124"/></Coords></GraphicRegion></Page></PcGts>

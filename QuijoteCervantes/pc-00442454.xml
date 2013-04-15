@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442454">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T17:31:05</Created>
+	<LastChange>2012-03-12T14:12:02</LastChange></Metadata>
+	<Page imageFilename="00442454.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="474" y="90"/>
+	<Point x="1122" y="90"/>
+	<Point x="1116" y="200"/>
+	<Point x="798" y="201"/>
+	<Point x="473" y="194"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tercera parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="170" y="209"/>
+	<Point x="1154" y="210"/>
+	<Point x="1215" y="206"/>
+	<Point x="1276" y="212"/>
+	<Point x="1464" y="214"/>
+	<Point x="1466" y="2175"/>
+	<Point x="1389" y="2171"/>
+	<Point x="1328" y="2175"/>
+	<Point x="1310" y="2200"/>
+	<Point x="171" y="2200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>modo de contarla, ni dexarla, jamas ſe podra ver, ni
+aura vio en toda la vida, aun no eſperaua yo otra
+coſa de tu buen diſcurſo, mas no me marauio, pues
+quiça eos golpes que no cean, te deuẽ de tener tur
+bado el entendimiento. Todo puede ſer, reſpondio
+Sancho, mas yo ſe que en lo de mi cuento, no ay mas
+que dezir, que ai ſe acaba, do comiença el y erro de
+la cuẽta del paage de las cabras. Acabe norabuena
+donde quiere, dixo don Quixote, y veamos  ſe
+puede mouer Rozinante. Tornole a poner las pier-
+nas, y el tornò a dar ſaltos y a earſe quedo, tanto
+eaua de bien atado. En eo parece ſer, o que el
+frio de la mañana que ya venia, o que Sancho vuieſ‐
+ſe cenado algunas coſas lenitiuas, o que fuee co‐
+ſa natural(que es lo que mas ſe deue creer)a el le vi‐
+no en voluntad, y deeo de hazer lo que otro no pu
+diera hazer por el. Mas era tanto el miedo que auia
+entrado en ſu coraçon, que no oſaua apartarſe vn
+negro de vña de ſu amo. Pues penſar de no hazer lo
+que tenia gana, tãpoco era poſsible, y aſsi lo que hi-
+zo por bien de paz, fue ſoltar la mano derecha, que
+tenia ada al arçon traſero, con la qual bonitamen-
+te y n rumor alguno, ſe ſolto la lazada corre diza,
+con que los calçones ſe ſoenian, n ayuda de otra
+alguna, y en quitandoſela, dierõ luego abaxo, y ſe le
+quedarõ como grios: tras eo alço la camiſa lo me
+jor que pudo, y echò al ayre entrambas poſaderas,
+(que no eran muy pequeñas.) Hecho eo(que el pẽ
+ſo que era lo mas que tenia que hazer, para ſalir de
+aquel terrible aprieto y anguia) le ſobreuino otra
+mayor, que fue, que le parecio que no podia mudar
+ſe, n hazer erepito y ruydo, y començo a apretar</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="457" y="2310"/>
+	<Point x="1131" y="2310"/>
+	<Point x="1131" y="2375"/>
+	<Point x="457" y="2375"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1362" y="2179"/>
+	<Point x="1364" y="2243"/>
+	<Point x="1457" y="2243"/>
+	<Point x="1455" y="2184"/>
+	<Point x="1393" y="2176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>los</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443944">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T19:09:08</Created>
+	<LastChange>2011-12-19T11:39:16</LastChange></Metadata>
+	<Page imageFilename="00443944.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="516" y="126"/>
+	<Point x="639" y="126"/>
+	<Point x="639" y="224"/>
+	<Point x="516" y="224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>16</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="496" y="239"/>
+	<Point x="2066" y="239"/>
+	<Point x="2067" y="2608"/>
+	<Point x="806" y="2628"/>
+	<Point x="496" y="2621"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que eos tienen en , que no les dexa creer que
+ſe humana Dios tanto con nadie, que no lo pen
+ſarian  conderaen eó miſmo que creen.
+Porque  conﬁean que Dios ſe hizo hom‐
+bre, que dudan de que hable con el hombre? y 
+creen que fue cruciﬁcado y açotado por eos,
+que ſe eſpantan que ſe regale con eos? es mas
+aparecer a vn emo ſuyo y hablarle, o ha-
+zerſe el como eruo nuero y padecer muerte?
+Animenſe los hombres a buſcar a Dios por el
+camino que el nos enſeña,  es la fe y la chari-
+dad y la verdadera guarda de ſu ley y con‐
+ſejos que lo menos ſera hazerles ſemejantes
+mercedes. An que los que no juzgã bien de-
+as reuelaciones,  es porque no creen que las
+ay, viuen en grandiſsimo error: y  es porque
+algunas de las que ay ſon engañoſas, obliga‐
+dos ean a juzgar bien de las que la conoci‐
+da ſanidad de ſus authores aprueua por ver
+daderas, quales ſon las que ſe eſcriuen aqui,
+cuya hioria no ſolo no es peligroſa enea ma
+teria de reuelaciones, mas es prouechoſa, y ne-
+cearia para el conocimiento de las buenas en</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1742" y="2624"/>
+	<Point x="1970" y="2616"/>
+	<Point x="2069" y="2624"/>
+	<Point x="2069" y="2746"/>
+	<Point x="1742" y="2746"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aqueos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="601" y="3055"/>
+	<Point x="1582" y="3055"/>
+	<Point x="1582" y="3157"/>
+	<Point x="601" y="3157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

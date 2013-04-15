@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442663">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T07:08:18</Created>
+	<LastChange>2012-03-12T14:12:14</LastChange></Metadata>
+	<Page imageFilename="00442663.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r22" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="420" y="200"/>
+	<Point x="1039" y="193"/>
+	<Point x="1032" y="437"/>
+	<Point x="412" y="441"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Con elcielo ha eﬆatuydo,
+Que pues lo impoſsible pido,
+Lo poſsible aun no me den.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="150" y="485"/>
+	<Point x="1432" y="462"/>
+	<Point x="1382" y="2128"/>
+	<Point x="948" y="2128"/>
+	<Point x="368" y="2134"/>
+	<Point x="365" y="2148"/>
+	<Point x="127" y="2151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fueſe otro dia Anſelmo a la aldea, dexando di-
+cho a Camila, que el tiempo que el euuiee auſen-
+te, vendria Lotario a mirar por ſu caſa, y a comer cõ
+ea, que tuuiee cuydado de tratae como a ſu meſ
+ma perſona. Aﬂigioſe Camila, como muger diſcre-
+ta, y honrada, de la orden que ſu marido le dexaua: y
+dixole que aduirtiee, que no eaua bien, que nadie
+el auſente, ocupae la a de ſu meſa, y   lo hazia
+por no tener conﬁança, que ea ſabria gouernar ſu
+caſa, que prouae por aquea vez, y veria por expe-
+riencia, como para mayores cuydados era baante.
+Anſelmo le replicò, que aquel era ſu guo, y que no
+tenia mas que hazer, que baxar la cabeça, y obede-
+cee. Camila dixo, que an lo haria, aunque contra
+ſu voluntad. Partioſe Anſelmo, y otro dia vino a ſu
+caſa Lotario, donde fuè reſcebido de Camila, con
+amoroſo, y honeo acogimiento. La qual jamas ſe
+puſo en parte, donde Lotario la viee a ſolas, por-
+que empre andaua rodeada de ſus criados, y cria-
+das, eſpecialmente de vna donzea ſuya, amada
+Leonela, a quien ea mucho queria, por auerſe cria
+do deſde niñas las dos jũtas, en caſa de los padres de
+Camila, y quando ſe caſo con Anſelmo, la truxo cõ-
+go. En los tres dias primeros, nunca Lotario le di-
+xo nada, aunque pudiera quando ſe leuantauan los
+manteles, y la gente ſe yua a comer cõ mucha prieſ-
+ſa, por aſsi ſe lo tenia mandado Camila. Y aun tenia</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1257" y="98"/>
+	<Point x="1389" y="98"/>
+	<Point x="1389" y="188"/>
+	<Point x="1257" y="188"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>194</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="1090" y="90"/>
+	<Point x="1092" y="116"/>
+	<Point x="1093" y="116"/>
+	<Point x="1093" y="146"/>
+	<Point x="1094" y="146"/>
+	<Point x="1094" y="176"/>
+	<Point x="1095" y="176"/>
+	<Point x="1095" y="179"/>
+	<Point x="539" y="175"/>
+	<Point x="505" y="194"/>
+	<Point x="481" y="194"/>
+	<Point x="393" y="188"/>
+	<Point x="390" y="183"/>
+	<Point x="391" y="89"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="credit">
+	<Coords>
+	<Point x="464" y="2306"/>
+	<Point x="1126" y="2306"/>
+	<Point x="1122" y="2359"/>
+	<Point x="465" y="2354"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="signature-mark">
+	<Coords>
+	<Point x="912" y="2134"/>
+	<Point x="912" y="2194"/>
+	<Point x="1048" y="2194"/>
+	<Point x="1050" y="2132"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bb 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="catch-word">
+	<Coords>
+	<Point x="1230" y="2136"/>
+	<Point x="1230" y="2202"/>
+	<Point x="1378" y="2202"/>
+	<Point x="1378" y="2136"/>
+	<Point x="1308" y="2131"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>orden</Unicode></TextEquiv></TextRegion></Page></PcGts>

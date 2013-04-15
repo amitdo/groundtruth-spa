@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443422">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T13:54:44</Created>
+	<LastChange>2010-12-27T10:34:16</LastChange></Metadata>
+	<Page imageFilename="00443422.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="618" y="57"/>
+	<Point x="1125" y="42"/>
+	<Point x="1162" y="185"/>
+	<Point x="1112" y="180"/>
+	<Point x="925" y="192"/>
+	<Point x="618" y="185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro Segundo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1490" y="68"/>
+	<Point x="1712" y="68"/>
+	<Point x="1712" y="175"/>
+	<Point x="1490" y="175"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>411</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="124" y="201"/>
+	<Point x="768" y="209"/>
+	<Point x="1746" y="201"/>
+	<Point x="1764" y="2724"/>
+	<Point x="1287" y="2748"/>
+	<Point x="974" y="2775"/>
+	<Point x="131" y="2792"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſumir, que habla Dios, i los Santos con eos, i creen mu
+chas vezes a ſu fantaa. Aqui los ſuele el demonio e-
+nar de preſuncion, i ſoberbia, i atraìdos de la vanidad, i
+arrogancia, ſe dexan ſer vios en aos eeriores, que
+parezcan de ſantidad, como ſon arrobamientos, i otras
+apariencias. Hazenſe a atrevidos a Dios, perdiendo
+el ſanto temor, que es ave, i cuodia de todas las vir-
+tudes: i tantas falſedades, i engaños ſuelen multiplicar-
+ſe en algunos deos; i tanto ſe envejecen en eos, que
+es mui du doſa ſu buelta al camino puro de la virtud, i
+verdadero eſpiritu. En las cuales miſerias vienen a dar,
+començando a darſe con demaada ſeguridad a las a-
+prehenones, i ſentimientos eſpirituales, cu ãdo comẽ-
+çaban à aprovechar en el camino eſpiritual. Avia tan-
+to que dezir de las imperfeciones deos, i de como ſon
+mas incurables, por tenerlas eos por mas eſpirituales,
+que las primeras; que lo quiero dexar. Solo digo, para
+fundar la necedad que ai de la Noche eſpiritual, que
+es la purgacion, para el que ha de paſar adelante; que a
+lo menos ninguno deos aprovechados, por bien que
+le ayan andado las manos, dexa de tener muchas de
+aqueas afeciones naturales, i habitos imperfetos, de
+que diximos ſer neceſario, preceder puriﬁcacion para
+paſar a la divina union. I demas deo, lo que arriba de-
+xamos dicho, es a ſaber: que por cuanto todavia parti-
+cipa la parte inferior en eas comunicaciones eſpiri-
+tuales, no pueden ſer tan intenſas, puras, i fuertes, co-
+mo ſe requieren para la dicha union: por tanto, para
+venir a ea, convienele al alma entrar en la ſegunda
+Noche del eſpiritu, donde deſnudando el Sentido, i
+eſpiritu perfetamente de todas eas aprehenones, i
+ſabores; le han de hazer caminar en eſcura, i pura Fè, 
+es propio, i adecuado medio, por donde el alma ſe une</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="696" y="2901"/>
+	<Point x="1453" y="2901"/>
+	<Point x="1453" y="2998"/>
+	<Point x="696" y="2998"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1694" y="2742"/>
+	<Point x="1694" y="2811"/>
+	<Point x="1533" y="2811"/>
+	<Point x="1529" y="2751"/>
+	<Point x="1607" y="2746"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>con</Unicode></TextEquiv></TextRegion></Page></PcGts>

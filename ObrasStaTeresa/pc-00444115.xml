@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444115">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T11:29:48</Created>
+	<LastChange>2011-12-19T11:39:26</LastChange></Metadata>
+	<Page imageFilename="00444115.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="375" y="68"/>
+	<Point x="1505" y="60"/>
+	<Point x="1505" y="227"/>
+	<Point x="371" y="227"/>
+	<Point x="372" y="162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="156" y="244"/>
+	<Point x="1704" y="250"/>
+	<Point x="1694" y="2638"/>
+	<Point x="1581" y="2648"/>
+	<Point x="176" y="2650"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſentira de tornar a tener ſeſo para viuir en el
+mũdo? Y auer de tornar a los cuydados y cũ-
+plimiẽtos del? Pues no me parece he encareci
+do coſa  no quede baxa en ee modo de go
+zo  el Señor quiere en ee deierro  goze
+vn alma. Bendito ſeays por empre Señor,
+alaben os todas las coſas por empre, quered
+aora rey mio ſuplico os lo yo  pues quando
+eo eſcriuo no eoy fuera dea ſanta locura
+celeial por vuera bondad y miſericordia
+ tan n merecimiẽtos mios me hazeys ea
+merced,  lo eẽ todos los  yo tratare locos
+de vuero amor, o permitays  no trate yo cõ
+nadie, o ordenad Señor como no tẽga ya cuẽ
+ta en coſa del mũdo, o me ſacad del, no puede
+ya Dios mio ea vuera erua ſuﬀrir tantos
+trabajos como de verſe n vos le vienen,  
+ha de viuir no quiere deſcãſo en ea vida, ni
+ſe le deysvos, rria ya ea alma verſe libre, el
+comer lamata, el dormir la cõgoxa, vee  ſe le
+paa el tiẽpo de la vida paar en regalo, y 
+nada ya le puede regalar fuera de vos,  pare‐
+ce viue cõtra natura, pues ya no querria viuir
+en  no en vos. O verdadero Señor y gloria
+mia  delgada y peſadiſsima cruz teneys apa‐
+rejada a los que egan a ee eado: delgada
+por es ſuaue, peſada por vienen vezes que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1576" y="2653"/>
+	<Point x="1675" y="2648"/>
+	<Point x="1670" y="2705"/>
+	<Point x="1572" y="2703"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="633" y="3033"/>
+	<Point x="1569" y="3030"/>
+	<Point x="1561" y="3149"/>
+	<Point x="601" y="3144"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1539" y="103"/>
+	<Point x="1539" y="232"/>
+	<Point x="1696" y="232"/>
+	<Point x="1696" y="103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>187</Unicode></TextEquiv></TextRegion></Page></PcGts>

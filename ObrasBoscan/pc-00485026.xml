@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485026">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T18:34:55</Created>
+	<LastChange>2011-05-12T13:40:46</LastChange></Metadata>
+	<Page imageFilename="00485026.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r17" index="0"/>
+	<RegionRefIndexed regionRef="r16" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1306" y="80"/>
+	<Point x="1710" y="73"/>
+	<Point x="1715" y="193"/>
+	<Point x="1310" y="198"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. XXIX.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="credit">
+	<Coords>
+	<Point x="636" y="3022"/>
+	<Point x="931" y="3024"/>
+	<Point x="1392" y="3034"/>
+	<Point x="1391" y="3090"/>
+	<Point x="637" y="3090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="368" y="1517"/>
+	<Point x="397" y="2860"/>
+	<Point x="1172" y="2827"/>
+	<Point x="1387" y="2816"/>
+	<Point x="1479" y="2788"/>
+	<Point x="1554" y="2775"/>
+	<Point x="1593" y="2762"/>
+	<Point x="1731" y="2695"/>
+	<Point x="1789" y="1513"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Todas las coſas tienen
+Sus puntos naturales y mudanças,
+Y ſu curſo alcançaron ya medido:
+Sus ratos de bonanças
+Haan, con que ſus fuerças ſe ſoienen:
+Mas yo, que me conſuelo dolorido
+Delo que ento, con lo que e ſentido,
+La noche 'ſpanta, y luego hiere' l dia,
+Lo preſente me haze, que deeo
+Todo lo que no veo.
+Buelue, y rebuelue amor la fantaa.
+Parece' l eſperança
+Tal ante mi, que no me deſconﬁa:
+Mas luego ſe, que dea no s'alcança,
+Sino prendarme mas con la tardança.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="396" y="196"/>
+	<Point x="403" y="1486"/>
+	<Point x="1758" y="1486"/>
+	<Point x="1740" y="226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En mis tries entrañas
+Boluiendo de mis males va la rueda:
+En eo el orden empre permanece.
+Vn punto no'a queda:
+Y en el boluer ſus bueltas ſon erañas,
+De ſuyo el mouimiento tanto crece,
+Que ai'a quien la mueue, y no parece,
+O mi alma de males fundamento:
+Hazedora de mi corporal muerte.
+O fuerça cruda y fuerte:
+Do al vn tormento'ſpanta otro tormento
+O mal empre preſente:
+Do ega al cabo, y creçe' l ſentimiento,
+Que cielo, que natura ai conente,
+Haarſe n menguante tal creciente:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="signature-mark">
+	<Coords>
+	<Point x="1464" y="2797"/>
+	<Point x="1459" y="2881"/>
+	<Point x="1528" y="2865"/>
+	<Point x="1525" y="2790"/>
+	<Point x="1519" y="2789"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>F</Unicode></TextEquiv></TextRegion></Page></PcGts>

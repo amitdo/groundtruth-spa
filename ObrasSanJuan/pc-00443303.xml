@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443303">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T15:21:57</Created>
+	<LastChange>2010-12-31T09:06:16</LastChange></Metadata>
+	<Page imageFilename="00443303.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="780" y="138"/>
+	<Point x="780" y="240"/>
+	<Point x="1573" y="240"/>
+	<Point x="1573" y="138"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subida del monte Carmelo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="385" y="164"/>
+	<Point x="385" y="240"/>
+	<Point x="514" y="240"/>
+	<Point x="514" y="164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>292</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="380" y="284"/>
+	<Point x="416" y="2183"/>
+	<Point x="730" y="2304"/>
+	<Point x="909" y="2388"/>
+	<Point x="950" y="2416"/>
+	<Point x="983" y="2411"/>
+	<Point x="1030" y="2404"/>
+	<Point x="1426" y="2402"/>
+	<Point x="1545" y="2342"/>
+	<Point x="1716" y="2285"/>
+	<Point x="1914" y="2204"/>
+	<Point x="1901" y="284"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>por eos, i cuando ſe le ofrecen, luego paſa, como digo,
+la Voluntad deos, i los dexa, i ſe pone en Dios. La ca u
+ſa de no darſele mucho deos motivos, aunque le ayu-
+dan para ir a Dios, es, porque como el Eſpiritu tiene eſ-
+ta prontitud de ir con todo, i por todo a Dios, ea tan
+cebado i prev enido, i ſatisfecho cõ el Eſpiritu de Dios,
+que no echa menos nada, ni lo apetece; i  lo apetece
+para eo, luego ſe le paſa i olvida, i no haze caſo. Pero
+el que no ntiere ea libertad de Eſpiritu en las dichas
+colas i guos ſenbles, no que ſu Voluntad ſe detiene
+en eos guos, i ſe ceba deos, daño le hazen, i debe a-
+partarſe de vſarlos. Porque aunque cõ la razon ſe quie
+ra ayudar deos para ir a Dios, toda via por cuanto el
+apetito gua deos ſegun lo ſenſual, i conforme al guſ-
+to empre es el efeto, es mas cierto el hazee eorbo
+que ayuda, i mas daño que provecho. I quando viere
+que reina en  el Eſpiritu de las tales recreaciones, de-
+be mortiﬁcarle; porque quanto mas fuerte fuere, tiene
+mas de imperfecion i flaqueza. Debe pues el Eſpiritual
+en cualquier guo, que de parte del ſentido ſe le ofre-
+ciere, aora ſea à caſo, aora de intento, aprovecharſe del
+ſolo para Dios, levantando el Gozo del alma, para que
+ſu Gozo ſea vtil i perfeto: advirtiendo, que todo Gozo
+que no es en ea manera en negacion, i aniquilacion
+de otro cualquier Gozo, aunque ſea de coſa al pare-
+cer mui levantada, es vano, i n provecho,
+i eorbo para la union de la
+Voluntad en Dios.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="1730" y="2571"/>
+	<Point x="1730" y="2678"/>
+	<Point x="1935" y="2678"/>
+	<Point x="1935" y="2571"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CA-</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r9">
+	<Coords>
+	<Point x="1121" y="2411"/>
+	<Point x="1121" y="2497"/>
+	<Point x="1280" y="2497"/>
+	<Point x="1280" y="2411"/></Coords></SeparatorRegion>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="783" y="2935"/>
+	<Point x="783" y="2997"/>
+	<Point x="1419" y="2997"/>
+	<Point x="1419" y="2935"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

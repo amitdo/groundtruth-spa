@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444482">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T15:46:34</Created>
+	<LastChange>2011-05-19T17:43:42</LastChange></Metadata>
+	<Page imageFilename="00444482.tif" imageWidth="2613" imageHeight="3944">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/>
+	<RegionRefIndexed regionRef="r13" index="2"/>
+	<RegionRefIndexed regionRef="r15" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="944" y="300"/>
+	<Point x="944" y="450"/>
+	<Point x="1516" y="450"/>
+	<Point x="1516" y="300"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SEÑOR.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="drop-capital">
+	<Coords>
+	<Point x="311" y="1877"/>
+	<Point x="313" y="2437"/>
+	<Point x="878" y="2447"/>
+	<Point x="868" y="1945"/>
+	<Point x="866" y="1932"/>
+	<Point x="867" y="1921"/>
+	<Point x="861" y="1890"/>
+	<Point x="863" y="1885"/>
+	<Point x="857" y="1884"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="881" y="1861"/>
+	<Point x="876" y="1896"/>
+	<Point x="880" y="1972"/>
+	<Point x="884" y="1995"/>
+	<Point x="891" y="2087"/>
+	<Point x="889" y="2225"/>
+	<Point x="893" y="2421"/>
+	<Point x="893" y="2446"/>
+	<Point x="892" y="2524"/>
+	<Point x="756" y="2520"/>
+	<Point x="701" y="2523"/>
+	<Point x="413" y="2521"/>
+	<Point x="310" y="2529"/>
+	<Point x="305" y="3606"/>
+	<Point x="305" y="3635"/>
+	<Point x="647" y="3626"/>
+	<Point x="688" y="3631"/>
+	<Point x="716" y="3631"/>
+	<Point x="733" y="3633"/>
+	<Point x="768" y="3627"/>
+	<Point x="805" y="3633"/>
+	<Point x="829" y="3629"/>
+	<Point x="868" y="3625"/>
+	<Point x="892" y="3627"/>
+	<Point x="1087" y="3640"/>
+	<Point x="1110" y="3638"/>
+	<Point x="1133" y="3637"/>
+	<Point x="1147" y="3635"/>
+	<Point x="1201" y="3636"/>
+	<Point x="1250" y="3598"/>
+	<Point x="1925" y="3597"/>
+	<Point x="1976" y="3616"/>
+	<Point x="1982" y="3619"/>
+	<Point x="2000" y="3618"/>
+	<Point x="2013" y="3615"/>
+	<Point x="2021" y="3614"/>
+	<Point x="2049" y="3600"/>
+	<Point x="2058" y="3601"/>
+	<Point x="2124" y="3585"/>
+	<Point x="2258" y="3588"/>
+	<Point x="2282" y="3585"/>
+	<Point x="2255" y="1868"/>
+	<Point x="897" y="1859"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L deſéo de correſponder la Acadé-
+mia Eſpañóla à los ſoberanos favores
+que continuamente experimenta de
+V. M. ha do tan vivo, que ſe con-
+deraba delinqüente cada inante
+que retardaba tributar ofrenda lo
+miſmo que fué dádiva. Premió V. M. ſus deſvélos diſ-
+tinguiendoſe de muos Monaras: pues quantos
+fueron dignamente celebrados por mercedes conce-
+didas à ſervícios yá executados, ſe haan excedidos
+de V. M. que previno à las informes taréas de la Aca-
+démia anticipadas liberalídades. Oprimida ſu obli-
+gación con el peſo de tan repetidas honras, ha ſoli-
+citado (con la brevedád poſsible) reſpirar agradeci-
+da; bien que con voz no formada, pues ſolas ſon dos
+letras las que ofrece por ahóra à los Reales piés de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="signature-mark">
+	<Coords>
+	<Point x="1343" y="3613"/>
+	<Point x="1341" y="3718"/>
+	<Point x="1425" y="3716"/>
+	<Point x="1488" y="3714"/>
+	<Point x="1478" y="3612"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>¶ 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="catch-word">
+	<Coords>
+	<Point x="2133" y="3603"/>
+	<Point x="2144" y="3697"/>
+	<Point x="2263" y="3700"/>
+	<Point x="2263" y="3603"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>V.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="credit">
+	<Coords>
+	<Point x="841" y="3841"/>
+	<Point x="820" y="3918"/>
+	<Point x="1597" y="3922"/>
+	<Point x="1622" y="3933"/>
+	<Point x="1639" y="3925"/>
+	<Point x="1773" y="3926"/>
+	<Point x="1768" y="3856"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

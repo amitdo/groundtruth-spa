@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441624">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T20:15:54</Created>
+	<LastChange>2011-07-05T14:26:10</LastChange></Metadata>
+	<Page imageFilename="00441624.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="369" y="266"/>
+	<Point x="1657" y="290"/>
+	<Point x="1680" y="1952"/>
+	<Point x="1251" y="1979"/>
+	<Point x="887" y="1953"/>
+	<Point x="684" y="1950"/>
+	<Point x="420" y="1950"/>
+	<Point x="316" y="1935"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Porque aûn de paſo no ſe malograſe
+Occaon, que iluraſe
+El eandarte de el maior Monarca,
+A quien rve Fortuna religioſa,
+En quanto el cerco de la luz abarca;
+Con voz quanto valiente generoſa,
+Dies orden a todos,
+Armandolos con Vos de muchos modos;
+Pues quanto mas alguno os imitaba,
+Tanto mas al peligro ſe egaba;
+I vuera valentia
+Fue general exercito aquel dia;
+Eſcuadron la familia, i los criados;
+Liſongeros los Hados;
+La Muerte aduladora
+Se morò en los peligros cada hora.
+Paſaron deſpreciadas
+Flechas de ierro, i de veneno armadas;
+Fulminaron en vano
+Los mentidos enojos de el Verano,
+Sin que os debieen attencion ſus valas,
+Burlandoles la mira vueras galas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="297" y="1942"/>
+	<Point x="397" y="1955"/>
+	<Point x="680" y="1956"/>
+	<Point x="865" y="1958"/>
+	<Point x="1661" y="2027"/>
+	<Point x="1604" y="2907"/>
+	<Point x="395" y="2885"/>
+	<Point x="373" y="2885"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rindieron los navios,
+Con vuera providencia, i vueros brios,
+I al volaros ſu ama,
+Remedio, que turbada empre tarde
+La deſeſperacion dia al covarde,
+En alas os dexò de vuera fama.
+I preſumido en laços el turbante,
+Globo ſutil, ſoberbia de Levante,
+Derribado de el ceño, que veia,
+Nevò de preſuncion vuera crugia.
+I los que miedo de las coas fueron,
+I los ſenos de Eſpaña ſacudieron</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="697" y="3126"/>
+	<Point x="1473" y="3121"/>
+	<Point x="1469" y="3204"/>
+	<Point x="695" y="3209"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1735" y="2835"/>
+	<Point x="1735" y="2976"/>
+	<Point x="1926" y="2976"/>
+	<Point x="1926" y="2835"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Con</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="833" y="157"/>
+	<Point x="833" y="266"/>
+	<Point x="1259" y="266"/>
+	<Point x="1259" y="157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CLIO,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="109" y="133"/>
+	<Point x="109" y="269"/>
+	<Point x="271" y="269"/>
+	<Point x="271" y="133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>28</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440548">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T17:51:07</Created>
+	<LastChange>2011-07-05T14:26:05</LastChange></Metadata>
+	<Page imageFilename="00440548.tif" imageWidth="876" imageHeight="1640">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="107" y="81"/>
+	<Point x="123" y="81"/>
+	<Point x="175" y="93"/>
+	<Point x="236" y="91"/>
+	<Point x="252" y="81"/>
+	<Point x="366" y="76"/>
+	<Point x="399" y="84"/>
+	<Point x="427" y="90"/>
+	<Point x="619" y="91"/>
+	<Point x="642" y="90"/>
+	<Point x="675" y="75"/>
+	<Point x="700" y="88"/>
+	<Point x="863" y="90"/>
+	<Point x="860" y="1491"/>
+	<Point x="131" y="1499"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>amor de Dios, porque ſu amo era
+tan pobre, que no tenia para  ni
+para el. Via mi inocencia, dexa-
+ron me, libre el alguacil, y el eſ-
+criuano, pidieron al hombre, y ala
+muger ſus derechos ; ſobrelo qual
+tuuieron gran contienda, y ruy-
+do, porque ellos alegabã no ear
+obligados a pagar, pues no auia
+de que, ni ſe hazia le embargo: los
+ottos dezian que auian dexado de
+yr a otro negocio que les impor-
+taua mas, por venir a aquel. Final-
+mente deſpues de hauer bien vo-
+zeado, vn po queron, cargo con
+la vieja cama de la vieja, con que
+no yua muy cargado, fueron ſe
+los cinco dando bozes, no ſe en
+que paro, creo quella pecador a
+cama pago por todos, y bien ſe
+le empleaua, pues el tiempo que
+auia de repoſar, y deſcanſar de los
+trabajos paados, ſe andaua al-
+quilando, como he contado, me</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="289" y="1579"/>
+	<Point x="577" y="1575"/>
+	<Point x="573" y="1621"/>
+	<Point x="276" y="1613"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="367" y="37"/>
+	<Point x="430" y="24"/>
+	<Point x="498" y="15"/>
+	<Point x="658" y="16"/>
+	<Point x="662" y="66"/>
+	<Point x="648" y="75"/>
+	<Point x="492" y="78"/>
+	<Point x="412" y="76"/>
+	<Point x="376" y="70"/>
+	<Point x="353" y="49"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="145" y="29"/>
+	<Point x="145" y="80"/>
+	<Point x="232" y="80"/>
+	<Point x="232" y="29"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>94</Unicode></TextEquiv></TextRegion></Page></PcGts>

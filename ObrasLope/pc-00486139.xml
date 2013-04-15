@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00486139">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T16:14:13</Created>
+	<LastChange>2011-07-28T11:29:44</LastChange></Metadata>
+	<Page imageFilename="00486139.tif" imageWidth="2122" imageHeight="3012">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="547" y="20"/>
+	<Point x="1512" y="20"/>
+	<Point x="1515" y="67"/>
+	<Point x="1504" y="128"/>
+	<Point x="1436" y="139"/>
+	<Point x="1365" y="118"/>
+	<Point x="1109" y="123"/>
+	<Point x="896" y="118"/>
+	<Point x="882" y="114"/>
+	<Point x="820" y="118"/>
+	<Point x="556" y="120"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comedia de Lope de Vega.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="88" y="1847"/>
+	<Point x="235" y="1871"/>
+	<Point x="344" y="1849"/>
+	<Point x="943" y="1843"/>
+	<Point x="1056" y="1859"/>
+	<Point x="1317" y="1843"/>
+	<Point x="1356" y="1858"/>
+	<Point x="1630" y="1854"/>
+	<Point x="1609" y="2705"/>
+	<Point x="1350" y="2722"/>
+	<Point x="752" y="2731"/>
+	<Point x="719" y="2731"/>
+	<Point x="102" y="2705"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Duquea. Yo conozco ſeñor que me leuantas,
+del poluo de la tierra a tu grandeza,
+y me diſpones a grandezas tantas,
+mas deo ſe te gue la baxeza,
+de hazer a tu vaſao, ygual contigo,
+lo que es para mi alma gran trieza.
+Con todo eo no replico, y digo,
+coſa encontrario, mas dezir te quiero,
+lo trates con mi padre, y no conmigo,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1508" y="2720"/>
+	<Point x="1706" y="2720"/>
+	<Point x="1706" y="2798"/>
+	<Point x="1508" y="2798"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>porque</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="688" y="2933"/>
+	<Point x="1384" y="2936"/>
+	<Point x="1384" y="2993"/>
+	<Point x="685" y="2986"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="68" y="128"/>
+	<Point x="815" y="125"/>
+	<Point x="1185" y="126"/>
+	<Point x="1365" y="123"/>
+	<Point x="1451" y="146"/>
+	<Point x="1508" y="152"/>
+	<Point x="1557" y="240"/>
+	<Point x="1578" y="264"/>
+	<Point x="1580" y="273"/>
+	<Point x="1583" y="295"/>
+	<Point x="1595" y="338"/>
+	<Point x="1523" y="1837"/>
+	<Point x="1361" y="1856"/>
+	<Point x="1319" y="1836"/>
+	<Point x="1053" y="1854"/>
+	<Point x="960" y="1835"/>
+	<Point x="333" y="1842"/>
+	<Point x="243" y="1865"/>
+	<Point x="101" y="1835"/>
+	<Point x="68" y="264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rey. Si como aqui te ofrezco el alma mia:
+mi Reyno, y mi Corona, todo el mundo,
+darte pudiera, es cierto lo haria,
+ſolo en ſeruirte y agradarte: fundo
+lo que merezco, lo que ſoy y valgo.
+Y en que quieras hazerme tu ſegundo,
+jamas veras que de tu guo ſalgo:
+Sin ti, no tengo en nada mi perſona,
+por ti pretendo yo, merecer algo.
+Sola es ea humildad la que me abona,
+y la que puede enriquecer mi guo,
+ ee amor Celia ſe me galardona,
+vn muerto Conde no te de diſguo,
+pues ſe te oﬀrece vn Rey en lugar ſuyo,
+recibele por el, pues es tan juo.
+Mi Reyno Celia hermoſa ſera tuyo,
+todo a de ear debaxo de tus plantas,
+aguardando te vn  cao y concluyo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1764" y="21"/>
+	<Point x="1762" y="141"/>
+	<Point x="2055" y="141"/>
+	<Point x="2055" y="22"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>160</Unicode></TextEquiv></TextRegion></Page></PcGts>

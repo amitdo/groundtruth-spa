@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444255">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:47:08</Created>
+	<LastChange>2011-12-19T11:39:34</LastChange></Metadata>
+	<Page imageFilename="00444255.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="317" y="102"/>
+	<Point x="1509" y="123"/>
+	<Point x="1494" y="234"/>
+	<Point x="322" y="236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="131" y="243"/>
+	<Point x="1023" y="245"/>
+	<Point x="1421" y="245"/>
+	<Point x="1769" y="263"/>
+	<Point x="1776" y="2636"/>
+	<Point x="1725" y="2638"/>
+	<Point x="1695" y="2635"/>
+	<Point x="1534" y="2660"/>
+	<Point x="1496" y="2641"/>
+	<Point x="1301" y="2640"/>
+	<Point x="1248" y="2637"/>
+	<Point x="137" y="2695"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que no ſon los tiẽpos paados, ee ſanto hõ-
+bre dee tiẽpo era, eaua grueo el eſpiritu,
+como en los otros tiẽpos, y an tenia el mũdo
+debaxo de los pies, que aun no anden deſnu
+dos, ni hagan tan aſpera penitencia como el,
+muchas coſas ay, como otras vezes he dicho,
+para repiſar el mundo. Y el Señor las enſeña
+quando vee animo, y quan grãde le dio ſu Ma
+gead a ee ſanto que digo, para hazer qua-
+rentay ete años tan aſpera penitencia como
+todos ſaben, quiero dezir algo de ea, que ſe
+es toda verdad. Dixome a mi y a otra perſo-
+na, de quien ſe guardaua poco, y a mi el amor
+que me tenia era la cauſa, porque quiſo el Se
+ñor le tuuiee, para boluer por mi, y animar-
+me en tiempo de tanta neceſsidad como he
+dicho, y dire, pareceme fueron quarenta años
+los que me dixo, auia dormido ſola hora y
+media entre noche y dia, y que ee era el ma
+yor trabajo de penitencia que auia tenido,
+en los principios de vencer el ſueño, y para
+eo eaua empre o de rodias o en pie, lo
+que dormia era ſentado, la cabeça ahirmada a
+vn maderio que tenia hincado en la pared:
+echado aunque quiera no podia, porque ſu
+celda, como ſe ſabe, no era mas larga que qua
+tro pies y medio, en todos eos años jamas</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1442" y="2644"/>
+	<Point x="1496" y="2642"/>
+	<Point x="1535" y="2662"/>
+	<Point x="1687" y="2639"/>
+	<Point x="1744" y="2642"/>
+	<Point x="1729" y="2757"/>
+	<Point x="1464" y="2761"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſe puſo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="616" y="3062"/>
+	<Point x="1577" y="3070"/>
+	<Point x="1574" y="3157"/>
+	<Point x="609" y="3147"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1564" y="137"/>
+	<Point x="1564" y="245"/>
+	<Point x="1742" y="245"/>
+	<Point x="1742" y="137"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>327</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1144" y="2649"/>
+	<Point x="1139" y="2743"/>
+	<Point x="1331" y="2745"/>
+	<Point x="1324" y="2644"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>X 4</Unicode></TextEquiv></TextRegion></Page></PcGts>

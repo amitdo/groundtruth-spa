@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485933">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:35:43</Created>
+	<LastChange>2011-07-28T11:29:14</LastChange></Metadata>
+	<Page imageFilename="00485933.tif" imageWidth="2114" imageHeight="3077">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="r2" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="catch-word">
+	<Coords>
+	<Point x="1180" y="2747"/>
+	<Point x="1215" y="2748"/>
+	<Point x="1227" y="2750"/>
+	<Point x="1248" y="2748"/>
+	<Point x="1255" y="2745"/>
+	<Point x="1272" y="2746"/>
+	<Point x="1284" y="2744"/>
+	<Point x="1332" y="2744"/>
+	<Point x="1337" y="2753"/>
+	<Point x="1337" y="2770"/>
+	<Point x="1336" y="2798"/>
+	<Point x="1319" y="2805"/>
+	<Point x="1295" y="2809"/>
+	<Point x="1195" y="2812"/>
+	<Point x="1183" y="2812"/>
+	<Point x="1180" y="2811"/>
+	<Point x="1181" y="2784"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bole-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="682" y="2970"/>
+	<Point x="1391" y="2970"/>
+	<Point x="1389" y="3029"/>
+	<Point x="682" y="3023"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="95" y="164"/>
+	<Point x="504" y="162"/>
+	<Point x="529" y="166"/>
+	<Point x="545" y="160"/>
+	<Point x="572" y="154"/>
+	<Point x="604" y="158"/>
+	<Point x="650" y="154"/>
+	<Point x="672" y="158"/>
+	<Point x="1243" y="225"/>
+	<Point x="1195" y="1672"/>
+	<Point x="232" y="1677"/>
+	<Point x="205" y="1675"/>
+	<Point x="192" y="1684"/>
+	<Point x="171" y="1695"/>
+	<Point x="82" y="1678"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que fue de Africa rayo
+Marlio nueuo Gradaſo,
+temiendo algun trie caſo
+de moros cubre la tierra,
+todos a punto de guerra
+a impedir a Francia el pao,
+n eos tantos agueros
+tantas deſdichas ſe ven,
+es meneer cauaeros
+mirar como podeys bien,
+ofender y defenderos,
+no porque yo os acobardo,
+mas porque  de gaardo:
+Galalon os trahe aqui
+os deſengañeys de mi,
+y del valor de Bernardo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="62" y="1678"/>
+	<Point x="76" y="2748"/>
+	<Point x="852" y="2752"/>
+	<Point x="922" y="2749"/>
+	<Point x="991" y="2736"/>
+	<Point x="1100" y="2747"/>
+	<Point x="1116" y="2741"/>
+	<Point x="1238" y="2726"/>
+	<Point x="1236" y="1838"/>
+	<Point x="1226" y="1680"/>
+	<Point x="200" y="1685"/>
+	<Point x="162" y="1702"/>
+	<Point x="104" y="1685"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Roldan. Si al Emperador pudiera,
+perderle preo el reſpeo
+por ventura reſpondiera,
+a tu miedo y mal conceto
+don Beltran de otra manera,
+quando ea temiendo Eſpaña,
+que derribe ſu Montaña,
+ſola ea mano, ea ſola
+dizen que el braço en arbola,
+y que Galalon me engaña
+y a Francia n daño, y pena,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="427" y="50"/>
+	<Point x="435" y="152"/>
+	<Point x="616" y="147"/>
+	<Point x="872" y="158"/>
+	<Point x="1000" y="187"/>
+	<Point x="1043" y="168"/>
+	<Point x="1070" y="166"/>
+	<Point x="1077" y="170"/>
+	<Point x="1281" y="195"/>
+	<Point x="1393" y="181"/>
+	<Point x="1385" y="54"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comedia de Lope de Vega.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="1670" y="112"/>
+	<Point x="1670" y="231"/>
+	<Point x="1814" y="231"/>
+	<Point x="1814" y="112"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>57</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="signature-mark">
+	<Coords>
+	<Point x="922" y="2751"/>
+	<Point x="921" y="2812"/>
+	<Point x="991" y="2809"/>
+	<Point x="994" y="2744"/>
+	<Point x="952" y="2745"/>
+	<Point x="939" y="2747"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r11" type="handwritten-annotation">
+	<Coords>
+	<Point x="592" y="2812"/>
+	<Point x="592" y="2924"/>
+	<Point x="828" y="2924"/>
+	<Point x="828" y="2812"/></Coords></GraphicRegion></Page></PcGts>

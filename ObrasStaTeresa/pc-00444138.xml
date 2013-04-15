@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444138">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:32:35</Created>
+	<LastChange>2011-12-19T11:39:27</LastChange></Metadata>
+	<Page imageFilename="00444138.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r2" index="2"/>
+	<RegionRefIndexed regionRef="r7" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="460" y="254"/>
+	<Point x="463" y="239"/>
+	<Point x="1334" y="223"/>
+	<Point x="1666" y="220"/>
+	<Point x="2101" y="209"/>
+	<Point x="2035" y="1193"/>
+	<Point x="447" y="1197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cap. XIX. Progue en la miſma mate-
+ria, comiença a declarar los eﬀetos que ha-
+ze en el alma ee grado de oracion, perſua-
+de mucho a que no tornen atras, aunque deſ-
+pues dea merced, tornen a caer, ni dexen
+la oracion, dize los daños que vernan de no
+hazer eo, es mucho de notar, y de gran
+conſolacion para los ﬂacos
+y peccadores.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="818" y="1300"/>
+	<Point x="2064" y="1287"/>
+	<Point x="2100" y="2619"/>
+	<Point x="1782" y="2654"/>
+	<Point x="446" y="2669"/>
+	<Point x="476" y="1592"/>
+	<Point x="545" y="1597"/>
+	<Point x="596" y="1593"/>
+	<Point x="681" y="1580"/>
+	<Point x="738" y="1596"/>
+	<Point x="814" y="1592"/>
+	<Point x="815" y="1569"/>
+	<Point x="816" y="1514"/>
+	<Point x="816" y="1503"/>
+	<Point x="815" y="1444"/>
+	<Point x="816" y="1343"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VED A el alma dea oracion y
+vnion con grandiſsima ternura, de
+manera que ſe querria deshazer,
+no de pena, no de vnas lagrimas gozo-
+ſas, haaſe bañada de eas, n ntirlo ni
+ſaber quando ni como las oro, mas da-
+le gran deleyte ver aplacado aquel impe-
+tu del fuego con agua, que le haze mas
+crecer, parece eo algarauia, y paa
+an. Acaecido me ha algunas vezes en
+ee termino de oracion ear tan fuera de
+mi, que no ſabia  era ſueño, o  paſ-
+ſaua en verdad la gloria que auia ſenti-
+do, y de verme ena de agua que n pe-
+na deilaua con tanto impetu, y pree-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="drop-capital">
+	<Coords>
+	<Point x="506" y="1310"/>
+	<Point x="812" y="1316"/>
+	<Point x="812" y="1442"/>
+	<Point x="810" y="1538"/>
+	<Point x="810" y="1570"/>
+	<Point x="804" y="1585"/>
+	<Point x="738" y="1593"/>
+	<Point x="682" y="1578"/>
+	<Point x="597" y="1590"/>
+	<Point x="522" y="1586"/>
+	<Point x="521" y="1569"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Q</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="578" y="3036"/>
+	<Point x="1626" y="3036"/>
+	<Point x="1626" y="3170"/>
+	<Point x="578" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="918" y="95"/>
+	<Point x="918" y="225"/>
+	<Point x="1603" y="206"/>
+	<Point x="1577" y="95"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="466" y="126"/>
+	<Point x="466" y="228"/>
+	<Point x="686" y="228"/>
+	<Point x="686" y="126"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>210</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1899" y="2651"/>
+	<Point x="1907" y="2728"/>
+	<Point x="2035" y="2724"/>
+	<Point x="2036" y="2642"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>za,</Unicode></TextEquiv></TextRegion></Page></PcGts>

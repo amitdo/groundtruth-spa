@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485182">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T20:52:33</Created>
+	<LastChange>2011-05-12T13:41:01</LastChange></Metadata>
+	<Page imageFilename="00485182.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r13" type="credit">
+	<Coords>
+	<Point x="633" y="3022"/>
+	<Point x="1390" y="3022"/>
+	<Point x="1390" y="3091"/>
+	<Point x="633" y="3091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="491" y="220"/>
+	<Point x="1770" y="216"/>
+	<Point x="1742" y="2837"/>
+	<Point x="503" y="2838"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Es mas, el fuerte Amor, que'nti'a ardiẽdo.
+Conﬁa coraçon del'alta Venus,
+Pues que'n la mar nacio, y en ea reyna.
+Que ſe hizo el eſfuerço que tenias
+Quando muy en tu ſeſo, aa en el templo.
+Dezias a tu Hero, manſamente:
+Yo rompere las ondas de Neptuno,
+Y la proa porne, contra los vientos
+D' Eolo, mas fue entonçes prometeo,
+Vio'l lugar ado lo prometie:
+Que's agora cumplir lo prometido.
+Mira, do'a tu lumbre a la ventana,
+Centeeando ai tan biuamente,
+Que'n ſu centeear muera amarte.
+Eſperate tu gozo, y tu te tardas
+Tu mayor bien t'aguarda, y tu no buelas
+O coraçon, tu'as aa en tu cuerpo,
+No me detengas mas aca ee mio.
+Recogete en tu fuego, y paa el agua,
+Salta en la mar, ten ojo ala tu lumbre,
+Ea te euara por do quieres,
+Sin que egues tus plantas alas ondas,
+Haa dexarte pueo, entre los braços
+D'aquea, para quien naci en el mundo.
+Apenas vuo dicho 'as palabras,
+Quando n mas, con animoſo acuerdo.
+Deſnuda de ſu cuerpo ſus veidos.
+Y haziendo deos vn pequeño lio,
+Se lo ato por cima en ſu cabeça.
+Salto en mitad tras eo, del mar brauo.
+Y ſu via a ſu 'rea endereçando:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="780" y="105"/>
+	<Point x="1220" y="105"/>
+	<Point x="1220" y="208"/>
+	<Point x="780" y="208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r19" type="other">
+	<Coords>
+	<Point x="1225" y="115"/>
+	<Point x="1382" y="115"/>
+	<Point x="1382" y="208"/>
+	<Point x="1225" y="208"/></Coords></GraphicRegion></Page></PcGts>

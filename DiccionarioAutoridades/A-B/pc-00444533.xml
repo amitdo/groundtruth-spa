@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444533">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T15:58:36</Created>
+	<LastChange>2011-03-09T06:45:28</LastChange></Metadata>
+	<Page imageFilename="00444533.tif" imageWidth="2613" imageHeight="3944">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/>
+	<RegionRefIndexed regionRef="r12" index="2"/>
+	<RegionRefIndexed regionRef="r13" index="3"/>
+	<RegionRefIndexed regionRef="r11" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="481" y="210"/>
+	<Point x="475" y="285"/>
+	<Point x="596" y="286"/>
+	<Point x="685" y="281"/>
+	<Point x="685" y="214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>XLVI</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="900" y="175"/>
+	<Point x="900" y="281"/>
+	<Point x="1997" y="271"/>
+	<Point x="2000" y="175"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DISCURSO DEL ORIGEN</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="catch-word">
+	<Coords>
+	<Point x="2395" y="3620"/>
+	<Point x="2395" y="3681"/>
+	<Point x="2461" y="3683"/>
+	<Point x="2461" y="3614"/>
+	<Point x="2426" y="3608"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſe</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="830" y="3848"/>
+	<Point x="830" y="3930"/>
+	<Point x="1787" y="3930"/>
+	<Point x="1787" y="3848"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="448" y="296"/>
+	<Point x="455" y="1078"/>
+	<Point x="673" y="1077"/>
+	<Point x="692" y="1098"/>
+	<Point x="731" y="1077"/>
+	<Point x="923" y="1079"/>
+	<Point x="933" y="1088"/>
+	<Point x="948" y="1076"/>
+	<Point x="2472" y="1065"/>
+	<Point x="2470" y="278"/>
+	<Point x="2271" y="280"/>
+	<Point x="2256" y="271"/>
+	<Point x="2236" y="280"/>
+	<Point x="2096" y="278"/>
+	<Point x="2063" y="270"/>
+	<Point x="2048" y="282"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Africa à Eſpaña las armas de los Califas de Damaſco, y en breve tiempo
+la conquiaron toda, excepto las coas del Océano Septentrional, en que
+ſe numéran las Aúrias de Oviedo, las Montañas de Burgos, Vizcaya, y
+Guipúzcoa. En ea inundación de Arabes y Sarracénos, los Eſpañoles,
+unos ſe retiraron à los lugáres áſperos de las montañas, y otros ſe queda-
+ron gimiendo debaxo del yugo de los vencedores. Los que ſe retiraron à
+las montañas evaron la Léngua que uſaban, que era la Latina, algo al-
+terada por la pronunciación de los Godos, y los que permanecieron en
+ſus Pátrias entre los Arabes, aunque no la perdieron, recibieron de eos
+muas palabras, como ſe morará en el diſcurſo del Diccionario.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="448" y="1095"/>
+	<Point x="456" y="1631"/>
+	<Point x="928" y="1627"/>
+	<Point x="948" y="1639"/>
+	<Point x="968" y="1627"/>
+	<Point x="1201" y="1625"/>
+	<Point x="1225" y="1643"/>
+	<Point x="1246" y="1633"/>
+	<Point x="1247" y="1626"/>
+	<Point x="1568" y="1623"/>
+	<Point x="1571" y="1632"/>
+	<Point x="1588" y="1641"/>
+	<Point x="1603" y="1636"/>
+	<Point x="1605" y="1623"/>
+	<Point x="1834" y="1621"/>
+	<Point x="1859" y="1642"/>
+	<Point x="1874" y="1630"/>
+	<Point x="1874" y="1621"/>
+	<Point x="2085" y="1618"/>
+	<Point x="2097" y="1563"/>
+	<Point x="2459" y="1556"/>
+	<Point x="2459" y="1074"/>
+	<Point x="1664" y="1081"/>
+	<Point x="1436" y="1084"/>
+	<Point x="1414" y="1083"/>
+	<Point x="1375" y="1093"/>
+	<Point x="1197" y="1083"/>
+	<Point x="1088" y="1085"/>
+	<Point x="1078" y="1099"/>
+	<Point x="1034" y="1097"/>
+	<Point x="1022" y="1084"/>
+	<Point x="1005" y="1096"/>
+	<Point x="850" y="1090"/>
+	<Point x="738" y="1092"/>
+	<Point x="740" y="1112"/>
+	<Point x="728" y="1120"/>
+	<Point x="732" y="1087"/>
+	<Point x="701" y="1099"/>
+	<Point x="697" y="1107"/>
+	<Point x="681" y="1128"/>
+	<Point x="655" y="1095"/>
+	<Point x="595" y="1093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>16 Los Reyes de Aúrias, y ſus vaaos fueron corrompiendo, y
+alterando la Léngua Latina, haa el año de mil y ciento, poco mas, ò
+menos: y aunque los Privilégios, y eſcrituras públicas ſe eſcribían en ea,
+era yá el Latin tan bárbaro, que la corrupción formó un nuevo Dialeo
+diverſo en lo mas del Idióma Latino: de ſuerte, que los que ſabían la Lén-
+gua Latina no entendían la Eſpañóla, ni los que hablaban la Eſpañóla en-
+tendían la Latina, viéndoſe preciſados à aprenderla por arte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="406" y="1651"/>
+	<Point x="461" y="3432"/>
+	<Point x="475" y="3443"/>
+	<Point x="698" y="3445"/>
+	<Point x="732" y="3384"/>
+	<Point x="2470" y="3383"/>
+	<Point x="2449" y="1658"/>
+	<Point x="2446" y="1625"/>
+	<Point x="2028" y="1631"/>
+	<Point x="2002" y="1651"/>
+	<Point x="1983" y="1651"/>
+	<Point x="1965" y="1628"/>
+	<Point x="1937" y="1651"/>
+	<Point x="1586" y="1651"/>
+	<Point x="1559" y="1633"/>
+	<Point x="1547" y="1630"/>
+	<Point x="1547" y="1651"/>
+	<Point x="1476" y="1651"/>
+	<Point x="1475" y="1635"/>
+	<Point x="1454" y="1630"/>
+	<Point x="1416" y="1651"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>17 Como eos Reyes empezaen à recuperar todo lo que eaba à
+las faldas de las montañas, y volvieen à reediﬁcar à Leon, Aorga, y
+otras Vias, poniendo en eas Pobladores, y Presídios: al pao que ſe
+iba extendiendo el Domínio con las armas, ſe fué tambien extendiendo
+el lenguage. Don Alonſo el Sexto paſsó con ſus tropas las erras de Gua-
+darrama, y conquió à Toledo, las comarcas de Madrid, Alcalá, Gua-
+dalaxara, y Talavera. Don Alonſo el Septimo las de Cuenca, Alcaráz, y
+la Mana, haa egar à Sierramoréna. Don Alonſo el Nono las princi-
+pales Ciudades de Extremadúra: y en ﬁn San Fernando el tercero paan-
+do con ſus valeroſos eſquadrones la Sierramoréna, conquió los Réinos
+de Córdoba, Jaen, Sevia, y Murcia, echando de eos à los Mahome-
+tanos, y evando Pobladores de ſus Réinos, con que inſenblemente ſe
+comunicó ſu Léngua, y dilató en todos eos Paíſes. Los Chriianos que
+antes havían vivido en eos (debaxo del Domínio de los Mahometanos
+como queda notado) no havían perdido totalmente la Léngua que uſa-
+ban en tiempo de los Godos; pero tambien la corrompieron, como los
+que eaban en los Domínios de Aúrias y Leon, y con la preciſa comu-
+nicación con los Arabes tomaron muas voces de ſu Léngua: y aſsi quan-
+do ſe iba extendiendo el lenguage de los Reyes de Leon y Caia, ſe iban
+entrometiendo en él las palabras que havían tomado los Chriianos de
+la Léngua de los Sarracénos: al modo que ſe mezclan las aguas de los
+arróyos con las de los rios grandes, y forman con eos un cuerpo, y una
+madre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="445" y="3464"/>
+	<Point x="461" y="3624"/>
+	<Point x="833" y="3621"/>
+	<Point x="866" y="3635"/>
+	<Point x="887" y="3624"/>
+	<Point x="1272" y="3618"/>
+	<Point x="1291" y="3632"/>
+	<Point x="1326" y="3618"/>
+	<Point x="2116" y="3612"/>
+	<Point x="2149" y="3627"/>
+	<Point x="2171" y="3612"/>
+	<Point x="2347" y="3607"/>
+	<Point x="2377" y="3616"/>
+	<Point x="2407" y="3599"/>
+	<Point x="2483" y="3591"/>
+	<Point x="2484" y="3466"/>
+	<Point x="2261" y="3465"/>
+	<Point x="2250" y="3450"/>
+	<Point x="2218" y="3443"/>
+	<Point x="2192" y="3454"/>
+	<Point x="838" y="3439"/>
+	<Point x="759" y="3439"/>
+	<Point x="732" y="3456"/>
+	<Point x="652" y="3458"/>
+	<Point x="627" y="3450"/>
+	<Point x="594" y="3464"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>18 Todo ee agregado, ò cúmulo de Voces es lo que conituye, y
+forma la Léngua Caeana: y aſsi como un montón de trigo, aunque</Unicode></TextEquiv></TextRegion></Page></PcGts>

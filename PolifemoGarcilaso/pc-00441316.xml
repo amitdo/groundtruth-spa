@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441316">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T04:25:34</Created>
+	<LastChange>2011-05-12T13:40:12</LastChange></Metadata>
+	<Page imageFilename="00441316.tif" imageWidth="1444" imageHeight="2304">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="144" y="189"/>
+	<Point x="203" y="168"/>
+	<Point x="248" y="163"/>
+	<Point x="1275" y="158"/>
+	<Point x="1313" y="762"/>
+	<Point x="211" y="732"/>
+	<Point x="162" y="713"/>
+	<Point x="165" y="231"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De Prouincias y Reynos coronada
+La frente erige, para ver dichoſa
+La luz, en tantos glos deeada,
+Ilurar ſu eminencia populoſa.
+Sucedan ya de tu virtud ſagrada
+Candidos rayos, que del Alua hermoſa,
+Al purpureo eſplendor ſuituidos,
+Admiren dulcemente los ſentidos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="186" y="786"/>
+	<Point x="172" y="775"/>
+	<Point x="1279" y="813"/>
+	<Point x="1306" y="820"/>
+	<Point x="1306" y="1341"/>
+	<Point x="1313" y="1358"/>
+	<Point x="1313" y="1368"/>
+	<Point x="1300" y="1389"/>
+	<Point x="241" y="1372"/>
+	<Point x="196" y="865"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Niegate al Betis, que triunfante agora
+En ocio embuelue tu mayor fortuna,
+Que el Sol no empre las arenas dora
+Que alegres fueron ſu primera cuna.
+Dexa tu Oriente, y aquien oy te ignora,
+Prouido comunica luz alguna,
+Mientras conguen tus aciertos ſolos
+Honras conformes en cõtrarios Polos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="206" y="1396"/>
+	<Point x="1330" y="1416"/>
+	<Point x="1316" y="1969"/>
+	<Point x="1306" y="1991"/>
+	<Point x="1238" y="1969"/>
+	<Point x="1148" y="1997"/>
+	<Point x="206" y="2013"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Logren dichoſamente las naciones,
+O en blanda ſugecion, ò ya en hiorias.
+El fruto de tus inclitas acciones,
+O la clara noticia de tus glorias:
+Y en quanto feliciſsimo diſpones
+Eternizartan celebres memorias,
+Oye tus alabanças en mi canto,
+Si me concede tu modeia tanto.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1168" y="2006"/>
+	<Point x="1177" y="2006"/>
+	<Point x="1179" y="2001"/>
+	<Point x="1214" y="1997"/>
+	<Point x="1280" y="2006"/>
+	<Point x="1324" y="2072"/>
+	<Point x="1177" y="2079"/>
+	<Point x="1177" y="2077"/>
+	<Point x="1168" y="2076"/>
+	<Point x="1137" y="2020"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Oye</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="396" y="2224"/>
+	<Point x="400" y="2175"/>
+	<Point x="437" y="2182"/>
+	<Point x="862" y="2196"/>
+	<Point x="879" y="2193"/>
+	<Point x="1013" y="2182"/>
+	<Point x="1041" y="2272"/>
+	<Point x="1041" y="2268"/>
+	<Point x="406" y="2279"/>
+	<Point x="395" y="2265"/>
+	<Point x="393" y="2248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444279">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:20:03</Created>
+	<LastChange>2011-12-19T11:39:35</LastChange></Metadata>
+	<Page imageFilename="00444279.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1397" y="2661"/>
+	<Point x="1644" y="2661"/>
+	<Point x="1644" y="2745"/>
+	<Point x="1397" y="2745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>el alma</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="619" y="3058"/>
+	<Point x="1583" y="3058"/>
+	<Point x="1583" y="3155"/>
+	<Point x="619" y="3155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="125" y="263"/>
+	<Point x="1686" y="263"/>
+	<Point x="1692" y="2655"/>
+	<Point x="1361" y="2656"/>
+	<Point x="1361" y="2678"/>
+	<Point x="134" y="2676"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>poder ſuﬀrir, ni era en mi mano, aunque yo
+querria, y mas lo procuraua de dexar de pen-
+ſar en el, cõ todo obedecia quãdo podia, mas
+podia poco o no nada en eo. Y el Señor nun
+ca me lo quito, mas aunque me dezia lo hi-
+ziee, aegurauame por otro cabo, y enſeña-
+uame lo que les auia de dezir, y an lo haze
+aora, y dauame tan baantes razones, que a
+mi me hazia toda ſeguridad. Deſde a poco
+tiempo començo ſu Magead, como me lo
+tenia prometido, a ſeñalar mas que era el, cre-
+ciendo en mi vn amor tan grande de Dios,
+que no ſabia quien me le ponia, porque era
+muy ſobrenatural, ni yo le procuraua. Via me
+morir con deeo de ver a Dios, y no ſabia
+adonde auia de buſcar ea vida, no era con
+la muerte. Dauanme vnos impetus grandes
+dee amor, que aunque no eran tan inſuf-
+frideros, como los que ya otra vez he dicho,
+ni de tanto valor, yo no ſabia que me hazer,
+porque nada me ſatisfazia, ni cabia en mi,
+no que verdaderamente me parecia ſe me
+arrancaua el alma. O artiﬁcio ſoberano del
+Señor, que induria tan delicada, haziades
+con vuera eſclaua miſerable, aſcondiades
+os de mi, y apretauades me con vuero a-
+mor, con vna muerte tan ſabroſa que nunca</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="1518" y="164"/>
+	<Point x="1663" y="164"/>
+	<Point x="1663" y="250"/>
+	<Point x="1518" y="250"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>351</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="286" y="140"/>
+	<Point x="1455" y="140"/>
+	<Point x="1455" y="243"/>
+	<Point x="286" y="243"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion></Page></PcGts>

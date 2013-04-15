@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440218">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T23:29:57</Created>
+	<LastChange>2011-12-19T11:38:51</LastChange></Metadata>
+	<Page imageFilename="00440218.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r10" index="0"/>
+	<RegionRefIndexed regionRef="r25" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="335" y="1483"/>
+	<Point x="2214" y="1483"/>
+	<Point x="2214" y="1871"/>
+	<Point x="335" y="1871"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tabla de las inclinaciones de los lados
+Occidentàles de la Série de triangulos
+reſpeto del Meridiano.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="catch-word">
+	<Coords>
+	<Point x="2042" y="3409"/>
+	<Point x="2230" y="3409"/>
+	<Point x="2230" y="3521"/>
+	<Point x="2042" y="3521"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CA‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="credit">
+	<Coords>
+	<Point x="966" y="4002"/>
+	<Point x="1973" y="4002"/>
+	<Point x="1973" y="4102"/>
+	<Point x="966" y="4102"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="header">
+	<Coords>
+	<Point x="790" y="390"/>
+	<Point x="1783" y="390"/>
+	<Point x="1783" y="476"/>
+	<Point x="790" y="476"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="page-number">
+	<Coords>
+	<Point x="2046" y="420"/>
+	<Point x="2178" y="420"/>
+	<Point x="2173" y="476"/>
+	<Point x="2151" y="494"/>
+	<Point x="2083" y="494"/>
+	<Point x="2046" y="488"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>199</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r1">
+	<Coords>
+	<Point x="284" y="480"/>
+	<Point x="1131" y="481"/>
+	<Point x="1813" y="492"/>
+	<Point x="2054" y="496"/>
+	<Point x="2096" y="502"/>
+	<Point x="2209" y="491"/>
+	<Point x="2302" y="473"/>
+	<Point x="2302" y="1466"/>
+	<Point x="285" y="1466"/></Coords></TableRegion>
+	<TableRegion id="r19">
+	<Coords>
+	<Point x="297" y="1890"/>
+	<Point x="2278" y="1890"/>
+	<Point x="2278" y="3378"/>
+	<Point x="297" y="3378"/></Coords></TableRegion></Page></PcGts>

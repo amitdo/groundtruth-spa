@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438769">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:33:52</Created>
+	<LastChange>2011-06-24T14:04:16</LastChange></Metadata>
+	<Page imageFilename="00438769.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="389" y="76"/>
+	<Point x="1066" y="62"/>
+	<Point x="1066" y="165"/>
+	<Point x="388" y="166"/>
+	<Point x="388" y="149"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBRAS DE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="139" y="172"/>
+	<Point x="1367" y="172"/>
+	<Point x="1343" y="1402"/>
+	<Point x="1340" y="1467"/>
+	<Point x="1329" y="1537"/>
+	<Point x="1226" y="1539"/>
+	<Point x="1076" y="1526"/>
+	<Point x="894" y="1536"/>
+	<Point x="726" y="1547"/>
+	<Point x="591" y="1522"/>
+	<Point x="475" y="1535"/>
+	<Point x="428" y="1543"/>
+	<Point x="393" y="1537"/>
+	<Point x="122" y="1515"/>
+	<Point x="110" y="1452"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>como ya en los efeos ſe ha morado,
+orarè de mi mal las ocaones,
+ſabra el mundo la cauſa porque muero,
+y moriere a lo menos confeado,
+pues ſoy por los cabeos arrarado
+de vn tan deſatinado penſamiento
+que por agudas peñas peligroſas,
+por matas eſpinoſas
+corre con ligereza mas que el viento,
+bañando de mi ſangre la carrera:
+y para mas deſpacio ator mentarme,
+euame alguna vez por entre ﬂores,
+a do de mis tormentos, y dolores
+deſcanſo, y deos vẽgò a no acordarme:
+mas el a mas deſcanſo no me eſpera:
+antes como me vee dea manera,
+con vn nueuo furor, y deſatino
+torna a ſeguir el aſpero camino.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="477" y="2094"/>
+	<Point x="994" y="2094"/>
+	<Point x="994" y="2140"/>
+	<Point x="477" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="29" y="1569"/>
+	<Point x="12" y="1992"/>
+	<Point x="658" y="2011"/>
+	<Point x="1024" y="2005"/>
+	<Point x="1129" y="1983"/>
+	<Point x="1350" y="1974"/>
+	<Point x="1297" y="1552"/>
+	<Point x="1041" y="1530"/>
+	<Point x="726" y="1549"/>
+	<Point x="622" y="1531"/>
+	<Point x="592" y="1525"/>
+	<Point x="523" y="1533"/>
+	<Point x="424" y="1546"/>
+	<Point x="246" y="1531"/>
+	<Point x="62" y="1520"/>
+	<Point x="42" y="1530"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No vine por mis pies a tantos daños,
+fuerças de mi deino me traxeron:
+y a la  me atormenta me entregaron,
+mi razon, y juyzio bien creyeron
+guardarme como en los paados años
+de otros graues peligros me guardarõ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1145" y="1995"/>
+	<Point x="1145" y="2077"/>
+	<Point x="1327" y="2077"/>
+	<Point x="1327" y="1995"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mas</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="marginalia">
+	<Coords>
+	<Point x="0" y="1177"/>
+	<Point x="0" y="1340"/>
+	<Point x="70" y="1335"/>
+	<Point x="89" y="1255"/>
+	<Point x="70" y="1190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>43</Unicode></TextEquiv></TextRegion></Page></PcGts>

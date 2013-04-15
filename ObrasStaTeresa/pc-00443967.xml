@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443967">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:42:06</Created>
+	<LastChange>2011-12-19T11:39:17</LastChange></Metadata>
+	<Page imageFilename="00443967.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r10" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="377" y="67"/>
+	<Point x="1515" y="67"/>
+	<Point x="1515" y="205"/>
+	<Point x="377" y="205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="215" y="220"/>
+	<Point x="1745" y="222"/>
+	<Point x="1747" y="750"/>
+	<Point x="207" y="756"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>me confeaua, y de otras perſonas, en
+muchas coſas, me dezian no yua contra
+Dios. Dormia vna monja con las que ea‐
+uamos ſeglares, que por medio ſuyo pa‐
+rece quiſo el Señor començar a dar me
+luz como aora dire.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="190" y="854"/>
+	<Point x="1750" y="867"/>
+	<Point x="1727" y="1396"/>
+	<Point x="1232" y="1420"/>
+	<Point x="215" y="1400"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP. III. En que trata como fue parte
+la buena compañia para tornar a deſpertar
+ſus deeos, y porque manera començo el
+Señor a darle alguna luz delenga‐
+ño que auia traydo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1215" y="2628"/>
+	<Point x="1245" y="2624"/>
+	<Point x="1310" y="2646"/>
+	<Point x="1337" y="2634"/>
+	<Point x="1391" y="2628"/>
+	<Point x="1391" y="2720"/>
+	<Point x="1215" y="2720"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C 4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="drop-capital">
+	<Coords>
+	<Point x="238" y="1444"/>
+	<Point x="518" y="1442"/>
+	<Point x="513" y="1731"/>
+	<Point x="311" y="1732"/>
+	<Point x="278" y="1737"/>
+	<Point x="236" y="1730"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="604" y="3010"/>
+	<Point x="1587" y="3010"/>
+	<Point x="1587" y="3154"/>
+	<Point x="604" y="3154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="1601" y="128"/>
+	<Point x="1601" y="209"/>
+	<Point x="1739" y="209"/>
+	<Point x="1739" y="128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>39</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="522" y="1742"/>
+	<Point x="521" y="1425"/>
+	<Point x="1770" y="1452"/>
+	<Point x="1754" y="2611"/>
+	<Point x="1407" y="2608"/>
+	<Point x="1308" y="2634"/>
+	<Point x="1264" y="2611"/>
+	<Point x="1200" y="2610"/>
+	<Point x="938" y="2631"/>
+	<Point x="230" y="2627"/>
+	<Point x="147" y="2058"/>
+	<Point x="214" y="1740"/>
+	<Point x="237" y="1739"/>
+	<Point x="307" y="1740"/>
+	<Point x="334" y="1747"/>
+	<Point x="352" y="1739"/>
+	<Point x="402" y="1738"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ves començando a guar de la bue
+na y ſana conuerſacion dea mon
+ja, holgauame de oyrla quan bien
+hablaua de Dios, porque era muy diſcreta, y
+ſana. Eo ami parecer en ningun tiempo
+dexe de holgarme de oyrlo. Comẽçome a cõ
+tar como ea auia venido a ſer monja por ſo
+lo leer lo que dize el Euangelio, muchos ſon
+los amados y pocos los elcogidos: dezia me
+el premio que daua el Señor a los que todo lo
+dexan por el. Començo ea buena com-
+pañia a deerrar las coumbres que auia
+hecho la mala, y a tornar a poner en mi</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="catch-word">
+	<Coords>
+	<Point x="1484" y="2621"/>
+	<Point x="1484" y="2728"/>
+	<Point x="1773" y="2728"/>
+	<Point x="1773" y="2621"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>penſa‐</Unicode></TextEquiv></TextRegion></Page></PcGts>

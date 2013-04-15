@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444030">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T00:49:48</Created>
+	<LastChange>2011-12-19T11:39:21</LastChange></Metadata>
+	<Page imageFilename="00444030.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="892" y="82"/>
+	<Point x="1599" y="82"/>
+	<Point x="1599" y="205"/>
+	<Point x="892" y="205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="410" y="226"/>
+	<Point x="2069" y="226"/>
+	<Point x="2069" y="2632"/>
+	<Point x="410" y="2632"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>oﬀenden les ea tambiẽ la oracion y les estã
+necearia, y no puede nadie hablar con ver‐
+dad daño que pueda hazer, que no fuera ma
+yor el no tenerla, los que ruen a Dios y le
+quieren ſeruir por lo han de dexar? Por cier‐
+to  no es por paar con mas trabajo los tra‐
+bajos de la vida, yo no lo puedo entender, y
+por cerrar a Dios la puerta para que en ea
+no les de contento. Cierto los he laima;  a
+ſu coa ruen a Dios? Porque a los que tratã
+la oracion el miſmo Señor les haze la coa,
+pues por vn poco de trabajo daguo, para
+cõ el ſe paen los trabajos. Por deos guos
+que el Señor da a los que perſeueran en la
+oracion ſe tratara mucho, no digo aqui nada,
+ſolo digo que para eas mercedes tan gran‐
+des que me ha hecho a mi es la puerta la ora-
+cion: cerrada ea, no ſe como las hara, por‐
+que aunque quiera entrar a regalarſe con va
+alma y regalarla no ay por donde, que la quie
+re ſola y limpia y cõ gana de recebirlas,  le
+ponemos muchos tropieços, y no ponemos
+nada en quitarlos, como ha de venir a noſo-
+tros: y queremos nos haga Dios grandes mer
+cedes? Para que vean ſu miſericordia, y el
+gran bien que fue para mi no auer dexado
+la oracion y licion, dire aqui pues va tan‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="610" y="3053"/>
+	<Point x="1573" y="3053"/>
+	<Point x="1573" y="3162"/>
+	<Point x="610" y="3162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="446" y="116"/>
+	<Point x="446" y="196"/>
+	<Point x="614" y="196"/>
+	<Point x="614" y="116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>102</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1841" y="2642"/>
+	<Point x="1841" y="2721"/>
+	<Point x="1978" y="2721"/>
+	<Point x="1978" y="2642"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>to</Unicode></TextEquiv></TextRegion></Page></PcGts>

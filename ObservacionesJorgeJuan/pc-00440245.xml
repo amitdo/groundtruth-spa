@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440245">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T23:34:31</Created>
+	<LastChange>2011-12-19T11:38:52</LastChange></Metadata>
+	<Page imageFilename="00440245.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r10" index="0"/>
+	<RegionRefIndexed regionRef="r11" index="1"/>
+	<RegionRefIndexed regionRef="r22" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="785" y="373"/>
+	<Point x="951" y="373"/>
+	<Point x="951" y="480"/>
+	<Point x="785" y="480"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>226</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="1270" y="375"/>
+	<Point x="2058" y="375"/>
+	<Point x="2058" y="468"/>
+	<Point x="1270" y="468"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="702" y="1117"/>
+	<Point x="2634" y="1117"/>
+	<Point x="2634" y="1451"/>
+	<Point x="702" y="1451"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Por eos triangulos, y la Baſe de Yaruquì, que tomò
+Don Antonio de Uoa de 6274 toeſas, calculò èe los lados
+de la Série de triangulos en la forma guiente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="746" y="1478"/>
+	<Point x="2565" y="1478"/>
+	<Point x="2565" y="1760"/>
+	<Point x="746" y="1760"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tabla de la magnitud de los lados de la
+Série de triangulos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="credit">
+	<Coords>
+	<Point x="963" y="3993"/>
+	<Point x="1960" y="3993"/>
+	<Point x="1960" y="4100"/>
+	<Point x="963" y="4100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r7">
+	<Coords>
+	<Point x="697" y="521"/>
+	<Point x="2634" y="521"/>
+	<Point x="2634" y="1068"/>
+	<Point x="697" y="1068"/></Coords></TableRegion>
+	<TableRegion id="r19">
+	<Coords>
+	<Point x="704" y="1778"/>
+	<Point x="2485" y="1778"/>
+	<Point x="2461" y="3383"/>
+	<Point x="2430" y="3403"/>
+	<Point x="2435" y="3441"/>
+	<Point x="704" y="3463"/></Coords></TableRegion>
+	<TextRegion id="r22" type="catch-word">
+	<Coords>
+	<Point x="2469" y="3421"/>
+	<Point x="2471" y="3534"/>
+	<Point x="2614" y="3536"/>
+	<Point x="2614" y="3424"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mi-</Unicode></TextEquiv></TextRegion></Page></PcGts>

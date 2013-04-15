@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440197">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T18:26:04</Created>
+	<LastChange>2011-12-19T11:38:49</LastChange></Metadata>
+	<Page imageFilename="00440197.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/>
+	<RegionRefIndexed regionRef="r11" index="2"/>
+	<RegionRefIndexed regionRef="r13" index="3"/>
+	<RegionRefIndexed regionRef="r14" index="4"/>
+	<RegionRefIndexed regionRef="r15" index="5"/>
+	<RegionRefIndexed regionRef="r17" index="6"/>
+	<RegionRefIndexed regionRef="r22" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r22" type="catch-word">
+	<Coords>
+	<Point x="2445" y="3412"/>
+	<Point x="2590" y="3412"/>
+	<Point x="2590" y="3505"/>
+	<Point x="2445" y="3505"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="credit">
+	<Coords>
+	<Point x="987" y="3995"/>
+	<Point x="1965" y="3995"/>
+	<Point x="1965" y="4102"/>
+	<Point x="987" y="4102"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="page-number">
+	<Coords>
+	<Point x="752" y="357"/>
+	<Point x="750" y="455"/>
+	<Point x="926" y="454"/>
+	<Point x="925" y="357"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>178</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="header">
+	<Coords>
+	<Point x="1290" y="350"/>
+	<Point x="1290" y="447"/>
+	<Point x="2035" y="447"/>
+	<Point x="2035" y="350"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r31">
+	<Coords>
+	<Point x="643" y="462"/>
+	<Point x="960" y="457"/>
+	<Point x="2605" y="455"/>
+	<Point x="2542" y="848"/>
+	<Point x="2021" y="829"/>
+	<Point x="1408" y="800"/>
+	<Point x="1391" y="821"/>
+	<Point x="1167" y="821"/>
+	<Point x="1106" y="818"/>
+	<Point x="1083" y="837"/>
+	<Point x="973" y="837"/>
+	<Point x="770" y="832"/>
+	<Point x="562" y="808"/></Coords></TableRegion>
+	<TableRegion id="r33">
+	<Coords>
+	<Point x="627" y="1108"/>
+	<Point x="768" y="1114"/>
+	<Point x="963" y="1117"/>
+	<Point x="1004" y="1114"/>
+	<Point x="1200" y="1123"/>
+	<Point x="1319" y="1119"/>
+	<Point x="1544" y="1119"/>
+	<Point x="1723" y="1127"/>
+	<Point x="2172" y="1114"/>
+	<Point x="2463" y="1106"/>
+	<Point x="2514" y="1114"/>
+	<Point x="2602" y="1121"/>
+	<Point x="2561" y="1688"/>
+	<Point x="2419" y="1698"/>
+	<Point x="2119" y="1697"/>
+	<Point x="2010" y="1680"/>
+	<Point x="1935" y="1685"/>
+	<Point x="1842" y="1676"/>
+	<Point x="1383" y="1680"/>
+	<Point x="1119" y="1682"/>
+	<Point x="968" y="1689"/>
+	<Point x="831" y="1686"/>
+	<Point x="813" y="1684"/>
+	<Point x="786" y="1682"/>
+	<Point x="623" y="1695"/></Coords></TableRegion>
+	<TableRegion id="r12">
+	<Coords>
+	<Point x="600" y="1965"/>
+	<Point x="1187" y="1967"/>
+	<Point x="1305" y="1970"/>
+	<Point x="1472" y="1970"/>
+	<Point x="1602" y="1985"/>
+	<Point x="1652" y="1975"/>
+	<Point x="1760" y="1980"/>
+	<Point x="2022" y="1977"/>
+	<Point x="2615" y="1967"/>
+	<Point x="2604" y="2363"/>
+	<Point x="2359" y="2365"/>
+	<Point x="2330" y="2361"/>
+	<Point x="2296" y="2362"/>
+	<Point x="2273" y="2353"/>
+	<Point x="1983" y="2355"/>
+	<Point x="1522" y="2348"/>
+	<Point x="818" y="2350"/>
+	<Point x="604" y="2355"/></Coords></TableRegion>
+	<TableRegion id="r16">
+	<Coords>
+	<Point x="585" y="2620"/>
+	<Point x="1468" y="2634"/>
+	<Point x="1617" y="2645"/>
+	<Point x="1731" y="2645"/>
+	<Point x="2594" y="2648"/>
+	<Point x="2557" y="3228"/>
+	<Point x="1613" y="3200"/>
+	<Point x="1144" y="3203"/>
+	<Point x="977" y="3206"/>
+	<Point x="593" y="3188"/></Coords></TableRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="697" y="848"/>
+	<Point x="693" y="1010"/>
+	<Point x="900" y="1018"/>
+	<Point x="1367" y="1018"/>
+	<Point x="1604" y="1027"/>
+	<Point x="2438" y="1010"/>
+	<Point x="2444" y="885"/>
+	<Point x="2295" y="852"/>
+	<Point x="2028" y="834"/>
+	<Point x="1277" y="835"/>
+	<Point x="1178" y="846"/>
+	<Point x="1115" y="840"/>
+	<Point x="967" y="840"/>
+	<Point x="824" y="838"/>
+	<Point x="795" y="844"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>90° 08' 44": 89° 18' 38½" = (KN) 16767.152:
+(KN horizontàl) 16765.992</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1185" y="1038"/>
+	<Point x="1178" y="1108"/>
+	<Point x="1725" y="1117"/>
+	<Point x="2059" y="1108"/>
+	<Point x="2097" y="1036"/>
+	<Point x="1557" y="1036"/>
+	<Point x="1389" y="1027"/>
+	<Point x="1271" y="1028"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lado NP = 13218.061</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="678" y="1711"/>
+	<Point x="784" y="1689"/>
+	<Point x="808" y="1690"/>
+	<Point x="976" y="1694"/>
+	<Point x="1108" y="1690"/>
+	<Point x="1308" y="1689"/>
+	<Point x="1460" y="1691"/>
+	<Point x="1796" y="1691"/>
+	<Point x="2008" y="1705"/>
+	<Point x="2380" y="1702"/>
+	<Point x="2571" y="1719"/>
+	<Point x="2609" y="1871"/>
+	<Point x="1812" y="1878"/>
+	<Point x="669" y="1864"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>90° 06' 53": 89° 19' 37" = (NP) 13218.061:
+(NP horizontàl) 13217.175</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1172" y="1880"/>
+	<Point x="1145" y="1948"/>
+	<Point x="1240" y="1952"/>
+	<Point x="1724" y="1972"/>
+	<Point x="1815" y="1973"/>
+	<Point x="1940" y="1973"/>
+	<Point x="2048" y="1968"/>
+	<Point x="2093" y="1906"/>
+	<Point x="1478" y="1884"/>
+	<Point x="1353" y="1881"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lado PR = 6775.772</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="677" y="2365"/>
+	<Point x="663" y="2526"/>
+	<Point x="1751" y="2541"/>
+	<Point x="2397" y="2538"/>
+	<Point x="2414" y="2379"/>
+	<Point x="1645" y="2355"/>
+	<Point x="1479" y="2354"/>
+	<Point x="1140" y="2352"/>
+	<Point x="829" y="2355"/>
+	<Point x="815" y="2351"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>90° 03' 31¾": 86° 23' 21½" = (PR) 6775.772:
+(PR horizontàl) 6762.335</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1168" y="2544"/>
+	<Point x="1168" y="2613"/>
+	<Point x="1786" y="2638"/>
+	<Point x="2082" y="2640"/>
+	<Point x="2088" y="2553"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lado RT = 16524.693</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="673" y="3211"/>
+	<Point x="684" y="3388"/>
+	<Point x="2342" y="3433"/>
+	<Point x="2364" y="3235"/>
+	<Point x="1466" y="3211"/>
+	<Point x="1136" y="3208"/>
+	<Point x="800" y="3205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>90° 08' 36½": 89° 20' 34" = (RT) 16524.693:
+(RT horizontàl) 16523.658</Unicode></TextEquiv></TextRegion></Page></PcGts>

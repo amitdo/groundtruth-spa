@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441770">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T04:17:23</Created>
+	<LastChange>2011-07-05T14:26:29</LastChange></Metadata>
+	<Page imageFilename="00441770.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r13" index="0"/>
+	<RegionRefIndexed regionRef="r24" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="676" y="140"/>
+	<Point x="1233" y="147"/>
+	<Point x="1233" y="221"/>
+	<Point x="676" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MVSA III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="credit">
+	<Coords>
+	<Point x="688" y="3128"/>
+	<Point x="1464" y="3126"/>
+	<Point x="1478" y="3204"/>
+	<Point x="690" y="3195"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="footnote">
+	<Coords>
+	<Point x="1590" y="2538"/>
+	<Point x="1590" y="2830"/>
+	<Point x="1880" y="2830"/>
+	<Point x="1880" y="2538"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* Si io ſue
+ra qual di-
+funta Tor-
+tola.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="catch-word">
+	<Coords>
+	<Point x="1626" y="2888"/>
+	<Point x="1626" y="2995"/>
+	<Point x="1819" y="2995"/>
+	<Point x="1819" y="2888"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TV-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="footnote">
+	<Coords>
+	<Point x="1583" y="1673"/>
+	<Point x="1583" y="1940"/>
+	<Point x="1907" y="1940"/>
+	<Point x="1907" y="1673"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* En don-
+de oraba
+al conſor-
+te.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="326" y="260"/>
+	<Point x="359" y="240"/>
+	<Point x="995" y="247"/>
+	<Point x="1638" y="226"/>
+	<Point x="1530" y="1611"/>
+	<Point x="1576" y="2873"/>
+	<Point x="326" y="2873"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bien mas que el aire, frequentae el fuego.
+No dio mortal herida
+Aiuda a tu dolor contra tu vida,
+Para eterno repoſo:
+Que io sè, que a tu eſpiritu amoroſo
+Vino la Muerte airada,
+En tu deſeo mas preo, que en ſu vuelo,
+I mui menos temida, que rogada:
+Pues de tanto dolor, i deſconſuelo,
+No pudo haber tan invidioſa mano,
+Que a laima, o reſpeto ſe negaſe.
+Ni caçador que entraſe
+En ee verde ano,
+A quien jua piedad de tus ſuſpiros
+No burlaſe los tiros.
+Piedad de todos alcançar ſupie,
+I de ti no pudie.
+I endo Ave ligera,
+Para ti ſola te volvie Fiera.
+Darè al fuego ee * leño,
+Dividido en pedaços
+Seguirà en humo a l' alma de ſu dueño.
+Luego regalarè con mil olores
+Los aires, donde en mucos abraços
+Goça blandos amores,
+En paciﬁca calma,
+Iunta al marido ſpiritu tu alma.
+Recibe las exequias de el que oie,
+Quexarſe de Amarilis tantas veces;
+No como las mereces,
+Ni como las hicie;
+Pues quando corto quedo,
+Mas * Tortola difunta hacer pudiera,
+Que vivo Amante, haciendo quanto puedo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="page-number">
+	<Coords>
+	<Point x="1716" y="123"/>
+	<Point x="1716" y="252"/>
+	<Point x="1902" y="252"/>
+	<Point x="1902" y="123"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>175</Unicode></TextEquiv></TextRegion></Page></PcGts>

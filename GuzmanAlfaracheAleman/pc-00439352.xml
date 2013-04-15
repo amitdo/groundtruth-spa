@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439352">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T01:32:45</Created>
+	<LastChange>2011-05-12T13:40:02</LastChange></Metadata>
+	<Page imageFilename="00439352.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="592" y="68"/>
+	<Point x="1500" y="79"/>
+	<Point x="1548" y="83"/>
+	<Point x="1540" y="155"/>
+	<Point x="583" y="155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="255" y="188"/>
+	<Point x="315" y="192"/>
+	<Point x="363" y="191"/>
+	<Point x="396" y="178"/>
+	<Point x="547" y="187"/>
+	<Point x="611" y="164"/>
+	<Point x="1707" y="162"/>
+	<Point x="1707" y="2600"/>
+	<Point x="1657" y="2603"/>
+	<Point x="1521" y="2584"/>
+	<Point x="1480" y="2604"/>
+	<Point x="1454" y="2606"/>
+	<Point x="500" y="2600"/>
+	<Point x="447" y="2627"/>
+	<Point x="295" y="2600"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tad, que quando en la primera edad, en el eado de
+inocencia, eran ſeñores abſolutos los que governavan
+con ſugecion, y tenian en paz toda la fabrica, quedaron
+eſclavos, obedientes deſpues del primer pecado, y por
+miniros de aquea tyrania. Luego ſon favorecidos del
+ciego, y depravado entendimiento, y ſedientos de ſu
+antojo, ſe abalançan de pechos por el ſuelo, à bever las
+aguas de ſus guos. Corren como alcones con capiro-
+tes, ya por lo mas levantado de los ayres, ya por lo eſ-
+peo de los boſques, no conociendo el venidero peli-
+gro, ni temiendo el daño cierto. Aſ nunca reparan en
+diancia de tiempo que ſe les ponga delante, por la qual
+cauſa es de amor impaciente, y hizo tales efeos en mi.
+Bolvime à caſar ſegunda vez, muy con mi guo, y tanto
+que tuve por cierto que nunca por mi ſe començara el
+tocino del parayſo, y que fuera el hombre mas bien
+aventurado de la tierra. Nunca me paſsò por la imagi-
+nacion conderar entonces que aquel ſacramento lo de-
+viera procurar para ſolo el ſervicio y gloria de Dios,
+perpetuando mi eſpecie, mediante la ſuceſon ſolo pro-
+curè la deleacion. Menos dì lugar al entendimiento
+que me aconſejae de lo que el bien ſabia, ni le quiſe
+oyr, cerrè los ojos à todos, deſpedì à la razon, maltratè
+à la verdad: porque me dixo, que caſando con hermo-
+ſa, era de neceſdad aver de ofrecerſeme cuydados, por
+aver de ſer comun. Ultimamente de mal conſejado,
+conſeguì con mi guo un mal bien deeado, cegaron-
+me dotes naturales, dieronme hechizos, gracia y bee-
+za, tan propio de mi eſpoſa, y n algun artiﬁcio yerra
+el que pienſa que pueda parecer algo bien con agena
+compoura, pues lo ageno ſe lo dà, y luego que ſe lo
+buelve, buelve lo feo à quedarſe con ſu fealdad. Tuve
+dias muy alegres, que los que no gozan de ſuegra, no
+gozan de coſa buena. Tratavame como à verdadero
+hĳo, buſcando por quantas vias podia mi regalo; no
+trujo hueſped bocado bueno à caſa, que no me alcançae
+parte, ni ea lo pudo aver que no me lo comprae; y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1544" y="2609"/>
+	<Point x="1709" y="2609"/>
+	<Point x="1709" y="2669"/>
+	<Point x="1544" y="2669"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>como</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="533" y="2851"/>
+	<Point x="1310" y="2851"/>
+	<Point x="1310" y="2943"/>
+	<Point x="533" y="2943"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="302" y="102"/>
+	<Point x="302" y="173"/>
+	<Point x="336" y="181"/>
+	<Point x="394" y="161"/>
+	<Point x="448" y="153"/>
+	<Point x="438" y="102"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>322</Unicode></TextEquiv></TextRegion></Page></PcGts>

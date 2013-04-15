@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444111">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:29:17</Created>
+	<LastChange>2011-12-19T11:39:26</LastChange></Metadata>
+	<Page imageFilename="00444111.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r9" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="313" y="26"/>
+	<Point x="1530" y="26"/>
+	<Point x="1530" y="210"/>
+	<Point x="313" y="210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="187" y="234"/>
+	<Point x="231" y="224"/>
+	<Point x="1727" y="227"/>
+	<Point x="1732" y="592"/>
+	<Point x="668" y="608"/>
+	<Point x="187" y="593"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dos, y perſonas muy ſantas aquien es razon
+ſe de credito, y no anden las almas tan fatiga‐
+das quando egaren aqui por la bondad del
+Señor como yo he andado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="164" y="671"/>
+	<Point x="1748" y="661"/>
+	<Point x="1702" y="1526"/>
+	<Point x="1038" y="1548"/>
+	<Point x="164" y="1523"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP. XVI. Trata tercer grado de ora‑
+cion, y va declarando coſas muy ſubidas,
+y lo que puede el alma que ega aqui,
+y los eﬀetos que hazen eas mercedes
+tan grandes del Señor, es muy para leuan-
+tar el ſpiritu en alabanças de Dios, y
+para gran conſuelo de quien e-
+gare aqui.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="484" y="1586"/>
+	<Point x="1721" y="1600"/>
+	<Point x="1719" y="2586"/>
+	<Point x="1377" y="2583"/>
+	<Point x="1309" y="2600"/>
+	<Point x="1247" y="2605"/>
+	<Point x="371" y="2623"/>
+	<Point x="185" y="2623"/>
+	<Point x="195" y="2209"/>
+	<Point x="175" y="1905"/>
+	<Point x="241" y="1899"/>
+	<Point x="343" y="1895"/>
+	<Point x="384" y="1900"/>
+	<Point x="494" y="1909"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Engamos aora a hablar de la ter‑
+cer agua con que ſe riega ea huer‑
+ta que es agua corriente de rio o
+de fuente, que ſe riega muy a menos traba-
+jo, aunque alguno da el encaminar el agua.
+Quiere el Señor aqui ayudar al hortela-
+no de manera que ca el es el hortela‑
+no, y el que lo haze todo. Es vn ſue‑
+ño de las potencias que ni del todo
+ſe pierden ni entienden como obran.
+El guo y ſuauidad y deleyte es mas</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="1284" y="2686"/>
+	<Point x="1282" y="2619"/>
+	<Point x="1288" y="2608"/>
+	<Point x="1362" y="2593"/>
+	<Point x="1459" y="2598"/>
+	<Point x="1459" y="2698"/>
+	<Point x="1302" y="2685"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M 4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="drop-capital">
+	<Coords>
+	<Point x="211" y="1628"/>
+	<Point x="476" y="1618"/>
+	<Point x="484" y="1897"/>
+	<Point x="350" y="1892"/>
+	<Point x="202" y="1895"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>V</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="622" y="3052"/>
+	<Point x="1564" y="3054"/>
+	<Point x="1568" y="3147"/>
+	<Point x="1413" y="3151"/>
+	<Point x="623" y="3138"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1550" y="94"/>
+	<Point x="1550" y="213"/>
+	<Point x="1716" y="213"/>
+	<Point x="1716" y="94"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>183</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1588" y="2594"/>
+	<Point x="1588" y="2681"/>
+	<Point x="1715" y="2681"/>
+	<Point x="1715" y="2594"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>n</Unicode></TextEquiv></TextRegion></Page></PcGts>

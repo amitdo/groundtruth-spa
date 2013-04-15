@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439104">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T14:00:35</Created>
+	<LastChange>2010-12-28T06:08:13</LastChange></Metadata>
+	<Page imageFilename="00439104.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r11" index="2"/>
+	<RegionRefIndexed regionRef="r13" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r9" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="509" y="57"/>
+	<Point x="1454" y="61"/>
+	<Point x="1450" y="159"/>
+	<Point x="509" y="159"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="461" y="202"/>
+	<Point x="1516" y="192"/>
+	<Point x="1519" y="304"/>
+	<Point x="459" y="304"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITULO VIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="333" y="347"/>
+	<Point x="1628" y="326"/>
+	<Point x="1635" y="652"/>
+	<Point x="319" y="666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En que Guznan de Alfarache reﬁere la hioria
+de los dos enamor ados Ozmin, y Daraxa,
+ſegun ſe la contaron.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="254" y="1028"/>
+	<Point x="1723" y="1030"/>
+	<Point x="1728" y="2600"/>
+	<Point x="1663" y="2599"/>
+	<Point x="1553" y="2616"/>
+	<Point x="247" y="2607"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eando los Reyes Catolicos, don Fernando y doña
+Iſabel, ſobre el cerco de Baça, fue tan peleado, que en
+mucho tiempo del, no ſe conociò ventaja en alguna de
+las partes; porque aunque la de los Reyes erafavorecida
+con el grande numero de gente, la de los Moros (aviendo
+muchos) eava fortalecida con la buena diſpocion del
+tio. La Reyna doña Iſabel ya aſia en Jaen, previniẽdo
+à las coſas necearias. Y el Rey doñ Fernando acudia
+perſonalmente à las del exercito. Tenialo dividido en dos
+partes: En la una, plantada la artieria, y encomendada à
+los Marqueſes de Cadiz, y Aguilar, à Luys Fernandez
+Portocarrero, ſeñor de Palma, y à los Comendadores de
+Alcantara, y Calatrava, con otros Capitanes y ſoldados.
+En la otra eava ſu alojamiento, con los mas cavaeros
+y gente de ſu exercito, teniendo la ciudad en medio cer-
+cada. Y  por ea pudieran travear, avia como dian-
+cia de media legun, del un real al otro, mas por ſerle impe-
+dido el pao, rodeavan otra media por la erra. Y aſ di-
+avan una legua. Y porque con diﬁcultad podia ſocor-
+rerſe, acordaron hazer ciertas cavas y caios, que el Rey
+por ſu perſona muy à menudo vitava, y aunque los mo-
+ros procuravã impedir no ſe hizieen, los Chriianos los
+apoyavan, defendiendolo valeroſamente, ſobre que cada
+dia no paſsò alguno, n que dos ò mas vezes eſcaramuçaſ-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="528" y="2866"/>
+	<Point x="1323" y="2864"/>
+	<Point x="1321" y="2904"/>
+	<Point x="1292" y="2940"/>
+	<Point x="564" y="2940"/>
+	<Point x="544" y="2943"/>
+	<Point x="538" y="2941"/>
+	<Point x="533" y="2943"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="285" y="83"/>
+	<Point x="285" y="185"/>
+	<Point x="385" y="185"/>
+	<Point x="385" y="83"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>70</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1562" y="2620"/>
+	<Point x="1571" y="2683"/>
+	<Point x="1700" y="2683"/>
+	<Point x="1705" y="2612"/>
+	<Point x="1612" y="2609"/>
+	<Point x="1585" y="2613"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſen,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="drop-capital">
+	<Coords>
+	<Point x="401" y="678"/>
+	<Point x="401" y="688"/>
+	<Point x="402" y="688"/>
+	<Point x="402" y="700"/>
+	<Point x="403" y="700"/>
+	<Point x="403" y="712"/>
+	<Point x="404" y="712"/>
+	<Point x="404" y="725"/>
+	<Point x="405" y="725"/>
+	<Point x="405" y="737"/>
+	<Point x="406" y="737"/>
+	<Point x="406" y="749"/>
+	<Point x="407" y="749"/>
+	<Point x="407" y="762"/>
+	<Point x="408" y="762"/>
+	<Point x="408" y="774"/>
+	<Point x="409" y="774"/>
+	<Point x="409" y="786"/>
+	<Point x="410" y="786"/>
+	<Point x="410" y="799"/>
+	<Point x="411" y="799"/>
+	<Point x="411" y="811"/>
+	<Point x="412" y="811"/>
+	<Point x="412" y="823"/>
+	<Point x="413" y="823"/>
+	<Point x="413" y="833"/>
+	<Point x="364" y="833"/>
+	<Point x="364" y="832"/>
+	<Point x="313" y="832"/>
+	<Point x="313" y="831"/>
+	<Point x="266" y="831"/>
+	<Point x="266" y="825"/>
+	<Point x="267" y="825"/>
+	<Point x="267" y="813"/>
+	<Point x="268" y="813"/>
+	<Point x="268" y="801"/>
+	<Point x="269" y="801"/>
+	<Point x="269" y="788"/>
+	<Point x="270" y="788"/>
+	<Point x="270" y="776"/>
+	<Point x="271" y="776"/>
+	<Point x="271" y="764"/>
+	<Point x="272" y="764"/>
+	<Point x="272" y="751"/>
+	<Point x="273" y="751"/>
+	<Point x="273" y="739"/>
+	<Point x="274" y="739"/>
+	<Point x="274" y="727"/>
+	<Point x="275" y="727"/>
+	<Point x="275" y="714"/>
+	<Point x="276" y="714"/>
+	<Point x="276" y="702"/>
+	<Point x="277" y="702"/>
+	<Point x="277" y="690"/>
+	<Point x="278" y="690"/>
+	<Point x="278" y="678"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1719" y="678"/>
+	<Point x="1719" y="1017"/>
+	<Point x="1474" y="1017"/>
+	<Point x="1474" y="1018"/>
+	<Point x="1229" y="1018"/>
+	<Point x="1229" y="1019"/>
+	<Point x="984" y="1019"/>
+	<Point x="984" y="1020"/>
+	<Point x="739" y="1020"/>
+	<Point x="739" y="1021"/>
+	<Point x="494" y="1021"/>
+	<Point x="494" y="1022"/>
+	<Point x="251" y="1022"/>
+	<Point x="251" y="1023"/>
+	<Point x="250" y="1023"/>
+	<Point x="250" y="1022"/>
+	<Point x="251" y="1022"/>
+	<Point x="251" y="1010"/>
+	<Point x="252" y="1010"/>
+	<Point x="252" y="998"/>
+	<Point x="253" y="998"/>
+	<Point x="253" y="986"/>
+	<Point x="254" y="986"/>
+	<Point x="254" y="973"/>
+	<Point x="255" y="973"/>
+	<Point x="255" y="961"/>
+	<Point x="256" y="961"/>
+	<Point x="256" y="949"/>
+	<Point x="257" y="949"/>
+	<Point x="257" y="936"/>
+	<Point x="258" y="936"/>
+	<Point x="258" y="924"/>
+	<Point x="259" y="924"/>
+	<Point x="259" y="912"/>
+	<Point x="260" y="912"/>
+	<Point x="260" y="899"/>
+	<Point x="261" y="899"/>
+	<Point x="261" y="887"/>
+	<Point x="262" y="887"/>
+	<Point x="262" y="875"/>
+	<Point x="263" y="875"/>
+	<Point x="263" y="862"/>
+	<Point x="264" y="862"/>
+	<Point x="264" y="850"/>
+	<Point x="265" y="850"/>
+	<Point x="265" y="838"/>
+	<Point x="266" y="838"/>
+	<Point x="266" y="833"/>
+	<Point x="311" y="833"/>
+	<Point x="311" y="834"/>
+	<Point x="362" y="834"/>
+	<Point x="362" y="835"/>
+	<Point x="413" y="835"/>
+	<Point x="413" y="836"/>
+	<Point x="416" y="836"/>
+	<Point x="416" y="833"/>
+	<Point x="415" y="833"/>
+	<Point x="415" y="821"/>
+	<Point x="414" y="821"/>
+	<Point x="414" y="809"/>
+	<Point x="413" y="809"/>
+	<Point x="413" y="797"/>
+	<Point x="412" y="797"/>
+	<Point x="412" y="784"/>
+	<Point x="411" y="784"/>
+	<Point x="411" y="772"/>
+	<Point x="410" y="772"/>
+	<Point x="410" y="760"/>
+	<Point x="409" y="760"/>
+	<Point x="409" y="747"/>
+	<Point x="408" y="747"/>
+	<Point x="408" y="735"/>
+	<Point x="407" y="735"/>
+	<Point x="407" y="723"/>
+	<Point x="406" y="723"/>
+	<Point x="406" y="710"/>
+	<Point x="405" y="710"/>
+	<Point x="405" y="698"/>
+	<Point x="404" y="698"/>
+	<Point x="404" y="686"/>
+	<Point x="403" y="686"/>
+	<Point x="403" y="678"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Uego como acabaron de rezar, que fue muy breve
+eſpacio, cerraron ſus Breviarios, y metidos en las al-
+forxas, endo de los demas con gran atencion oydo, co-
+mençò el buen Sacerdote la hioria prometida, en ea
+manera:</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444328">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:55:53</Created>
+	<LastChange>2011-12-19T11:39:38</LastChange></Metadata>
+	<Page imageFilename="00444328.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="969" y="111"/>
+	<Point x="1592" y="111"/>
+	<Point x="1597" y="235"/>
+	<Point x="959" y="235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="416" y="254"/>
+	<Point x="2078" y="245"/>
+	<Point x="2062" y="2683"/>
+	<Point x="1727" y="2693"/>
+	<Point x="462" y="2700"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dolor parece que nuero miſmo natural nos
+combida a cõpaſsion, y  es grande nos aprie
+ta a noſotros, pues ver a vn alma para n ﬁn
+en el ſummo trabajo de los trabajos, quien lo
+ha de poder ſuﬀrir, no ay coraçõ que lo eue
+n gran pena, pues aca con ſaber que en ﬁn
+ſe acabara con la vida, y que ya tiene termi-
+no aun nos mueue a tanta compaſsion, eo-
+tro que no le tiene no ſe como podemos ſoſ-
+ſegar, viendo tantas almas como eua cada
+dia el demonio congo. Eo tambien me ha-
+ze deear que en coſa que tanto importa no
+nos contentemos con menos de hazer todo
+lo que pudieremos, de nuera parte no dexe-
+mos nada, y plega al Señor ſea ſeruido de
+darnos gracia para eo. Quãdo yo condero
+que aunque era tan maliſsima, traya algun
+cuydado de ſeruir a Dios, y no hazia algunas
+coſas que veo que como quien no haze nada
+ſe las tragã en el mundo, y en ﬁn paaua grã-
+des enfermedades, y con mucha paciencia
+que me la daua el Señor, no era inclinada a
+murmurar, ni a dezir malde nadie, ni me pare
+ce podia querer mal a nadie, ni era codicioſa,
+ni embidia jamas me acuerdo tener, de ma-
+nera  fuee oﬀenſa graue del Señor, y otras
+algunas coſas, que aunque era tan ruyn, traya</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1791" y="2694"/>
+	<Point x="2039" y="2695"/>
+	<Point x="2016" y="2757"/>
+	<Point x="1792" y="2754"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>temor</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="603" y="3064"/>
+	<Point x="1584" y="3058"/>
+	<Point x="1578" y="3170"/>
+	<Point x="613" y="3154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="480" y="135"/>
+	<Point x="480" y="242"/>
+	<Point x="543" y="248"/>
+	<Point x="659" y="242"/>
+	<Point x="659" y="135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>400</Unicode></TextEquiv></TextRegion></Page></PcGts>

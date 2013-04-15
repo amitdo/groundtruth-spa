@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443576">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T22:03:27</Created>
+	<LastChange>2010-12-24T04:18:52</LastChange></Metadata>
+	<Page imageFilename="00443576.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r10" index="2"/>
+	<RegionRefIndexed regionRef="r12" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="603" y="103"/>
+	<Point x="1133" y="111"/>
+	<Point x="1125" y="231"/>
+	<Point x="609" y="222"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cancion Tercera.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="109" y="259"/>
+	<Point x="1644" y="261"/>
+	<Point x="1633" y="600"/>
+	<Point x="107" y="588"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſecretimas i delicadimas del Eſpiritu Santo, en que
+ſecretamente ena al alma de riquezas, dones i gra-
+cias; porque endo Dios, haze como Dios, i cbra co-
+mo Dios.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="668" y="648"/>
+	<Point x="810" y="648"/>
+	<Point x="1014" y="651"/>
+	<Point x="1014" y="740"/>
+	<Point x="838" y="742"/>
+	<Point x="656" y="742"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>§. VIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1325" y="2802"/>
+	<Point x="1527" y="2796"/>
+	<Point x="1582" y="2797"/>
+	<Point x="1579" y="2884"/>
+	<Point x="1324" y="2894"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ocupada</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="781" y="2930"/>
+	<Point x="1420" y="2928"/>
+	<Point x="1420" y="3000"/>
+	<Point x="784" y="3000"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1468" y="142"/>
+	<Point x="1468" y="242"/>
+	<Point x="1620" y="242"/>
+	<Point x="1620" y="142"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>565</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="drop-capital">
+	<Coords>
+	<Point x="88" y="801"/>
+	<Point x="233" y="801"/>
+	<Point x="233" y="908"/>
+	<Point x="234" y="908"/>
+	<Point x="234" y="1036"/>
+	<Point x="212" y="1036"/>
+	<Point x="212" y="1035"/>
+	<Point x="188" y="1035"/>
+	<Point x="188" y="1034"/>
+	<Point x="164" y="1034"/>
+	<Point x="164" y="1033"/>
+	<Point x="139" y="1033"/>
+	<Point x="139" y="1032"/>
+	<Point x="115" y="1032"/>
+	<Point x="115" y="1031"/>
+	<Point x="91" y="1031"/>
+	<Point x="91" y="1030"/>
+	<Point x="88" y="1030"/>
+	<Point x="88" y="800"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="600" y="801"/>
+	<Point x="600" y="802"/>
+	<Point x="1111" y="802"/>
+	<Point x="1111" y="803"/>
+	<Point x="1622" y="803"/>
+	<Point x="1621" y="803"/>
+	<Point x="1621" y="890"/>
+	<Point x="1620" y="890"/>
+	<Point x="1620" y="977"/>
+	<Point x="1619" y="977"/>
+	<Point x="1619" y="1064"/>
+	<Point x="1618" y="1064"/>
+	<Point x="1618" y="1150"/>
+	<Point x="1617" y="1150"/>
+	<Point x="1617" y="1237"/>
+	<Point x="1616" y="1237"/>
+	<Point x="1616" y="1324"/>
+	<Point x="1615" y="1324"/>
+	<Point x="1615" y="1411"/>
+	<Point x="1614" y="1411"/>
+	<Point x="1614" y="1497"/>
+	<Point x="1613" y="1497"/>
+	<Point x="1613" y="1584"/>
+	<Point x="1612" y="1584"/>
+	<Point x="1612" y="1671"/>
+	<Point x="1611" y="1671"/>
+	<Point x="1611" y="1758"/>
+	<Point x="1610" y="1758"/>
+	<Point x="1623" y="1773"/>
+	<Point x="1610" y="1844"/>
+	<Point x="1609" y="1844"/>
+	<Point x="1609" y="1931"/>
+	<Point x="1608" y="1931"/>
+	<Point x="1608" y="2018"/>
+	<Point x="1607" y="2018"/>
+	<Point x="1607" y="2105"/>
+	<Point x="1606" y="2105"/>
+	<Point x="1606" y="2191"/>
+	<Point x="1605" y="2191"/>
+	<Point x="1605" y="2278"/>
+	<Point x="1604" y="2278"/>
+	<Point x="1604" y="2365"/>
+	<Point x="1603" y="2365"/>
+	<Point x="1603" y="2452"/>
+	<Point x="1602" y="2452"/>
+	<Point x="1602" y="2538"/>
+	<Point x="1601" y="2538"/>
+	<Point x="1601" y="2625"/>
+	<Point x="1600" y="2625"/>
+	<Point x="1600" y="2712"/>
+	<Point x="1599" y="2712"/>
+	<Point x="1592" y="2784"/>
+	<Point x="1310" y="2787"/>
+	<Point x="1169" y="2805"/>
+	<Point x="1103" y="2786"/>
+	<Point x="1076" y="2802"/>
+	<Point x="1049" y="2804"/>
+	<Point x="1044" y="2789"/>
+	<Point x="88" y="2798"/>
+	<Point x="88" y="1032"/>
+	<Point x="89" y="1032"/>
+	<Point x="89" y="1033"/>
+	<Point x="113" y="1033"/>
+	<Point x="113" y="1034"/>
+	<Point x="137" y="1034"/>
+	<Point x="137" y="1035"/>
+	<Point x="162" y="1035"/>
+	<Point x="162" y="1036"/>
+	<Point x="186" y="1036"/>
+	<Point x="186" y="1037"/>
+	<Point x="210" y="1037"/>
+	<Point x="210" y="1038"/>
+	<Point x="234" y="1038"/>
+	<Point x="234" y="1039"/>
+	<Point x="237" y="1039"/>
+	<Point x="237" y="1036"/>
+	<Point x="236" y="1036"/>
+	<Point x="236" y="906"/>
+	<Point x="235" y="906"/>
+	<Point x="235" y="801"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Stos bienes pues, i eas grandes riquezas; eas
+ſubidas i delicadas unciones i noticias del Eſpiri-
+tu Santo, que por ſu delgadez i ſutil pureza, ni el
+alma, ni el que las trata las entiende, no ſolo el que las
+pone, para agradarſe mas del alma, congrandima fa-
+cilidad, no mas que con tantica obra que el alma quie-
+ra hazer de aplicar el ſentido, o apetito de querer ar
+alguna noticia, o jugo, ſe turban i impiden. Lo cual es
+grave daño, i gran dolor i laima. O grave caſo, i mu-
+cho para admirar! que no pareciendo el daño, ni ca
+nada lo que ſe interpuſo; es entonces mayor i de ma-
+yor dolor i manzia que otro, que pareciera mucho ma
+yor en almas comunes, que no ean en aque! pueo de
+tan ſubido eſmalte i matiz. Como  en un roro de eſ-
+tremada pintura tocaſe otra mano mui toſca con
+agenos i baxos colores, ſeria el daño mayor i mas no-
+table, que  borraſe otras muchas mas comunes, ¡ de
+mas laima i dolor. I con ſer ee daño tan grande, mas
+que ſe puede encarecer, es tan comun, que apenas ſe
+haarà un Maero eſpiritual, que no le haga en las al-
+mas, que dea manera comiença Dios a recoger en Cõ
+templacion. Porque cuantas vezes eà Dios ungiendo
+al alma con alguna uncion mui delgada de noticia amo
+roſa, ſerena, paziﬁca, ſolitaria, i mui agena del ſentido, i
+de lo que ſe puede penſar: i la tiene n poder guar, ni
+meditar coſa de arriba ni de abaxo; porque la trae Dios</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="signature-mark">
+	<Coords>
+	<Point x="958" y="2795"/>
+	<Point x="1031" y="2795"/>
+	<Point x="1040" y="2810"/>
+	<Point x="1081" y="2812"/>
+	<Point x="1109" y="2799"/>
+	<Point x="1136" y="2809"/>
+	<Point x="1135" y="2884"/>
+	<Point x="964" y="2880"/>
+	<Point x="958" y="2801"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nn 3</Unicode></TextEquiv></TextRegion></Page></PcGts>

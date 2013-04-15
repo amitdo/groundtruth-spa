@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440308">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T07:45:23</Created>
+	<LastChange>2011-12-19T11:38:58</LastChange></Metadata>
+	<Page imageFilename="00440308.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r1" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="drop-capital">
+	<Coords>
+	<Point x="479" y="1079"/>
+	<Point x="465" y="1272"/>
+	<Point x="329" y="1273"/>
+	<Point x="295" y="1270"/>
+	<Point x="303" y="1077"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="851" y="567"/>
+	<Point x="1635" y="567"/>
+	<Point x="1635" y="696"/>
+	<Point x="851" y="696"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITULO IV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="341" y="748"/>
+	<Point x="2148" y="748"/>
+	<Point x="2148" y="993"/>
+	<Point x="341" y="993"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Determinacion de la amplitud del arco comprehendido entre
+los dos Obſervatorios.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="244" y="1280"/>
+	<Point x="374" y="1276"/>
+	<Point x="450" y="1276"/>
+	<Point x="474" y="1275"/>
+	<Point x="486" y="1051"/>
+	<Point x="2235" y="1041"/>
+	<Point x="2245" y="2202"/>
+	<Point x="2151" y="2203"/>
+	<Point x="1900" y="2202"/>
+	<Point x="1642" y="2201"/>
+	<Point x="1477" y="2201"/>
+	<Point x="1251" y="2200"/>
+	<Point x="1061" y="2208"/>
+	<Point x="804" y="2211"/>
+	<Point x="481" y="2216"/>
+	<Point x="456" y="2224"/>
+	<Point x="256" y="2227"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ara deducir la amplitud del arco, comprehendido
+entre los dos Obſervatorios, no fuera neceario
+ahora mas, que ſumar la diancia de cada Erea del
+Zenith de Mìra, con ſu correſpondiente del Zenith de
+Cuenca,  las Ereas en el intervalo de tiempo, en que
+ſe hicieron las Obſervaciones en ambos Obſervatorios, no
+huvieran tenido movimiento, que alterae ſus declina‑
+ciones, como el que continuamente tienen en longitud
+pero haviendo èe diſminuìdo la declinacion de las Ere‑
+as, es preciſo à la ſuma, que arriba dixe, añadirle la
+mutacion en declinacion, que tuvieron, para concluir la
+amplitud del arco.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="257" y="2232"/>
+	<Point x="460" y="2227"/>
+	<Point x="485" y="2222"/>
+	<Point x="800" y="2216"/>
+	<Point x="1250" y="2206"/>
+	<Point x="2120" y="2207"/>
+	<Point x="2248" y="2209"/>
+	<Point x="2250" y="3132"/>
+	<Point x="1841" y="3135"/>
+	<Point x="1635" y="3136"/>
+	<Point x="1383" y="3138"/>
+	<Point x="1255" y="3139"/>
+	<Point x="1121" y="3138"/>
+	<Point x="821" y="3166"/>
+	<Point x="771" y="3171"/>
+	<Point x="732" y="3163"/>
+	<Point x="704" y="3160"/>
+	<Point x="528" y="3167"/>
+	<Point x="261" y="3166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Varios Cathalogos nos dàn ea mutacion en Declina‑
+cion pero como las mas veces no ſean de la exaitud
+necearia, ſerà bueno, que para ee caſo tan delicado,
+nos tomemos el trabaxo de calcularla. El methodo regular,
+es el deducir la declinacion de las Ereas, para los dos
+tiempos en que ſe hicieron las Obſervaciones, por el Pro‑
+blema, que de ordinario ſe haa en los principios de Eſ-
+phera, por el qual dada la latitud, y longitud ſe conclu‑
+ye la declinacion; pero mas exaa, y facilmente ſe reſol‐
+verà por el guiente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="2083" y="3422"/>
+	<Point x="2232" y="3422"/>
+	<Point x="2232" y="3525"/>
+	<Point x="2083" y="3525"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BD</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="990" y="4003"/>
+	<Point x="1967" y="4003"/>
+	<Point x="1967" y="4104"/>
+	<Point x="990" y="4104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="741" y="383"/>
+	<Point x="1721" y="383"/>
+	<Point x="1721" y="509"/>
+	<Point x="741" y="509"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="page-number">
+	<Coords>
+	<Point x="1961" y="383"/>
+	<Point x="2151" y="383"/>
+	<Point x="2151" y="509"/>
+	<Point x="1961" y="509"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>287</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="259" y="3171"/>
+	<Point x="349" y="3172"/>
+	<Point x="507" y="3172"/>
+	<Point x="673" y="3165"/>
+	<Point x="713" y="3165"/>
+	<Point x="770" y="3176"/>
+	<Point x="857" y="3169"/>
+	<Point x="1129" y="3151"/>
+	<Point x="2249" y="3140"/>
+	<Point x="2242" y="3400"/>
+	<Point x="910" y="3468"/>
+	<Point x="623" y="3466"/>
+	<Point x="264" y="3465"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sea en la Ortographica proyeccion de la Eſphera ſobre
+el plano del Coluro de los Solicios AGHFA �
+EQ La Equinoccial</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="footnote">
+	<Coords>
+	<Point x="2271" y="3235"/>
+	<Point x="2500" y="3235"/>
+	<Point x="2500" y="3362"/>
+	<Point x="2271" y="3362"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a Fig. 13.
+Lam. 6.</Unicode></TextEquiv></TextRegion></Page></PcGts>

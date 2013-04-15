@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442980">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T02:46:59</Created>
+	<LastChange>2011-03-15T16:51:30</LastChange></Metadata>
+	<Page imageFilename="00442980.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="561" y="46"/>
+	<Point x="561" y="142"/>
+	<Point x="1153" y="142"/>
+	<Point x="1153" y="46"/>
+	<Point x="857" y="37"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>F. Ioan de la Cruz.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1488" y="48"/>
+	<Point x="1488" y="148"/>
+	<Point x="1598" y="148"/>
+	<Point x="1598" y="48"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>25</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="142" y="180"/>
+	<Point x="120" y="2695"/>
+	<Point x="1056" y="2707"/>
+	<Point x="1241" y="2698"/>
+	<Point x="1352" y="2703"/>
+	<Point x="1409" y="2681"/>
+	<Point x="1625" y="2695"/>
+	<Point x="1625" y="175"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>uſando dee nombre con latitud, erecharèmos en
+pocas palabras ſu relacion. V no fue (i de los admira-
+bles  ſe infundieron en el alma dee celeial Maeſ-
+tro) ſu alta Sabiduria en Sacramentos Miicos; de lo
+cual ha dexado libros i tratados tan ſublimes, que ſe
+comparan con los del gran Dionio Areopagita. Por-
+que la dottina dellos, demas de ſer la nata de la mas
+ſubída i pura Contemplacion, ſe declara con un modo
+tan decente, propio, i como nacido de las entrañas de
+la miſma materia, que ni ella parece podia declararſe
+con otro eilo, ni èl acomodarſe para declarar otra
+coſa. Bien ſe muera de quien era ea Sabiduria i eſ-
+te Don, en una Paloma que aia à ſu celda, i ſe mu-
+daba con el de un Convento a otro, como ſe notò
+en Granada i Segovia; i en la que aora parece en ſu
+bendita carne, come ſedirà deſpues. Don fue tam-
+bien celeial, nacido i ayudado dee, el de ſu
+alta Contemplacion. Quien dira ſu 1 pureza?
+ſu 2 perpetuidad? ſus 3 efetos? 1 Traſcendia con e-
+lla las nubes de toda imaginacion, la luz de to-
+da humana inteligencia; i en pura obſcuridad be-
+bia el luzidimo rayo de tinieblas de aquel Sol e-
+terno, en quien ſe renovaba i eſclarecia ſus ojos
+como Aguila divina; teniendo por eorvo para la
+mas alta union con Dios, todo lo que no es el, por ſo
+berano i ſabido que fuefe: rara pureza! 2 Tan abſorto
+andaba de ordinario en Dios, que avia meneer ha
+zerſe fuerça para advertir al trato humano, mu-
+cho mas que otros para atender al divino. I a
+ſolia darſe con los artejos de los dedos por las pa-
+redes haa laimarſelos, para con el dolor bol-
+ver en . Dixo a vna perſona familiar ſuya: Tanta es
+la conſolacion que mi alma recibe, que no me oſo entrar</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="1434" y="2769"/>
+	<Point x="1640" y="2757"/>
+	<Point x="1638" y="2702"/>
+	<Point x="1600" y="2697"/>
+	<Point x="1586" y="2698"/>
+	<Point x="1432" y="2693"/>
+	<Point x="1428" y="2769"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>adonde</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="777" y="2937"/>
+	<Point x="777" y="2995"/>
+	<Point x="1428" y="2995"/>
+	<Point x="1428" y="2937"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

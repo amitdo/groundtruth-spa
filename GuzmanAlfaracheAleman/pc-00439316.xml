@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439316">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T12:27:49</Created>
+	<LastChange>2011-05-12T13:39:59</LastChange></Metadata>
+	<Page imageFilename="00439316.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="142" y="88"/>
+	<Point x="1200" y="83"/>
+	<Point x="1250" y="83"/>
+	<Point x="1254" y="178"/>
+	<Point x="147" y="180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PARTE II. LIBRO III. CAP. III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="23" y="197"/>
+	<Point x="1425" y="200"/>
+	<Point x="1458" y="2593"/>
+	<Point x="1231" y="2605"/>
+	<Point x="297" y="2614"/>
+	<Point x="233" y="2621"/>
+	<Point x="7" y="2616"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>van, las mucas que ſe dieron, y como  fuera verdad,
+ò lo pudiera ſer, y averles otro tanto de ſuceder, ſe deſ-
+pulſan por eo. Eas ean como yeſca, ſaltales de
+aqui una chiſpa, y encendidas como polvora, quedan
+abraſadas. Otras muy curioſas, que dexandoſe de ve-
+ir gaaron ſus dineros, alquilando libros, y porque
+leyeron en don Belianis, en Amadis, ò en Eſplandian,
+no lo ſacò à caſo del Cavaero del Febo, los peligros, y
+malandanças, en que aqueos deſafortunados cavae-
+ros andavan por la infanta Magalona, que devia de ſer
+alguna dama bien diſpuea, les parece que ya eas tie-
+nen à la puerta el palafren, el enano, y la dueña con el ſe-
+ñor. Agrages que les diga el camino de aqueas eſpeſas
+ﬂoreas y ſelvas, para que no toquen al caio en-
+cantado, de donde van à parar en otro, y ſaliendoles al
+encuentro un leon deſcabeçado, las eva con buen ta-
+lante, donde ſon ſervidas y regaladas de muchos y di-
+verſos manjares, que ya les parece que los comen, y
+que ſe haan en eo durmiendo en aqueas camas tan
+regaladas y blandas, con tanta quietud y regalo, n
+ſaber quien lo trae, ni de donde les viene, porque to-
+do es encantamento. Ai ean encerradas con toda
+honeidad y buen tratamiento, haa que viene don
+Galaor, y mata el Gigante, que me dà laima empre
+que oygo dezir las crueldades con que los tratan, y ſuera
+mejor que con una ſeñora deas los huvieran embiado
+à Caia, donde por ſolo verlos, pagaran muchos di-
+neros, conque tuvieran baante dote para caſarſe, n
+andar por tantas aventuras ò deſventuras, y aſ ſe des-
+haze todo el encantamiento. No falta otro tal como yo,
+que me dixo el otro dia, que  à eas hermoſas les ataſ-
+ſen los libros tales à la redonda, y les pegaen fuego,
+que no ſeria poible arder, ſu virtud lo mataria; yo no
+digo nada, y aſ lo proteo, porque voy por el mundo
+n ſaber à donde, y lo miſmo diran de mi. Otras ay,
+que porque vieron un mozito engomado, y aun quiçà
+eno de gomas, como raſo de Valencia, con mas fuen-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="528" y="2842"/>
+	<Point x="1304" y="2847"/>
+	<Point x="1300" y="2928"/>
+	<Point x="533" y="2930"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1340" y="2611"/>
+	<Point x="1340" y="2671"/>
+	<Point x="1457" y="2671"/>
+	<Point x="1464" y="2622"/>
+	<Point x="1424" y="2611"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tes</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1285" y="102"/>
+	<Point x="1285" y="185"/>
+	<Point x="1416" y="185"/>
+	<Point x="1416" y="102"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>285</Unicode></TextEquiv></TextRegion></Page></PcGts>

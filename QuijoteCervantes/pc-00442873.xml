@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442873">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:16:47</Created>
+	<LastChange>2012-03-12T14:12:32</LastChange></Metadata>
+	<Page imageFilename="00442873.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="435" y="60"/>
+	<Point x="1145" y="62"/>
+	<Point x="1158" y="158"/>
+	<Point x="575" y="163"/>
+	<Point x="502" y="184"/>
+	<Point x="427" y="156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="146" y="146"/>
+	<Point x="429" y="161"/>
+	<Point x="456" y="170"/>
+	<Point x="502" y="187"/>
+	<Point x="572" y="165"/>
+	<Point x="1228" y="165"/>
+	<Point x="1267" y="169"/>
+	<Point x="1334" y="178"/>
+	<Point x="1364" y="176"/>
+	<Point x="1384" y="176"/>
+	<Point x="1415" y="182"/>
+	<Point x="1426" y="2112"/>
+	<Point x="1332" y="2114"/>
+	<Point x="1201" y="2114"/>
+	<Point x="1161" y="2123"/>
+	<Point x="876" y="2111"/>
+	<Point x="793" y="2130"/>
+	<Point x="181" y="2143"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quintañona: de donde arguyo yo, que la deuio de
+conocer ea, o por lo menos, deuio de alcançar a
+ver algun retrato ſuyo. Pues quien podra negar,
+no ſer verdadera la hioria de Pierres, y la linda
+Magalona, pues aun haa oy dia ſe vee en la ar-
+meria de los Reyes, la clauija con que boluia al ca-
+uao de madera, ſobre quien yua el valiente Pie-
+rres por los ayres, que es vn poco mayor que vn ti-
+mon de carreta: y junto a la clauija, eà la a de Ba
+bieca. Y en Ronceſuaes eà el cuerno de Roldan,
+tamaño como vna grande viga: de donde ſe inﬁere,
+que huuo doze Pares, que huuo Pierres, que huuo
+Cides, y otros cauaeros ſemejantes, deos que di-
+zen las gentes, que a ſus auenturas van. Sino digan
+me tambiẽ, que no es verdad que fue cauaero an-
+dante el valiente Lutano Iuan de Merlo, que fue
+a Borgoña, y ſe combatio en la ciudad de Ras, con
+el famoſo ſeñor de Charni, amado Moſen Pie-
+rres: y deſpues en la ciudad de Balea, con Moſen
+Enrique de Remean, ſaliendo de entrambas em-
+preſas vencedor, y eno de honroſa fama. Y las auẽ
+turas, y deſaﬁos que tambien acabaron en Borgo-
+ña, los valientes Eſpañoles, Pedro Barba, y Gutierre
+Quixada (de cuya alcurnia yo deciendo, por linea
+rea de varon) venciendo a los hijos del Conde
+de ſan Polo. Nieguenme aſsi meſmo, que no fue
+a buſcar las auenturas a Alemania, don Fernando
+de Gueuara, donde ſe combatio con Micer Ior-
+ge, cauaero de la caſa del Duque de Auria. Di-
+gan que fueron burla, las juas de Suero de Qui-
+ñones, del pao: las empreſas de Moſen Luys de
+Falces, contra don Gonçalo de Guzman, cauaero</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="466" y="2302"/>
+	<Point x="1126" y="2304"/>
+	<Point x="1121" y="2358"/>
+	<Point x="465" y="2355"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1277" y="97"/>
+	<Point x="1282" y="162"/>
+	<Point x="1336" y="176"/>
+	<Point x="1398" y="173"/>
+	<Point x="1411" y="169"/>
+	<Point x="1411" y="97"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>299</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="866" y="2116"/>
+	<Point x="863" y="2193"/>
+	<Point x="1021" y="2193"/>
+	<Point x="1021" y="2122"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pp 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1193" y="2117"/>
+	<Point x="1183" y="2183"/>
+	<Point x="1424" y="2183"/>
+	<Point x="1430" y="2118"/>
+	<Point x="1381" y="2117"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Caea-</Unicode></TextEquiv></TextRegion></Page></PcGts>

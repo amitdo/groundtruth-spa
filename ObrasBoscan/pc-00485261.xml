@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485261">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T13:31:39</Created>
+	<LastChange>2011-05-12T13:41:10</LastChange></Metadata>
+	<Page imageFilename="00485261.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r15" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/>
+	<RegionRefIndexed regionRef="r9" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="289" y="1801"/>
+	<Point x="1555" y="1800"/>
+	<Point x="1560" y="2491"/>
+	<Point x="1206" y="2481"/>
+	<Point x="1200" y="2517"/>
+	<Point x="289" y="2522"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Era de ver el deſconcierto deos,
+Ora temiendo, y ora amenazando:
+En ſus propios ſentidos deſcompueos:
+Amando, en vn momento, y deſamando.
+Oſados, n ſazon, n cauſa preos:
+Tardios, al menor tiempo y dudando:
+En coſas, de no nada conﬁados:
+Y en las otras medroſos y cuytados.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="signature-mark">
+	<Coords>
+	<Point x="1216" y="2491"/>
+	<Point x="1414" y="2495"/>
+	<Point x="1427" y="2609"/>
+	<Point x="1216" y="2609"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>X iij</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="credit">
+	<Coords>
+	<Point x="628" y="3029"/>
+	<Point x="1397" y="3029"/>
+	<Point x="1397" y="3090"/>
+	<Point x="628" y="3090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="310" y="981"/>
+	<Point x="1522" y="981"/>
+	<Point x="1522" y="1727"/>
+	<Point x="310" y="1727"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eos, que digo aqui eauan preſentes,
+Morando, de ſus almas los rincones:
+Delos otros tambien que eran auſentes,
+Pintadas, aqui 'auan las paiones.
+Y pintados, en ﬁn los acidentes,
+De todos los humanos coraçones,
+Delos que por amar ſu vida paan
+En coſas, que noſe como las paan.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="312" y="198"/>
+	<Point x="528" y="194"/>
+	<Point x="545" y="205"/>
+	<Point x="564" y="214"/>
+	<Point x="767" y="202"/>
+	<Point x="779" y="204"/>
+	<Point x="814" y="205"/>
+	<Point x="1083" y="204"/>
+	<Point x="1106" y="201"/>
+	<Point x="1128" y="214"/>
+	<Point x="1627" y="216"/>
+	<Point x="1633" y="908"/>
+	<Point x="312" y="906"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En eos que ea vio, vio los amores
+Muy blandos, muy cõformes y aentados:
+Y dulces y ſabroſos, los dolores:
+Y los deſaſociegos ſoegados.
+Y vio, tambien que aqueos amadores,
+Amor, les igualaua ſus eados:
+y conocio que amando no medraua
+Ninguno deos, mas de quanto amaua.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="header">
+	<Coords>
+	<Point x="579" y="91"/>
+	<Point x="1144" y="91"/>
+	<Point x="1144" y="193"/>
+	<Point x="579" y="193"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="page-number">
+	<Coords>
+	<Point x="1170" y="94"/>
+	<Point x="1628" y="94"/>
+	<Point x="1628" y="199"/>
+	<Point x="1170" y="199"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. CXLVI.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441597">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T16:40:41</Created>
+	<LastChange>2011-07-05T14:26:07</LastChange></Metadata>
+	<Page imageFilename="00441597.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/>
+	<RegionRefIndexed regionRef="r9" index="2"/>
+	<RegionRefIndexed regionRef="r10" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="452" y="600"/>
+	<Point x="452" y="947"/>
+	<Point x="1534" y="947"/>
+	<Point x="1534" y="600"/>
+	<Point x="1175" y="577"/>
+	<Point x="662" y="585"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CLIO,
+MVSAI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="195" y="1008"/>
+	<Point x="195" y="1169"/>
+	<Point x="1834" y="1169"/>
+	<Point x="1834" y="1008"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CANTA POESIAS HER OICAS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="821" y="1221"/>
+	<Point x="821" y="1347"/>
+	<Point x="1169" y="1347"/>
+	<Point x="1169" y="1221"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eo es,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="43" y="1400"/>
+	<Point x="43" y="1678"/>
+	<Point x="1860" y="1678"/>
+	<Point x="1860" y="1400"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ELOGIOS, I MEMORIAS DE PRINCIPES.
+I VARONES ILVSTRES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="credit">
+	<Coords>
+	<Point x="678" y="3113"/>
+	<Point x="678" y="3204"/>
+	<Point x="1478" y="3204"/>
+	<Point x="1478" y="3113"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

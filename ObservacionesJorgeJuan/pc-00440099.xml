@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440099">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T16:38:58</Created>
+	<LastChange>2011-12-19T11:38:41</LastChange></Metadata>
+	<Page imageFilename="00440099.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/>
+	<RegionRefIndexed regionRef="r10" index="3"/>
+	<RegionRefIndexed regionRef="r11" index="4"/>
+	<RegionRefIndexed regionRef="r12" index="5"/>
+	<RegionRefIndexed regionRef="r14" index="6"/>
+	<RegionRefIndexed regionRef="r15" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1225" y="303"/>
+	<Point x="2075" y="304"/>
+	<Point x="2075" y="411"/>
+	<Point x="1222" y="411"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="698" y="2117"/>
+	<Point x="791" y="2117"/>
+	<Point x="806" y="2105"/>
+	<Point x="906" y="2112"/>
+	<Point x="949" y="2122"/>
+	<Point x="1018" y="2115"/>
+	<Point x="1037" y="2105"/>
+	<Point x="1315" y="2122"/>
+	<Point x="1362" y="2115"/>
+	<Point x="1506" y="2126"/>
+	<Point x="1758" y="2126"/>
+	<Point x="1775" y="2134"/>
+	<Point x="1849" y="2132"/>
+	<Point x="2108" y="2123"/>
+	<Point x="2586" y="2113"/>
+	<Point x="2588" y="2464"/>
+	<Point x="1956" y="2490"/>
+	<Point x="1840" y="2490"/>
+	<Point x="1823" y="2507"/>
+	<Point x="1775" y="2508"/>
+	<Point x="1748" y="2504"/>
+	<Point x="1728" y="2484"/>
+	<Point x="1284" y="2489"/>
+	<Point x="1175" y="2486"/>
+	<Point x="1057" y="2475"/>
+	<Point x="1034" y="2483"/>
+	<Point x="1005" y="2484"/>
+	<Point x="941" y="2488"/>
+	<Point x="837" y="2478"/>
+	<Point x="785" y="2488"/>
+	<Point x="698" y="2491"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El medio entre las tres de la Caye S. Louis
+dàn la diferencia de Meridianos entre ee Lu‐
+gar, y Parìs de 5 02 40
+que equivalen à 75° 40' de Longitud.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="699" y="2877"/>
+	<Point x="875" y="2867"/>
+	<Point x="953" y="2868"/>
+	<Point x="979" y="2866"/>
+	<Point x="1034" y="2858"/>
+	<Point x="1296" y="2875"/>
+	<Point x="1479" y="2884"/>
+	<Point x="1589" y="2879"/>
+	<Point x="1606" y="2880"/>
+	<Point x="1830" y="2882"/>
+	<Point x="1907" y="2895"/>
+	<Point x="1941" y="2891"/>
+	<Point x="1957" y="2881"/>
+	<Point x="2618" y="2868"/>
+	<Point x="2618" y="3121"/>
+	<Point x="2619" y="3373"/>
+	<Point x="699" y="3371"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No haandonos por ahora con obſervacion hecha en
+Parìs, proxima à la que yo hice de la Emeron del 1 Sateli‐
+te de Jupiter en el Guarico, ò Cabo Francès el dia 29 de Ju‐
+lio de 1745, podémos valernos, para determinar la dife‐
+rencia de Meridianos entre ee Lugar, y Parìs, de la hora,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="catch-word">
+	<Coords>
+	<Point x="2539" y="3377"/>
+	<Point x="2622" y="3377"/>
+	<Point x="2623" y="3458"/>
+	<Point x="2539" y="3458"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>à</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="credit">
+	<Coords>
+	<Point x="958" y="3993"/>
+	<Point x="1974" y="3993"/>
+	<Point x="1974" y="4096"/>
+	<Point x="958" y="4096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="page-number">
+	<Coords>
+	<Point x="785" y="318"/>
+	<Point x="908" y="318"/>
+	<Point x="908" y="396"/>
+	<Point x="785" y="396"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>82</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="785" y="654"/>
+	<Point x="788" y="415"/>
+	<Point x="2671" y="415"/>
+	<Point x="2677" y="915"/>
+	<Point x="2582" y="909"/>
+	<Point x="2541" y="908"/>
+	<Point x="2415" y="905"/>
+	<Point x="2271" y="873"/>
+	<Point x="1385" y="872"/>
+	<Point x="787" y="846"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>5h 24' 12"
+22 37
+22 20
+21 13
+21 50</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="725" y="871"/>
+	<Point x="1385" y="888"/>
+	<Point x="2295" y="892"/>
+	<Point x="2375" y="912"/>
+	<Point x="2681" y="925"/>
+	<Point x="2661" y="1348"/>
+	<Point x="2358" y="1362"/>
+	<Point x="2105" y="1368"/>
+	<Point x="1784" y="1377"/>
+	<Point x="1656" y="1357"/>
+	<Point x="1639" y="1360"/>
+	<Point x="1615" y="1368"/>
+	<Point x="1439" y="1366"/>
+	<Point x="1412" y="1353"/>
+	<Point x="1081" y="1347"/>
+	<Point x="977" y="1360"/>
+	<Point x="937" y="1361"/>
+	<Point x="909" y="1349"/>
+	<Point x="865" y="1348"/>
+	<Point x="820" y="1363"/>
+	<Point x="710" y="1362"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Uniendo eas doce determinaciones con las quatro
+antecedentes, y tomando un medio arithmético entre to‐
+das, tendrémos la diferencia de Meridianos entre Parìs, y
+Quito de 5h 22' 41"
+que equivalen à 80° 40¼' de Longitud.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="708" y="1374"/>
+	<Point x="825" y="1370"/>
+	<Point x="858" y="1357"/>
+	<Point x="887" y="1355"/>
+	<Point x="902" y="1355"/>
+	<Point x="944" y="1369"/>
+	<Point x="1072" y="1356"/>
+	<Point x="1402" y="1357"/>
+	<Point x="1427" y="1372"/>
+	<Point x="1539" y="1377"/>
+	<Point x="1628" y="1376"/>
+	<Point x="1647" y="1367"/>
+	<Point x="1790" y="1384"/>
+	<Point x="2607" y="1360"/>
+	<Point x="2614" y="1723"/>
+	<Point x="2180" y="1719"/>
+	<Point x="2004" y="1739"/>
+	<Point x="1880" y="1740"/>
+	<Point x="1836" y="1756"/>
+	<Point x="1798" y="1752"/>
+	<Point x="1775" y="1738"/>
+	<Point x="1738" y="1732"/>
+	<Point x="1233" y="1739"/>
+	<Point x="1150" y="1725"/>
+	<Point x="1124" y="1720"/>
+	<Point x="1049" y="1732"/>
+	<Point x="1034" y="1744"/>
+	<Point x="946" y="1739"/>
+	<Point x="892" y="1720"/>
+	<Point x="777" y="1745"/>
+	<Point x="700" y="1745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El medio entre las cinco determinaciones de
+Cartagena dàn la diferencia de Meridianos entre
+ea Ciudad, y Parìs de 5 10 06
+que equivalen à 77° 31½' de Longitud.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="702" y="1756"/>
+	<Point x="827" y="1750"/>
+	<Point x="844" y="1735"/>
+	<Point x="892" y="1726"/>
+	<Point x="910" y="1731"/>
+	<Point x="922" y="1734"/>
+	<Point x="945" y="1745"/>
+	<Point x="951" y="1745"/>
+	<Point x="981" y="1748"/>
+	<Point x="1038" y="1749"/>
+	<Point x="1048" y="1739"/>
+	<Point x="1116" y="1731"/>
+	<Point x="1193" y="1740"/>
+	<Point x="1259" y="1747"/>
+	<Point x="1350" y="1743"/>
+	<Point x="1443" y="1742"/>
+	<Point x="1761" y="1740"/>
+	<Point x="1783" y="1750"/>
+	<Point x="1805" y="1759"/>
+	<Point x="1835" y="1760"/>
+	<Point x="1880" y="1750"/>
+	<Point x="1975" y="1751"/>
+	<Point x="2600" y="1732"/>
+	<Point x="2583" y="2098"/>
+	<Point x="2110" y="2110"/>
+	<Point x="1957" y="2126"/>
+	<Point x="1837" y="2129"/>
+	<Point x="1778" y="2131"/>
+	<Point x="1763" y="2122"/>
+	<Point x="1497" y="2119"/>
+	<Point x="1363" y="2108"/>
+	<Point x="1298" y="2116"/>
+	<Point x="1036" y="2099"/>
+	<Point x="999" y="2113"/>
+	<Point x="948" y="2117"/>
+	<Point x="910" y="2108"/>
+	<Point x="850" y="2101"/>
+	<Point x="805" y="2100"/>
+	<Point x="787" y="2114"/>
+	<Point x="698" y="2112"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El medio entre las ſeis de Lima dàn la dife‐
+rencia de Meridianos entre ea Ciudad, y la
+de Parìs de 5 17 36
+que equivalen à 79° 24' de Longitud.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="697" y="2503"/>
+	<Point x="867" y="2484"/>
+	<Point x="933" y="2491"/>
+	<Point x="1018" y="2493"/>
+	<Point x="1060" y="2481"/>
+	<Point x="1081" y="2485"/>
+	<Point x="1121" y="2486"/>
+	<Point x="1155" y="2492"/>
+	<Point x="1527" y="2495"/>
+	<Point x="1653" y="2492"/>
+	<Point x="1726" y="2491"/>
+	<Point x="1756" y="2516"/>
+	<Point x="1818" y="2518"/>
+	<Point x="1861" y="2500"/>
+	<Point x="1961" y="2500"/>
+	<Point x="2589" y="2489"/>
+	<Point x="2592" y="2606"/>
+	<Point x="2589" y="2832"/>
+	<Point x="2588" y="2856"/>
+	<Point x="2424" y="2859"/>
+	<Point x="2212" y="2870"/>
+	<Point x="1988" y="2872"/>
+	<Point x="1959" y="2875"/>
+	<Point x="1942" y="2886"/>
+	<Point x="1906" y="2891"/>
+	<Point x="1861" y="2884"/>
+	<Point x="1841" y="2879"/>
+	<Point x="1727" y="2874"/>
+	<Point x="1606" y="2875"/>
+	<Point x="1475" y="2878"/>
+	<Point x="1285" y="2868"/>
+	<Point x="1033" y="2844"/>
+	<Point x="1016" y="2850"/>
+	<Point x="963" y="2864"/>
+	<Point x="879" y="2863"/>
+	<Point x="749" y="2867"/>
+	<Point x="697" y="2871"/>
+	<Point x="698" y="2855"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Por ultimo el medio entre las tres del Petit
+Goave dàn la diferencia de Meridianos entre
+ee Lugar, y Parìs de 4 59 35
+que equivalen à 74° 53' 45" de Longitud.</Unicode></TextEquiv></TextRegion></Page></PcGts>

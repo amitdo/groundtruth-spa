@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442949">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T19:05:54</Created>
+	<LastChange>2011-03-15T16:51:29</LastChange></Metadata>
+	<Page imageFilename="00442949.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/>
+	<RegionRefIndexed regionRef="r11" index="2"/>
+	<RegionRefIndexed regionRef="r8" index="3"/>
+	<RegionRefIndexed regionRef="r9" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="833" y="173"/>
+	<Point x="833" y="255"/>
+	<Point x="1284" y="255"/>
+	<Point x="1284" y="175"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ELOGIO</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="320" y="329"/>
+	<Point x="325" y="829"/>
+	<Point x="1790" y="833"/>
+	<Point x="1787" y="342"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Del Dotor Franciſco Miravete, Oidor i Decano
+de la Corte del Iuicia de Aragon en Zaragoça,
+Varon de ingnee eſpiritu, letras, i piedad, en
+una carta que eſcribio a una perſona
+Religioſa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="504" y="1178"/>
+	<Point x="276" y="1186"/>
+	<Point x="282" y="2541"/>
+	<Point x="743" y="2551"/>
+	<Point x="1793" y="2551"/>
+	<Point x="1793" y="934"/>
+	<Point x="1789" y="931"/>
+	<Point x="511" y="925"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vchos años ha que en la pobreza de mis oraciones,
+pido i ſup lico a nuero Señor la exaltacion en ordẽ
+a beatificacion de ſu grande amigo i fiel Siervo Frai
+loan de la Cruz. AI cual no conoci yo en vida, pero
+ſus libros, que dexò eſcritos, para tanto conſuelo, luz i guia
+de perſonas Eſpirituales, llenos de celeial dotrina, lo dan a
+conocer a todo el mundo. Ellos deſcubren clara i a bierta-
+mente la ſantidad de ſu Autor, ſus eſcelentes virtudes de que
+ſue dotado, la alteza de ſu eſpiritu, i cuan aventajadamente
+alcançò en ea vida mortal, mediante la Oracion i exerci-
+cios de Mortificacion i Penitencia, la union con Dios en
+grado de transformacion. Euvo abraſado en amor divino,
+fue Serafin en carne. Contienen los ſuſodichos libros enſe-
+ñança maravilloſa, de las ſendas i caminos que nos llevan a
+conſeguir ea divina union i transformacion: manifeando
+a meſmo los embaraços, i tropieços que impiden i eorbã
+el alcançar tan dichoſo fin i feliz puerto. A lo que cõ mi cor-
+to i pobre juizio puedo colegir, mucha parte de aquella do-
+trina fue infuſa i revelada. Deos libros entiendo han hecho
+mucha eimacion perſonas doas i Eſpirituales, dadas a
+Oraciõ i recogimiento interior en ee Reino; i a muchos
+los han comprado, para aprovecharſe en el camino dela Per
+fecion, con ſu letura i celeiales documentos, i otros los buſ
+can i deſean aver para el miſmo intento.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1602" y="2647"/>
+	<Point x="1600" y="2744"/>
+	<Point x="1766" y="2744"/>
+	<Point x="1766" y="2636"/>
+	<Point x="1755" y="2644"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EX</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="772" y="2925"/>
+	<Point x="775" y="2986"/>
+	<Point x="1419" y="2991"/>
+	<Point x="1419" y="2938"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="drop-capital">
+	<Coords>
+	<Point x="304" y="921"/>
+	<Point x="304" y="1118"/>
+	<Point x="503" y="1118"/>
+	<Point x="503" y="921"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M</Unicode></TextEquiv></TextRegion></Page></PcGts>

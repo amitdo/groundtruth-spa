@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440571">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T06:53:12</Created>
+	<LastChange>2011-07-05T14:26:06</LastChange></Metadata>
+	<Page imageFilename="00440571.tif" imageWidth="880" imageHeight="1599">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="credit">
+	<Coords>
+	<Point x="284" y="1549"/>
+	<Point x="576" y="1549"/>
+	<Point x="576" y="1585"/>
+	<Point x="284" y="1585"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="40" y="82"/>
+	<Point x="786" y="80"/>
+	<Point x="786" y="1507"/>
+	<Point x="33" y="1507"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>turales como erangeros, que do
+quiera que llegaua, no auia para
+mi puerta cerrada : y de tal mane-
+ra me vi fauorecido, que me pare-
+cia  entõces matara vn hombre,
+o me acaeciera algun caſo terri-
+ble hallara a todo el mundo de
+mi parte, y tuuiera en aquellos
+mis ſeñores todo fauor, y ſocorro:
+mas yo nunca los dexaua boqui-
+ſecos, lleuando los comigo a lo
+mejor que yo auia pregonado en
+la ciudad a do haziamos la bue-
+na, y eſplendida vida, y xira: alli
+nos acontecio muchas vezes en-
+trar en nueros pies, y ſalir en los
+agenos. Y lo mejor deo es, que
+todo ee tiempo maldita la blan-
+ca Lazaro de Tormes gao, ni ſe-
+la conſentian gaar, antes  algu-
+na vez de induria echaua mano
+a la bolſa, ﬁngiendo quererlo pa-
+gar, tomauanlo por afrenta, y
+mirauanme con yra diziendo : Ni-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="67" y="23"/>
+	<Point x="673" y="23"/>
+	<Point x="673" y="76"/>
+	<Point x="67" y="76"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LAZAR. DE TORM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="688" y="32"/>
+	<Point x="764" y="32"/>
+	<Point x="764" y="76"/>
+	<Point x="688" y="76"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>117</Unicode></TextEquiv></TextRegion></Page></PcGts>

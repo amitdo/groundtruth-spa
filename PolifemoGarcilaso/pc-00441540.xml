@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441540">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T14:28:01</Created>
+	<LastChange>2011-06-24T14:04:57</LastChange></Metadata>
+	<Page imageFilename="00441540.tif" imageWidth="1444" imageHeight="2304">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="419" y="88"/>
+	<Point x="935" y="88"/>
+	<Point x="935" y="161"/>
+	<Point x="419" y="161"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>POLIFEMO</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="49" y="166"/>
+	<Point x="1298" y="164"/>
+	<Point x="1297" y="2030"/>
+	<Point x="1044" y="2032"/>
+	<Point x="922" y="2056"/>
+	<Point x="66" y="2069"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>halcyonum fœtur: vnde nomen hi dies traxère: reliquum
+tempus hyemat. Y en el lib. 10. cap. 32. Halcyonem videre
+rariſsimum e, nec ni Virgiliarum occaſu, &amp; circa ſolitia
+brumam ve, naue ali quando circumuolata atim in latebras
+abeuntem. Fœtiﬁcant bruma, qui dies Halcyonides vocantur,
+placido mariper eos &amp; nauigabili, Siculo maximè. Por eo ſe
+acordò don Luis del Alcion; porque ſegun Plinio el mar
+Siciliano es el que ſe quieta mas quando eas aues crian:
+Eo miſmo eſcriuio Arioteles en el lib. 5. c. 8. de Hi.
+Anim. Dies Halcyoneos ﬁeri circa brumam non ſemper no-
+ris locis contingit: at in Siculo mari penè ſemper id euenit.
+En ee miſmo lugar eſcriue la marauioſa cria dea aue,
+de quien lo tomò Plinio. Los hueuos que pone ſon cinco,
+ſegun ee Autor en el cap. 8. Parit Halcyon circiter quin-
+que oua. Y Plinio en el c. 32. del lib. 10. Pariunt oua quina
+Llaman los Latinos a ea aue Alcedo, y los Griegos Hal-
+cyon. M. Varron en el lib. 6. de Ling. Lat dize eas pala-
+bras: Apud Pacuuium. Halcyonis ritu littus peruolgans
+furor Hc enim auis Grce dicitur Alcyõ à noris Halcedo:
+hc hyeme quod puos dicitur tranquio marifacere, eos dies
+Halcyonios appeant. San Ambroo in Exam. lib. 8. cap.
+13. eſcriue guiendo los Autores referidos. Halcyone e
+auis maritima, qu in littoribus fœtus ſuos edere ſolet, ita vt
+in arenis oua deponat medio ferè hyemis: nam id temporis fo-
+uendis habet deprauatum partubus, quando maximè inſurgit
+mare, Litoribuſque vehementior ﬂuus iiditur, quò magis
+repentin placiditatis ſolemnitale auis huius eluceret gratia.
+Namq; vbi vndoſum fuerit mare, potis ouis ſubitò miteſcit,
+&amp; omnes cadunt ventorum proce, ﬂatuſque aurarũ guieſ-
+cunt, ac placidum ventis at mare, donec oua fouet halcyone
+ſua, ſeptem dies fœtus ſunt, quibus decurs educit puos iic:
+alios ſeptem adiungit dies, quibus enutriat partus ſuos, donec
+incipiant adoleſcere. Tantum autem beneﬁcium auicula hc</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="414" y="2220"/>
+	<Point x="984" y="2220"/>
+	<Point x="984" y="2274"/>
+	<Point x="414" y="2274"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1090" y="2037"/>
+	<Point x="1090" y="2100"/>
+	<Point x="1301" y="2100"/>
+	<Point x="1301" y="2037"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>diuinitus</Unicode></TextEquiv></TextRegion></Page></PcGts>

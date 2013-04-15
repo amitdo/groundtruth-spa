@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444400">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:05:09</Created>
+	<LastChange>2011-12-19T11:39:43</LastChange></Metadata>
+	<Page imageFilename="00444400.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="drop-capital">
+	<Coords>
+	<Point x="456" y="1114"/>
+	<Point x="760" y="1111"/>
+	<Point x="762" y="1210"/>
+	<Point x="768" y="1392"/>
+	<Point x="670" y="1388"/>
+	<Point x="617" y="1384"/>
+	<Point x="551" y="1383"/>
+	<Point x="459" y="1385"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="895" y="50"/>
+	<Point x="1604" y="65"/>
+	<Point x="1607" y="195"/>
+	<Point x="883" y="196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="421" y="217"/>
+	<Point x="1322" y="206"/>
+	<Point x="2056" y="204"/>
+	<Point x="2010" y="1068"/>
+	<Point x="1192" y="1092"/>
+	<Point x="413" y="1062"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP. XXXVII. Trata de los eﬀetos
+que le quedauan quando el Señor le auia
+hecho alguna merced, junta con eﬆo har-
+to buena dorina: dize como ſe ha de pro-
+curar y tener en mucho ganar algun gra-
+do mas de gloria, y que por ningun
+trabajo dexemos bienes que ſon
+perpetuos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="764" y="1108"/>
+	<Point x="1084" y="1101"/>
+	<Point x="2042" y="1085"/>
+	<Point x="2048" y="2614"/>
+	<Point x="1995" y="2648"/>
+	<Point x="1955" y="2629"/>
+	<Point x="1910" y="2609"/>
+	<Point x="1780" y="2612"/>
+	<Point x="1743" y="2638"/>
+	<Point x="1718" y="2645"/>
+	<Point x="456" y="2658"/>
+	<Point x="458" y="1386"/>
+	<Point x="551" y="1384"/>
+	<Point x="577" y="1386"/>
+	<Point x="617" y="1385"/>
+	<Point x="681" y="1391"/>
+	<Point x="771" y="1395"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E mal ſe me haze dezir mas de las
+mercedes que me ha hecho el Se-
+ñor de las dichas, y aun ſon dema-
+adas para que ſe crea auerlas hecho a
+perſona tan ruin, mas por obedecer al Se-
+ñor que me lo ha mandado, y a vueras
+mercedes, dire algunas coſas para gloria ſuya:
+plega a ſu Magead ſea para aprouechar a
+algun alma, ver que a vna coſa tan mi-
+ſerable, ha querido el Señor an fauore-
+cer, que hara a quien le vuiere de verdad
+ſeruido, y ſe animen todos a contentar a
+ſu Magead, pues aun en ea vida da ta-
+les prendas. Lo primero ha ſe de entender
+que en eas mercedes que haze Dios al
+alma ay mas y menos gloria, porque en
+algunas viones excede tanto la gloria y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1781" y="2615"/>
+	<Point x="1909" y="2612"/>
+	<Point x="1993" y="2651"/>
+	<Point x="2003" y="2713"/>
+	<Point x="1800" y="2735"/>
+	<Point x="1775" y="2693"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>guo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="598" y="3059"/>
+	<Point x="1574" y="3069"/>
+	<Point x="1574" y="3153"/>
+	<Point x="596" y="3147"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="421" y="78"/>
+	<Point x="421" y="209"/>
+	<Point x="707" y="209"/>
+	<Point x="707" y="78"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>474</Unicode></TextEquiv></TextRegion></Page></PcGts>

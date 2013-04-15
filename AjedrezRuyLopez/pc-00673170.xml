@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00673170">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 10.0</Creator>
+	<Created>2012-02-02T10:51:00</Created>
+	<LastChange>2012-03-03T20:24:33</LastChange></Metadata>
+	<Page imageFilename="00673170.tif" imageWidth="1922" imageHeight="2628">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="501" y="2237"/>
+	<Point x="508" y="386"/>
+	<Point x="516" y="316"/>
+	<Point x="1353" y="297"/>
+	<Point x="1664" y="300"/>
+	<Point x="1705" y="303"/>
+	<Point x="1718" y="1287"/>
+	<Point x="1720" y="2215"/>
+	<Point x="897" y="2232"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y  el neg.jug.el caua.ala.4.dela dama contraria
+ſobre la dama y arﬁl : el blan. tomara el arﬁl con
+trario con el ſuyo dando xaque : y tomandolo el
+neg.con la dama:el blan.jug.ſu dama ala.3. della
+meſma ſobre el caua.contrario:y  el neg. jug. el
+peon de ſu rey quanto va para guardar ſu caua.
+quedara el peon dela dama del blan.ſuelto y cer-
+ca de poderſe hazer dama:y demas deo juga. el
+arﬁl de ſu dama ala.3. de ſu rey ſobre el caua. y 
+el neg.jug.el arﬁl de ſu rey ala.4.del arﬁl de ſu da
+ma: el blan. jug. el caua. de ſu rey ala. 2. del meſ-
+mo:y aſsi terna mucho mejor juego:y  ſe jug. de
+otra manera,ſabiendo el blan.jug. empre terna
+mejor juego. Pero dexemos aparte que no ſe ju-
+gaſe no el arﬁl, como dize Damiã, y que el neg.
+jug.el roque ala caſa del caua. y el blan. la dama a
+la.4.de ſu roque: y el negro jug. la ſuya, ala. 3. de
+ſu caua.y el blan.ſu caua..ala.3.de ſu arﬁl no con-
+uiene tomar el caua. con ſu arﬁl, como dize Da-
+mian, no ear aduertido a ver que hara el neg.
+porque no muda la dama de donde la tiene au-
+ra perdido el juego. Y ami parecer juegue el neg.
+lo que quiere, que el blan. le ganara el juego
+ſabiendo jug. mas facilmente no trocando el ar-
+ﬁl por el caua. que trocando lo y procurando ſa-
+lir con ſu caua.y ſaltar con ſu rey porque ruien-
+do con ſus roques el negro es perdido, y no ay</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="catch-word">
+	<Coords>
+	<Point x="1590" y="2227"/>
+	<Point x="1590" y="2292"/>
+	<Point x="1707" y="2292"/>
+	<Point x="1707" y="2227"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>para</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="header">
+	<Coords>
+	<Point x="732" y="230"/>
+	<Point x="732" y="293"/>
+	<Point x="754" y="301"/>
+	<Point x="1464" y="293"/>
+	<Point x="1463" y="224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro dela inuencion liberal</Unicode></TextEquiv></TextRegion></Page></PcGts>

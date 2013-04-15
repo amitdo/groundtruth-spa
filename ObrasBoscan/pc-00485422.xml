@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485422">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T00:50:41</Created>
+	<LastChange>2011-05-12T13:41:31</LastChange></Metadata>
+	<Page imageFilename="00485422.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="625" y="3028"/>
+	<Point x="1390" y="3028"/>
+	<Point x="1390" y="3093"/>
+	<Point x="625" y="3093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="377" y="194"/>
+	<Point x="1628" y="200"/>
+	<Point x="1662" y="2746"/>
+	<Point x="382" y="2746"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Con la prora eſpumoſa, las galeras:
+Como nadantes ﬁeras: el mar cortan:
+Haa que enﬁn aportan, con corona
+De lauro, a Barcelona: do cumplidos
+Los votos oﬀrecidos: y deeos:
+Y los grandes tropheos: y repueos:
+Con mouimiento preos: d'ai luego:
+En amoroſo fuego: todo ardiendo:
+El Duque iua corriendo: y no paraua:
+Cathaluña paaua: atras la dexa:
+Ya d' Aragon s'alexa: y en Caia
+Sin baxar de la a: los pies pone.
+El coraçon diſpone, aI alegria:
+Que vezina tenia, y reſerena
+Su roro: y enagena, de ſus ojos
+Muerte: daños: enojos, ſangre: y guerra.
+Con ſolo Amor s'encierra, n reſpeto.
+Y el amoroſo aﬀeto, y zelo ardiente
+Figurado y preſente, ea enla cara:
+Y la conſorte cara, preuroſa:
+(De vn tal plazer dudoſa, aun que lo via)
+El cueo le ceñia, en nudo, erecho:
+Que aquelos braços hecho, delicadas.
+De lagrimas preñadas, relumbrauan
+Los ojos, que ſobrauan, al Sol claro.
+Con ſu Fernando caro, y ſeñor pio
+La tierra, el campo, el rio, el monte, el ano:
+Alegres a vna mano, eauan todos.
+Mas con diuerſos modos, lo dezian:
+Los muros parecian d'otra altura</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="1146" y="97"/>
+	<Point x="1146" y="105"/>
+	<Point x="1147" y="105"/>
+	<Point x="1147" y="127"/>
+	<Point x="1148" y="127"/>
+	<Point x="1148" y="149"/>
+	<Point x="1149" y="149"/>
+	<Point x="1149" y="171"/>
+	<Point x="1150" y="171"/>
+	<Point x="1150" y="186"/>
+	<Point x="670" y="186"/>
+	<Point x="670" y="97"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r12" type="other">
+	<Coords>
+	<Point x="1295" y="97"/>
+	<Point x="1295" y="186"/>
+	<Point x="1152" y="186"/>
+	<Point x="1152" y="169"/>
+	<Point x="1151" y="169"/>
+	<Point x="1151" y="147"/>
+	<Point x="1150" y="147"/>
+	<Point x="1150" y="125"/>
+	<Point x="1149" y="125"/>
+	<Point x="1149" y="103"/>
+	<Point x="1148" y="103"/>
+	<Point x="1148" y="97"/></Coords></GraphicRegion></Page></PcGts>

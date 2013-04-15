@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444098">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:57:45</Created>
+	<LastChange>2011-12-19T11:39:25</LastChange></Metadata>
+	<Page imageFilename="00444098.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="878" y="105"/>
+	<Point x="1526" y="109"/>
+	<Point x="1521" y="206"/>
+	<Point x="876" y="200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="438" y="244"/>
+	<Point x="1969" y="237"/>
+	<Point x="1985" y="2625"/>
+	<Point x="1806" y="2625"/>
+	<Point x="1793" y="2644"/>
+	<Point x="1649" y="2650"/>
+	<Point x="1128" y="2652"/>
+	<Point x="424" y="2648"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tan las potencias del alma: mas eà tan ſatiſ-
+fecha con Dios, que mientras aqueo dura,
+aunque las dos potencias ſe desbaratẽ, como
+la voluntad eà vnida con Dios, no ſe pierde
+la quietud y el ſoſsiego, antes ea poco a po-
+co torna a recoger el entendimiento y memo
+ria: porque aunque ea aun no eà de todo
+punto engolfada, eà tambien ocupada n
+ſaber como, que por mucha diligencia que
+eas pongan, no la pueden quitar ſu conten-
+to y gozo, antes muy n trabajo ſe va ayu-
+dando, para que ea centeica de amor de
+Dios no ſe apague. Plega a ſu Magead me
+de gracia, para que yo de eo a entender
+bien, porque ay muchas, muchas almas que
+egan a ee eado, y pocas las que paan
+adelante, y no ſe quien tiene la culpa, a buen
+ſeguro que no falta Dios, que ya que ſu Ma-
+gead haze merced que egue a ee pun-
+to, no creo ceara de hazer muchas mas, 
+no fuee por nuera culpa: y va mucho en
+que el alma que ega aqui conozca la di-
+gnidad grande en que ea, y la gran mer-
+ced que le ha hecho el Señor, y como de
+buena razon no auia de ſer de la tierra, por-
+que ya parece la haze ſu bondad vezina
+del cielo,  no queda por ſu culpa: y deſ-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1716" y="2657"/>
+	<Point x="1973" y="2657"/>
+	<Point x="1973" y="2721"/>
+	<Point x="1716" y="2721"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>uentu-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="610" y="3065"/>
+	<Point x="1589" y="3065"/>
+	<Point x="1589" y="3154"/>
+	<Point x="610" y="3154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="426" y="124"/>
+	<Point x="426" y="228"/>
+	<Point x="589" y="228"/>
+	<Point x="589" y="124"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>170</Unicode></TextEquiv></TextRegion></Page></PcGts>

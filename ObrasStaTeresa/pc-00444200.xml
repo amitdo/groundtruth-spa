@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444200">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:40:33</Created>
+	<LastChange>2011-12-19T11:39:31</LastChange></Metadata>
+	<Page imageFilename="00444200.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="959" y="97"/>
+	<Point x="1330" y="82"/>
+	<Point x="1567" y="79"/>
+	<Point x="1567" y="216"/>
+	<Point x="947" y="212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="458" y="254"/>
+	<Point x="719" y="233"/>
+	<Point x="1747" y="234"/>
+	<Point x="2042" y="224"/>
+	<Point x="2061" y="417"/>
+	<Point x="2068" y="1376"/>
+	<Point x="2065" y="2637"/>
+	<Point x="1900" y="2645"/>
+	<Point x="1708" y="2677"/>
+	<Point x="1638" y="2666"/>
+	<Point x="1137" y="2674"/>
+	<Point x="696" y="2663"/>
+	<Point x="463" y="2650"/>
+	<Point x="469" y="1164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mucho rato. Yo como en eos tiempos auian
+acaecido grandes iuones en mugeres, y en‐
+gaños que les auia hecho el demonio, comen
+ce a temer, como era tan grande el deleyte y
+ſuauidad que ſentia, y muchas vezes n po‐
+derlo eſcuſar, pueo que via en mi por otra
+parte vna grandiſsima ſeguridad  era Dios,
+en eſpecial quando eaua en la oracion, y via
+que quedaua de ai muy mejorada, y cõ mas
+fortaleza, mas en diray endome vn poco tor
+naua a temer, y a penſar  queria el demonio
+haziendome entender que era bueno, ſuſpen
+der el entendimiento, para quitarme la ora‐
+cion mental, y que no pudiee penſar en la
+paſsion, ni aprouecharme del entendimiento
+que me parecia a mi mayor perdida, como no
+lo entendia, mas como ſu Magead queria ya
+darme luz, para que no le oﬀendiee y cono-
+ciee lo mucho que le deuia, crecio de ſuerte
+ee miedo, que me hizo buſcar con diligen‐
+cia perſonas ſpirituales con quien tratar, que
+ya tenia noticia de algunos, porque auian ve‐
+nido aqui los de la compañia de Ieſus, a quiẽ
+yo n conocer a ninguno era muy aﬃciona
+da de ſolo ſaber el modo que euauan de vi‐
+da y oracion: mas no me haaua digna de ha
+blarles, ni fuerte para obedecerlos, que eo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="618" y="3028"/>
+	<Point x="1112" y="3041"/>
+	<Point x="1592" y="3030"/>
+	<Point x="1568" y="3166"/>
+	<Point x="617" y="3161"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="508" y="122"/>
+	<Point x="661" y="122"/>
+	<Point x="661" y="225"/>
+	<Point x="508" y="225"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>272</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1873" y="2661"/>
+	<Point x="2000" y="2668"/>
+	<Point x="2000" y="2753"/>
+	<Point x="1878" y="2762"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>me</Unicode></TextEquiv></TextRegion></Page></PcGts>

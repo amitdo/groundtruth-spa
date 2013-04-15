@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442258">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T06:18:37</Created>
+	<LastChange>2012-03-12T14:11:47</LastChange></Metadata>
+	<Page imageFilename="00442258.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r5" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="21" y="159"/>
+	<Point x="21" y="1121"/>
+	<Point x="1410" y="1044"/>
+	<Point x="1428" y="159"/>
+	<Point x="340" y="140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aunque deſnudo de aquel precioſo ornamento
+de elegancia, y erudicion, de que ſuelen andar
+veidas las obras que ſe componen en las caſas
+de los hombres que ſaben, oſe parecer ſegura-
+mente en el juyzio de algunos, que continien-
+doſe en los limites de ſu ignor ancia, ſuelen cõ-
+denar con mas rigor, y menos juicia, los tra-
+bajos agenos, que poniendo los ojos la prudencia
+de vueﬆra Excelencia en mi buen deeo, ﬁo,
+que no deſdeñarà la cortedad de tan humilde
+ſeruicio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="697" y="1133"/>
+	<Point x="697" y="1290"/>
+	<Point x="1273" y="1290"/>
+	<Point x="1273" y="1133"/>
+	<Point x="1040" y="1109"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Miguel de Ceruantes
+Saauedra.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1021" y="1488"/>
+	<Point x="1021" y="1607"/>
+	<Point x="1430" y="1607"/>
+	<Point x="1430" y="1488"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DESOCV-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="442" y="2300"/>
+	<Point x="442" y="2384"/>
+	<Point x="1138" y="2384"/>
+	<Point x="1138" y="2300"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

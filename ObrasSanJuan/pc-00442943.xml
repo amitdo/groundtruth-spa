@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442943">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T19:04:06</Created>
+	<LastChange>2011-03-15T16:51:29</LastChange></Metadata>
+	<Page imageFilename="00442943.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r10" index="0"/>
+	<RegionRefIndexed regionRef="r12" index="1"/>
+	<RegionRefIndexed regionRef="r11" index="2"/>
+	<RegionRefIndexed regionRef="r13" index="3"/>
+	<RegionRefIndexed regionRef="r14" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="761" y="11"/>
+	<Point x="761" y="137"/>
+	<Point x="1505" y="144"/>
+	<Point x="1512" y="14"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CENSVRA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords>
+	<Point x="496" y="182"/>
+	<Point x="1903" y="194"/>
+	<Point x="1887" y="414"/>
+	<Point x="1739" y="413"/>
+	<Point x="1739" y="520"/>
+	<Point x="1637" y="519"/>
+	<Point x="1638" y="607"/>
+	<Point x="1305" y="606"/>
+	<Point x="1306" y="703"/>
+	<Point x="907" y="702"/>
+	<Point x="906" y="581"/>
+	<Point x="615" y="581"/>
+	<Point x="614" y="495"/>
+	<Point x="515" y="496"/>
+	<Point x="515" y="377"/>
+	<Point x="380" y="376"/>
+	<Point x="379" y="210"/>
+	<Point x="380" y="181"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Del Ilustrimo ſeñor dō Frai Aguin Antolinez de
+la Orden de San-Aguin, Obiſpo de Ciudad- Rodri-
+go, antes Catedratica de Prima de Teologia
+en Salamanca, i deſpues Arçobiſpo
+de Santiago.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="387" y="1000"/>
+	<Point x="550" y="995"/>
+	<Point x="553" y="950"/>
+	<Point x="572" y="941"/>
+	<Point x="557" y="901"/>
+	<Point x="563" y="753"/>
+	<Point x="1890" y="776"/>
+	<Point x="1868" y="1970"/>
+	<Point x="374" y="1953"/>
+	<Point x="374" y="1009"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E Vio el libro del Siervo de Dios i Venerable
+Padre Frai Ioan de la Cruz; enſeña en èl la deſnu
+dez del alma de todo lo que no es Dios, i abnega-
+cion de ſi meſma, de que habla el Evangelio. Ponela en
+pratica, dala desleida i aficiona a ella. Vſa por eſcelen-
+cia de la ſagrada Eſcritura que trae a ſu propoto. Mueſ
+tra bien el eſpiritu i luz del cielo que tuvo, cuando eſcri
+bio; pudiendo dezir de ſu dotrina con el Señor: Mea do-
+rina non e mea, ſed eius qui miſit me Patris. Midotrina
+no es mia, ſino del Señor que me embiò, i habl? en mi.
+Fue gran bien que ſalieſe a luz para las almas que tra-
+tan de Oracion i Maeros que las guian. En fè de lo
+cual lo firmo de mi nombre, en ſan Felipe de Madrid de
+la Orden de San Aguin nuero Padre, a cuatro de Se-
+tiembre de mil ſeiſcientos i veinte i tres años.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="drop-capital">
+	<Coords>
+	<Point x="415" y="941"/>
+	<Point x="558" y="936"/>
+	<Point x="556" y="915"/>
+	<Point x="550" y="907"/>
+	<Point x="550" y="886"/>
+	<Point x="548" y="802"/>
+	<Point x="558" y="779"/>
+	<Point x="547" y="755"/>
+	<Point x="388" y="755"/>
+	<Point x="394" y="934"/>
+	<Point x="408" y="937"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="891" y="1993"/>
+	<Point x="891" y="2233"/>
+	<Point x="1746" y="2233"/>
+	<Point x="1746" y="1993"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Frai Agustin Antolinez
+Obiſpo de Ciudad-Rodrigo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="catch-word">
+	<Coords>
+	<Point x="1558" y="2483"/>
+	<Point x="1558" y="2594"/>
+	<Point x="1874" y="2594"/>
+	<Point x="1874" y="2483"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ELO-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="credit">
+	<Coords>
+	<Point x="778" y="2933"/>
+	<Point x="778" y="3002"/>
+	<Point x="1424" y="3002"/>
+	<Point x="1424" y="2933"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

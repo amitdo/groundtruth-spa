@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485463">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T07:28:11</Created>
+	<LastChange>2011-07-28T11:27:38</LastChange></Metadata>
+	<Page imageFilename="00485463.tif" imageWidth="2058" imageHeight="3042">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="r9" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="829" y="17"/>
+	<Point x="1164" y="9"/>
+	<Point x="1180" y="94"/>
+	<Point x="831" y="101"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LOA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="1009" y="114"/>
+	<Point x="1221" y="111"/>
+	<Point x="1244" y="95"/>
+	<Point x="1950" y="104"/>
+	<Point x="1964" y="516"/>
+	<Point x="1990" y="635"/>
+	<Point x="2002" y="659"/>
+	<Point x="1966" y="730"/>
+	<Point x="2003" y="2529"/>
+	<Point x="1057" y="2542"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>en ee ſugeto caben.
+Ya le ahorcan por ladron,
+ya lo eligen por Alcalde,
+ya lo quieren por ſeñor,
+ya por ﬁel ſube a ſer graue.
+Aqui ea en Eſpaña agora
+y en vn punto viue en Flandes,
+ya ea en Indias, ya ea en Roma
+ya en Poniente, ya en Leuante.
+Ay quien declare ea Loa
+pues ſepa el que no lo ſabe,
+que lo que eo gniﬁca
+es ſolo el repreſentante.
+Ee es el que en el tablado
+todas eas coſas haze,
+quando quiere repreſentar
+y en muchas comedias ſale.
+Ya ſale moço galan,
+ya ſale viejo, ya paje,
+ya loco, ya Portugues,
+ya borracho, ya eudiante,
+Ya Medico, ya letrado,
+ya texedor, ya pelayre,
+ya ſe caſa ochenta vezes
+aunque media vez le bae.
+Y ala Loa he declarado,
+boluamos a lo importante,
+que es el lencio pedido,
+por tres oras no cauales.
+Vs. ms. lo tengan
+y haran nos merced muy grande,
+oyga el que fuere diſcreto,
+y el que fuere necio hable.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="1545" y="2584"/>
+	<Point x="1713" y="2582"/>
+	<Point x="1716" y="2670"/>
+	<Point x="1541" y="2666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ϯϯ 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="623" y="2946"/>
+	<Point x="1385" y="2950"/>
+	<Point x="1382" y="3012"/>
+	<Point x="619" y="3015"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="42" y="152"/>
+	<Point x="909" y="126"/>
+	<Point x="913" y="1565"/>
+	<Point x="909" y="2565"/>
+	<Point x="95" y="2573"/>
+	<Point x="40" y="540"/>
+	<Point x="38" y="314"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>viendo que en ea ocaon
+es licito y importante.
+pero mientras me lo prean
+quiero agora preguntarles
+vua Loa que parece
+coſa nueua y diſparate
+Qual es aquel monruo ﬁero
+que nacio de nobles padres
+y pario vna madre ſola,
+y de muchas madres nace.
+Es blanco y a vezes negro.
+es humilde y arrogante
+es muy ﬂaco y animoſo,
+y de poco ſer y es graue.
+Aqui es hombre, ai muger
+aqui niño, ai gigante,
+aqui habla, ai ea mudo,
+aqui es Clerigo, ai Frayle.
+Aqui ſe haze pedaços
+ya ea entero en vn intante,
+ya ea viuo, ya ea muerto,
+ya es de piedra ya es de carne.
+Es mas peſado que el plomo
+y mas lijero que el ayre,
+n alas ſube a los cielos,
+y de aa en vn punto cae.
+Tiene naues n teneas
+que do ea vſurpa las naues,
+da guerra al Turco n gente
+ pieças, caios bate.
+Es vn cuerpo de mentiras,
+fus mentiras ſon verdades
+ved que contrarios eﬀeos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1861" y="2571"/>
+	<Point x="1861" y="2659"/>
+	<Point x="2028" y="2661"/>
+	<Point x="2035" y="2626"/>
+	<Point x="2021" y="2576"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Otra</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440277">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T23:39:54</Created>
+	<LastChange>2011-12-19T11:38:55</LastChange></Metadata>
+	<Page imageFilename="00440277.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r13" index="0"/>
+	<RegionRefIndexed regionRef="r14" index="1"/>
+	<RegionRefIndexed regionRef="r15" index="2"/>
+	<RegionRefIndexed regionRef="r17" index="3"/>
+	<RegionRefIndexed regionRef="r18" index="4"/>
+	<RegionRefIndexed regionRef="r19" index="5"/>
+	<RegionRefIndexed regionRef="r36" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r27" type="credit">
+	<Coords>
+	<Point x="990" y="4003"/>
+	<Point x="1959" y="4003"/>
+	<Point x="1959" y="4094"/>
+	<Point x="990" y="4094"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="page-number">
+	<Coords>
+	<Point x="800" y="370"/>
+	<Point x="959" y="370"/>
+	<Point x="959" y="470"/>
+	<Point x="800" y="470"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>258</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="header">
+	<Coords>
+	<Point x="1272" y="359"/>
+	<Point x="2079" y="359"/>
+	<Point x="2079" y="477"/>
+	<Point x="1272" y="477"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r2">
+	<Coords>
+	<Point x="905" y="642"/>
+	<Point x="1421" y="649"/>
+	<Point x="1867" y="665"/>
+	<Point x="1888" y="687"/>
+	<Point x="1975" y="671"/>
+	<Point x="2089" y="655"/>
+	<Point x="2092" y="977"/>
+	<Point x="898" y="977"/></Coords></TableRegion>
+	<TableRegion id="r9">
+	<Coords>
+	<Point x="892" y="1114"/>
+	<Point x="2027" y="1140"/>
+	<Point x="2020" y="1446"/>
+	<Point x="885" y="1446"/></Coords></TableRegion>
+	<TableRegion id="r12">
+	<Coords>
+	<Point x="887" y="1587"/>
+	<Point x="2031" y="1594"/>
+	<Point x="2037" y="1920"/>
+	<Point x="875" y="1920"/></Coords></TableRegion>
+	<TableRegion id="r16">
+	<Coords>
+	<Point x="881" y="2044"/>
+	<Point x="2001" y="2072"/>
+	<Point x="2011" y="2398"/>
+	<Point x="866" y="2398"/></Coords></TableRegion>
+	<TableRegion id="r20">
+	<Coords>
+	<Point x="868" y="2509"/>
+	<Point x="2018" y="2553"/>
+	<Point x="2022" y="2850"/>
+	<Point x="862" y="2850"/></Coords></TableRegion>
+	<TableRegion id="r24">
+	<Coords>
+	<Point x="866" y="2983"/>
+	<Point x="2018" y="3018"/>
+	<Point x="2025" y="3331"/>
+	<Point x="850" y="3331"/></Coords></TableRegion>
+	<TextRegion id="r36" type="catch-word">
+	<Coords>
+	<Point x="2433" y="3398"/>
+	<Point x="2433" y="3525"/>
+	<Point x="2625" y="3525"/>
+	<Point x="2625" y="3398"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tio-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1448" y="540"/>
+	<Point x="1448" y="644"/>
+	<Point x="1860" y="644"/>
+	<Point x="1872" y="664"/>
+	<Point x="1898" y="669"/>
+	<Point x="2070" y="644"/>
+	<Point x="2070" y="540"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>17 Triangulo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1437" y="1025"/>
+	<Point x="1437" y="1111"/>
+	<Point x="1566" y="1111"/>
+	<Point x="1566" y="1025"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>18</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1431" y="1503"/>
+	<Point x="1431" y="1585"/>
+	<Point x="1550" y="1585"/>
+	<Point x="1550" y="1503"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>19</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1431" y="1975"/>
+	<Point x="1431" y="2048"/>
+	<Point x="1557" y="2048"/>
+	<Point x="1557" y="1975"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>20</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1422" y="2440"/>
+	<Point x="1422" y="2514"/>
+	<Point x="1548" y="2514"/>
+	<Point x="1548" y="2440"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>21</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1412" y="2901"/>
+	<Point x="1412" y="2979"/>
+	<Point x="1544" y="2979"/>
+	<Point x="1544" y="2901"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>22</Unicode></TextEquiv></TextRegion></Page></PcGts>

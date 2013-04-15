@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444180">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:38:05</Created>
+	<LastChange>2011-12-19T11:39:30</LastChange></Metadata>
+	<Page imageFilename="00444180.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="480" y="237"/>
+	<Point x="900" y="236"/>
+	<Point x="2048" y="230"/>
+	<Point x="2048" y="544"/>
+	<Point x="2041" y="1033"/>
+	<Point x="2031" y="1616"/>
+	<Point x="2025" y="2298"/>
+	<Point x="2015" y="2668"/>
+	<Point x="1144" y="2662"/>
+	<Point x="979" y="2681"/>
+	<Point x="559" y="2698"/>
+	<Point x="498" y="2677"/>
+	<Point x="458" y="2672"/>
+	<Point x="459" y="2591"/>
+	<Point x="461" y="2016"/>
+	<Point x="463" y="1623"/>
+	<Point x="466" y="1138"/>
+	<Point x="466" y="393"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>todo lo demas le parece juego de niños, rieſe
+entre  algunas vezes quando vee a perſonas
+graues de oracion y religion hazer mucho
+caſo de vnos puntos de honra que ea alma
+tiene ya debaxo de los pies, dizen que es
+diſcrecion y autoridad de ſu eado para
+mas aprouechar, ſabe ea muy bien que
+aprouecharian mas en vn dia que poſpu-
+een aquea autoridad de eado por
+amor de Dios, que con ea en diez años.
+An viue vida trabajoſa y con empre
+cruz, mas va en gran crecimiento, quan-
+do parece a los que las tratan ean muy
+en la cumbre, deſde a poco ean muy mas
+mejoradas, porque empre las va fauore-
+ciendo mas . Dios es alma ſuya, es el que
+la tiene ya a cargo, y an le luze, porque
+parece aſsientemente la ea empre
+guardando, para que no le oﬀenda, y
+fauoreciendo, y deſpertando para que le
+rua . En egando mi alma a que Dios
+la hiziee ea tan gran merced cea-
+ron mis males, y me dio el Señor for-
+taleza para ſalir deos, y no me hazia mas
+ear en las ocaones, y con gente que me
+ſolia diraer que no euuiera, antes me
+ayudaua lo que me ſolia dañar, todo me</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1890" y="2676"/>
+	<Point x="1998" y="2675"/>
+	<Point x="2011" y="2736"/>
+	<Point x="1869" y="2745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>era</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="606" y="3009"/>
+	<Point x="868" y="3025"/>
+	<Point x="1187" y="3034"/>
+	<Point x="1597" y="3026"/>
+	<Point x="1556" y="3162"/>
+	<Point x="619" y="3156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="851" y="106"/>
+	<Point x="1184" y="87"/>
+	<Point x="1413" y="81"/>
+	<Point x="1695" y="120"/>
+	<Point x="1695" y="201"/>
+	<Point x="1419" y="218"/>
+	<Point x="863" y="215"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="477" y="122"/>
+	<Point x="669" y="123"/>
+	<Point x="645" y="220"/>
+	<Point x="476" y="226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>252</Unicode></TextEquiv></TextRegion></Page></PcGts>

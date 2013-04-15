@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440076">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T10:04:45</Created>
+	<LastChange>2011-12-19T11:38:40</LastChange></Metadata>
+	<Page imageFilename="00440076.tif" imageWidth="2937" imageHeight="4105">
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="746" y="258"/>
+	<Point x="1851" y="258"/>
+	<Point x="1851" y="343"/>
+	<Point x="746" y="343"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LAS DECLINACIONES DEL SOL.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r156" type="credit">
+	<Coords>
+	<Point x="999" y="4011"/>
+	<Point x="1951" y="4011"/>
+	<Point x="1951" y="4088"/>
+	<Point x="999" y="4088"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r157" type="page-number">
+	<Coords>
+	<Point x="2009" y="253"/>
+	<Point x="2009" y="382"/>
+	<Point x="2175" y="382"/>
+	<Point x="2175" y="253"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>59</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r8">
+	<Coords>
+	<Point x="1960" y="351"/>
+	<Point x="1960" y="993"/>
+	<Point x="1961" y="993"/>
+	<Point x="1961" y="1635"/>
+	<Point x="1962" y="1635"/>
+	<Point x="1962" y="2277"/>
+	<Point x="1963" y="2277"/>
+	<Point x="1963" y="2919"/>
+	<Point x="1964" y="2919"/>
+	<Point x="1964" y="3560"/>
+	<Point x="1965" y="3560"/>
+	<Point x="1406" y="3561"/>
+	<Point x="1358" y="3584"/>
+	<Point x="537" y="3584"/>
+	<Point x="549" y="3159"/>
+	<Point x="550" y="3159"/>
+	<Point x="550" y="2758"/>
+	<Point x="551" y="2758"/>
+	<Point x="551" y="2357"/>
+	<Point x="552" y="2357"/>
+	<Point x="552" y="1956"/>
+	<Point x="553" y="1956"/>
+	<Point x="553" y="1555"/>
+	<Point x="554" y="1555"/>
+	<Point x="554" y="1154"/>
+	<Point x="555" y="1154"/>
+	<Point x="555" y="753"/>
+	<Point x="556" y="753"/>
+	<Point x="556" y="353"/>
+	<Point x="1258" y="353"/>
+	<Point x="1258" y="352"/>
+	<Point x="1960" y="352"/></Coords></TableRegion>
+	<TextRegion id="r159" type="signature-mark">
+	<Coords>
+	<Point x="1412" y="3566"/>
+	<Point x="1551" y="3566"/>
+	<Point x="1552" y="3597"/>
+	<Point x="1551" y="3646"/>
+	<Point x="1412" y="3646"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H 2</Unicode></TextEquiv></TextRegion></Page></PcGts>

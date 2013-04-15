@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485109">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T00:14:01</Created>
+	<LastChange>2011-05-12T13:40:55</LastChange></Metadata>
+	<Page imageFilename="00485109.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="618" y="3022"/>
+	<Point x="1408" y="3024"/>
+	<Point x="1408" y="3094"/>
+	<Point x="619" y="3094"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="477" y="206"/>
+	<Point x="687" y="212"/>
+	<Point x="702" y="214"/>
+	<Point x="775" y="214"/>
+	<Point x="895" y="205"/>
+	<Point x="1673" y="200"/>
+	<Point x="1674" y="454"/>
+	<Point x="1675" y="1446"/>
+	<Point x="1432" y="1452"/>
+	<Point x="507" y="1446"/>
+	<Point x="496" y="1433"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Gran tiempo Amor me tuuo de ſu mano:
+El bien con el dolor en mi templando:
+Traiendome con guo, y con tormento:
+Comigo miſmo entonçes fuy paando:
+Embuelto en mis dolençias como ſano:
+Pues que todo paraua en ſer contento:
+Paaua d'vno en otro penſamiento:
+Y  mal vna vez m'amaneçia:
+Era el anocheçer deſpues ſabroſo:
+Penaua con repoſo:
+Muchos dias ſufriendo por vn dia:
+Si vn mal ſe ſeñalaua
+En mi, luego otro bien me ſoenia:
+El mal en cantidad mucho peſaua:
+Pero en la calidad el bien euaua.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="462" y="1502"/>
+	<Point x="1709" y="1503"/>
+	<Point x="1732" y="2233"/>
+	<Point x="1724" y="2781"/>
+	<Point x="478" y="2795"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tanto euaua el bien, al dolor mio:
+Que ſolo con el bien era mi cuenta:
+El dolor s'oluidaua, o ſe perdia:
+Mi alma 'aua por Amor contenta:
+Y aun que'ra el contentarſe deſuario:
+Su penſamiento en eo la regia:
+No era alboroçada ſu alegria:
+Antes era tan graue, y tan fundada:
+Qne mi gozo enlo hondo andaua pueo:
+Sin ſalir nunca'l geo:
+Yo andauame'ntremi n morar nada:
+Queriendo'ar doblado:
+Con gente que traer penſe'ngañada:
+Comigo'aua ya tan conﬁado:
+Que holgaua de ﬁngirme mal tratado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="615" y="115"/>
+	<Point x="615" y="200"/>
+	<Point x="691" y="204"/>
+	<Point x="731" y="205"/>
+	<Point x="900" y="191"/>
+	<Point x="1293" y="196"/>
+	<Point x="1292" y="167"/>
+	<Point x="1289" y="161"/>
+	<Point x="1286" y="140"/>
+	<Point x="1289" y="107"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ CANCION.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r9">
+	<Coords>
+	<Point x="1302" y="125"/>
+	<Point x="1291" y="134"/>
+	<Point x="1290" y="154"/>
+	<Point x="1295" y="164"/>
+	<Point x="1295" y="181"/>
+	<Point x="1309" y="197"/>
+	<Point x="1428" y="194"/>
+	<Point x="1428" y="135"/></Coords></GraphicRegion></Page></PcGts>

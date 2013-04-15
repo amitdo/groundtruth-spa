@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439066">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T02:56:05</Created>
+	<LastChange>2010-12-28T05:07:12</LastChange></Metadata>
+	<Page imageFilename="00439066.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="530" y="94"/>
+	<Point x="1438" y="87"/>
+	<Point x="1461" y="172"/>
+	<Point x="536" y="172"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GVZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="292" y="190"/>
+	<Point x="406" y="185"/>
+	<Point x="437" y="187"/>
+	<Point x="529" y="182"/>
+	<Point x="1714" y="183"/>
+	<Point x="1725" y="2600"/>
+	<Point x="1558" y="2601"/>
+	<Point x="1427" y="2629"/>
+	<Point x="303" y="2616"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Colon, deſcubierto un mundo nuevo. Lleguè à una ven-
+ta, ſudado, polvoroſo, deſpeado, trie, y ſobre todo el
+molino picado, el diente agudo, y el eomago devil. Seria
+medio dia, pedì de comer, dixerõ  no avia no ſolo hue-
+vos, no tan malo  lo fueran, que à la beaca de la ven-
+tera, con el mucho calor, ò que la zorra le matae la ga-
+ina, ſe quedaron empoados, y por no perderlo todo,
+los yva encaxando con otros buenos. No lo hizo aſ con
+migo, que quales ea me los diò, le pague Dios la buena
+obra. Viome muchacho, boquirrubio, cariampoado,
+chapeton, parecile un Juan de buen alma, y que para mi
+baàra que quiera. Preguntòme: De donde ſoys hĳo?
+Dixele que de Sevi, gòſeme mas, y dandome con ſu
+mano unos golpozitos debaxo de la barba, me dixo: Y à
+donde va el bovito? O poderoſo Señor, y como con a-
+quel ſu mal reſueo, me pareciò que contraxe vegez, y
+con ea todos los males: y  tuviera entonces ocupado
+el eomago con algo, lo trocara en aquel punto, pues
+me haè con las tripas junto à los labios. Dixele que yva
+à la Corte, que me diee de comer. Hizome ſentar en un
+banquio coxo, y encima de un poyo me puſo un barre-
+dero de horno, con un ſalero hecho de un ſuelo de canta-
+ro, un tieo de gainas eno de agua, y una media hoga-
+ça mas negra que los manteles. Luego me ſacò en un
+plato una tortia de huvos, que pudiera amarſe mejor
+emplaro de huevos, eos, el pan, jarro, agua, ſalero, ſaI,
+manteles, y la hueſpeda, todo era de lo miſmo, Haème
+boçal, el eomago apurado, las tripas de poa, que ſe da-
+van unas con otras de bazias, comì como el puerco la be-
+ota, todo à hecho, aunque verdaderamente ſentia cru-
+gir entre los dientes los tiernezitos hueos de los n
+ventura poos, que era como hazerme coſquias en las
+enzias. Bien es verdad, que ſe me hizo novedad (y aun
+en el guo) que no era como el de los otros huevos que
+ſolia comer en caſa de mi madre, mas dexè paar aquel
+penſamiento con la hambre y el canſancio, pareciendo-
+me que la diancia de la tierra lo cauſava, y que no eran</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="540" y="2870"/>
+	<Point x="1301" y="2869"/>
+	<Point x="1305" y="2941"/>
+	<Point x="536" y="2939"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1607" y="2610"/>
+	<Point x="1607" y="2670"/>
+	<Point x="1709" y="2670"/>
+	<Point x="1709" y="2610"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>to-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="301" y="98"/>
+	<Point x="301" y="180"/>
+	<Point x="417" y="175"/>
+	<Point x="412" y="98"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>34</Unicode></TextEquiv></TextRegion></Page></PcGts>

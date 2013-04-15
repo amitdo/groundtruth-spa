@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485018">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T07:34:01</Created>
+	<LastChange>2011-05-12T13:40:45</LastChange></Metadata>
+	<Page imageFilename="00485018.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="618" y="3006"/>
+	<Point x="1408" y="3006"/>
+	<Point x="1410" y="3087"/>
+	<Point x="616" y="3087"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="332" y="178"/>
+	<Point x="1646" y="214"/>
+	<Point x="1628" y="1449"/>
+	<Point x="314" y="1453"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Luego tuue vn tormento,
+Que agora ya conozco que eran celos:
+Mas entonçes imbidia penſe que era.
+Eran todos mis duelos,
+Y toda mi congoxa y ſentimiento,
+Si os via con otri, y fuee quinquiera;
+Malo era veo, peor  lo oyera.
+Reprendia me de' e penſamiento:
+Para te nee, cauſas no haaua:
+Y en mi ſeſo aﬁrmaua,
+Ser mala condicion tal mouimiento.
+Mil ſoſpechas preſentes
+Sentia yo n mi conſentimiento.
+Con vr̃a madre, hermanos, y parientes
+Fueron luego mis cuytas, y acidentes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="310" y="1482"/>
+	<Point x="1664" y="1474"/>
+	<Point x="1657" y="2817"/>
+	<Point x="392" y="2796"/>
+	<Point x="335" y="2799"/>
+	<Point x="292" y="2792"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Via os holgar con eos:
+Tenia lo por malo, y por baxeza:
+Eo en vos ſola, que' n otras bien fuera.
+Sentia ai trieza:
+Porque la ſangre os obligo a quereos.
+Penſando 'aua,  deos viniera,
+Que alguna parte del bien me cupiera.
+Luego ſaltaua en otro penſamiento:
+Tenia por mejor earm'ai:
+Pues ala ora que os vi,
+Tuue de vos tan buen conocimiento.
+Naciame deſpecho
+D' auer buſcado otro contentamiento.
+En ﬁn concluya d' ir ſatiſfecho,
+Quedandome con todo mi derecho.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="1250" y="71"/>
+	<Point x="1250" y="182"/>
+	<Point x="1653" y="182"/>
+	<Point x="1653" y="71"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eo. XXV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00673154">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 10.0</Creator>
+	<Created>2012-02-01T21:28:00</Created>
+	<LastChange>2012-03-02T11:32:59</LastChange></Metadata>
+	<Page imageFilename="00673154.tif" imageWidth="1908" imageHeight="2621">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="464" y="2224"/>
+	<Point x="462" y="308"/>
+	<Point x="1682" y="295"/>
+	<Point x="1680" y="2206"/>
+	<Point x="771" y="2224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>el peõ podia auer de ordenar los juegos de guiſa 
+las pieças quedaen libres: y la oﬀenſa del enemi
+gofuee menor. A  como ſe vera ami pareſcer
+ea ſegũda manera de guardar lo con el peon de
+la dama es la mejor.Si el blan.jugara el arﬁl de ſu
+rey ala.4. del arf. de ſu dama:el neg.jug.el peõ del
+arﬁl dela dama vna caſa.Si el blã.jug. el peon del
+arﬁl de ſu dama vna caſa:el neg.jug.el peon de ſu
+dama vna caſa ſupra el arﬁl contrario. Si el blan.
+lo tomara con el peon de ſu rey:el neg.tomara cõ
+el peon del arﬁl.Si el blan.dara xaque con el arﬁl
+ala.4.del cau.dela dama cõtraria:el neg.ſe cubri-
+ra con el arﬁl de ſu dama. Si el blan.lo tomara cõ
+el ſuyo: el neg. tomara con el caua.guardando el
+peon de ſu rey. Si el blan.jug. ſu dama ala.3.de ſu
+caua.ſobre el peon dela dama,y ſobre el peon del
+cau.dela dama del cõtrario:el neg.jug.el peõ del
+rey otra caſa adelante ſobre el cau. del rey contra
+rio.Si el blan.jug.el dicho cau.ala. 4. de ſu dama:
+el neg.jug.el caua.de ſu dama ala.4. del arf.de ſu
+dama ſobre la dama contraria. Si el blan. dara xa
+que con ſu dama ala.4.de ſu caua.dela dama con
+traria:el neg. ſe cobrira con ſu dama: y trocando
+el neg.tomara con ſu rey,por poder meter el cau.
+de ſu dama ala.3.dela dama contraria para tener
+le captiuas ſus pieças:y aſsi le queda mejor juego
+ſabiendo jugar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="catch-word">
+	<Coords>
+	<Point x="1511" y="2215"/>
+	<Point x="1511" y="2297"/>
+	<Point x="1651" y="2297"/>
+	<Point x="1651" y="2215"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cap.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="header">
+	<Coords>
+	<Point x="715" y="230"/>
+	<Point x="715" y="293"/>
+	<Point x="785" y="295"/>
+	<Point x="1447" y="293"/>
+	<Point x="1447" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro de la inuencion liberal</Unicode></TextEquiv></TextRegion></Page></PcGts>

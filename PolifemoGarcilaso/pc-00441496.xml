@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441496">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T21:46:19</Created>
+	<LastChange>2011-05-12T13:40:35</LastChange></Metadata>
+	<Page imageFilename="00441496.tif" imageWidth="1444" imageHeight="2304">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/>
+	<RegionRefIndexed regionRef="r12" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1225" y="2119"/>
+	<Point x="1373" y="2119"/>
+	<Point x="1373" y="2187"/>
+	<Point x="1225" y="2187"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pia</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="413" y="2212"/>
+	<Point x="1015" y="2212"/>
+	<Point x="1015" y="2273"/>
+	<Point x="413" y="2273"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="1300" y="66"/>
+	<Point x="1300" y="158"/>
+	<Point x="1281" y="158"/>
+	<Point x="1281" y="159"/>
+	<Point x="1238" y="159"/>
+	<Point x="1238" y="160"/>
+	<Point x="1195" y="160"/>
+	<Point x="1195" y="161"/>
+	<Point x="1152" y="161"/>
+	<Point x="1152" y="162"/>
+	<Point x="1109" y="162"/>
+	<Point x="1109" y="163"/>
+	<Point x="1066" y="163"/>
+	<Point x="1066" y="164"/>
+	<Point x="1023" y="164"/>
+	<Point x="1023" y="165"/>
+	<Point x="776" y="165"/>
+	<Point x="776" y="166"/>
+	<Point x="572" y="166"/>
+	<Point x="572" y="167"/>
+	<Point x="565" y="167"/>
+	<Point x="565" y="168"/>
+	<Point x="558" y="168"/>
+	<Point x="558" y="169"/>
+	<Point x="551" y="169"/>
+	<Point x="551" y="170"/>
+	<Point x="544" y="170"/>
+	<Point x="544" y="171"/>
+	<Point x="537" y="171"/>
+	<Point x="537" y="172"/>
+	<Point x="530" y="172"/>
+	<Point x="530" y="173"/>
+	<Point x="523" y="173"/>
+	<Point x="523" y="174"/>
+	<Point x="516" y="174"/>
+	<Point x="516" y="175"/>
+	<Point x="390" y="175"/>
+	<Point x="390" y="176"/>
+	<Point x="265" y="176"/>
+	<Point x="265" y="177"/>
+	<Point x="162" y="177"/>
+	<Point x="162" y="66"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>POLIFEMO</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="1300" y="160"/>
+	<Point x="1302" y="486"/>
+	<Point x="634" y="498"/>
+	<Point x="162" y="502"/>
+	<Point x="162" y="179"/>
+	<Point x="267" y="179"/>
+	<Point x="267" y="178"/>
+	<Point x="392" y="178"/>
+	<Point x="392" y="177"/>
+	<Point x="518" y="177"/>
+	<Point x="518" y="176"/>
+	<Point x="525" y="176"/>
+	<Point x="525" y="175"/>
+	<Point x="532" y="175"/>
+	<Point x="532" y="174"/>
+	<Point x="539" y="174"/>
+	<Point x="539" y="173"/>
+	<Point x="546" y="173"/>
+	<Point x="546" y="172"/>
+	<Point x="553" y="172"/>
+	<Point x="553" y="171"/>
+	<Point x="560" y="171"/>
+	<Point x="560" y="170"/>
+	<Point x="567" y="170"/>
+	<Point x="567" y="169"/>
+	<Point x="574" y="169"/>
+	<Point x="574" y="168"/>
+	<Point x="778" y="168"/>
+	<Point x="778" y="167"/>
+	<Point x="1025" y="167"/>
+	<Point x="1025" y="166"/>
+	<Point x="1068" y="166"/>
+	<Point x="1068" y="165"/>
+	<Point x="1111" y="165"/>
+	<Point x="1111" y="164"/>
+	<Point x="1154" y="164"/>
+	<Point x="1154" y="163"/>
+	<Point x="1197" y="163"/>
+	<Point x="1197" y="162"/>
+	<Point x="1240" y="162"/>
+	<Point x="1240" y="161"/>
+	<Point x="1283" y="161"/>
+	<Point x="1283" y="160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quantas produze Pafo, engendra Gnìdo
+Negras violas, blancos alhelies,
+Llueuen ſobre el que Amor quiere que ſea
+Talamo de Acis ya, y de Galatea.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1346" y="544"/>
+	<Point x="1347" y="544"/>
+	<Point x="1347" y="591"/>
+	<Point x="1348" y="591"/>
+	<Point x="1348" y="627"/>
+	<Point x="1293" y="627"/>
+	<Point x="1293" y="626"/>
+	<Point x="1292" y="626"/>
+	<Point x="1292" y="625"/>
+	<Point x="1291" y="625"/>
+	<Point x="1291" y="624"/>
+	<Point x="1290" y="624"/>
+	<Point x="1290" y="623"/>
+	<Point x="1289" y="623"/>
+	<Point x="1289" y="621"/>
+	<Point x="1288" y="621"/>
+	<Point x="1288" y="620"/>
+	<Point x="1287" y="620"/>
+	<Point x="1287" y="619"/>
+	<Point x="1286" y="619"/>
+	<Point x="1286" y="618"/>
+	<Point x="1283" y="618"/>
+	<Point x="1283" y="619"/>
+	<Point x="1260" y="619"/>
+	<Point x="1260" y="620"/>
+	<Point x="1237" y="620"/>
+	<Point x="1237" y="621"/>
+	<Point x="1214" y="621"/>
+	<Point x="1214" y="622"/>
+	<Point x="1191" y="622"/>
+	<Point x="1191" y="623"/>
+	<Point x="1168" y="623"/>
+	<Point x="1168" y="624"/>
+	<Point x="1145" y="624"/>
+	<Point x="1145" y="625"/>
+	<Point x="1121" y="625"/>
+	<Point x="1121" y="626"/>
+	<Point x="1082" y="626"/>
+	<Point x="1082" y="627"/>
+	<Point x="1042" y="627"/>
+	<Point x="1042" y="628"/>
+	<Point x="1004" y="628"/>
+	<Point x="1004" y="629"/>
+	<Point x="966" y="629"/>
+	<Point x="966" y="630"/>
+	<Point x="928" y="630"/>
+	<Point x="928" y="631"/>
+	<Point x="450" y="631"/>
+	<Point x="450" y="630"/>
+	<Point x="341" y="630"/>
+	<Point x="341" y="629"/>
+	<Point x="99" y="629"/>
+	<Point x="99" y="597"/>
+	<Point x="98" y="597"/>
+	<Point x="98" y="507"/>
+	<Point x="97" y="507"/>
+	<Point x="97" y="506"/>
+	<Point x="98" y="506"/>
+	<Point x="98" y="507"/>
+	<Point x="244" y="507"/>
+	<Point x="244" y="508"/>
+	<Point x="390" y="508"/>
+	<Point x="390" y="509"/>
+	<Point x="604" y="509"/>
+	<Point x="604" y="508"/>
+	<Point x="671" y="508"/>
+	<Point x="671" y="507"/>
+	<Point x="739" y="507"/>
+	<Point x="739" y="506"/>
+	<Point x="806" y="506"/>
+	<Point x="806" y="505"/>
+	<Point x="874" y="505"/>
+	<Point x="874" y="504"/>
+	<Point x="941" y="504"/>
+	<Point x="941" y="503"/>
+	<Point x="1009" y="503"/>
+	<Point x="1009" y="502"/>
+	<Point x="1076" y="502"/>
+	<Point x="1076" y="501"/>
+	<Point x="1144" y="501"/>
+	<Point x="1144" y="500"/>
+	<Point x="1211" y="500"/>
+	<Point x="1211" y="499"/>
+	<Point x="1279" y="499"/>
+	<Point x="1279" y="498"/>
+	<Point x="1346" y="498"/>
+	<Point x="1346" y="497"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>NO A LAS PALOMAS CONCEDIO CVPIDO
+IVNTAR DE SVS DOS PICOS LOS RVBIES]</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="1285" y="621"/>
+	<Point x="1285" y="622"/>
+	<Point x="1286" y="622"/>
+	<Point x="1286" y="623"/>
+	<Point x="1287" y="623"/>
+	<Point x="1287" y="625"/>
+	<Point x="1288" y="625"/>
+	<Point x="1288" y="626"/>
+	<Point x="1289" y="626"/>
+	<Point x="1289" y="627"/>
+	<Point x="1290" y="627"/>
+	<Point x="1290" y="628"/>
+	<Point x="1291" y="628"/>
+	<Point x="1291" y="629"/>
+	<Point x="1348" y="629"/>
+	<Point x="1348" y="638"/>
+	<Point x="1349" y="638"/>
+	<Point x="1349" y="685"/>
+	<Point x="1350" y="685"/>
+	<Point x="1350" y="732"/>
+	<Point x="1351" y="732"/>
+	<Point x="1351" y="779"/>
+	<Point x="1352" y="779"/>
+	<Point x="1352" y="826"/>
+	<Point x="1353" y="826"/>
+	<Point x="1353" y="873"/>
+	<Point x="1354" y="873"/>
+	<Point x="1354" y="920"/>
+	<Point x="1355" y="920"/>
+	<Point x="1355" y="967"/>
+	<Point x="1356" y="967"/>
+	<Point x="1356" y="1014"/>
+	<Point x="1357" y="1014"/>
+	<Point x="1357" y="1060"/>
+	<Point x="1358" y="1060"/>
+	<Point x="1358" y="1107"/>
+	<Point x="1359" y="1107"/>
+	<Point x="1359" y="1154"/>
+	<Point x="1360" y="1154"/>
+	<Point x="1360" y="1201"/>
+	<Point x="1361" y="1201"/>
+	<Point x="1361" y="1248"/>
+	<Point x="1362" y="1248"/>
+	<Point x="1362" y="1295"/>
+	<Point x="1363" y="1295"/>
+	<Point x="1363" y="1342"/>
+	<Point x="1364" y="1342"/>
+	<Point x="1364" y="1389"/>
+	<Point x="1365" y="1389"/>
+	<Point x="1365" y="1436"/>
+	<Point x="1366" y="1436"/>
+	<Point x="1366" y="1483"/>
+	<Point x="1367" y="1483"/>
+	<Point x="1367" y="1530"/>
+	<Point x="1368" y="1530"/>
+	<Point x="1368" y="1576"/>
+	<Point x="1369" y="1576"/>
+	<Point x="1369" y="1623"/>
+	<Point x="1370" y="1623"/>
+	<Point x="1370" y="1670"/>
+	<Point x="1371" y="1670"/>
+	<Point x="1371" y="1717"/>
+	<Point x="1372" y="1717"/>
+	<Point x="1372" y="1764"/>
+	<Point x="1373" y="1764"/>
+	<Point x="1373" y="1811"/>
+	<Point x="1374" y="1811"/>
+	<Point x="1374" y="1858"/>
+	<Point x="1375" y="1858"/>
+	<Point x="1375" y="1905"/>
+	<Point x="1376" y="1905"/>
+	<Point x="1376" y="1952"/>
+	<Point x="1377" y="1952"/>
+	<Point x="1377" y="1999"/>
+	<Point x="1378" y="1999"/>
+	<Point x="1378" y="2046"/>
+	<Point x="1379" y="2046"/>
+	<Point x="1379" y="2092"/>
+	<Point x="1380" y="2092"/>
+	<Point x="1299" y="2092"/>
+	<Point x="1299" y="2093"/>
+	<Point x="1218" y="2093"/>
+	<Point x="1218" y="2094"/>
+	<Point x="1137" y="2094"/>
+	<Point x="1137" y="2095"/>
+	<Point x="1057" y="2095"/>
+	<Point x="1057" y="2096"/>
+	<Point x="1056" y="2096"/>
+	<Point x="1056" y="2103"/>
+	<Point x="1055" y="2103"/>
+	<Point x="1055" y="2110"/>
+	<Point x="1054" y="2110"/>
+	<Point x="1054" y="2117"/>
+	<Point x="1053" y="2117"/>
+	<Point x="1053" y="2123"/>
+	<Point x="1052" y="2123"/>
+	<Point x="1052" y="2130"/>
+	<Point x="1051" y="2130"/>
+	<Point x="1051" y="2137"/>
+	<Point x="1050" y="2137"/>
+	<Point x="1050" y="2143"/>
+	<Point x="956" y="2143"/>
+	<Point x="956" y="2144"/>
+	<Point x="863" y="2144"/>
+	<Point x="863" y="2145"/>
+	<Point x="769" y="2145"/>
+	<Point x="769" y="2146"/>
+	<Point x="676" y="2146"/>
+	<Point x="676" y="2147"/>
+	<Point x="582" y="2147"/>
+	<Point x="582" y="2148"/>
+	<Point x="489" y="2148"/>
+	<Point x="489" y="2149"/>
+	<Point x="395" y="2149"/>
+	<Point x="395" y="2150"/>
+	<Point x="302" y="2150"/>
+	<Point x="302" y="2151"/>
+	<Point x="208" y="2151"/>
+	<Point x="208" y="2152"/>
+	<Point x="115" y="2152"/>
+	<Point x="115" y="2153"/>
+	<Point x="115" y="2061"/>
+	<Point x="114" y="2061"/>
+	<Point x="114" y="1970"/>
+	<Point x="113" y="1970"/>
+	<Point x="113" y="1878"/>
+	<Point x="112" y="1878"/>
+	<Point x="112" y="1787"/>
+	<Point x="111" y="1787"/>
+	<Point x="111" y="1695"/>
+	<Point x="110" y="1695"/>
+	<Point x="110" y="1604"/>
+	<Point x="109" y="1604"/>
+	<Point x="109" y="1512"/>
+	<Point x="108" y="1512"/>
+	<Point x="108" y="1421"/>
+	<Point x="107" y="1421"/>
+	<Point x="107" y="1329"/>
+	<Point x="106" y="1329"/>
+	<Point x="106" y="1238"/>
+	<Point x="105" y="1238"/>
+	<Point x="105" y="1146"/>
+	<Point x="104" y="1146"/>
+	<Point x="104" y="1055"/>
+	<Point x="103" y="1055"/>
+	<Point x="103" y="963"/>
+	<Point x="102" y="963"/>
+	<Point x="102" y="872"/>
+	<Point x="101" y="872"/>
+	<Point x="101" y="780"/>
+	<Point x="100" y="780"/>
+	<Point x="100" y="689"/>
+	<Point x="99" y="689"/>
+	<Point x="99" y="631"/>
+	<Point x="339" y="631"/>
+	<Point x="339" y="632"/>
+	<Point x="448" y="632"/>
+	<Point x="448" y="633"/>
+	<Point x="930" y="633"/>
+	<Point x="930" y="632"/>
+	<Point x="968" y="632"/>
+	<Point x="968" y="631"/>
+	<Point x="1006" y="631"/>
+	<Point x="1006" y="630"/>
+	<Point x="1044" y="630"/>
+	<Point x="1044" y="629"/>
+	<Point x="1084" y="629"/>
+	<Point x="1084" y="628"/>
+	<Point x="1123" y="628"/>
+	<Point x="1123" y="627"/>
+	<Point x="1147" y="627"/>
+	<Point x="1147" y="626"/>
+	<Point x="1170" y="626"/>
+	<Point x="1170" y="625"/>
+	<Point x="1193" y="625"/>
+	<Point x="1193" y="624"/>
+	<Point x="1216" y="624"/>
+	<Point x="1216" y="623"/>
+	<Point x="1239" y="623"/>
+	<Point x="1239" y="622"/>
+	<Point x="1262" y="622"/>
+	<Point x="1262" y="621"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No bien concedio Cupido a las palomas juntar los rubies
+de ſus dos picos, para beſarſe. Compara el pico de la palo-
+ma al rubi, por el color roxo. Ea piedra dize Couarru-
+uias en ſu Teſoro de la lengua Caeana, que es la que
+los Latinos aman carbunculus: pero yo entiendo que ſe
+engañò; porque Plinio en el lib. 37. cap. 7. dize del car-
+bunclo: Principatum habent carbunculi, à militudine
+ignium appeati, cum ip non ſentiant ignes, ob id à quibuſ-
+dam apyroti vocati. Luego  tiene el principado de las
+piedras, no puede ſer el que en Eſpaña amamos rubi, no
+tan eimado como el diamante, ni eſmeralda. Tambien
+eſcriue, que en Griego ſe ama Pyropo: endo aſsi que el
+Pyropo no es piedra, no vn genero de metal, cona de
+Plinio en el lib. 34. cap. 8. donde hablando de las coronas
+de metal, dize: Nunc reuertemur ad diﬀerentias ris, &amp;
+mixturas. In Cyprio coronarium, &amp; regulare e, vtrum-
+que duile. Coronarium tenuatur in laminas taurorum-
+que fee tinum ſpeciem auri in coronis hirionum pr-
+bet, idemquem in vncias, additis auri ſcrupulis ſenis, prte-
+nui pyropi braea igneſcit. Llama a la lamina de Pyropo,
+con lo qual da a entender, que era como dicho es, algun
+genero de metal. San Id. cap. 19. lib. 16. tomandolo de
+Plinio eſcriue: Pyropum, igneus color vecauit namque in
+ngulas vncias ris additis auri ſcrupulis ſenis prtenui
+braea igneſcit, ﬂammaſque imitatur, vnde &amp; Pyropum di-
+citur. Propert. en la Eleg. 11. del lib. 4.</Unicode></TextEquiv></TextRegion></Page></PcGts>

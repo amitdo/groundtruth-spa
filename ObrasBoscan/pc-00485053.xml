@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485053">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T00:07:48</Created>
+	<LastChange>2011-05-12T13:40:48</LastChange></Metadata>
+	<Page imageFilename="00485053.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r25" index="0"/>
+	<RegionRefIndexed regionRef="r11" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r24" type="credit">
+	<Coords>
+	<Point x="627" y="3027"/>
+	<Point x="1390" y="3027"/>
+	<Point x="1387" y="3088"/>
+	<Point x="624" y="3088"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="437" y="430"/>
+	<Point x="1727" y="437"/>
+	<Point x="1715" y="1967"/>
+	<Point x="1677" y="1970"/>
+	<Point x="545" y="1972"/>
+	<Point x="465" y="1940"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lo paado rebuelto y lo preſente
+Imaginando, no ſe donde incline:
+Ni ſe que determine:
+Y a mil años que'oy determinado.
+En fuerte tiempo a tanto dolor vine:
+Que'l coraçon no entienda lo que ente,
+Y biua tan doliente,
+Que lo preſente haga a lo paado
+Parecer tiempo bienauenturado,
+Y al contrario lo iuzgue en vn momẽto.
+Mil vezes pienſo, que'o no es eﬀetto
+D'amor, no que's otro algun ſecreto
+De dios, o de Natura, que'n tormento
+Rebueluen quanto ento.
+Es tanto mi dolor que's vfaneza
+Penſar, que vna rañeza
+Tan n coumbre, quedara en memoria:
+Y a de quedar mi nombre por ioria.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="511" y="169"/>
+	<Point x="541" y="415"/>
+	<Point x="677" y="420"/>
+	<Point x="1755" y="425"/>
+	<Point x="1686" y="176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Que no ſon voluntarias.
+O reboluer de'l cielo, que diſpuſo
+Aca enel mundo vn hombre tan confuſo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="470" y="2005"/>
+	<Point x="470" y="2827"/>
+	<Point x="1772" y="2827"/>
+	<Point x="1772" y="2005"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En mis hueos ea como enemiga
+Vna pelea, que me'a royendo.
+Voy entre mi entendiendo
+La vida que e tenido, y la que tengo:
+Yo ſo el tercero, 'oy las componiendo:
+Sin que aproueche coſa que les diga
+Para que hagan liga.
+Sabe dios el eſpanto, que ſoengo,
+Altiempo que a meterme entre'as vengo.</Unicode></TextEquiv></TextRegion></Page></PcGts>

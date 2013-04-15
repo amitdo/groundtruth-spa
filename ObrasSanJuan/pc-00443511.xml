@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443511">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T16:16:56</Created>
+	<LastChange>2010-12-24T07:16:55</LastChange></Metadata>
+	<Page imageFilename="00443511.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r23" index="4"/>
+	<RegionRefIndexed regionRef="r27" index="5"/>
+	<RegionRefIndexed regionRef="r12" index="6"/>
+	<RegionRefIndexed regionRef="r13" index="7"/>
+	<RegionRefIndexed regionRef="r14" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="360" y="291"/>
+	<Point x="1912" y="278"/>
+	<Point x="1907" y="394"/>
+	<Point x="1103" y="394"/>
+	<Point x="1103" y="458"/>
+	<Point x="362" y="460"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>como ea alma dize de  que lo haò ſaliendo a eſcu-
+ras, i con anas de amor.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="733" y="535"/>
+	<Point x="1087" y="525"/>
+	<Point x="1592" y="535"/>
+	<Point x="1592" y="635"/>
+	<Point x="733" y="635"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITVLO XXV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="400" y="2075"/>
+	<Point x="490" y="2071"/>
+	<Point x="487" y="2011"/>
+	<Point x="886" y="2007"/>
+	<Point x="1223" y="2017"/>
+	<Point x="1302" y="2016"/>
+	<Point x="1315" y="2005"/>
+	<Point x="1419" y="2004"/>
+	<Point x="1427" y="2009"/>
+	<Point x="1468" y="2009"/>
+	<Point x="1483" y="2003"/>
+	<Point x="1912" y="1991"/>
+	<Point x="1904" y="2447"/>
+	<Point x="661" y="2458"/>
+	<Point x="662" y="2519"/>
+	<Point x="406" y="2526"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La primera, dize, es, que en ea dichoſa Noche de
+Contemplacion eva Dios al alma por tan ſolitario i
+ſecreto modo de Contemplacion, i tan remoto i age-
+no del ſentido; que coſa ninguna ni perteneciente a el,
+ni toque de criatura alcança à alegrar al alma, demane
+ra que la eorvaſe i detuvieſe en el camino de la union
+de amor.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="492" y="2530"/>
+	<Point x="1898" y="2498"/>
+	<Point x="1901" y="2748"/>
+	<Point x="400" y="2780"/>
+	<Point x="398" y="2603"/>
+	<Point x="491" y="2603"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La ſegunda propiedad que dize, es por cauſa de las
+tinieblas eſpirituales dea Noche, en que todas las
+Potencias de la parte ſuperior del alma ean a eſcuras,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="catch-word">
+	<Coords>
+	<Point x="1823" y="2763"/>
+	<Point x="1914" y="2763"/>
+	<Point x="1914" y="2812"/>
+	<Point x="1823" y="2812"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="credit">
+	<Coords>
+	<Point x="768" y="2935"/>
+	<Point x="1428" y="2935"/>
+	<Point x="1428" y="2992"/>
+	<Point x="768" y="2992"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="page-number">
+	<Coords>
+	<Point x="389" y="154"/>
+	<Point x="533" y="154"/>
+	<Point x="533" y="273"/>
+	<Point x="389" y="273"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>500</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="header">
+	<Coords>
+	<Point x="909" y="137"/>
+	<Point x="1364" y="137"/>
+	<Point x="1364" y="262"/>
+	<Point x="909" y="262"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Noche eſcura.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="526" y="680"/>
+	<Point x="1746" y="680"/>
+	<Point x="1746" y="807"/>
+	<Point x="1299" y="808"/>
+	<Point x="1298" y="880"/>
+	<Point x="1001" y="880"/>
+	<Point x="999" y="824"/>
+	<Point x="526" y="823"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En que brevemente ſe declara la tercera
+Cancion.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="630" y="960"/>
+	<Point x="1266" y="957"/>
+	<Point x="1267" y="1069"/>
+	<Point x="1539" y="1069"/>
+	<Point x="1542" y="1189"/>
+	<Point x="1212" y="1187"/>
+	<Point x="1214" y="1351"/>
+	<Point x="1561" y="1348"/>
+	<Point x="1564" y="1478"/>
+	<Point x="635" y="1476"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En la Noche dichoſa
+En ſecreto que nadie me veìa,
+Ni yo miraba coſa,
+Sin otra luz i guia,
+Sino la que en el coraçon ardia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="drop-capital">
+	<Coords>
+	<Point x="411" y="1553"/>
+	<Point x="543" y="1555"/>
+	<Point x="547" y="1631"/>
+	<Point x="549" y="1663"/>
+	<Point x="548" y="1697"/>
+	<Point x="508" y="1720"/>
+	<Point x="411" y="1725"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="542" y="1767"/>
+	<Point x="551" y="1712"/>
+	<Point x="553" y="1527"/>
+	<Point x="1918" y="1545"/>
+	<Point x="1925" y="1946"/>
+	<Point x="1639" y="1942"/>
+	<Point x="1635" y="1991"/>
+	<Point x="1456" y="2003"/>
+	<Point x="1427" y="2005"/>
+	<Point x="1418" y="1999"/>
+	<Point x="1302" y="1998"/>
+	<Point x="1245" y="2007"/>
+	<Point x="893" y="1998"/>
+	<Point x="855" y="2001"/>
+	<Point x="398" y="2009"/>
+	<Point x="392" y="1766"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ontinuando toda via el alma la metafora, i ſeme-
+jança de la Noche temporal, en ea ſuya eſpiri-
+tual, va toda via cantando, i engrandeciendo las
+buenas propiedades que ai en ea, i por medio dea
+haò i evò, para que breve i ſeguramente conguie-
+ſe ſu deſeado ﬁn, de las cuales pone aqui tres.</Unicode></TextEquiv></TextRegion></Page></PcGts>

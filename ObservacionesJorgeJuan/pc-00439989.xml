@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439989">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T22:50:33</Created>
+	<LastChange>2011-12-19T11:38:33</LastChange></Metadata>
+	<Page imageFilename="00439989.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r11" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r10" index="4"/></OrderedGroup></ReadingOrder>
+	<GraphicRegion id="r1" type="other">
+	<Coords>
+	<Point x="353" y="410"/>
+	<Point x="1881" y="381"/>
+	<Point x="1938" y="388"/>
+	<Point x="2080" y="410"/>
+	<Point x="2189" y="410"/>
+	<Point x="2198" y="506"/>
+	<Point x="2189" y="537"/>
+	<Point x="354" y="549"/></Coords></GraphicRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="621" y="599"/>
+	<Point x="1914" y="599"/>
+	<Point x="1914" y="714"/>
+	<Point x="621" y="714"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>INTRODUCCION.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="1010" y="1459"/>
+	<Point x="996" y="778"/>
+	<Point x="2247" y="758"/>
+	<Point x="2239" y="2268"/>
+	<Point x="1081" y="2345"/>
+	<Point x="1064" y="2381"/>
+	<Point x="318" y="2393"/>
+	<Point x="320" y="1470"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N todos los Siglos, deſde el principio
+del tiempo, ha do combatida la
+ignorancia, n que aun en los mas
+remotos dexae de haver alguno,
+que, atraìdo de la hermoſura de la
+Sabiduría, buſcae con continuadas
+eſpeculaciones la verdad; pero eſpe‐
+cialmente de un Siglo à ea parte, uniendo à las noticias
+de nueros mayores, y à ſus paadas eſpeculaciones, otras
+de nuevo, no ſolas, y deſamparadas, no, que ademàs
+de un tenàz eudio, gao de ſumas inmenſas, cuydado,
+y zelo de Principes, las ha acompañado la praica mas
+ſolicita, y mas exaa, que cabe en cuydado, y diligencia
+humana; à n de averiguar,  ſe unían entre sì, y ſe
+concordaban aquea eſpeculativa con ea praica, para
+ſacar de ſu combinacion, y con el riego de eos ſudores
+el fruto de la verdad.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="349" y="2415"/>
+	<Point x="972" y="2393"/>
+	<Point x="1112" y="2392"/>
+	<Point x="1190" y="2358"/>
+	<Point x="2252" y="2363"/>
+	<Point x="2267" y="3303"/>
+	<Point x="1926" y="3307"/>
+	<Point x="1898" y="3327"/>
+	<Point x="1801" y="3335"/>
+	<Point x="1756" y="3325"/>
+	<Point x="1398" y="3332"/>
+	<Point x="1366" y="3348"/>
+	<Point x="872" y="3366"/>
+	<Point x="878" y="3438"/>
+	<Point x="347" y="3443"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No harémos ahora una faidioſa induccion de lo que
+todos ſaben; el Mundo eà eno de Libros en que ſe vèn
+los varios examenes, que ha hecho la razon, y la expe-
+riencia, de la naturaleza, y de todas ſus partes en eos ul‐
+timos tiempos. Contentarémonos pues con proponer una
+de las mas ilures pruebas de ea verdad en la queion
+ſobre la ﬁgura de la Tierra, que acaba de decidirſe con
+nueras Obſervaciones, la qual explicarémos brevemen‐
+te, tomando el agua de algo mas arriba, para que el Leor
+entre à oìr la deciſsion, y la prueba inruìdo yà de la ra‐
+zon de la duda.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="983" y="4011"/>
+	<Point x="1958" y="4011"/>
+	<Point x="1958" y="4094"/>
+	<Point x="983" y="4094"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="2098" y="304"/>
+	<Point x="2098" y="407"/>
+	<Point x="2165" y="405"/>
+	<Point x="2167" y="354"/>
+	<Point x="2169" y="304"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>j</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="signature-mark">
+	<Coords>
+	<Point x="1481" y="3350"/>
+	<Point x="1481" y="3423"/>
+	<Point x="1547" y="3423"/>
+	<Point x="1547" y="3350"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="catch-word">
+	<Coords>
+	<Point x="2112" y="3320"/>
+	<Point x="2112" y="3424"/>
+	<Point x="2269" y="3424"/>
+	<Point x="2269" y="3320"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>An‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="drop-capital">
+	<Coords>
+	<Point x="307" y="801"/>
+	<Point x="307" y="1452"/>
+	<Point x="1000" y="1447"/>
+	<Point x="991" y="801"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion></Page></PcGts>

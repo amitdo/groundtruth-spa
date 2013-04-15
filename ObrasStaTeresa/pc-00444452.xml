@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444452">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:42:09</Created>
+	<LastChange>2011-12-19T11:39:46</LastChange></Metadata>
+	<Page imageFilename="00444452.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="690" y="90"/>
+	<Point x="1625" y="90"/>
+	<Point x="1625" y="212"/>
+	<Point x="690" y="212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="404" y="235"/>
+	<Point x="417" y="235"/>
+	<Point x="2047" y="222"/>
+	<Point x="2060" y="2649"/>
+	<Point x="1955" y="2641"/>
+	<Point x="1862" y="2625"/>
+	<Point x="1745" y="2628"/>
+	<Point x="1712" y="2632"/>
+	<Point x="1651" y="2655"/>
+	<Point x="1571" y="2662"/>
+	<Point x="1104" y="2657"/>
+	<Point x="407" y="2665"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ni en las plaças, ni en los contẽtos, ni por nin-
+guna parte  le buſcaua le haaua, como den
+tro de . Y eo es muy claro ſer mejor. Y no
+es meneer yr al cielo, ni mas lexos  a noſo-
+tros miſmos, porque es canſar el ſpiritu, y di-
+raer el alma, y no con tanto fruto. Vna coſa
+quiero auiſar aqui, por  alguno la tuuiere,
+que acaece en gran arrobamiento, que paa-
+do aquel rato que el alma ea en vnion, que
+del todo tiene abſortas las potencias: y eo
+dura poco como he dicho, quedarſe el alma
+recogida, y aun en lo exterior no poder tor-
+nar en , mas quedar las dos potencias me-
+moria y entendimiento ca con frene muy
+deſatinadas. Eo digo que acaece alguna
+vez, en eſpecial a los principios. Piẽſo  pro-
+cede de que no puede ſuﬀrir nuera ﬂaque-
+za natural, tanta fuerça de eſpiritu, y enﬂa-
+quece la imaginacion. Se que les acaece a al-
+gunas perſonas. Ternia por bueno que ſe for-
+çaen a dexar por entonces la oracion, y la
+cobraen en otro tiempo, aquel que pierden,
+que no ſea junto, porque podra venir a mu-
+cho mal. Y de eo ay eſperiencia, y de quan
+acertado es mirar lo que puede nuera ſa-
+lud. En todo es meneer eſperiencia y mae-
+ro, porque egada el alma a eos terminos,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1704" y="2646"/>
+	<Point x="1727" y="2644"/>
+	<Point x="1849" y="2635"/>
+	<Point x="1885" y="2639"/>
+	<Point x="1944" y="2647"/>
+	<Point x="2001" y="2651"/>
+	<Point x="2002" y="2722"/>
+	<Point x="1709" y="2729"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>muchas</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="617" y="3050"/>
+	<Point x="1568" y="3050"/>
+	<Point x="1568" y="3153"/>
+	<Point x="617" y="3153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="445" y="112"/>
+	<Point x="445" y="225"/>
+	<Point x="620" y="225"/>
+	<Point x="620" y="112"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>532</Unicode></TextEquiv></TextRegion></Page></PcGts>

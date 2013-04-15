@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444382">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T11:32:56</Created>
+	<LastChange>2011-12-19T11:39:42</LastChange></Metadata>
+	<Page imageFilename="00444382.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="905" y="100"/>
+	<Point x="1602" y="110"/>
+	<Point x="1588" y="244"/>
+	<Point x="907" y="232"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="435" y="253"/>
+	<Point x="996" y="248"/>
+	<Point x="1355" y="245"/>
+	<Point x="1594" y="251"/>
+	<Point x="2069" y="234"/>
+	<Point x="2069" y="2659"/>
+	<Point x="1927" y="2670"/>
+	<Point x="1518" y="2688"/>
+	<Point x="426" y="2696"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſar. Pues todo concertado, fue el Señor ſer-
+uido que dia de ſan Bartholome tomaron ha
+bito algunas, y ſe puſo el ſantiſsimo Sacra-
+mento con toda autoridad y fuerça, quedo
+hecho nuero moneerio del glorioſsimo
+padre nuero ſan Ioſeph, año de mil y qui-
+nientos y ſeſenta y dos. Euue yo a darles el
+habito, y otras dos monjas de nuera caſa
+miſma que acertaron a ear fuera. Como
+en ea que ſe hizo el moneerio era donde
+eaua mi cuñado, que como he dicho, la
+auia el comprado por diſsimular mejor el
+negocio, con licencia eaua yo en ea, y
+no hazia coſa que no fuee con parecer de
+letrados, para no yr vn punto contra obedien
+cia, y como vian ſer muy prouechoſo para to-
+da la orden por muchas cauſas, que aunque
+yua con ſecreto, y guardandome no lo ſu-
+pieen mis perlados, me dezian lo podia ha-
+zer, porque por muy poca imperfecion que
+me dixeran era, mil moneerios me parece
+dexara quanto mas vno, eo es cierto, por-
+que aunque lo deeaua por apartarme mas
+de todo, y euar mi profeſsion y ama-
+miento con mas perfecion y encerramien-
+to, de tal manera lo deeaua, que quando
+entendiera era mas ſeruicio del Señor dexar-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1913" y="2673"/>
+	<Point x="2033" y="2665"/>
+	<Point x="2043" y="2758"/>
+	<Point x="1920" y="2764"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>lo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="601" y="3044"/>
+	<Point x="1580" y="3044"/>
+	<Point x="1581" y="3164"/>
+	<Point x="601" y="3164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="475" y="142"/>
+	<Point x="475" y="244"/>
+	<Point x="663" y="244"/>
+	<Point x="663" y="142"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>454</Unicode></TextEquiv></TextRegion></Page></PcGts>

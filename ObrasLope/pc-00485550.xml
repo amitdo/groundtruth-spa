@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485550">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T02:17:41</Created>
+	<LastChange>2011-07-28T11:27:57</LastChange></Metadata>
+	<Page imageFilename="00485550.tif" imageWidth="2250" imageHeight="3124">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r25" index="0"/>
+	<RegionRefIndexed regionRef="r14" index="1"/>
+	<RegionRefIndexed regionRef="r28" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="772" y="96"/>
+	<Point x="1780" y="100"/>
+	<Point x="1782" y="202"/>
+	<Point x="1723" y="201"/>
+	<Point x="1705" y="223"/>
+	<Point x="1659" y="226"/>
+	<Point x="1652" y="197"/>
+	<Point x="1370" y="201"/>
+	<Point x="1367" y="220"/>
+	<Point x="1323" y="219"/>
+	<Point x="1317" y="201"/>
+	<Point x="770" y="200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comedia de Lope de Vega.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="352" y="236"/>
+	<Point x="867" y="230"/>
+	<Point x="894" y="209"/>
+	<Point x="921" y="211"/>
+	<Point x="927" y="229"/>
+	<Point x="1416" y="226"/>
+	<Point x="1475" y="211"/>
+	<Point x="1618" y="212"/>
+	<Point x="1626" y="240"/>
+	<Point x="1852" y="234"/>
+	<Point x="1866" y="580"/>
+	<Point x="1681" y="582"/>
+	<Point x="1662" y="599"/>
+	<Point x="1646" y="593"/>
+	<Point x="1647" y="582"/>
+	<Point x="1621" y="582"/>
+	<Point x="1611" y="603"/>
+	<Point x="1564" y="609"/>
+	<Point x="1553" y="582"/>
+	<Point x="961" y="586"/>
+	<Point x="936" y="605"/>
+	<Point x="909" y="586"/>
+	<Point x="357" y="589"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mi muger quando menos es que pide
+vengança de tu loco atreuimiento:
+pues has oſado requebrarla y eo
+lo conﬁrman muy bien ſus tiernas lagrymas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="268" y="601"/>
+	<Point x="912" y="594"/>
+	<Point x="925" y="612"/>
+	<Point x="965" y="611"/>
+	<Point x="979" y="594"/>
+	<Point x="1544" y="588"/>
+	<Point x="1558" y="619"/>
+	<Point x="1611" y="610"/>
+	<Point x="1626" y="593"/>
+	<Point x="1632" y="593"/>
+	<Point x="1661" y="602"/>
+	<Point x="1758" y="602"/>
+	<Point x="1769" y="2763"/>
+	<Point x="1715" y="2798"/>
+	<Point x="1707" y="2801"/>
+	<Point x="347" y="2819"/>
+	<Point x="354" y="704"/>
+	<Point x="269" y="701"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Carlos. Señor Excelentiſsimo bien puede
+dezio la Duquea mi ſeñora
+y deo mi innocencia me agura
+que pueda condenarme otra perſona
+que en ſecreto me viee hablar con ea
+ni frequentar ſu camara, o criadas
+y  tan grande fuego me encendia
+deo fuera teigo mi locura:
+porque jamas amor duro encubierto,
+ni hay diſcrecion ni miedo que le venza,
+ſolas dos coſas gran ſeñor te pido
+que creas dea humilde hechura tuya,
+la primera que ſoy a tu grandeza,
+deſde primero tan leal y eſclauo
+y que te ruo tan nceramente
+que quando la Duquea mi ſeñora,
+fuee la mas hermoſa hembra del mundo,
+jamas ſu ciego amor me venceria
+negando lo que deuo a vuero pecho
+y la ſegunda que quando ea fuee
+otra muger, y no como la tuya
+tan honea ſeuera y virtuoſa,
+a mis ojos parece que en mi vida.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="catch-word">
+	<Coords>
+	<Point x="1762" y="2800"/>
+	<Point x="1918" y="2793"/>
+	<Point x="1917" y="2878"/>
+	<Point x="1769" y="2887"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>para</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="credit">
+	<Coords>
+	<Point x="729" y="3048"/>
+	<Point x="725" y="3110"/>
+	<Point x="1490" y="3117"/>
+	<Point x="1494" y="3062"/>
+	<Point x="1197" y="3057"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

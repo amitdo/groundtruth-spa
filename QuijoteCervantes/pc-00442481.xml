@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442481">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T10:06:14</Created>
+	<LastChange>2012-03-12T14:12:04</LastChange></Metadata>
+	<Page imageFilename="00442481.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="389" y="55"/>
+	<Point x="1148" y="53"/>
+	<Point x="1150" y="169"/>
+	<Point x="539" y="176"/>
+	<Point x="519" y="187"/>
+	<Point x="491" y="187"/>
+	<Point x="396" y="182"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="100" y="191"/>
+	<Point x="579" y="194"/>
+	<Point x="640" y="187"/>
+	<Point x="1423" y="192"/>
+	<Point x="1394" y="2155"/>
+	<Point x="108" y="2160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>paar adelante, y dar las razones, porque conuenia
+hazer eleccion, de los  en la republica auian de te‐
+ner tan neceario oﬁcio, pero no es el lugar acomo
+dado para eo, algun dia lo dire, aquien lo pueda pro
+ueer y remediar. Solo digo aora, que la pena que
+me ha cauſado ver eas blancas canas, y ee roro
+venerable, en tãta fatiga, por alcahuete me la ha qui‐
+tado el adſunto de ſu hechizero. Aunque bien ſe 
+no ay hechizos en el mundo, que puedã mouer y for
+çar la voluntad, como algunos mples piẽſan, que es
+libre nuero aluedrio, y no ay yerua ni encanto que
+le fuerce: lo  ſuelen hazer algunas mugerzias m
+ples, y algunos embuer os veacos, es algunas miſ‐
+turas y venenos con que bueluẽ locos a los hõbres,
+dando a entẽder que tienen fuerça para hazer que‐
+rer bien, ẽdo como digo coſa impoſsible, forçar la
+voluntad. Aſsi es, dixo el buen viejo, y en verdad ſe-
+ñor,  en lo de hechizero  no tuue culpa, en lo de al
+cahuete, no lo pude negar. Pero nunca penſe  hazia
+mal en eo,  to da mi intencion era, que todo el mũ
+do ſe holgae y viuiee en paz y quietud, n pendẽ
+cias ni penas: pero no me aprouechò nada ee buen
+deeo, para dexar de yr a donde no eſpero boluer, ſe
+gun me cargan los años, y vn mal de orina  euo, 
+no me dexa repoſar vn rato: y aqui tornò a ſu ãto,
+como de primero, y tuuole Sancho tãta cõpaſsion, 
+ſacò vn real de aquatro del ſeno, y ſe le dio de limoſ
+na. Paò adelãte don Quixote, y pregũtò a otro ſu de
+lito, el qual reſpondio, con no menos, no cõ mucha
+mas gaardia  el paado: Yo voy aqui, por me bur
+lè de maadamente cõ dos primas hermanas mias, y
+con otras dos hermanas,  no lo eran mias. ﬁnaimẽte</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1189" y="2165"/>
+	<Point x="1405" y="2165"/>
+	<Point x="1405" y="2218"/>
+	<Point x="1189" y="2218"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tanto</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="476" y="2300"/>
+	<Point x="1167" y="2295"/>
+	<Point x="1163" y="2350"/>
+	<Point x="1028" y="2353"/>
+	<Point x="1017" y="2355"/>
+	<Point x="1013" y="2353"/>
+	<Point x="457" y="2350"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1241" y="75"/>
+	<Point x="1241" y="171"/>
+	<Point x="1382" y="171"/>
+	<Point x="1382" y="75"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>103</Unicode></TextEquiv></TextRegion></Page></PcGts>

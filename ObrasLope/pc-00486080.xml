@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00486080">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T21:32:33</Created>
+	<LastChange>2011-07-28T11:29:38</LastChange></Metadata>
+	<Page imageFilename="00486080.tif" imageWidth="2250" imageHeight="3124">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r16" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r16" type="catch-word">
+	<Coords>
+	<Point x="1724" y="2740"/>
+	<Point x="1977" y="2733"/>
+	<Point x="1993" y="2824"/>
+	<Point x="1733" y="2837"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y vaya</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="388" y="202"/>
+	<Point x="1115" y="211"/>
+	<Point x="1307" y="238"/>
+	<Point x="1336" y="240"/>
+	<Point x="1408" y="237"/>
+	<Point x="1527" y="218"/>
+	<Point x="1837" y="260"/>
+	<Point x="1873" y="2724"/>
+	<Point x="366" y="2744"/>
+	<Point x="360" y="1764"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que yo acabara aqui que yo muriera,
+ay Dios  muere Claudia,  ya acaba
+Apolo a Claudia matas Furio muera,
+quiero ſaber  aquea hermoſa eſclaua
+eſpera el golpe, o ya pao el tormento
+de que mi coraçon temblando eaua.
+Pues de quien lo ſabre, del penſamiento
+que el alma negaralo, porque ſabe
+que luego a de ſalir de ſu apoſento:
+Penſamiento, ſeñor, tu que eres aue
+de todos mis ſentidos, dime vn poco,
+dire lo que en la tierra y cielo cabe,
+eſcucha vn poco pues, pregunta loco,
+loco me amas tanto que podrias
+tocar en lo mas alto que yo toco:
+porque, porque la gloria que tenias
+deſpues de auer la vida auenturado
+la die a quien a penas conocias,
+no vees que en ley de bueno era obligado:
+dime  es muerta Claudia y eo dexa,
+no pero egan al altar ſagrado,
+o quanto el melancolico ſe alexa
+bien media legua eoy del campo al cielo
+qual Dios eſcucha al que de amor ſe quexa.
+Eoy por recoarme en ee ſuelo
+quiça mi mal engañare durmiendo,</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r17" type="handwritten-annotation">
+	<Coords>
+	<Point x="1532" y="13"/>
+	<Point x="1528" y="15"/>
+	<Point x="1528" y="93"/>
+	<Point x="1686" y="91"/>
+	<Point x="1682" y="17"/>
+	<Point x="1571" y="10"/></Coords></GraphicRegion>
+	<TextRegion id="r18" type="header">
+	<Coords>
+	<Point x="840" y="97"/>
+	<Point x="821" y="191"/>
+	<Point x="1142" y="203"/>
+	<Point x="1328" y="230"/>
+	<Point x="1381" y="231"/>
+	<Point x="1418" y="228"/>
+	<Point x="1522" y="206"/>
+	<Point x="1592" y="218"/>
+	<Point x="1708" y="233"/>
+	<Point x="1838" y="230"/>
+	<Point x="1858" y="116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comedia de Lope de Vega.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="credit">
+	<Coords>
+	<Point x="590" y="3060"/>
+	<Point x="585" y="3105"/>
+	<Point x="1363" y="3112"/>
+	<Point x="1372" y="3062"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

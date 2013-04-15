@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443965">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:41:52</Created>
+	<LastChange>2011-12-19T11:39:17</LastChange></Metadata>
+	<Page imageFilename="00443965.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="377" y="9"/>
+	<Point x="1575" y="9"/>
+	<Point x="1575" y="207"/>
+	<Point x="377" y="207"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="205" y="237"/>
+	<Point x="1253" y="218"/>
+	<Point x="1723" y="234"/>
+	<Point x="1755" y="2570"/>
+	<Point x="1730" y="2597"/>
+	<Point x="1340" y="2596"/>
+	<Point x="1246" y="2609"/>
+	<Point x="1143" y="2604"/>
+	<Point x="1057" y="2617"/>
+	<Point x="277" y="2625"/>
+	<Point x="218" y="2642"/>
+	<Point x="227" y="2617"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>moneerio que auia enee lugar adonde
+ſe criauan perſonas ſemejantes aunque no
+tan ruynes en coumbre como yo, y eo
+con tan gran diſsimulacion, que ſola yo, y
+algun deudo lo ſupo, porque aguardaron a
+coyuntura que no pareciee nouedad, por-
+que auerſe mi hermana caſada, y quedar ſola
+n madre, no era bien. Era tan demaado el
+amor que mi padre me tenia, y la mucha diſ-
+mulacion mia, que no auia creer tanto mal
+de mi, y an no quedo en deſgracia conmi‐
+go. Como fue breue el tiempo, aunque ſe
+entendiee algo, no deuia ſer dicho con cer-
+tinidad, porque como yo temia tanto la hon‐
+ra todas mis diligencias eran en que fuee
+ſecreto, y no miraua  no podia ſerlo, a quien
+todo lo vee. O Dios mio, que daño haze en
+el mundo tener eo en poco, y penſar que
+ha de auer coſa ſecreta, que ſea contra vos!
+Tengo por cierto que ſe eſcuſarian grandes
+males  entendieemos, que no ea el ne‐
+gocio en guardarnos de los hombres, no
+en no nos guardar de deſcontentaros a vos.
+Los primeros ocho dias ſenti mucho, y mas
+la ſoſpecha que tuue ſe auia entendido la
+vanidad mia, que no de ear ai: porque
+ya yo andaua canſada, y no dexaua de te-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="signature-mark">
+	<Coords>
+	<Point x="1292" y="2616"/>
+	<Point x="1347" y="2606"/>
+	<Point x="1552" y="2614"/>
+	<Point x="1552" y="2708"/>
+	<Point x="1286" y="2716"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="632" y="3063"/>
+	<Point x="1575" y="3065"/>
+	<Point x="1576" y="3152"/>
+	<Point x="623" y="3140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1605" y="101"/>
+	<Point x="1605" y="220"/>
+	<Point x="1750" y="220"/>
+	<Point x="1750" y="101"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>37</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1591" y="2617"/>
+	<Point x="1591" y="2712"/>
+	<Point x="1750" y="2712"/>
+	<Point x="1750" y="2617"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ner</Unicode></TextEquiv></TextRegion></Page></PcGts>

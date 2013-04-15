@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485110">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T05:44:07</Created>
+	<LastChange>2011-05-12T13:40:55</LastChange></Metadata>
+	<Page imageFilename="00485110.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="314" y="212"/>
+	<Point x="328" y="196"/>
+	<Point x="350" y="206"/>
+	<Point x="382" y="198"/>
+	<Point x="932" y="225"/>
+	<Point x="1273" y="217"/>
+	<Point x="1594" y="230"/>
+	<Point x="1570" y="1488"/>
+	<Point x="348" y="1488"/>
+	<Point x="319" y="396"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El miedo que'n Amor todos padeçen:
+Muy pocas vezes yo le padecia:
+Tanto en mi bien ſeguro, y ﬁrme'aua.
+Si algun prudente amigo me dezia:
+Eos bienes d'Amor no permaneçen:
+Por peſa da ſentençia la juzgaua.
+Ninguna forma de deſdicha haaua:
+Que'mbaraçar pudiee mis venturas:
+Ni vacilauan ya mis eſperanças:
+Con eſcuchar mudanças:
+De mugeres que han hecho ya locuras.
+Ningun caſo toparſe
+Podia, con mis caſos, y auenturas:
+Ni tan alto algun bien podia haarſe:
+Que pudiee, a mis bienes igualarſe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="326" y="1520"/>
+	<Point x="1594" y="1518"/>
+	<Point x="1614" y="2038"/>
+	<Point x="1596" y="2769"/>
+	<Point x="1458" y="2754"/>
+	<Point x="1412" y="2764"/>
+	<Point x="1398" y="2763"/>
+	<Point x="1228" y="2761"/>
+	<Point x="450" y="2786"/>
+	<Point x="388" y="2774"/>
+	<Point x="348" y="2752"/>
+	<Point x="338" y="2668"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Duraron largo tiempo eos errores:
+Y oxala (pues tan grande fue'l errarſe)
+No començaran, o no duraran tanto.
+No auia mi alma tanto de'ngañarſe:
+(Por mas que'n mi pudieen los amores)
+Que tan gran bien parae en tan grããto.
+De lo que fuy, por lo que ſoy me'ſpanto:
+Las tries eſperiencias m'han traido:
+El ſeſo, y la miſeria iuntamente.
+Pero tan fuertemente
+El ſeſo en la miſeria viene ado:
+Que's coſa intolerable
+Valerſe del, en caſo tan perdido.
+O aſpera deſonrra, lamentable:
+Que ſea el ſeſo en mi tan miſerable:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="signature-mark">
+	<Coords>
+	<Point x="1266" y="2767"/>
+	<Point x="1428" y="2766"/>
+	<Point x="1434" y="2853"/>
+	<Point x="1263" y="2847"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L iij</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="631" y="3029"/>
+	<Point x="1387" y="3027"/>
+	<Point x="1388" y="3096"/>
+	<Point x="630" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="963" y="91"/>
+	<Point x="959" y="204"/>
+	<Point x="1021" y="204"/>
+	<Point x="1232" y="207"/>
+	<Point x="1265" y="203"/>
+	<Point x="1460" y="206"/>
+	<Point x="1461" y="91"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. LXXI.</Unicode></TextEquiv></TextRegion></Page></PcGts>

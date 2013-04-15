@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00446400">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T01:44:46</Created>
+	<LastChange>2011-09-09T12:00:16</LastChange></Metadata>
+	<Page imageFilename="00446400.tif" imageWidth="2493" imageHeight="4085">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r17" index="0"/>
+	<RegionRefIndexed regionRef="r21" index="1"/>
+	<RegionRefIndexed regionRef="r25" index="2"/>
+	<RegionRefIndexed regionRef="r29" index="3"/>
+	<RegionRefIndexed regionRef="r33" index="4"/>
+	<RegionRefIndexed regionRef="r37" index="5"/>
+	<RegionRefIndexed regionRef="r41" index="6"/>
+	<RegionRefIndexed regionRef="r45" index="7"/>
+	<RegionRefIndexed regionRef="r49" index="8"/>
+	<RegionRefIndexed regionRef="r53" index="9"/>
+	<RegionRefIndexed regionRef="r55" index="10"/>
+	<RegionRefIndexed regionRef="r57" index="11"/>
+	<RegionRefIndexed regionRef="r59" index="12"/>
+	<RegionRefIndexed regionRef="r61" index="13"/>
+	<RegionRefIndexed regionRef="r63" index="14"/>
+	<RegionRefIndexed regionRef="r65" index="15"/>
+	<RegionRefIndexed regionRef="r69" index="16"/>
+	<RegionRefIndexed regionRef="r71" index="17"/>
+	<RegionRefIndexed regionRef="r73" index="18"/>
+	<RegionRefIndexed regionRef="r77" index="19"/>
+	<RegionRefIndexed regionRef="r81" index="20"/>
+	<RegionRefIndexed regionRef="r85" index="21"/>
+	<RegionRefIndexed regionRef="r89" index="22"/>
+	<RegionRefIndexed regionRef="r8" index="23"/>
+	<RegionRefIndexed regionRef="r95" index="24"/>
+	<RegionRefIndexed regionRef="r94" index="25"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="header">
+	<Coords>
+	<Point x="1884" y="184"/>
+	<Point x="2082" y="178"/>
+	<Point x="2078" y="247"/>
+	<Point x="1884" y="248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ECH</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="credit">
+	<Coords>
+	<Point x="767" y="3926"/>
+	<Point x="1707" y="3936"/>
+	<Point x="1696" y="3998"/>
+	<Point x="779" y="3998"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="471" y="205"/>
+	<Point x="619" y="185"/>
+	<Point x="607" y="245"/>
+	<Point x="503" y="268"/>
+	<Point x="478" y="266"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>358</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="810" y="191"/>
+	<Point x="844" y="187"/>
+	<Point x="999" y="185"/>
+	<Point x="1003" y="249"/>
+	<Point x="815" y="246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ECH</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1436" y="254"/>
+	<Point x="1449" y="390"/>
+	<Point x="1038" y="400"/>
+	<Point x="805" y="415"/>
+	<Point x="793" y="413"/>
+	<Point x="657" y="413"/>
+	<Point x="646" y="424"/>
+	<Point x="627" y="425"/>
+	<Point x="619" y="423"/>
+	<Point x="602" y="413"/>
+	<Point x="433" y="413"/>
+	<Point x="460" y="281"/>
+	<Point x="462" y="280"/>
+	<Point x="538" y="273"/>
+	<Point x="551" y="269"/>
+	<Point x="717" y="264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>enea, ſobre quien ſe havia vuelto à echar, ni
+la manta de angéo con que ſe cubría, fueron
+mas de provécho.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1441" y="408"/>
+	<Point x="1441" y="800"/>
+	<Point x="883" y="825"/>
+	<Point x="659" y="830"/>
+	<Point x="658" y="842"/>
+	<Point x="639" y="845"/>
+	<Point x="635" y="834"/>
+	<Point x="535" y="832"/>
+	<Point x="496" y="826"/>
+	<Point x="433" y="815"/>
+	<Point x="425" y="424"/>
+	<Point x="443" y="423"/>
+	<Point x="523" y="433"/>
+	<Point x="642" y="428"/>
+	<Point x="655" y="426"/>
+	<Point x="661" y="419"/>
+	<Point x="775" y="417"/>
+	<Point x="803" y="425"/>
+	<Point x="1034" y="412"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ECHARSE. Vale tambien darſe, dedicarſe, en-
+tregarſe ò aplicarſe à alguna coſa. Juntaſe
+empre con la particula A. Lat. Animum vel
+vires applicare, vacare. NIEREMB. Aprec. lib.I.
+cap. 9. §. 3. Echeſe à penſar el ingénio mas
+agúdo, y examine  fe pudieran haar coſas
+de menos conéncia y ſer, que la honra, el
+dinéro y el deléite.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="1440" y="825"/>
+	<Point x="1437" y="1017"/>
+	<Point x="1362" y="1016"/>
+	<Point x="1261" y="1019"/>
+	<Point x="1247" y="1024"/>
+	<Point x="1216" y="1024"/>
+	<Point x="1049" y="1034"/>
+	<Point x="1034" y="1042"/>
+	<Point x="1015" y="1039"/>
+	<Point x="1001" y="1031"/>
+	<Point x="898" y="1043"/>
+	<Point x="879" y="1039"/>
+	<Point x="874" y="1031"/>
+	<Point x="823" y="1034"/>
+	<Point x="823" y="1035"/>
+	<Point x="715" y="1042"/>
+	<Point x="671" y="1035"/>
+	<Point x="611" y="1035"/>
+	<Point x="611" y="1036"/>
+	<Point x="507" y="1046"/>
+	<Point x="486" y="1042"/>
+	<Point x="439" y="1020"/>
+	<Point x="431" y="834"/>
+	<Point x="469" y="835"/>
+	<Point x="527" y="847"/>
+	<Point x="573" y="848"/>
+	<Point x="622" y="846"/>
+	<Point x="633" y="854"/>
+	<Point x="665" y="850"/>
+	<Point x="666" y="834"/>
+	<Point x="845" y="832"/>
+	<Point x="853" y="838"/>
+	<Point x="896" y="831"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ECHARSE. Signiﬁca aſsimiſmo Ceder à la diﬁ-
+cultád ò trabàjo, no queriendo proſeguir lo
+que ſe executaba ó emprendía. Lat. Oneri
+ſuccumb ere, cedere. Spem abjicere.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1437" y="1043"/>
+	<Point x="1442" y="1324"/>
+	<Point x="1381" y="1332"/>
+	<Point x="1381" y="1333"/>
+	<Point x="1350" y="1339"/>
+	<Point x="1315" y="1333"/>
+	<Point x="1315" y="1334"/>
+	<Point x="1289" y="1347"/>
+	<Point x="1261" y="1348"/>
+	<Point x="1252" y="1343"/>
+	<Point x="1184" y="1335"/>
+	<Point x="1184" y="1336"/>
+	<Point x="1118" y="1336"/>
+	<Point x="1118" y="1337"/>
+	<Point x="1053" y="1337"/>
+	<Point x="1053" y="1338"/>
+	<Point x="987" y="1338"/>
+	<Point x="987" y="1339"/>
+	<Point x="921" y="1339"/>
+	<Point x="921" y="1340"/>
+	<Point x="869" y="1343"/>
+	<Point x="845" y="1340"/>
+	<Point x="828" y="1350"/>
+	<Point x="815" y="1353"/>
+	<Point x="800" y="1351"/>
+	<Point x="790" y="1341"/>
+	<Point x="790" y="1342"/>
+	<Point x="753" y="1359"/>
+	<Point x="724" y="1352"/>
+	<Point x="718" y="1348"/>
+	<Point x="673" y="1347"/>
+	<Point x="659" y="1346"/>
+	<Point x="659" y="1344"/>
+	<Point x="614" y="1351"/>
+	<Point x="597" y="1354"/>
+	<Point x="587" y="1356"/>
+	<Point x="564" y="1350"/>
+	<Point x="528" y="1345"/>
+	<Point x="530" y="1345"/>
+	<Point x="476" y="1339"/>
+	<Point x="467" y="1335"/>
+	<Point x="440" y="1329"/>
+	<Point x="433" y="1038"/>
+	<Point x="463" y="1038"/>
+	<Point x="491" y="1052"/>
+	<Point x="567" y="1055"/>
+	<Point x="619" y="1046"/>
+	<Point x="644" y="1050"/>
+	<Point x="674" y="1053"/>
+	<Point x="730" y="1052"/>
+	<Point x="806" y="1047"/>
+	<Point x="818" y="1044"/>
+	<Point x="839" y="1040"/>
+	<Point x="886" y="1051"/>
+	<Point x="916" y="1050"/>
+	<Point x="931" y="1053"/>
+	<Point x="945" y="1050"/>
+	<Point x="976" y="1038"/>
+	<Point x="991" y="1040"/>
+	<Point x="1003" y="1041"/>
+	<Point x="1023" y="1045"/>
+	<Point x="1036" y="1046"/>
+	<Point x="1043" y="1046"/>
+	<Point x="1092" y="1037"/>
+	<Point x="1099" y="1042"/>
+	<Point x="1129" y="1035"/>
+	<Point x="1179" y="1040"/>
+	<Point x="1242" y="1040"/>
+	<Point x="1375" y="1032"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ECHAR A BORBOTÓNES. Figuradamente vale
+hablar mucho y de prieſa, n reparar en co-
+ſa alguna. Eá tomada ea phraſe por ana-
+logía de lo que ſucede en una fuente, que
+corre y arrója el agua con grande abundán-
+cia, y ca à golpes. Lat. In verba erumpere.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="438" y="1349"/>
+	<Point x="588" y="1368"/>
+	<Point x="764" y="1365"/>
+	<Point x="838" y="1359"/>
+	<Point x="842" y="1349"/>
+	<Point x="1222" y="1344"/>
+	<Point x="1264" y="1353"/>
+	<Point x="1338" y="1348"/>
+	<Point x="1403" y="1341"/>
+	<Point x="1455" y="1346"/>
+	<Point x="1437" y="1730"/>
+	<Point x="1425" y="1732"/>
+	<Point x="1171" y="1729"/>
+	<Point x="1113" y="1747"/>
+	<Point x="1082" y="1753"/>
+	<Point x="883" y="1769"/>
+	<Point x="871" y="1764"/>
+	<Point x="860" y="1754"/>
+	<Point x="833" y="1753"/>
+	<Point x="819" y="1762"/>
+	<Point x="798" y="1763"/>
+	<Point x="774" y="1763"/>
+	<Point x="604" y="1771"/>
+	<Point x="581" y="1767"/>
+	<Point x="484" y="1759"/>
+	<Point x="433" y="1731"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ECHAR A FONDO, Ó A PIQUE. Es hacer que ſe
+hunda en el mar, y que ſe ſumerja la embar-
+cación. Lat. Submergere. MARIAN. Hi. Eſp.
+lib. 2.cap. 6. Seſenta naves fueron tomadas
+por los Romános, y otras cincuenta echadas
+afondo. TEJAD. Leon Prodig. part. 1. Apol. 16.
+Por eo pretendo echar á pique la nave, y;
+anegar quantos aqui vienen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords>
+	<Point x="536" y="1774"/>
+	<Point x="557" y="1773"/>
+	<Point x="570" y="1773"/>
+	<Point x="586" y="1777"/>
+	<Point x="631" y="1778"/>
+	<Point x="679" y="1776"/>
+	<Point x="696" y="1781"/>
+	<Point x="706" y="1776"/>
+	<Point x="736" y="1775"/>
+	<Point x="836" y="1772"/>
+	<Point x="850" y="1761"/>
+	<Point x="894" y="1779"/>
+	<Point x="1006" y="1765"/>
+	<Point x="1021" y="1766"/>
+	<Point x="1161" y="1758"/>
+	<Point x="1161" y="1759"/>
+	<Point x="1297" y="1753"/>
+	<Point x="1318" y="1752"/>
+	<Point x="1347" y="1750"/>
+	<Point x="1423" y="1750"/>
+	<Point x="1440" y="1753"/>
+	<Point x="1442" y="2036"/>
+	<Point x="1405" y="2041"/>
+	<Point x="1390" y="2043"/>
+	<Point x="1341" y="2039"/>
+	<Point x="1322" y="2043"/>
+	<Point x="1288" y="2043"/>
+	<Point x="1236" y="2052"/>
+	<Point x="1236" y="2053"/>
+	<Point x="1161" y="2053"/>
+	<Point x="1161" y="2054"/>
+	<Point x="1085" y="2054"/>
+	<Point x="1085" y="2055"/>
+	<Point x="1010" y="2055"/>
+	<Point x="1010" y="2056"/>
+	<Point x="934" y="2056"/>
+	<Point x="934" y="2057"/>
+	<Point x="894" y="2033"/>
+	<Point x="869" y="2042"/>
+	<Point x="862" y="2034"/>
+	<Point x="789" y="2039"/>
+	<Point x="785" y="2048"/>
+	<Point x="770" y="2055"/>
+	<Point x="752" y="2066"/>
+	<Point x="684" y="2061"/>
+	<Point x="669" y="2063"/>
+	<Point x="643" y="2062"/>
+	<Point x="635" y="2064"/>
+	<Point x="609" y="2075"/>
+	<Point x="581" y="2074"/>
+	<Point x="563" y="2071"/>
+	<Point x="557" y="2062"/>
+	<Point x="482" y="2062"/>
+	<Point x="482" y="2063"/>
+	<Point x="433" y="2063"/>
+	<Point x="438" y="1762"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ECHAR A FONDO, Ò A PIQUE. Por translación
+vale arrojar, deſperdiciar y malbaratar. Lat.
+Dipare. Dilapidare. NIEREMB. Aprec. lib. 1.
+cap. 2. Con quantas grandezas dá en tierra?
+quantas riquezas echa à fondo? quantos bienes
+deſperdícia?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords>
+	<Point x="431" y="2074"/>
+	<Point x="459" y="2071"/>
+	<Point x="607" y="2083"/>
+	<Point x="730" y="2083"/>
+	<Point x="775" y="2071"/>
+	<Point x="1430" y="2061"/>
+	<Point x="1439" y="2061"/>
+	<Point x="1440" y="2547"/>
+	<Point x="848" y="2579"/>
+	<Point x="520" y="2579"/>
+	<Point x="433" y="2563"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ECHAR AGUA. Vale bautizar àun niño,n las
+ceremonias Ecleáicas, quando lo pide la
+neceſsidád. Lat. Domi baptizare. PARR. Luz
+de Verd. Cath. Plat. 3. del Sacramento del
+Bautiſmo. Pero en caſo de neceſsidad y de
+aprieto, que la madre peligra, que el hijo ſe
+muere, en tal caſo quien podrá echar el agua
+y bautizar? El priméro que ſe haare, qual-
+quiera puede echarle el agua, y decir las pala-
+bras de la forma.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords>
+	<Point x="1440" y="2565"/>
+	<Point x="1440" y="2923"/>
+	<Point x="1214" y="2923"/>
+	<Point x="1197" y="2924"/>
+	<Point x="1072" y="2938"/>
+	<Point x="923" y="2934"/>
+	<Point x="923" y="2935"/>
+	<Point x="877" y="2936"/>
+	<Point x="819" y="2950"/>
+	<Point x="690" y="2947"/>
+	<Point x="674" y="2947"/>
+	<Point x="657" y="2948"/>
+	<Point x="606" y="2947"/>
+	<Point x="505" y="2938"/>
+	<Point x="444" y="2913"/>
+	<Point x="446" y="2581"/>
+	<Point x="516" y="2596"/>
+	<Point x="846" y="2596"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ECHAR AGUA EN EL MAR. Vale hacer bien à
+quien no lo agradece, ù dár algo à quien no
+lo ha meneér. Es phraſe tomada literalmen-
+te del proverbio Latino Mari aquarn addere.
+CERV. Quix. tom. 1. cap. 23. Siempre Sancho
+lo he oído decir, que el hacer bien à vià-
+nos, es echar agua en el mar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords>
+	<Point x="462" y="2944"/>
+	<Point x="511" y="2953"/>
+	<Point x="576" y="2954"/>
+	<Point x="629" y="2962"/>
+	<Point x="773" y="2957"/>
+	<Point x="808" y="2961"/>
+	<Point x="882" y="2957"/>
+	<Point x="885" y="2944"/>
+	<Point x="1076" y="2953"/>
+	<Point x="1209" y="2940"/>
+	<Point x="1446" y="2943"/>
+	<Point x="1440" y="3139"/>
+	<Point x="1013" y="3142"/>
+	<Point x="1005" y="3149"/>
+	<Point x="990" y="3155"/>
+	<Point x="978" y="3154"/>
+	<Point x="967" y="3150"/>
+	<Point x="960" y="3145"/>
+	<Point x="925" y="3151"/>
+	<Point x="918" y="3144"/>
+	<Point x="886" y="3145"/>
+	<Point x="839" y="3145"/>
+	<Point x="832" y="3153"/>
+	<Point x="811" y="3157"/>
+	<Point x="792" y="3145"/>
+	<Point x="557" y="3157"/>
+	<Point x="469" y="3120"/>
+	<Point x="461" y="3114"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ECHAR A LA CARA Ò EN LA CARA. Dárá algu-
+no en roro, acordandole los beneﬁcios que
+le ha hecho, ù defeo que tiene. Lat. Coram
+aliquid alicui objicere, exprobrare.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="paragraph">
+	<Coords>
+	<Point x="906" y="3153"/>
+	<Point x="925" y="3158"/>
+	<Point x="940" y="3162"/>
+	<Point x="958" y="3163"/>
+	<Point x="967" y="3153"/>
+	<Point x="992" y="3157"/>
+	<Point x="1021" y="3150"/>
+	<Point x="1440" y="3148"/>
+	<Point x="1449" y="3455"/>
+	<Point x="1369" y="3460"/>
+	<Point x="1369" y="3459"/>
+	<Point x="1299" y="3451"/>
+	<Point x="1285" y="3453"/>
+	<Point x="1190" y="3453"/>
+	<Point x="1130" y="3450"/>
+	<Point x="1112" y="3452"/>
+	<Point x="1039" y="3452"/>
+	<Point x="1020" y="3451"/>
+	<Point x="1004" y="3455"/>
+	<Point x="972" y="3466"/>
+	<Point x="947" y="3459"/>
+	<Point x="934" y="3455"/>
+	<Point x="934" y="3454"/>
+	<Point x="884" y="3463"/>
+	<Point x="847" y="3454"/>
+	<Point x="847" y="3453"/>
+	<Point x="760" y="3453"/>
+	<Point x="760" y="3452"/>
+	<Point x="673" y="3452"/>
+	<Point x="673" y="3451"/>
+	<Point x="584" y="3455"/>
+	<Point x="563" y="3457"/>
+	<Point x="527" y="3453"/>
+	<Point x="499" y="3450"/>
+	<Point x="494" y="3451"/>
+	<Point x="453" y="3437"/>
+	<Point x="464" y="3149"/>
+	<Point x="514" y="3161"/>
+	<Point x="574" y="3167"/>
+	<Point x="608" y="3163"/>
+	<Point x="779" y="3158"/>
+	<Point x="791" y="3159"/>
+	<Point x="802" y="3165"/>
+	<Point x="824" y="3158"/>
+	<Point x="845" y="3152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ECHAR AL AIRE. Vale deſcubrir ù deſcnudar al-
+guna coſa. Lat. Corpus vebus penitus exone-
+rare, expedire. CERV. Quix. tom.2. cap.59. Te
+deſviaes un poco de aquí, y con las riendas
+de Rocinante echando al áire tus carnes, te:
+diees trecientos, ò quatrocientos azótes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r55" type="paragraph">
+	<Coords>
+	<Point x="461" y="3465"/>
+	<Point x="507" y="3467"/>
+	<Point x="870" y="3468"/>
+	<Point x="913" y="3472"/>
+	<Point x="976" y="3472"/>
+	<Point x="1006" y="3474"/>
+	<Point x="1011" y="3461"/>
+	<Point x="1038" y="3461"/>
+	<Point x="1100" y="3465"/>
+	<Point x="1124" y="3459"/>
+	<Point x="1274" y="3459"/>
+	<Point x="1449" y="3469"/>
+	<Point x="1452" y="3674"/>
+	<Point x="465" y="3666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ECHAR A LAS ESPALDAS. Es olvidar algUn en-
+cargo ù negócio, y no hacer diligéncia algu-
+na para ſolicitarlo y concluirlo. Lat. Alicu-
+ius rei curam abjicere. Oblivioni mandare. CERV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r57" type="paragraph">
+	<Coords>
+	<Point x="2395" y="264"/>
+	<Point x="2401" y="406"/>
+	<Point x="2283" y="395"/>
+	<Point x="2179" y="395"/>
+	<Point x="2096" y="398"/>
+	<Point x="2077" y="396"/>
+	<Point x="1952" y="389"/>
+	<Point x="1904" y="390"/>
+	<Point x="1775" y="392"/>
+	<Point x="1714" y="405"/>
+	<Point x="1580" y="415"/>
+	<Point x="1499" y="403"/>
+	<Point x="1519" y="258"/>
+	<Point x="1553" y="258"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quix. tom. 1. cap. 21. Echando à las eſpaldas to-
+das las obligaciones que debes a mi buen
+deſéo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r59" type="paragraph">
+	<Coords>
+	<Point x="1780" y="428"/>
+	<Point x="1800" y="426"/>
+	<Point x="2058" y="411"/>
+	<Point x="2090" y="426"/>
+	<Point x="2123" y="412"/>
+	<Point x="2400" y="425"/>
+	<Point x="2405" y="1072"/>
+	<Point x="1920" y="1053"/>
+	<Point x="1803" y="1050"/>
+	<Point x="1797" y="1067"/>
+	<Point x="1755" y="1072"/>
+	<Point x="1715" y="1072"/>
+	<Point x="1680" y="1083"/>
+	<Point x="1544" y="1097"/>
+	<Point x="1483" y="1089"/>
+	<Point x="1477" y="411"/>
+	<Point x="1555" y="425"/>
+	<Point x="1642" y="429"/>
+	<Point x="1750" y="425"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ECHAR A LA PIEDRA. Signiﬁcadár à criar ocul-
+tamente los hijos, por no poder ſuentarlos,
+poniendolos en las caſas à ee ﬁn deinadas,
+que en la Corte aman la Incluſa, y en otras
+partes Caſa de niños expótos, ò con otros
+títulos: y porque para exponerlos y entre-
+garlos ocultamente eaba colocada una pie-
+dra en forma de cuna, ò camia, por ea ra-
+zón ſe introduxo ea phraſe, que por am-
+pliacion vale echarle de caſa, y no conocerle
+por hijo. Lat. Ad expo torum januam infan-
+tem projicere. MONTES. Com. El Cab. de Olm.
+Jorn. 1.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r61" type="paragraph">
+	<Coords>
+	<Point x="1666" y="1100"/>
+	<Point x="1710" y="1084"/>
+	<Point x="2370" y="1084"/>
+	<Point x="2372" y="1283"/>
+	<Point x="2323" y="1286"/>
+	<Point x="2115" y="1302"/>
+	<Point x="1819" y="1296"/>
+	<Point x="1746" y="1289"/>
+	<Point x="1692" y="1288"/>
+	<Point x="1659" y="1262"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ea verá lo que medra,
+ no ſe quiere caſar:
+Vive Dios que la he de echar:
+Donde, Señor? En la piedra.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r63" type="paragraph">
+	<Coords>
+	<Point x="1487" y="1289"/>
+	<Point x="1657" y="1306"/>
+	<Point x="1809" y="1311"/>
+	<Point x="2089" y="1309"/>
+	<Point x="2107" y="1312"/>
+	<Point x="2323" y="1301"/>
+	<Point x="2410" y="1307"/>
+	<Point x="2398" y="1388"/>
+	<Point x="1941" y="1369"/>
+	<Point x="1895" y="1389"/>
+	<Point x="1495" y="1390"/>
+	<Point x="1493" y="1387"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ECHAR ALGUNA COSA EN LA CALLE. Veaſe
+Cae.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r65" type="paragraph">
+	<Coords>
+	<Point x="2415" y="1405"/>
+	<Point x="2416" y="1696"/>
+	<Point x="2229" y="1703"/>
+	<Point x="2229" y="1702"/>
+	<Point x="2039" y="1702"/>
+	<Point x="2039" y="1701"/>
+	<Point x="1969" y="1701"/>
+	<Point x="1962" y="1708"/>
+	<Point x="1945" y="1710"/>
+	<Point x="1850" y="1711"/>
+	<Point x="1842" y="1708"/>
+	<Point x="1686" y="1715"/>
+	<Point x="1658" y="1715"/>
+	<Point x="1647" y="1708"/>
+	<Point x="1592" y="1708"/>
+	<Point x="1562" y="1713"/>
+	<Point x="1549" y="1711"/>
+	<Point x="1522" y="1696"/>
+	<Point x="1495" y="1699"/>
+	<Point x="1491" y="1398"/>
+	<Point x="1657" y="1409"/>
+	<Point x="1695" y="1406"/>
+	<Point x="1903" y="1408"/>
+	<Point x="1918" y="1396"/>
+	<Point x="1944" y="1397"/>
+	<Point x="1953" y="1392"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ECHAR AL MUNDO. Phraſe uſada de la gente
+vulgár, que para decir que uno ha nacido, ſe
+explica diciendo, que Dios le echó al mundo,
+Lat. Inter viventes aliquem connumerare. CERV,
+Quix. toma. 1. cap. 49. Exercitando el oﬁcio
+para que Dios me echó al mundo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r69" type="paragraph">
+	<Coords>
+	<Point x="1496" y="1710"/>
+	<Point x="1527" y="1708"/>
+	<Point x="1573" y="1724"/>
+	<Point x="1639" y="1721"/>
+	<Point x="1692" y="1723"/>
+	<Point x="1964" y="1720"/>
+	<Point x="1968" y="1711"/>
+	<Point x="2407" y="1711"/>
+	<Point x="2417" y="1948"/>
+	<Point x="2224" y="1942"/>
+	<Point x="2036" y="1960"/>
+	<Point x="1883" y="1961"/>
+	<Point x="1876" y="1967"/>
+	<Point x="1863" y="1970"/>
+	<Point x="1822" y="1959"/>
+	<Point x="1607" y="1970"/>
+	<Point x="1557" y="1969"/>
+	<Point x="1514" y="1946"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ECHAR AL TRENZADO. Lo miſmo que Echar à
+las eſpaldas. FONSEC. Vid. de Chri. tom. 4.
+p. 61. Amán en el ſervício de Auéro, echó al
+trenzado à Dios y al Rey, y pretendió princi-
+palmente la mejór a.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r71" type="paragraph">
+	<Coords>
+	<Point x="1490" y="1968"/>
+	<Point x="1526" y="1970"/>
+	<Point x="1600" y="1982"/>
+	<Point x="1650" y="1978"/>
+	<Point x="1699" y="1980"/>
+	<Point x="1777" y="1978"/>
+	<Point x="1814" y="1972"/>
+	<Point x="1847" y="1971"/>
+	<Point x="1863" y="1976"/>
+	<Point x="1887" y="1968"/>
+	<Point x="2217" y="1965"/>
+	<Point x="2413" y="1974"/>
+	<Point x="2413" y="2162"/>
+	<Point x="2220" y="2149"/>
+	<Point x="2137" y="2169"/>
+	<Point x="1750" y="2169"/>
+	<Point x="1718" y="2165"/>
+	<Point x="1715" y="2178"/>
+	<Point x="1700" y="2177"/>
+	<Point x="1656" y="2173"/>
+	<Point x="1499" y="2166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ECHAR A MAL. DeſeImar, deſechar y no ha-
+cer caudál ni aprécio de alguna coſa. Lat.
+Rem ut inutilem projicere, deſpicatui habere.
+PANT. part. 2. Redondias.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r73" type="paragraph">
+	<Coords>
+	<Point x="1680" y="2190"/>
+	<Point x="1726" y="2178"/>
+	<Point x="1973" y="2175"/>
+	<Point x="2283" y="2180"/>
+	<Point x="2313" y="2359"/>
+	<Point x="2295" y="2376"/>
+	<Point x="1887" y="2373"/>
+	<Point x="1875" y="2383"/>
+	<Point x="1689" y="2386"/>
+	<Point x="1672" y="2352"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Si te dán tanto embarázo,
+como á mi empre me dices,
+echa á mal eas naríces,
+y ſuplelas de tu brazo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r77" type="paragraph">
+	<Coords>
+	<Point x="1505" y="2382"/>
+	<Point x="1708" y="2394"/>
+	<Point x="1768" y="2394"/>
+	<Point x="1799" y="2397"/>
+	<Point x="1883" y="2396"/>
+	<Point x="1885" y="2383"/>
+	<Point x="2393" y="2390"/>
+	<Point x="2383" y="2395"/>
+	<Point x="2344" y="2413"/>
+	<Point x="2280" y="2413"/>
+	<Point x="2212" y="2428"/>
+	<Point x="2053" y="2427"/>
+	<Point x="1729" y="2424"/>
+	<Point x="1576" y="2430"/>
+	<Point x="1509" y="2422"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ECHAR ANCORAS. Veaſe Ancora.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r81" type="paragraph">
+	<Coords>
+	<Point x="1507" y="2431"/>
+	<Point x="1693" y="2449"/>
+	<Point x="1719" y="2441"/>
+	<Point x="1732" y="2434"/>
+	<Point x="2214" y="2437"/>
+	<Point x="2227" y="2432"/>
+	<Point x="2418" y="2430"/>
+	<Point x="2421" y="2862"/>
+	<Point x="1808" y="2892"/>
+	<Point x="1526" y="2887"/>
+	<Point x="1514" y="2856"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ECHAR A, Ò EN CHANZA, ZUMBA, &amp;c. Phraſes
+que gniﬁcan no hacer caſo ni aprecio de
+las palabras en algun modo picantes que ſe
+huvieren dicho; no deſpreciarlas n hacer
+ni morar reſentimiento de eas, metiendolo
+à riſa y chanza, como  fueen burlas. Lat.
+Pro joco aliquid accipere. QUEV. Cuent. Fué un
+dia de juício:y ſucediera mui mal, no ſe echa-
+ra en chacóta.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r85" type="paragraph">
+	<Coords>
+	<Point x="1511" y="2892"/>
+	<Point x="1608" y="2907"/>
+	<Point x="2425" y="2880"/>
+	<Point x="2429" y="3022"/>
+	<Point x="1951" y="3048"/>
+	<Point x="1695" y="3048"/>
+	<Point x="1640" y="3057"/>
+	<Point x="1531" y="3032"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ECHAR A PERROS. Phraſe translaticia, que vale
+emplear mal alguna coſa, ò malbaratarla. Lat.
+Diſperdere. Perdere.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r89" type="paragraph">
+	<Coords>
+	<Point x="1516" y="3048"/>
+	<Point x="1669" y="3069"/>
+	<Point x="1700" y="3057"/>
+	<Point x="1930" y="3062"/>
+	<Point x="2434" y="3038"/>
+	<Point x="2425" y="3226"/>
+	<Point x="1855" y="3266"/>
+	<Point x="1842" y="3263"/>
+	<Point x="1835" y="3250"/>
+	<Point x="1704" y="3250"/>
+	<Point x="1529" y="3248"/>
+	<Point x="1515" y="3090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ECHAR A TROMPA Y TALEGA. Signiﬁca hablar
+y decir deſatínos y diſparátes, n reparar en
+coſa alguna. Lat. Inconderatè, abſurdo ac c-
+co modo verba proferre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="1513" y="3263"/>
+	<Point x="1529" y="3259"/>
+	<Point x="1621" y="3272"/>
+	<Point x="1818" y="3268"/>
+	<Point x="1865" y="3274"/>
+	<Point x="2176" y="3267"/>
+	<Point x="2238" y="3255"/>
+	<Point x="2430" y="3237"/>
+	<Point x="2426" y="3573"/>
+	<Point x="1930" y="3597"/>
+	<Point x="1624" y="3620"/>
+	<Point x="1594" y="3617"/>
+	<Point x="1524" y="3583"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ECHAR A UN LANDO UN NEGOCIO. Signiﬁca ha-
+verle concluído y fenecído. Y tambien ſe
+ſuele uſar dea phraſe para dár à entender
+que por ahóra no ſe trate de tal negócio y
+dependéncia; no que ſe ſuſpenda mientras
+ſe trata de otra coſa. Lat. Negotio, velonere ſe
+expedire.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r94" type="catch-word">
+	<Coords>
+	<Point x="2386" y="3651"/>
+	<Point x="2386" y="3688"/>
+	<Point x="2432" y="3688"/>
+	<Point x="2432" y="3651"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>en</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r95" type="paragraph">
+	<Coords>
+	<Point x="2424" y="3595"/>
+	<Point x="2421" y="3624"/>
+	<Point x="2425" y="3645"/>
+	<Point x="2339" y="3645"/>
+	<Point x="2339" y="3674"/>
+	<Point x="1930" y="3676"/>
+	<Point x="1521" y="3674"/>
+	<Point x="1519" y="3609"/>
+	<Point x="1571" y="3619"/>
+	<Point x="1621" y="3628"/>
+	<Point x="1930" y="3617"/>
+	<Point x="2357" y="3610"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ECHAR AZAR. En el juego de los náipesy otros</Unicode></TextEquiv></TextRegion></Page></PcGts>

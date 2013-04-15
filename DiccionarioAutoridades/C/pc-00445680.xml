@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00445680">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T22:26:54</Created>
+	<LastChange>2011-10-12T11:02:47</LastChange></Metadata>
+	<Page imageFilename="00445680.tif" imageWidth="2783" imageHeight="4005">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r15" index="0"/>
+	<RegionRefIndexed regionRef="r19" index="1"/>
+	<RegionRefIndexed regionRef="r23" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="r29" index="4"/>
+	<RegionRefIndexed regionRef="r31" index="5"/>
+	<RegionRefIndexed regionRef="r35" index="6"/>
+	<RegionRefIndexed regionRef="r39" index="7"/>
+	<RegionRefIndexed regionRef="r67" index="8"/>
+	<RegionRefIndexed regionRef="r69" index="9"/>
+	<RegionRefIndexed regionRef="r43" index="10"/>
+	<RegionRefIndexed regionRef="r45" index="11"/>
+	<RegionRefIndexed regionRef="r9" index="12"/>
+	<RegionRefIndexed regionRef="r51" index="13"/>
+	<RegionRefIndexed regionRef="r55" index="14"/>
+	<RegionRefIndexed regionRef="r59" index="15"/>
+	<RegionRefIndexed regionRef="r63" index="16"/>
+	<RegionRefIndexed regionRef="r65" index="17"/>
+	<RegionRefIndexed regionRef="r73" index="18"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="593" y="149"/>
+	<Point x="603" y="139"/>
+	<Point x="636" y="135"/>
+	<Point x="673" y="140"/>
+	<Point x="693" y="146"/>
+	<Point x="740" y="140"/>
+	<Point x="757" y="159"/>
+	<Point x="736" y="204"/>
+	<Point x="692" y="204"/>
+	<Point x="686" y="206"/>
+	<Point x="668" y="208"/>
+	<Point x="659" y="208"/>
+	<Point x="634" y="212"/>
+	<Point x="573" y="204"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CIT</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="1246" y="612"/>
+	<Point x="1394" y="614"/>
+	<Point x="1912" y="610"/>
+	<Point x="2215" y="614"/>
+	<Point x="2225" y="916"/>
+	<Point x="1452" y="921"/>
+	<Point x="1436" y="961"/>
+	<Point x="1433" y="972"/>
+	<Point x="1301" y="974"/>
+	<Point x="1296" y="889"/>
+	<Point x="1292" y="768"/>
+	<Point x="1288" y="670"/>
+	<Point x="1241" y="671"/>
+	<Point x="1238" y="634"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CITOLA. ſ. f. Lo miſmo que Cíthara. Es voz
+antiquada. CHRON. GEN. fol. 106. E facía pin-
+tar todas ſus imágenes à manéra de juglár, ta-
+ñendo cítolas, è otros eromentos. MEN. Co-
+ron. fol. 10. El qual Orphéo era mui gran ju-
+glár, al menos tañía mui bien una cítola, ò vi-
+huéla.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="signature-mark">
+	<Coords>
+	<Point x="1778" y="3608"/>
+	<Point x="1801" y="3601"/>
+	<Point x="1833" y="3603"/>
+	<Point x="1845" y="3608"/>
+	<Point x="1848" y="3611"/>
+	<Point x="1863" y="3611"/>
+	<Point x="1880" y="3612"/>
+	<Point x="1879" y="3658"/>
+	<Point x="1848" y="3653"/>
+	<Point x="1836" y="3652"/>
+	<Point x="1813" y="3652"/>
+	<Point x="1805" y="3657"/>
+	<Point x="1774" y="3658"/>
+	<Point x="1768" y="3622"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Zz 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="credit">
+	<Coords>
+	<Point x="1006" y="3910"/>
+	<Point x="1193" y="3907"/>
+	<Point x="1209" y="3917"/>
+	<Point x="1225" y="3919"/>
+	<Point x="1230" y="3910"/>
+	<Point x="1246" y="3910"/>
+	<Point x="1251" y="3920"/>
+	<Point x="1343" y="3919"/>
+	<Point x="1371" y="3907"/>
+	<Point x="1415" y="3907"/>
+	<Point x="1412" y="3919"/>
+	<Point x="1472" y="3911"/>
+	<Point x="1481" y="3908"/>
+	<Point x="1493" y="3908"/>
+	<Point x="1503" y="3916"/>
+	<Point x="1593" y="3919"/>
+	<Point x="1599" y="3908"/>
+	<Point x="1672" y="3907"/>
+	<Point x="1680" y="3912"/>
+	<Point x="1696" y="3919"/>
+	<Point x="1719" y="3906"/>
+	<Point x="1763" y="3906"/>
+	<Point x="1770" y="3913"/>
+	<Point x="1857" y="3919"/>
+	<Point x="1862" y="3910"/>
+	<Point x="1893" y="3910"/>
+	<Point x="1898" y="3919"/>
+	<Point x="1929" y="3920"/>
+	<Point x="1939" y="3959"/>
+	<Point x="1898" y="3959"/>
+	<Point x="1893" y="3958"/>
+	<Point x="1862" y="3958"/>
+	<Point x="1857" y="3959"/>
+	<Point x="1827" y="3959"/>
+	<Point x="1822" y="3967"/>
+	<Point x="1779" y="3973"/>
+	<Point x="1785" y="3959"/>
+	<Point x="1760" y="3959"/>
+	<Point x="1760" y="3958"/>
+	<Point x="1718" y="3958"/>
+	<Point x="1696" y="3959"/>
+	<Point x="1631" y="3959"/>
+	<Point x="1611" y="3958"/>
+	<Point x="1597" y="3958"/>
+	<Point x="1593" y="3959"/>
+	<Point x="1563" y="3959"/>
+	<Point x="1558" y="3958"/>
+	<Point x="1527" y="3958"/>
+	<Point x="1524" y="3959"/>
+	<Point x="1493" y="3959"/>
+	<Point x="1492" y="3958"/>
+	<Point x="1478" y="3958"/>
+	<Point x="1477" y="3959"/>
+	<Point x="1412" y="3959"/>
+	<Point x="1411" y="3958"/>
+	<Point x="1367" y="3958"/>
+	<Point x="1343" y="3959"/>
+	<Point x="1194" y="3959"/>
+	<Point x="1193" y="3958"/>
+	<Point x="1165" y="3958"/>
+	<Point x="1161" y="3959"/>
+	<Point x="1130" y="3959"/>
+	<Point x="1130" y="3958"/>
+	<Point x="1074" y="3958"/>
+	<Point x="1054" y="3960"/>
+	<Point x="1001" y="3963"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="236" y="228"/>
+	<Point x="641" y="223"/>
+	<Point x="939" y="200"/>
+	<Point x="1100" y="203"/>
+	<Point x="1163" y="211"/>
+	<Point x="1158" y="260"/>
+	<Point x="986" y="263"/>
+	<Point x="967" y="306"/>
+	<Point x="862" y="306"/>
+	<Point x="855" y="319"/>
+	<Point x="834" y="319"/>
+	<Point x="836" y="310"/>
+	<Point x="779" y="311"/>
+	<Point x="574" y="322"/>
+	<Point x="443" y="326"/>
+	<Point x="363" y="329"/>
+	<Point x="356" y="341"/>
+	<Point x="341" y="341"/>
+	<Point x="339" y="330"/>
+	<Point x="314" y="330"/>
+	<Point x="236" y="332"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>viendo yá paado el término ſeñalado, el To-
+lédo procedió adelante en las penas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="188" y="339"/>
+	<Point x="349" y="343"/>
+	<Point x="599" y="331"/>
+	<Point x="803" y="319"/>
+	<Point x="856" y="322"/>
+	<Point x="1036" y="313"/>
+	<Point x="1157" y="311"/>
+	<Point x="1167" y="320"/>
+	<Point x="1177" y="700"/>
+	<Point x="1173" y="777"/>
+	<Point x="623" y="783"/>
+	<Point x="426" y="788"/>
+	<Point x="368" y="793"/>
+	<Point x="354" y="806"/>
+	<Point x="339" y="805"/>
+	<Point x="338" y="794"/>
+	<Point x="304" y="797"/>
+	<Point x="262" y="803"/>
+	<Point x="244" y="799"/>
+	<Point x="243" y="683"/>
+	<Point x="238" y="587"/>
+	<Point x="237" y="463"/>
+	<Point x="239" y="387"/>
+	<Point x="189" y="390"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CITATORIO, RIA. adj. Coſa perteneciente à
+vocacion, amamiento, ò emplazamiento.
+Lat. Citatorius, a, um. RECOP. lib. 1. tit. 3. l. 1.
+Ni recibir, ni conſentir leer, ni notiﬁcar car-
+tas citatórias, y monitórias de excomunion.
+BABIA, Hi. Pontif. tom. 3. pl. 535. Fué con eſ-
+te monitório una Bula citatória, en que cita-
+ban al Rey, para que por sí ò por ſu Procura-
+dór pareciee en Roma. MEN. Coron. fol. 22.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="400" y="801"/>
+	<Point x="781" y="789"/>
+	<Point x="863" y="795"/>
+	<Point x="846" y="947"/>
+	<Point x="907" y="949"/>
+	<Point x="899" y="987"/>
+	<Point x="558" y="991"/>
+	<Point x="443" y="994"/>
+	<Point x="435" y="1004"/>
+	<Point x="423" y="1008"/>
+	<Point x="407" y="1002"/>
+	<Point x="396" y="954"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De las cartas citatórias,
+ni de coa del meſón,
+yo no fago dilatórias,
+que no es tal mi condicion.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="228" y="1997"/>
+	<Point x="303" y="1993"/>
+	<Point x="421" y="1995"/>
+	<Point x="512" y="1987"/>
+	<Point x="559" y="1986"/>
+	<Point x="572" y="1987"/>
+	<Point x="641" y="1982"/>
+	<Point x="917" y="1971"/>
+	<Point x="996" y="1980"/>
+	<Point x="1033" y="1971"/>
+	<Point x="1136" y="1968"/>
+	<Point x="1203" y="1973"/>
+	<Point x="1226" y="2542"/>
+	<Point x="797" y="2542"/>
+	<Point x="808" y="2588"/>
+	<Point x="609" y="2593"/>
+	<Point x="431" y="2602"/>
+	<Point x="330" y="2609"/>
+	<Point x="295" y="2613"/>
+	<Point x="283" y="2603"/>
+	<Point x="281" y="2336"/>
+	<Point x="279" y="2124"/>
+	<Point x="277" y="2048"/>
+	<Point x="230" y="2048"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CITHARA. ſ. f. Inrumento múco, ſemejan-
+te algo à la guitarra; pero mas pequeño, y
+redondo. Tiene las cuerdas de alambre, y ſe
+tocan con una pluma cortada, como para eſ-
+cribir de gordo. Es voz puramente Latina
+Cithara. COMEND. ſob. las 300. fol. 20. Aquel
+fablar fué romance, que el juglár ponia en la
+cíthara, en bodas de Enéas con la Réina Dido.
+LOP. Dorot. fol. 157. Como amar al Ruiſe-
+ñór cíthara de pluma; que por la miſma razon
+ſe havia de amar la cíthara Ruiſeñór de pa-
+lo. GONG. Rom. amor. 22.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="445" y="2614"/>
+	<Point x="550" y="2607"/>
+	<Point x="569" y="2606"/>
+	<Point x="878" y="2594"/>
+	<Point x="1004" y="2610"/>
+	<Point x="1008" y="2703"/>
+	<Point x="889" y="2700"/>
+	<Point x="875" y="2792"/>
+	<Point x="760" y="2794"/>
+	<Point x="743" y="2804"/>
+	<Point x="727" y="2806"/>
+	<Point x="711" y="2795"/>
+	<Point x="619" y="2804"/>
+	<Point x="618" y="2812"/>
+	<Point x="603" y="2813"/>
+	<Point x="603" y="2803"/>
+	<Point x="568" y="2808"/>
+	<Point x="548" y="2804"/>
+	<Point x="450" y="2809"/>
+	<Point x="444" y="2775"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La cíthara, que pendiente
+muchos dias guardó un ſáuce,
+ſolicitadas ſus cuerdas
+de los zéphiros ſuaves.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="250" y="2820"/>
+	<Point x="518" y="2820"/>
+	<Point x="630" y="2814"/>
+	<Point x="713" y="2813"/>
+	<Point x="763" y="2804"/>
+	<Point x="1230" y="2799"/>
+	<Point x="1234" y="3057"/>
+	<Point x="975" y="3059"/>
+	<Point x="941" y="3114"/>
+	<Point x="866" y="3108"/>
+	<Point x="547" y="3117"/>
+	<Point x="392" y="3125"/>
+	<Point x="303" y="3124"/>
+	<Point x="298" y="2973"/>
+	<Point x="301" y="2875"/>
+	<Point x="252" y="2873"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CITHARISTA. ſ. m. y f. La perſóna que toca
+la cíthara. Lat. Citharœdus, i. Cithariria, .
+PELLIC. Argen. part. 2. fol. 82. La Capia de
+los Múcos, donde los Fláutas, los Citharias,
+los que tañían ſacabuche y lyra, no dexaban
+de cantar. GONG. Rom. burl. 4.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="404" y="3132"/>
+	<Point x="564" y="3126"/>
+	<Point x="815" y="3114"/>
+	<Point x="831" y="3134"/>
+	<Point x="831" y="3157"/>
+	<Point x="832" y="3205"/>
+	<Point x="879" y="3219"/>
+	<Point x="977" y="3217"/>
+	<Point x="981" y="3252"/>
+	<Point x="807" y="3261"/>
+	<Point x="777" y="3313"/>
+	<Point x="725" y="3321"/>
+	<Point x="685" y="3320"/>
+	<Point x="678" y="3326"/>
+	<Point x="657" y="3328"/>
+	<Point x="661" y="3318"/>
+	<Point x="500" y="3323"/>
+	<Point x="494" y="3330"/>
+	<Point x="465" y="3335"/>
+	<Point x="404" y="3326"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Citharia, dulce hija
+del Archipoéta rubio,
+ al brazo de mi inrumento
+le ſolicitas el pulſo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="1278" y="209"/>
+	<Point x="1399" y="203"/>
+	<Point x="2102" y="199"/>
+	<Point x="2180" y="195"/>
+	<Point x="2198" y="202"/>
+	<Point x="2206" y="206"/>
+	<Point x="2215" y="294"/>
+	<Point x="2100" y="296"/>
+	<Point x="2096" y="349"/>
+	<Point x="1954" y="345"/>
+	<Point x="1950" y="357"/>
+	<Point x="1925" y="357"/>
+	<Point x="1925" y="346"/>
+	<Point x="1838" y="347"/>
+	<Point x="1739" y="351"/>
+	<Point x="1358" y="351"/>
+	<Point x="1307" y="362"/>
+	<Point x="1281" y="361"/>
+	<Point x="1272" y="218"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>caza. Es tomado del Latino Cito, que gniﬁ-
+ca Apreſuradamete, luego, luego. CALDER-
+Com. Zelos aun del áire matan. Jorn. 2.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="header">
+	<Coords>
+	<Point x="1684" y="124"/>
+	<Point x="1770" y="117"/>
+	<Point x="1817" y="113"/>
+	<Point x="1833" y="122"/>
+	<Point x="1841" y="183"/>
+	<Point x="1684" y="184"/>
+	<Point x="1678" y="151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CIT</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="page-number">
+	<Coords>
+	<Point x="2048" y="122"/>
+	<Point x="2156" y="124"/>
+	<Point x="2163" y="194"/>
+	<Point x="2131" y="196"/>
+	<Point x="2056" y="196"/>
+	<Point x="2052" y="194"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>363</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="paragraph">
+	<Coords>
+	<Point x="1248" y="981"/>
+	<Point x="1942" y="973"/>
+	<Point x="2139" y="968"/>
+	<Point x="2225" y="971"/>
+	<Point x="2241" y="1581"/>
+	<Point x="1551" y="1584"/>
+	<Point x="1544" y="1597"/>
+	<Point x="1527" y="1598"/>
+	<Point x="1528" y="1586"/>
+	<Point x="1485" y="1587"/>
+	<Point x="1474" y="1598"/>
+	<Point x="1456" y="1598"/>
+	<Point x="1454" y="1590"/>
+	<Point x="1428" y="1594"/>
+	<Point x="1415" y="1593"/>
+	<Point x="1375" y="1590"/>
+	<Point x="1318" y="1588"/>
+	<Point x="1309" y="1326"/>
+	<Point x="1300" y="1124"/>
+	<Point x="1305" y="1026"/>
+	<Point x="1250" y="1026"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CITOLA. Se ama tambien una tablíta delgada
+de madéra, que ſe pone pendiente de una
+cuerda ſobre la rueda del molino, que rve
+de que la tolva vaya deſpidiendo la cibéra, y
+tambien de aviſar, que ſe pára el molíno,
+quando dexa de golpear. Lat. Motacium, i.
+GARAI, Cart. 1. Ni menos querría que dixeſ-
+ſen de vos, perdída es la lexía en la cabéza
+del aſno, y por demás es la cítola en el molíno,
+quando el molinéro es ſordo. CALIST. Y ME-
+LIB. fol. 147. Pues mándoles yo trabajar en
+vano, que por demás es la cítola en el molíno.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r55" type="paragraph">
+	<Coords>
+	<Point x="1269" y="1597"/>
+	<Point x="1430" y="1600"/>
+	<Point x="1554" y="1599"/>
+	<Point x="1694" y="1592"/>
+	<Point x="2245" y="1589"/>
+	<Point x="2245" y="1693"/>
+	<Point x="2161" y="1688"/>
+	<Point x="2008" y="1690"/>
+	<Point x="1886" y="1701"/>
+	<Point x="1883" y="1735"/>
+	<Point x="1505" y="1742"/>
+	<Point x="1321" y="1742"/>
+	<Point x="1317" y="1674"/>
+	<Point x="1317" y="1643"/>
+	<Point x="1269" y="1645"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CITOLERO, RA. ſ. m. y f. Lo miſmo que Ci-
+tharia. Veaſe. Voces antiquadas. Trahelas
+Nebrixa en ſu Vocabulario.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r59" type="paragraph">
+	<Coords>
+	<Point x="1271" y="1752"/>
+	<Point x="1925" y="1743"/>
+	<Point x="2251" y="1745"/>
+	<Point x="2257" y="2152"/>
+	<Point x="2064" y="2149"/>
+	<Point x="1945" y="2150"/>
+	<Point x="1885" y="2150"/>
+	<Point x="1863" y="2164"/>
+	<Point x="1769" y="2161"/>
+	<Point x="1664" y="2159"/>
+	<Point x="1645" y="2168"/>
+	<Point x="1600" y="2166"/>
+	<Point x="1607" y="2205"/>
+	<Point x="1555" y="2209"/>
+	<Point x="1324" y="2207"/>
+	<Point x="1328" y="2146"/>
+	<Point x="1318" y="1947"/>
+	<Point x="1321" y="1797"/>
+	<Point x="1271" y="1798"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CITOTE. ſ. m. Perſóna deinada para citar à
+alguno juridicamente. Es voz de que ſe ſuele
+uſar en eílo común y familiár: y aſsi ſe dice,
+à Pedro le han deſpachado un citóte. Lat. De-
+nuntiationibus obeundis, famulus, minier. AMAY.
+Deſeng. cap. 3. Trahen el mandamiento con-
+go, como quadriéros ò citótes ò execu-
+tóres, para emplazarnos, prendernos ò hacer
+la execucion.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r63" type="paragraph">
+	<Coords>
+	<Point x="1278" y="2216"/>
+	<Point x="1857" y="2209"/>
+	<Point x="2257" y="2214"/>
+	<Point x="2278" y="3074"/>
+	<Point x="2131" y="3076"/>
+	<Point x="2137" y="3124"/>
+	<Point x="1773" y="3132"/>
+	<Point x="1753" y="3146"/>
+	<Point x="1724" y="3146"/>
+	<Point x="1714" y="3135"/>
+	<Point x="1674" y="3133"/>
+	<Point x="1660" y="3145"/>
+	<Point x="1621" y="3145"/>
+	<Point x="1524" y="3136"/>
+	<Point x="1520" y="3147"/>
+	<Point x="1500" y="3149"/>
+	<Point x="1454" y="3137"/>
+	<Point x="1356" y="3138"/>
+	<Point x="1350" y="2943"/>
+	<Point x="1341" y="2703"/>
+	<Point x="1338" y="2524"/>
+	<Point x="1333" y="2349"/>
+	<Point x="1333" y="2267"/>
+	<Point x="1279" y="2266"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CIUDAD. ſ. f. Poblacion de gentes congrega-
+das à vivir en un lugár, ſujetas à unas leyes,
+y à un gobierno, gozando de ciertos privile-
+gios y exenciones, que los ſeñores Reyes ſe
+han ſervido de concederlas ſegun ſus ſervi-
+cios. Unas ſon cabézas de Réino, como Bur-
+gos, Tolédo, Leon, Sevia, &amp;c. Otras tienen
+voto en Cortes, como las referidas, y Vaa-
+dolid, Salamanca, Cuenca, &amp;c. Viene del La-
+tino Civitas, que gniﬁca lo miſmo. MARIAN.
+Hi. Eſp. lib. 14. cap. 6. Antes en breve los
+Mecinéſes, à exemplo de las otras Ciudádes,
+tomadas las armas, echaron fuera la guarni-
+cion. SAAV. Empr. 4. El Soldán de Egypto,
+movido de la fama del Rey Don Alonſo, le
+envió Embaxadóres con grandes preſentes, y
+y ca todas las Ciudádes de Caia le tuvie-
+ron en poco, y negaron la obediencia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r65" type="paragraph">
+	<Coords>
+	<Point x="1299" y="3149"/>
+	<Point x="1338" y="3145"/>
+	<Point x="1374" y="3156"/>
+	<Point x="1512" y="3157"/>
+	<Point x="1519" y="3149"/>
+	<Point x="1645" y="3147"/>
+	<Point x="1691" y="3147"/>
+	<Point x="1777" y="3150"/>
+	<Point x="1858" y="3135"/>
+	<Point x="2062" y="3134"/>
+	<Point x="2279" y="3142"/>
+	<Point x="2282" y="3551"/>
+	<Point x="2216" y="3553"/>
+	<Point x="2079" y="3543"/>
+	<Point x="1823" y="3552"/>
+	<Point x="1816" y="3595"/>
+	<Point x="1726" y="3598"/>
+	<Point x="1719" y="3613"/>
+	<Point x="1611" y="3602"/>
+	<Point x="1422" y="3612"/>
+	<Point x="1366" y="3607"/>
+	<Point x="1357" y="3371"/>
+	<Point x="1350" y="3196"/>
+	<Point x="1301" y="3200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CIUDAD. Materialmente gniﬁca los muros,
+torres y demás ediﬁcios de que ſe compóne.
+Lat. Urbs, is. COLOM. Guerr. de Fland. lib. 8.
+Es Cambray una de las mayóres y mas no-
+bles Ciudádes de los Eados Baxos: fuerte de
+tio, y fortiﬁcada con el arte de ea manéra.
+COLMEN. Hi. Segob. cap. 1. §. 8. Haviendo
+Hércules fundado nuera Ciudád en ſu pri-
+méra venida à Eſpaña.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords>
+	<Point x="1384" y="360"/>
+	<Point x="1460" y="357"/>
+	<Point x="1781" y="358"/>
+	<Point x="1827" y="362"/>
+	<Point x="1961" y="360"/>
+	<Point x="1956" y="521"/>
+	<Point x="1890" y="523"/>
+	<Point x="1888" y="594"/>
+	<Point x="1886" y="603"/>
+	<Point x="1417" y="609"/>
+	<Point x="1388" y="608"/>
+	<Point x="1385" y="558"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y  es, que el diſcurſo arguye,
+que à una Deidad cazadóra,
+un perro es dón de gran fue,
+ſe le he de evar: tus, tus,
+cito...............................</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="205" y="1008"/>
+	<Point x="356" y="1011"/>
+	<Point x="409" y="1009"/>
+	<Point x="431" y="1013"/>
+	<Point x="436" y="1008"/>
+	<Point x="457" y="1006"/>
+	<Point x="582" y="1000"/>
+	<Point x="889" y="998"/>
+	<Point x="1186" y="979"/>
+	<Point x="1205" y="1860"/>
+	<Point x="1202" y="1904"/>
+	<Point x="1161" y="1908"/>
+	<Point x="1162" y="1956"/>
+	<Point x="1013" y="1962"/>
+	<Point x="1013" y="1973"/>
+	<Point x="997" y="1973"/>
+	<Point x="967" y="1963"/>
+	<Point x="626" y="1971"/>
+	<Point x="572" y="1971"/>
+	<Point x="572" y="1985"/>
+	<Point x="524" y="1984"/>
+	<Point x="500" y="1977"/>
+	<Point x="281" y="1987"/>
+	<Point x="268" y="1838"/>
+	<Point x="261" y="1587"/>
+	<Point x="260" y="1425"/>
+	<Point x="255" y="1262"/>
+	<Point x="260" y="1066"/>
+	<Point x="207" y="1068"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CITERIOR. adj. de una term. Lo que eá de la
+parte de acá, y que en lo antiguo ſe decia
+Aquende, opueo à lo de Aende, que ſe a-
+ma Ulteriór. Es voz puramente Latina Cite-
+rior. MARIAN. Hi. Eſp. lib. 1. cap. 4. Cá los que
+ponen por términos de eas dos Eſpañas cite-
+riór y ulteriór al rio Ebro, à los tales y à ſu
+opinion reen Plinio y los mas eruditos.......
+De ſuerte, que todo lo que eá de ea parte
+de Ebro hácia Poniente, ſe amó algun tiem-
+po Eſpaña ulteriór, y citeriór lo que cae de la
+otra parte. AMBR. MOR. Deſcripc. de Eſp. fol.
+37. Quando los Romános entraron en Eſpaña
+para comenzar à conquiar en ea, la dividie-
+ron (como ſe ha dicho en la Chrónica) en dos
+Provincias, que nombraron Citeriór y Ulte-
+riór. ALDRET. Orig. lib. 1. cap. 3. Divide, pues,
+Plinio à Eſpaña en Citeriór, eo es là mas cer-
+ca de Roma, y en Ulteriór la mas apartada.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r67" type="paragraph">
+	<Coords>
+	<Point x="262" y="3344"/>
+	<Point x="500" y="3337"/>
+	<Point x="592" y="3333"/>
+	<Point x="653" y="3337"/>
+	<Point x="739" y="3322"/>
+	<Point x="1133" y="3309"/>
+	<Point x="1145" y="3305"/>
+	<Point x="1233" y="3317"/>
+	<Point x="1240" y="3461"/>
+	<Point x="953" y="3466"/>
+	<Point x="938" y="3517"/>
+	<Point x="628" y="3528"/>
+	<Point x="590" y="3532"/>
+	<Point x="584" y="3540"/>
+	<Point x="575" y="3542"/>
+	<Point x="519" y="3540"/>
+	<Point x="502" y="3534"/>
+	<Point x="311" y="3536"/>
+	<Point x="310" y="3392"/>
+	<Point x="268" y="3393"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CITHARIZAR. v. a. Tocar, tañer la cíthara.
+Tiene poco uſo. Lat. Citharam pulſare. Co-
+MEND. ſob. las 300. fol. 46. Citharizar es tañer
+la vihuéla, que ſe dice cíthara.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r69" type="paragraph">
+	<Coords>
+	<Point x="270" y="3542"/>
+	<Point x="593" y="3543"/>
+	<Point x="657" y="3536"/>
+	<Point x="921" y="3525"/>
+	<Point x="1034" y="3517"/>
+	<Point x="1241" y="3521"/>
+	<Point x="1248" y="3630"/>
+	<Point x="428" y="3639"/>
+	<Point x="425" y="3650"/>
+	<Point x="410" y="3649"/>
+	<Point x="409" y="3636"/>
+	<Point x="377" y="3639"/>
+	<Point x="324" y="3641"/>
+	<Point x="325" y="3604"/>
+	<Point x="268" y="3600"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CITO. adv. Término de que ſe uſa para amar
+los perros è incitarlos à buſcar y recoger la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r72" type="signature-mark">
+	<Coords>
+	<Point x="378" y="3698"/>
+	<Point x="365" y="3652"/>
+	<Point x="396" y="3648"/>
+	<Point x="412" y="3650"/>
+	<Point x="435" y="3652"/>
+	<Point x="506" y="3645"/>
+	<Point x="542" y="3652"/>
+	<Point x="540" y="3692"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tom. II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r73" type="catch-word">
+	<Coords>
+	<Point x="2158" y="3659"/>
+	<Point x="2158" y="3591"/>
+	<Point x="2330" y="3591"/>
+	<Point x="2330" y="3659"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CIU-</Unicode></TextEquiv></TextRegion></Page></PcGts>

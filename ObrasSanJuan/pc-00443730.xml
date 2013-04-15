@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443730">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T17:12:31</Created>
+	<LastChange>2011-01-03T10:11:36</LastChange></Metadata>
+	<Page imageFilename="00443730.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r13" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r12" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r17" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="454" y="29"/>
+	<Point x="1130" y="51"/>
+	<Point x="1093" y="175"/>
+	<Point x="454" y="192"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cancion Vigema.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="120" y="206"/>
+	<Point x="1255" y="191"/>
+	<Point x="1455" y="191"/>
+	<Point x="1618" y="209"/>
+	<Point x="1621" y="450"/>
+	<Point x="1625" y="456"/>
+	<Point x="1597" y="590"/>
+	<Point x="499" y="609"/>
+	<Point x="123" y="609"/>
+	<Point x="72" y="598"/>
+	<Point x="61" y="596"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tos i obras ſen ya de Dios, no aviendo ya oﬁcio de mur
+murar ni de otra imperfecion en las palabras, ni en las
+demas potencias; i a es como  dixera: Ni me ocupo
+ya, ni entretengo en otros tratos, ni paſatiempos, ni co
+ſas del mundo,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="324" y="671"/>
+	<Point x="982" y="650"/>
+	<Point x="1063" y="636"/>
+	<Point x="1336" y="636"/>
+	<Point x="1343" y="640"/>
+	<Point x="1352" y="667"/>
+	<Point x="1352" y="738"/>
+	<Point x="1336" y="769"/>
+	<Point x="501" y="805"/>
+	<Point x="314" y="798"/>
+	<Point x="292" y="716"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Que ya ſolo en amar es mi exercicio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="347" y="2191"/>
+	<Point x="1374" y="2178"/>
+	<Point x="1389" y="2289"/>
+	<Point x="1103" y="2274"/>
+	<Point x="687" y="2287"/>
+	<Point x="667" y="2292"/>
+	<Point x="307" y="2327"/>
+	<Point x="310" y="2241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Que ya ſolo en amar es mi exercicio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="415" y="2345"/>
+	<Point x="1606" y="2337"/>
+	<Point x="1689" y="2562"/>
+	<Point x="1604" y="2724"/>
+	<Point x="1300" y="2733"/>
+	<Point x="1039" y="2723"/>
+	<Point x="686" y="2745"/>
+	<Point x="18" y="2745"/>
+	<Point x="132" y="2519"/>
+	<Point x="253" y="2511"/>
+	<Point x="264" y="2443"/>
+	<Point x="253" y="2392"/>
+	<Point x="250" y="2362"/>
+	<Point x="277" y="2364"/>
+	<Point x="291" y="2363"/>
+	<Point x="321" y="2363"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ichoſo eado i vida, i dichoſa alma que a el ega,
+donde todo le es ya ſuancia de amor i regalo de
+deſpoſorio, en que de veras puede la Eſpoſa dezir al
+Eſpoſo aqueas palabras de puro amor, que en los di-
+vinos Cantares le dize, diziendo: Omnia poma nova, &amp;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="767" y="2903"/>
+	<Point x="770" y="2905"/>
+	<Point x="785" y="2905"/>
+	<Point x="1441" y="2918"/>
+	<Point x="1443" y="2954"/>
+	<Point x="1441" y="2987"/>
+	<Point x="1277" y="2998"/>
+	<Point x="789" y="2989"/>
+	<Point x="759" y="2989"/>
+	<Point x="759" y="2919"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="1301" y="43"/>
+	<Point x="1614" y="43"/>
+	<Point x="1614" y="169"/>
+	<Point x="1301" y="169"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>717</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="drop-capital">
+	<Coords>
+	<Point x="130" y="2330"/>
+	<Point x="218" y="2358"/>
+	<Point x="238" y="2366"/>
+	<Point x="253" y="2407"/>
+	<Point x="258" y="2458"/>
+	<Point x="245" y="2481"/>
+	<Point x="233" y="2483"/>
+	<Point x="130" y="2495"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="260" y="994"/>
+	<Point x="258" y="974"/>
+	<Point x="253" y="834"/>
+	<Point x="1676" y="814"/>
+	<Point x="1676" y="2124"/>
+	<Point x="0" y="2124"/>
+	<Point x="59" y="1077"/>
+	<Point x="180" y="1067"/>
+	<Point x="222" y="1071"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Omo  dixera, que ya todas eas potencias i ha-
+bilidad del caudal de mi alma i mi cuerpo; que an-
+tes algun tanto empleaba en otras coſas no uti-
+les, las he pueo en exercicio de amor, es a ſaber, que
+toda la habilidad de mi alma i cuerpo ſe mueve por a-
+mor, haziendo todo lo que hago por amor, i todo lo que
+padezco lo padezco por amor. Aqui es de notar, que
+cuando el alma ega à ee eado, todo el exercicio de
+la parte eſpiritual, que es el alma, i el de la parte ſenti
+va, que es el cuerpo, aora ſea en hazer, aora en pade-
+cer; de cualquier manera que ſea, empre le haze mas
+amor i regalo en el Amado, i haa el meſmo exerci-
+cio de oracion i trato con Dios, que antes ſolia ſer en
+otras conderaciones i modos, ya todo es exercicio de
+amor; demanera, que aora ſea acerca de lo temporal ſu
+trato, aora ſea ſu exercicio acerca de lo eſpiritual i tra-
+to con Dios, empre puede dezir ea tal alma:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="drop-capital">
+	<Coords>
+	<Point x="90" y="815"/>
+	<Point x="90" y="1003"/>
+	<Point x="169" y="1012"/>
+	<Point x="221" y="1007"/>
+	<Point x="256" y="991"/>
+	<Point x="252" y="847"/>
+	<Point x="239" y="842"/>
+	<Point x="250" y="810"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="marginalia">
+	<Coords>
+	<Point x="1646" y="2730"/>
+	<Point x="1634" y="2720"/>
+	<Point x="1632" y="2694"/>
+	<Point x="1663" y="2659"/>
+	<Point x="1752" y="2646"/>
+	<Point x="1878" y="2664"/>
+	<Point x="1876" y="2666"/>
+	<Point x="1882" y="2694"/>
+	<Point x="1880" y="2740"/>
+	<Point x="1767" y="2744"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cãt. 7. i3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="catch-word">
+	<Coords>
+	<Point x="1468" y="2735"/>
+	<Point x="1471" y="2789"/>
+	<Point x="1663" y="2786"/>
+	<Point x="1664" y="2743"/>
+	<Point x="1579" y="2735"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vetera</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="signature-mark">
+	<Coords>
+	<Point x="1014" y="2730"/>
+	<Point x="1015" y="2801"/>
+	<Point x="1159" y="2807"/>
+	<Point x="1189" y="2801"/>
+	<Point x="1189" y="2735"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Zz 4</Unicode></TextEquiv></TextRegion></Page></PcGts>

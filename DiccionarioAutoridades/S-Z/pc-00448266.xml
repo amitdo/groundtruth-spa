@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00448266">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:46:23</Created>
+	<LastChange>2011-08-11T10:26:05</LastChange></Metadata>
+	<Page imageFilename="00448266.tif" imageWidth="2817" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r35" index="1"/>
+	<RegionRefIndexed regionRef="r47" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r47" type="catch-word">
+	<Coords>
+	<Point x="2147" y="3724"/>
+	<Point x="2248" y="3724"/>
+	<Point x="2248" y="3788"/>
+	<Point x="2147" y="3788"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bo-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="credit">
+	<Coords>
+	<Point x="977" y="3977"/>
+	<Point x="1954" y="3977"/>
+	<Point x="1954" y="4061"/>
+	<Point x="983" y="4054"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="235" y="660"/>
+	<Point x="2277" y="658"/>
+	<Point x="2295" y="658"/>
+	<Point x="2277" y="3684"/>
+	<Point x="1557" y="3724"/>
+	<Point x="548" y="3687"/>
+	<Point x="515" y="3682"/>
+	<Point x="231" y="3677"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABARC. Annal. Padre Pedro de Abarca: Annales de Aragόn.
+ABR. Com. de Terenc. Pedro Simόn Abril: Traducciόn de las Comedias de Te-
+rencio.
+ABR. Philoſ. Pedro Simόn Abril: Philoſophía.
+ABR. Republ. Pedro Simόn Abril: República de Ariόteles.
+ACOST. Hi. Ind. Padre Joſeph de Acoa: Hioria Natural, y Moral de Indias.
+ACT. DE CORT. DE ARAG. Aos de Cortes de Aragόn.
+AGRICULT. DEL PRIOR. Fr. Miguél Aguin: La Agricultúra del Prior.
+ALCAZ. Chron. Padre Bartholomé Alcazar: Chronohioria de la Compañia
+de Jeſus.
+ALCAZ. Vid. de S. Julian. P. Bartholomé Alcazar: Vida de S. Julian Obiſpo de Cuenca.
+ALDRET. Antig. El Doór Bernardo Aldréte: Antigüedades de Eſpaña.
+ALDRET. Orig. El Doόr Bernardo Aldréte: Origen de la Lengua Cae-
+ana.
+ALFAR. La Vida de Guzmán de Alfarache, de Matheo Alemán.
+ALV. GOM. Alvar Gomez de Ciudad Real: Sus Obras.
+ALVAR. DE TOLED. Hi. de la Don Gabriel Alvarez de Toledo: Hioria de la Iglea, y
+Igleſ. de Mundo.
+AMAD. La Hioria de Amadís de Gáula.
+AMAY. Deſeng. Don Franciſco de Amaya: Deſengaño de los bienes humanos.
+AMBR. MOR. Ambroo de Morales: Sus Obras.
+A. MEND. Obr. Poet. Don Antonio de Mendoza: Sus Obras Poéticas.
+ANT. AGUST. Dial. Don Antonio Aguin: Diálogos de Medaas.
+ANT. PER. Cart. Antonio Perez: Sus Cartas.
+ARANC. Aranceles varios.
+ARDEM. Gob. Polit. Theodoro Ardemans: Gobierno Político de las Fábricas.
+ARGENS. Annal. Bartholomé Leonardo Argenſola: Annales de Aragόn.
+ARGENS. Maluc. Bartholomé Leonardo Argenſola: Conquia de las Ma-
+lúcas.
+ARGOT. Monter. Gonzalo Argote de Molina: Tratado de la Montería.
+ARGOT. Nobl. Gonzalo Argote de Molina: Nobleza de Andalucía.
+ARIAS MONT. Aphor. Arias Montano: Aphoriſmos de Tácito.
+ARTEAG. Rim. Don Felix de Arteaga: Rimas.
+ARTIG. Eloq. Eſp. Don Franciſco Joſeph de Artiga: Epítome de la Eloqüencia
+Eſpañola.
+AUT. ACORD. Los Autos Acordados del Conſejo.
+AVIL. Don Joſeph de Avilés: Ciencia herόica del Blaſόn.
+AYAL. Caid. de Princ. Pedro Lopez de Ayala: Caída de Principes.
+BAB. Hi. Pontif. El Doόr Luis de Babia: Continuaciόn de la Hioria Pon-
+tiﬁcal.
+BALD. Bern. El Door Don Bernardo Balbuena: Poéma del Bernardo.
+BALLEST. Com. Eufroſ. Don Fernando Baeeros: Comedia Eufroſína.
+BARBAD. Boc. de tod. Alonſo de Salas Barbadioo: Boca de todas verdades.
+BARBAD. Cab. perf. Alonſo de Salas Barbadioo: El Cabaero perfeo.
+BARBAD. Coron. Alonſo de Salas Barbadioo: Coronas del Parnaſo.
+BARBAD. Urdem. Alonſo de Salas Barbadioo: Vida de Pedro de Urdemalas.
+BAREN, Guerr. de Fland. Padre Balio Barén de Soto: Traducciόn de las Guerras de
+Flandes.
+B. ARGENS. Rim. Bartholomé Leonardo de Argenſola: Rimas.
+B. CIUD. R. Epi. El Bachiér Fernan Gomez de Ciudad Real: Sus Epíolas.
+B. DE LA TORR. El Bachiér Franciſco de la Torre: Sus Obras.
+BETISS. Guichard. Don Othόn Edilo Nato de Betiana: Epítome del Gichar-
+dino.
+BLANC. Mod. de proc. en Cort. Gerόnymo de Blancas: Modo de proceder en Cortes de
+de Arag. Aragόn.
+BOBAD. Polit. Gerόnymo del Caio y Bobadia: Política.
+BOC. DE OR. Bocados de Oro.
+BOCANG. Lyr. Don Gabriel Bocangel: La Lyra de las Muſas.
+BOCANG. Rim. Don Gabriel Bocangel: Rimas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="286" y="326"/>
+	<Point x="2330" y="326"/>
+	<Point x="2330" y="647"/>
+	<Point x="286" y="647"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EXPLICACION DE LAS ABREVIATURAS
+de los nombres de los Autores, y Obras, que van citados en ee
+ſexto Tomo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="signature-mark">
+	<Coords>
+	<Point x="320" y="3688"/>
+	<Point x="320" y="3734"/>
+	<Point x="521" y="3734"/>
+	<Point x="521" y="3688"/>
+	<Point x="417" y="3684"/>
+	<Point x="350" y="3684"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tom. VI.</Unicode></TextEquiv></TextRegion></Page></PcGts>

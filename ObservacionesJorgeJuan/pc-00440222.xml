@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440222">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:00:32</Created>
+	<LastChange>2011-12-19T11:38:51</LastChange></Metadata>
+	<Page imageFilename="00440222.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r41" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="979" y="4000"/>
+	<Point x="1965" y="4000"/>
+	<Point x="1965" y="4104"/>
+	<Point x="979" y="4104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="787" y="329"/>
+	<Point x="1796" y="329"/>
+	<Point x="1796" y="439"/>
+	<Point x="1132" y="434"/>
+	<Point x="787" y="439"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1977" y="329"/>
+	<Point x="2216" y="329"/>
+	<Point x="2215" y="444"/>
+	<Point x="1983" y="438"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>203</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r2">
+	<Coords>
+	<Point x="270" y="447"/>
+	<Point x="1132" y="442"/>
+	<Point x="2296" y="453"/>
+	<Point x="2300" y="929"/>
+	<Point x="1465" y="907"/>
+	<Point x="1183" y="903"/>
+	<Point x="1061" y="907"/>
+	<Point x="1005" y="924"/>
+	<Point x="943" y="928"/>
+	<Point x="893" y="925"/>
+	<Point x="857" y="917"/>
+	<Point x="692" y="909"/>
+	<Point x="366" y="904"/>
+	<Point x="249" y="907"/></Coords></TableRegion>
+	<TableRegion id="r19">
+	<Coords>
+	<Point x="252" y="919"/>
+	<Point x="419" y="916"/>
+	<Point x="949" y="937"/>
+	<Point x="1015" y="931"/>
+	<Point x="1102" y="915"/>
+	<Point x="1465" y="920"/>
+	<Point x="1888" y="930"/>
+	<Point x="2303" y="948"/>
+	<Point x="2309" y="1390"/>
+	<Point x="1671" y="1396"/>
+	<Point x="1143" y="1375"/>
+	<Point x="1081" y="1388"/>
+	<Point x="1022" y="1394"/>
+	<Point x="938" y="1397"/>
+	<Point x="261" y="1387"/></Coords></TableRegion>
+	<TableRegion id="r23">
+	<Coords>
+	<Point x="263" y="1399"/>
+	<Point x="923" y="1404"/>
+	<Point x="1073" y="1400"/>
+	<Point x="1123" y="1388"/>
+	<Point x="1153" y="1384"/>
+	<Point x="1701" y="1407"/>
+	<Point x="2004" y="1406"/>
+	<Point x="2309" y="1398"/>
+	<Point x="2303" y="1868"/>
+	<Point x="1719" y="1861"/>
+	<Point x="1318" y="1847"/>
+	<Point x="1179" y="1853"/>
+	<Point x="1096" y="1856"/>
+	<Point x="1003" y="1871"/>
+	<Point x="264" y="1868"/></Coords></TableRegion>
+	<TableRegion id="r27">
+	<Coords>
+	<Point x="263" y="1880"/>
+	<Point x="571" y="1878"/>
+	<Point x="795" y="1879"/>
+	<Point x="979" y="1884"/>
+	<Point x="1105" y="1861"/>
+	<Point x="1168" y="1861"/>
+	<Point x="1317" y="1856"/>
+	<Point x="1556" y="1863"/>
+	<Point x="1905" y="1883"/>
+	<Point x="2305" y="1881"/>
+	<Point x="2300" y="2344"/>
+	<Point x="1476" y="2328"/>
+	<Point x="1429" y="2331"/>
+	<Point x="1105" y="2318"/>
+	<Point x="1002" y="2339"/>
+	<Point x="938" y="2339"/>
+	<Point x="262" y="2329"/></Coords></TableRegion>
+	<TableRegion id="r31">
+	<Coords>
+	<Point x="263" y="2347"/>
+	<Point x="955" y="2351"/>
+	<Point x="1015" y="2346"/>
+	<Point x="1100" y="2330"/>
+	<Point x="1438" y="2339"/>
+	<Point x="1513" y="2342"/>
+	<Point x="1792" y="2345"/>
+	<Point x="2128" y="2350"/>
+	<Point x="2300" y="2352"/>
+	<Point x="2297" y="2811"/>
+	<Point x="1193" y="2801"/>
+	<Point x="1059" y="2803"/>
+	<Point x="951" y="2819"/>
+	<Point x="270" y="2815"/></Coords></TableRegion>
+	<TableRegion id="r33">
+	<Coords>
+	<Point x="268" y="2826"/>
+	<Point x="424" y="2826"/>
+	<Point x="759" y="2830"/>
+	<Point x="925" y="2830"/>
+	<Point x="1090" y="2809"/>
+	<Point x="1167" y="2808"/>
+	<Point x="1548" y="2826"/>
+	<Point x="2081" y="2826"/>
+	<Point x="2301" y="2823"/>
+	<Point x="2300" y="3297"/>
+	<Point x="270" y="3297"/></Coords></TableRegion>
+	<TextRegion id="r35" type="signature-mark">
+	<Coords>
+	<Point x="1422" y="3358"/>
+	<Point x="1632" y="3358"/>
+	<Point x="1632" y="3454"/>
+	<Point x="1422" y="3454"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cc 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="catch-word">
+	<Coords>
+	<Point x="2064" y="3345"/>
+	<Point x="2222" y="3345"/>
+	<Point x="2222" y="3461"/>
+	<Point x="2064" y="3461"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de</Unicode></TextEquiv></TextRegion></Page></PcGts>

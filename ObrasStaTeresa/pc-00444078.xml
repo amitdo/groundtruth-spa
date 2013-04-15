@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444078">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T11:25:28</Created>
+	<LastChange>2011-12-19T11:39:24</LastChange></Metadata>
+	<Page imageFilename="00444078.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="937" y="60"/>
+	<Point x="1682" y="60"/>
+	<Point x="1682" y="207"/>
+	<Point x="937" y="207"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="451" y="224"/>
+	<Point x="2014" y="216"/>
+	<Point x="2021" y="2612"/>
+	<Point x="1610" y="2621"/>
+	<Point x="1542" y="2648"/>
+	<Point x="421" y="2642"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que los ayuda ) pues tornando a los que diſ‐
+curren digo, que no ſe les vaya todo el tiem‐
+po en eo, porque aunque es muy merito‐
+rio, no les parece, como es oracion ſabro‐
+ſa, que ha de auer dia de Domingo, ni rato
+que no ſea trabajar, luego les parece es per‐
+dido el tiempo, y tengo yo por muy gana‐
+da ea perdida, no  como he dicho ſe re‐
+preſenten delante de Chrio, y n canſan‐
+cio del entendimiento, ſe een hablando
+y regalando con el n canſarſe en compo‐
+ner razones, no preſentar neceſsidades,
+y la razon que tiene para nos ſuﬀrir ai. Lo
+vno vn tiempo, lo otro otro, porque
+no ſe canſe el alma de comer empre vn
+manjar. Eos ſon muy guoſos y pro-
+uechoſos  el guo ſe vſa a comer de-
+os: traen congo gran ſuento para dar
+vida al alma, y muchas ganancias. Quie‐
+ro me declarar mas, porque eas coſas de
+oracion todas ſon difﬁcultoſas, y no ſe
+haa maero, muy malas de entender ( y
+eo haze que aunque quiera abreuiar,
+y baaua, para el entendimiento bue‐
+no de quien me mando eſcriuir eas
+coſas de oracion, ſolo tocarlas, mi tor‐
+peza no da lugar a dezir, y dar a en-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1673" y="2630"/>
+	<Point x="2030" y="2625"/>
+	<Point x="2030" y="2724"/>
+	<Point x="1673" y="2724"/>
+	<Point x="1674" y="2641"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tender</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="580" y="3039"/>
+	<Point x="1603" y="3039"/>
+	<Point x="1603" y="3170"/>
+	<Point x="580" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="469" y="101"/>
+	<Point x="469" y="210"/>
+	<Point x="701" y="210"/>
+	<Point x="701" y="101"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>150</Unicode></TextEquiv></TextRegion></Page></PcGts>

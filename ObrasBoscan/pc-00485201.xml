@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485201">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T13:24:49</Created>
+	<LastChange>2011-05-12T13:41:02</LastChange></Metadata>
+	<Page imageFilename="00485201.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="636" y="3021"/>
+	<Point x="1393" y="3021"/>
+	<Point x="1393" y="3090"/>
+	<Point x="636" y="3090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="392" y="182"/>
+	<Point x="1642" y="185"/>
+	<Point x="1621" y="2816"/>
+	<Point x="405" y="2817"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pero ya, pueda mas tu ſanto pecho
+Con las blanduras que d' Amor te quedan:
+Que no el brauo furor, de mi fortuna,
+Con la dureza de mi nacimiento.
+Si de mis pocos años no te dueles,
+Duelete, de los muchos de mi padre:
+Y de los fuertes antos, que la trie
+De mi madre hara, quando ſupiere,
+El deſarado genero de muerte,
+Que me'uuo aguardãdo entre tus ondas
+Condera, el morir que ha de ſer ee,
+Ir yo a mi bien teniendole tan cerca:
+Y en la ida morir ante ſus ojos.
+Ir aprieſa aegar do'a mi vida,
+Y topar con la muerte, en el camino.
+Vere mi luz, que me'ara amando,
+Terne la mar, que me andara ſorbiendo.
+Lleuarm' a el aboroço, de la torre
+Y enterrarm'ha, del'agua la braueza.
+Penſare yo, egar donde'a Hero,
+Para gozar de toda ſu hermoſura:
+Y a trueque deo, egare a lo hondo,
+Para ſer ai muerto entre los peces.
+O Hero mia, o Hero, mis entrañas,
+Que dolor ſera el tuyo, quando vieres
+Al'oria del'agua, 'ar tendido
+Eetu cuerpo, n ea alma tuya.
+Por qne voy para ti, de ti me parto,
+Deſpidome de ti, para ti yendo.
+O'raño deſpidir, o'raña ida,
+Que la fuerça que pongo, por haarte,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="614" y="86"/>
+	<Point x="1142" y="86"/>
+	<Point x="1142" y="169"/>
+	<Point x="614" y="169"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="page-number">
+	<Coords>
+	<Point x="1183" y="86"/>
+	<Point x="1606" y="86"/>
+	<Point x="1606" y="178"/>
+	<Point x="1183" y="178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. CXVII.</Unicode></TextEquiv></TextRegion></Page></PcGts>

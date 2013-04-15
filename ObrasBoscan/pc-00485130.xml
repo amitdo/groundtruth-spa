@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485130">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T05:46:22</Created>
+	<LastChange>2011-05-12T13:40:56</LastChange></Metadata>
+	<Page imageFilename="00485130.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="634" y="3028"/>
+	<Point x="1394" y="3031"/>
+	<Point x="1394" y="3096"/>
+	<Point x="634" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="342" y="236"/>
+	<Point x="1638" y="238"/>
+	<Point x="1580" y="2042"/>
+	<Point x="1540" y="2748"/>
+	<Point x="1400" y="2812"/>
+	<Point x="1386" y="2816"/>
+	<Point x="1220" y="2856"/>
+	<Point x="1016" y="2866"/>
+	<Point x="340" y="2852"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mas ee ſu dizir tuuo mas fuerça
+Y pudo mas, de ſolo poder poco
+Que  fuera el mejor, y el mas ornado,
+El mas ardiente, y copioſo'ilo,
+Que fue'l de quantos fueron celebrados:
+En Roma, y en Athenas, en el tiempo
+Que la dulçe eloquencia competia,
+Con el furor delas luzientes armas.
+Su embaraço fue tal, y ſu turbarſe,
+Que con ſolo morar mueras de miedo:
+Moro con puro Amor puro deeo.
+Y moro mas, ear determinado,
+Ala muerte que Amor quiee dae.
+Ea que'o entendio tan ala letra:
+Que ni fue meneer querer creeo,
+Ni a tenerſe a teigos ni a argumentos,
+Ni diſcurrir razones neçearias,
+Para alcançar vna verdad tan grande.
+Como en vn punto vio el alma tendida,
+De ſu amador, y vio todas ſus agas:
+Ai tambien vençida fue en vn punto.
+Y en vn punto fue hecho lo que'l tiempo
+Ia mas pudiera hazer, por mas que pueda
+Boluer y reboluer la mortal gente.
+En Leandro boluſo a ençender s'el fuego:
+Con el calor que'n Hero vio mouido.
+Y ai ſe fue eſforçando entre  miſmo:
+Y ſu paion templando por vn rato.
+Sus ojos reboluio por todo el templo:
+Y viendo bien que nadie no le via,
+Aeguroſe lo mejor que pudo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="585" y="127"/>
+	<Point x="585" y="220"/>
+	<Point x="1129" y="226"/>
+	<Point x="1124" y="132"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="1160" y="130"/>
+	<Point x="1162" y="228"/>
+	<Point x="1625" y="225"/>
+	<Point x="1620" y="118"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. LXXXI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="signature-mark">
+	<Coords>
+	<Point x="1308" y="2847"/>
+	<Point x="1310" y="2928"/>
+	<Point x="1422" y="2928"/>
+	<Point x="1420" y="2831"/>
+	<Point x="1362" y="2831"/>
+	<Point x="1331" y="2838"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N</Unicode></TextEquiv></TextRegion></Page></PcGts>

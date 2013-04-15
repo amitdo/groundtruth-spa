@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442151">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T15:26:17</Created>
+	<LastChange>2011-07-05T14:26:55</LastChange></Metadata>
+	<Page imageFilename="00442151.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r32" index="0"/>
+	<RegionRefIndexed regionRef="r39" index="1"/>
+	<RegionRefIndexed regionRef="r40" index="2"/>
+	<RegionRefIndexed regionRef="r41" index="3"/>
+	<RegionRefIndexed regionRef="r42" index="4"/>
+	<RegionRefIndexed regionRef="r43" index="5"/>
+	<RegionRefIndexed regionRef="r44" index="6"/>
+	<RegionRefIndexed regionRef="r56" index="7"/>
+	<RegionRefIndexed regionRef="r58" index="8"/>
+	<RegionRefIndexed regionRef="r46" index="9"/>
+	<RegionRefIndexed regionRef="r48" index="10"/>
+	<RegionRefIndexed regionRef="r50" index="11"/>
+	<RegionRefIndexed regionRef="r37" index="12"/>
+	<RegionRefIndexed regionRef="r45" index="13"/>
+	<RegionRefIndexed regionRef="r49" index="14"/>
+	<RegionRefIndexed regionRef="r19" index="15"/>
+	<RegionRefIndexed regionRef="r20" index="16"/>
+	<RegionRefIndexed regionRef="r21" index="17"/>
+	<RegionRefIndexed regionRef="r22" index="18"/>
+	<RegionRefIndexed regionRef="r23" index="19"/>
+	<RegionRefIndexed regionRef="r25" index="20"/>
+	<RegionRefIndexed regionRef="r54" index="21"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="687" y="193"/>
+	<Point x="1132" y="193"/>
+	<Point x="1131" y="275"/>
+	<Point x="687" y="277"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MVSA VI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1818" y="192"/>
+	<Point x="1947" y="192"/>
+	<Point x="1971" y="254"/>
+	<Point x="1947" y="291"/>
+	<Point x="1820" y="294"/>
+	<Point x="1807" y="290"/>
+	<Point x="1798" y="269"/>
+	<Point x="1795" y="237"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>581</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="112" y="2602"/>
+	<Point x="114" y="2586"/>
+	<Point x="411" y="2591"/>
+	<Point x="418" y="2604"/>
+	<Point x="445" y="2600"/>
+	<Point x="462" y="2592"/>
+	<Point x="577" y="2595"/>
+	<Point x="718" y="2611"/>
+	<Point x="756" y="2594"/>
+	<Point x="773" y="2590"/>
+	<Point x="988" y="2592"/>
+	<Point x="994" y="2884"/>
+	<Point x="988" y="2902"/>
+	<Point x="854" y="2906"/>
+	<Point x="529" y="2887"/>
+	<Point x="404" y="2902"/>
+	<Point x="390" y="2897"/>
+	<Point x="359" y="2885"/>
+	<Point x="140" y="2884"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Valgate el diablo por hombre,
+No sè como te debanas,
+Acoado en un puchero
+El cuerpo, i el ſueño a gatas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="121" y="2891"/>
+	<Point x="345" y="2894"/>
+	<Point x="422" y="2909"/>
+	<Point x="526" y="2898"/>
+	<Point x="550" y="2900"/>
+	<Point x="753" y="2913"/>
+	<Point x="760" y="2988"/>
+	<Point x="255" y="2984"/>
+	<Point x="116" y="2977"/>
+	<Point x="110" y="2889"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pepita de un tinagero</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1163" y="1995"/>
+	<Point x="1901" y="2002"/>
+	<Point x="1908" y="2146"/>
+	<Point x="1904" y="2229"/>
+	<Point x="1431" y="2209"/>
+	<Point x="1390" y="2214"/>
+	<Point x="1324" y="2226"/>
+	<Point x="1307" y="2228"/>
+	<Point x="1295" y="2225"/>
+	<Point x="1290" y="2215"/>
+	<Point x="1265" y="2205"/>
+	<Point x="1234" y="2206"/>
+	<Point x="1149" y="2209"/>
+	<Point x="1145" y="1995"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nos predicas alaracas
+Contra Pilaras, i Nichos,
+I Alquileres de las caſas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="1076" y="2206"/>
+	<Point x="1089" y="2207"/>
+	<Point x="1241" y="2220"/>
+	<Point x="1288" y="2227"/>
+	<Point x="1304" y="2237"/>
+	<Point x="1371" y="2228"/>
+	<Point x="1419" y="2221"/>
+	<Point x="1670" y="2231"/>
+	<Point x="1971" y="2247"/>
+	<Point x="1985" y="2537"/>
+	<Point x="1952" y="2537"/>
+	<Point x="1679" y="2531"/>
+	<Point x="1584" y="2517"/>
+	<Point x="1511" y="2520"/>
+	<Point x="1096" y="2509"/>
+	<Point x="1051" y="2241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No ſaben de ti los vientos,
+Porque les vuelves las ancas;
+I para mudar de pueblo,
+Echandote a rodar, marchas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="1060" y="2830"/>
+	<Point x="1264" y="2829"/>
+	<Point x="1298" y="2850"/>
+	<Point x="1387" y="2828"/>
+	<Point x="1475" y="2844"/>
+	<Point x="1663" y="2835"/>
+	<Point x="1831" y="2830"/>
+	<Point x="1831" y="2989"/>
+	<Point x="1617" y="2996"/>
+	<Point x="1606" y="2989"/>
+	<Point x="1558" y="2967"/>
+	<Point x="1060" y="2989"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Si te abrevias en cuclias,
+En el ſotano te agachas;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="credit">
+	<Coords>
+	<Point x="694" y="3124"/>
+	<Point x="1515" y="3124"/>
+	<Point x="1515" y="3202"/>
+	<Point x="694" y="3202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="119" y="296"/>
+	<Point x="878" y="298"/>
+	<Point x="1020" y="328"/>
+	<Point x="1025" y="612"/>
+	<Point x="494" y="617"/>
+	<Point x="477" y="625"/>
+	<Point x="462" y="615"/>
+	<Point x="122" y="594"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En el Real de Don Sancho
+Grandes alaridos dan;
+Io quiero,  el tal Don Sancho
+Cae ſu pico, i dè el Real.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="drop-capital">
+	<Coords>
+	<Point x="84" y="1964"/>
+	<Point x="208" y="1972"/>
+	<Point x="224" y="2079"/>
+	<Point x="222" y="2106"/>
+	<Point x="84" y="2109"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r38" type="other">
+	<Coords>
+	<Point x="112" y="2131"/>
+	<Point x="116" y="2180"/>
+	<Point x="176" y="2177"/>
+	<Point x="170" y="2126"/></Coords></GraphicRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1058" y="2528"/>
+	<Point x="1076" y="2518"/>
+	<Point x="1578" y="2528"/>
+	<Point x="1626" y="2531"/>
+	<Point x="1679" y="2559"/>
+	<Point x="1980" y="2547"/>
+	<Point x="1980" y="2832"/>
+	<Point x="1755" y="2822"/>
+	<Point x="1658" y="2830"/>
+	<Point x="1415" y="2828"/>
+	<Point x="1400" y="2815"/>
+	<Point x="1343" y="2824"/>
+	<Point x="1329" y="2835"/>
+	<Point x="1319" y="2837"/>
+	<Point x="1300" y="2835"/>
+	<Point x="1281" y="2815"/>
+	<Point x="1268" y="2823"/>
+	<Point x="1083" y="2815"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Para mejorar de ſrtio,
+Tu perſona miſma enjaguas;
+Lo que occupas, es alcova;
+I lo que te ſobra, ſalas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="93" y="620"/>
+	<Point x="134" y="608"/>
+	<Point x="409" y="616"/>
+	<Point x="492" y="632"/>
+	<Point x="510" y="624"/>
+	<Point x="585" y="631"/>
+	<Point x="854" y="620"/>
+	<Point x="1012" y="620"/>
+	<Point x="1023" y="865"/>
+	<Point x="994" y="896"/>
+	<Point x="900" y="917"/>
+	<Point x="830" y="924"/>
+	<Point x="787" y="922"/>
+	<Point x="728" y="905"/>
+	<Point x="358" y="918"/>
+	<Point x="336" y="920"/>
+	<Point x="296" y="905"/>
+	<Point x="107" y="895"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tu, que gues otro rumbo,
+Habràs dado en enviudar,
+A poder de perros muertos,
+Las perras de ee lugar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords>
+	<Point x="128" y="909"/>
+	<Point x="109" y="921"/>
+	<Point x="111" y="932"/>
+	<Point x="145" y="1186"/>
+	<Point x="193" y="1198"/>
+	<Point x="254" y="1205"/>
+	<Point x="1004" y="1216"/>
+	<Point x="1055" y="1191"/>
+	<Point x="1056" y="938"/>
+	<Point x="813" y="938"/>
+	<Point x="765" y="920"/>
+	<Point x="738" y="920"/>
+	<Point x="723" y="922"/>
+	<Point x="528" y="921"/>
+	<Point x="363" y="931"/>
+	<Point x="293" y="918"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Por ti comen las Maines
+Con tocas baxas el pan;
+lo a la ſalud de los gozques
+No me harto de brindar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords>
+	<Point x="100" y="1209"/>
+	<Point x="133" y="1476"/>
+	<Point x="133" y="1497"/>
+	<Point x="236" y="1507"/>
+	<Point x="1007" y="1514"/>
+	<Point x="1058" y="1248"/>
+	<Point x="592" y="1219"/>
+	<Point x="248" y="1229"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dices, que no tienes perro
+Que te ladre, i es verdad,
+Porque a los perros difuntos
+Nadie los oie ladrar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords>
+	<Point x="87" y="1496"/>
+	<Point x="87" y="1687"/>
+	<Point x="961" y="1687"/>
+	<Point x="964" y="1555"/>
+	<Point x="741" y="1526"/>
+	<Point x="112" y="1507"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tener Perreros, es coſa
+Para Iglea Cathredal;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="1125" y="283"/>
+	<Point x="1475" y="300"/>
+	<Point x="1929" y="321"/>
+	<Point x="1932" y="466"/>
+	<Point x="1885" y="479"/>
+	<Point x="1737" y="478"/>
+	<Point x="1694" y="487"/>
+	<Point x="1684" y="487"/>
+	<Point x="1670" y="471"/>
+	<Point x="1648" y="474"/>
+	<Point x="1576" y="461"/>
+	<Point x="1213" y="466"/>
+	<Point x="1134" y="448"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tuia propria es ea Plaça,
+Que io ſoi toda ſeglar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords>
+	<Point x="1084" y="459"/>
+	<Point x="1112" y="759"/>
+	<Point x="1555" y="789"/>
+	<Point x="1561" y="787"/>
+	<Point x="1676" y="777"/>
+	<Point x="1763" y="793"/>
+	<Point x="1846" y="772"/>
+	<Point x="1871" y="776"/>
+	<Point x="1975" y="765"/>
+	<Point x="1972" y="506"/>
+	<Point x="1927" y="492"/>
+	<Point x="1740" y="488"/>
+	<Point x="1731" y="484"/>
+	<Point x="1710" y="487"/>
+	<Point x="1690" y="496"/>
+	<Point x="1666" y="478"/>
+	<Point x="1648" y="483"/>
+	<Point x="1502" y="482"/>
+	<Point x="1481" y="475"/>
+	<Point x="1276" y="484"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Al Prometo niego el Eco
+Con perverſa honeidad,
+Porque el deſprometimiento
+Es miento de par en par.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="paragraph">
+	<Coords>
+	<Point x="1080" y="1463"/>
+	<Point x="1069" y="1450"/>
+	<Point x="1079" y="1381"/>
+	<Point x="1381" y="1383"/>
+	<Point x="1420" y="1391"/>
+	<Point x="1430" y="1385"/>
+	<Point x="1465" y="1384"/>
+	<Point x="1506" y="1387"/>
+	<Point x="1611" y="1400"/>
+	<Point x="1648" y="1389"/>
+	<Point x="1745" y="1404"/>
+	<Point x="1808" y="1392"/>
+	<Point x="1861" y="1397"/>
+	<Point x="1952" y="1439"/>
+	<Point x="1975" y="1467"/>
+	<Point x="2000" y="1528"/>
+	<Point x="1967" y="1615"/>
+	<Point x="1941" y="1691"/>
+	<Point x="1864" y="1693"/>
+	<Point x="1828" y="1708"/>
+	<Point x="1126" y="1691"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Por ſer Chriiana, i no vieja,
+Me alegra el Tribu de Dan;
+Tu mas vieja, que Chriiana,
+En Paganos puedes dar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="heading">
+	<Coords>
+	<Point x="306" y="1752"/>
+	<Point x="422" y="1738"/>
+	<Point x="492" y="1739"/>
+	<Point x="1797" y="1752"/>
+	<Point x="1797" y="1858"/>
+	<Point x="306" y="1858"/>
+	<Point x="282" y="1794"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vita de Alexandro a Diogenes, Philoſopho Cynico.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="heading">
+	<Coords>
+	<Point x="683" y="1871"/>
+	<Point x="1352" y="1878"/>
+	<Point x="1359" y="1934"/>
+	<Point x="1347" y="1963"/>
+	<Point x="1285" y="1957"/>
+	<Point x="690" y="1934"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ROMANCE LXIX.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="signature-mark">
+	<Coords>
+	<Point x="1418" y="2996"/>
+	<Point x="1435" y="2984"/>
+	<Point x="1547" y="2979"/>
+	<Point x="1575" y="2987"/>
+	<Point x="1695" y="3021"/>
+	<Point x="1690" y="3036"/>
+	<Point x="1680" y="3049"/>
+	<Point x="1648" y="3068"/>
+	<Point x="1507" y="3064"/>
+	<Point x="1412" y="3058"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dd,dd 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r54" type="catch-word">
+	<Coords>
+	<Point x="1855" y="3012"/>
+	<Point x="1904" y="2984"/>
+	<Point x="1940" y="2990"/>
+	<Point x="1948" y="2993"/>
+	<Point x="1963" y="3050"/>
+	<Point x="1940" y="3059"/>
+	<Point x="1857" y="3050"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Si</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r56" type="paragraph">
+	<Coords>
+	<Point x="1100" y="768"/>
+	<Point x="1100" y="769"/>
+	<Point x="1122" y="769"/>
+	<Point x="1122" y="770"/>
+	<Point x="1144" y="770"/>
+	<Point x="1144" y="771"/>
+	<Point x="1166" y="771"/>
+	<Point x="1166" y="772"/>
+	<Point x="1188" y="772"/>
+	<Point x="1188" y="773"/>
+	<Point x="1209" y="773"/>
+	<Point x="1209" y="774"/>
+	<Point x="1231" y="774"/>
+	<Point x="1231" y="775"/>
+	<Point x="1253" y="775"/>
+	<Point x="1253" y="776"/>
+	<Point x="1275" y="776"/>
+	<Point x="1275" y="777"/>
+	<Point x="1297" y="777"/>
+	<Point x="1297" y="778"/>
+	<Point x="1319" y="778"/>
+	<Point x="1319" y="779"/>
+	<Point x="1328" y="779"/>
+	<Point x="1328" y="780"/>
+	<Point x="1337" y="780"/>
+	<Point x="1337" y="781"/>
+	<Point x="1347" y="781"/>
+	<Point x="1347" y="782"/>
+	<Point x="1356" y="782"/>
+	<Point x="1356" y="783"/>
+	<Point x="1366" y="783"/>
+	<Point x="1366" y="784"/>
+	<Point x="1375" y="784"/>
+	<Point x="1375" y="785"/>
+	<Point x="1384" y="785"/>
+	<Point x="1384" y="786"/>
+	<Point x="1394" y="786"/>
+	<Point x="1394" y="787"/>
+	<Point x="1403" y="787"/>
+	<Point x="1403" y="788"/>
+	<Point x="1413" y="788"/>
+	<Point x="1413" y="789"/>
+	<Point x="1422" y="789"/>
+	<Point x="1422" y="790"/>
+	<Point x="1431" y="790"/>
+	<Point x="1431" y="791"/>
+	<Point x="1441" y="791"/>
+	<Point x="1441" y="792"/>
+	<Point x="1450" y="792"/>
+	<Point x="1450" y="793"/>
+	<Point x="1460" y="793"/>
+	<Point x="1460" y="794"/>
+	<Point x="1469" y="794"/>
+	<Point x="1469" y="795"/>
+	<Point x="1478" y="795"/>
+	<Point x="1478" y="796"/>
+	<Point x="1488" y="796"/>
+	<Point x="1488" y="797"/>
+	<Point x="1497" y="797"/>
+	<Point x="1497" y="798"/>
+	<Point x="1507" y="798"/>
+	<Point x="1507" y="799"/>
+	<Point x="1516" y="799"/>
+	<Point x="1516" y="800"/>
+	<Point x="1525" y="800"/>
+	<Point x="1525" y="801"/>
+	<Point x="1535" y="801"/>
+	<Point x="1535" y="802"/>
+	<Point x="1544" y="802"/>
+	<Point x="1544" y="803"/>
+	<Point x="1555" y="803"/>
+	<Point x="1555" y="802"/>
+	<Point x="1557" y="802"/>
+	<Point x="1557" y="801"/>
+	<Point x="1559" y="801"/>
+	<Point x="1559" y="800"/>
+	<Point x="1561" y="800"/>
+	<Point x="1561" y="799"/>
+	<Point x="1562" y="799"/>
+	<Point x="1562" y="798"/>
+	<Point x="1564" y="798"/>
+	<Point x="1564" y="797"/>
+	<Point x="1566" y="797"/>
+	<Point x="1566" y="796"/>
+	<Point x="1568" y="796"/>
+	<Point x="1568" y="795"/>
+	<Point x="1570" y="795"/>
+	<Point x="1570" y="794"/>
+	<Point x="1571" y="794"/>
+	<Point x="1571" y="793"/>
+	<Point x="1573" y="793"/>
+	<Point x="1573" y="792"/>
+	<Point x="1575" y="792"/>
+	<Point x="1575" y="791"/>
+	<Point x="1577" y="791"/>
+	<Point x="1577" y="790"/>
+	<Point x="1579" y="790"/>
+	<Point x="1579" y="789"/>
+	<Point x="1631" y="789"/>
+	<Point x="1631" y="788"/>
+	<Point x="1688" y="788"/>
+	<Point x="1688" y="789"/>
+	<Point x="1692" y="789"/>
+	<Point x="1692" y="790"/>
+	<Point x="1696" y="790"/>
+	<Point x="1696" y="791"/>
+	<Point x="1701" y="791"/>
+	<Point x="1701" y="792"/>
+	<Point x="1705" y="792"/>
+	<Point x="1705" y="793"/>
+	<Point x="1709" y="793"/>
+	<Point x="1709" y="794"/>
+	<Point x="1714" y="794"/>
+	<Point x="1714" y="795"/>
+	<Point x="1718" y="795"/>
+	<Point x="1718" y="796"/>
+	<Point x="1722" y="796"/>
+	<Point x="1722" y="797"/>
+	<Point x="1727" y="797"/>
+	<Point x="1727" y="798"/>
+	<Point x="1731" y="798"/>
+	<Point x="1731" y="799"/>
+	<Point x="1735" y="799"/>
+	<Point x="1735" y="800"/>
+	<Point x="1739" y="800"/>
+	<Point x="1739" y="801"/>
+	<Point x="1744" y="801"/>
+	<Point x="1744" y="802"/>
+	<Point x="1748" y="802"/>
+	<Point x="1748" y="803"/>
+	<Point x="1752" y="803"/>
+	<Point x="1752" y="804"/>
+	<Point x="1757" y="804"/>
+	<Point x="1757" y="805"/>
+	<Point x="1761" y="805"/>
+	<Point x="1761" y="806"/>
+	<Point x="1765" y="806"/>
+	<Point x="1765" y="807"/>
+	<Point x="1771" y="807"/>
+	<Point x="1771" y="806"/>
+	<Point x="1773" y="806"/>
+	<Point x="1773" y="805"/>
+	<Point x="1774" y="805"/>
+	<Point x="1774" y="804"/>
+	<Point x="1776" y="804"/>
+	<Point x="1776" y="803"/>
+	<Point x="1778" y="803"/>
+	<Point x="1778" y="802"/>
+	<Point x="1779" y="802"/>
+	<Point x="1779" y="801"/>
+	<Point x="1781" y="801"/>
+	<Point x="1781" y="800"/>
+	<Point x="1789" y="800"/>
+	<Point x="1789" y="801"/>
+	<Point x="1795" y="801"/>
+	<Point x="1795" y="802"/>
+	<Point x="1802" y="802"/>
+	<Point x="1802" y="801"/>
+	<Point x="1803" y="801"/>
+	<Point x="1803" y="799"/>
+	<Point x="1804" y="799"/>
+	<Point x="1804" y="797"/>
+	<Point x="1805" y="797"/>
+	<Point x="1805" y="795"/>
+	<Point x="1806" y="795"/>
+	<Point x="1806" y="793"/>
+	<Point x="1807" y="793"/>
+	<Point x="1807" y="791"/>
+	<Point x="1808" y="791"/>
+	<Point x="1808" y="789"/>
+	<Point x="1809" y="789"/>
+	<Point x="1809" y="787"/>
+	<Point x="1810" y="787"/>
+	<Point x="1810" y="785"/>
+	<Point x="1826" y="785"/>
+	<Point x="1826" y="786"/>
+	<Point x="1842" y="786"/>
+	<Point x="1842" y="787"/>
+	<Point x="1858" y="787"/>
+	<Point x="1858" y="788"/>
+	<Point x="1874" y="788"/>
+	<Point x="1874" y="789"/>
+	<Point x="1890" y="789"/>
+	<Point x="1890" y="790"/>
+	<Point x="1905" y="790"/>
+	<Point x="1905" y="791"/>
+	<Point x="1921" y="791"/>
+	<Point x="1921" y="792"/>
+	<Point x="1937" y="792"/>
+	<Point x="1937" y="793"/>
+	<Point x="1953" y="793"/>
+	<Point x="1953" y="794"/>
+	<Point x="1969" y="794"/>
+	<Point x="1969" y="795"/>
+	<Point x="1985" y="795"/>
+	<Point x="1985" y="840"/>
+	<Point x="1984" y="840"/>
+	<Point x="1984" y="885"/>
+	<Point x="1983" y="885"/>
+	<Point x="1983" y="930"/>
+	<Point x="1982" y="930"/>
+	<Point x="1982" y="974"/>
+	<Point x="1981" y="974"/>
+	<Point x="1981" y="1019"/>
+	<Point x="1980" y="1019"/>
+	<Point x="1980" y="1064"/>
+	<Point x="1979" y="1064"/>
+	<Point x="1979" y="1084"/>
+	<Point x="1907" y="1084"/>
+	<Point x="1907" y="1083"/>
+	<Point x="1786" y="1083"/>
+	<Point x="1786" y="1082"/>
+	<Point x="1742" y="1074"/>
+	<Point x="1664" y="1082"/>
+	<Point x="1664" y="1081"/>
+	<Point x="1543" y="1081"/>
+	<Point x="1543" y="1080"/>
+	<Point x="1422" y="1080"/>
+	<Point x="1422" y="1079"/>
+	<Point x="1300" y="1079"/>
+	<Point x="1300" y="1078"/>
+	<Point x="1225" y="1078"/>
+	<Point x="1210" y="1071"/>
+	<Point x="1190" y="1066"/>
+	<Point x="1179" y="1078"/>
+	<Point x="1181" y="1069"/>
+	<Point x="1096" y="1054"/>
+	<Point x="1073" y="1070"/>
+	<Point x="1074" y="1070"/>
+	<Point x="1074" y="1016"/>
+	<Point x="1075" y="1016"/>
+	<Point x="1075" y="963"/>
+	<Point x="1076" y="963"/>
+	<Point x="1076" y="909"/>
+	<Point x="1077" y="909"/>
+	<Point x="1077" y="856"/>
+	<Point x="1078" y="856"/>
+	<Point x="1078" y="802"/>
+	<Point x="1079" y="802"/>
+	<Point x="1079" y="768"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El que tiene, no es el malo,
+Pues tiene,  quiere dár:
+El malo es, el que no tiene,
+Con ſu arriedro, i ſu Satan.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r58" type="paragraph">
+	<Coords>
+	<Point x="1073" y="1079"/>
+	<Point x="1138" y="1078"/>
+	<Point x="1156" y="1104"/>
+	<Point x="1170" y="1087"/>
+	<Point x="1193" y="1076"/>
+	<Point x="1205" y="1093"/>
+	<Point x="1227" y="1081"/>
+	<Point x="1239" y="1081"/>
+	<Point x="1309" y="1090"/>
+	<Point x="1345" y="1083"/>
+	<Point x="1516" y="1084"/>
+	<Point x="1707" y="1087"/>
+	<Point x="1979" y="1090"/>
+	<Point x="1979" y="1399"/>
+	<Point x="1757" y="1383"/>
+	<Point x="1734" y="1398"/>
+	<Point x="1716" y="1395"/>
+	<Point x="1697" y="1379"/>
+	<Point x="1660" y="1376"/>
+	<Point x="1088" y="1368"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ia ſolo el diabló eà rico,
+I nadie lo negarà;
+Pues todo eà dado al diablo,
+I aûn ſe hace de rogar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords>
+	<Point x="248" y="2148"/>
+	<Point x="231" y="2088"/>
+	<Point x="230" y="2070"/>
+	<Point x="222" y="1986"/>
+	<Point x="1015" y="1991"/>
+	<Point x="1021" y="2219"/>
+	<Point x="997" y="2292"/>
+	<Point x="871" y="2295"/>
+	<Point x="732" y="2285"/>
+	<Point x="600" y="2275"/>
+	<Point x="394" y="2273"/>
+	<Point x="358" y="2292"/>
+	<Point x="258" y="2282"/>
+	<Point x="192" y="2271"/>
+	<Point x="193" y="2114"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N el retrete de el moo
+Vecino de una tinaja,
+Philoſopho vendimiado,
+Que para vivir te embaſas;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords>
+	<Point x="127" y="2281"/>
+	<Point x="225" y="2286"/>
+	<Point x="372" y="2304"/>
+	<Point x="423" y="2291"/>
+	<Point x="447" y="2289"/>
+	<Point x="570" y="2285"/>
+	<Point x="714" y="2293"/>
+	<Point x="1022" y="2344"/>
+	<Point x="1028" y="2586"/>
+	<Point x="1020" y="2586"/>
+	<Point x="771" y="2582"/>
+	<Point x="738" y="2577"/>
+	<Point x="726" y="2598"/>
+	<Point x="714" y="2602"/>
+	<Point x="694" y="2592"/>
+	<Point x="689" y="2568"/>
+	<Point x="678" y="2581"/>
+	<Point x="454" y="2587"/>
+	<Point x="440" y="2595"/>
+	<Point x="429" y="2596"/>
+	<Point x="407" y="2582"/>
+	<Point x="226" y="2577"/>
+	<Point x="112" y="2567"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Galapago de Alcorcon,
+Porque el Sol te dè en la cara,
+Campando de caracol,
+Traes aqueas tu poſada.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442400">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T17:20:45</Created>
+	<LastChange>2012-03-12T14:11:59</LastChange></Metadata>
+	<Page imageFilename="00442400.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="427" y="75"/>
+	<Point x="1012" y="74"/>
+	<Point x="1073" y="89"/>
+	<Point x="1091" y="160"/>
+	<Point x="786" y="167"/>
+	<Point x="710" y="181"/>
+	<Point x="458" y="175"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tercera parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="104" y="180"/>
+	<Point x="326" y="179"/>
+	<Point x="714" y="190"/>
+	<Point x="767" y="184"/>
+	<Point x="1409" y="178"/>
+	<Point x="1414" y="2152"/>
+	<Point x="83" y="2188"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>eas, dixo don Quixote. Digolo, porque ea bee-
+zuela podra ſuplir aora la falta de Rozinante, euã-
+dome a mi deſde aqui a algun caio, donde ſea cu-
+rado de mis feridas. Y mas, que no tendre a deshõ-
+ra la tal cauaeria, porque me acuerdo auer leydo,
+que aquel buen viejo Sileno, ayo, y pedagogo del
+alegre Dios de la riſa, quando entrò en la ciudad de
+las cien puertas, yua muy a ſu plazer cauaero ſo-
+bre vn muy hermoſo aſno. Verdad ſerà, que el de-
+uia de yr cauaero como vuera merced dize, reſ-
+pondio Sancho: pero ay grande diferẽcia del yr ca-
+uaero, al yr atraueado como coal de vaſura.
+A lo qual reſpondio don Quixote: Las feridas que
+ſe reciben en las bataas, antes dan honra,  la qui-
+tan. Aſsi que Pança amigo, no me repliques mas, -
+no como ya te he dicho, leuantate lo mejor que pu-
+dieres, y ponme de la manera que mas te agradare
+encima de tu jumento, y vamos de aqui antes que la
+noche venga, y nos ſaltee en ee deſpoblado. Pues
+yo he oydo dezir a vuera merced, dixo Pança, que
+es muy de cauaeros andantes, el dormir en los pa-
+ramos, y deertos, lo mas del año, y que Io tienen a
+mucha ventura. Eo es, dixo don Quixote, quando
+no pueden mas, o quando ean enamorados: y es tã
+verdad eo, que ha auido cauaero, que ſe ha eado
+ſobre vna peña, al ſol, y a la ſombra, y a las inclemẽ-
+cias del cielo, dos años, n que lo ſupiee ſu ſeñora.
+Y vno deos fue Amadis, quãdo amandoſe Belte-
+nebros, ſe aloxò en la peña Polio, ni ſe  ocho años,
+o ocho meſes, que no eoy muy bien en la cuenta.
+Baa que el euuo ai haziendo penitencia, por no
+ſe que nſabor que le hizo la ſeñora Oriana. Pero</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1171" y="2171"/>
+	<Point x="1214" y="2163"/>
+	<Point x="1337" y="2170"/>
+	<Point x="1357" y="2233"/>
+	<Point x="1169" y="2233"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dexe-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="445" y="2307"/>
+	<Point x="1142" y="2307"/>
+	<Point x="1130" y="2378"/>
+	<Point x="454" y="2383"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

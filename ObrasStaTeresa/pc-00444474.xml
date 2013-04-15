@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444474">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:15:09</Created>
+	<LastChange>2011-12-19T11:39:47</LastChange></Metadata>
+	<Page imageFilename="00444474.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r9" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="916" y="96"/>
+	<Point x="1582" y="96"/>
+	<Point x="1582" y="231"/>
+	<Point x="916" y="231"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="597" y="3068"/>
+	<Point x="1590" y="3064"/>
+	<Point x="1589" y="3159"/>
+	<Point x="594" y="3151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="438" y="242"/>
+	<Point x="1148" y="236"/>
+	<Point x="2058" y="233"/>
+	<Point x="2075" y="1123"/>
+	<Point x="1628" y="1131"/>
+	<Point x="1407" y="1125"/>
+	<Point x="1334" y="1161"/>
+	<Point x="1293" y="1137"/>
+	<Point x="1231" y="1130"/>
+	<Point x="1058" y="1157"/>
+	<Point x="986" y="1128"/>
+	<Point x="655" y="1129"/>
+	<Point x="422" y="1139"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>enferma era como los amigos de Iob, que el
+daua el açote para bien de ſus almas, y eas
+ponian en auentura la paciẽcia. Que eſcriuieſ-
+ſe la fundacion de eas caſas, yo penſaua en
+como, en la de Medina nunca auia entendido
+nada para eſcriuir ſu fundacion. Dixome que
+que mas queria de ver que ſu fundacion auia
+do milagroſa. Quiſo dezir que haziendolo
+ſolo el, pareciendo yr n ningun camino, yo
+me determine a ponerlo por obra.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="420" y="1142"/>
+	<Point x="651" y="1133"/>
+	<Point x="983" y="1130"/>
+	<Point x="1014" y="1141"/>
+	<Point x="1059" y="1159"/>
+	<Point x="1230" y="1134"/>
+	<Point x="1293" y="1139"/>
+	<Point x="1334" y="1163"/>
+	<Point x="1408" y="1127"/>
+	<Point x="1648" y="1133"/>
+	<Point x="2077" y="1142"/>
+	<Point x="2031" y="2647"/>
+	<Point x="2003" y="2650"/>
+	<Point x="1888" y="2667"/>
+	<Point x="1836" y="2640"/>
+	<Point x="1780" y="2637"/>
+	<Point x="1665" y="2655"/>
+	<Point x="409" y="2692"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El martes deſpues de la Aſcenon, auien-
+do eado rato en oracion deſpues de comul-
+gar con pena, porque me diuertia, de manera
+que no podia ear en vna coſa, quexauame
+al Señor de nuero miſerable natural. Co-
+menço a inﬂamarſe mi alma, pareciendome
+que claramente entendia tener preſente a to-
+da la ſantiſsima Trinidad en viõ inteetual,
+adonde entendio mi alma por cierta manera
+de repreſentacion, como ﬁgura de la verdad,
+para que lo pudiee entender mi torpeza co-
+mo es Dios trino y vno, y an me parecia ha-
+blarme todas tres perſonas, y que ſe repreſen-
+tauan dentro en mi alma diintamente, di-
+ziendome que deſde ee dia veria mejoria en
+mi en tres coſas, que cada vna deas perſo-
+nas me hazia merced en la charidad, en pa-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="467" y="131"/>
+	<Point x="467" y="236"/>
+	<Point x="658" y="236"/>
+	<Point x="658" y="131"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>554</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1803" y="2640"/>
+	<Point x="1760" y="2692"/>
+	<Point x="1786" y="2740"/>
+	<Point x="1990" y="2740"/>
+	<Point x="1999" y="2658"/>
+	<Point x="1888" y="2668"/>
+	<Point x="1835" y="2642"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>decer</Unicode></TextEquiv></TextRegion></Page></PcGts>

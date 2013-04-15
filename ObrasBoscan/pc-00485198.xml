@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485198">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T20:54:27</Created>
+	<LastChange>2011-05-12T13:41:01</LastChange></Metadata>
+	<Page imageFilename="00485198.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="636" y="3024"/>
+	<Point x="1388" y="3024"/>
+	<Point x="1388" y="3090"/>
+	<Point x="636" y="3090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="459" y="200"/>
+	<Point x="1669" y="196"/>
+	<Point x="1656" y="2830"/>
+	<Point x="481" y="2837"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mas como quien ligeramente corre,
+Y al precio ſeñalado, va el primero,
+Y de vencer es tanta ſu codicia:
+Que aunque caya en mitad dela corrida,
+Sin poner tiempo en euantarſe, buelue
+Acorrer, mucho mas ligeramente.
+Ai la deſdichada, torno luego
+Con vn impetu nueuo, a ſu negocio.
+Y boluiendo, a querer hazer ſu ſeña,
+Otro golpe de viento, boluio a dae,
+Derribandola, ai como el primero.
+O porﬁa d' Amor, a que no baas,
+Con tus fuerças en nueros coraçones
+Otra vez, vuo de'ncender ſu lumbre,
+Otra vez, le fue fuerça que'ncendida
+La euae, a poner en ſu ventana:
+Poniendole reparos contra'l viento.
+Supitamente en eo, las tres parcas
+Sus cuchios tomaron en las manos:
+Apercebidas, aguardando el punto,
+Para cortar los tratos, y las vidas,
+Deos tries amantes, mal logrados.
+La lumbre'aua ardiendo, en la ventana:
+Leandro al'otra parte en la ribera:
+Y como vio, ſu'rea amanecida,
+La noche, ſe le hizo dia claro.
+La fortuna ſe l'antojo bonança,
+Y el crudo viento, vn ayre ſoegado.
+Todauia, tras eo, era el deeo
+Tan grande, d'acertar lo que'mprendia,
+Que por razon, y por Amor, eaua</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="741" y="78"/>
+	<Point x="741" y="190"/>
+	<Point x="1218" y="190"/>
+	<Point x="1218" y="78"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r7" type="other">
+	<Coords>
+	<Point x="1224" y="88"/>
+	<Point x="1224" y="191"/>
+	<Point x="1352" y="191"/>
+	<Point x="1352" y="88"/></Coords></GraphicRegion></Page></PcGts>

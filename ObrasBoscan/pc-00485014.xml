@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485014">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T13:03:35</Created>
+	<LastChange>2011-05-12T13:40:44</LastChange></Metadata>
+	<Page imageFilename="00485014.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r5" index="0"/>
+	<RegionRefIndexed regionRef="r19" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r21" type="signature-mark">
+	<Coords>
+	<Point x="1154" y="2789"/>
+	<Point x="1162" y="2785"/>
+	<Point x="1218" y="2785"/>
+	<Point x="1236" y="2794"/>
+	<Point x="1299" y="2779"/>
+	<Point x="1314" y="2779"/>
+	<Point x="1332" y="2782"/>
+	<Point x="1331" y="2865"/>
+	<Point x="1178" y="2868"/>
+	<Point x="1162" y="2864"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E iij</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="credit">
+	<Coords>
+	<Point x="632" y="3021"/>
+	<Point x="1383" y="3021"/>
+	<Point x="1383" y="3095"/>
+	<Point x="632" y="3095"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="327" y="200"/>
+	<Point x="912" y="202"/>
+	<Point x="1591" y="219"/>
+	<Point x="1597" y="1483"/>
+	<Point x="365" y="1478"/>
+	<Point x="358" y="1471"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Para que' s dar deſculpas:
+En tiempo que quanto tengo es perdido,
+Hombre tan trie, tan cuytado y tal
+No a de ſer reprendido,
+Ni tener puede meritos ni culpas,
+Pues en mi pena me dexan mortal,
+Dexen m'agora quexar de mi mal.
+No ſuﬀrira conſejo mal tan graue.
+Todo es vno con guo tan dañado.
+Todo ſabe a cuydado.
+Si ay alguno que mis cuytas no alaue,
+Porﬁo, y contradigo,
+Y digole que' s loco, y que no ſaue.
+Ya en mis males no tengo por amigo,
+Si no al que me' s dañoſo, y enemigo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="322" y="1516"/>
+	<Point x="1555" y="1516"/>
+	<Point x="1553" y="2784"/>
+	<Point x="1446" y="2783"/>
+	<Point x="1328" y="2770"/>
+	<Point x="1217" y="2780"/>
+	<Point x="1212" y="2782"/>
+	<Point x="1206" y="2784"/>
+	<Point x="1188" y="2784"/>
+	<Point x="1171" y="2781"/>
+	<Point x="1090" y="2782"/>
+	<Point x="956" y="2800"/>
+	<Point x="322" y="2789"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Faltara la memoria
+Para poder dezir lo que' n mi ento.
+Mas aun  ataja el mal, tãbien deſpierta,
+Y pone tal aliento,
+Que m' atreuo a contar tan gran ioria:
+Por donde' l alma ca como muerta,
+No atina ya, no como s'acierta.
+Oluidando el comienço, el fin no hao.
+Mal concierto terna cuento tan largo,
+Do todo a do amargo:
+Y agora lo a de ſer tambien contao.
+Trabajan mis ſentidos
+En buſcar lo que ento, por echao.
+Oyo amar de lexos mis gemidos,
+Y e laima de ver que van perdidos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="page-number">
+	<Coords>
+	<Point x="1121" y="107"/>
+	<Point x="1121" y="196"/>
+	<Point x="1533" y="196"/>
+	<Point x="1533" y="107"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. XXIII.</Unicode></TextEquiv></TextRegion></Page></PcGts>

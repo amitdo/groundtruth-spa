@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443772">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T04:22:27</Created>
+	<LastChange>2010-12-23T11:30:31</LastChange></Metadata>
+	<Page imageFilename="00443772.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="416" y="51"/>
+	<Point x="1175" y="55"/>
+	<Point x="1167" y="183"/>
+	<Point x="816" y="189"/>
+	<Point x="424" y="178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cancion Trigemaprima.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="85" y="203"/>
+	<Point x="1599" y="196"/>
+	<Point x="1615" y="2708"/>
+	<Point x="1320" y="2714"/>
+	<Point x="1113" y="2725"/>
+	<Point x="1091" y="2725"/>
+	<Point x="1065" y="2716"/>
+	<Point x="74" y="2742"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>grandes a vezes de parte de Dios, al tiempo que les
+quiere hazer algunas mercedes, como avemos dicho
+arriba, que les ſuele hazer temor al eſpiritu i pavor, i
+tãbien encogimiento a la carne i ſentidos, por no tener
+eos fortalezido i perﬁcionado el natural, i abituado
+à aqueas mercedes de Dios: a vezes tambien de par-
+te del demonio, el cual al tiempo que Dios dà al alma
+recogimiento i ſuavidad en , teniendo el grande em-
+bidia i peſar de aquel bien i paz del alma, procura po-
+ner horror i temor en el eſpiritu por impedirla aquel
+bien; i a vezes como amenaçandola aà en el eſpiritu,
+i cuando vè, que no puede egar a lo interior del alma
+por ear ea mui recogida i unida con Dios, alome-
+nos por de fuera en la parte ſentiva pone dira-
+cion, ò variedad, i aprietos i dolores, i horror al ſenti-
+do, a ver  por ee medio puede inquietar a la Eſpoſa
+de ſu talamo, a los cuales ama miedos de las noches
+por ſer de los demonios: i porque con eos el demonio
+procura difundir tinieblas en el alma, por eſcurecer la
+divina luz de que goza: i ama veladores a eos temo-
+res, porque de ſuyo hazen velar i recordar al alma de
+ſu ſuave ſueño interior; i tambien porque los demonios
+que los cauſan, ean empre velando por ponerlos.
+Eos temores ca pavamente de parte de Dios, odel
+demonio, como he dicho, ſe ingieren en el eſpiritu de
+los que ya ſon eſpirituales: i no trato aqui de ot ros te-
+mores temporales, ò naturales, porque tener los tales
+temores no es de gente eſpiritual, mas tener los eſpiri
+tuales temores ya dichos, es propiedad de eſpiritua-
+les. Pues a todas eas cuatro maneras de afeciones de
+las cuatro paones del anima conjura tambien el Ama
+do, haziendolas ceſar i ſoſegar, por cuanto el dà ya à
+la Eſpoſa caudal en ee eado i fuerça i ſatisfacion en</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1478" y="2719"/>
+	<Point x="1573" y="2725"/>
+	<Point x="1587" y="2795"/>
+	<Point x="1490" y="2792"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>las</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="773" y="2938"/>
+	<Point x="1413" y="2938"/>
+	<Point x="1412" y="2995"/>
+	<Point x="773" y="2987"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1433" y="78"/>
+	<Point x="1433" y="171"/>
+	<Point x="1589" y="171"/>
+	<Point x="1589" y="78"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>759</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1030" y="2725"/>
+	<Point x="1019" y="2791"/>
+	<Point x="1156" y="2791"/>
+	<Point x="1155" y="2746"/>
+	<Point x="1073" y="2721"/>
+	<Point x="1067" y="2722"/>
+	<Point x="1057" y="2721"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ccc</Unicode></TextEquiv></TextRegion></Page></PcGts>

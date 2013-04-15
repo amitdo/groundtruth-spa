@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440440">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:10:41</Created>
+	<LastChange>2011-07-05T14:26:00</LastChange></Metadata>
+	<Page imageFilename="00440440.tif" imageWidth="876" imageHeight="1587">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r4" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="112" y="116"/>
+	<Point x="860" y="107"/>
+	<Point x="864" y="354"/>
+	<Point x="852" y="1011"/>
+	<Point x="859" y="1366"/>
+	<Point x="863" y="1455"/>
+	<Point x="859" y="1454"/>
+	<Point x="783" y="1457"/>
+	<Point x="705" y="1470"/>
+	<Point x="698" y="1484"/>
+	<Point x="390" y="1502"/>
+	<Point x="112" y="1517"/>
+	<Point x="112" y="1155"/>
+	<Point x="108" y="117"/>
+	<Point x="115" y="116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eſpaﬁola: la he dedicado, y de-
+dico a U. Excelencia: cuya auto-
+ridad, y poder amparara ea po-
+bre obra (que lo es endo de La-
+zaro) eimpedira no ſea deſpeda-
+çada, y mal tratada de las mor-
+dazes, y murmuradoras lenguas,
+que con ſu rabia infernal procu-
+ran herir, y manchar las mas n-
+ceras, y ſencias voluntades.
+Conﬁeſo mi atreuimiento en de-
+dicar vna obra tan pequeﬁa a
+tan gran Princeſa, mas ſu poque-
+dad trae con go la eſcuſa, que es
+la necedad de mayor, y eﬁcaz
+amparo: y la bondad de U. Exce-
+lencia el perdon: a quien ſuplico
+humilmente reciua ee pequeﬁo
+ſeruicio, poniendo los ojos en el</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="748" y="1469"/>
+	<Point x="748" y="1552"/>
+	<Point x="859" y="1555"/>
+	<Point x="862" y="1463"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>deſeo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="280" y="1549"/>
+	<Point x="278" y="1581"/>
+	<Point x="579" y="1579"/>
+	<Point x="583" y="1549"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

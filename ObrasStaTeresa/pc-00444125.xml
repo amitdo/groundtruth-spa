@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444125">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:01:00</Created>
+	<LastChange>2011-12-19T11:39:26</LastChange></Metadata>
+	<Page imageFilename="00444125.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="343" y="118"/>
+	<Point x="1549" y="122"/>
+	<Point x="1554" y="232"/>
+	<Point x="331" y="233"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="106" y="240"/>
+	<Point x="1760" y="247"/>
+	<Point x="1763" y="2644"/>
+	<Point x="1174" y="2651"/>
+	<Point x="866" y="2683"/>
+	<Point x="614" y="2687"/>
+	<Point x="115" y="2689"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>poder de Dios, pues ea que queda ſuelta tan
+to nos daña, y nos canſa, y las otras que ean
+con ſu Magead, el deſcanſo que nos dan. El
+porer remedio  he haado al cabo de auer
+me fatigado hartos años, es lo que dixe en la
+oracion de quietud, que no ſe haga caſo de
+ea, mas que de vn loco, no dexarla con ſu
+tema,  ſolo Dios ſe la puede quitar, y en ﬁn
+aqui por eſclaua queda, hemos lo de ſuﬀrir
+con paciencia como Iacob a Lya: porque har
+ta merced nos haze el Señor que gozemos de
+Rachel. Digo que queda eſclaua, porque en
+ﬁn no puede, por mucho  haga, traer a  las
+otras potencias, antes eas n ningun trabajo
+la hazen muchas vezes venir a . Algunas es
+Dios ſeruido de auer laima de verla tan per
+dida y deſaoegada, con deeo de ear con
+las otras, y conentela ſu Magead, ſe queme
+en aquel fuego de aquea vela diuina, donde
+las otras eã ya hechas poluo, ca perdido ſu
+ſer natural, eãdo ſobrenaturalmente gozan
+do de tan grandes bienes. En todas eas ma-
+neras que de ea porer agua de fuente he
+dicho, es tan grande la gloria y deſcanſo del
+alma, que muy conocidamente participa el
+cuerpo de aquel gozo, y deleyte, y eo muy
+conocidamente, y quedan tan crecidas las vir</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1509" y="2650"/>
+	<Point x="1732" y="2648"/>
+	<Point x="1727" y="2742"/>
+	<Point x="1507" y="2741"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tudes</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="611" y="3066"/>
+	<Point x="1587" y="3070"/>
+	<Point x="1584" y="3155"/>
+	<Point x="606" y="3155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1586" y="130"/>
+	<Point x="1580" y="239"/>
+	<Point x="1729" y="237"/>
+	<Point x="1739" y="128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>197</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1191" y="2655"/>
+	<Point x="1190" y="2762"/>
+	<Point x="1387" y="2760"/>
+	<Point x="1388" y="2651"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N 3</Unicode></TextEquiv></TextRegion></Page></PcGts>

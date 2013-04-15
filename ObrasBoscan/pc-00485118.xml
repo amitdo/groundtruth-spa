@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485118">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T05:44:58</Created>
+	<LastChange>2011-05-12T13:40:56</LastChange></Metadata>
+	<Page imageFilename="00485118.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="596" y="149"/>
+	<Point x="1135" y="154"/>
+	<Point x="1141" y="226"/>
+	<Point x="619" y="227"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="618" y="3024"/>
+	<Point x="1388" y="3024"/>
+	<Point x="1395" y="3064"/>
+	<Point x="1392" y="3096"/>
+	<Point x="618" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="334" y="234"/>
+	<Point x="1169" y="234"/>
+	<Point x="1254" y="264"/>
+	<Point x="1609" y="266"/>
+	<Point x="1566" y="1318"/>
+	<Point x="1376" y="1340"/>
+	<Point x="1354" y="1329"/>
+	<Point x="1231" y="1325"/>
+	<Point x="970" y="1313"/>
+	<Point x="958" y="1329"/>
+	<Point x="935" y="1329"/>
+	<Point x="920" y="1318"/>
+	<Point x="894" y="1315"/>
+	<Point x="670" y="1316"/>
+	<Point x="661" y="1330"/>
+	<Point x="629" y="1334"/>
+	<Point x="618" y="1313"/>
+	<Point x="442" y="1321"/>
+	<Point x="360" y="1256"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mas luego que ſalio, do andaua gente,
+Con maña le hurto ſus muchos bienes:
+Tanto que ladexo pobre, de rica.
+Ea biuia, ſegun hauemos dicho,
+Recogida en ſu torre cuerdamente:
+Y embuelta en exercicios virginales,
+Con ſacriﬁcios ſantos, y continos
+Trabajaua en placar ala gran Madre
+Del Niño, que jamas pudo placarſe.
+Mas eo no valio contra ſu'rea.
+Por que la trie en ﬁn de paar vuo,
+Pordo ſus tries hados la pudieron
+Poco apoco euar, con blanda fuerça.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1181" y="145"/>
+	<Point x="1181" y="233"/>
+	<Point x="1632" y="233"/>
+	<Point x="1632" y="145"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. LXXV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="328" y="1328"/>
+	<Point x="322" y="2535"/>
+	<Point x="442" y="2759"/>
+	<Point x="952" y="2761"/>
+	<Point x="1280" y="2717"/>
+	<Point x="1614" y="2595"/>
+	<Point x="1621" y="1352"/>
+	<Point x="1187" y="1344"/>
+	<Point x="1147" y="1332"/>
+	<Point x="971" y="1331"/>
+	<Point x="941" y="1339"/>
+	<Point x="921" y="1331"/>
+	<Point x="675" y="1330"/>
+	<Point x="661" y="1343"/>
+	<Point x="631" y="1342"/>
+	<Point x="611" y="1326"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Llegaua la ſazon del ſanto dia:
+Los Seios en el qual ſolenizauan
+La gran ﬁea de Venus, y d' Adonis.
+Cubiertos los caminos, y los campos
+Iuan, de gente alegre, y preuroſa:
+Los vnos caminando con lencio,
+Los otros con cantar alegres Hymnos,
+Hazia'l templo, dond'eran eas ﬁeas.
+Ni hombre, ni muger vuo en las iſlas
+Del Egeo, ni en todo el Heeſponto,
+Ni a donde en la Cythere enciẽſos quemã,
+Que aqueos ſacriﬁcios no acudieen.
+Muchos de Cypro, y muchos de Thealia
+Fueron aqui, y Phrygia, y las montañas
+Del Libano quedaron deſpobladas.
+Pues tras eos ya veys,  los de Seo
+Yd'Abydo, pudieron eſcuſarſe</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="1230" y="2728"/>
+	<Point x="1230" y="2814"/>
+	<Point x="1457" y="2814"/>
+	<Point x="1457" y="2728"/>
+	<Point x="1411" y="2701"/>
+	<Point x="1325" y="2722"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M iij</Unicode></TextEquiv></TextRegion></Page></PcGts>

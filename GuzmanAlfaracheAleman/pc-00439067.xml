@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439067">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T08:26:12</Created>
+	<LastChange>2011-02-03T08:35:21</LastChange></Metadata>
+	<Page imageFilename="00439067.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="262" y="94"/>
+	<Point x="1251" y="92"/>
+	<Point x="1266" y="191"/>
+	<Point x="260" y="183"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PARTE I. LIBRO I. CAP. III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="67" y="192"/>
+	<Point x="1480" y="205"/>
+	<Point x="1508" y="2612"/>
+	<Point x="1200" y="2626"/>
+	<Point x="747" y="2609"/>
+	<Point x="572" y="2643"/>
+	<Point x="57" y="2624"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>todos de un ſabor ni calidad. Yo eava de manera, que
+aquelo tuve por buena ſuerte. Tan propio es al ham-
+briento, no reparar en ſalſas, como al neceſtado ſalir à
+qual quier partido. Era poco, paèlo preo con las bue-
+nas ganas: en el pan me detuve algo mas, comilo à pauſas,
+porque endo muy malo, fue forçoſo evarlo de eſpacio,
+dando lugar unos bocados à otros que baxaen al eo-
+mago por ſu orden: comencèlo por las cortezas, y acabe-
+lo en el migajon, que eava hecho engrudo: mas tal qual,
+no le perdonè letra, ni les hize à las hormigas migaja de
+cortea, mas que  fuera poco y bueno. Aſ acontece, 
+ſe juntan buenos comedores en un plato de fruta, que
+picando primero en la mas madura, ſe comen deſpues la
+verde, n dexar memoria de lo que ai euvo. Entonces
+comì (como dizen) à rempujones, media hogaça, y  fue-
+ra razonable, y huviera de hartar à mis ojos, no hiziera
+mi Agoo con una entera de tres libras. Era el año ee-
+ril de ſeco, y en aqueos tiempos ſolia Sevia padecer,
+que aun en los proſperos paava trabajoſamente: mirad
+lo que ſeria en los adverſos. No me eà bien ahondar en
+eo, ni dezir el porque. Soy hĳo de aquea ciudad:
+quiero caar que todo el mundo es uno, todo corre unas
+parejas, ninguno compra Regimiento con otra inten-
+ciõ  para grangeria, ya ſea publica ò ſecreta. Pocos arro-
+jan tãtos miares de ducados para hazer biẽ à los pobres,
+no à  miſmos, pues para dar medio quarto de limoſna,
+la examinan. Aſ pao con un Regidor,  viendole un
+viejo de ſu pueblo exceder de ſu obligaciõ, le dixo: Como
+fulano. N. eo no es lo  juraes, quando en ayuntamiẽto
+os recibieron, que aviades de bolver por los menudos?
+El reſpondiò diziendo. Ya no veys como lo cumplo, pues
+vengo por eos cada Sabado à la carniceria, mi dinero
+me cuean, y eran los de los carneros. Dea manera paſ-
+ſa todo en todo lugar, eos traen entre  la maſa rodan-
+do, oy por mi, mañana por ti, dexame comprar, dexare-
+te vender: eos hazen los eancos en los mantenimien-
+tos; eos hazen las pouras, como en coſa ſuya, y aſ lo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1321" y="2624"/>
+	<Point x="1491" y="2621"/>
+	<Point x="1482" y="2671"/>
+	<Point x="1432" y="2673"/>
+	<Point x="1341" y="2673"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ven-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="542" y="2868"/>
+	<Point x="1296" y="2864"/>
+	<Point x="1305" y="2938"/>
+	<Point x="537" y="2938"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1362" y="100"/>
+	<Point x="1362" y="191"/>
+	<Point x="1462" y="191"/>
+	<Point x="1462" y="100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>35</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="756" y="2618"/>
+	<Point x="755" y="2685"/>
+	<Point x="892" y="2685"/>
+	<Point x="891" y="2617"/>
+	<Point x="794" y="2613"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C 2</Unicode></TextEquiv></TextRegion></Page></PcGts>

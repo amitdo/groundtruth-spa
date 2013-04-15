@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440534">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T20:49:54</Created>
+	<LastChange>2011-07-05T14:26:05</LastChange></Metadata>
+	<Page imageFilename="00440534.tif" imageWidth="876" imageHeight="1640">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="108" y="96"/>
+	<Point x="860" y="101"/>
+	<Point x="851" y="1510"/>
+	<Point x="90" y="1514"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aqui euuie emos hemos de pa-
+decer, ya deeo ſe acabe ee mes
+por ſalir della. Eãdo en ea aﬂi-
+gida, y hambrienta perſecucion,
+vn dia no ſe por que dicha, o ven-
+tura, en el pobre poder de mi amo
+entro vn real, con el qual vino a
+caſa tan vfano, como  tuuiera el
+teſoro de Venecia : y con geo
+muy alegre, y riſueno me lo dio,
+diziendo : Toma Lazaro, que
+Dios va abriendo ſu mano: ve a la
+plaça y compra pan, vino, y car-
+ne, que bremos el ojo al diablo : y
+mas te hago ſaber, porque te
+huelgues, que he alquilado otra
+caſa, y no earemos mas en ea
+deſarada : maldita ea ſea, y el
+que en ella puſo la primera teja,
+que con mal en ella entre. Por
+nuero Señor, quanto ha que en
+ella biuo, no he beuido gota de
+vino, ni comido bocado de carne,
+ni he tenido deſcanſo : tal via ob-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="282" y="1585"/>
+	<Point x="565" y="1584"/>
+	<Point x="570" y="1597"/>
+	<Point x="566" y="1616"/>
+	<Point x="283" y="1609"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="364" y="48"/>
+	<Point x="364" y="93"/>
+	<Point x="615" y="93"/>
+	<Point x="615" y="48"/>
+	<Point x="494" y="40"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="125" y="32"/>
+	<Point x="125" y="84"/>
+	<Point x="195" y="84"/>
+	<Point x="195" y="32"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>80</Unicode></TextEquiv></TextRegion></Page></PcGts>

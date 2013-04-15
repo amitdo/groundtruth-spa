@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00445935">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T11:10:58</Created>
+	<LastChange>2011-06-24T14:05:25</LastChange></Metadata>
+	<Page imageFilename="00445935.tif" imageWidth="2852" imageHeight="4145">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r30" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r9" index="3"/>
+	<RegionRefIndexed regionRef="r34" index="4"/>
+	<RegionRefIndexed regionRef="r36" index="5"/>
+	<RegionRefIndexed regionRef="r42" index="6"/>
+	<RegionRefIndexed regionRef="r46" index="7"/>
+	<RegionRefIndexed regionRef="r48" index="8"/>
+	<RegionRefIndexed regionRef="r58" index="9"/>
+	<RegionRefIndexed regionRef="r62" index="10"/>
+	<RegionRefIndexed regionRef="r66" index="11"/>
+	<RegionRefIndexed regionRef="r68" index="12"/>
+	<RegionRefIndexed regionRef="r16" index="13"/>
+	<RegionRefIndexed regionRef="r17" index="14"/>
+	<RegionRefIndexed regionRef="r54" index="15"/>
+	<RegionRefIndexed regionRef="r56" index="16"/>
+	<RegionRefIndexed regionRef="r23" index="17"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="1944" y="263"/>
+	<Point x="2122" y="263"/>
+	<Point x="2131" y="322"/>
+	<Point x="1936" y="320"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>COR</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1522" y="1844"/>
+	<Point x="1528" y="1786"/>
+	<Point x="1564" y="1789"/>
+	<Point x="1597" y="1806"/>
+	<Point x="1831" y="1792"/>
+	<Point x="2523" y="1788"/>
+	<Point x="2529" y="2000"/>
+	<Point x="2324" y="2009"/>
+	<Point x="2207" y="2009"/>
+	<Point x="1814" y="1999"/>
+	<Point x="1789" y="2046"/>
+	<Point x="1580" y="2043"/>
+	<Point x="1576" y="1848"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CORRETAGE. Vale tambien Alcahuetería. Lat.
+Lenocinium. ALFAR. pl. 256. Haéme de mo-
+do, que por quantos Amos tenía el mundo, no
+volvería mas à tratar de ſus corretáges, ni à ſo-
+licitarlas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="1533" y="2050"/>
+	<Point x="1622" y="2055"/>
+	<Point x="2107" y="2046"/>
+	<Point x="2527" y="2045"/>
+	<Point x="2526" y="2370"/>
+	<Point x="2209" y="2367"/>
+	<Point x="1883" y="2361"/>
+	<Point x="1811" y="2370"/>
+	<Point x="1802" y="2409"/>
+	<Point x="1754" y="2421"/>
+	<Point x="1584" y="2422"/>
+	<Point x="1581" y="2114"/>
+	<Point x="1536" y="2106"/>
+	<Point x="1522" y="2072"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CORREVEDILE. ſ. m. El que eva y trahe
+cuentos y chiſmes de una parte à otra: y tam-
+bien ſe toma y dice por el que es Alcahuéte.
+Es término vulgár, y compueo de los ver-
+bos Correr, Ir y Decir, como  ſe dixee Cor-
+re, vé, dile. Lat. Internuntius. PANT. part. 2.
+Rom. 13.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="catch-word">
+	<Coords>
+	<Point x="2418" y="3759"/>
+	<Point x="2456" y="3760"/>
+	<Point x="2463" y="3777"/>
+	<Point x="2533" y="3779"/>
+	<Point x="2530" y="3813"/>
+	<Point x="2414" y="3815"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>COR-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="credit">
+	<Coords>
+	<Point x="1014" y="4006"/>
+	<Point x="1940" y="4014"/>
+	<Point x="1948" y="4041"/>
+	<Point x="1938" y="4074"/>
+	<Point x="1854" y="4081"/>
+	<Point x="1021" y="4074"/>
+	<Point x="996" y="4037"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="header">
+	<Coords>
+	<Point x="969" y="268"/>
+	<Point x="973" y="326"/>
+	<Point x="788" y="327"/>
+	<Point x="789" y="269"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>COR</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="page-number">
+	<Coords>
+	<Point x="519" y="267"/>
+	<Point x="542" y="280"/>
+	<Point x="579" y="261"/>
+	<Point x="610" y="265"/>
+	<Point x="605" y="328"/>
+	<Point x="486" y="326"/>
+	<Point x="482" y="315"/>
+	<Point x="484" y="295"/>
+	<Point x="499" y="277"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>618</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="479" y="338"/>
+	<Point x="1428" y="331"/>
+	<Point x="1423" y="454"/>
+	<Point x="1194" y="450"/>
+	<Point x="1101" y="449"/>
+	<Point x="1074" y="491"/>
+	<Point x="966" y="494"/>
+	<Point x="942" y="508"/>
+	<Point x="914" y="494"/>
+	<Point x="898" y="492"/>
+	<Point x="563" y="502"/>
+	<Point x="481" y="498"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>los viv. fol. 39. Quanto correſponde à cada Mia
+de lo que ſe quita de pena, no es facil de ajuſ-
+tar, ni nos toca averiguarlo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="440" y="503"/>
+	<Point x="556" y="506"/>
+	<Point x="919" y="501"/>
+	<Point x="931" y="518"/>
+	<Point x="992" y="498"/>
+	<Point x="1429" y="496"/>
+	<Point x="1444" y="1118"/>
+	<Point x="1065" y="1116"/>
+	<Point x="840" y="1136"/>
+	<Point x="780" y="1187"/>
+	<Point x="583" y="1185"/>
+	<Point x="505" y="1176"/>
+	<Point x="481" y="1041"/>
+	<Point x="485" y="556"/>
+	<Point x="440" y="555"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CORRESPONDERSE. v. r. Comunicarſe por
+eſcrito ù de palabra unos con otros, tener en-
+tre sí comércio y correſpondéncia, eſcribien-
+do, y aviſandoſe reciprocamente, deſde una
+parte à otra, lo que ocurre. Regular y comun-
+mente ſe entiende el trato y comunicacion
+por eſcrito. Lat. Mutuis literarum aoquiis in-
+ter ſe reſpondere. ZABAL. Theatr. En otras ma-
+térias ſe correſpondía con un Corteſano de Pa-
+rís: el quel entre otras novedades le eſcribió
+que havían preſo à una mugér, por los mas
+ﬁeros hechizos que jamás ſe havían oido de
+mugér algúna.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="449" y="1204"/>
+	<Point x="453" y="1176"/>
+	<Point x="487" y="1168"/>
+	<Point x="513" y="1191"/>
+	<Point x="690" y="1192"/>
+	<Point x="823" y="1192"/>
+	<Point x="880" y="1166"/>
+	<Point x="910" y="1170"/>
+	<Point x="1442" y="1161"/>
+	<Point x="1446" y="1485"/>
+	<Point x="1367" y="1489"/>
+	<Point x="1110" y="1490"/>
+	<Point x="1071" y="1496"/>
+	<Point x="1063" y="1528"/>
+	<Point x="831" y="1533"/>
+	<Point x="771" y="1545"/>
+	<Point x="729" y="1535"/>
+	<Point x="559" y="1544"/>
+	<Point x="495" y="1533"/>
+	<Point x="498" y="1234"/>
+	<Point x="457" y="1234"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CORRESPONDERSE. Vale tambien atenderſe y
+amarſe reciprocamente con afeo verdadéro.
+Lat. Ofﬁcia mutua cum aliquo exercere. BETISS.
+Guichard. lib. 1. pl. 41. Alentándole à acercar-
+ſe à Floréncia, donde por el afeo con que ſe
+correſpondieron ſus Padres...... penſaba integrar-
+le en ſu antigua autoridad.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="447" y="1553"/>
+	<Point x="467" y="1538"/>
+	<Point x="502" y="1541"/>
+	<Point x="515" y="1551"/>
+	<Point x="525" y="1552"/>
+	<Point x="880" y="1551"/>
+	<Point x="964" y="1543"/>
+	<Point x="1209" y="1541"/>
+	<Point x="1242" y="1527"/>
+	<Point x="1441" y="1529"/>
+	<Point x="1448" y="1741"/>
+	<Point x="1336" y="1748"/>
+	<Point x="1328" y="1788"/>
+	<Point x="1175" y="1789"/>
+	<Point x="1150" y="1796"/>
+	<Point x="1124" y="1792"/>
+	<Point x="505" y="1794"/>
+	<Point x="497" y="1596"/>
+	<Point x="451" y="1589"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CORRESPONDER UNA COSA CON OTRA. Parecerſe,
+ò tener ſemejanza y proporción. Lat. Rem rei
+reſpondére, cohrere, convenire. SAAV. Empr. 29.
+No empre correſponden los ſuceos à los me-
+dios. VILLAVIC. Moſch. Cant. 5. O. 1.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords>
+	<Point x="615" y="1797"/>
+	<Point x="1110" y="1799"/>
+	<Point x="1161" y="1796"/>
+	<Point x="1250" y="1795"/>
+	<Point x="1307" y="1797"/>
+	<Point x="1307" y="1995"/>
+	<Point x="1163" y="1997"/>
+	<Point x="1080" y="2005"/>
+	<Point x="1007" y="2003"/>
+	<Point x="615" y="1995"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Un monte con la punta correſponde,
+A tanta altúra, que ſu cumbre vuela,
+A hacer vecina ſu ſoberbia cima
+Del orbe de la Luna que eá encima.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords>
+	<Point x="469" y="1996"/>
+	<Point x="1009" y="2006"/>
+	<Point x="1088" y="2015"/>
+	<Point x="1207" y="2002"/>
+	<Point x="1452" y="1996"/>
+	<Point x="1471" y="2311"/>
+	<Point x="1237" y="2316"/>
+	<Point x="1180" y="2309"/>
+	<Point x="1153" y="2302"/>
+	<Point x="1098" y="2314"/>
+	<Point x="991" y="2314"/>
+	<Point x="958" y="2308"/>
+	<Point x="928" y="2315"/>
+	<Point x="879" y="2308"/>
+	<Point x="813" y="2313"/>
+	<Point x="510" y="2314"/>
+	<Point x="510" y="2068"/>
+	<Point x="474" y="2057"/>
+	<Point x="451" y="2024"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CORRESPONDIDO, DA. part. pa. del verbo
+Correſponder en todas ſus acepciones. Lat.
+Perſolutus. Relatus, a, um. CORR. Argen. fol. 6.
+Y ﬁnalmente correſpondidos, pierden la baxéza
+del eádo humilde en que nacieron. CALDER.
+Com. La ﬁera, el rayo y la piedra, Jorn. 2.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords>
+	<Point x="675" y="2317"/>
+	<Point x="728" y="2316"/>
+	<Point x="816" y="2319"/>
+	<Point x="872" y="2314"/>
+	<Point x="922" y="2320"/>
+	<Point x="964" y="2314"/>
+	<Point x="1074" y="2318"/>
+	<Point x="1083" y="2319"/>
+	<Point x="1133" y="2314"/>
+	<Point x="1172" y="2327"/>
+	<Point x="1164" y="2517"/>
+	<Point x="945" y="2521"/>
+	<Point x="672" y="2519"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El correſpondido Amór
+que Rey en el orbe fuí
+antes que el intereado
+amór, me obligae à huir.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="paragraph">
+	<Coords>
+	<Point x="476" y="2517"/>
+	<Point x="646" y="2522"/>
+	<Point x="927" y="2522"/>
+	<Point x="1117" y="2520"/>
+	<Point x="1185" y="2523"/>
+	<Point x="1463" y="2517"/>
+	<Point x="1476" y="3350"/>
+	<Point x="1166" y="3349"/>
+	<Point x="945" y="3347"/>
+	<Point x="911" y="3394"/>
+	<Point x="517" y="3400"/>
+	<Point x="512" y="2584"/>
+	<Point x="469" y="2580"/>
+	<Point x="457" y="2536"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CORRESPONDIENTE. adj. de una term. Pro-
+porcionado, conveniente, oportúno, confor-
+me, y que tiene la debida igualdád y ſeme-
+janza con otra coſa. Es verbal del verbo Cor-
+reſponder. Lat. Conveniens. Cohrens, tis. Si-
+milis &amp;e. FLORENC. Mar. tom. 1. pl. 9. Cada
+uno de los quatro Evangelias cerró ſu Evan-
+gelio con un remáte proporcionado y correſ-
+pondiente al principio con que entró, para prue-
+ba del aunto que tomaba. CORR. Argen. fol.
+2. Entonces la gaardía del uno evó los ojos
+del otro, y ſuſpendiendoſe en correſpondiente
+elevación, admirando ee en aquel, lo que
+aquel admiraba en ee. M. AGRED. tom. 1.
+num. 192. Ea dignidad de ſer libre de culpa,
+es debida y correſpondiente à la que ha de ſer
+Madre del Verbo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords>
+	<Point x="472" y="3409"/>
+	<Point x="489" y="3406"/>
+	<Point x="849" y="3407"/>
+	<Point x="1027" y="3392"/>
+	<Point x="1477" y="3397"/>
+	<Point x="1485" y="3768"/>
+	<Point x="525" y="3772"/>
+	<Point x="518" y="3463"/>
+	<Point x="474" y="3457"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CORRESPONDIENTE. Uſado como ſubantívo.
+El que tiene comércio y trato, yá ſea fami-
+liár, yá por dependéncias, con otro ù otros, y
+que ſe comuníca por eſcrito reciprocamente
+con eos, ò para matérias conducentes para
+ſu gobierno, ò para los tratos dé géneros, mer-
+caderías y otras coſas pertenecientes à ſus co-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r54" type="paragraph">
+	<Coords>
+	<Point x="1717" y="2428"/>
+	<Point x="1767" y="2420"/>
+	<Point x="1907" y="2412"/>
+	<Point x="2223" y="2410"/>
+	<Point x="2218" y="2597"/>
+	<Point x="2095" y="2615"/>
+	<Point x="2073" y="2625"/>
+	<Point x="2041" y="2611"/>
+	<Point x="2000" y="2622"/>
+	<Point x="1961" y="2622"/>
+	<Point x="1784" y="2614"/>
+	<Point x="1742" y="2625"/>
+	<Point x="1714" y="2623"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Soi de los ſuprémos Dioſes
+Embaxadór eloqüente,
+celeial correvedíle,
+y divino mequetréfe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r56" type="paragraph">
+	<Coords>
+	<Point x="1537" y="2627"/>
+	<Point x="1598" y="2623"/>
+	<Point x="1688" y="2626"/>
+	<Point x="1790" y="2627"/>
+	<Point x="1894" y="2624"/>
+	<Point x="1983" y="2624"/>
+	<Point x="2003" y="2629"/>
+	<Point x="2033" y="2619"/>
+	<Point x="2041" y="2622"/>
+	<Point x="2071" y="2629"/>
+	<Point x="2090" y="2623"/>
+	<Point x="2529" y="2617"/>
+	<Point x="2548" y="3709"/>
+	<Point x="2264" y="3703"/>
+	<Point x="2241" y="3752"/>
+	<Point x="1589" y="3756"/>
+	<Point x="1572" y="2689"/>
+	<Point x="1523" y="2687"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CORRIDA. ſ. f. Movimiento accelerado del
+cuerpo, de un lugár à otro en competente diſ-
+táncia: y lo miſmo que Carréra, ò el curſo, ﬂu-
+xion ò movimiento de algúna coſa líquida. Su
+origen es del verbo Correr. Lat. Curſus. RI-
+BAD. Fl. San. Fie. de la Concepcion de
+Nuera Señora. Deſde el punto de ſu Concep-
+cion, comenzó à merecer la gloria, y tomó la
+corrída para alcanzar la joya de la bienaven-
+turanza. SIGUENZ. Vid. de S. Geron. lib. 3.
+diſc. 5. Los ojos hundidos, los lagrymáles
+abraſados de la continua corrída del humór ar-
+diente, que ſe deilaba por eos. FLORENC.
+Mar. tom. 2. pl. 61. El Angélico Doór fué de
+parecer que debía el hombre tomar la corrída
+tan de atrás en el camíno de la virtúd, que en
+el miſmo inante que le viniee el uſo de la
+razón, havía de convertirſe à ſu último ﬁn,
+que es Dios. CERV. Quix. tom. 1. cap. 13. Y
+luego n mas ni mas, à todo el correr de eos,
+ſe vuelven à encontrar, y en mitad de la corrí-
+da ſe encomiendan à ſus damas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r58" type="paragraph">
+	<Coords>
+	<Point x="1556" y="332"/>
+	<Point x="2499" y="331"/>
+	<Point x="2501" y="646"/>
+	<Point x="2249" y="651"/>
+	<Point x="2209" y="664"/>
+	<Point x="2076" y="646"/>
+	<Point x="2018" y="647"/>
+	<Point x="1983" y="654"/>
+	<Point x="1831" y="643"/>
+	<Point x="1762" y="651"/>
+	<Point x="1749" y="650"/>
+	<Point x="1548" y="660"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mércios. Lat. Socius. Amicitia &amp; fœdere cum ali-
+quo conjunus. CERV. Nov. 4. pl. 153. El Mer-
+cadér, deſcontados ſus interees y ganáncias,
+dixo à la Réina, que las daría ciertas y ſegú-
+ras para Sevia, ſobre otro Mercadér Francés
+ſu correſpondiente. QUEV. Muſ. 5. Xac. 10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r62" type="paragraph">
+	<Coords>
+	<Point x="1700" y="684"/>
+	<Point x="1717" y="658"/>
+	<Point x="1749" y="654"/>
+	<Point x="1861" y="651"/>
+	<Point x="1980" y="659"/>
+	<Point x="2000" y="655"/>
+	<Point x="2072" y="655"/>
+	<Point x="2244" y="696"/>
+	<Point x="2281" y="733"/>
+	<Point x="2272" y="850"/>
+	<Point x="2029" y="857"/>
+	<Point x="1991" y="857"/>
+	<Point x="1806" y="859"/>
+	<Point x="1780" y="860"/>
+	<Point x="1707" y="855"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Como ſe tienen los dos
+por malos correſpondientes,
+de eſpaldas ván atisbando
+los paos con que ſe mueven.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r66" type="paragraph">
+	<Coords>
+	<Point x="1504" y="859"/>
+	<Point x="1778" y="862"/>
+	<Point x="2233" y="858"/>
+	<Point x="2316" y="865"/>
+	<Point x="2505" y="850"/>
+	<Point x="2516" y="1110"/>
+	<Point x="1937" y="1111"/>
+	<Point x="1812" y="1120"/>
+	<Point x="1588" y="1118"/>
+	<Point x="1561" y="1085"/>
+	<Point x="1563" y="918"/>
+	<Point x="1507" y="913"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CORRESPONSAL. ſ. m. Lo miſmo que Cor-
+reſpondiente. Lat. Abſentis negotiorum procura-
+tor. Alienarum rerum mutuus adminirator.
+COVARR. en la palab. Corregir. Correſponſál, el
+que correſponde à otro Mercadér ò tratante.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r68" type="paragraph">
+	<Coords>
+	<Point x="1516" y="1118"/>
+	<Point x="1544" y="1112"/>
+	<Point x="1584" y="1120"/>
+	<Point x="1807" y="1123"/>
+	<Point x="1914" y="1118"/>
+	<Point x="2512" y="1118"/>
+	<Point x="2527" y="1741"/>
+	<Point x="2277" y="1749"/>
+	<Point x="2115" y="1749"/>
+	<Point x="2008" y="1743"/>
+	<Point x="1980" y="1786"/>
+	<Point x="1892" y="1783"/>
+	<Point x="1868" y="1785"/>
+	<Point x="1749" y="1785"/>
+	<Point x="1599" y="1801"/>
+	<Point x="1566" y="1781"/>
+	<Point x="1570" y="1174"/>
+	<Point x="1525" y="1173"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CORRETAGE. ſ. m. El eipéndio que ſe dá al
+Corredór por ſu diligencia y trabájo. Lat.
+Proxeneticum, i. RECOP. lib. 9. tit. 30. l. 9. num.
+11. Y no fuere contento el dueño de la ſeda
+del précio que dán por ea, la pueda tomar
+para sí, pagando el diezmo y derecho del tar-
+til, debidos à ſus Mageades como dicho es, y
+al corredór ſu corretáge. BOLAñ. Comerc. ter-
+re. lib. 1. cap. 5. num. 11. El Corredór que
+aﬁrma que el contrahiente es idóneo y abona-
+do para el contráto, no lo endo, aunque e-
+ve el eipéndio del corretáge, no queda obli-
+gado à ſatísfacerlo.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442643">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T23:34:42</Created>
+	<LastChange>2012-03-12T14:12:13</LastChange></Metadata>
+	<Page imageFilename="00442643.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="392" y="65"/>
+	<Point x="1081" y="64"/>
+	<Point x="1128" y="170"/>
+	<Point x="681" y="175"/>
+	<Point x="592" y="176"/>
+	<Point x="501" y="192"/>
+	<Point x="396" y="183"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="111" y="178"/>
+	<Point x="393" y="197"/>
+	<Point x="444" y="189"/>
+	<Point x="489" y="198"/>
+	<Point x="573" y="185"/>
+	<Point x="673" y="179"/>
+	<Point x="1144" y="178"/>
+	<Point x="1183" y="178"/>
+	<Point x="1310" y="182"/>
+	<Point x="1387" y="190"/>
+	<Point x="1395" y="911"/>
+	<Point x="122" y="918"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſaua que tenia en la caſa de vna muger tan hermoſa
+como Camila: que pueo que ſu bõdad, y valor po-
+dia poner freno a toda maldiciente lengua, toda via
+no queria poner en duda ſu credito, ni el de ſu ami-
+go, y por eo los mas de los dias del concierto los
+ocupaua, y entrenenia en otras coſas, que el daua a
+entender ſer inexcuſables, Aſsi que en quexas del
+vno, y diſculpas del otro, ſe paauan muchos ratos
+y partes del dia. Sucedio pues, que vno, que los dos
+ſe andauan paeando por vn prado fuera de la ciu-
+dad, Anſelmo dixo a Lotario las ſemejantes razo-
+nes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="138" y="921"/>
+	<Point x="1392" y="915"/>
+	<Point x="1375" y="2135"/>
+	<Point x="115" y="2206"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pẽſauas amigo Lotario, que a las mercedes que
+Dios me ha hecho enhazerme hijo de tales padres,
+como fueron los mios, y al darme no con mano eſ-
+caſa los bienes, aſsi los que aman de naturaleza,
+como los de fortuna, no puedo yo correſponder
+con agradecimiento, que egue al bien recebido,
+y ſobre al que me hizo en darme a ti por amigo, y a
+Camila por muger propria, dos prẽdas, que las ei-
+mo, no en el grado que deuo, y en el que puedo.
+Pues con todas eas partes, que ſuelen ſer el todo
+con que los hombres ſuelen, y pueden viuir con-
+tentos, viuo yo el mas deſpechado, y el mas de-
+ſabrido hombre de todo el vniuerſo mundo. Por-
+que no ſe que dias a ea parte me fatiga, y aprie-
+ta vn deeo tan eraño, y tan fuera del vſo co-
+mun de otros, que yo me marauio de mi miſ-
+mo, y me culpo, y me riño a ſolas, y procuro
+caarlo, y encubirlo de mis proprios penſamien-
+tos: y aſsi me ha do poſsible ſalir con ee ſecre-
+to, como  de induria procurara dezio a to-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="438" y="2307"/>
+	<Point x="1121" y="2307"/>
+	<Point x="1114" y="2360"/>
+	<Point x="438" y="2364"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1215" y="82"/>
+	<Point x="1218" y="167"/>
+	<Point x="1376" y="186"/>
+	<Point x="1387" y="82"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>184</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1273" y="2143"/>
+	<Point x="1273" y="2205"/>
+	<Point x="1360" y="2205"/>
+	<Point x="1360" y="2143"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>do</Unicode></TextEquiv></TextRegion></Page></PcGts>

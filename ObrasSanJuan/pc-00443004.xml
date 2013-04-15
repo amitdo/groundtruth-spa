@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443004">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T08:24:32</Created>
+	<LastChange>2011-03-15T16:51:32</LastChange></Metadata>
+	<Page imageFilename="00443004.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="532" y="92"/>
+	<Point x="532" y="194"/>
+	<Point x="1134" y="194"/>
+	<Point x="1134" y="92"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fr. Ioan de la Cruz.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1518" y="106"/>
+	<Point x="1518" y="190"/>
+	<Point x="1630" y="190"/>
+	<Point x="1630" y="106"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>49</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="136" y="223"/>
+	<Point x="153" y="2715"/>
+	<Point x="231" y="2715"/>
+	<Point x="427" y="2722"/>
+	<Point x="875" y="2750"/>
+	<Point x="1193" y="2732"/>
+	<Point x="1317" y="2738"/>
+	<Point x="1653" y="2740"/>
+	<Point x="1648" y="220"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CECION, i luego cesò todo el mal. En Andujar,
+a un hijo de Diego de los Rios, agonizando de una ca-
+lentura continua i malicioſa, tocandole con una cade-
+na que avia ceñido el cuerpo del Santo, i eaba aun
+manchada con ſu ſangre, repentinamente mejorò, i eſ
+tuvo luego bueno. En Caravaca curò una Religioſa
+Carmelita Deſcalça deuna grave enfermedad que te-
+nia en el pecho, con una Reliquia del Venerable Pa-
+dre. En Lisboa, aviendoſe cortado un carpintero, que
+trabajaba en nuera caſa, la mitad de un dedo que ca-
+yò en tierra, le puſo el Padre Prior Fr. Bernardo de la
+CONCECION, otro que tenia del Santo en la lla-
+ga, i al punto cesò la ſangre i el dolor; i pudo el hom-
+bre continuar ſu trabajo. En Madrid, a Doña Catali-
+na de Aguilar, muger del Licẽciado Bernardo Ochoa
+de Salinas, ſe le hendio de una caida un labio, en el
+cual le dieron dos puntos; puſoſe ſobre la herida un de-
+do del Santo, i cuando bolbio el Cirujano hallò cura-
+do el labio, i los puntos ſueltos, n otra ſeñal mas de
+una raya blanca mui ſutil en el lugar de la herida, con
+no pequeña admiracion de los preſentes, i particular-
+mente del Cirujano, que tocò la herramienta de ſu ofi
+cio en la reliquia del Santo, para que le comunicaſe a-
+quella milagroſa virtud. En Segovia, paſando don Luis
+de Lima por una calle, le llamaron de una cafa, para 
+con otras muchas perſonas ſocorriera a una muger,
+ con terrible mal de coraçon ſe daba grandes golpes
+por las paredes: puſole ſobre el coraçon una Reliquia
+que traìa del Venerable Padre, i al momento ſe le qui
+tò el mal en medio de ſu mayor furia. En medina, Ge
+ronima de San-Aguin Carmelita Deſcalça, no aca-
+bando de creer el ſuave ?olor que las demas Religioſas
+ſentian ſalir de un braço que alli tenian del Venera-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="780" y="2935"/>
+	<Point x="780" y="2991"/>
+	<Point x="1415" y="2991"/>
+	<Point x="1415" y="2935"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1518" y="2746"/>
+	<Point x="1518" y="2818"/>
+	<Point x="1638" y="2818"/>
+	<Point x="1638" y="2746"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ble</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="signature-mark">
+	<Coords>
+	<Point x="1181" y="2742"/>
+	<Point x="1181" y="2811"/>
+	<Point x="1259" y="2811"/>
+	<Point x="1259" y="2742"/>
+	<Point x="1228" y="2739"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>d</Unicode></TextEquiv></TextRegion></Page></PcGts>

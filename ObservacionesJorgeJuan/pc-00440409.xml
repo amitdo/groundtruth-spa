@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440409">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T07:36:20</Created>
+	<LastChange>2011-12-19T11:39:09</LastChange></Metadata>
+	<Page imageFilename="00440409.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r17" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1251" y="577"/>
+	<Point x="2009" y="577"/>
+	<Point x="2009" y="687"/>
+	<Point x="1251" y="687"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITULO II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="638" y="748"/>
+	<Point x="2590" y="748"/>
+	<Point x="2590" y="1080"/>
+	<Point x="638" y="1080"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De la Correccion, que de la desigualdad de los grados en
+Latitud, ſe origina en las diferencias en Latitud,
+y Diancias.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="660" y="1358"/>
+	<Point x="864" y="1358"/>
+	<Point x="861" y="1132"/>
+	<Point x="2587" y="1116"/>
+	<Point x="2587" y="3441"/>
+	<Point x="638" y="3441"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eniendo con la Tabla antecedente lo ſuﬁciente para
+haar la Longitud en el Mar ſobre la Elipſoide,
+paarémos à dàr el methodo de corregir, lo que la deſ‐
+igualdad de los grados en Latitud produce de alteracion
+en las diferencias de Latitud, y diancias. Para eo es ne-
+ceario notar, que en la proyeccion de la Eſphera de M.
+Eduardo Wright, de la qual deducimos las Tablas de partes
+Meridionales, todos los grados de Longitud ſe ſuponen
+iguales: eo es, iguales al del Equador; con que para la
+exaitud en la praica, es meneer, que el Piloto ſe‐
+ñale ſu Corredera debaxo de ee principio, dandole la
+longitud correſpondiente à la magnitud de ee grado;
+pero como los de Latitud ſean en unos parages mayores, y
+en otros menores que èl, debemos paràr la atencion à ea
+desigualdad; porque ſupueo que el Piloto navegue en
+las ¡mmediaciones del Equador Norte Sur, en donde los
+grados de Latitud ſon menores, que los de Longitud,
+haviendole dado à la Corredera el largo correſpondiente
+al grado del miſmo Equador, ſu diferencia en Latitud de
+la eima ſerà menor, que la efeiva, en una cantidad
+proporcional al exceo de los grados de Longitud ſobre
+los de Latitud; y lo miſmo la Diancia. El methodo de
+corregir ee yerro, ſe vè praicado por M. Murdoch en
+ſus Tablas Loxodromicas; y ſe reduce à formar una Tabla</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="2438" y="3453"/>
+	<Point x="2564" y="3453"/>
+	<Point x="2564" y="3544"/>
+	<Point x="2438" y="3544"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>del</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="987" y="4009"/>
+	<Point x="1966" y="4009"/>
+	<Point x="1966" y="4090"/>
+	<Point x="987" y="4090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="703" y="380"/>
+	<Point x="909" y="380"/>
+	<Point x="909" y="538"/>
+	<Point x="703" y="538"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>386</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="header">
+	<Coords>
+	<Point x="1208" y="380"/>
+	<Point x="2022" y="380"/>
+	<Point x="2022" y="538"/>
+	<Point x="1208" y="538"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="drop-capital">
+	<Coords>
+	<Point x="674" y="1155"/>
+	<Point x="674" y="1353"/>
+	<Point x="857" y="1353"/>
+	<Point x="857" y="1155"/>
+	<Point x="813" y="1156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T</Unicode></TextEquiv></TextRegion></Page></PcGts>

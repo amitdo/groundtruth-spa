@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442595">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T04:55:50</Created>
+	<LastChange>2012-03-12T14:12:10</LastChange></Metadata>
+	<Page imageFilename="00442595.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="339" y="48"/>
+	<Point x="1072" y="48"/>
+	<Point x="1069" y="167"/>
+	<Point x="618" y="168"/>
+	<Point x="564" y="183"/>
+	<Point x="339" y="183"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="113" y="178"/>
+	<Point x="443" y="198"/>
+	<Point x="835" y="178"/>
+	<Point x="1394" y="183"/>
+	<Point x="1395" y="2150"/>
+	<Point x="1248" y="2155"/>
+	<Point x="966" y="2167"/>
+	<Point x="731" y="2167"/>
+	<Point x="112" y="2170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>hazer lo que mas les pareciee conueniente. Carde
+nio, y Dorotea, ſe lo agradecieron, y acetarõ la mer
+ced que ſe les ofrecia. El barbero que a todo auia oſ‐
+tado ſuſpenſo, y caado, hizo tambien ſu buena pla‐
+tica, y ſe ofrecio con no menos voluntad que el cu‐
+ra, a todo aqueo que fuee bueno para ſeruirles.
+Contò aſsi meſmo cõ breuedad, la cauſa que ai los
+auia traydo, cõ la erañeza de la locura de don Qui
+xote, y como aguardauã a ſu eſcudero, que auia ydo
+a buſcae. Vinoſele a la memoria a Cardenio, como
+por ſueños, la pendencia que con don Quixote auia
+tenido, y cõtola a los demas, mas no ſupo dezir, por
+que cauſa fue ſu quiion. En eo oyerõ vozes, y co‐
+nocieron que el que las daua, era Sancho Pança, que
+por no auerlos haado, en el lugar donde los dexò,
+los amaua a vozes. Salieronle al encuentro, y pre‐
+guntãdole por don Quixote, les dixo, como le auia
+haado deſnudo en camiſa, ﬂaco, amario, y muer‐
+to de hambre, y ſuſpirando por ſu ſeñora Dulzinea,
+y que pueo que le auia dicho, que ea le mandaua
+que ſaliee de aquel lugar, y ſe fuee al del Tobo-
+ſo, donde le quedaua eſperando: auia reſpondido, 
+eaua determinado de no parecer ante ſu fermoſu-
+ra, faa que ouiee fecho fazañas, que le ﬁzieen
+digno de ſu gracia. Y que  aqueo paaua adelan‐
+te, corria peligro de no venir a ſer Emperador, co‐
+mo eaua obligado, ni aũ Arçobiſpo, que era lo me-
+nos que podia ſer. Por eo que miraen lo que ſe
+auia de hazer, para ſac arle de ai. El Licenciado le
+reſpondio, que no tuuiee pena, que eos le ſacar¡ã
+de ai mal que le peſae. Conto luego a Cardenio, y
+a Dorotea, lo que tenian penſado, para remedio de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1262" y="2167"/>
+	<Point x="1294" y="2159"/>
+	<Point x="1397" y="2166"/>
+	<Point x="1397" y="2208"/>
+	<Point x="1314" y="2222"/>
+	<Point x="1254" y="2222"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="465" y="2297"/>
+	<Point x="1118" y="2305"/>
+	<Point x="1117" y="2350"/>
+	<Point x="1026" y="2351"/>
+	<Point x="1023" y="2359"/>
+	<Point x="1013" y="2359"/>
+	<Point x="1014" y="2350"/>
+	<Point x="463" y="2354"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1218" y="68"/>
+	<Point x="1218" y="154"/>
+	<Point x="1382" y="154"/>
+	<Point x="1382" y="68"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>160</Unicode></TextEquiv></TextRegion></Page></PcGts>

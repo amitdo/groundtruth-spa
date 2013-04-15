@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439114">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T14:01:46</Created>
+	<LastChange>2010-12-28T06:22:14</LastChange></Metadata>
+	<Page imageFilename="00439114.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="539" y="94"/>
+	<Point x="1446" y="87"/>
+	<Point x="1464" y="160"/>
+	<Point x="517" y="160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GVZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="260" y="169"/>
+	<Point x="594" y="185"/>
+	<Point x="1719" y="174"/>
+	<Point x="1734" y="2589"/>
+	<Point x="1670" y="2594"/>
+	<Point x="1639" y="2591"/>
+	<Point x="1584" y="2607"/>
+	<Point x="1539" y="2612"/>
+	<Point x="1212" y="2633"/>
+	<Point x="271" y="2644"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ia embidia, empre anda procurando como manchar; y
+eſcurecer las vidas y virtudes agenas. Y aſ en la gente
+de condicion vil y baxa,  es donde haze ſus audiencias, es
+la ſalſa de mayor apetito, n quien alguna vianda no tiene
+buen guo, ni eà ſazonada: es el ave de mas ligero bue-
+lo,  mas preo ſe abalança, y mas daño haze. No faltò
+quiẽ paò la palabra de mano en mano, unos poniendo, y
+otros componiendo ſobre tanta familiaridad, haa egar
+à lo ano la hola, y à los oydos de don Luys la chiſme,
+creyendo ſacar deo ſu acrecentamiento con honroſa
+privança. Eo es lo que el mundo pratica y trata, gran-
+gear à los mayores à coa agena, con invenciones y men-
+tiras, quando en las verdades no ay paño de que puedan
+ſacar lo que deean. Oﬁcio digno de aqueos à quien la
+propia virtud falta, y por ſus obras ni perſona merecen.
+Dioles don Luys oydo atento à las bien compueas y
+afeytadas palabras que les dixeron. Era cavaero pru-
+dente y ſabio, no ſe las dexò ear paradas donde ſe las pu-
+eron, paòlas à la imaginacion, dexando lugar deſocu-
+pado, para que cupieen las del reo: abriò el oydo, no lo
+conntiò cerrado, aunque algo ſe eſcandalizò. Muchas
+coſas penſava, todas lexos de la cierta, y la que mas lo
+turbò, fue ſoſpechar  ſu jardinero era Moro,
+que con cautela huviera venido à robar à Daraxa:
+creyendo que aſ ſeria, cegòſe luego. Y lo que mal
+ſe condera muchas vezes y las mas, no ha ſalido bien la
+execucion por la puerta, quando el arrepentimiento ſe
+entra dentro en caſa. Con ee penſamiento ſe reſolviò à
+prenderlo. El, n reirſe, no morandoſe trie ni al-
+terado, ſe conntiò encerrar en una ſala. Y dexandolo
+con ee ſeguro, fuee donde Daraxa eava, que ya con
+el aboroto de los miniros y rvientes, lo ſabia todo: y
+aun de dias antes lo avian barruntado. Moròſe à don
+Luys muy agraviada, formando quexas; como en la bon-
+dad y limpieza de ſu vida ſe huviee puea duda, dando
+puerta que con borron ſemejante cada uno penſae lo
+que quiee, y mejor ſe le antojae: pues para qualquier</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1564" y="2614"/>
+	<Point x="1650" y="2598"/>
+	<Point x="1713" y="2600"/>
+	<Point x="1714" y="2672"/>
+	<Point x="1558" y="2667"/>
+	<Point x="1557" y="2627"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mala</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="537" y="2866"/>
+	<Point x="1302" y="2868"/>
+	<Point x="1306" y="2936"/>
+	<Point x="537" y="2940"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="280" y="73"/>
+	<Point x="275" y="160"/>
+	<Point x="417" y="167"/>
+	<Point x="417" y="73"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>80</Unicode></TextEquiv></TextRegion></Page></PcGts>

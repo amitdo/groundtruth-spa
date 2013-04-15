@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444123">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:00:44</Created>
+	<LastChange>2011-12-19T11:39:26</LastChange></Metadata>
+	<Page imageFilename="00444123.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="384" y="104"/>
+	<Point x="1520" y="103"/>
+	<Point x="1526" y="217"/>
+	<Point x="386" y="222"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="174" y="228"/>
+	<Point x="1734" y="237"/>
+	<Point x="1775" y="2608"/>
+	<Point x="1574" y="2638"/>
+	<Point x="1545" y="2640"/>
+	<Point x="1354" y="2638"/>
+	<Point x="1259" y="2620"/>
+	<Point x="386" y="2673"/>
+	<Point x="370" y="2675"/>
+	<Point x="173" y="2680"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>es entender que merced es, y que gracia, otra
+es ſaber dezirla, y dar a entender como es: y
+aunque no parece, es meneer mas de la pri-
+mera, para no andar el alma confuſa y medro
+ſa, y yr con mas animo por el camino del Se-
+ñor, euando debaxo de los pies todas las co-
+ſas del mundo, es grã prouecho entenderlo, y
+merced  por cada vna es razon alabe mucho
+al Señor quien la tiene, y quien no, por la dio
+ſu Magead a alguno de los que viuen, para
+nos aprouechae a noſotros. Aora pues acae-
+ce muchas vezes ea manera de vniõ  quie-
+ro dezir en eſpecial, a mi  me haze Dios ea
+merced de ea ſuerte muy muchas, que coge
+Dios la voluntad, y aun el entendimiento, a
+mi parecer, porque no diſcurre  no ea ocu
+pado gozando de Dios, como quien ea mi-
+rando, y vee tanto  no ſabe hazia donde mi
+rar, vno por otro ſe le pierde de via, que no
+dara ſeñas de coſa: la memoria queda libre, y
+junto con la imaginaciõ, deue ſer, y ea como
+ſe vee ſola, es para alabar a Dios la guerra que
+da, y procura deſaoegarlo todo, a mi can-
+ſada me tiene, y aborrecida la tẽgo, y muchas
+vezes ſuplico al Señor  tãto me ha de eor-
+uar, me la quite en eos tiẽpos, algunas vezes
+le digo, quãdo mi Dios ha de ear ya toda jũta</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="signature-mark">
+	<Coords>
+	<Point x="1257" y="2628"/>
+	<Point x="1321" y="2635"/>
+	<Point x="1432" y="2654"/>
+	<Point x="1422" y="2711"/>
+	<Point x="1256" y="2708"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="625" y="3075"/>
+	<Point x="1571" y="3068"/>
+	<Point x="1568" y="3165"/>
+	<Point x="623" y="3158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1576" y="137"/>
+	<Point x="1576" y="227"/>
+	<Point x="1739" y="227"/>
+	<Point x="1760" y="137"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>195</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1617" y="2636"/>
+	<Point x="1607" y="2712"/>
+	<Point x="1728" y="2714"/>
+	<Point x="1728" y="2631"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mi</Unicode></TextEquiv></TextRegion></Page></PcGts>

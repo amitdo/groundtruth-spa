@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442622">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:00:37</Created>
+	<LastChange>2012-03-12T14:12:12</LastChange></Metadata>
+	<Page imageFilename="00442622.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="523" y="98"/>
+	<Point x="1145" y="100"/>
+	<Point x="1147" y="204"/>
+	<Point x="678" y="211"/>
+	<Point x="518" y="208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quarta parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="177" y="215"/>
+	<Point x="1051" y="214"/>
+	<Point x="1481" y="214"/>
+	<Point x="1495" y="2166"/>
+	<Point x="196" y="2225"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>entonces alguno. Todo va bien haa agora, dixo dõ
+Quixote. Pero dime, que joya fue la que te dio al deſ
+pedirte, por las nueuas que de mi le euae? Porque
+es vſada, y antigua coumbre, entre los cauaeros,
+y damas andãtes, a dar los eſcuderos, dõzeas, o ena
+nos, que les euã nueuas de ſus damas, a eos, a eas
+de ſus andãtes alguna rica joya, en albricias, en agra
+decimiento de ſu recado. Bien puede eo ſer aſsi, y
+yo la tengo por buena vſança, pero eo deuio de ſer
+en los tiẽpos paados, que aora ſolo ſe deue de acoſ-
+tumbrar a dar vn pedaço de pan, y queſo, que eo
+fue lo que me dio mi ſeñora Dulzinea, por las bar-
+das de vn corral, quando dea me deſpedi: y aun por
+mas ſeñas, era el queſo ouejuno. Es liberal en ere-
+mo, dixo don Quixote, y no te dio joya de oro, n
+duda deuio de ſer, porque no la tendria ai a la ma-
+no para dartela, pero buenas ſon mangas, deſpues de
+Paſqua, yo la vere, y ſe ſatisfara todo. Sabes de que
+eoy marauiado Sancho? De que me parece que
+fuye, y venie, por los ayres, pues poco mas de tres
+dias has tardado, en yr, y venir, deſde aqui al Tobo-
+ſo, auiendo de aqui aa, mas de treynta leguas. Por
+lo qual me doy a entender, que aquel ſabio nigromã
+re, que tiene cuenta con mis coſas, y es mi amigo,
+porque por fuerça le ay, y le ha de auer, ſo pena que
+yo no ſeria buen cauaero andante. Digo que ee
+tal, te deuio de ayudar a caminar, n que tu lo n-
+tiees, que ay ſabio deos, que coje a vn cauaero
+andante durmiendo en ſu cama, y n ſaber como, o
+en que manera, amanece otro dia mas de mil leguas
+de donde anochecio. Y no fuee por eo, no ſe po
+drian ſocorrer en ſus peligros, los cauaeros andan-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="465" y="2308"/>
+	<Point x="1125" y="2312"/>
+	<Point x="1112" y="2374"/>
+	<Point x="461" y="2363"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1380" y="2187"/>
+	<Point x="1380" y="2242"/>
+	<Point x="1495" y="2242"/>
+	<Point x="1495" y="2187"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tes,</Unicode></TextEquiv></TextRegion></Page></PcGts>

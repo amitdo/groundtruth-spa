@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441826">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T09:57:51</Created>
+	<LastChange>2011-07-05T14:26:34</LastChange></Metadata>
+	<Page imageFilename="00441826.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r13" index="1"/>
+	<RegionRefIndexed regionRef="r17" index="2"/>
+	<RegionRefIndexed regionRef="r19" index="3"/>
+	<RegionRefIndexed regionRef="r14" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="724" y="127"/>
+	<Point x="1274" y="127"/>
+	<Point x="1274" y="212"/>
+	<Point x="724" y="212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MVSA IV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="708" y="3136"/>
+	<Point x="1458" y="3136"/>
+	<Point x="1458" y="3193"/>
+	<Point x="708" y="3193"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1716" y="112"/>
+	<Point x="1905" y="112"/>
+	<Point x="1905" y="231"/>
+	<Point x="1716" y="231"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>233</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="1239" y="2819"/>
+	<Point x="1368" y="2819"/>
+	<Point x="1368" y="2911"/>
+	<Point x="1239" y="2911"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Gg</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="357" y="224"/>
+	<Point x="1437" y="224"/>
+	<Point x="1439" y="842"/>
+	<Point x="1173" y="843"/>
+	<Point x="1141" y="863"/>
+	<Point x="1105" y="847"/>
+	<Point x="847" y="846"/>
+	<Point x="819" y="846"/>
+	<Point x="379" y="843"/>
+	<Point x="379" y="802"/>
+	<Point x="357" y="802"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mas  guas de ſombra,
+En ea verde alfombra
+Vna vid tiene un olmo mui eſpeſo,
+No ſe  diga, que abraçado, o preſo;
+I a ſombra de ſus ramas
+Le daran nueras llamas,
+Ia los digan abraços, o priſsiones,
+Invidia al olmo, i a la vid paſsiones.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="308" y="2638"/>
+	<Point x="490" y="2637"/>
+	<Point x="500" y="2655"/>
+	<Point x="730" y="2655"/>
+	<Point x="748" y="2649"/>
+	<Point x="779" y="2649"/>
+	<Point x="1266" y="2655"/>
+	<Point x="1266" y="2815"/>
+	<Point x="311" y="2810"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Halláranos aqui la blanca Aurora
+Riendo, quando llora;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="286" y="833"/>
+	<Point x="367" y="834"/>
+	<Point x="367" y="851"/>
+	<Point x="1101" y="851"/>
+	<Point x="1140" y="867"/>
+	<Point x="1178" y="847"/>
+	<Point x="1522" y="850"/>
+	<Point x="1528" y="1774"/>
+	<Point x="1317" y="1773"/>
+	<Point x="1317" y="1764"/>
+	<Point x="1082" y="1762"/>
+	<Point x="1019" y="1763"/>
+	<Point x="1009" y="1748"/>
+	<Point x="895" y="1749"/>
+	<Point x="887" y="1741"/>
+	<Point x="739" y="1741"/>
+	<Point x="691" y="1757"/>
+	<Point x="660" y="1732"/>
+	<Point x="637" y="1732"/>
+	<Point x="368" y="1731"/>
+	<Point x="372" y="1067"/>
+	<Point x="370" y="990"/>
+	<Point x="287" y="990"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ven, que te aguardan ia los Ruiſeñores,
+I los tonos mejores;
+Porque los oigas tu, dulce tyrana,
+Los dexan de cantar a la mañana:
+Tendremos invidioſas
+Las tortolas mimoſas,
+Pues viendonos de gloria, i guo ricos,
+Imitaràn los labios con los picos;
+Aprenderemos dellas
+Soledad, i querellas;
+I en pago aprenderan de nueros laços,
+Su voz requiebros, i ſu pluma abraços.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="290" y="1737"/>
+	<Point x="655" y="1737"/>
+	<Point x="691" y="1762"/>
+	<Point x="740" y="1748"/>
+	<Point x="883" y="1747"/>
+	<Point x="891" y="1754"/>
+	<Point x="1003" y="1753"/>
+	<Point x="1013" y="1767"/>
+	<Point x="1071" y="1767"/>
+	<Point x="1085" y="1768"/>
+	<Point x="1307" y="1768"/>
+	<Point x="1307" y="1787"/>
+	<Point x="1328" y="1787"/>
+	<Point x="1538" y="1785"/>
+	<Point x="1543" y="2655"/>
+	<Point x="752" y="2643"/>
+	<Point x="717" y="2650"/>
+	<Point x="577" y="2649"/>
+	<Point x="504" y="2650"/>
+	<Point x="496" y="2629"/>
+	<Point x="287" y="2629"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ai,  llegaes ia, que tiernamente
+Al ruido de ea fuente
+Gaarámos las horas, i los vientos,
+En ſuſpiros, i mucos acentos;
+Tu aliento beberia
+En ardiente porﬁa,
+Que igualae las ﬂores de ee ſuelo,
+I las Erellas con que alumbra el Cielo,
+I ſellaria en tus ojos,
+Soberbios con deſpojos,
+I en tus megillas, n igual, tan bellas,
+Sin prado ﬂores, i n Cielo erellas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="catch-word">
+	<Coords>
+	<Point x="1745" y="2814"/>
+	<Point x="1745" y="2930"/>
+	<Point x="1876" y="2930"/>
+	<Point x="1876" y="2814"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La</Unicode></TextEquiv></TextRegion></Page></PcGts>

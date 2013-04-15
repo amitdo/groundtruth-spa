@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00673168">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 10.0</Creator>
+	<Created>2012-02-02T05:53:00</Created>
+	<LastChange>2012-03-03T20:08:14</LastChange></Metadata>
+	<Page imageFilename="00673168.tif" imageWidth="1922" imageHeight="2628">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="515" y="2230"/>
+	<Point x="513" y="530"/>
+	<Point x="726" y="526"/>
+	<Point x="727" y="306"/>
+	<Point x="1712" y="290"/>
+	<Point x="1713" y="2200"/>
+	<Point x="1696" y="2205"/>
+	<Point x="1633" y="2230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A mian enel capitulo.3. de ſu libro pone
+ee modo de ordenar el juego començã
+do ſe por el peon dela dama, bien que va
+riare ſus palabras para mayor claridad delos juga
+dores.El ſegundo modo dize es comẽçar del peõ
+dela dama dea manera. Si el blã. jug. el peon de
+la dama quanto va:y el neg.jug.lo meſmo: el blã.
+jug. el peon del arﬁl dela dama quanto va. Si el
+neg. lo tomara con el peon de ſu dama : el blan.
+jug.el peon de ſu rey quanto va. Si el neg. juga.el
+peon del ca.de ſu dama quanto puede andar por
+guardar el peon dela dama:el blã.jug.el peon del
+roque de ſu dama quanto va para deſbaratarlo:y
+ el neg.lo tomara con el peon de ſu ca. el bl.le to
+mara el peon dela dama con el arf.de ſu rey:y de-
+ſpues perdera el otro por fuerça:jug.el ca.ala.3.de
+ſu arf.Item,  el neg.no tomara el peon del roque
+antes jug.el peon del arﬁl de ſu dama vna caſa: el
+blan. le tomara el peon del caua. con el de ſu ro-
+que.Si el neg.lo tomara con el peon del arf. el bl.
+jug. el peon del caua. de ſu dama vna caſa: y  el
+neg.lo tomara:el blã. le tomara el otro con el arf.
+de ſu rey dando le xaque: y  el neg. ſe cobrira cõ
+el arf.el blan.le tomara el otro peon con la dama:
+el neg.tomara el arf.con el ſuyo: el blã. lo tomara
+con la dama dando le xaque:y  el neg.ſe cobrira
+con ſu dama:el bl. tocara porque le queda al neg.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="drop-capital">
+	<Coords>
+	<Point x="516" y="311"/>
+	<Point x="516" y="518"/>
+	<Point x="721" y="518"/>
+	<Point x="721" y="311"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="header">
+	<Coords>
+	<Point x="731" y="235"/>
+	<Point x="726" y="301"/>
+	<Point x="1438" y="288"/>
+	<Point x="1436" y="222"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro dela inuencion liberal</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1660" y="2223"/>
+	<Point x="1660" y="2264"/>
+	<Point x="1712" y="2264"/>
+	<Point x="1712" y="2223"/>
+	<Point x="1701" y="2206"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>el</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442504">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T23:09:51</Created>
+	<LastChange>2012-03-12T14:12:05</LastChange></Metadata>
+	<Page imageFilename="00442504.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r9" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r10" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="477" y="102"/>
+	<Point x="1112" y="102"/>
+	<Point x="1113" y="184"/>
+	<Point x="853" y="184"/>
+	<Point x="806" y="199"/>
+	<Point x="739" y="200"/>
+	<Point x="711" y="189"/>
+	<Point x="477" y="184"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tercera parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="166" y="195"/>
+	<Point x="703" y="195"/>
+	<Point x="740" y="203"/>
+	<Point x="819" y="202"/>
+	<Point x="850" y="191"/>
+	<Point x="1110" y="190"/>
+	<Point x="1416" y="195"/>
+	<Point x="1416" y="394"/>
+	<Point x="166" y="394"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote, que don Quixote lo eaua de verle a el.
+En reſolucion, el primero que hablò deſpues del
+abraçamieto, fue el roto, y dixo lo  ſe dirà adelãte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="168" y="430"/>
+	<Point x="1414" y="430"/>
+	<Point x="1414" y="589"/>
+	<Point x="168" y="589"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cap. XXIIII. Donde ſe progue la auentura de la
+Sierra Morena.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="456" y="2309"/>
+	<Point x="1129" y="2309"/>
+	<Point x="1129" y="2370"/>
+	<Point x="456" y="2370"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="123" y="874"/>
+	<Point x="365" y="869"/>
+	<Point x="412" y="870"/>
+	<Point x="421" y="869"/>
+	<Point x="418" y="794"/>
+	<Point x="412" y="630"/>
+	<Point x="412" y="619"/>
+	<Point x="1414" y="618"/>
+	<Point x="1415" y="2185"/>
+	<Point x="140" y="2193"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>IZE La hioria, que era grandifsima la
+atencion con que don Quixote eſcucha-
+ua al aroſo cauaero de la Sierra, el qual
+proguiendo ſu platica, dixo: Por cierto
+ſeñor quien quiera que ſeays,  yo no os conozco,
+yo os agradezco las mueras, y la cortea  cõmi-
+go aueys vſado: y quiera yo haarme en terminos
+que con mas que la voluntad pudiera ſeruir la que
+aueys morado tenerme, en el buen acogimiento
+que me aueys hecho, mas no quiere mi ſuerte dar-
+me otra coſa con que correſponda a las buenas
+obras que me hazen, que buenos deeos de ſatiſ-
+fazerlas. Los que yo tengo, reſpondio don Quixo-
+te, ſon de ſeruiros, tanto, que tenia determinado de
+no ſalir deas erras haa haaros, y ſaber de
+vos,  el dolor que en la erañeza de vuera vi-
+da morays tener, ſe podia haar algun genero de
+remedio: y  fuera meneer buſcarle, buſcarle
+con la diligencia poſsible. Y quando vuera deſuẽ
+tura fuera de aqueas que tienen cerradas las puer-
+tas a todo genero de conſuelo, penſaua ayudaros a
+orarla, y plañirla como mejor pudiera, que toda
+via es conſuelo en las deſgracias, haar quien ſe
+duela deas. Y  es que mi buen intento merece
+ſer agradecido con algun genero de cortea, yo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="drop-capital">
+	<Coords>
+	<Point x="164" y="632"/>
+	<Point x="164" y="868"/>
+	<Point x="418" y="866"/>
+	<Point x="418" y="849"/>
+	<Point x="415" y="795"/>
+	<Point x="412" y="714"/>
+	<Point x="409" y="630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="catch-word">
+	<Coords>
+	<Point x="1325" y="2191"/>
+	<Point x="1324" y="2229"/>
+	<Point x="1390" y="2229"/>
+	<Point x="1391" y="2190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>os</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485397">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T00:47:40</Created>
+	<LastChange>2011-05-12T13:41:29</LastChange></Metadata>
+	<Page imageFilename="00485397.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r19" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r11" type="credit">
+	<Coords>
+	<Point x="631" y="3030"/>
+	<Point x="1393" y="3030"/>
+	<Point x="1393" y="3093"/>
+	<Point x="631" y="3093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="marginalia">
+	<Coords>
+	<Point x="124" y="193"/>
+	<Point x="386" y="193"/>
+	<Point x="386" y="303"/>
+	<Point x="124" y="303"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>NEM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="marginalia">
+	<Coords>
+	<Point x="141" y="360"/>
+	<Point x="380" y="360"/>
+	<Point x="380" y="458"/>
+	<Point x="141" y="458"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SAL.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="marginalia">
+	<Coords>
+	<Point x="137" y="893"/>
+	<Point x="388" y="893"/>
+	<Point x="388" y="999"/>
+	<Point x="137" y="999"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>NEM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="marginalia">
+	<Coords>
+	<Point x="150" y="1050"/>
+	<Point x="385" y="1050"/>
+	<Point x="385" y="1148"/>
+	<Point x="150" y="1148"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ALB.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="413" y="202"/>
+	<Point x="1604" y="206"/>
+	<Point x="1593" y="2797"/>
+	<Point x="386" y="2795"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De quan deſuariadas, opiniones
+Saca buenas razones: el cuytado
+El curſo acoumbrado, del ingenio
+Aun que le falte el genio, que lo mueua,
+Con la fuga que eua, corre vn poco.
+Y aun que ee ea ora loco, no por eo
+Ade dar al trauieo, ſu ſentido
+En todo, aviendo do, qual tu ſabes.
+No mas, no mele alabes, que por cierto
+Como de vee muerto, eoy orando.
+Eaua contemplando, que tormento
+Es dee apartamiento, lo que pienſo
+No nos aparta imenſo, mar ayrado,
+No torres: de foado rodeadas:
+No montañas cerradas, y n via:
+No agena compañia, dulce: y chara:
+Vn poco d'agua clara, nos detiene.
+Por ea no conuiene, lo que entramos
+Con ana deeamos: por que al punto
+Que ati me acerco, y junto, no te apartas:
+Antes nunca te hartas, de mirarme,
+Y de niﬁcarme, en tu meneo:
+Que tienes gran deeo, de juntarte
+Con ea media parte, da ca hermano
+Echam'aca ea mano, y como buenos
+Amigos, alomenos: nos juntamos:
+Y aqui nos abracemos, a, burlae
+Ai te me'ſcapae yo te digo
+Que no es obra d'amigo, hazer eo.
+Quedo yo don trauieo, remojado:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="header">
+	<Coords>
+	<Point x="529" y="109"/>
+	<Point x="1068" y="91"/>
+	<Point x="1067" y="188"/>
+	<Point x="530" y="194"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ QVARTO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="page-number">
+	<Coords>
+	<Point x="1088" y="100"/>
+	<Point x="1613" y="100"/>
+	<Point x="1613" y="189"/>
+	<Point x="1088" y="189"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. CCXIIII.</Unicode></TextEquiv></TextRegion></Page></PcGts>

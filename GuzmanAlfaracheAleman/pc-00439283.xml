@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439283">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T19:53:50</Created>
+	<LastChange>2011-05-12T13:39:56</LastChange></Metadata>
+	<Page imageFilename="00439283.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="534" y="84"/>
+	<Point x="1504" y="84"/>
+	<Point x="1544" y="190"/>
+	<Point x="530" y="186"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="338" y="203"/>
+	<Point x="353" y="198"/>
+	<Point x="393" y="201"/>
+	<Point x="561" y="198"/>
+	<Point x="576" y="200"/>
+	<Point x="1716" y="200"/>
+	<Point x="1708" y="2228"/>
+	<Point x="1685" y="2239"/>
+	<Point x="1520" y="2260"/>
+	<Point x="294" y="2266"/>
+	<Point x="300" y="202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>fregona de las oas. Sea quien huviere do, tambien
+hablava: de tal manera me yva entreteniendo, que me
+olvidè por mas de dos horas pareciendome un ſolo mo-
+mento. Veys aqui, no lo aveys por enojo, quando à
+cabo de rato ſale un gozque de Berzebuth, que devia
+de ſer de alguna caſa por ai cerca, y començtònos à dar
+tal bateria, que no me fue poible oyr ni entender mas
+alguna palabra. La ventana eava bien alta, la muger
+hablava pao, corria un poco de freſco, tanto ladrava
+el gozque, y tal eruendo hazia, que penſandolo reme-
+diar buſquè con los pies una piedra que tirarle, y no
+haandola, baxè los ojos, y devisè por junto de la pared
+un bulto pequeño y negro, crehì ſer algun guijarro,
+alo de preo, empero, no era guijarro, ni coſa tan dura,
+ſentime liada la mano, quiſela ſacudir, y dime con las
+uñas en la pared; corrì con el dolor con eas à la boca,
+y pesòme de averlo hecho. No me vagava eſcupir:
+acudì à la fratriquera con eotra mano para ſacar un
+lienço: empero ni aun lienço le haè. Sentime tan corri-
+do de que la moçuela me huviee burlado; tan mohino
+de averme ai embarrado, que  los ojos me ſaltavan
+del roro con la colera, las tripas me ſalian por la boca
+con el aſco. Queria lançar quanto en el cuerpo tenia,
+como muger con mal de madre. Tanto ruydo hize,
+tanto diò el perro en perſeguirme, que à la muger le fue
+forçoſo recogerſe y cerrar ſu ventana: y à mi buſcar à
+donde Iabarme. Arrarè los dedos por las paredes co-
+mo mas pude y mejor ſupe: fuyme con mucho enojo à
+la poſada, con determinacion de bolver la noche guien-
+te à los miſmos paos, por  acaſo pudiera encontrarme
+con aquea buena dueña que nos vendiò el galgo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1506" y="2614"/>
+	<Point x="1712" y="2614"/>
+	<Point x="1712" y="2708"/>
+	<Point x="1506" y="2708"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="534" y="2838"/>
+	<Point x="1326" y="2838"/>
+	<Point x="1326" y="2936"/>
+	<Point x="534" y="2936"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="290" y="80"/>
+	<Point x="290" y="192"/>
+	<Point x="474" y="192"/>
+	<Point x="474" y="80"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>252</Unicode></TextEquiv></TextRegion></Page></PcGts>

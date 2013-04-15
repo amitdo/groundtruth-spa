@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444424">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T11:38:31</Created>
+	<LastChange>2011-12-19T11:39:44</LastChange></Metadata>
+	<Page imageFilename="00444424.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="890" y="92"/>
+	<Point x="1175" y="94"/>
+	<Point x="1654" y="101"/>
+	<Point x="1656" y="213"/>
+	<Point x="887" y="220"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1785" y="2664"/>
+	<Point x="1960" y="2658"/>
+	<Point x="1964" y="2739"/>
+	<Point x="1781" y="2741"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mas</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="593" y="3057"/>
+	<Point x="1601" y="3064"/>
+	<Point x="1606" y="3154"/>
+	<Point x="589" y="3158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="413" y="236"/>
+	<Point x="2048" y="215"/>
+	<Point x="2059" y="2649"/>
+	<Point x="383" y="2695"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>los deeos en la pura verdad, queda impri-
+mido vn acatamiento que no ſabre yo dezir
+como, mas es muy diﬀerente de lo que aca
+podemos adquirir: haze vn eſpanto al alma
+grande de ver como oſo, ni puede nadie oſar
+oﬀender vna magead tan grandiſsima. Al-
+gunas vezes aure dicho eos eﬀetos de vio-
+nes, y otras coſas, mas ya he dicho que ay mas
+y menos aprouechamiento, de ea queda
+grandiſsimo, quando yo me egaua a comul
+gar y me acordaua de aquea Magead grã-
+diſsima que auia vio, y miraua que era el
+que eaua en el ſantiſsimo Sacramento, y mu
+chas vezes quiere el Señor que le vea en la
+hoia, los cabeos ſe me eſpeluzauan y toda
+parecia me anichilaua. O Señor mio, mas no
+encubrierades vuera grandeza, quien oſara
+egar tantas vezes a juntar coſa tan ſuzia y
+miſerable con tan gran Magead. Bendito
+ſeays Señor, alabenos los angeles y todas las
+criaturas, que an medis las coſas con nue-
+ra ﬂaqueza, para que gozando de tan ſobe-
+ranas mercedes no nos eſpante vuero gran
+poder, de manera que aun no las oſemos go-
+zar, como gente ﬂaca y miſerable. Podria nos
+acaecer lo que a vn labrador, y eo ſe cierto
+que pao aſsi, haoſe vn theſoro, y como era</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="448" y="104"/>
+	<Point x="645" y="104"/>
+	<Point x="645" y="225"/>
+	<Point x="442" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>498</Unicode></TextEquiv></TextRegion></Page></PcGts>

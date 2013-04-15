@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441820">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T09:56:48</Created>
+	<LastChange>2011-07-05T14:26:34</LastChange></Metadata>
+	<Page imageFilename="00441820.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/>
+	<RegionRefIndexed regionRef="r15" index="3"/>
+	<RegionRefIndexed regionRef="r8" index="4"/>
+	<RegionRefIndexed regionRef="r13" index="5"/>
+	<RegionRefIndexed regionRef="r16" index="6"/>
+	<RegionRefIndexed regionRef="r21" index="7"/>
+	<RegionRefIndexed regionRef="r49" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1284" y="168"/>
+	<Point x="1278" y="252"/>
+	<Point x="755" y="260"/>
+	<Point x="760" y="176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MVSA IV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1771" y="173"/>
+	<Point x="1938" y="177"/>
+	<Point x="1942" y="273"/>
+	<Point x="1773" y="268"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>227</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="1920" y="576"/>
+	<Point x="136" y="573"/>
+	<Point x="123" y="563"/>
+	<Point x="140" y="296"/>
+	<Point x="1920" y="300"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I Nueua Philoſophia de Amor, contraria a la que ſe
+lee en las Eſcuelas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="760" y="1018"/>
+	<Point x="1315" y="1015"/>
+	<Point x="1315" y="1109"/>
+	<Point x="760" y="1109"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CANCION I.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="credit">
+	<Coords>
+	<Point x="702" y="3131"/>
+	<Point x="1463" y="3130"/>
+	<Point x="1461" y="3198"/>
+	<Point x="697" y="3197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="441" y="615"/>
+	<Point x="1558" y="613"/>
+	<Point x="1554" y="977"/>
+	<Point x="505" y="984"/>
+	<Point x="503" y="762"/>
+	<Point x="503" y="715"/>
+	<Point x="443" y="718"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Admitta el Enthuaſmo de algunos mui
+Poetas, terminos aqui, que, como de
+Philoſophia, no ſon capaces de ſu Fu-
+ror. i Empedocles los caliﬁcò en los
+Griegos, i Lucrecio en los Latinos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="463" y="1188"/>
+	<Point x="1456" y="1171"/>
+	<Point x="1453" y="1411"/>
+	<Point x="1576" y="1425"/>
+	<Point x="1575" y="1481"/>
+	<Point x="1540" y="1484"/>
+	<Point x="1528" y="1628"/>
+	<Point x="839" y="1624"/>
+	<Point x="410" y="1626"/>
+	<Point x="400" y="1392"/>
+	<Point x="400" y="1342"/>
+	<Point x="503" y="1343"/>
+	<Point x="586" y="1343"/>
+	<Point x="506" y="1270"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vien nueua Sciencia, i Arte
+Quiere ſaber, aprenderà la mia;
+Nueva Philoſophia,
+Que no puede aprenderſe en otra parte.
+En mi pecho el Amor, que me laima,
+Lee de dolor la Cathreda de Prima.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="339" y="1630"/>
+	<Point x="1452" y="1639"/>
+	<Point x="1453" y="2077"/>
+	<Point x="407" y="2073"/>
+	<Point x="410" y="1800"/>
+	<Point x="413" y="1727"/>
+	<Point x="340" y="1728"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El Dios de la mentira
+La verdad de Arioteles disfama.
+Arguie quanto mira,
+I a todos los concluie con ſu llama.
+Pues de ſu Sylogiſmo, o Argumento,
+Ni Salomon librò ſu entendimiento.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="337" y="2530"/>
+	<Point x="399" y="2532"/>
+	<Point x="516" y="2543"/>
+	<Point x="554" y="2538"/>
+	<Point x="700" y="2521"/>
+	<Point x="702" y="2535"/>
+	<Point x="719" y="2538"/>
+	<Point x="727" y="2532"/>
+	<Point x="726" y="2519"/>
+	<Point x="866" y="2529"/>
+	<Point x="955" y="2529"/>
+	<Point x="975" y="2548"/>
+	<Point x="1005" y="2529"/>
+	<Point x="1098" y="2529"/>
+	<Point x="1107" y="2548"/>
+	<Point x="1130" y="2555"/>
+	<Point x="1161" y="2545"/>
+	<Point x="1167" y="2529"/>
+	<Point x="1375" y="2528"/>
+	<Point x="1390" y="2553"/>
+	<Point x="1414" y="2553"/>
+	<Point x="1435" y="2547"/>
+	<Point x="1445" y="2531"/>
+	<Point x="1571" y="2529"/>
+	<Point x="1578" y="2831"/>
+	<Point x="1566" y="2831"/>
+	<Point x="1539" y="2846"/>
+	<Point x="1515" y="2832"/>
+	<Point x="403" y="2846"/>
+	<Point x="392" y="2652"/>
+	<Point x="392" y="2619"/>
+	<Point x="336" y="2610"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No mata, io lo ento,
+Al Fuego el Agua, Inarda dura, i bella;
+Pues ſola una centella
+De el Fuego, que en mis venas alimento,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="signature-mark">
+	<Coords>
+	<Point x="1375" y="2839"/>
+	<Point x="1374" y="2907"/>
+	<Point x="1237" y="2908"/>
+	<Point x="1242" y="2841"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ff 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="catch-word">
+	<Coords>
+	<Point x="1903" y="2843"/>
+	<Point x="1896" y="2915"/>
+	<Point x="1772" y="2918"/>
+	<Point x="1771" y="2837"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="345" y="2085"/>
+	<Point x="1434" y="2082"/>
+	<Point x="1428" y="2437"/>
+	<Point x="1430" y="2459"/>
+	<Point x="1485" y="2485"/>
+	<Point x="1485" y="2526"/>
+	<Point x="1432" y="2527"/>
+	<Point x="1433" y="2536"/>
+	<Point x="1416" y="2546"/>
+	<Point x="1389" y="2542"/>
+	<Point x="1384" y="2522"/>
+	<Point x="1157" y="2526"/>
+	<Point x="1144" y="2542"/>
+	<Point x="1118" y="2541"/>
+	<Point x="1107" y="2526"/>
+	<Point x="1003" y="2526"/>
+	<Point x="975" y="2542"/>
+	<Point x="961" y="2526"/>
+	<Point x="723" y="2517"/>
+	<Point x="723" y="2532"/>
+	<Point x="719" y="2537"/>
+	<Point x="703" y="2534"/>
+	<Point x="703" y="2518"/>
+	<Point x="542" y="2525"/>
+	<Point x="525" y="2526"/>
+	<Point x="514" y="2537"/>
+	<Point x="414" y="2526"/>
+	<Point x="400" y="2164"/>
+	<Point x="346" y="2162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Su Sciencia es tan aguda,
+Que de Flecha le rve raçonada;
+Ninguna coſa duda,
+Inquieta la verdad mas aſentada.
+I al diuino Platon tuvo tan ciego,
+Que le hiço beber por agua el fuego.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="drop-capital">
+	<Coords>
+	<Point x="346" y="1204"/>
+	<Point x="346" y="1333"/>
+	<Point x="522" y="1338"/>
+	<Point x="531" y="1337"/>
+	<Point x="455" y="1197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Q</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442413">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T15:23:10</Created>
+	<LastChange>2012-03-12T14:12:00</LastChange></Metadata>
+	<Page imageFilename="00442413.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="461" y="2303"/>
+	<Point x="1129" y="2303"/>
+	<Point x="1129" y="2361"/>
+	<Point x="461" y="2361"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="445" y="50"/>
+	<Point x="444" y="174"/>
+	<Point x="549" y="173"/>
+	<Point x="550" y="153"/>
+	<Point x="1154" y="150"/>
+	<Point x="1153" y="50"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1298" y="56"/>
+	<Point x="1298" y="144"/>
+	<Point x="1432" y="144"/>
+	<Point x="1432" y="56"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>69</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="182" y="182"/>
+	<Point x="566" y="180"/>
+	<Point x="565" y="168"/>
+	<Point x="1430" y="161"/>
+	<Point x="1450" y="2134"/>
+	<Point x="1381" y="2139"/>
+	<Point x="1379" y="2148"/>
+	<Point x="1345" y="2151"/>
+	<Point x="1336" y="2143"/>
+	<Point x="1075" y="2148"/>
+	<Point x="1072" y="2159"/>
+	<Point x="178" y="2168"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>me han aporreado a mi, demaner a que el molimien
+to de las eacas, fue tortas y pan pintado. Pero diga
+me ſeñor. Como ama a ea buena y rara auentura,
+auiẽdo quedado dea qual quedamos? Aun vuera
+merced menos mal, pues tuuo en ſus manos aquea
+incõparable fermoſura que ha dicho. Pero yo que
+tuue, no los mayores porrazos que pienſo recebir
+en toda mi vida. Deſdichado de mi y de la madre 
+me pario, que ni ſoy cauaero andante, ni lo pienſo
+ſer jamas, y de todas las mal andãças me cabe la ma‐
+yor parte. Luego tambien eàs tu aporreado, reſpõ
+dio don Quixote? No le he dicho que , pea a mi li
+nage, dixo Sancho. No tengas pena amigo, dixo dõ
+Quixote, que yo hare agora el balſamo precioſo,
+cõ que ſanaremos en vn abrir y cerrar de ojos. Aca‐
+bô en eo de encender el candil el quadriero, y en
+trò a ver el que penſaua que era muerto, y aſsi co-
+mo le vio entrar Sancho, viendole venir en camiſa
+y con ſu paño de cabeça, y candil en la mano, y con
+vna muy mala cara, pregunto a ſu amo: Señor,  ſera
+ee a dicha el Moro encãtado que nos bue lue a caſ-
+tigar,  ſe dexo algo en el tintero? No puede ſer el
+Moro, reſpondio don Quixote, porque los encanta
+dos no ſe dexan ver de nadie. Sino ſe dexan ver, de-
+xanſe ſentir, dixo Sancho. Sino diganlo mis eſpal-
+das. Tambiẽ lo podrian dezir las mias, reſpondio dõ
+Quixote: pero no es baante indicio ee para creer
+que ee que ſe vee ſea el encantado Moro. Llegò el
+quadrilIero, y como los haô hablando en tan ſoe
+gada conuerſacion, que dô ſuſpenſo. Bien es verdad
+que aun don Quixote ſe eaua boca arriba, n po‐
+derſe menear de puro molido y emplaado. Llego‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="signature-mark">
+	<Coords>
+	<Point x="1082" y="2154"/>
+	<Point x="1082" y="2223"/>
+	<Point x="1168" y="2223"/>
+	<Point x="1168" y="2154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I 5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="catch-word">
+	<Coords>
+	<Point x="1335" y="2155"/>
+	<Point x="1332" y="2210"/>
+	<Point x="1451" y="2213"/>
+	<Point x="1443" y="2150"/>
+	<Point x="1386" y="2149"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſe a</Unicode></TextEquiv></TextRegion></Page></PcGts>

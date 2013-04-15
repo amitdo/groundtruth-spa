@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00446252">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T07:59:17</Created>
+	<LastChange>2011-09-09T11:58:49</LastChange></Metadata>
+	<Page imageFilename="00446252.tif" imageWidth="2614" imageHeight="4086">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r19" index="0"/>
+	<RegionRefIndexed regionRef="r21" index="1"/>
+	<RegionRefIndexed regionRef="r23" index="2"/>
+	<RegionRefIndexed regionRef="r27" index="3"/>
+	<RegionRefIndexed regionRef="r31" index="4"/>
+	<RegionRefIndexed regionRef="r35" index="5"/>
+	<RegionRefIndexed regionRef="r39" index="6"/>
+	<RegionRefIndexed regionRef="r79" index="7"/>
+	<RegionRefIndexed regionRef="r81" index="8"/>
+	<RegionRefIndexed regionRef="r45" index="9"/>
+	<RegionRefIndexed regionRef="r75" index="10"/>
+	<RegionRefIndexed regionRef="r77" index="11"/>
+	<RegionRefIndexed regionRef="r73" index="12"/>
+	<RegionRefIndexed regionRef="r67" index="13"/>
+	<RegionRefIndexed regionRef="r69" index="14"/>
+	<RegionRefIndexed regionRef="r65" index="15"/>
+	<RegionRefIndexed regionRef="r61" index="16"/>
+	<RegionRefIndexed regionRef="r57" index="17"/>
+	<RegionRefIndexed regionRef="r53" index="18"/>
+	<RegionRefIndexed regionRef="r11" index="19"/>
+	<RegionRefIndexed regionRef="r12" index="20"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="1961" y="183"/>
+	<Point x="2120" y="180"/>
+	<Point x="2121" y="247"/>
+	<Point x="1954" y="242"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="catch-word">
+	<Coords>
+	<Point x="2508" y="3671"/>
+	<Point x="2527" y="3670"/>
+	<Point x="2548" y="3677"/>
+	<Point x="2552" y="3713"/>
+	<Point x="2514" y="3715"/>
+	<Point x="2495" y="3712"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Se</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="credit">
+	<Coords>
+	<Point x="846" y="3927"/>
+	<Point x="1757" y="3936"/>
+	<Point x="1769" y="3972"/>
+	<Point x="1757" y="3999"/>
+	<Point x="1645" y="3998"/>
+	<Point x="1619" y="4010"/>
+	<Point x="1590" y="3997"/>
+	<Point x="902" y="3990"/>
+	<Point x="878" y="3997"/>
+	<Point x="830" y="3988"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="668" y="186"/>
+	<Point x="665" y="232"/>
+	<Point x="545" y="233"/>
+	<Point x="551" y="186"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>210</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="header">
+	<Coords>
+	<Point x="1087" y="169"/>
+	<Point x="1101" y="234"/>
+	<Point x="950" y="240"/>
+	<Point x="936" y="235"/>
+	<Point x="931" y="173"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1488" y="245"/>
+	<Point x="1497" y="354"/>
+	<Point x="1381" y="358"/>
+	<Point x="1153" y="355"/>
+	<Point x="1162" y="390"/>
+	<Point x="1156" y="397"/>
+	<Point x="1043" y="400"/>
+	<Point x="1004" y="397"/>
+	<Point x="994" y="406"/>
+	<Point x="974" y="408"/>
+	<Point x="969" y="397"/>
+	<Point x="952" y="399"/>
+	<Point x="939" y="393"/>
+	<Point x="937" y="399"/>
+	<Point x="898" y="400"/>
+	<Point x="857" y="391"/>
+	<Point x="833" y="406"/>
+	<Point x="815" y="405"/>
+	<Point x="806" y="393"/>
+	<Point x="778" y="393"/>
+	<Point x="771" y="408"/>
+	<Point x="745" y="405"/>
+	<Point x="737" y="392"/>
+	<Point x="630" y="393"/>
+	<Point x="627" y="404"/>
+	<Point x="609" y="405"/>
+	<Point x="600" y="393"/>
+	<Point x="571" y="403"/>
+	<Point x="545" y="404"/>
+	<Point x="553" y="259"/>
+	<Point x="642" y="258"/>
+	<Point x="654" y="245"/>
+	<Point x="672" y="245"/>
+	<Point x="672" y="259"/>
+	<Point x="831" y="257"/>
+	<Point x="845" y="246"/>
+	<Point x="870" y="246"/>
+	<Point x="882" y="251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tar alguna enfermedád, dolór, ò accidente
+tendido en el ſuelo. Lat. Senſus, vel corporis
+uporem efngere, vel mulare.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1484" y="556"/>
+	<Point x="1428" y="553"/>
+	<Point x="1395" y="569"/>
+	<Point x="1385" y="552"/>
+	<Point x="1008" y="559"/>
+	<Point x="680" y="552"/>
+	<Point x="676" y="603"/>
+	<Point x="585" y="602"/>
+	<Point x="584" y="613"/>
+	<Point x="569" y="614"/>
+	<Point x="550" y="612"/>
+	<Point x="549" y="501"/>
+	<Point x="548" y="480"/>
+	<Point x="549" y="447"/>
+	<Point x="514" y="446"/>
+	<Point x="507" y="446"/>
+	<Point x="503" y="407"/>
+	<Point x="513" y="404"/>
+	<Point x="540" y="406"/>
+	<Point x="582" y="405"/>
+	<Point x="610" y="406"/>
+	<Point x="731" y="405"/>
+	<Point x="763" y="409"/>
+	<Point x="767" y="419"/>
+	<Point x="780" y="405"/>
+	<Point x="833" y="408"/>
+	<Point x="851" y="404"/>
+	<Point x="940" y="408"/>
+	<Point x="957" y="412"/>
+	<Point x="977" y="409"/>
+	<Point x="1000" y="408"/>
+	<Point x="1196" y="407"/>
+	<Point x="1222" y="401"/>
+	<Point x="1467" y="406"/>
+	<Point x="1495" y="420"/>
+	<Point x="1493" y="436"/>
+	<Point x="1493" y="540"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DESPAVESADURA. ſ. f. El ao de deſpaveſar
+ù deſpabilar la vela ò el velón. Trahe ea
+voz Nebrixa en ſu Vocabulario. Lat. Exfun-
+gatio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1496" y="649"/>
+	<Point x="1506" y="865"/>
+	<Point x="1430" y="922"/>
+	<Point x="1408" y="922"/>
+	<Point x="1381" y="923"/>
+	<Point x="1361" y="935"/>
+	<Point x="1334" y="928"/>
+	<Point x="1325" y="921"/>
+	<Point x="1305" y="932"/>
+	<Point x="1296" y="936"/>
+	<Point x="1284" y="919"/>
+	<Point x="1270" y="921"/>
+	<Point x="1254" y="921"/>
+	<Point x="1240" y="926"/>
+	<Point x="1235" y="927"/>
+	<Point x="1222" y="927"/>
+	<Point x="1199" y="923"/>
+	<Point x="1137" y="916"/>
+	<Point x="1106" y="918"/>
+	<Point x="1014" y="914"/>
+	<Point x="999" y="927"/>
+	<Point x="975" y="929"/>
+	<Point x="971" y="917"/>
+	<Point x="933" y="918"/>
+	<Point x="923" y="922"/>
+	<Point x="916" y="928"/>
+	<Point x="898" y="928"/>
+	<Point x="874" y="922"/>
+	<Point x="871" y="912"/>
+	<Point x="807" y="916"/>
+	<Point x="774" y="913"/>
+	<Point x="759" y="914"/>
+	<Point x="708" y="914"/>
+	<Point x="703" y="924"/>
+	<Point x="688" y="925"/>
+	<Point x="669" y="915"/>
+	<Point x="642" y="917"/>
+	<Point x="601" y="916"/>
+	<Point x="554" y="912"/>
+	<Point x="562" y="660"/>
+	<Point x="507" y="656"/>
+	<Point x="507" y="610"/>
+	<Point x="528" y="610"/>
+	<Point x="549" y="616"/>
+	<Point x="587" y="615"/>
+	<Point x="603" y="610"/>
+	<Point x="667" y="609"/>
+	<Point x="732" y="609"/>
+	<Point x="1491" y="611"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DESPAVESAR. v. a. Quitar la paveſa à la luz
+y lo miſmo que Deſpabilar. Es formado de la
+prepocion Des, y el nombre Pavéſa. Lat.
+Emungere. Exfungare. OñA, Porim. lib. 1.
+cap. 7. Diſc. 1. Coge el amígo las tixéras, y
+hace que vá à deſpaveſar la vela, y apágala.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="858" y="925"/>
+	<Point x="881" y="926"/>
+	<Point x="895" y="929"/>
+	<Point x="1004" y="934"/>
+	<Point x="1127" y="922"/>
+	<Point x="1221" y="928"/>
+	<Point x="1238" y="928"/>
+	<Point x="1251" y="939"/>
+	<Point x="1253" y="939"/>
+	<Point x="1288" y="942"/>
+	<Point x="1325" y="935"/>
+	<Point x="1350" y="941"/>
+	<Point x="1442" y="937"/>
+	<Point x="1468" y="924"/>
+	<Point x="1495" y="949"/>
+	<Point x="1500" y="1277"/>
+	<Point x="1484" y="1287"/>
+	<Point x="1337" y="1288"/>
+	<Point x="1317" y="1297"/>
+	<Point x="1289" y="1295"/>
+	<Point x="1248" y="1285"/>
+	<Point x="1223" y="1296"/>
+	<Point x="1200" y="1294"/>
+	<Point x="1193" y="1287"/>
+	<Point x="863" y="1286"/>
+	<Point x="868" y="1331"/>
+	<Point x="558" y="1329"/>
+	<Point x="553" y="968"/>
+	<Point x="510" y="968"/>
+	<Point x="507" y="920"/>
+	<Point x="675" y="925"/>
+	<Point x="694" y="927"/>
+	<Point x="715" y="923"/>
+	<Point x="747" y="923"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DESPAVORIRSE. v. r. Auarſe, atemori-
+zarſe, padecer un gran pavór, aombro y
+miedo. Es formado de la prepocion Des,
+que aumenta la gniﬁcacion, y del nombre
+Pavór. Lat. Paveſcere. Conernari. M. AGRED.
+tom. 1. num. 111. Y ſus ecos egaron haa el
+Inﬁerno, donde hizo temblar y deſpavorir à
+los demónios.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="1324" y="1332"/>
+	<Point x="1324" y="1333"/>
+	<Point x="1470" y="1340"/>
+	<Point x="1498" y="1341"/>
+	<Point x="1502" y="1371"/>
+	<Point x="1509" y="1795"/>
+	<Point x="1474" y="1807"/>
+	<Point x="1340" y="1815"/>
+	<Point x="1031" y="1800"/>
+	<Point x="1030" y="1848"/>
+	<Point x="847" y="1850"/>
+	<Point x="836" y="1860"/>
+	<Point x="808" y="1856"/>
+	<Point x="788" y="1846"/>
+	<Point x="617" y="1847"/>
+	<Point x="604" y="1853"/>
+	<Point x="572" y="1854"/>
+	<Point x="557" y="1574"/>
+	<Point x="559" y="1381"/>
+	<Point x="517" y="1379"/>
+	<Point x="515" y="1336"/>
+	<Point x="540" y="1334"/>
+	<Point x="653" y="1339"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DESPAVORIDO, DA. part. pá. del verbo
+Deſpavorirſe. Auado, atemorizado y e-
+no de aombro. Lat. Pavidus. Conernatus.
+RIBAD. El. San. Vid. de S. Pedro Apool.
+Los Chriianos que vivían en Roma eaban
+mui aﬂigidos, arrinconados y deſmayados: y
+como ovéjas deſpavorídas y deſcarriadas te-
+nian neceſsidad de ſu Paór. AMBR. MOR. lib.
+6. cap. 2. Comenzaron à matar à los que deſ-
+pertaban deſpavorídos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="1510" y="1866"/>
+	<Point x="1510" y="2104"/>
+	<Point x="1468" y="2116"/>
+	<Point x="1221" y="2117"/>
+	<Point x="1227" y="2162"/>
+	<Point x="1149" y="2159"/>
+	<Point x="1065" y="2157"/>
+	<Point x="1060" y="2166"/>
+	<Point x="1037" y="2169"/>
+	<Point x="1028" y="2155"/>
+	<Point x="999" y="2164"/>
+	<Point x="969" y="2163"/>
+	<Point x="938" y="2162"/>
+	<Point x="908" y="2161"/>
+	<Point x="877" y="2160"/>
+	<Point x="847" y="2159"/>
+	<Point x="786" y="2157"/>
+	<Point x="755" y="2156"/>
+	<Point x="694" y="2154"/>
+	<Point x="601" y="2155"/>
+	<Point x="574" y="2150"/>
+	<Point x="563" y="1898"/>
+	<Point x="520" y="1898"/>
+	<Point x="521" y="1854"/>
+	<Point x="584" y="1856"/>
+	<Point x="614" y="1854"/>
+	<Point x="773" y="1855"/>
+	<Point x="813" y="1858"/>
+	<Point x="828" y="1875"/>
+	<Point x="845" y="1857"/>
+	<Point x="906" y="1856"/>
+	<Point x="1269" y="1852"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DESPEADURA. ſ. f. La incomodidád que pa-
+déce en los pies el hombre ò bruto, cauſada
+de haver caminado mucho à pié, no eando
+bien calzado ò herrado. Trahen ea voz
+Covarr. en ſu Theſoro, y Nebrixa en ſu Vo-
+cabulario. Lat. Pedum ſubtritio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="627" y="2165"/>
+	<Point x="1016" y="2168"/>
+	<Point x="1049" y="2181"/>
+	<Point x="1129" y="2178"/>
+	<Point x="1145" y="2167"/>
+	<Point x="1258" y="2172"/>
+	<Point x="1398" y="2168"/>
+	<Point x="1510" y="2182"/>
+	<Point x="1516" y="2775"/>
+	<Point x="1514" y="2806"/>
+	<Point x="1470" y="2806"/>
+	<Point x="1166" y="2789"/>
+	<Point x="1145" y="2783"/>
+	<Point x="1141" y="2793"/>
+	<Point x="1119" y="2793"/>
+	<Point x="1112" y="2779"/>
+	<Point x="1041" y="2791"/>
+	<Point x="1009" y="2793"/>
+	<Point x="1012" y="2830"/>
+	<Point x="885" y="2825"/>
+	<Point x="879" y="2838"/>
+	<Point x="856" y="2837"/>
+	<Point x="859" y="2830"/>
+	<Point x="803" y="2830"/>
+	<Point x="803" y="2829"/>
+	<Point x="616" y="2826"/>
+	<Point x="607" y="2835"/>
+	<Point x="591" y="2835"/>
+	<Point x="588" y="2831"/>
+	<Point x="575" y="2580"/>
+	<Point x="575" y="2207"/>
+	<Point x="528" y="2207"/>
+	<Point x="525" y="2161"/>
+	<Point x="577" y="2159"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DESPEARSE. v. r. Maltratarſe los piés el hom-
+bre ò bruto, por haver caminado mucho. Es
+formado de la prepocion Des, y del nom-
+bre Pié. Lat. Pedes ſubterere. MONTER. DEL R.
+D. AL. Lib. 1. cap. 15. E  por aventúra non
+toviere  non aqueos que hovieen toma-
+do antenoche, ponergelos; ſalvo  eovieſ-
+ſen mui deſpeados. HERR. Hi. Ind. Decad. 4.
+lib. 1. cap. 7. Haviendo por el aſperéza del ca-
+míno y mal gobierno, paado los Caea-
+nos tan grande hambre, que algunos dias co-
+mieron hierbas, y deſpeádoſe los cabaos, y
+perecido los perros.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords>
+	<Point x="561" y="3398"/>
+	<Point x="617" y="3400"/>
+	<Point x="672" y="3400"/>
+	<Point x="672" y="3401"/>
+	<Point x="728" y="3401"/>
+	<Point x="728" y="3402"/>
+	<Point x="784" y="3402"/>
+	<Point x="784" y="3403"/>
+	<Point x="931" y="3405"/>
+	<Point x="948" y="3401"/>
+	<Point x="972" y="3402"/>
+	<Point x="980" y="3415"/>
+	<Point x="1040" y="3421"/>
+	<Point x="1048" y="3412"/>
+	<Point x="1059" y="3409"/>
+	<Point x="1117" y="3408"/>
+	<Point x="1519" y="3407"/>
+	<Point x="1516" y="3674"/>
+	<Point x="1221" y="3665"/>
+	<Point x="1206" y="3679"/>
+	<Point x="1174" y="3679"/>
+	<Point x="1164" y="3662"/>
+	<Point x="588" y="3667"/>
+	<Point x="581" y="3448"/>
+	<Point x="543" y="3451"/>
+	<Point x="544" y="3403"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DESPECHADOR. ſ. m. El que indigna, deſpé-
+cha y dá rabia à otro. Lat. Qui iram vel rabiem
+commovet. Rigidus vel moleus exaor. CHRON.
+GEN. part. 3. f. 16. Era home mui deſpechadór
+de la gente, è demandabales pechos è rentas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="paragraph">
+	<Coords>
+	<Point x="2375" y="3402"/>
+	<Point x="2364" y="3434"/>
+	<Point x="2286" y="3428"/>
+	<Point x="2269" y="3513"/>
+	<Point x="2252" y="3527"/>
+	<Point x="2206" y="3527"/>
+	<Point x="2163" y="3523"/>
+	<Point x="2158" y="3523"/>
+	<Point x="2158" y="3532"/>
+	<Point x="2142" y="3535"/>
+	<Point x="2136" y="3536"/>
+	<Point x="2125" y="3535"/>
+	<Point x="2114" y="3522"/>
+	<Point x="2009" y="3520"/>
+	<Point x="1997" y="3531"/>
+	<Point x="1935" y="3535"/>
+	<Point x="1933" y="3519"/>
+	<Point x="1919" y="3519"/>
+	<Point x="1827" y="3517"/>
+	<Point x="1813" y="3532"/>
+	<Point x="1781" y="3531"/>
+	<Point x="1794" y="3372"/>
+	<Point x="1807" y="3320"/>
+	<Point x="1881" y="3320"/>
+	<Point x="1881" y="3319"/>
+	<Point x="2224" y="3319"/>
+	<Point x="2224" y="3318"/>
+	<Point x="2376" y="3399"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pues n hablar, n oír,
+ni vér, con mortál deſpécho,
+deſpedazandoſe el pecho,
+prorumpe ſolo en gemir.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r57" type="paragraph">
+	<Coords>
+	<Point x="2150" y="2597"/>
+	<Point x="2207" y="2607"/>
+	<Point x="2256" y="2596"/>
+	<Point x="2351" y="2609"/>
+	<Point x="2416" y="2593"/>
+	<Point x="2509" y="2596"/>
+	<Point x="2540" y="2622"/>
+	<Point x="2546" y="3250"/>
+	<Point x="2400" y="3268"/>
+	<Point x="2220" y="3266"/>
+	<Point x="2236" y="3312"/>
+	<Point x="2222" y="3316"/>
+	<Point x="2209" y="3316"/>
+	<Point x="1901" y="3311"/>
+	<Point x="1632" y="3311"/>
+	<Point x="1635" y="2634"/>
+	<Point x="1587" y="2631"/>
+	<Point x="1589" y="2584"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DESPECHO. ſ. m. Ira, rábia, cólera y deſeſpe-
+ración. Puede venir del Italiano Diſpetto, que
+gniﬁca eo miſmo, ù de la prepocion Des,
+y del nombre Pecho, por la aluón de ſer eſ-
+te como el lugar de los deſéos. Lat. Rabies.
+Furor. Animi nimia acerbitas. HORTENS. Paneg.
+pl. 70. Llorando Iſaías la deſolación de ſu
+querida Jeruſalém, y mirando en eſpiritu el
+deſpécho de ſus hijos, y eos arrarados de el
+deſafuero de los vencedóres. SOLIS, Hi. de
+Nuev. Eſp. lib. 4. cap. 15. El golpe de la cabé-
+za pareció empre de cuidado, y baaron
+ſus deſpéchos para que ſe hiciee mortál.
+CALD. Aut. El diablo mudo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r61" type="paragraph">
+	<Coords>
+	<Point x="2540" y="2084"/>
+	<Point x="2552" y="2550"/>
+	<Point x="2388" y="2555"/>
+	<Point x="2313" y="2553"/>
+	<Point x="2325" y="2590"/>
+	<Point x="2203" y="2593"/>
+	<Point x="2183" y="2592"/>
+	<Point x="2175" y="2590"/>
+	<Point x="1973" y="2586"/>
+	<Point x="1765" y="2585"/>
+	<Point x="1765" y="2584"/>
+	<Point x="1625" y="2579"/>
+	<Point x="1619" y="2115"/>
+	<Point x="1583" y="2115"/>
+	<Point x="1580" y="2066"/>
+	<Point x="1999" y="2075"/>
+	<Point x="2024" y="2075"/>
+	<Point x="2055" y="2090"/>
+	<Point x="2202" y="2090"/>
+	<Point x="2211" y="2080"/>
+	<Point x="2317" y="2082"/>
+	<Point x="2332" y="2088"/>
+	<Point x="2387" y="2093"/>
+	<Point x="2400" y="2080"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DESPECHADO, DA. part. pa. del verbo Deſ-
+pechar en ſus acepciones. Lat. In rabiem aus,
+concitatus. TORR. Philoſ. lib. 21. cap. 6. Dexan-
+do laimado al mendígo, orando à la viu-
+da, trie al azacán, deſpechado al Labradór, y
+aun pelandoſe las barbas al bien nacido.
+CERV. Quix. tom. 2. cap. 46. Quedó Don Qui-
+xóte acribado el roro, y no mui ſanas las
+naríces; aunque mui deſpechado porque no le
+havian dexado fenecer la bataa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r65" type="paragraph">
+	<Coords>
+	<Point x="1569" y="1657"/>
+	<Point x="1606" y="1653"/>
+	<Point x="1625" y="1657"/>
+	<Point x="1662" y="1667"/>
+	<Point x="1863" y="1672"/>
+	<Point x="1877" y="1659"/>
+	<Point x="1899" y="1658"/>
+	<Point x="2087" y="1663"/>
+	<Point x="2098" y="1677"/>
+	<Point x="2107" y="1669"/>
+	<Point x="2122" y="1667"/>
+	<Point x="2190" y="1677"/>
+	<Point x="2253" y="1677"/>
+	<Point x="2253" y="1667"/>
+	<Point x="2371" y="1668"/>
+	<Point x="2431" y="1672"/>
+	<Point x="2437" y="1682"/>
+	<Point x="2492" y="1688"/>
+	<Point x="2523" y="1696"/>
+	<Point x="2522" y="2034"/>
+	<Point x="2481" y="2046"/>
+	<Point x="2460" y="2035"/>
+	<Point x="2250" y="2038"/>
+	<Point x="1993" y="2020"/>
+	<Point x="1992" y="2069"/>
+	<Point x="1623" y="2059"/>
+	<Point x="1621" y="1698"/>
+	<Point x="1575" y="1701"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DESPECHARSE. Vale tambien perder la eſperan-
+za de conſeguir algun ﬁn. Lat. Deſperare. So-
+LIS, Hi. de Nuev. Eſp. lib. 3. cap. 2. Deſeaba
+que fueen teígos de la paz de Tlaſcála, y
+miró tambien à lo que importaba detener-
+los, porque no ſe deſpechae Motezúma con
+la noticia de ſu reſolución, y tratae de po-
+nerſe en defenſa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r67" type="paragraph">
+	<Coords>
+	<Point x="2243" y="1265"/>
+	<Point x="2242" y="1298"/>
+	<Point x="2293" y="1303"/>
+	<Point x="2333" y="1317"/>
+	<Point x="2331" y="1358"/>
+	<Point x="2322" y="1368"/>
+	<Point x="2195" y="1362"/>
+	<Point x="2189" y="1407"/>
+	<Point x="2265" y="1421"/>
+	<Point x="2262" y="1455"/>
+	<Point x="2257" y="1456"/>
+	<Point x="2218" y="1452"/>
+	<Point x="1873" y="1445"/>
+	<Point x="1772" y="1441"/>
+	<Point x="1766" y="1428"/>
+	<Point x="1773" y="1247"/>
+	<Point x="1786" y="1244"/>
+	<Point x="1823" y="1249"/>
+	<Point x="1815" y="1258"/>
+	<Point x="1914" y="1254"/>
+	<Point x="1928" y="1246"/>
+	<Point x="1953" y="1246"/>
+	<Point x="1946" y="1259"/>
+	<Point x="2038" y="1259"/>
+	<Point x="2054" y="1247"/>
+	<Point x="2179" y="1249"/>
+	<Point x="2204" y="1264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Teman los malos ſeñóres
+que deſpechan ſus vaaos,
+que para tyranizaos
+les calumnian mil erróres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r69" type="paragraph">
+	<Coords>
+	<Point x="1574" y="1445"/>
+	<Point x="1624" y="1447"/>
+	<Point x="1688" y="1444"/>
+	<Point x="2054" y="1462"/>
+	<Point x="2064" y="1456"/>
+	<Point x="2096" y="1457"/>
+	<Point x="2209" y="1461"/>
+	<Point x="2290" y="1469"/>
+	<Point x="2310" y="1459"/>
+	<Point x="2432" y="1472"/>
+	<Point x="2432" y="1473"/>
+	<Point x="2516" y="1475"/>
+	<Point x="2529" y="1570"/>
+	<Point x="2506" y="1668"/>
+	<Point x="2501" y="1669"/>
+	<Point x="2261" y="1660"/>
+	<Point x="2134" y="1657"/>
+	<Point x="2118" y="1664"/>
+	<Point x="2097" y="1671"/>
+	<Point x="2092" y="1659"/>
+	<Point x="1864" y="1651"/>
+	<Point x="1827" y="1661"/>
+	<Point x="1619" y="1651"/>
+	<Point x="1614" y="1516"/>
+	<Point x="1616" y="1498"/>
+	<Point x="1575" y="1495"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DESPECHARSE. v. r. Deſeſperarſe, entregar-
+ſe al furór y deſpécho. Lat. ln rabiem agi.
+HORTENS. Paneg. pl. 363. Deſpechóſe el Rey
+laimado, haciendoſe pedázos los veídos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r73" type="paragraph">
+	<Coords>
+	<Point x="1567" y="927"/>
+	<Point x="1833" y="948"/>
+	<Point x="1840" y="931"/>
+	<Point x="1940" y="936"/>
+	<Point x="2012" y="950"/>
+	<Point x="2024" y="937"/>
+	<Point x="2044" y="940"/>
+	<Point x="2053" y="946"/>
+	<Point x="2071" y="938"/>
+	<Point x="2083" y="948"/>
+	<Point x="2302" y="954"/>
+	<Point x="2305" y="941"/>
+	<Point x="2337" y="935"/>
+	<Point x="2361" y="937"/>
+	<Point x="2390" y="956"/>
+	<Point x="2502" y="954"/>
+	<Point x="2513" y="968"/>
+	<Point x="2515" y="1215"/>
+	<Point x="1939" y="1186"/>
+	<Point x="1941" y="1241"/>
+	<Point x="1913" y="1241"/>
+	<Point x="1906" y="1251"/>
+	<Point x="1891" y="1249"/>
+	<Point x="1898" y="1232"/>
+	<Point x="1875" y="1236"/>
+	<Point x="1837" y="1237"/>
+	<Point x="1831" y="1248"/>
+	<Point x="1813" y="1246"/>
+	<Point x="1797" y="1243"/>
+	<Point x="1788" y="1231"/>
+	<Point x="1618" y="1238"/>
+	<Point x="1613" y="980"/>
+	<Point x="1566" y="979"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DESPECHAR. Vale tambien gravar à los vaa-
+os con tribútos demaados. En ea acep
+cion es formado de la prepocion Des, que
+aumenta la gniﬁcacion, y del nombre Pe-
+cho por tribúto. Lat. Exaionibus manire. Es-
+COB. Preg. 287.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r75" type="paragraph">
+	<Coords>
+	<Point x="2505" y="302"/>
+	<Point x="2511" y="598"/>
+	<Point x="2066" y="571"/>
+	<Point x="1981" y="574"/>
+	<Point x="1988" y="618"/>
+	<Point x="1936" y="616"/>
+	<Point x="1906" y="612"/>
+	<Point x="1659" y="611"/>
+	<Point x="1619" y="610"/>
+	<Point x="1610" y="604"/>
+	<Point x="1607" y="310"/>
+	<Point x="1605" y="300"/>
+	<Point x="1562" y="297"/>
+	<Point x="1555" y="300"/>
+	<Point x="1555" y="250"/>
+	<Point x="2059" y="254"/>
+	<Point x="2076" y="259"/>
+	<Point x="2167" y="259"/>
+	<Point x="2199" y="264"/>
+	<Point x="2316" y="261"/>
+	<Point x="2418" y="276"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DESPECHAMIENTO. ſ. m. Lo miſmo que
+Deſpécho. Es voz antiquada. COLMEN. Hi.
+Segob. cap. 21. §. 14. En un privilegio. Que
+mala cuenta, nin mal deſpechamiento, nin mala
+prémia, nin mala correría, nin mal fuero ﬁ-
+cieen à los Pueblos, tambien de la Via, co-
+mo de las Aldéas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r77" type="paragraph">
+	<Coords>
+	<Point x="2285" y="888"/>
+	<Point x="2298" y="926"/>
+	<Point x="2294" y="937"/>
+	<Point x="2253" y="938"/>
+	<Point x="2144" y="935"/>
+	<Point x="2077" y="933"/>
+	<Point x="2054" y="943"/>
+	<Point x="2037" y="932"/>
+	<Point x="1818" y="926"/>
+	<Point x="1782" y="925"/>
+	<Point x="1631" y="924"/>
+	<Point x="1610" y="912"/>
+	<Point x="1600" y="672"/>
+	<Point x="1566" y="672"/>
+	<Point x="1567" y="615"/>
+	<Point x="2463" y="636"/>
+	<Point x="2510" y="676"/>
+	<Point x="2513" y="907"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DESPECHAR. v. a. Dár peſar, cauſar indigna-
+ción, ocaonar rábia, furór y deſeſperación.
+Es formado del nombre Deſpécho. Lat. Iram
+vel rabiem commovere, incitare. M. AGRED. tom.
+1. num. 315. Y ſobre todo le deſpechaba el ſen-
+tirſe ﬂaco de fuerzas para reir.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1589" y="3520"/>
+	<Point x="1645" y="3519"/>
+	<Point x="1646" y="3536"/>
+	<Point x="1833" y="3538"/>
+	<Point x="1848" y="3525"/>
+	<Point x="1861" y="3523"/>
+	<Point x="1896" y="3526"/>
+	<Point x="1929" y="3529"/>
+	<Point x="1931" y="3540"/>
+	<Point x="2016" y="3535"/>
+	<Point x="2038" y="3527"/>
+	<Point x="2081" y="3525"/>
+	<Point x="2102" y="3543"/>
+	<Point x="2131" y="3541"/>
+	<Point x="2145" y="3536"/>
+	<Point x="2163" y="3532"/>
+	<Point x="2200" y="3532"/>
+	<Point x="2204" y="3543"/>
+	<Point x="2239" y="3546"/>
+	<Point x="2249" y="3534"/>
+	<Point x="2274" y="3532"/>
+	<Point x="2284" y="3541"/>
+	<Point x="2310" y="3527"/>
+	<Point x="2331" y="3525"/>
+	<Point x="2338" y="3536"/>
+	<Point x="2435" y="3521"/>
+	<Point x="2550" y="3522"/>
+	<Point x="2542" y="3632"/>
+	<Point x="2548" y="3640"/>
+	<Point x="2544" y="3665"/>
+	<Point x="2501" y="3666"/>
+	<Point x="2483" y="3667"/>
+	<Point x="2475" y="3686"/>
+	<Point x="2318" y="3687"/>
+	<Point x="2277" y="3698"/>
+	<Point x="2250" y="3688"/>
+	<Point x="1671" y="3679"/>
+	<Point x="1641" y="3694"/>
+	<Point x="1624" y="3672"/>
+	<Point x="1641" y="3635"/>
+	<Point x="1631" y="3572"/>
+	<Point x="1584" y="3569"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DESPECHO. Vale tambien diſguo ù ſentimien-
+to vehemente. Lat. Ingens mœror. Maxima tri-
+itia. SOLIS, Hi. de Nuev. Eſp. lib. 2. cap. 20.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r79" type="paragraph">
+	<Coords>
+	<Point x="1329" y="2836"/>
+	<Point x="1513" y="2839"/>
+	<Point x="1522" y="3118"/>
+	<Point x="1516" y="3155"/>
+	<Point x="1329" y="3146"/>
+	<Point x="1187" y="3145"/>
+	<Point x="1178" y="3156"/>
+	<Point x="1155" y="3155"/>
+	<Point x="1138" y="3145"/>
+	<Point x="976" y="3145"/>
+	<Point x="765" y="3149"/>
+	<Point x="669" y="3152"/>
+	<Point x="665" y="3194"/>
+	<Point x="593" y="3198"/>
+	<Point x="593" y="3191"/>
+	<Point x="580" y="3076"/>
+	<Point x="576" y="2876"/>
+	<Point x="537" y="2877"/>
+	<Point x="534" y="2832"/>
+	<Point x="551" y="2831"/>
+	<Point x="577" y="2836"/>
+	<Point x="614" y="2836"/>
+	<Point x="632" y="2830"/>
+	<Point x="683" y="2835"/>
+	<Point x="708" y="2836"/>
+	<Point x="816" y="2836"/>
+	<Point x="846" y="2838"/>
+	<Point x="873" y="2840"/>
+	<Point x="878" y="2842"/>
+	<Point x="887" y="2836"/>
+	<Point x="901" y="2837"/>
+	<Point x="907" y="2848"/>
+	<Point x="907" y="2852"/>
+	<Point x="1063" y="2846"/>
+	<Point x="1084" y="2837"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DESPEADO, DA. part. pa. del verbo Deſpear-
+ſe. Maltratado è incomodado en los piés.
+Lat. Pedibus ſubtritus. ALFAR. part. 2. lib. 1.
+cap. 3. Y deſpues de canſado y deſpeado de
+correr y trabajar, havian de tenerlo atado à
+eáca guardando la caſa. QUEV. Muſ. 6. Rom.
+59.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r81" type="paragraph">
+	<Coords>
+	<Point x="840" y="3398"/>
+	<Point x="815" y="3398"/>
+	<Point x="815" y="3397"/>
+	<Point x="790" y="3397"/>
+	<Point x="790" y="3396"/>
+	<Point x="765" y="3396"/>
+	<Point x="765" y="3395"/>
+	<Point x="739" y="3395"/>
+	<Point x="739" y="3394"/>
+	<Point x="732" y="3385"/>
+	<Point x="740" y="3191"/>
+	<Point x="1120" y="3196"/>
+	<Point x="1164" y="3198"/>
+	<Point x="1170" y="3248"/>
+	<Point x="1281" y="3255"/>
+	<Point x="1282" y="3305"/>
+	<Point x="1194" y="3308"/>
+	<Point x="1194" y="3359"/>
+	<Point x="1159" y="3355"/>
+	<Point x="1161" y="3401"/>
+	<Point x="934" y="3396"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ando toda dèſpeada,
+un mes ha que no me hierro:
+que ſolo yerra ſus curas
+el Licenciado venénos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

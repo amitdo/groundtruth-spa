@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444215">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:42:19</Created>
+	<LastChange>2011-12-19T11:39:32</LastChange></Metadata>
+	<Page imageFilename="00444215.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="178" y="242"/>
+	<Point x="1551" y="255"/>
+	<Point x="1676" y="263"/>
+	<Point x="1717" y="304"/>
+	<Point x="1735" y="510"/>
+	<Point x="1775" y="1078"/>
+	<Point x="1764" y="1932"/>
+	<Point x="1730" y="2636"/>
+	<Point x="1538" y="2639"/>
+	<Point x="1433" y="2646"/>
+	<Point x="1241" y="2643"/>
+	<Point x="1217" y="2681"/>
+	<Point x="144" y="2685"/>
+	<Point x="136" y="2382"/>
+	<Point x="138" y="706"/>
+	<Point x="138" y="370"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Gandia, y auia algunos años que dexan-
+dolo todo auia entrado en la compañia de
+Ieſus, procuro mi confeor y el cauaero que
+he dicho tambien vino a mi, para que le
+hablae y le diee quenta de la oracion que
+tenia que ſabia yua muy adelante en ſer
+muy fauorecido y regalado de Dios, que
+como quien auia dexado mucho por el,
+aun en ea vida le pagaua . Pues deſpues
+que me vuo oydo, dixo me que era eſpiri-
+tu de Dios, y que le parecia no era bien
+ya reirle mas, que haa eonces
+eaua bien hecho, no que empre co-
+mençae en vn pao de la paſsion, y
+que  deſpues el Señor me euae el ſpi-
+ritu que no lo reiee, no que de-
+xae euarle a ſu magead, no lo procuran-
+do yo. Como quien yua bien adelante, dio la
+medicina y conſejo, que haze mucho en
+eo la eſperiencia : dixo que era yerro re-
+ir ya mas . Yo quede muy conſolada, y
+el cauaero tambien : holgauaſe mucho que
+dixee era de Dios, empre me ayuda-
+ua y daua auiſos en lo que podia que era
+mucho . En ee tiempo mudaron a mi
+confeor de ee lugar a otra, lo que
+yo ſenti muy mucho, porque penſe me auia</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1560" y="2652"/>
+	<Point x="1611" y="2643"/>
+	<Point x="1658" y="2653"/>
+	<Point x="1707" y="2695"/>
+	<Point x="1675" y="2726"/>
+	<Point x="1661" y="2750"/>
+	<Point x="1559" y="2733"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="610" y="3065"/>
+	<Point x="648" y="3044"/>
+	<Point x="987" y="3034"/>
+	<Point x="1508" y="3030"/>
+	<Point x="1553" y="3085"/>
+	<Point x="1585" y="3108"/>
+	<Point x="1553" y="3142"/>
+	<Point x="1177" y="3161"/>
+	<Point x="763" y="3161"/>
+	<Point x="636" y="3142"/>
+	<Point x="608" y="3114"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="297" y="106"/>
+	<Point x="342" y="89"/>
+	<Point x="844" y="87"/>
+	<Point x="1444" y="117"/>
+	<Point x="1474" y="165"/>
+	<Point x="1461" y="225"/>
+	<Point x="324" y="226"/>
+	<Point x="255" y="165"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1517" y="142"/>
+	<Point x="1519" y="123"/>
+	<Point x="1651" y="133"/>
+	<Point x="1668" y="176"/>
+	<Point x="1651" y="226"/>
+	<Point x="1617" y="236"/>
+	<Point x="1514" y="223"/>
+	<Point x="1495" y="178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>287</Unicode></TextEquiv></TextRegion></Page></PcGts>

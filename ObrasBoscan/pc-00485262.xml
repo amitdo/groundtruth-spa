@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485262">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T08:01:46</Created>
+	<LastChange>2011-05-12T13:41:10</LastChange></Metadata>
+	<Page imageFilename="00485262.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="475" y="202"/>
+	<Point x="1695" y="202"/>
+	<Point x="1695" y="922"/>
+	<Point x="475" y="922"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vianſe aqui del todo deſcubiertos,
+Deos tries amantes los ſentidos:
+Con grande multitud dedeſconciertos:
+Y muchos, n razon acaecidos.
+Y vianſe, tambien otros conciertos
+Deguales los mas y mal medidos:
+Los caſos de fortuna andauan ſueltos:
+Mezclados con contrarios y rebueltos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="436" y="1008"/>
+	<Point x="1783" y="1008"/>
+	<Point x="1783" y="1741"/>
+	<Point x="436" y="1741"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vuo dolor, de tanta deſuentura
+Ea Reyna, de todos los amores
+Y ai, porque ee mal tuuiee cura:
+Por el mundo, embio reformadores.
+Los quales, con induria, y con cordura
+Moderaen, en parte 'os errores:
+Y ablandaen ai los penſamientos
+Que 'n guo, ſe boluieen los tormentos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="433" y="1815"/>
+	<Point x="1654" y="1815"/>
+	<Point x="1654" y="2536"/>
+	<Point x="433" y="2536"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Entre eos, eſcogio dos, los mejores,
+Cuio ſeſo en amor era prouado:
+Y dioles potead d' embaxadores:
+Para vn negocio, entre otros ſeñalado
+Y porque fueen deo ſabidores,
+Dioles lugar, y termino, aplazado:
+Adonde ea mejor los informae,
+De todo lo que ai determinae.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="604" y="3018"/>
+	<Point x="1408" y="3018"/>
+	<Point x="1408" y="3090"/>
+	<Point x="604" y="3090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="814" y="109"/>
+	<Point x="1260" y="106"/>
+	<Point x="1256" y="196"/>
+	<Point x="814" y="196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r10" type="other">
+	<Coords>
+	<Point x="1266" y="110"/>
+	<Point x="1403" y="109"/>
+	<Point x="1403" y="196"/>
+	<Point x="1261" y="196"/>
+	<Point x="1264" y="126"/></Coords></GraphicRegion></Page></PcGts>

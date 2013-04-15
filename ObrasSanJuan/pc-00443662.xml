@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443662">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T16:55:28</Created>
+	<LastChange>2010-12-24T06:59:07</LastChange></Metadata>
+	<Page imageFilename="00443662.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/>
+	<RegionRefIndexed regionRef="r14" index="3"/>
+	<RegionRefIndexed regionRef="r8" index="4"/>
+	<RegionRefIndexed regionRef="r15" index="5"/>
+	<RegionRefIndexed regionRef="r16" index="6"/>
+	<RegionRefIndexed regionRef="r10" index="7"/>
+	<RegionRefIndexed regionRef="r27" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1415" y="124"/>
+	<Point x="1577" y="124"/>
+	<Point x="1577" y="264"/>
+	<Point x="1415" y="264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>649</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="154" y="349"/>
+	<Point x="1383" y="349"/>
+	<Point x="1383" y="473"/>
+	<Point x="154" y="473"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CANCION DECIMA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="254" y="1083"/>
+	<Point x="1286" y="1083"/>
+	<Point x="1286" y="1216"/>
+	<Point x="254" y="1216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DECLARACION.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="134" y="1270"/>
+	<Point x="1537" y="1284"/>
+	<Point x="1530" y="1754"/>
+	<Point x="51" y="1746"/>
+	<Point x="56" y="1410"/>
+	<Point x="132" y="1410"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rogue en la preſente Canciõ, pidido al Amado-
+quiera ya poner termino a ſus anas i penas, pues
+no ai otro que bae para hazerlo no ſolo el, i que ſea
+demanera que le puedan ver los ojos de ſu alma; pues
+ſolo el es la luz en que eos miran, i ea no los quiere
+emplear en otra coſa no ſolo en el, diziendo:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="198" y="1891"/>
+	<Point x="532" y="1920"/>
+	<Point x="582" y="1901"/>
+	<Point x="626" y="1918"/>
+	<Point x="642" y="1904"/>
+	<Point x="652" y="1896"/>
+	<Point x="711" y="1901"/>
+	<Point x="752" y="1902"/>
+	<Point x="905" y="1918"/>
+	<Point x="1045" y="1897"/>
+	<Point x="1254" y="1894"/>
+	<Point x="1550" y="1896"/>
+	<Point x="1552" y="2306"/>
+	<Point x="1553" y="2565"/>
+	<Point x="1548" y="2734"/>
+	<Point x="1546" y="2792"/>
+	<Point x="60" y="2804"/>
+	<Point x="62" y="2708"/>
+	<Point x="66" y="2420"/>
+	<Point x="62" y="2103"/>
+	<Point x="194" y="2101"/>
+	<Point x="198" y="1935"/>
+	<Point x="201" y="1930"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Iene una propiedad la concupiſcencia del amor, 
+todo lo que no haze i dize, i conviene con aqueo
+que ama la voluntad, la canſa, fatiga i enoja i la
+pone deſabrida, no viendo cumplirſe lo que ea quie-
+re; i a eo i a las fatigas que tiene, por vera Dios, ama
+aqui enojos; los cuales ninguna coſa baa para desha-
+zerlos, no la poſeon del Amado. Por lo cual di-
+ze, que los apague el con ſu preſencia, refrigerandolos
+todos, como haze el agua freſca al que eà fatigado del
+calor, que por eſo uſa aqui dee vocablo, Apaga, para
+dar a entender que ea eà padeciendo con fuego de
+amor.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="credit">
+	<Coords>
+	<Point x="770" y="2918"/>
+	<Point x="1416" y="2918"/>
+	<Point x="1416" y="3006"/>
+	<Point x="770" y="3006"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="520" y="126"/>
+	<Point x="1041" y="126"/>
+	<Point x="1041" y="241"/>
+	<Point x="520" y="241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cancion Decima.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="250" y="533"/>
+	<Point x="1416" y="533"/>
+	<Point x="1416" y="1041"/>
+	<Point x="250" y="1041"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Apaga mis enojos
+Pues que ninguno basta a deshazeos,
+I veante mis ojos,
+Pues eres lumbre deos,
+I ſolo para ti quiero teneos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="drop-capital">
+	<Coords>
+	<Point x="58" y="1278"/>
+	<Point x="56" y="1290"/>
+	<Point x="53" y="1397"/>
+	<Point x="129" y="1395"/>
+	<Point x="130" y="1276"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="485" y="1802"/>
+	<Point x="445" y="1891"/>
+	<Point x="474" y="1888"/>
+	<Point x="557" y="1905"/>
+	<Point x="582" y="1891"/>
+	<Point x="600" y="1902"/>
+	<Point x="623" y="1908"/>
+	<Point x="646" y="1892"/>
+	<Point x="663" y="1884"/>
+	<Point x="710" y="1883"/>
+	<Point x="783" y="1886"/>
+	<Point x="916" y="1898"/>
+	<Point x="1010" y="1892"/>
+	<Point x="998" y="1813"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Apaga mis enojos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="drop-capital">
+	<Coords>
+	<Point x="58" y="1892"/>
+	<Point x="65" y="2058"/>
+	<Point x="187" y="2064"/>
+	<Point x="196" y="1914"/>
+	<Point x="195" y="1892"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="signature-mark">
+	<Coords>
+	<Point x="992" y="2807"/>
+	<Point x="1038" y="2808"/>
+	<Point x="1159" y="2810"/>
+	<Point x="1163" y="2889"/>
+	<Point x="998" y="2890"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tt 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="catch-word">
+	<Coords>
+	<Point x="1415" y="2816"/>
+	<Point x="1413" y="2884"/>
+	<Point x="1562" y="2884"/>
+	<Point x="1560" y="2813"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pues</Unicode></TextEquiv></TextRegion></Page></PcGts>

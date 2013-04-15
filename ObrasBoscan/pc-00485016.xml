@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485016">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T02:03:48</Created>
+	<LastChange>2011-05-12T13:40:44</LastChange></Metadata>
+	<Page imageFilename="00485016.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="372" y="190"/>
+	<Point x="1025" y="179"/>
+	<Point x="1071" y="189"/>
+	<Point x="1442" y="198"/>
+	<Point x="1518" y="200"/>
+	<Point x="1650" y="172"/>
+	<Point x="1650" y="218"/>
+	<Point x="1677" y="1459"/>
+	<Point x="409" y="1454"/>
+	<Point x="372" y="1450"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quando eI amor cobre,
+Noſe como no vi el mal que tenia.
+Tan cauteloſamente me heriã,
+Que apenas lo ſentia.
+Mil vezes dixe en mi, noſe que m' e:
+Y preguntaua a algunos que me vian:
+A queo miſmo  otros lo ſentian.
+Si me dezian que no, miedo cobraua.
+Conſolauame qualquiera doliente
+Malo de mi acidente,
+Y aun yo miſmo tambien me conſolaua.
+Mas ya veys que ſeria,
+Quando tan preo remedios buſcaua.
+Guay del trie que buſca el alegria:
+En eſpecial  mucho lo porfia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="363" y="1481"/>
+	<Point x="1681" y="1495"/>
+	<Point x="1698" y="2748"/>
+	<Point x="1609" y="2760"/>
+	<Point x="1580" y="2739"/>
+	<Point x="1353" y="2740"/>
+	<Point x="1218" y="2771"/>
+	<Point x="512" y="2774"/>
+	<Point x="459" y="2758"/>
+	<Point x="395" y="2745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Coſas n ﬁn y nueuas
+Hazia noſe como, n penſaas.
+La nouedad ya de' as me' ſpantaua,
+Y no oſaua miraas.
+Tentaua mi remedio con mil prueuas.
+Alguna vez con maña me' ſcapaua:
+Mas era mucho lo que atras dexaua.
+Crecia el miedo delo por venir,
+Yo ocorrianme mil coſas contadas,
+Que' auan oluidadas,
+Por eſpantarme, v hazerme morir.
+Eos temores tales
+M'apretauan a deear biuir.
+Ya quiera hurtarme de mis males:
+Porque vi empre en mi malas ſeñales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="622" y="3009"/>
+	<Point x="1403" y="3010"/>
+	<Point x="1400" y="3089"/>
+	<Point x="622" y="3090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="1357" y="2746"/>
+	<Point x="1359" y="2839"/>
+	<Point x="1550" y="2843"/>
+	<Point x="1559" y="2751"/>
+	<Point x="1543" y="2743"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E iiij</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1081" y="73"/>
+	<Point x="1081" y="160"/>
+	<Point x="1104" y="171"/>
+	<Point x="1489" y="176"/>
+	<Point x="1506" y="175"/>
+	<Point x="1528" y="160"/>
+	<Point x="1528" y="73"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. XXIIII.</Unicode></TextEquiv></TextRegion></Page></PcGts>

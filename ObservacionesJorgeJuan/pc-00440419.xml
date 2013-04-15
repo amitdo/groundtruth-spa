@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440419">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T11:07:50</Created>
+	<LastChange>2011-12-19T11:39:10</LastChange></Metadata>
+	<Page imageFilename="00440419.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="699" y="854"/>
+	<Point x="1528" y="867"/>
+	<Point x="1582" y="861"/>
+	<Point x="2121" y="882"/>
+	<Point x="2645" y="897"/>
+	<Point x="2634" y="1502"/>
+	<Point x="811" y="1502"/>
+	<Point x="806" y="1522"/>
+	<Point x="705" y="1522"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eos ſon los unicos Problemas uſuales de Navegacion,
+porque los otros dos, que ſobre el Triangulo CAB ſe pue-
+den formar, mas ſon de mera curiodad, que de prove‐
+cho; y aſsi ſerà mejor omitirlos, por no confundir los
+Pilotos, poco verſados; pues los que fueren habiles, po‐
+dràn eos miſmos reſolverlos, quedando inruìdos de lo
+que antes ſe dixo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="703" y="1534"/>
+	<Point x="856" y="1535"/>
+	<Point x="858" y="1516"/>
+	<Point x="2627" y="1525"/>
+	<Point x="2624" y="2305"/>
+	<Point x="707" y="2305"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En quanto à la Navegacion Ee Oee, no he pueo
+Exemplo alguno, porque eos Problemas ſe deben reſol‐
+ver ſegun el methodo antiguo, que conviene igualmente
+à èe. Entre eos ſe havrà notado una diferencia con‐
+derable, para los que aprecian la exaitud; y deſeo que
+ſu utilidad haga, que todos reﬂexionen ſobre el methodo,
+que huvieren de elegir, para la praica, y uſar, para el
+total acierto de coſa tan importante.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r4">
+	<Coords>
+	<Point x="1170" y="2342"/>
+	<Point x="2142" y="2342"/>
+	<Point x="2142" y="3146"/>
+	<Point x="1170" y="3146"/></Coords></ImageRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="2398" y="3416"/>
+	<Point x="2585" y="3416"/>
+	<Point x="2585" y="3520"/>
+	<Point x="2398" y="3520"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>IN-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="981" y="4016"/>
+	<Point x="1948" y="4016"/>
+	<Point x="1948" y="4092"/>
+	<Point x="981" y="4092"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r11">
+	<Coords>
+	<Point x="682" y="484"/>
+	<Point x="2657" y="486"/>
+	<Point x="2653" y="891"/>
+	<Point x="2066" y="873"/>
+	<Point x="1511" y="850"/>
+	<Point x="679" y="834"/></Coords></TableRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="692" y="373"/>
+	<Point x="949" y="373"/>
+	<Point x="949" y="478"/>
+	<Point x="692" y="478"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>396</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="header">
+	<Coords>
+	<Point x="1280" y="373"/>
+	<Point x="2069" y="373"/>
+	<Point x="2069" y="480"/>
+	<Point x="1280" y="480"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r24" type="stamp">
+	<Coords>
+	<Point x="1279" y="3253"/>
+	<Point x="1942" y="3253"/>
+	<Point x="1942" y="3948"/>
+	<Point x="1279" y="3948"/></Coords></GraphicRegion></Page></PcGts>

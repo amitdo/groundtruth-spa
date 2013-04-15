@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441580">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T14:36:27</Created>
+	<LastChange>2011-06-24T14:05:03</LastChange></Metadata>
+	<Page imageFilename="00441580.tif" imageWidth="1444" imageHeight="2304">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/>
+	<RegionRefIndexed regionRef="r12" index="1"/></OrderedGroup></ReadingOrder>
+	<GraphicRegion id="r11" type="stamp">
+	<Coords>
+	<Point x="56" y="1907"/>
+	<Point x="313" y="1907"/>
+	<Point x="313" y="2192"/>
+	<Point x="56" y="2192"/></Coords></GraphicRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="408" y="1913"/>
+	<Point x="921" y="1913"/>
+	<Point x="921" y="2113"/>
+	<Point x="408" y="2113"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FIN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="credit">
+	<Coords>
+	<Point x="360" y="2191"/>
+	<Point x="1056" y="2191"/>
+	<Point x="1057" y="2294"/>
+	<Point x="360" y="2287"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="156" y="91"/>
+	<Point x="1265" y="91"/>
+	<Point x="1265" y="1891"/>
+	<Point x="156" y="1891"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſu mierioſa ciencia
+deueran la mas clara inteligencia,
+templo mas eſplendente,
+que fatigas humanas erigieron.
+Sonò (eſpirando con fatal dilubio,
+humo el Edua, centeas el Veſubio)
+el alto Polifemo,
+del Faro odioſo al Promontorio eremo:
+mas ya por don Garcia
+ſu fama comprehende
+quanto del Sol el viuo rayo enciende,
+y quanto el arco Borèal enfria.
+Faltaràn votos à los ſacros Lares,
+morira el Fenis nfragar aromas,
+mas dee monumento en los altares
+viuiràn empre ſepulcrales gomas.
+No impone ﬁn la pira ſuntuoſa
+(ò Cordoues Lucano)
+no impone metas al viuir humano
+la inſcripcion decoroſa,
+mucho te queda de perpetua vida
+en ea generoſa
+vanidad a tus meritos deuida.
+Igualmente los dos merecan Lauro
+famoſos ya del Bariano, al Mauro,
+igualmente los dos ſon inmortales,
+(ò Duque eſclarecido)
+alternando memorias al oluido:
+don Garcia en ſus lumbres eſpirales,
+don Luis en ſus numeros vocales.</Unicode></TextEquiv></TextRegion></Page></PcGts>

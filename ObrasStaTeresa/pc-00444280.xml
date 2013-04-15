@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444280">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:20:09</Created>
+	<LastChange>2011-12-19T11:39:35</LastChange></Metadata>
+	<Page imageFilename="00444280.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1782" y="2675"/>
+	<Point x="2041" y="2676"/>
+	<Point x="2026" y="2766"/>
+	<Point x="1931" y="2781"/>
+	<Point x="1797" y="2766"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>te, que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="618" y="3073"/>
+	<Point x="1570" y="3073"/>
+	<Point x="1570" y="3156"/>
+	<Point x="618" y="3156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="483" y="251"/>
+	<Point x="1350" y="245"/>
+	<Point x="2080" y="252"/>
+	<Point x="2066" y="2667"/>
+	<Point x="1676" y="2666"/>
+	<Point x="1624" y="2667"/>
+	<Point x="1624" y="2694"/>
+	<Point x="486" y="2685"/>
+	<Point x="486" y="2450"/>
+	<Point x="482" y="1478"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>el alma querria ſalir de ea. Quien no vuiere
+prouado eos impetus tan grandes, es impoſ
+ble poderlo entender, que no es deſaoſsie-
+go del pecho, ni vnas deuociones que ſuelen
+dar muchas vezes, que parece ahogan el ſpi-
+ritu, que no cabe en , ea es oracion mas ba
+xa, y hanſe de quitar eos aceleramientos cõ
+procurar con ſuauidad recogerlos dentro de
+, y acaar el alma, que es eo como vnos ni
+ños que tienen vn acelerado orar, que pare-
+ce vã ahogarſe, y cõ darles a beuer, cea aquel
+demaado ſentimiento, an aca la razon ata-
+ge a encoger la rienda, porque podria ſer ayu
+dar el miſmo natural, buelua la conderaciõ
+cõ temer no es todo perfeto, no que puede
+ſer mucha parte ſenſual, y acae ee niño cõ
+vn regalo de amor, que la haga mouer a amar
+por via ſuaue, y no a puñadas, como dizen,
+que recogen ee amor dẽtro, y no como oa
+que cueze demaado, porque ſe pone la leña
+n diſcrecion, y ſe vierte toda, no que mo-
+deren la cauſa que tomaron para ee fuego, y
+procuren amatar la ama con lagrimas ſua-
+ues, y no penoſas, que lo ſon las de eos ſen-
+timientos, y hazen mucho daño, yo las tuue
+algunas vezes a los principios, y dexauanme
+perdida la cabeça, y canſado el ſpiritu de ſuer</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="509" y="151"/>
+	<Point x="652" y="151"/>
+	<Point x="652" y="245"/>
+	<Point x="509" y="245"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>352</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="942" y="116"/>
+	<Point x="1621" y="116"/>
+	<Point x="1621" y="230"/>
+	<Point x="942" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

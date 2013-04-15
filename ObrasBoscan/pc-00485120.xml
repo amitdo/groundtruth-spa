@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485120">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T11:15:11</Created>
+	<LastChange>2011-05-12T13:40:56</LastChange></Metadata>
+	<Page imageFilename="00485120.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="600" y="140"/>
+	<Point x="1142" y="138"/>
+	<Point x="1130" y="224"/>
+	<Point x="596" y="214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="628" y="3021"/>
+	<Point x="1391" y="3026"/>
+	<Point x="1392" y="3096"/>
+	<Point x="629" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="406" y="220"/>
+	<Point x="1141" y="232"/>
+	<Point x="1175" y="225"/>
+	<Point x="1544" y="227"/>
+	<Point x="1541" y="2674"/>
+	<Point x="1496" y="2694"/>
+	<Point x="1484" y="2687"/>
+	<Point x="1415" y="2684"/>
+	<Point x="1207" y="2688"/>
+	<Point x="1199" y="2690"/>
+	<Point x="1194" y="2722"/>
+	<Point x="406" y="2722"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y viaſe tambien claro en ſu alma,
+Que a tal alma tal cuerpo ſe deuia.
+Leuantaua los ojos a ſu tiempo,
+Sin parecer que s'acordaua deo,
+Dando con vn deſcuydo mil cuydados.
+El andar, el mirar, el ear queda,
+Andauan en tal ſon, que deſcubrian
+Vn cierto noſeque tan admirable,
+Tan ten dido por todo, y por ſus partes
+Con tal orden, y fuerça recogido,
+Que era impoible dae lugar cierto:
+Y con ſu luz tan preo daua el golpe,
+Que ﬁn herir, al parecer, mataua,
+Como rayo, que mata al primer punto.
+Las tres gracias, que dizen los Poetas,
+Que no ſon no tres, eran en ea
+Inﬁnitas, ſegun todos dezian.
+Vnos dezian,  Iupiter la viera
+Los dias, que acordo d'andar vagando
+En diuerſas ﬁguras traſformado:
+Quan lexos fuera Leda de ſer madre
+De Caor, y de Poux, y d' Helena:
+Y quan lexos de ſer Danae burlada,
+Sintiendoſe ouer oro en lus haldas:
+Dezien otros, por ea fuera bueno,
+No por Briſeis, deſauenirſe Achies
+D' Agamenon, y'arſe ai en ſu tienda
+Cantando, y lamentando ſus congoxas,
+Y dexando morir los tries griegos
+Debaxe dela cruda'ſpada d'Heor.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1206" y="218"/>
+	<Point x="1180" y="172"/>
+	<Point x="1206" y="128"/>
+	<Point x="1622" y="128"/>
+	<Point x="1622" y="218"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. LXXVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="1220" y="2692"/>
+	<Point x="1213" y="2783"/>
+	<Point x="1460" y="2780"/>
+	<Point x="1446" y="2692"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M iiij.</Unicode></TextEquiv></TextRegion></Page></PcGts>

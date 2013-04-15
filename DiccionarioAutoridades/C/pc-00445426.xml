@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00445426">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T18:58:39</Created>
+	<LastChange>2011-10-12T11:02:14</LastChange></Metadata>
+	<Page imageFilename="00445426.tif" imageWidth="2783" imageHeight="4005">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r11" index="0"/>
+	<RegionRefIndexed regionRef="r15" index="1"/>
+	<RegionRefIndexed regionRef="r19" index="2"/>
+	<RegionRefIndexed regionRef="r23" index="3"/>
+	<RegionRefIndexed regionRef="r27" index="4"/>
+	<RegionRefIndexed regionRef="r29" index="5"/>
+	<RegionRefIndexed regionRef="r35" index="6"/>
+	<RegionRefIndexed regionRef="r37" index="7"/>
+	<RegionRefIndexed regionRef="r39" index="8"/>
+	<RegionRefIndexed regionRef="r43" index="9"/>
+	<RegionRefIndexed regionRef="r47" index="10"/>
+	<RegionRefIndexed regionRef="r51" index="11"/>
+	<RegionRefIndexed regionRef="r55" index="12"/>
+	<RegionRefIndexed regionRef="r57" index="13"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="729" y="232"/>
+	<Point x="926" y="228"/>
+	<Point x="927" y="244"/>
+	<Point x="932" y="291"/>
+	<Point x="834" y="294"/>
+	<Point x="731" y="294"/>
+	<Point x="729" y="264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAN</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="988" y="3885"/>
+	<Point x="1195" y="3884"/>
+	<Point x="1915" y="3873"/>
+	<Point x="1939" y="3877"/>
+	<Point x="1933" y="3961"/>
+	<Point x="1809" y="3971"/>
+	<Point x="1747" y="3969"/>
+	<Point x="1003" y="3970"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1329" y="381"/>
+	<Point x="1330" y="381"/>
+	<Point x="1330" y="485"/>
+	<Point x="1331" y="485"/>
+	<Point x="1331" y="590"/>
+	<Point x="1332" y="590"/>
+	<Point x="1332" y="655"/>
+	<Point x="1312" y="655"/>
+	<Point x="1280" y="657"/>
+	<Point x="1247" y="657"/>
+	<Point x="1215" y="658"/>
+	<Point x="1182" y="659"/>
+	<Point x="1153" y="660"/>
+	<Point x="1118" y="661"/>
+	<Point x="1085" y="662"/>
+	<Point x="1053" y="663"/>
+	<Point x="1020" y="664"/>
+	<Point x="988" y="665"/>
+	<Point x="893" y="675"/>
+	<Point x="858" y="669"/>
+	<Point x="826" y="670"/>
+	<Point x="793" y="671"/>
+	<Point x="761" y="672"/>
+	<Point x="728" y="673"/>
+	<Point x="696" y="676"/>
+	<Point x="632" y="682"/>
+	<Point x="591" y="676"/>
+	<Point x="536" y="682"/>
+	<Point x="503" y="685"/>
+	<Point x="469" y="682"/>
+	<Point x="437" y="682"/>
+	<Point x="404" y="683"/>
+	<Point x="372" y="684"/>
+	<Point x="339" y="685"/>
+	<Point x="307" y="686"/>
+	<Point x="292" y="685"/>
+	<Point x="292" y="669"/>
+	<Point x="291" y="669"/>
+	<Point x="291" y="624"/>
+	<Point x="290" y="624"/>
+	<Point x="290" y="579"/>
+	<Point x="289" y="579"/>
+	<Point x="289" y="533"/>
+	<Point x="288" y="533"/>
+	<Point x="288" y="488"/>
+	<Point x="287" y="488"/>
+	<Point x="287" y="443"/>
+	<Point x="286" y="443"/>
+	<Point x="286" y="398"/>
+	<Point x="285" y="398"/>
+	<Point x="285" y="353"/>
+	<Point x="284" y="353"/>
+	<Point x="284" y="308"/>
+	<Point x="283" y="308"/>
+	<Point x="338" y="308"/>
+	<Point x="338" y="307"/>
+	<Point x="393" y="307"/>
+	<Point x="393" y="306"/>
+	<Point x="448" y="306"/>
+	<Point x="448" y="305"/>
+	<Point x="503" y="305"/>
+	<Point x="503" y="304"/>
+	<Point x="558" y="304"/>
+	<Point x="558" y="303"/>
+	<Point x="613" y="303"/>
+	<Point x="613" y="302"/>
+	<Point x="668" y="302"/>
+	<Point x="668" y="301"/>
+	<Point x="723" y="301"/>
+	<Point x="723" y="300"/>
+	<Point x="778" y="300"/>
+	<Point x="778" y="299"/>
+	<Point x="833" y="299"/>
+	<Point x="833" y="298"/>
+	<Point x="888" y="298"/>
+	<Point x="888" y="297"/>
+	<Point x="943" y="297"/>
+	<Point x="943" y="296"/>
+	<Point x="963" y="296"/>
+	<Point x="963" y="295"/>
+	<Point x="982" y="295"/>
+	<Point x="982" y="294"/>
+	<Point x="1001" y="294"/>
+	<Point x="1001" y="293"/>
+	<Point x="1021" y="293"/>
+	<Point x="1021" y="292"/>
+	<Point x="1040" y="292"/>
+	<Point x="1040" y="291"/>
+	<Point x="1059" y="291"/>
+	<Point x="1059" y="290"/>
+	<Point x="1079" y="290"/>
+	<Point x="1079" y="289"/>
+	<Point x="1098" y="289"/>
+	<Point x="1098" y="288"/>
+	<Point x="1117" y="288"/>
+	<Point x="1117" y="287"/>
+	<Point x="1136" y="287"/>
+	<Point x="1136" y="286"/>
+	<Point x="1156" y="286"/>
+	<Point x="1156" y="285"/>
+	<Point x="1175" y="285"/>
+	<Point x="1175" y="284"/>
+	<Point x="1194" y="284"/>
+	<Point x="1194" y="283"/>
+	<Point x="1214" y="283"/>
+	<Point x="1214" y="282"/>
+	<Point x="1233" y="282"/>
+	<Point x="1233" y="281"/>
+	<Point x="1252" y="281"/>
+	<Point x="1252" y="280"/>
+	<Point x="1272" y="280"/>
+	<Point x="1272" y="279"/>
+	<Point x="1291" y="279"/>
+	<Point x="1291" y="278"/>
+	<Point x="1310" y="278"/>
+	<Point x="1310" y="277"/>
+	<Point x="1329" y="277"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cipe del ſuento de ſus vaaos, caigue los
+delítos con afeo de miſericordia, y corte
+animoſamente el miembro podrído ò cancera-
+do, por ſalvar el todo, como buen Médico.
+PELLIC. Argen. part.2. fol.57. Concibió tanta
+ira en el cancerado ánimo, que mandó à los Sol-
+dados que le pueen en prion.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="1332" y="657"/>
+	<Point x="1332" y="694"/>
+	<Point x="1333" y="694"/>
+	<Point x="1333" y="798"/>
+	<Point x="1334" y="798"/>
+	<Point x="1334" y="903"/>
+	<Point x="1335" y="903"/>
+	<Point x="1335" y="973"/>
+	<Point x="1293" y="973"/>
+	<Point x="1247" y="974"/>
+	<Point x="1202" y="975"/>
+	<Point x="1156" y="976"/>
+	<Point x="1110" y="977"/>
+	<Point x="1065" y="978"/>
+	<Point x="1019" y="979"/>
+	<Point x="973" y="980"/>
+	<Point x="928" y="981"/>
+	<Point x="882" y="982"/>
+	<Point x="836" y="983"/>
+	<Point x="791" y="984"/>
+	<Point x="672" y="991"/>
+	<Point x="653" y="990"/>
+	<Point x="638" y="989"/>
+	<Point x="608" y="988"/>
+	<Point x="439" y="1001"/>
+	<Point x="431" y="1002"/>
+	<Point x="390" y="999"/>
+	<Point x="379" y="995"/>
+	<Point x="296" y="995"/>
+	<Point x="296" y="960"/>
+	<Point x="295" y="960"/>
+	<Point x="295" y="805"/>
+	<Point x="294" y="805"/>
+	<Point x="294" y="759"/>
+	<Point x="293" y="759"/>
+	<Point x="292" y="714"/>
+	<Point x="292" y="689"/>
+	<Point x="309" y="688"/>
+	<Point x="341" y="688"/>
+	<Point x="341" y="687"/>
+	<Point x="374" y="686"/>
+	<Point x="406" y="685"/>
+	<Point x="439" y="685"/>
+	<Point x="439" y="684"/>
+	<Point x="439" y="685"/>
+	<Point x="457" y="685"/>
+	<Point x="475" y="686"/>
+	<Point x="511" y="686"/>
+	<Point x="519" y="685"/>
+	<Point x="537" y="684"/>
+	<Point x="580" y="681"/>
+	<Point x="603" y="680"/>
+	<Point x="617" y="682"/>
+	<Point x="642" y="686"/>
+	<Point x="668" y="683"/>
+	<Point x="679" y="682"/>
+	<Point x="689" y="681"/>
+	<Point x="699" y="679"/>
+	<Point x="720" y="678"/>
+	<Point x="730" y="676"/>
+	<Point x="747" y="675"/>
+	<Point x="828" y="672"/>
+	<Point x="864" y="672"/>
+	<Point x="874" y="675"/>
+	<Point x="881" y="677"/>
+	<Point x="885" y="678"/>
+	<Point x="902" y="680"/>
+	<Point x="909" y="679"/>
+	<Point x="923" y="678"/>
+	<Point x="950" y="673"/>
+	<Point x="963" y="671"/>
+	<Point x="970" y="670"/>
+	<Point x="984" y="668"/>
+	<Point x="990" y="668"/>
+	<Point x="1022" y="666"/>
+	<Point x="1055" y="666"/>
+	<Point x="1087" y="665"/>
+	<Point x="1120" y="663"/>
+	<Point x="1155" y="662"/>
+	<Point x="1217" y="660"/>
+	<Point x="1282" y="659"/>
+	<Point x="1314" y="658"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CANCEROSO, SA. adj. La coſa que eá inﬁ-
+cionada del cancer ò la parte del cuerpo toca-
+da de ee mal. Lat. Cancro infeus, vitiatus, a,
+um. LAG. Dioſc. lib. I. cap. 69. Mundiﬁca las
+agas ſucias, hinche las hondas, y ﬁnalmente
+atája las canceróſas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1335" y="1007"/>
+	<Point x="1336" y="1007"/>
+	<Point x="1336" y="1111"/>
+	<Point x="1337" y="1111"/>
+	<Point x="1337" y="1187"/>
+	<Point x="1251" y="1187"/>
+	<Point x="1163" y="1189"/>
+	<Point x="1076" y="1189"/>
+	<Point x="988" y="1190"/>
+	<Point x="901" y="1191"/>
+	<Point x="813" y="1192"/>
+	<Point x="725" y="1194"/>
+	<Point x="638" y="1194"/>
+	<Point x="550" y="1195"/>
+	<Point x="465" y="1197"/>
+	<Point x="374" y="1198"/>
+	<Point x="297" y="1198"/>
+	<Point x="297" y="1115"/>
+	<Point x="296" y="1115"/>
+	<Point x="296" y="997"/>
+	<Point x="404" y="1002"/>
+	<Point x="438" y="1003"/>
+	<Point x="456" y="1001"/>
+	<Point x="470" y="1001"/>
+	<Point x="470" y="1000"/>
+	<Point x="484" y="1000"/>
+	<Point x="484" y="999"/>
+	<Point x="498" y="999"/>
+	<Point x="498" y="998"/>
+	<Point x="512" y="998"/>
+	<Point x="512" y="997"/>
+	<Point x="526" y="997"/>
+	<Point x="526" y="996"/>
+	<Point x="540" y="996"/>
+	<Point x="540" y="995"/>
+	<Point x="554" y="995"/>
+	<Point x="554" y="994"/>
+	<Point x="568" y="994"/>
+	<Point x="568" y="993"/>
+	<Point x="582" y="993"/>
+	<Point x="582" y="992"/>
+	<Point x="596" y="992"/>
+	<Point x="596" y="991"/>
+	<Point x="610" y="991"/>
+	<Point x="610" y="990"/>
+	<Point x="610" y="991"/>
+	<Point x="627" y="991"/>
+	<Point x="627" y="992"/>
+	<Point x="644" y="992"/>
+	<Point x="644" y="993"/>
+	<Point x="686" y="993"/>
+	<Point x="686" y="992"/>
+	<Point x="701" y="992"/>
+	<Point x="701" y="991"/>
+	<Point x="717" y="991"/>
+	<Point x="717" y="990"/>
+	<Point x="732" y="990"/>
+	<Point x="732" y="989"/>
+	<Point x="747" y="989"/>
+	<Point x="747" y="988"/>
+	<Point x="770" y="988"/>
+	<Point x="770" y="987"/>
+	<Point x="793" y="987"/>
+	<Point x="793" y="986"/>
+	<Point x="838" y="986"/>
+	<Point x="838" y="985"/>
+	<Point x="907" y="985"/>
+	<Point x="907" y="984"/>
+	<Point x="930" y="984"/>
+	<Point x="930" y="983"/>
+	<Point x="998" y="983"/>
+	<Point x="998" y="982"/>
+	<Point x="1021" y="982"/>
+	<Point x="1021" y="981"/>
+	<Point x="1067" y="981"/>
+	<Point x="1067" y="980"/>
+	<Point x="1112" y="980"/>
+	<Point x="1112" y="979"/>
+	<Point x="1158" y="979"/>
+	<Point x="1158" y="978"/>
+	<Point x="1204" y="978"/>
+	<Point x="1204" y="977"/>
+	<Point x="1295" y="977"/>
+	<Point x="1295" y="976"/>
+	<Point x="1335" y="976"/>
+	<Point x="1335" y="975"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CANCHELAGUA. ſ. f. Hierba ſemejante en el
+color, y hechura à la paja delgada y larga.
+Viene de Indias y es buena para muchas en-
+fermedades.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1337" y="1189"/>
+	<Point x="1337" y="1320"/>
+	<Point x="1339" y="1320"/>
+	<Point x="1339" y="1424"/>
+	<Point x="1340" y="1424"/>
+	<Point x="1340" y="1529"/>
+	<Point x="1341" y="1529"/>
+	<Point x="1341" y="1594"/>
+	<Point x="1340" y="1594"/>
+	<Point x="1301" y="1595"/>
+	<Point x="1261" y="1596"/>
+	<Point x="1246" y="1597"/>
+	<Point x="1223" y="1598"/>
+	<Point x="1182" y="1599"/>
+	<Point x="1143" y="1599"/>
+	<Point x="1103" y="1600"/>
+	<Point x="1064" y="1601"/>
+	<Point x="1024" y="1602"/>
+	<Point x="985" y="1603"/>
+	<Point x="945" y="1604"/>
+	<Point x="906" y="1605"/>
+	<Point x="866" y="1606"/>
+	<Point x="827" y="1607"/>
+	<Point x="796" y="1609"/>
+	<Point x="761" y="1614"/>
+	<Point x="746" y="1611"/>
+	<Point x="707" y="1611"/>
+	<Point x="669" y="1613"/>
+	<Point x="624" y="1618"/>
+	<Point x="576" y="1614"/>
+	<Point x="542" y="1618"/>
+	<Point x="473" y="1618"/>
+	<Point x="451" y="1622"/>
+	<Point x="422" y="1620"/>
+	<Point x="353" y="1619"/>
+	<Point x="300" y="1621"/>
+	<Point x="300" y="1580"/>
+	<Point x="299" y="1580"/>
+	<Point x="299" y="1425"/>
+	<Point x="298" y="1425"/>
+	<Point x="298" y="1270"/>
+	<Point x="297" y="1270"/>
+	<Point x="297" y="1200"/>
+	<Point x="465" y="1200"/>
+	<Point x="465" y="1199"/>
+	<Point x="509" y="1199"/>
+	<Point x="509" y="1198"/>
+	<Point x="552" y="1198"/>
+	<Point x="552" y="1197"/>
+	<Point x="699" y="1197"/>
+	<Point x="699" y="1196"/>
+	<Point x="757" y="1196"/>
+	<Point x="757" y="1195"/>
+	<Point x="815" y="1195"/>
+	<Point x="815" y="1194"/>
+	<Point x="903" y="1194"/>
+	<Point x="903" y="1193"/>
+	<Point x="990" y="1193"/>
+	<Point x="990" y="1192"/>
+	<Point x="1078" y="1192"/>
+	<Point x="1078" y="1191"/>
+	<Point x="1209" y="1191"/>
+	<Point x="1209" y="1190"/>
+	<Point x="1253" y="1190"/>
+	<Point x="1253" y="1189"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CANCILLA.ſ. f. Puerta hecha de palos apar-
+tados el uno del otro à manéra de rejas con
+ſus atraveſaños, que de ordinario rve, y ſe
+uſa para cerrar los huertos, plantéles, y corrá-
+les. Es voz uſada en Extremadura, y otras par-
+tes, y ſale al parecer del nombre Cancél, co-
+mo  ſe dixee Cancél pequeño. Lat. Porta ex
+tranſvers lignis conrua.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="1341" y="1597"/>
+	<Point x="1341" y="1633"/>
+	<Point x="1342" y="1633"/>
+	<Point x="1342" y="1738"/>
+	<Point x="1343" y="1738"/>
+	<Point x="1343" y="1842"/>
+	<Point x="1344" y="1842"/>
+	<Point x="1344" y="1946"/>
+	<Point x="1345" y="1946"/>
+	<Point x="1345" y="2051"/>
+	<Point x="1346" y="2051"/>
+	<Point x="1346" y="2155"/>
+	<Point x="1347" y="2155"/>
+	<Point x="1347" y="2259"/>
+	<Point x="1348" y="2259"/>
+	<Point x="1348" y="2364"/>
+	<Point x="1349" y="2364"/>
+	<Point x="1349" y="2468"/>
+	<Point x="1350" y="2468"/>
+	<Point x="1350" y="2572"/>
+	<Point x="1351" y="2572"/>
+	<Point x="1351" y="2677"/>
+	<Point x="1352" y="2781"/>
+	<Point x="1353" y="2781"/>
+	<Point x="1353" y="2886"/>
+	<Point x="1354" y="2990"/>
+	<Point x="1355" y="3094"/>
+	<Point x="1356" y="3094"/>
+	<Point x="1356" y="3199"/>
+	<Point x="1357" y="3199"/>
+	<Point x="1357" y="3303"/>
+	<Point x="1358" y="3303"/>
+	<Point x="1358" y="3407"/>
+	<Point x="1359" y="3407"/>
+	<Point x="1359" y="3553"/>
+	<Point x="681" y="3565"/>
+	<Point x="658" y="3571"/>
+	<Point x="434" y="3567"/>
+	<Point x="312" y="3568"/>
+	<Point x="312" y="3440"/>
+	<Point x="311" y="3440"/>
+	<Point x="311" y="3285"/>
+	<Point x="310" y="3285"/>
+	<Point x="310" y="3130"/>
+	<Point x="309" y="3130"/>
+	<Point x="309" y="2975"/>
+	<Point x="308" y="2975"/>
+	<Point x="308" y="2820"/>
+	<Point x="307" y="2820"/>
+	<Point x="307" y="2665"/>
+	<Point x="306" y="2665"/>
+	<Point x="306" y="2510"/>
+	<Point x="305" y="2510"/>
+	<Point x="305" y="2355"/>
+	<Point x="304" y="2355"/>
+	<Point x="304" y="2200"/>
+	<Point x="303" y="2200"/>
+	<Point x="303" y="2045"/>
+	<Point x="302" y="2045"/>
+	<Point x="302" y="1890"/>
+	<Point x="301" y="1890"/>
+	<Point x="301" y="1735"/>
+	<Point x="300" y="1735"/>
+	<Point x="300" y="1623"/>
+	<Point x="363" y="1622"/>
+	<Point x="399" y="1623"/>
+	<Point x="433" y="1622"/>
+	<Point x="452" y="1624"/>
+	<Point x="471" y="1620"/>
+	<Point x="533" y="1620"/>
+	<Point x="632" y="1619"/>
+	<Point x="642" y="1619"/>
+	<Point x="651" y="1618"/>
+	<Point x="660" y="1617"/>
+	<Point x="690" y="1614"/>
+	<Point x="710" y="1614"/>
+	<Point x="747" y="1613"/>
+	<Point x="752" y="1614"/>
+	<Point x="752" y="1615"/>
+	<Point x="774" y="1615"/>
+	<Point x="774" y="1614"/>
+	<Point x="781" y="1613"/>
+	<Point x="787" y="1613"/>
+	<Point x="787" y="1612"/>
+	<Point x="811" y="1611"/>
+	<Point x="829" y="1609"/>
+	<Point x="867" y="1608"/>
+	<Point x="908" y="1607"/>
+	<Point x="947" y="1606"/>
+	<Point x="987" y="1606"/>
+	<Point x="1026" y="1604"/>
+	<Point x="1066" y="1603"/>
+	<Point x="1105" y="1602"/>
+	<Point x="1145" y="1601"/>
+	<Point x="1184" y="1600"/>
+	<Point x="1263" y="1600"/>
+	<Point x="1303" y="1598"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CANCILLER.ſ. f. Oﬁcio de grande eima-
+cion, y ſegundo Oﬁcial en la Caſa del Rey en
+Eſpaña:cuya grande autoridad ſe reconoce de
+la ley 4. tit. 9. patt. 2. Canciér ( dice ) es el ſe-
+gundo Oﬁcial de la Caſa del Rey, de aqueos que
+tienen oﬁcios de paridád. Su autoridad conia
+en tener el ſeo Real, y en deſpachar con el
+Rey. Oy ee empléo en Eſpaña no ſube
+con la autoridad que antes, pues aunque los
+Deſpachos ſe ſean en nombre del Canciér
+Mayór, no eán en ſu poder los ſeos en la
+Corte. En las Chancierías de Vaadolid, y
+Granada, y modernamente en las Audiencias
+de la Corona de Aragón, como Canciér Ma-
+yór de Caia rve por ſus Thenientes el
+Marqués de Aguilar de Campoo. En el Con-
+ſéjo de indias rve de Canciér Mayór el
+Marqués del Carpio, y tiene grande autori-
+dad, porque prede à falta de los Predentes.
+Algunas veces ha havido Canciéres en los
+Conſéjos de Ordenes, y Hacienda, por gracia
+eſpecial del Rey. Su etymología paréce viene
+del verbo Cancelar, por lo miſmo que dice la
+citada ley 4. tit.9. part. 2. E eo es porque todas
+las coſas, que él ha de librar por cartas, de qual-
+quier manéra quier que ſean, han de ſer con ſu ſa-
+biduria, è él las debe vér antes que las ſeen, por
+guardar que no ſean dadas contra derecho, por ma-
+néra que el Rey non reſciba ende daño, nín ver-
+güenza. E  faae que alguna hi havia que non
+fuee aſsi fecha, debela romper, ò deſatar con la pe-
+ñola à que dicen en Latin Canceare. Algunos di-
+cen Chanciér; pero es corrupcion, pues ſe-
+gun ſu orígen ſe debe decir Canciér. Lat.
+Cancearius. Supremus rei forens ae tabulari
+prfeus. SALAZ.DE MEND.Dign. de Ca.lib.
+2. cap.8. No tienen otra ocupacion los Canci-
+éres mas que la de los ſeos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1362" y="3720"/>
+	<Point x="1331" y="3720"/>
+	<Point x="1331" y="3721"/>
+	<Point x="1301" y="3721"/>
+	<Point x="1301" y="3722"/>
+	<Point x="1271" y="3722"/>
+	<Point x="1271" y="3723"/>
+	<Point x="1241" y="3723"/>
+	<Point x="1241" y="3724"/>
+	<Point x="1211" y="3724"/>
+	<Point x="1211" y="3725"/>
+	<Point x="1181" y="3725"/>
+	<Point x="1181" y="3726"/>
+	<Point x="1150" y="3726"/>
+	<Point x="1150" y="3727"/>
+	<Point x="1120" y="3727"/>
+	<Point x="1120" y="3728"/>
+	<Point x="1090" y="3728"/>
+	<Point x="1090" y="3729"/>
+	<Point x="1060" y="3729"/>
+	<Point x="1060" y="3730"/>
+	<Point x="1030" y="3730"/>
+	<Point x="1030" y="3731"/>
+	<Point x="1000" y="3731"/>
+	<Point x="1000" y="3732"/>
+	<Point x="969" y="3732"/>
+	<Point x="969" y="3733"/>
+	<Point x="939" y="3733"/>
+	<Point x="939" y="3734"/>
+	<Point x="909" y="3734"/>
+	<Point x="909" y="3735"/>
+	<Point x="879" y="3735"/>
+	<Point x="879" y="3736"/>
+	<Point x="849" y="3736"/>
+	<Point x="849" y="3737"/>
+	<Point x="819" y="3737"/>
+	<Point x="819" y="3738"/>
+	<Point x="788" y="3738"/>
+	<Point x="788" y="3739"/>
+	<Point x="758" y="3739"/>
+	<Point x="758" y="3740"/>
+	<Point x="728" y="3740"/>
+	<Point x="728" y="3741"/>
+	<Point x="698" y="3741"/>
+	<Point x="698" y="3742"/>
+	<Point x="668" y="3742"/>
+	<Point x="668" y="3743"/>
+	<Point x="638" y="3743"/>
+	<Point x="638" y="3744"/>
+	<Point x="608" y="3744"/>
+	<Point x="608" y="3745"/>
+	<Point x="558" y="3745"/>
+	<Point x="558" y="3746"/>
+	<Point x="509" y="3746"/>
+	<Point x="509" y="3747"/>
+	<Point x="460" y="3747"/>
+	<Point x="460" y="3748"/>
+	<Point x="411" y="3748"/>
+	<Point x="411" y="3749"/>
+	<Point x="362" y="3749"/>
+	<Point x="362" y="3750"/>
+	<Point x="313" y="3750"/>
+	<Point x="313" y="3751"/>
+	<Point x="313" y="3595"/>
+	<Point x="312" y="3595"/>
+	<Point x="313" y="3572"/>
+	<Point x="432" y="3570"/>
+	<Point x="655" y="3573"/>
+	<Point x="681" y="3567"/>
+	<Point x="1366" y="3555"/>
+	<Point x="1367" y="3706"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CANCILLER. Se ama tambien el que tiene la
+autoridad para dár los grados en las Univer-
+dades. Lo miſmo.que Cancelário. RECOP.DE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="header">
+	<Coords>
+	<Point x="1918" y="204"/>
+	<Point x="1919" y="268"/>
+	<Point x="1740" y="269"/>
+	<Point x="1741" y="208"/>
+	<Point x="1841" y="204"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAN</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="page-number">
+	<Coords>
+	<Point x="2291" y="206"/>
+	<Point x="2292" y="274"/>
+	<Point x="2169" y="273"/>
+	<Point x="2168" y="203"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>109</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="2406" y="396"/>
+	<Point x="2407" y="396"/>
+	<Point x="2407" y="514"/>
+	<Point x="2408" y="514"/>
+	<Point x="2408" y="632"/>
+	<Point x="2409" y="632"/>
+	<Point x="2409" y="732"/>
+	<Point x="2345" y="732"/>
+	<Point x="2278" y="733"/>
+	<Point x="2212" y="734"/>
+	<Point x="2145" y="736"/>
+	<Point x="2079" y="736"/>
+	<Point x="2012" y="737"/>
+	<Point x="1946" y="738"/>
+	<Point x="1879" y="739"/>
+	<Point x="1813" y="740"/>
+	<Point x="1746" y="741"/>
+	<Point x="1680" y="743"/>
+	<Point x="1613" y="746"/>
+	<Point x="1603" y="746"/>
+	<Point x="1547" y="747"/>
+	<Point x="1426" y="752"/>
+	<Point x="1355" y="747"/>
+	<Point x="1355" y="675"/>
+	<Point x="1354" y="675"/>
+	<Point x="1354" y="596"/>
+	<Point x="1353" y="517"/>
+	<Point x="1352" y="517"/>
+	<Point x="1352" y="438"/>
+	<Point x="1351" y="438"/>
+	<Point x="1350" y="359"/>
+	<Point x="1350" y="280"/>
+	<Point x="1878" y="280"/>
+	<Point x="1878" y="279"/>
+	<Point x="2406" y="279"/>
+	<Point x="2406" y="278"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>IND. lib. 1. tit. 22.1.16, Ordenámos, que los
+grados de las Univerdades deLima y México
+ſe dén en la Igléa Mayór de aqueas Ciuda-
+des, y los dén los Maere-Eſcuelas en nueſ-
+tro nombre, à los quales por ahóra nombra-
+mos por Canciéres. OñA. Porim.lib.1.cap.8.
+diſc.I. A la deſpedida los gradúa de Doóres
+aquel Canciér ſoberáno, y los hace Predica-
+dóres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords>
+	<Point x="2409" y="734"/>
+	<Point x="2409" y="750"/>
+	<Point x="2410" y="1312"/>
+	<Point x="2029" y="1309"/>
+	<Point x="1495" y="1315"/>
+	<Point x="1360" y="1312"/>
+	<Point x="1359" y="1260"/>
+	<Point x="1359" y="1208"/>
+	<Point x="1358" y="1208"/>
+	<Point x="1358" y="1156"/>
+	<Point x="1357" y="1156"/>
+	<Point x="1357" y="1105"/>
+	<Point x="1356" y="1105"/>
+	<Point x="1355" y="1053"/>
+	<Point x="1355" y="1001"/>
+	<Point x="1354" y="1001"/>
+	<Point x="1353" y="950"/>
+	<Point x="1352" y="898"/>
+	<Point x="1351" y="846"/>
+	<Point x="1352" y="795"/>
+	<Point x="1353" y="771"/>
+	<Point x="1354" y="749"/>
+	<Point x="1414" y="754"/>
+	<Point x="1430" y="754"/>
+	<Point x="1548" y="750"/>
+	<Point x="1615" y="749"/>
+	<Point x="1682" y="745"/>
+	<Point x="1748" y="743"/>
+	<Point x="1881" y="741"/>
+	<Point x="1948" y="740"/>
+	<Point x="2014" y="739"/>
+	<Point x="2081" y="738"/>
+	<Point x="2147" y="737"/>
+	<Point x="2214" y="736"/>
+	<Point x="2280" y="735"/>
+	<Point x="2347" y="734"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CANCILLERIA.ſ. f. Lo miſmo que Cnanci-
+ería: y aunque conforme à ſu orígen, que es
+del nombre Canciér, ſe debiera eſcribir aſsi,
+el uſo eá en contrario, pues comunmente ſe
+dice Chanciería. SALAZ.DE MEND. Dign. de
+Ca. lib.2. cap.7. Los Canciéres en las Cor-
+tes de los Emperadores y Reyes eran Pre-
+dentes de ſus Audiéncias y Tribunáles, y de
+aqui las mas Audiéncias fueron amadas Can-
+cierias, como lo ſon las de Vaadolid y Gra-
+nada.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="2028" y="1315"/>
+	<Point x="2217" y="1315"/>
+	<Point x="2217" y="1316"/>
+	<Point x="2405" y="1316"/>
+	<Point x="2405" y="1428"/>
+	<Point x="2406" y="1428"/>
+	<Point x="2406" y="1540"/>
+	<Point x="2407" y="1540"/>
+	<Point x="2407" y="1651"/>
+	<Point x="2408" y="1651"/>
+	<Point x="2408" y="1763"/>
+	<Point x="2409" y="1763"/>
+	<Point x="2409" y="1875"/>
+	<Point x="2410" y="1875"/>
+	<Point x="2410" y="1971"/>
+	<Point x="2408" y="1971"/>
+	<Point x="2347" y="1972"/>
+	<Point x="2286" y="1973"/>
+	<Point x="2225" y="1974"/>
+	<Point x="2164" y="1975"/>
+	<Point x="2103" y="1976"/>
+	<Point x="2042" y="1977"/>
+	<Point x="1981" y="1978"/>
+	<Point x="1920" y="1979"/>
+	<Point x="1858" y="1980"/>
+	<Point x="1797" y="1981"/>
+	<Point x="1736" y="1985"/>
+	<Point x="1675" y="1988"/>
+	<Point x="1618" y="1986"/>
+	<Point x="1455" y="2003"/>
+	<Point x="1430" y="1991"/>
+	<Point x="1379" y="1988"/>
+	<Point x="1378" y="1956"/>
+	<Point x="1378" y="1916"/>
+	<Point x="1377" y="1916"/>
+	<Point x="1377" y="1876"/>
+	<Point x="1376" y="1876"/>
+	<Point x="1376" y="1836"/>
+	<Point x="1375" y="1836"/>
+	<Point x="1375" y="1796"/>
+	<Point x="1374" y="1796"/>
+	<Point x="1374" y="1756"/>
+	<Point x="1373" y="1756"/>
+	<Point x="1373" y="1716"/>
+	<Point x="1372" y="1716"/>
+	<Point x="1372" y="1676"/>
+	<Point x="1371" y="1676"/>
+	<Point x="1371" y="1637"/>
+	<Point x="1370" y="1637"/>
+	<Point x="1370" y="1597"/>
+	<Point x="1369" y="1597"/>
+	<Point x="1369" y="1557"/>
+	<Point x="1368" y="1557"/>
+	<Point x="1368" y="1517"/>
+	<Point x="1367" y="1517"/>
+	<Point x="1367" y="1477"/>
+	<Point x="1366" y="1477"/>
+	<Point x="1366" y="1437"/>
+	<Point x="1365" y="1437"/>
+	<Point x="1365" y="1397"/>
+	<Point x="1364" y="1397"/>
+	<Point x="1364" y="1357"/>
+	<Point x="1363" y="1357"/>
+	<Point x="1363" y="1318"/>
+	<Point x="1362" y="1318"/>
+	<Point x="1529" y="1318"/>
+	<Point x="1529" y="1317"/>
+	<Point x="1695" y="1317"/>
+	<Point x="1695" y="1316"/>
+	<Point x="1862" y="1316"/>
+	<Point x="1862" y="1315"/>
+	<Point x="2028" y="1315"/>
+	<Point x="2028" y="1314"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CANCION.ſ. f. El metro que ſe hace para can-
+tar, que oy ſe ama generalmente Tono. En-
+tre los Poétas y Múcos es la compocion,
+que por eár en verſo puede cantarſe. Lat.
+Carmen. Canticum. GRAC.Mor.fol.213. En cu-
+ya alabanza el Poéta Euripides hizo aquea
+célebre canción. FR. L. DE GRAN. Trat. de la
+Orac. part. I. Domingo por la mañ. Y can-
+tae antes que muriee, como el Cyſne, aque-
+a dulce canción. RENGIF.Arte Poetic.cap.59.
+Canción es nombre genérico, por el qual ſe
+gniﬁca qualquiera compocion de verſos,
+para cantar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="2410" y="2016"/>
+	<Point x="2411" y="2016"/>
+	<Point x="2411" y="2045"/>
+	<Point x="2413" y="2045"/>
+	<Point x="2413" y="2075"/>
+	<Point x="2414" y="2075"/>
+	<Point x="2414" y="2104"/>
+	<Point x="2415" y="2104"/>
+	<Point x="2415" y="2134"/>
+	<Point x="2416" y="2134"/>
+	<Point x="2416" y="2163"/>
+	<Point x="2417" y="2163"/>
+	<Point x="2417" y="2193"/>
+	<Point x="2418" y="2193"/>
+	<Point x="2418" y="2222"/>
+	<Point x="2419" y="2222"/>
+	<Point x="2419" y="2252"/>
+	<Point x="2420" y="2252"/>
+	<Point x="2420" y="2281"/>
+	<Point x="2421" y="2281"/>
+	<Point x="2421" y="2311"/>
+	<Point x="2422" y="2311"/>
+	<Point x="2422" y="2340"/>
+	<Point x="2423" y="2340"/>
+	<Point x="2423" y="2370"/>
+	<Point x="2424" y="2370"/>
+	<Point x="2424" y="2399"/>
+	<Point x="2425" y="2399"/>
+	<Point x="2425" y="2429"/>
+	<Point x="2426" y="2429"/>
+	<Point x="2426" y="2458"/>
+	<Point x="2427" y="2458"/>
+	<Point x="2427" y="2488"/>
+	<Point x="2428" y="2488"/>
+	<Point x="2428" y="2517"/>
+	<Point x="2429" y="2517"/>
+	<Point x="2429" y="2547"/>
+	<Point x="2430" y="2547"/>
+	<Point x="2430" y="2576"/>
+	<Point x="2431" y="2576"/>
+	<Point x="2431" y="2606"/>
+	<Point x="2432" y="2606"/>
+	<Point x="2432" y="2635"/>
+	<Point x="2433" y="2635"/>
+	<Point x="2433" y="2665"/>
+	<Point x="2434" y="2665"/>
+	<Point x="2434" y="2694"/>
+	<Point x="2435" y="2694"/>
+	<Point x="2435" y="2724"/>
+	<Point x="2436" y="2724"/>
+	<Point x="2436" y="2753"/>
+	<Point x="2437" y="2753"/>
+	<Point x="2437" y="2797"/>
+	<Point x="2358" y="2797"/>
+	<Point x="2260" y="2798"/>
+	<Point x="2164" y="2802"/>
+	<Point x="2073" y="2804"/>
+	<Point x="2007" y="2809"/>
+	<Point x="1982" y="2811"/>
+	<Point x="1969" y="2812"/>
+	<Point x="1873" y="2808"/>
+	<Point x="1771" y="2810"/>
+	<Point x="1676" y="2811"/>
+	<Point x="1574" y="2810"/>
+	<Point x="1483" y="2811"/>
+	<Point x="1390" y="2807"/>
+	<Point x="1390" y="2762"/>
+	<Point x="1389" y="2762"/>
+	<Point x="1389" y="2685"/>
+	<Point x="1388" y="2685"/>
+	<Point x="1388" y="2608"/>
+	<Point x="1387" y="2608"/>
+	<Point x="1387" y="2532"/>
+	<Point x="1386" y="2532"/>
+	<Point x="1386" y="2455"/>
+	<Point x="1385" y="2455"/>
+	<Point x="1385" y="2379"/>
+	<Point x="1384" y="2379"/>
+	<Point x="1384" y="2302"/>
+	<Point x="1383" y="2302"/>
+	<Point x="1383" y="2225"/>
+	<Point x="1382" y="2225"/>
+	<Point x="1382" y="2149"/>
+	<Point x="1381" y="2149"/>
+	<Point x="1381" y="2072"/>
+	<Point x="1380" y="2072"/>
+	<Point x="1380" y="1996"/>
+	<Point x="1379" y="1996"/>
+	<Point x="1379" y="1990"/>
+	<Point x="1379" y="1991"/>
+	<Point x="1392" y="1991"/>
+	<Point x="1392" y="1992"/>
+	<Point x="1404" y="1992"/>
+	<Point x="1404" y="1993"/>
+	<Point x="1416" y="1993"/>
+	<Point x="1416" y="1994"/>
+	<Point x="1428" y="1994"/>
+	<Point x="1428" y="1995"/>
+	<Point x="1430" y="1995"/>
+	<Point x="1430" y="1996"/>
+	<Point x="1432" y="1996"/>
+	<Point x="1432" y="1997"/>
+	<Point x="1434" y="1997"/>
+	<Point x="1434" y="1998"/>
+	<Point x="1436" y="1998"/>
+	<Point x="1436" y="1999"/>
+	<Point x="1438" y="1999"/>
+	<Point x="1438" y="2000"/>
+	<Point x="1440" y="2000"/>
+	<Point x="1440" y="2001"/>
+	<Point x="1442" y="2001"/>
+	<Point x="1442" y="2002"/>
+	<Point x="1444" y="2002"/>
+	<Point x="1444" y="2003"/>
+	<Point x="1446" y="2003"/>
+	<Point x="1446" y="2004"/>
+	<Point x="1448" y="2004"/>
+	<Point x="1448" y="2005"/>
+	<Point x="1450" y="2005"/>
+	<Point x="1450" y="2006"/>
+	<Point x="1452" y="2006"/>
+	<Point x="1452" y="2007"/>
+	<Point x="1454" y="2007"/>
+	<Point x="1454" y="2008"/>
+	<Point x="1464" y="2008"/>
+	<Point x="1464" y="2007"/>
+	<Point x="1472" y="2007"/>
+	<Point x="1472" y="2006"/>
+	<Point x="1481" y="2006"/>
+	<Point x="1481" y="2005"/>
+	<Point x="1489" y="2005"/>
+	<Point x="1489" y="2004"/>
+	<Point x="1498" y="2004"/>
+	<Point x="1498" y="2003"/>
+	<Point x="1506" y="2003"/>
+	<Point x="1506" y="2002"/>
+	<Point x="1514" y="2002"/>
+	<Point x="1514" y="2001"/>
+	<Point x="1523" y="2001"/>
+	<Point x="1523" y="2000"/>
+	<Point x="1531" y="2000"/>
+	<Point x="1531" y="1999"/>
+	<Point x="1540" y="1999"/>
+	<Point x="1540" y="1998"/>
+	<Point x="1548" y="1998"/>
+	<Point x="1548" y="1997"/>
+	<Point x="1557" y="1997"/>
+	<Point x="1557" y="1996"/>
+	<Point x="1565" y="1996"/>
+	<Point x="1565" y="1995"/>
+	<Point x="1573" y="1995"/>
+	<Point x="1573" y="1994"/>
+	<Point x="1582" y="1994"/>
+	<Point x="1582" y="1993"/>
+	<Point x="1590" y="1993"/>
+	<Point x="1590" y="1992"/>
+	<Point x="1599" y="1992"/>
+	<Point x="1599" y="1991"/>
+	<Point x="1607" y="1991"/>
+	<Point x="1607" y="1990"/>
+	<Point x="1615" y="1990"/>
+	<Point x="1615" y="1989"/>
+	<Point x="1615" y="1990"/>
+	<Point x="1698" y="1990"/>
+	<Point x="1698" y="1989"/>
+	<Point x="1718" y="1989"/>
+	<Point x="1718" y="1988"/>
+	<Point x="1738" y="1988"/>
+	<Point x="1738" y="1987"/>
+	<Point x="1759" y="1987"/>
+	<Point x="1759" y="1986"/>
+	<Point x="1779" y="1986"/>
+	<Point x="1779" y="1985"/>
+	<Point x="1799" y="1985"/>
+	<Point x="1799" y="1984"/>
+	<Point x="1830" y="1984"/>
+	<Point x="1830" y="1983"/>
+	<Point x="1860" y="1983"/>
+	<Point x="1860" y="1982"/>
+	<Point x="1922" y="1982"/>
+	<Point x="1922" y="1981"/>
+	<Point x="1983" y="1981"/>
+	<Point x="1983" y="1980"/>
+	<Point x="2044" y="1980"/>
+	<Point x="2044" y="1979"/>
+	<Point x="2105" y="1979"/>
+	<Point x="2105" y="1978"/>
+	<Point x="2166" y="1978"/>
+	<Point x="2166" y="1977"/>
+	<Point x="2227" y="1977"/>
+	<Point x="2227" y="1976"/>
+	<Point x="2319" y="1976"/>
+	<Point x="2319" y="1975"/>
+	<Point x="2349" y="1975"/>
+	<Point x="2349" y="1974"/>
+	<Point x="2410" y="1974"/>
+	<Point x="2410" y="1973"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CANCIÓN. Eſpécie de Poea compuea de una,
+ò muchas eáncias iguales, y en proporciona-
+das cadéncias, excepto la última, en que ha-
+blando con la miſma canción ſuele deſpedirſe
+de ea el Poéta. Aproprióſe à ea eſpécie el
+nombre principál, por ſer la mas excelente
+compoción de los Provenzales y Toſcanos,
+imitada con felicidad por los Eſpañóles. Co-
+ronél en los Comentarios de Góngora, tom. 3.
+fol. 5. dice correſponde à las Odas de Latinos
+y Griegos. Lat. Pſalma. SAAV. Republ.fol.42.
+Y como eos ſon tan próprios de las canciónes
+y elógios, por eo en eas ſe venció à sí miſ-
+mo. SOLIS, Hi. de Nuev.Eſp. lib. 3. cap. 15.
+El ordinário aunto de ſus canciónes eran los
+acaecimientos de ſus mayóres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords>
+	<Point x="2360" y="2800"/>
+	<Point x="2360" y="2801"/>
+	<Point x="2436" y="2801"/>
+	<Point x="2436" y="2815"/>
+	<Point x="2437" y="2815"/>
+	<Point x="2437" y="2829"/>
+	<Point x="2438" y="2829"/>
+	<Point x="2438" y="2842"/>
+	<Point x="2440" y="2842"/>
+	<Point x="2440" y="2871"/>
+	<Point x="2441" y="2871"/>
+	<Point x="2441" y="2901"/>
+	<Point x="2442" y="2930"/>
+	<Point x="2443" y="2948"/>
+	<Point x="2390" y="2949"/>
+	<Point x="2330" y="2949"/>
+	<Point x="2271" y="2951"/>
+	<Point x="2211" y="2951"/>
+	<Point x="2152" y="2953"/>
+	<Point x="2092" y="2953"/>
+	<Point x="2033" y="2954"/>
+	<Point x="1973" y="2955"/>
+	<Point x="1914" y="2956"/>
+	<Point x="1856" y="2972"/>
+	<Point x="1807" y="2968"/>
+	<Point x="1777" y="2970"/>
+	<Point x="1735" y="2962"/>
+	<Point x="1622" y="2971"/>
+	<Point x="1605" y="2976"/>
+	<Point x="1587" y="2970"/>
+	<Point x="1568" y="2972"/>
+	<Point x="1488" y="2975"/>
+	<Point x="1390" y="2972"/>
+	<Point x="1392" y="2915"/>
+	<Point x="1391" y="2915"/>
+	<Point x="1391" y="2838"/>
+	<Point x="1390" y="2838"/>
+	<Point x="1390" y="2809"/>
+	<Point x="1390" y="2810"/>
+	<Point x="1409" y="2810"/>
+	<Point x="1409" y="2811"/>
+	<Point x="1427" y="2811"/>
+	<Point x="1427" y="2812"/>
+	<Point x="1446" y="2812"/>
+	<Point x="1446" y="2813"/>
+	<Point x="1464" y="2813"/>
+	<Point x="1464" y="2814"/>
+	<Point x="1529" y="2814"/>
+	<Point x="1529" y="2813"/>
+	<Point x="1576" y="2813"/>
+	<Point x="1576" y="2812"/>
+	<Point x="1576" y="2813"/>
+	<Point x="1626" y="2813"/>
+	<Point x="1626" y="2814"/>
+	<Point x="1724" y="2814"/>
+	<Point x="1724" y="2813"/>
+	<Point x="1772" y="2813"/>
+	<Point x="1772" y="2812"/>
+	<Point x="1873" y="2812"/>
+	<Point x="1873" y="2811"/>
+	<Point x="1873" y="2812"/>
+	<Point x="1923" y="2812"/>
+	<Point x="1923" y="2813"/>
+	<Point x="1957" y="2814"/>
+	<Point x="1985" y="2813"/>
+	<Point x="1997" y="2811"/>
+	<Point x="2009" y="2811"/>
+	<Point x="2009" y="2810"/>
+	<Point x="2085" y="2806"/>
+	<Point x="2102" y="2807"/>
+	<Point x="2102" y="2806"/>
+	<Point x="2129" y="2806"/>
+	<Point x="2129" y="2805"/>
+	<Point x="2155" y="2805"/>
+	<Point x="2155" y="2804"/>
+	<Point x="2182" y="2804"/>
+	<Point x="2182" y="2803"/>
+	<Point x="2209" y="2803"/>
+	<Point x="2209" y="2802"/>
+	<Point x="2236" y="2802"/>
+	<Point x="2236" y="2801"/>
+	<Point x="2262" y="2801"/>
+	<Point x="2262" y="2800"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Volver à la miſma canción. Phraſe, que denóta la
+importunacion de alguno, à quien ſe le havía
+yá negado lo que pide.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="paragraph">
+	<Coords>
+	<Point x="2443" y="2950"/>
+	<Point x="2443" y="2960"/>
+	<Point x="2444" y="2960"/>
+	<Point x="2444" y="2989"/>
+	<Point x="2445" y="2989"/>
+	<Point x="2445" y="3019"/>
+	<Point x="2446" y="3019"/>
+	<Point x="2446" y="3048"/>
+	<Point x="2447" y="3048"/>
+	<Point x="2447" y="3078"/>
+	<Point x="2448" y="3078"/>
+	<Point x="2448" y="3107"/>
+	<Point x="2449" y="3107"/>
+	<Point x="2449" y="3137"/>
+	<Point x="2450" y="3137"/>
+	<Point x="2450" y="3166"/>
+	<Point x="2451" y="3166"/>
+	<Point x="2451" y="3196"/>
+	<Point x="2452" y="3196"/>
+	<Point x="2452" y="3225"/>
+	<Point x="2453" y="3225"/>
+	<Point x="2453" y="3255"/>
+	<Point x="2454" y="3255"/>
+	<Point x="2454" y="3284"/>
+	<Point x="2455" y="3284"/>
+	<Point x="2455" y="3314"/>
+	<Point x="2456" y="3314"/>
+	<Point x="2456" y="3343"/>
+	<Point x="2457" y="3361"/>
+	<Point x="2418" y="3361"/>
+	<Point x="2374" y="3362"/>
+	<Point x="2331" y="3363"/>
+	<Point x="2287" y="3365"/>
+	<Point x="2244" y="3365"/>
+	<Point x="2200" y="3366"/>
+	<Point x="2157" y="3367"/>
+	<Point x="2113" y="3368"/>
+	<Point x="2069" y="3369"/>
+	<Point x="2026" y="3370"/>
+	<Point x="1982" y="3371"/>
+	<Point x="1939" y="3372"/>
+	<Point x="1895" y="3373"/>
+	<Point x="1852" y="3374"/>
+	<Point x="1808" y="3375"/>
+	<Point x="1765" y="3376"/>
+	<Point x="1721" y="3377"/>
+	<Point x="1677" y="3378"/>
+	<Point x="1634" y="3379"/>
+	<Point x="1590" y="3380"/>
+	<Point x="1547" y="3381"/>
+	<Point x="1503" y="3382"/>
+	<Point x="1460" y="3383"/>
+	<Point x="1416" y="3384"/>
+	<Point x="1397" y="3385"/>
+	<Point x="1397" y="3298"/>
+	<Point x="1396" y="3298"/>
+	<Point x="1396" y="3221"/>
+	<Point x="1395" y="3221"/>
+	<Point x="1394" y="3145"/>
+	<Point x="1393" y="3068"/>
+	<Point x="1392" y="2991"/>
+	<Point x="1392" y="2974"/>
+	<Point x="1488" y="2977"/>
+	<Point x="1578" y="2973"/>
+	<Point x="1606" y="2977"/>
+	<Point x="1628" y="2973"/>
+	<Point x="1737" y="2964"/>
+	<Point x="1754" y="2969"/>
+	<Point x="1779" y="2971"/>
+	<Point x="1806" y="2969"/>
+	<Point x="1855" y="2975"/>
+	<Point x="1885" y="2966"/>
+	<Point x="1916" y="2958"/>
+	<Point x="1975" y="2958"/>
+	<Point x="2035" y="2956"/>
+	<Point x="2154" y="2955"/>
+	<Point x="2213" y="2954"/>
+	<Point x="2273" y="2953"/>
+	<Point x="2332" y="2952"/>
+	<Point x="2392" y="2951"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CANCIONCILLA. ſ. f. dim. de Canción. La
+canción pequéña, corta, ù de poco arte. Lat.
+Cantiuncula. CORR. Cint. fol. 77. Y lo que en-
+tonces no permitió el enójo, explicó en eas
+cancioncias. ALCAZ. Vid.de S. Julian, lib. 1.
+cap.6. Son aqueas cancioncias, que las mu-
+géres ſuelen cantar para diverón de ſus ta-
+réas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r55" type="paragraph">
+	<Coords>
+	<Point x="2457" y="3394"/>
+	<Point x="2458" y="3394"/>
+	<Point x="2458" y="3415"/>
+	<Point x="2459" y="3415"/>
+	<Point x="2459" y="3437"/>
+	<Point x="2460" y="3437"/>
+	<Point x="2460" y="3458"/>
+	<Point x="2462" y="3458"/>
+	<Point x="2462" y="3501"/>
+	<Point x="2463" y="3501"/>
+	<Point x="2463" y="3523"/>
+	<Point x="2464" y="3523"/>
+	<Point x="2464" y="3544"/>
+	<Point x="2465" y="3544"/>
+	<Point x="2465" y="3565"/>
+	<Point x="2466" y="3565"/>
+	<Point x="2466" y="3586"/>
+	<Point x="2468" y="3586"/>
+	<Point x="2468" y="3629"/>
+	<Point x="2471" y="3670"/>
+	<Point x="2322" y="3677"/>
+	<Point x="2010" y="3705"/>
+	<Point x="1841" y="3706"/>
+	<Point x="1396" y="3694"/>
+	<Point x="1396" y="3669"/>
+	<Point x="1395" y="3594"/>
+	<Point x="1394" y="3594"/>
+	<Point x="1395" y="3594"/>
+	<Point x="1395" y="3521"/>
+	<Point x="1396" y="3521"/>
+	<Point x="1396" y="3448"/>
+	<Point x="1397" y="3387"/>
+	<Point x="1418" y="3386"/>
+	<Point x="1462" y="3385"/>
+	<Point x="1527" y="3385"/>
+	<Point x="1527" y="3384"/>
+	<Point x="1549" y="3384"/>
+	<Point x="1549" y="3383"/>
+	<Point x="1636" y="3383"/>
+	<Point x="1636" y="3382"/>
+	<Point x="1680" y="3382"/>
+	<Point x="1680" y="3381"/>
+	<Point x="1723" y="3381"/>
+	<Point x="1723" y="3380"/>
+	<Point x="1745" y="3380"/>
+	<Point x="1745" y="3379"/>
+	<Point x="1767" y="3379"/>
+	<Point x="1767" y="3378"/>
+	<Point x="1810" y="3378"/>
+	<Point x="1810" y="3377"/>
+	<Point x="1854" y="3377"/>
+	<Point x="1854" y="3376"/>
+	<Point x="1897" y="3376"/>
+	<Point x="1897" y="3375"/>
+	<Point x="1984" y="3375"/>
+	<Point x="1984" y="3374"/>
+	<Point x="2006" y="3374"/>
+	<Point x="2006" y="3373"/>
+	<Point x="2028" y="3373"/>
+	<Point x="2028" y="3372"/>
+	<Point x="2071" y="3372"/>
+	<Point x="2071" y="3371"/>
+	<Point x="2159" y="3371"/>
+	<Point x="2159" y="3370"/>
+	<Point x="2202" y="3370"/>
+	<Point x="2202" y="3369"/>
+	<Point x="2231" y="3369"/>
+	<Point x="2231" y="3368"/>
+	<Point x="2260" y="3368"/>
+	<Point x="2260" y="3367"/>
+	<Point x="2289" y="3367"/>
+	<Point x="2289" y="3366"/>
+	<Point x="2333" y="3366"/>
+	<Point x="2333" y="3365"/>
+	<Point x="2420" y="3365"/>
+	<Point x="2420" y="3364"/>
+	<Point x="2457" y="3364"/>
+	<Point x="2457" y="3363"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CANCIONERO.ſ. m. Libro ò quaderno don-
+de eán eſcritas canciónes y poesías, próprias
+para cantar y traher à mano. Viene del nom-
+bre Canción. Lat. Carminum liber.MARM.Deſ-
+cripc. fol.6I. Otros hai de eos meſmos, que
+andan por las caes danzando como ataranta-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r57" type="catch-word">
+	<Coords>
+	<Point x="2471" y="3681"/>
+	<Point x="2474" y="3744"/>
+	<Point x="2474" y="3743"/>
+	<Point x="2286" y="3746"/>
+	<Point x="2283" y="3699"/>
+	<Point x="2282" y="3685"/>
+	<Point x="2351" y="3679"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dos,</Unicode></TextEquiv></TextRegion></Page></PcGts>

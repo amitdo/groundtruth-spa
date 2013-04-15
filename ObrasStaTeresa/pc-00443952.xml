@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443952">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T08:40:19</Created>
+	<LastChange>2011-12-19T11:39:16</LastChange></Metadata>
+	<Page imageFilename="00443952.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="507" y="132"/>
+	<Point x="641" y="132"/>
+	<Point x="641" y="226"/>
+	<Point x="507" y="226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>24</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="485" y="237"/>
+	<Point x="2032" y="237"/>
+	<Point x="2032" y="1296"/>
+	<Point x="485" y="1296"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>libre de eropieço toda aquea eſcriptura.
+Que ſegun yo juzgo y eſpero ſera tan pro-
+uechoſa a las almas, quanto en las de vue‐
+ras reuerencias que ſe criaron, y ſe man‐
+tienen con ea, ſe vee. A quien ſupplico ſe
+acuerden empre en ſus ſanas ora‐
+ciones de mi. En ſan Phelippe
+de Madrid, a quinze
+de Setiembre de
+1587.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords>
+	<Point x="641" y="1523"/>
+	<Point x="1901" y="1523"/>
+	<Point x="1901" y="2348"/>
+	<Point x="641" y="2348"/></Coords></ImageRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="591" y="3039"/>
+	<Point x="1585" y="3039"/>
+	<Point x="1585" y="3160"/>
+	<Point x="591" y="3160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444593">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T14:13:27</Created>
+	<LastChange>2011-03-18T05:57:25</LastChange></Metadata>
+	<Page imageFilename="00444593.tif" imageWidth="2613" imageHeight="3944">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r40" index="0"/>
+	<RegionRefIndexed regionRef="r41" index="1"/>
+	<RegionRefIndexed regionRef="r42" index="2"/>
+	<RegionRefIndexed regionRef="r43" index="3"/>
+	<RegionRefIndexed regionRef="r44" index="4"/>
+	<RegionRefIndexed regionRef="r45" index="5"/>
+	<RegionRefIndexed regionRef="r65" index="6"/>
+	<RegionRefIndexed regionRef="r66" index="7"/>
+	<RegionRefIndexed regionRef="r46" index="8"/>
+	<RegionRefIndexed regionRef="r47" index="9"/>
+	<RegionRefIndexed regionRef="r48" index="10"/>
+	<RegionRefIndexed regionRef="r49" index="11"/>
+	<RegionRefIndexed regionRef="r51" index="12"/>
+	<RegionRefIndexed regionRef="r52" index="13"/>
+	<RegionRefIndexed regionRef="r53" index="14"/>
+	<RegionRefIndexed regionRef="r54" index="15"/>
+	<RegionRefIndexed regionRef="r55" index="16"/>
+	<RegionRefIndexed regionRef="r56" index="17"/>
+	<RegionRefIndexed regionRef="r57" index="18"/>
+	<RegionRefIndexed regionRef="r58" index="19"/>
+	<RegionRefIndexed regionRef="r59" index="20"/>
+	<RegionRefIndexed regionRef="r60" index="21"/>
+	<RegionRefIndexed regionRef="r61" index="22"/>
+	<RegionRefIndexed regionRef="r62" index="23"/>
+	<RegionRefIndexed regionRef="r67" index="24"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r32" type="page-number">
+	<Coords>
+	<Point x="419" y="183"/>
+	<Point x="419" y="246"/>
+	<Point x="502" y="246"/>
+	<Point x="502" y="183"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="header">
+	<Coords>
+	<Point x="768" y="174"/>
+	<Point x="768" y="244"/>
+	<Point x="931" y="244"/>
+	<Point x="931" y="174"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="paragraph">
+	<Coords>
+	<Point x="354" y="2801"/>
+	<Point x="361" y="2959"/>
+	<Point x="419" y="2967"/>
+	<Point x="436" y="2966"/>
+	<Point x="440" y="2957"/>
+	<Point x="558" y="2962"/>
+	<Point x="587" y="2971"/>
+	<Point x="606" y="2968"/>
+	<Point x="610" y="2962"/>
+	<Point x="648" y="2961"/>
+	<Point x="692" y="2961"/>
+	<Point x="859" y="2964"/>
+	<Point x="1352" y="2954"/>
+	<Point x="1356" y="2757"/>
+	<Point x="1091" y="2762"/>
+	<Point x="1043" y="2768"/>
+	<Point x="1012" y="2768"/>
+	<Point x="954" y="2763"/>
+	<Point x="887" y="2761"/>
+	<Point x="870" y="2763"/>
+	<Point x="850" y="2773"/>
+	<Point x="826" y="2767"/>
+	<Point x="797" y="2762"/>
+	<Point x="763" y="2761"/>
+	<Point x="706" y="2765"/>
+	<Point x="678" y="2766"/>
+	<Point x="663" y="2770"/>
+	<Point x="635" y="2767"/>
+	<Point x="613" y="2766"/>
+	<Point x="593" y="2768"/>
+	<Point x="574" y="2766"/>
+	<Point x="529" y="2766"/>
+	<Point x="467" y="2760"/>
+	<Point x="416" y="2759"/>
+	<Point x="394" y="2756"/>
+	<Point x="356" y="2756"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABEJORRO, ò Abejarrón. ſ. m. Eſpecie de moſ-
+ca grande, ò abejón, que vuela con mucho ruí-
+do, y anída en la madera vieja. Lat. Species ali,
+quod in lignis moratur.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords>
+	<Point x="354" y="2970"/>
+	<Point x="358" y="3010"/>
+	<Point x="377" y="3165"/>
+	<Point x="672" y="3166"/>
+	<Point x="679" y="3173"/>
+	<Point x="691" y="3172"/>
+	<Point x="695" y="3167"/>
+	<Point x="696" y="3161"/>
+	<Point x="717" y="3167"/>
+	<Point x="1089" y="3169"/>
+	<Point x="1110" y="3169"/>
+	<Point x="1108" y="3180"/>
+	<Point x="1142" y="3180"/>
+	<Point x="1202" y="3164"/>
+	<Point x="1347" y="3154"/>
+	<Point x="1353" y="2965"/>
+	<Point x="844" y="2971"/>
+	<Point x="812" y="2971"/>
+	<Point x="633" y="2969"/>
+	<Point x="619" y="2969"/>
+	<Point x="594" y="2971"/>
+	<Point x="578" y="2973"/>
+	<Point x="571" y="2970"/>
+	<Point x="550" y="2965"/>
+	<Point x="449" y="2969"/>
+	<Point x="395" y="2967"/>
+	<Point x="372" y="2965"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABELLA. ſ. f. Lo miſmo que abéja. Voz uſada en
+Aragon, y otras partes. Lat. Apis. FUER. DE ARAG.
+fol. 106. E los que los ditos ganados, abeas, ò
+vaſos metrán, ò ſacarán del dito Regno.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords>
+	<Point x="351" y="3176"/>
+	<Point x="360" y="3463"/>
+	<Point x="387" y="3468"/>
+	<Point x="594" y="3473"/>
+	<Point x="611" y="3478"/>
+	<Point x="631" y="3480"/>
+	<Point x="635" y="3484"/>
+	<Point x="647" y="3484"/>
+	<Point x="658" y="3475"/>
+	<Point x="674" y="3475"/>
+	<Point x="690" y="3476"/>
+	<Point x="844" y="3475"/>
+	<Point x="1351" y="3468"/>
+	<Point x="1359" y="3176"/>
+	<Point x="1287" y="3170"/>
+	<Point x="1195" y="3174"/>
+	<Point x="1145" y="3187"/>
+	<Point x="1104" y="3185"/>
+	<Point x="1099" y="3175"/>
+	<Point x="872" y="3174"/>
+	<Point x="674" y="3177"/>
+	<Point x="635" y="3170"/>
+	<Point x="424" y="3171"/>
+	<Point x="351" y="3169"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABELLAR. ſ. m. Lo miſmo que colmenár. Voz
+antiquada, y uſada en Aragon, y otras partes.
+Lat. Alveare. ORDEN. DE ABEJER. DE ZARAG.
+pl.2. Por beneﬁcio, é utilidad de la dicha Con-
+fraria Confraires de aquea conſervacion de
+las abeas, y abeáres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords>
+	<Point x="359" y="3473"/>
+	<Point x="356" y="3586"/>
+	<Point x="921" y="3595"/>
+	<Point x="1357" y="3600"/>
+	<Point x="1355" y="3476"/>
+	<Point x="967" y="3481"/>
+	<Point x="664" y="3480"/>
+	<Point x="638" y="3490"/>
+	<Point x="616" y="3482"/>
+	<Point x="582" y="3478"/>
+	<Point x="552" y="3476"/>
+	<Point x="501" y="3476"/>
+	<Point x="410" y="3473"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABELLERO. ſ. m. El que cuida de las colménas.
+Voz antigua uſada en Aragon, y otras partes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="header">
+	<Coords>
+	<Point x="1840" y="150"/>
+	<Point x="1842" y="233"/>
+	<Point x="2028" y="237"/>
+	<Point x="2028" y="150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="paragraph">
+	<Coords>
+	<Point x="1469" y="242"/>
+	<Point x="1470" y="398"/>
+	<Point x="2426" y="398"/>
+	<Point x="2428" y="242"/>
+	<Point x="2231" y="246"/>
+	<Point x="1832" y="241"/>
+	<Point x="1799" y="239"/>
+	<Point x="1537" y="242"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lat. Apiarius, ij. Meiarius, ij. ORDEN. de abejé-
+ros, pl.2. La Confraria del glorioſo S. Juan Bap-
+tia clamada de los Abeéros de la dita Ciudad.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="paragraph">
+	<Coords>
+	<Point x="1433" y="403"/>
+	<Point x="1431" y="809"/>
+	<Point x="1448" y="810"/>
+	<Point x="1640" y="809"/>
+	<Point x="1656" y="821"/>
+	<Point x="1668" y="807"/>
+	<Point x="2441" y="806"/>
+	<Point x="2435" y="403"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABEMOLAR. v. a. Voz inventada, y formada
+del término múco Bemol, de que usó el Autor
+de la Picara Juina, para gniﬁcar templar la
+voz, baxarla, y ſuavizarla, como hace el Mu-
+co quando canta por ee término, ò proprie-
+dád. Lat. Vocem ﬂéere moiter. PIC. JUST. fol.
+169. Puea aſsi en ﬁgura abemolé mi voz, y cla-
+vé mis ojos en el ſuelo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="paragraph">
+	<Coords>
+	<Point x="1430" y="815"/>
+	<Point x="1428" y="855"/>
+	<Point x="1427" y="862"/>
+	<Point x="1429" y="911"/>
+	<Point x="1655" y="910"/>
+	<Point x="1775" y="911"/>
+	<Point x="1776" y="921"/>
+	<Point x="1788" y="921"/>
+	<Point x="1802" y="911"/>
+	<Point x="2180" y="909"/>
+	<Point x="2429" y="903"/>
+	<Point x="2428" y="812"/>
+	<Point x="1960" y="811"/>
+	<Point x="1669" y="812"/>
+	<Point x="1651" y="831"/>
+	<Point x="1632" y="815"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABEMOLADO. part. paſ. del verbo Abemolar.
+Lat. Moiter inﬂexus cantu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r54" type="paragraph">
+	<Coords>
+	<Point x="1435" y="917"/>
+	<Point x="1435" y="1066"/>
+	<Point x="1669" y="1066"/>
+	<Point x="1717" y="1063"/>
+	<Point x="1725" y="1069"/>
+	<Point x="1739" y="1073"/>
+	<Point x="1754" y="1065"/>
+	<Point x="1781" y="1072"/>
+	<Point x="1804" y="1062"/>
+	<Point x="1978" y="1063"/>
+	<Point x="1992" y="1071"/>
+	<Point x="2025" y="1069"/>
+	<Point x="2060" y="1056"/>
+	<Point x="2431" y="1066"/>
+	<Point x="2429" y="912"/>
+	<Point x="2115" y="915"/>
+	<Point x="1799" y="915"/>
+	<Point x="1785" y="925"/>
+	<Point x="1757" y="922"/>
+	<Point x="1734" y="920"/>
+	<Point x="1608" y="916"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABENUZ (Abenúz.) ſ. m. Lo miſmo que el arbol
+amado ébano. Veaſe Ebano. Es voz Arabiga.
+Lat. Ebenum, i, vel ebenus, i.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r55" type="paragraph">
+	<Coords>
+	<Point x="1429" y="1070"/>
+	<Point x="1435" y="1424"/>
+	<Point x="1743" y="1427"/>
+	<Point x="2433" y="1414"/>
+	<Point x="2435" y="1073"/>
+	<Point x="2418" y="1070"/>
+	<Point x="2145" y="1068"/>
+	<Point x="1985" y="1076"/>
+	<Point x="1923" y="1068"/>
+	<Point x="1815" y="1068"/>
+	<Point x="1782" y="1078"/>
+	<Point x="1761" y="1072"/>
+	<Point x="1740" y="1075"/>
+	<Point x="1711" y="1070"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABEñULAS. ſ.f. uſado empre en plural. Lo miſ-
+mo que las peañas de los ojos. Es voz antiqua-
+da. Lat. Cilia, orum. BELIAN. part.3. lib.4. fol.
+151. Los ojos negros mui raſgados, con una
+gravedád eraña, con unos arcos de cejas, y
+abeñúlas, que dában unas gracioſas ſombras en el
+hermoſo roro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r56" type="paragraph">
+	<Coords>
+	<Point x="1431" y="1428"/>
+	<Point x="1431" y="1477"/>
+	<Point x="1862" y="1477"/>
+	<Point x="1861" y="1430"/>
+	<Point x="1693" y="1430"/>
+	<Point x="1624" y="1432"/>
+	<Point x="1594" y="1432"/>
+	<Point x="1446" y="1428"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABER. Veaſe Haver.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r57" type="paragraph">
+	<Coords>
+	<Point x="1429" y="1480"/>
+	<Point x="1435" y="1775"/>
+	<Point x="1488" y="1784"/>
+	<Point x="1589" y="1785"/>
+	<Point x="1613" y="1790"/>
+	<Point x="1623" y="1787"/>
+	<Point x="1626" y="1788"/>
+	<Point x="1635" y="1793"/>
+	<Point x="1650" y="1792"/>
+	<Point x="1666" y="1786"/>
+	<Point x="1699" y="1785"/>
+	<Point x="1748" y="1787"/>
+	<Point x="1784" y="1792"/>
+	<Point x="1791" y="1793"/>
+	<Point x="1835" y="1789"/>
+	<Point x="1940" y="1784"/>
+	<Point x="2422" y="1762"/>
+	<Point x="2432" y="1480"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABERENGENADO, DA. adj. La coſa que eá
+teñida, ò tiene color de berengéna, ò es à ea
+parecida. Es voz formada del nombre Berengé-
+na. Lat. Colore ſubviolaceo intinus. CERV. Quix.
+tom.2. cap.47. Porque ſon jaſpeados de azul,
+verde, y aberengenádo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r58" type="paragraph">
+	<Coords>
+	<Point x="1425" y="1787"/>
+	<Point x="1437" y="2342"/>
+	<Point x="1486" y="2344"/>
+	<Point x="1550" y="2346"/>
+	<Point x="1784" y="2349"/>
+	<Point x="1995" y="2347"/>
+	<Point x="2430" y="2353"/>
+	<Point x="2430" y="1783"/>
+	<Point x="1900" y="1793"/>
+	<Point x="1873" y="1794"/>
+	<Point x="1645" y="1794"/>
+	<Point x="1629" y="1795"/>
+	<Point x="1620" y="1792"/>
+	<Point x="1457" y="1787"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABERNARDARSE. v. r. Hacer del guapo y va-
+liente, irritandoſe, y encendiendoſe en cólera.
+Es voz jocoſa y voluntaria, de que usó Queve-
+do, para dár à entender que uno ſe puſo colé-
+rico, ſe esforzó, y alentó, amenazando de no
+dexar coſa à vida : como vulgarmente ſe dice
+que hizo Bernardo del Carpio en Ronceſvaes.
+Lat. Maiorem in modum ſcandéſcere. QUEV. Fort.
+Los demonios me eán tentando de mataros à
+puñaladas, de abernardarme, y hacer Ronceſva-
+es eos montes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r59" type="paragraph">
+	<Coords>
+	<Point x="1418" y="2347"/>
+	<Point x="1453" y="2706"/>
+	<Point x="1575" y="2712"/>
+	<Point x="1803" y="2708"/>
+	<Point x="1983" y="2697"/>
+	<Point x="2412" y="2683"/>
+	<Point x="2425" y="2358"/>
+	<Point x="2288" y="2357"/>
+	<Point x="2237" y="2356"/>
+	<Point x="2147" y="2355"/>
+	<Point x="2092" y="2353"/>
+	<Point x="1837" y="2355"/>
+	<Point x="1509" y="2350"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABERNUNCIO. Voz con que ſe gniﬁca la opo-
+ción que ſe tiene à las coſas que pueden ſer de
+mal agüero, ù de daño conocido. Es palabra
+corrompida del Lat. Abrenuncio. Uſaſe como
+una interjeccion, y alguna vez ſe haa ſuban-
+tiváda. Lat. Avertant omen ſuperi. Apagè. GONG.
+Fab. de Piram.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r60" type="paragraph">
+	<Coords>
+	<Point x="1669" y="2722"/>
+	<Point x="1671" y="2810"/>
+	<Point x="2169" y="2811"/>
+	<Point x="2167" y="2708"/>
+	<Point x="2093" y="2709"/>
+	<Point x="1689" y="2717"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Las hueas quadrupedales
+del coronado abernuncio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r61" type="paragraph">
+	<Coords>
+	<Point x="1425" y="2806"/>
+	<Point x="1423" y="2830"/>
+	<Point x="1423" y="3062"/>
+	<Point x="1540" y="3066"/>
+	<Point x="1581" y="3066"/>
+	<Point x="1621" y="3067"/>
+	<Point x="1796" y="3068"/>
+	<Point x="1813" y="3075"/>
+	<Point x="1827" y="3076"/>
+	<Point x="1839" y="3066"/>
+	<Point x="1892" y="3066"/>
+	<Point x="1900" y="3072"/>
+	<Point x="1909" y="3075"/>
+	<Point x="1926" y="3074"/>
+	<Point x="1933" y="3066"/>
+	<Point x="2422" y="3069"/>
+	<Point x="2422" y="2803"/>
+	<Point x="2307" y="2809"/>
+	<Point x="2298" y="2806"/>
+	<Point x="2269" y="2809"/>
+	<Point x="2200" y="2819"/>
+	<Point x="2050" y="2817"/>
+	<Point x="1871" y="2817"/>
+	<Point x="1601" y="2814"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABERTERO, RA. adj. Lo miſmo que abridéro, ò
+coſa que tiene abertúra, como higo abertéro,
+granada abertéra, ò abridéra. Uſaſe freqüente-
+mente en Valencia, y partes vecinas. Veaſe
+Abridéro. Lat. Hiſcere facilis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r62" type="paragraph">
+	<Coords>
+	<Point x="1423" y="3067"/>
+	<Point x="1415" y="3084"/>
+	<Point x="1423" y="3585"/>
+	<Point x="1644" y="3592"/>
+	<Point x="1667" y="3591"/>
+	<Point x="2430" y="3578"/>
+	<Point x="2423" y="3072"/>
+	<Point x="2189" y="3073"/>
+	<Point x="1953" y="3071"/>
+	<Point x="1928" y="3077"/>
+	<Point x="1832" y="3078"/>
+	<Point x="1763" y="3075"/>
+	<Point x="1551" y="3072"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABERTURA. ſ.f. La entrada, ù divion que ſe
+hace, ò ſe encuentra en una coſa cerrada, ò con-
+tínua, como la que ſe haa en los higos, ò gra-
+nadas, ò la rotura que ſe hace en una muraa
+con el cañon, ò con el pico. Viene del verbo
+Abrir. Lat. Fiſura. Hiatus. EL COMEND. ſobr.
+las 300. fol. 52. Geomancía es adevinacion
+por los terremotos, y abertúras de la tierra. AM-
+BR. MOR. tom.1. fol.140. Por una grande aber-
+túra de la peña. DAV. Paſ. E.6. Cant. 1.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r64" type="credit">
+	<Coords>
+	<Point x="811" y="3838"/>
+	<Point x="811" y="3936"/>
+	<Point x="1780" y="3936"/>
+	<Point x="1780" y="3838"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords>
+	<Point x="398" y="256"/>
+	<Point x="398" y="404"/>
+	<Point x="473" y="404"/>
+	<Point x="497" y="416"/>
+	<Point x="517" y="414"/>
+	<Point x="538" y="411"/>
+	<Point x="706" y="408"/>
+	<Point x="722" y="413"/>
+	<Point x="767" y="410"/>
+	<Point x="775" y="414"/>
+	<Point x="807" y="413"/>
+	<Point x="860" y="409"/>
+	<Point x="874" y="407"/>
+	<Point x="1382" y="400"/>
+	<Point x="1381" y="240"/>
+	<Point x="458" y="254"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>las abéjas ſon mui amigas, y que jamás huyen
+de las colmenas que ſe fregaren con él. Lat. Cu-
+triago, inis. Melyophion.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords>
+	<Point x="365" y="409"/>
+	<Point x="363" y="555"/>
+	<Point x="661" y="560"/>
+	<Point x="891" y="558"/>
+	<Point x="919" y="558"/>
+	<Point x="938" y="568"/>
+	<Point x="977" y="565"/>
+	<Point x="986" y="557"/>
+	<Point x="1079" y="554"/>
+	<Point x="1110" y="537"/>
+	<Point x="1380" y="533"/>
+	<Point x="1381" y="404"/>
+	<Point x="1171" y="406"/>
+	<Point x="1017" y="410"/>
+	<Point x="906" y="410"/>
+	<Point x="879" y="411"/>
+	<Point x="873" y="409"/>
+	<Point x="856" y="413"/>
+	<Point x="818" y="415"/>
+	<Point x="771" y="417"/>
+	<Point x="753" y="412"/>
+	<Point x="734" y="414"/>
+	<Point x="723" y="414"/>
+	<Point x="693" y="413"/>
+	<Point x="552" y="415"/>
+	<Point x="525" y="416"/>
+	<Point x="495" y="417"/>
+	<Point x="482" y="414"/>
+	<Point x="469" y="409"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABEJERO (Abejéro.) ſ. m. El que cuida de las
+colménas. Lat. Apiarius, ij. Meiarius, ij. OR-
+DEN. DE ZARAG. titulo Abejéros.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords>
+	<Point x="362" y="561"/>
+	<Point x="363" y="1067"/>
+	<Point x="662" y="1073"/>
+	<Point x="672" y="1072"/>
+	<Point x="688" y="1073"/>
+	<Point x="697" y="1079"/>
+	<Point x="713" y="1080"/>
+	<Point x="727" y="1075"/>
+	<Point x="742" y="1076"/>
+	<Point x="752" y="1076"/>
+	<Point x="766" y="1081"/>
+	<Point x="800" y="1074"/>
+	<Point x="848" y="1075"/>
+	<Point x="877" y="1081"/>
+	<Point x="913" y="1078"/>
+	<Point x="928" y="1081"/>
+	<Point x="945" y="1074"/>
+	<Point x="993" y="1074"/>
+	<Point x="1005" y="1076"/>
+	<Point x="1017" y="1071"/>
+	<Point x="1376" y="1067"/>
+	<Point x="1384" y="558"/>
+	<Point x="1273" y="561"/>
+	<Point x="1010" y="561"/>
+	<Point x="993" y="566"/>
+	<Point x="984" y="572"/>
+	<Point x="932" y="572"/>
+	<Point x="915" y="564"/>
+	<Point x="659" y="565"/>
+	<Point x="630" y="563"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABEJERUCO, ò Abejarúco, ſ.m. Páxaro her-
+moſo, y vioſo por los varios colores de ſu
+pluma, el qual ſe come las abéjas, y deruye
+los colmenáres, y tiene la particularidád de vo-
+lar igualmente hácia delante, ò hacia atrás. Vie-
+ne de la voz Abéja, con terminacion diminutí-
+va, como en otras que ſe uſan en Caia: co-
+mo hermanúco por hermano, y Montañeſúco
+por Montañés. Trahela Covarr. en ſu Dicciona-
+rio. Lat. Merops, pis. Apiara, .</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="362" y="1073"/>
+	<Point x="357" y="1322"/>
+	<Point x="479" y="1324"/>
+	<Point x="488" y="1333"/>
+	<Point x="501" y="1335"/>
+	<Point x="510" y="1334"/>
+	<Point x="521" y="1327"/>
+	<Point x="533" y="1325"/>
+	<Point x="580" y="1325"/>
+	<Point x="871" y="1326"/>
+	<Point x="871" y="1298"/>
+	<Point x="1376" y="1309"/>
+	<Point x="1377" y="1073"/>
+	<Point x="1151" y="1074"/>
+	<Point x="1010" y="1076"/>
+	<Point x="1000" y="1081"/>
+	<Point x="947" y="1083"/>
+	<Point x="885" y="1088"/>
+	<Point x="860" y="1081"/>
+	<Point x="828" y="1079"/>
+	<Point x="793" y="1080"/>
+	<Point x="763" y="1084"/>
+	<Point x="744" y="1078"/>
+	<Point x="736" y="1080"/>
+	<Point x="725" y="1086"/>
+	<Point x="696" y="1087"/>
+	<Point x="677" y="1077"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABEJERUCO. Metaphoricamente ſe dice de un hom-
+bre no conocido, entremetido, y de mala cata-
+dúra, y en fuerza de eo ſe dice: Quien ſerá
+ee abejerúco? Raro abejerúco! Lat. Obſcurus,
+&amp; ignotus homuntio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords>
+	<Point x="357" y="1326"/>
+	<Point x="359" y="1579"/>
+	<Point x="527" y="1584"/>
+	<Point x="720" y="1585"/>
+	<Point x="1158" y="1583"/>
+	<Point x="1178" y="1584"/>
+	<Point x="1366" y="1584"/>
+	<Point x="1359" y="1329"/>
+	<Point x="1055" y="1329"/>
+	<Point x="1041" y="1333"/>
+	<Point x="624" y="1333"/>
+	<Point x="514" y="1335"/>
+	<Point x="501" y="1336"/>
+	<Point x="478" y="1332"/>
+	<Point x="475" y="1329"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ABEJON. ſ. m. Aum. de abéja. Abéja baarda,
+que no ſe reduce à enxambre, ni labra cera, ni
+miel; antes la deruye, y come las verdaderas
+abéjas introduciendoſe en las colménas. Trahe-
+la Covarr. en ſu Diccionario. Lat. Fucus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords>
+	<Point x="358" y="1584"/>
+	<Point x="372" y="2259"/>
+	<Point x="538" y="2257"/>
+	<Point x="578" y="2258"/>
+	<Point x="630" y="2247"/>
+	<Point x="662" y="2248"/>
+	<Point x="878" y="2252"/>
+	<Point x="897" y="2253"/>
+	<Point x="956" y="2257"/>
+	<Point x="968" y="2258"/>
+	<Point x="1380" y="2254"/>
+	<Point x="1368" y="1588"/>
+	<Point x="1149" y="1587"/>
+	<Point x="964" y="1588"/>
+	<Point x="874" y="1589"/>
+	<Point x="847" y="1589"/>
+	<Point x="427" y="1588"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Juego del abejón. Llamaſe aſsi el juego de que uſa
+la gente rúica por entretenimiento, y ſe exe-
+cuta entre tres perſonas pueas en hiléra. El
+que eá en medio abierto de piernas, y juntas
+las manos, moviendoſe à un lado y otro, ha-
+ce un ruído con la boca al modo del del abejón:
+amaga à uno de los dos que eán à los lados, que
+le eſperan con un brazo levantado, y la mano
+del otro puea en la mexia, y dá al que ſe deſ-
+cuida un golpe en la mano que tiene puea en
+el carrio: y  no hurta, y aparta tan preo el
+cuerpo, recibe otro del que le eá eſperando.
+Lat. Alaparum ludus. PANT. part. 2. Rom. 2.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r65" type="paragraph">
+	<Coords>
+	<Point x="606" y="2255"/>
+	<Point x="602" y="2452"/>
+	<Point x="724" y="2453"/>
+	<Point x="737" y="2459"/>
+	<Point x="756" y="2452"/>
+	<Point x="805" y="2452"/>
+	<Point x="813" y="2455"/>
+	<Point x="823" y="2453"/>
+	<Point x="835" y="2449"/>
+	<Point x="1088" y="2450"/>
+	<Point x="1088" y="2261"/>
+	<Point x="945" y="2262"/>
+	<Point x="876" y="2254"/>
+	<Point x="860" y="2256"/>
+	<Point x="834" y="2257"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y otra sé que le pregunta
+quando furioſo ſe enoja,
+y la ſacude,  juega
+al abejón, ò enamora.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r66" type="paragraph">
+	<Coords>
+	<Point x="350" y="2443"/>
+	<Point x="351" y="2604"/>
+	<Point x="355" y="2742"/>
+	<Point x="413" y="2751"/>
+	<Point x="490" y="2756"/>
+	<Point x="542" y="2765"/>
+	<Point x="554" y="2765"/>
+	<Point x="574" y="2762"/>
+	<Point x="582" y="2763"/>
+	<Point x="598" y="2766"/>
+	<Point x="616" y="2764"/>
+	<Point x="654" y="2766"/>
+	<Point x="663" y="2768"/>
+	<Point x="695" y="2761"/>
+	<Point x="804" y="2757"/>
+	<Point x="831" y="2765"/>
+	<Point x="845" y="2768"/>
+	<Point x="853" y="2768"/>
+	<Point x="871" y="2758"/>
+	<Point x="1013" y="2760"/>
+	<Point x="1033" y="2767"/>
+	<Point x="1048" y="2765"/>
+	<Point x="1102" y="2757"/>
+	<Point x="1380" y="2750"/>
+	<Point x="1390" y="2455"/>
+	<Point x="972" y="2455"/>
+	<Point x="834" y="2454"/>
+	<Point x="814" y="2459"/>
+	<Point x="801" y="2457"/>
+	<Point x="759" y="2456"/>
+	<Point x="755" y="2456"/>
+	<Point x="725" y="2465"/>
+	<Point x="680" y="2461"/>
+	<Point x="609" y="2460"/>
+	<Point x="580" y="2444"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Jugar con alguno al abejón. Modo de hablar, con
+que ſe dá à entender, que le tienen en poco, le
+deſprecian, y ſe burlan de él. Lat. Ludiﬁcare
+aliquem. Covarr. en la palabra abejón. El juego
+es ordinario, como lo es tambien un modo de
+decir que juegan con alguno al abejón.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r67" type="catch-word">
+	<Coords>
+	<Point x="2318" y="3587"/>
+	<Point x="2318" y="3634"/>
+	<Point x="2419" y="3634"/>
+	<Point x="2419" y="3587"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Con</Unicode></TextEquiv></TextRegion></Page></PcGts>

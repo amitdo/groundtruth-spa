@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443244">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T13:04:31</Created>
+	<LastChange>2011-03-15T16:51:43</LastChange></Metadata>
+	<Page imageFilename="00443244.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r15" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="73" y="205"/>
+	<Point x="1053" y="206"/>
+	<Point x="1162" y="190"/>
+	<Point x="1215" y="190"/>
+	<Point x="1245" y="186"/>
+	<Point x="1300" y="187"/>
+	<Point x="1313" y="188"/>
+	<Point x="1327" y="189"/>
+	<Point x="1602" y="194"/>
+	<Point x="1597" y="880"/>
+	<Point x="110" y="902"/>
+	<Point x="94" y="902"/>
+	<Point x="68" y="903"/>
+	<Point x="68" y="681"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſe le engendren apetitos, tambien ſe vè claro, pues
+de las dichas Noticias i diſcurſos naturalmente nacen,
+i ſolo querer tener la Noticia i diſcurſo, puede ſer cebo
+del apetito. I que tãbien ha de tener muchos toques de
+juizios; bien ſe vè, pues no puede dexar de tropeçar cõ
+la Memoria en males i bienes agenos, en que a vezes
+parece lo malo bueno, i lo bueno malo. De todos los cua
+les daños, yo creo no avrã quien ſe libre, no es cegan-
+do i eſcureciendo la Memoria de todas las coſas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1502" y="2740"/>
+	<Point x="1534" y="2740"/>
+	<Point x="1537" y="2726"/>
+	<Point x="1577" y="2726"/>
+	<Point x="1579" y="2781"/>
+	<Point x="1500" y="2782"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ad</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="765" y="2931"/>
+	<Point x="1426" y="2931"/>
+	<Point x="1426" y="2994"/>
+	<Point x="765" y="2994"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="1028" y="55"/>
+	<Point x="1028" y="66"/>
+	<Point x="1027" y="66"/>
+	<Point x="1027" y="79"/>
+	<Point x="1026" y="79"/>
+	<Point x="1026" y="93"/>
+	<Point x="1025" y="93"/>
+	<Point x="1025" y="106"/>
+	<Point x="1024" y="106"/>
+	<Point x="1024" y="119"/>
+	<Point x="1023" y="119"/>
+	<Point x="1023" y="132"/>
+	<Point x="1022" y="132"/>
+	<Point x="1022" y="146"/>
+	<Point x="1021" y="146"/>
+	<Point x="1021" y="159"/>
+	<Point x="1020" y="159"/>
+	<Point x="1020" y="172"/>
+	<Point x="1019" y="172"/>
+	<Point x="1019" y="185"/>
+	<Point x="1018" y="185"/>
+	<Point x="1018" y="194"/>
+	<Point x="550" y="194"/>
+	<Point x="550" y="55"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro tercero.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1601" y="92"/>
+	<Point x="1596" y="179"/>
+	<Point x="1472" y="172"/>
+	<Point x="1454" y="169"/>
+	<Point x="1451" y="172"/>
+	<Point x="1452" y="172"/>
+	<Point x="1452" y="159"/>
+	<Point x="1453" y="159"/>
+	<Point x="1453" y="146"/>
+	<Point x="1454" y="146"/>
+	<Point x="1454" y="133"/>
+	<Point x="1455" y="133"/>
+	<Point x="1455" y="120"/>
+	<Point x="1456" y="120"/>
+	<Point x="1456" y="107"/>
+	<Point x="1457" y="107"/>
+	<Point x="1457" y="94"/>
+	<Point x="1458" y="94"/>
+	<Point x="1461" y="93"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>233</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="163" y="971"/>
+	<Point x="184" y="968"/>
+	<Point x="182" y="909"/>
+	<Point x="200" y="910"/>
+	<Point x="404" y="905"/>
+	<Point x="614" y="904"/>
+	<Point x="1173" y="892"/>
+	<Point x="1336" y="896"/>
+	<Point x="1595" y="897"/>
+	<Point x="1586" y="2720"/>
+	<Point x="1461" y="2725"/>
+	<Point x="1064" y="2721"/>
+	<Point x="1004" y="2734"/>
+	<Point x="81" y="2730"/>
+	<Point x="77" y="972"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I  me dixeres, que bien podra el hõbre vencer to-
+das eas coſas cuando le vinieren. Digo, que del todo
+puramente es impoble,  haze caſo de Noticias, por
+en eas ſe ingieren mil impertinẽcias, i algunas tan ſu-
+tiles i delgadas,  n entenderlo el alma ſe le pegan de
+ſuyo, a como la pez al que la toca, i  mejor ſe vence
+todo de una vez, negando la Memoria en todo. Diras
+tambien,  ſe priva el alma de muchos buenos pẽſamiẽ
+tos, i conderaciones de Dios que la aprovechan mu-
+cho, para que Dios la haga mercedes. Digo, que lo que
+fuere puramente Dios, i ayudare aquea Noticia confu
+ſa, univerſal, pura, i ſenzia, que eſo no ſe dexe, no lo 
+detuviere en imagẽ, forma, ﬁgura, ò ſemejança de cria-
+tura. I hablando dea purgacion, para que Dios las ha-
+ga, mas aprovecha la pureza del alma, que cone en
+que no ſe le pegue ninguna aﬁcion de criatura, ni de tẽ
+poralidad, ni de advertencia eﬁcaz deo: de lo cual en-
+tiendo, no ſe dexarà de pegar mucho por la imperfeciõ
+que de ſuyo tienen las Potencias en ſus operaciones.
+Por lo cual mejor es aprender a poner las Potencias en
+lencio i acaando para que hable Dios. Porque, como
+avemos dicho, para ee eado las operaciones natura
+les ſe han de perder de via; lo cual ſe haze, cuando co-
+mo dize el Profeta: Ducam eam in ſolitudinem, &amp; loquar</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="marginalia">
+	<Coords>
+	<Point x="1601" y="2571"/>
+	<Point x="1830" y="2571"/>
+	<Point x="1830" y="2652"/>
+	<Point x="1601" y="2652"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Oſe.2. 14</Unicode></TextEquiv></TextRegion></Page></PcGts>

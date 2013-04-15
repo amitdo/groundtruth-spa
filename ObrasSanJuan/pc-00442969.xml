@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442969">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T02:43:47</Created>
+	<LastChange>2011-03-15T16:51:30</LastChange></Metadata>
+	<Page imageFilename="00442969.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r12" index="0"/>
+	<RegionRefIndexed regionRef="r14" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="890" y="61"/>
+	<Point x="890" y="174"/>
+	<Point x="1738" y="174"/>
+	<Point x="1738" y="61"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dibujo del Venerable Varon</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="500" y="64"/>
+	<Point x="500" y="167"/>
+	<Point x="638" y="167"/>
+	<Point x="638" y="64"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>14</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1730" y="2830"/>
+	<Point x="1730" y="2783"/>
+	<Point x="1900" y="2783"/>
+	<Point x="1900" y="2830"/>
+	<Point x="1810" y="2853"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>exer-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="764" y="2930"/>
+	<Point x="764" y="2997"/>
+	<Point x="1423" y="2997"/>
+	<Point x="1423" y="2930"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="marginalia">
+	<Coords>
+	<Point x="143" y="2769"/>
+	<Point x="143" y="2284"/>
+	<Point x="415" y="2284"/>
+	<Point x="421" y="2484"/>
+	<Point x="415" y="2769"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1578.
+Sus Ofi-
+cios i Fun
+daciones
+en la Re-
+forma.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="461" y="178"/>
+	<Point x="497" y="178"/>
+	<Point x="497" y="179"/>
+	<Point x="530" y="179"/>
+	<Point x="530" y="180"/>
+	<Point x="562" y="180"/>
+	<Point x="562" y="181"/>
+	<Point x="595" y="181"/>
+	<Point x="595" y="182"/>
+	<Point x="627" y="182"/>
+	<Point x="627" y="183"/>
+	<Point x="659" y="183"/>
+	<Point x="659" y="184"/>
+	<Point x="692" y="184"/>
+	<Point x="692" y="185"/>
+	<Point x="724" y="185"/>
+	<Point x="724" y="186"/>
+	<Point x="756" y="186"/>
+	<Point x="756" y="187"/>
+	<Point x="789" y="187"/>
+	<Point x="789" y="188"/>
+	<Point x="821" y="188"/>
+	<Point x="821" y="189"/>
+	<Point x="853" y="189"/>
+	<Point x="853" y="190"/>
+	<Point x="886" y="190"/>
+	<Point x="886" y="191"/>
+	<Point x="918" y="191"/>
+	<Point x="918" y="192"/>
+	<Point x="950" y="192"/>
+	<Point x="950" y="193"/>
+	<Point x="983" y="193"/>
+	<Point x="983" y="194"/>
+	<Point x="1015" y="194"/>
+	<Point x="1015" y="195"/>
+	<Point x="1048" y="195"/>
+	<Point x="1048" y="196"/>
+	<Point x="1080" y="196"/>
+	<Point x="1080" y="197"/>
+	<Point x="1112" y="197"/>
+	<Point x="1112" y="198"/>
+	<Point x="1145" y="198"/>
+	<Point x="1145" y="199"/>
+	<Point x="1177" y="199"/>
+	<Point x="1177" y="200"/>
+	<Point x="1209" y="200"/>
+	<Point x="1209" y="201"/>
+	<Point x="1242" y="201"/>
+	<Point x="1242" y="202"/>
+	<Point x="1274" y="202"/>
+	<Point x="1274" y="203"/>
+	<Point x="1306" y="203"/>
+	<Point x="1306" y="204"/>
+	<Point x="1339" y="204"/>
+	<Point x="1339" y="205"/>
+	<Point x="1371" y="205"/>
+	<Point x="1371" y="206"/>
+	<Point x="1403" y="206"/>
+	<Point x="1403" y="207"/>
+	<Point x="1436" y="207"/>
+	<Point x="1436" y="208"/>
+	<Point x="1468" y="208"/>
+	<Point x="1468" y="209"/>
+	<Point x="1501" y="209"/>
+	<Point x="1501" y="210"/>
+	<Point x="1533" y="210"/>
+	<Point x="1533" y="211"/>
+	<Point x="1565" y="211"/>
+	<Point x="1565" y="212"/>
+	<Point x="1598" y="212"/>
+	<Point x="1598" y="213"/>
+	<Point x="1630" y="213"/>
+	<Point x="1630" y="214"/>
+	<Point x="1662" y="214"/>
+	<Point x="1662" y="215"/>
+	<Point x="1695" y="215"/>
+	<Point x="1695" y="216"/>
+	<Point x="1727" y="216"/>
+	<Point x="1727" y="217"/>
+	<Point x="1759" y="217"/>
+	<Point x="1759" y="218"/>
+	<Point x="1792" y="218"/>
+	<Point x="1792" y="219"/>
+	<Point x="1824" y="219"/>
+	<Point x="1824" y="220"/>
+	<Point x="1856" y="220"/>
+	<Point x="1856" y="221"/>
+	<Point x="1889" y="221"/>
+	<Point x="1889" y="222"/>
+	<Point x="1921" y="222"/>
+	<Point x="1921" y="223"/>
+	<Point x="1953" y="223"/>
+	<Point x="1952" y="223"/>
+	<Point x="1952" y="276"/>
+	<Point x="1951" y="276"/>
+	<Point x="1951" y="329"/>
+	<Point x="1950" y="329"/>
+	<Point x="1950" y="382"/>
+	<Point x="1949" y="382"/>
+	<Point x="1949" y="435"/>
+	<Point x="1948" y="435"/>
+	<Point x="1948" y="488"/>
+	<Point x="1947" y="488"/>
+	<Point x="1947" y="541"/>
+	<Point x="1946" y="541"/>
+	<Point x="1946" y="594"/>
+	<Point x="1945" y="594"/>
+	<Point x="1945" y="647"/>
+	<Point x="1944" y="647"/>
+	<Point x="1944" y="700"/>
+	<Point x="1943" y="700"/>
+	<Point x="1943" y="753"/>
+	<Point x="1942" y="753"/>
+	<Point x="1942" y="806"/>
+	<Point x="1941" y="806"/>
+	<Point x="1941" y="859"/>
+	<Point x="1940" y="859"/>
+	<Point x="1940" y="912"/>
+	<Point x="1939" y="912"/>
+	<Point x="1939" y="965"/>
+	<Point x="1938" y="965"/>
+	<Point x="1938" y="1018"/>
+	<Point x="1937" y="1018"/>
+	<Point x="1937" y="1071"/>
+	<Point x="1936" y="1071"/>
+	<Point x="1936" y="1124"/>
+	<Point x="1935" y="1124"/>
+	<Point x="1935" y="1177"/>
+	<Point x="1934" y="1177"/>
+	<Point x="1934" y="1230"/>
+	<Point x="1933" y="1230"/>
+	<Point x="1933" y="1283"/>
+	<Point x="1932" y="1283"/>
+	<Point x="1932" y="1336"/>
+	<Point x="1931" y="1336"/>
+	<Point x="1931" y="1389"/>
+	<Point x="1930" y="1389"/>
+	<Point x="1930" y="1442"/>
+	<Point x="1929" y="1442"/>
+	<Point x="1929" y="1495"/>
+	<Point x="1928" y="1495"/>
+	<Point x="1928" y="1548"/>
+	<Point x="1927" y="1548"/>
+	<Point x="1927" y="1601"/>
+	<Point x="1926" y="1601"/>
+	<Point x="1926" y="1654"/>
+	<Point x="1925" y="1654"/>
+	<Point x="1925" y="1707"/>
+	<Point x="1924" y="1707"/>
+	<Point x="1924" y="1760"/>
+	<Point x="1923" y="1760"/>
+	<Point x="1923" y="1813"/>
+	<Point x="1922" y="1813"/>
+	<Point x="1922" y="1866"/>
+	<Point x="1921" y="1866"/>
+	<Point x="1921" y="1919"/>
+	<Point x="1920" y="1919"/>
+	<Point x="1920" y="1972"/>
+	<Point x="1919" y="1972"/>
+	<Point x="1919" y="2025"/>
+	<Point x="1918" y="2025"/>
+	<Point x="1918" y="2078"/>
+	<Point x="1917" y="2078"/>
+	<Point x="1917" y="2131"/>
+	<Point x="1916" y="2131"/>
+	<Point x="1916" y="2184"/>
+	<Point x="1915" y="2184"/>
+	<Point x="1915" y="2237"/>
+	<Point x="1914" y="2237"/>
+	<Point x="1857" y="2282"/>
+	<Point x="1789" y="2289"/>
+	<Point x="1720" y="2287"/>
+	<Point x="1612" y="2292"/>
+	<Point x="1545" y="2289"/>
+	<Point x="1513" y="2300"/>
+	<Point x="1495" y="2298"/>
+	<Point x="1495" y="2297"/>
+	<Point x="1440" y="2288"/>
+	<Point x="1388" y="2296"/>
+	<Point x="1388" y="2295"/>
+	<Point x="1361" y="2299"/>
+	<Point x="1334" y="2295"/>
+	<Point x="1334" y="2294"/>
+	<Point x="1281" y="2294"/>
+	<Point x="1281" y="2293"/>
+	<Point x="1227" y="2293"/>
+	<Point x="1227" y="2292"/>
+	<Point x="1173" y="2292"/>
+	<Point x="1173" y="2291"/>
+	<Point x="1158" y="2300"/>
+	<Point x="1115" y="2282"/>
+	<Point x="433" y="2274"/>
+	<Point x="432" y="2262"/>
+	<Point x="433" y="2262"/>
+	<Point x="433" y="2190"/>
+	<Point x="434" y="2190"/>
+	<Point x="434" y="2118"/>
+	<Point x="435" y="2118"/>
+	<Point x="435" y="2046"/>
+	<Point x="436" y="2046"/>
+	<Point x="436" y="1974"/>
+	<Point x="437" y="1974"/>
+	<Point x="437" y="1903"/>
+	<Point x="438" y="1903"/>
+	<Point x="438" y="1831"/>
+	<Point x="439" y="1831"/>
+	<Point x="439" y="1759"/>
+	<Point x="440" y="1759"/>
+	<Point x="440" y="1687"/>
+	<Point x="441" y="1687"/>
+	<Point x="441" y="1615"/>
+	<Point x="442" y="1615"/>
+	<Point x="442" y="1543"/>
+	<Point x="443" y="1543"/>
+	<Point x="443" y="1471"/>
+	<Point x="444" y="1471"/>
+	<Point x="444" y="1399"/>
+	<Point x="445" y="1399"/>
+	<Point x="445" y="1327"/>
+	<Point x="446" y="1327"/>
+	<Point x="446" y="1255"/>
+	<Point x="447" y="1255"/>
+	<Point x="447" y="1183"/>
+	<Point x="448" y="1183"/>
+	<Point x="448" y="1111"/>
+	<Point x="449" y="1111"/>
+	<Point x="449" y="1040"/>
+	<Point x="450" y="1040"/>
+	<Point x="450" y="968"/>
+	<Point x="451" y="968"/>
+	<Point x="451" y="896"/>
+	<Point x="452" y="896"/>
+	<Point x="452" y="824"/>
+	<Point x="453" y="824"/>
+	<Point x="453" y="752"/>
+	<Point x="454" y="752"/>
+	<Point x="454" y="680"/>
+	<Point x="455" y="680"/>
+	<Point x="455" y="608"/>
+	<Point x="456" y="608"/>
+	<Point x="456" y="536"/>
+	<Point x="457" y="536"/>
+	<Point x="457" y="464"/>
+	<Point x="458" y="464"/>
+	<Point x="458" y="392"/>
+	<Point x="459" y="392"/>
+	<Point x="459" y="320"/>
+	<Point x="460" y="320"/>
+	<Point x="460" y="248"/>
+	<Point x="461" y="248"/>
+	<Point x="461" y="177"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>lle. Valioſe en todo el diſcurſo dea ſalida, ſiem-
+pre que pudo, de traças i medios humanos, por no pe-
+dir a Dios ſin necedad los divinos; con los cuales acu
+de ſu Magead mas de buena gana, cuando no los eſpe
+ra ocioſa nuera induria. Libre ya de ſu priſion, i de-
+ſaparecido el Angel, que como a Pedro le ſacò della, ſe
+encaminò el bendito Padre, no a caſa de Maria madre
+de Marcos, como el Apool; pero a la de MARIA
+Madre de Dios, en las Carmelitas Deſcalças de Tole
+do. Las cuales, como por Pedro los Apooles, eaban
+ellas en ſu Convento cuidadoſas, i orando por el Apoſ-
+tolico Varon Fr. IOAN. Ordenò el Señor, que al tiem
+po que ſu Siervo llegaba à la porteria de las Monjas,
+ſalieſen della à buſcar un Confeſor para una Religioſa,
+que con ſubita necedad le uvo entonces meneer,
+Entrò con ea ocaſion en el Convento, donde pudo
+repararſe un rato, i guarecerſe de los Padres Calça-
+dos, que llegaron luego a buſcarle en Iglea, Sacriia i
+Locutorio. Idos ellos, i confeſada la doliente, ſalio el
+Venerable Padre de la clauſura, i recebido con ſecre-
+to en una carroça, que eaba prevenida de un ſeñor
+Canonigo de la ſanta Iglea, fue hoſpedado i regalado
+en ſu caſa algunos dias. De alli, bien acompañado, fue
+al Convento de ſus Deſcalços de Almodòvar; donde
+deſpues de nueve meſes, como parto bien logrado, ſaliẽ
+do del viẽtre eſcuro de aquella erecha Carcelilla, na
+cio a la luz de ſu Reforma, para ngular gloria della.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="468" y="2291"/>
+	<Point x="476" y="2292"/>
+	<Point x="521" y="2291"/>
+	<Point x="1011" y="2290"/>
+	<Point x="1011" y="2291"/>
+	<Point x="1064" y="2291"/>
+	<Point x="1064" y="2292"/>
+	<Point x="1118" y="2292"/>
+	<Point x="1118" y="2293"/>
+	<Point x="1153" y="2307"/>
+	<Point x="1171" y="2302"/>
+	<Point x="1176" y="2302"/>
+	<Point x="1194" y="2295"/>
+	<Point x="1215" y="2299"/>
+	<Point x="1307" y="2298"/>
+	<Point x="1328" y="2301"/>
+	<Point x="1372" y="2307"/>
+	<Point x="1417" y="2298"/>
+	<Point x="1440" y="2298"/>
+	<Point x="1440" y="2299"/>
+	<Point x="1464" y="2299"/>
+	<Point x="1489" y="2307"/>
+	<Point x="1512" y="2305"/>
+	<Point x="1614" y="2298"/>
+	<Point x="1654" y="2302"/>
+	<Point x="1654" y="2303"/>
+	<Point x="1707" y="2300"/>
+	<Point x="1788" y="2300"/>
+	<Point x="1815" y="2305"/>
+	<Point x="1815" y="2306"/>
+	<Point x="1835" y="2303"/>
+	<Point x="1869" y="2306"/>
+	<Point x="1869" y="2307"/>
+	<Point x="1913" y="2307"/>
+	<Point x="1913" y="2343"/>
+	<Point x="1912" y="2343"/>
+	<Point x="1912" y="2396"/>
+	<Point x="1911" y="2396"/>
+	<Point x="1911" y="2449"/>
+	<Point x="1910" y="2449"/>
+	<Point x="1910" y="2502"/>
+	<Point x="1909" y="2502"/>
+	<Point x="1909" y="2555"/>
+	<Point x="1908" y="2555"/>
+	<Point x="1908" y="2608"/>
+	<Point x="1907" y="2608"/>
+	<Point x="1907" y="2661"/>
+	<Point x="1906" y="2661"/>
+	<Point x="1906" y="2714"/>
+	<Point x="1905" y="2714"/>
+	<Point x="1905" y="2766"/>
+	<Point x="1879" y="2766"/>
+	<Point x="1879" y="2767"/>
+	<Point x="1853" y="2767"/>
+	<Point x="1853" y="2768"/>
+	<Point x="1827" y="2768"/>
+	<Point x="1827" y="2769"/>
+	<Point x="1801" y="2769"/>
+	<Point x="1801" y="2770"/>
+	<Point x="1775" y="2770"/>
+	<Point x="1775" y="2771"/>
+	<Point x="1775" y="2770"/>
+	<Point x="1671" y="2770"/>
+	<Point x="1671" y="2769"/>
+	<Point x="1359" y="2769"/>
+	<Point x="1359" y="2768"/>
+	<Point x="1048" y="2768"/>
+	<Point x="1048" y="2767"/>
+	<Point x="736" y="2767"/>
+	<Point x="736" y="2766"/>
+	<Point x="425" y="2766"/>
+	<Point x="426" y="2766"/>
+	<Point x="426" y="2694"/>
+	<Point x="427" y="2694"/>
+	<Point x="427" y="2622"/>
+	<Point x="428" y="2622"/>
+	<Point x="428" y="2550"/>
+	<Point x="429" y="2550"/>
+	<Point x="429" y="2478"/>
+	<Point x="430" y="2478"/>
+	<Point x="430" y="2406"/>
+	<Point x="431" y="2406"/>
+	<Point x="431" y="2334"/>
+	<Point x="432" y="2334"/>
+	<Point x="435" y="2291"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>8 DESTE Convento de Almodòvar (donde ſe ha
+llò en la ſegunda Iunta de ſolos Primitivos) fue a gover
+nar el del Calvario (Soledad Eremitica en Andaluzia) i
+paſando por el de las Religioſàs de la villa de Veas, las
+dexò con ſu celeial trato admiradas, e inflamadas en
+Dios. Llegò a ſu deſeado Yermo, donde començo a</Unicode></TextEquiv></TextRegion></Page></PcGts>

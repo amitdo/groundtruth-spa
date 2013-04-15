@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444222">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:43:13</Created>
+	<LastChange>2011-12-19T11:39:32</LastChange></Metadata>
+	<Page imageFilename="00444222.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="915" y="102"/>
+	<Point x="1531" y="102"/>
+	<Point x="1531" y="234"/>
+	<Point x="915" y="234"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="406" y="269"/>
+	<Point x="2068" y="251"/>
+	<Point x="2077" y="2672"/>
+	<Point x="1958" y="2656"/>
+	<Point x="1882" y="2689"/>
+	<Point x="1846" y="2698"/>
+	<Point x="1718" y="2725"/>
+	<Point x="416" y="2703"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>va como vna coſa que no nos podemos bien
+determinar,  es como vno  eà medio dor-
+mido. Eotro es boz tan clara que no ſe pier
+de vna laba de lo que ſe dize, y acaece ſer a
+tiempo, que eà el entendimiento y alma tan
+alborotada, y dirayda, que no acertaria a
+concertar vna buena razon, y haa guiſadas
+grandes ſentencias que le dizen, que ea
+aun eando muy recogida no pudiera alcan-
+çar, y a la primera palabra, como digo la
+mudan toda, en eſpecial  eà en arroba-
+miento, que las potencias ean ſuſpenſas,
+como ſe entenderan coſas que no auian ve-
+nido a la memoria aun antes, como ver-
+nan entonces que no obra ca, y la ima-
+ginacion eà como embouada. Entienda-
+ſe que quando ſe veen viones, o ſe en-
+tienden eas palabras, a mi parecer nun-
+ca es en tiempo que eà vnida el alma en
+el miſmo arrobamiento, que en ee tiem-
+po como ya dexo declarado, creo en la ſe-
+gunda agua, del todo ſe pierden todas las
+potencias, y a mi parecer ai ni ſe puede
+ver, ni entender, ni oyr. Ea en otro po-
+der toda, y en ee tiempo, que es muy bre-
+ue, no me parece la dexa el Señor para na-
+da libertad. Paado ee breue tiempo que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="614" y="3047"/>
+	<Point x="1582" y="3047"/>
+	<Point x="1582" y="3164"/>
+	<Point x="614" y="3164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="442" y="142"/>
+	<Point x="442" y="252"/>
+	<Point x="626" y="252"/>
+	<Point x="626" y="142"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>294</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1908" y="2684"/>
+	<Point x="1905" y="2755"/>
+	<Point x="2015" y="2755"/>
+	<Point x="2015" y="2684"/>
+	<Point x="1951" y="2663"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſe</Unicode></TextEquiv></TextRegion></Page></PcGts>

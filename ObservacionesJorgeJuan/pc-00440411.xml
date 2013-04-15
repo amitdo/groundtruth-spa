@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440411">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T07:36:35</Created>
+	<LastChange>2011-12-19T11:39:10</LastChange></Metadata>
+	<Page imageFilename="00440411.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r15" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="694" y="508"/>
+	<Point x="937" y="508"/>
+	<Point x="951" y="487"/>
+	<Point x="2619" y="487"/>
+	<Point x="2619" y="1558"/>
+	<Point x="691" y="1558"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Si ee exceo ſe añade à el grado de Meridiano con-
+tiguo al Equador, ſe tendrà el grado de la Latitud 40°;
+y con igual proceder continuando ſe conruirà la Tabla
+guiente, que nos ſervirà en el Capitulo tercero, para cor‐
+regir las diferencias en Latitud de la eima, y las dian‐
+cias navegadas. O bien,  ee methodo pareciere algo di‐
+latado, ſe podrà conruir la miſma Tabla, reduciendo la
+que dimos en el Libro antecedente pagina 346 en toeſas,
+à minutos del Equador, que ſe hace partiendo las toeſas,
+que ai ſe dieron de valor à cada grado, y arco por � toe‐
+ſas, que vale el minuto del Equador.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r3" type="other">
+	<Coords>
+	<Point x="1002" y="1695"/>
+	<Point x="2325" y="1691"/>
+	<Point x="2300" y="2708"/>
+	<Point x="1002" y="2756"/></Coords></GraphicRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="1002" y="4018"/>
+	<Point x="1950" y="4018"/>
+	<Point x="1950" y="4090"/>
+	<Point x="1002" y="4090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="762" y="394"/>
+	<Point x="923" y="394"/>
+	<Point x="923" y="498"/>
+	<Point x="762" y="498"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>388</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="1243" y="394"/>
+	<Point x="2027" y="394"/>
+	<Point x="2027" y="479"/>
+	<Point x="1243" y="479"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r14" type="stamp">
+	<Coords>
+	<Point x="1190" y="2922"/>
+	<Point x="1190" y="3608"/>
+	<Point x="1900" y="3608"/>
+	<Point x="1900" y="2922"/></Coords></GraphicRegion>
+	<TextRegion id="r15" type="catch-word">
+	<Coords>
+	<Point x="2408" y="3372"/>
+	<Point x="2408" y="3509"/>
+	<Point x="2591" y="3509"/>
+	<Point x="2591" y="3372"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TA‐</Unicode></TextEquiv></TextRegion></Page></PcGts>

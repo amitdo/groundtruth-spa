@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444247">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T11:16:12</Created>
+	<LastChange>2011-12-19T11:39:33</LastChange></Metadata>
+	<Page imageFilename="00444247.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="293" y="87"/>
+	<Point x="1532" y="87"/>
+	<Point x="1532" y="238"/>
+	<Point x="293" y="238"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="77" y="254"/>
+	<Point x="1748" y="254"/>
+	<Point x="1737" y="2644"/>
+	<Point x="1738" y="2644"/>
+	<Point x="1574" y="2648"/>
+	<Point x="1564" y="2649"/>
+	<Point x="912" y="2683"/>
+	<Point x="77" y="2677"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vnas inﬂuencias de la diuinidad: aqui junto
+con eas ſe vee nos acompaña, y quiere ha-
+zer mercedes tambien la humanidad ſacratiſ
+ma. Pues preguntome el confeor, Quien
+dixo que era Ieſu Chrio. El me lo dixo
+muchas vezes, reſpondi yo, mas antes que
+me lo dixee ſe imprimio en mi entendimien
+to que era el y antes deo me lo dezia y no
+le via. Sivna perſona que yo nunca vuiee
+vio no oydo nueuas de ea me vinieſ-
+ſe a hablar eando ciega o en grande eſ-
+curidad, y me dixee quien era, creerlo
+ya, mas no tan determinadamente lo podria
+afﬁrmar ſer aquea perſona como la vuie-
+ra vio: aca , que n verſe ſe imprime con
+vna noticia tan clara que no parece ſe pue-
+de dudar, que quiere el Señor ee tan eſ-
+culpida en el entendimiento, que no ſe pue-
+de dudar mas  lo que ſe vee, ni tanto, por-
+que en eo algunas vezes nos queda ſoſpe-
+cha  ſe nos antojo: aca, aunque de pre-
+o de ea ſoſpecha, queda por vna par-
+te gran certidumbre, que no tiene fuer-
+ça la duda, an es tambien en otra ma-
+nera que Dios enſeña a el alma y la ha-
+bla n hablar de la manera que queda
+dicho. Es vn lenguage tan del cielo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1522" y="2661"/>
+	<Point x="1700" y="2661"/>
+	<Point x="1700" y="2774"/>
+	<Point x="1522" y="2774"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="606" y="3019"/>
+	<Point x="1616" y="3019"/>
+	<Point x="1616" y="3167"/>
+	<Point x="606" y="3167"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1548" y="100"/>
+	<Point x="1758" y="100"/>
+	<Point x="1758" y="241"/>
+	<Point x="1548" y="241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>319</Unicode></TextEquiv></TextRegion></Page></PcGts>

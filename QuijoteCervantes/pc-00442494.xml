@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442494">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T23:38:18</Created>
+	<LastChange>2012-03-12T14:12:04</LastChange></Metadata>
+	<Page imageFilename="00442494.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="468" y="72"/>
+	<Point x="1043" y="60"/>
+	<Point x="1073" y="72"/>
+	<Point x="1085" y="110"/>
+	<Point x="1078" y="140"/>
+	<Point x="749" y="144"/>
+	<Point x="738" y="160"/>
+	<Point x="718" y="162"/>
+	<Point x="706" y="157"/>
+	<Point x="680" y="143"/>
+	<Point x="613" y="144"/>
+	<Point x="466" y="146"/>
+	<Point x="461" y="111"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tercera parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="186" y="160"/>
+	<Point x="595" y="153"/>
+	<Point x="618" y="153"/>
+	<Point x="693" y="155"/>
+	<Point x="716" y="169"/>
+	<Point x="731" y="165"/>
+	<Point x="822" y="157"/>
+	<Point x="1150" y="159"/>
+	<Point x="1155" y="363"/>
+	<Point x="1150" y="448"/>
+	<Point x="187" y="448"/>
+	<Point x="178" y="224"/>
+	<Point x="187" y="193"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ni me viene del cielo ea ruyna.
+Preo aure de morir, que es lo mas cierto,
+Que al mal de quien la cauſanoſe ſabe,
+Milagro es acertar la medicine.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="142" y="507"/>
+	<Point x="1437" y="514"/>
+	<Point x="1441" y="2083"/>
+	<Point x="1309" y="2097"/>
+	<Point x="1295" y="2111"/>
+	<Point x="1283" y="2109"/>
+	<Point x="1279" y="2098"/>
+	<Point x="1126" y="2110"/>
+	<Point x="153" y="2125"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Por ea troba, dixo Sancho, no ſe puede ſaber
+nada,  ya no es que por ee hilo que eà ahi ſe ſa‑
+que el ouio de todo. Que hilo eà aqui, dixo don
+Quixote? Pareceme, dixo Sancho, que vuera
+merced nombrò ahi hilo. No dixe no Fili, reſ‑
+pondio don Quixote, y ee n duda es el nom‑
+bre de la dama de quien ſe quexa el autor dee
+Soneto: y a fè que deue de ſer razonable Poeta, o
+yo ſe poco del arte. Luego tambien, dixo Sancho,
+ſe le entiende a vuera merced de trobas? Y mas
+de lo que tu pienſas, reſpondio don Quixote, y ve-
+raſlo quando eues vna carta, eſcrita en verſo de
+arriba a baxo, a mi ſeñora Dulzinea del Toboſo:
+porque quiero que ſepas Sancho, que todos, o los
+mas cauaeros andãtes de la edad paada, erã grã‑
+des trobadores, y grandes mucos, que eas dos
+abilidades, o gracias (por mejor dezir) fon anexas a
+los enamorados andantes. Verdad es,  las coplas
+de los paados cauaeros, tienen mas de eſpiritu, 
+de primor. Lea mas V. m. dixo Sancho, que ya ha‑
+ara algo  nos ſatisfaga. Boluio la hoja dõ Quixo
+te, y dixo: Eo es proſa, v parece carta. Carta miſsi
+ua, ſeñor, preguntò Sancho? En el principio no pa‑
+rece no de amores, reſpõdio dõ Quixote. Pues lea
+V. m. alto, dixo Sancho,  guo mucho deas coſas
+de amores. Que me plaze, dixo don Quixote, y le‑</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="449" y="2303"/>
+	<Point x="1121" y="2303"/>
+	<Point x="1121" y="2373"/>
+	<Point x="449" y="2373"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1182" y="2114"/>
+	<Point x="1182" y="2176"/>
+	<Point x="1448" y="2176"/>
+	<Point x="1446" y="2100"/>
+	<Point x="1309" y="2102"/>
+	<Point x="1304" y="2110"/>
+	<Point x="1300" y="2116"/>
+	<Point x="1251" y="2118"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>yendola</Unicode></TextEquiv></TextRegion></Page></PcGts>

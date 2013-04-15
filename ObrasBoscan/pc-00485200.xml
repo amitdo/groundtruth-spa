@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485200">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T07:54:42</Created>
+	<LastChange>2011-05-12T13:41:02</LastChange></Metadata>
+	<Page imageFilename="00485200.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="634" y="3023"/>
+	<Point x="1394" y="3023"/>
+	<Point x="1394" y="3095"/>
+	<Point x="634" y="3095"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="440" y="185"/>
+	<Point x="1658" y="177"/>
+	<Point x="1673" y="642"/>
+	<Point x="1688" y="2819"/>
+	<Point x="430" y="2807"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Muy juos me vernan eos martirios.
+Mas  mi iuuentud, y mi inocentia,
+Y el hazer de mi alma ſacriﬁcio,
+En los altares de tus mandamientos,
+Merecen gualardon, y no caigo:
+Por que conentes, que me den mas penas,
+Que ſufre Salmoneu, y ſufre Tycio.
+Preſentes, a tus ojos mis ſentidos
+Todos ean, n aſconderſe alguno.
+Duelate mi dolor, que tanto duele:
+Mueuan ya mis entrañas a las tuyas:
+Ten laima d'vn moço, que ſe pierde,
+Al primer pao de ſu dulce vida.
+Y tu Neptuno rey, deo que'n ſuerte
+Te cupo, en el partir con tus hermanos:
+Mira la cauſa de mis tries antos.
+Veras que por Amor, eo en peligro,
+De perderme'n mitad dee tu reyno.
+Tu ſabes, por Amor quantos dolores
+Padeçen, los mortales, y inmortales.
+Que padicie tu por Menalippe
+Por Ceres que paae y por Meduſa
+No boluie'n delphin, tu por Melantho
+Ai pudiee yo boluerme'n eo,
+Mas en tanta miſeria mucho pido.
+Si los males que paan por los vnos,
+Hazen ſentir los males de los otros:
+Por que mi mal no entes, o Neptuno.
+Y por que  le entes, no me hazes
+Camino, por mitad deas tus aguas.
+No ſufre tanto bien mi fuerte 'rea.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="721" y="66"/>
+	<Point x="721" y="172"/>
+	<Point x="1200" y="172"/>
+	<Point x="1200" y="66"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r9" type="other">
+	<Coords>
+	<Point x="1210" y="69"/>
+	<Point x="1210" y="163"/>
+	<Point x="1337" y="163"/>
+	<Point x="1337" y="69"/></Coords></GraphicRegion></Page></PcGts>

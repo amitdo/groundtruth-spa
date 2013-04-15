@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443942">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T00:38:48</Created>
+	<LastChange>2011-12-19T11:39:16</LastChange></Metadata>
+	<Page imageFilename="00443942.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="511" y="150"/>
+	<Point x="652" y="150"/>
+	<Point x="652" y="252"/>
+	<Point x="511" y="252"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>14</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="478" y="261"/>
+	<Point x="2071" y="252"/>
+	<Point x="2072" y="2610"/>
+	<Point x="2000" y="2613"/>
+	<Point x="1961" y="2616"/>
+	<Point x="1943" y="2628"/>
+	<Point x="1926" y="2636"/>
+	<Point x="1896" y="2637"/>
+	<Point x="1842" y="2643"/>
+	<Point x="1785" y="2647"/>
+	<Point x="490" y="2647"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>eſcriue, en que no ſe eſcriuan las reuelaciones
+que tuuo? Las hiorias de las ordenes de los
+ſanos Domingo y Franciſco andan en las
+manos y en los ojos de todos, y ca no ay hoja
+en eas n reuelacioõ o de los fundadores o
+de ſus diſcipulos. Habla Dios con ſus amigos
+n duda ninguna, y no les habla para que na‐
+die lo ſepa, no para que venga aluzlo que les
+dize, que como es luz amala en todas ſus co‐
+ſas, y como buſca la ſalud de los hombres, nun-
+cahaze eﬆas mercedes eſpeciales a vno no
+para aprouechar por medio del otros muchos.
+Mientras ſe dudo de la virtud de la ſana
+madre Tereſa, y mientras vuo gentes que pen‐
+ſaronalreues de lo que era, porque aun no ſe
+via la manera en que Dios aprobaua ſus
+obras, bien fue que eas hiorias no ſalieen
+aIuz ni anduuien en publico para eſcuſar la
+temeridad de los juyzios de algunos, mas aora
+deſpues de ſu, muerte, quando las miſmas
+coſas y el ſucceo deas hazen certidumbre
+que es Dios, y quando el milagro de la in‐
+corrupcion de ſu cuerpo y otros milagros que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="607" y="3059"/>
+	<Point x="1576" y="3059"/>
+	<Point x="1576" y="3152"/>
+	<Point x="607" y="3152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1847" y="2652"/>
+	<Point x="1847" y="2730"/>
+	<Point x="2052" y="2730"/>
+	<Point x="2050" y="2629"/>
+	<Point x="1972" y="2626"/>
+	<Point x="1945" y="2640"/>
+	<Point x="1930" y="2647"/>
+	<Point x="1922" y="2652"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cada</Unicode></TextEquiv></TextRegion></Page></PcGts>

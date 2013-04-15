@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444459">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:42:53</Created>
+	<LastChange>2011-12-19T11:39:46</LastChange></Metadata>
+	<Page imageFilename="00444459.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="347" y="89"/>
+	<Point x="1547" y="89"/>
+	<Point x="1547" y="209"/>
+	<Point x="347" y="209"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="193" y="222"/>
+	<Point x="1712" y="222"/>
+	<Point x="1727" y="220"/>
+	<Point x="1725" y="1016"/>
+	<Point x="1214" y="1016"/>
+	<Point x="1002" y="1029"/>
+	<Point x="852" y="1047"/>
+	<Point x="828" y="1051"/>
+	<Point x="771" y="1048"/>
+	<Point x="754" y="1045"/>
+	<Point x="721" y="1047"/>
+	<Point x="582" y="1050"/>
+	<Point x="379" y="1024"/>
+	<Point x="182" y="1026"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dome amiento, queria del todo no tratarlos.
+Siempre en todas las coſas me acõſejaua ee
+Señor, haa dezirme como me auia de auer
+con los ﬂacos, y con algunas perſonas. Iamas
+ſe deſcuyda de mi, algunas vezes eoy fati-
+gada de verme para tan poco en ſu ſeruicio,
+y de ver que por fuerça he de ocupar el tiem
+po en cuerpo tan ﬂaco y ruin como el mio,
+mas de lo que yo querria.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="189" y="1043"/>
+	<Point x="190" y="1037"/>
+	<Point x="363" y="1029"/>
+	<Point x="387" y="1031"/>
+	<Point x="397" y="1039"/>
+	<Point x="458" y="1045"/>
+	<Point x="585" y="1059"/>
+	<Point x="845" y="1057"/>
+	<Point x="855" y="1055"/>
+	<Point x="1089" y="1033"/>
+	<Point x="1441" y="1032"/>
+	<Point x="1727" y="1023"/>
+	<Point x="1733" y="2651"/>
+	<Point x="182" y="2660"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eaua vna vez en oracion, y vino la hora
+de dormir, y yo eaua con hartos dolores, y
+auia de tener el vomito ordinario, como me
+vi tan atada de mi, y el ſpiritu por otra parte
+queriendo tiempo para , vi me tã fatigada 
+comẽce a orar mucho y a afﬂigirme; eo no
+es ſola vna vez, no como digo muchas, que
+me parece me daua vn enojo contra mi meſ-
+ma, que en forma por entonces me abor-
+rezco, mas lo contino es entender de mi
+que no me tengo aborrecida, ni falto a lo
+que veo me es neceario. Y plega al Señor
+que no me tome muchas, mas de lo que es
+meneer, que  deuo hazer: ea que digo,
+eando en ea pena me aparecio el Señor y
+regalo mucho, y me dixo que hiziee yo eas
+coſas por amor de el, y lo paſae que era
+meneer agora mi vida. Y an me parece</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1519" y="2662"/>
+	<Point x="1740" y="2657"/>
+	<Point x="1738" y="2764"/>
+	<Point x="1519" y="2764"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="602" y="3011"/>
+	<Point x="1640" y="3011"/>
+	<Point x="1640" y="3170"/>
+	<Point x="602" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1571" y="121"/>
+	<Point x="1571" y="216"/>
+	<Point x="1726" y="214"/>
+	<Point x="1722" y="116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>539</Unicode></TextEquiv></TextRegion></Page></PcGts>

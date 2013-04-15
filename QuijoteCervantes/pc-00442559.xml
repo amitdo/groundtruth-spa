@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442559">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T07:19:42</Created>
+	<LastChange>2012-03-12T14:12:08</LastChange></Metadata>
+	<Page imageFilename="00442559.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="369" y="75"/>
+	<Point x="1117" y="74"/>
+	<Point x="1110" y="161"/>
+	<Point x="1092" y="161"/>
+	<Point x="493" y="166"/>
+	<Point x="484" y="188"/>
+	<Point x="462" y="190"/>
+	<Point x="425" y="176"/>
+	<Point x="364" y="174"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="132" y="175"/>
+	<Point x="419" y="183"/>
+	<Point x="463" y="194"/>
+	<Point x="493" y="195"/>
+	<Point x="554" y="180"/>
+	<Point x="1120" y="172"/>
+	<Point x="1153" y="174"/>
+	<Point x="1370" y="178"/>
+	<Point x="1385" y="2136"/>
+	<Point x="1353" y="2136"/>
+	<Point x="1321" y="2130"/>
+	<Point x="1289" y="2138"/>
+	<Point x="1228" y="2139"/>
+	<Point x="134" y="2142"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>eſperança, de que tendrian efeto nueros buenos y
+juos deeos. Ea me dixo, tan ſegura como yo de
+la traycion de don Fernando, que procurae bol-
+uer preo, porque creía que no tardaria mas la
+concluon de nueras voluntades, que tardae
+mi padre de hablar al tuyo. No ſe que ſe fue, que en
+acabando de dezirme eo, ſe le enaron los ojos
+de lagrimas, y vn nudo ſe le atraueò en la gargan‐
+ta, que no le dexaua hablar palabra, de otras mu‐
+chas que me parecio  procuraua dezirme. Que dè
+admirado dee nueuo accidente, haa ai jamas
+en ea vio, porque empre nos hablauamos, las
+vezes que la buena fortuna, y mi diligencia lo con‐
+cedia, con todo regozijo y contento, n mezclar
+en nueras platicas, lagrimas, ſuſpiros, zelos, ſoſ‐
+pechas, o temores. Todo era engrandecer yo
+mi ventura, por auermela dado el cielo por ſeño‐
+ra. Exageraua ſu beeza, admirauame de ſu va-
+lor, y entendimiento. Boluiame ea el recambio,
+alabando en mi lo que como enamorada le pare‐
+cia digno de alabança. Con eo nos contauamos
+cien mil niñerias, y acaecimientos de nueros
+vezinos, y conocidos: y a lo que mas ſe een-
+dia mi deſemboltura, era a tomarle, ca por fuer-
+ça, vna de ſus beas, y blancas manos, y egarla a
+mi boca, ſegun daua lugar la erecheza de vna ba-
+xa reja que nos diuidia. Pero la noche que prece‐
+dio al trie dia de mi partida, ea orò, gimiò, y
+ſuſpirò, y ſe fue, y me dexò eno de confuon, y
+ſobreſalto, eſpantado de auer vio tan nueuas, y
+tan tries mueras de dolor, y ſentimiento en
+Luſcinda. Pero por no deruyr mis eſperanças,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1239" y="2149"/>
+	<Point x="1301" y="2146"/>
+	<Point x="1315" y="2136"/>
+	<Point x="1335" y="2138"/>
+	<Point x="1363" y="2153"/>
+	<Point x="1361" y="2191"/>
+	<Point x="1237" y="2192"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>todo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="448" y="2297"/>
+	<Point x="1142" y="2297"/>
+	<Point x="1142" y="2359"/>
+	<Point x="455" y="2354"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1242" y="95"/>
+	<Point x="1245" y="166"/>
+	<Point x="1371" y="169"/>
+	<Point x="1371" y="95"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>142</Unicode></TextEquiv></TextRegion></Page></PcGts>

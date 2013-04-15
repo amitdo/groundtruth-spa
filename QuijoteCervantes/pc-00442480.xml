@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442480">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T15:36:03</Created>
+	<LastChange>2012-03-12T14:12:04</LastChange></Metadata>
+	<Page imageFilename="00442480.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="478" y="73"/>
+	<Point x="1133" y="73"/>
+	<Point x="1133" y="178"/>
+	<Point x="478" y="178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tercera parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="157" y="187"/>
+	<Point x="1458" y="194"/>
+	<Point x="1462" y="2166"/>
+	<Point x="1294" y="2169"/>
+	<Point x="1271" y="2187"/>
+	<Point x="147" y="2190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote al quarto, que era vn hombre de venera‐
+ble roro, con vna barba blanca, que le paaua del
+pecho: el qual oyendoſe preguntar la cauſa, porque
+ai venia, començo aorar, y no reſpõdio palabra:
+mas el quinto condenado, le ruio de lengua, y di-
+xo: Ee hombre honrado, va por quatro añ os a gale
+ras, au¡endo paeado las acoumbradas, veido, en
+pompa, y acauao. Eo es, dixo Sancho Pança a lo 
+a mi me parece, auer ſalido a la verguença. Aſsi es,
+replicò el galeote, y la culpa porque le dieron ea
+pena, es por auer do corredor de oreja, y aun de to
+do el cuerpo: en efeo quiero dezir, que ee caua‐
+ero va por alcahuete, y por tener aſsi me ſmo ſus
+puntas y coar de hechizero. A no auerle añadido
+eas puntas y coar, dixo don Quixote, por ſola‐
+mente el alcahuete limpio, no merecia el yr a vogar
+en las galeras, no a mandaas y a ſer general deas,
+porque no es aſsi como quiera el oﬁcio de alcahue-
+te, què es oﬁcio de diſcretos, y neceariſsimo en la
+republica, bien ordenada, y que no le deuia exer-
+cer, no gente muy bien nacida, y aun auia de auer
+veedor, y examinador de los tales, como le ay de
+los demas oﬁcios, con numero depurado y cono‐
+cido, como corredores de lonja, y dea manera ſe
+eſcuſarian muchos males, que ſe cauſan, por andar
+ee oﬁcio y exercicio entre gente idiota, y de po‐
+co entendimiento: como ſon mugerzias, de poco
+mas a menos, pajezios y truhanes, de pocos años,
+y de poca experiencia, que a la mas necearia
+ocaon, y quando es meneer dar vna traça, que
+importe, ſe les yelan las migas entre la boca, y la
+mano, y no ſaben qual es ſu mano derecha. Quiera</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1304" y="2179"/>
+	<Point x="1379" y="2171"/>
+	<Point x="1431" y="2178"/>
+	<Point x="1423" y="2236"/>
+	<Point x="1271" y="2251"/>
+	<Point x="1267" y="2196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>paar</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="448" y="2315"/>
+	<Point x="1134" y="2315"/>
+	<Point x="1134" y="2384"/>
+	<Point x="448" y="2384"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

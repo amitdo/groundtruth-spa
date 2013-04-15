@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485418">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T00:50:09</Created>
+	<LastChange>2011-05-12T13:41:31</LastChange></Metadata>
+	<Page imageFilename="00485418.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="622" y="3025"/>
+	<Point x="1391" y="3025"/>
+	<Point x="1391" y="3095"/>
+	<Point x="622" y="3095"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="459" y="185"/>
+	<Point x="1560" y="185"/>
+	<Point x="1590" y="2733"/>
+	<Point x="453" y="2736"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Haaua en la ribera, del gran rio
+De noche al puro frio, del ſereno
+A Cæſar, que'n ſu ſeno, ea penſoſo
+Del ſuceſo dudoſo, dea guerra.
+Que aunque de  deierra, la trieza
+Del caſo la grandeza: trae congo
+El penſamiento amigo, del remedio.
+Entramos buſcan medio, conuenible:
+Para que, aquel terrible, furor loco
+Les empeciee poco, y recibiee
+Tal erago, que fuee deroçado.
+Deſpues de aver hablado, ya canſados
+En la yerua acoados, ſe dormian:
+El gran Danubio oyan, ir ſonando
+Qua como aprouando, aquel conſejo.
+En eo el claro viejo, rio ſe via
+Que del agua ſalia, muy caando:
+De ſauzes coronado, y vn veido
+De las ouas texido, mal cubierto:
+Y en aquel ſueño incierto, les moraua
+Todo quanto tocaua, al gran negocio.
+Y pare cia que'l ocio, n prouecho
+Les ſacaua del pecho, por que luego:
+Como  en biuio fuego, ſe quemara
+Alguna coſa cara, ſe leuantan
+Del gran ſueño ys'eſpantan, alegrando
+El animo, y alçando, la eſperança.
+El rio n tardança, parecia
+Que'l agua diſponia, al gran viaje:
+Aanaua el paaje, y la corriente</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r11" type="other">
+	<Coords>
+	<Point x="1145" y="91"/>
+	<Point x="1279" y="89"/>
+	<Point x="1279" y="175"/>
+	<Point x="1145" y="172"/></Coords></GraphicRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="697" y="93"/>
+	<Point x="1135" y="90"/>
+	<Point x="1139" y="168"/>
+	<Point x="704" y="177"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion></Page></PcGts>

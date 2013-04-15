@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443976">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T11:13:22</Created>
+	<LastChange>2011-12-19T11:39:18</LastChange></Metadata>
+	<Page imageFilename="00443976.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="543" y="32"/>
+	<Point x="822" y="32"/>
+	<Point x="822" y="226"/>
+	<Point x="543" y="226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>48	</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="535" y="249"/>
+	<Point x="2088" y="245"/>
+	<Point x="2070" y="2626"/>
+	<Point x="1015" y="2658"/>
+	<Point x="547" y="2630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>grande la diligencia que traya mi padre pa‑
+ra buſcar remedio, y como no le dieron los
+medicos de aqui, procuro euarme a vn lu‑
+gar adonde auia mucha fama de que ſanauan
+ai otras enfermedades, y an dixeron haria
+la mia. Fue conmigo ea amiga que he dicho
+que tenia en caſa, que era antigua. En la caſa
+que era monja no ſe prometia clauſura. Eu-
+ue ca vn año por aa, y los tres meſes del,
+padeciendo tan grandiſsimo tormento en las
+curas que me hizieron tan rezias, que yo no
+ſe como las pude ſuﬀrir: y en n aunque las
+ſuﬀri, no las pudo ſuﬀrir mi ſugeto como
+dire. Auia de començarſe la cura en el prin‐
+cipio del verano, y yo fui enel principio del
+inuierno: todo ee tiempo euue en caſa
+de la hermana que he dicho que eaua en el
+aldea, eſperando el mes de Abril, porque
+eaua cerca, y no andar yendo y viniendo.
+Quando yua me dio aquel tio mio ( que ten‐
+go dicho que eaua en el camino ) vn libro,
+amaſe tercer abecedario, que trata de enſe‐
+ñar oracion de recogimiento, y pueo que
+ee primer año auia Iey do buenos libros,
+que no quiſe mas vſar de otros, porque ya
+entendia el daño que me auian hecho, no
+ſabia como proceder en oracion, ni como</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1848" y="2638"/>
+	<Point x="2065" y="2638"/>
+	<Point x="2065" y="2720"/>
+	<Point x="1848" y="2720"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>reco‑</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="625" y="3060"/>
+	<Point x="1567" y="3069"/>
+	<Point x="1571" y="3146"/>
+	<Point x="615" y="3146"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="969" y="115"/>
+	<Point x="969" y="205"/>
+	<Point x="1654" y="205"/>
+	<Point x="1654" y="115"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442994">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T02:50:59</Created>
+	<LastChange>2011-03-15T16:51:31</LastChange></Metadata>
+	<Page imageFilename="00442994.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="500" y="69"/>
+	<Point x="500" y="167"/>
+	<Point x="1091" y="167"/>
+	<Point x="1085" y="61"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fr. Ioan de la Cruz.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1495" y="87"/>
+	<Point x="1495" y="169"/>
+	<Point x="1585" y="169"/>
+	<Point x="1585" y="87"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>39</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="102" y="206"/>
+	<Point x="80" y="2695"/>
+	<Point x="886" y="2731"/>
+	<Point x="1320" y="2731"/>
+	<Point x="1475" y="2715"/>
+	<Point x="1582" y="2711"/>
+	<Point x="1615" y="204"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aun los hueſos. Cundiò pues el mal venenoſo por to-
+do el cuerpo, donde en varias partes levantaba tumo-
+res, i abria bocas,  le tenian en todos ſus miembros cõ-
+dolido, i a imitacion de ſu Señor, deſde la planta del pie
+haa la cabeça, hecho una llaga. Fue neceſario pren-
+der una ſoga del techo, para que ado a ella, como otro
+San-Geronimo, pudiera rodearſe en la cama. Crecian
+cada dia los dolores i aprieto de la enfermedad, no cre
+ciendo el alivio i conſu elo humano; antes faltando mas
+cada dia, ya por la ſequedad i deſvios del Prelado, ya
+por la pobreza de la caſa, ya por otras incomodida-
+des della, que era lo que de induria el miſmo ſe buſ-
+cò, viniendo a ee Convento. Pero como  le ſobràrã
+alivios ( para el Ino ſonlo los trabajos) eaba nueſ-
+tro pacientimo Iob en medio deas anguias con un
+roro ſereno, alegre, i humilde, agradeciendo a todos
+la caridad que le hazian, i pidiendoles perdon de la pe
+ſadumbre que les daba. Dezian los Medicos i Ciruja.
+nos que le curaban, ſer los dolores que padecia inten-
+mos, i que era heroico i milagroſo esfuerço de pa-
+ciencia, no quexarſe, ni morar en ellos ſentimiento, co
+mo  no fuera capaz de alguna alteracion. Hallabanle
+muchas vezes entre ſus dolores arrobado; i algunas
+era neceſario que el Medico ò Cirujano eſperaſen a
+que bolvieſe en , i aun en medio de las curas mas pe-
+noſas, tal vez ſe les traſponia. Divulgòſe por la Ciu-
+dad la fama de ſu ſantidad, i començaron a vitarlo i
+aclamarlo por Santa. Quieronle un dia ciertos devo
+tos ſeglares recrear con una muca, i al fin lo hizieron,
+aunque èl lo reio. Mas deſpues della, preguntado
+por un Religioſo familiar ſuyo, que le avia parecidoi
+dixor: No li oì, porque el Señor me ocupò en otra mejor;
+conſolandole ſin duda ſu Magead con algun alivio</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="778" y="2936"/>
+	<Point x="778" y="2991"/>
+	<Point x="1416" y="2991"/>
+	<Point x="1416" y="2936"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1451" y="2724"/>
+	<Point x="1451" y="2802"/>
+	<Point x="1573" y="2802"/>
+	<Point x="1573" y="2724"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>del</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="signature-mark">
+	<Coords>
+	<Point x="1051" y="2740"/>
+	<Point x="1051" y="2802"/>
+	<Point x="1157" y="2802"/>
+	<Point x="1157" y="2740"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>c 4</Unicode></TextEquiv></TextRegion></Page></PcGts>

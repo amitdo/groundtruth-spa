@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439350">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T09:02:29</Created>
+	<LastChange>2011-05-12T13:40:02</LastChange></Metadata>
+	<Page imageFilename="00439350.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="627" y="91"/>
+	<Point x="1538" y="91"/>
+	<Point x="1523" y="172"/>
+	<Point x="1286" y="168"/>
+	<Point x="601" y="169"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="295" y="218"/>
+	<Point x="356" y="193"/>
+	<Point x="391" y="195"/>
+	<Point x="476" y="198"/>
+	<Point x="587" y="184"/>
+	<Point x="1719" y="183"/>
+	<Point x="1719" y="2591"/>
+	<Point x="1372" y="2591"/>
+	<Point x="1318" y="2618"/>
+	<Point x="317" y="2614"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>empre la razon y el apetito. Que como el nos perſua-
+de con aqueo que mas conſorma con la naturaleza
+nuera, con lo que mas apetecemos; y eo ſea de tal
+calidad que nos pone guo el tratarlo, y deeo en el con-
+ſeguirlo. Y por el contrario, la razon es como el Mae-
+ro, que para bien corregirnos, anda empre con el
+açote de la reprehenon en la mano, acuſandonos lo
+mal que obramos: hazemos como los niños, huymos
+de la eſcuela con temor del caigo, y nos vamos à las
+caſas de las tias, ò de los abuelos, donde ſe nos haze re-
+galo. Dea manera, empre ò las mas vezes queda
+(que no deviera) la razon avaſaada de nuero apetito.
+El qual, como tiene ya ſobre noſotros adquirida tanta
+poſleſon y ſeñorio, endo el del torpe amor tan vehe-
+mente, tan poderoſo, tan propio de nuero ſer, tan uno
+y ordinario nuero, tan pegado y conforme à nuera
+naturaleza, que no es mas propria la reſpiracion ò el
+vivir: gueſe de neceſdad ſer lo mas diﬁcultoſo de re-
+primir, y el enemigo mas terrible, y el que con mayor
+poder y fuerças nos acomete, aſalta, y rinde. Y aun-
+que ſea notoria verdad, que teniendo la razon como
+tiene ſu antiguo y preëminente lugar, ſuele algunas
+vezes impedir con ſu mucha ſagacidad, que una repen-
+tina via (aunque trayga pujança de cauſas poderoſas
+que la favorezcan al mal) puedan con facilidad robar de
+improviſo la voluntad, facando à un hombre de : enpe-
+ro por como lo  tengo dicho, como el apetito y voluntad
+ſean tan certeros, tan libres, tan ſeñores, y enſeñados
+nunca à obedecer ni reconocer ſuperiores, es faciliſmo,
+que teniendolos amor de ſu parte, haga qualeſquier
+efeos de la manera, y ſegun que mejor le pareciere. Y
+tambien, porque endo como lo es todo bien apeteci-
+ble de ſu miſma naturaleza, y todo lo que ſe obra es en
+razon del bien que ſe nos repreſenta, ò haamos en eo,
+empre deeamos conſeguirlo, egandolo à noſotros.
+Y  nos fuee poſble, querriamos con el miſmo deeo
+convertirlo en ſuancia nuera. Reſulta deo no ſer</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1518" y="2597"/>
+	<Point x="1709" y="2597"/>
+	<Point x="1709" y="2670"/>
+	<Point x="1518" y="2670"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>forçoſo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="541" y="2865"/>
+	<Point x="1354" y="2865"/>
+	<Point x="1354" y="2946"/>
+	<Point x="541" y="2946"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="331" y="119"/>
+	<Point x="401" y="121"/>
+	<Point x="459" y="137"/>
+	<Point x="445" y="184"/>
+	<Point x="390" y="177"/>
+	<Point x="377" y="191"/>
+	<Point x="353" y="192"/>
+	<Point x="330" y="119"/>
+	<Point x="334" y="119"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>320</Unicode></TextEquiv></TextRegion></Page></PcGts>

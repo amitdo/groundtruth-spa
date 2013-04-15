@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443255">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T07:37:50</Created>
+	<LastChange>2011-03-15T16:51:44</LastChange></Metadata>
+	<Page imageFilename="00443255.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r16" index="2"/>
+	<RegionRefIndexed regionRef="r18" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="678" y="318"/>
+	<Point x="1512" y="318"/>
+	<Point x="1512" y="408"/>
+	<Point x="678" y="408"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITVLO VIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="488" y="462"/>
+	<Point x="1792" y="462"/>
+	<Point x="1792" y="788"/>
+	<Point x="488" y="788"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Del ſegundo genero de Daños, que es peligro de
+caer en propia eimacion, i v ana
+preſuncion.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1717" y="2782"/>
+	<Point x="1883" y="2782"/>
+	<Point x="1883" y="2850"/>
+	<Point x="1717" y="2850"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>hom-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="780" y="2938"/>
+	<Point x="1418" y="2938"/>
+	<Point x="1418" y="2988"/>
+	<Point x="780" y="2988"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="388" y="118"/>
+	<Point x="528" y="118"/>
+	<Point x="528" y="222"/>
+	<Point x="388" y="222"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>244</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="662" y="94"/>
+	<Point x="1490" y="94"/>
+	<Point x="1490" y="200"/>
+	<Point x="662" y="200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subida del monte Carmelo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="drop-capital">
+	<Coords>
+	<Point x="513" y="848"/>
+	<Point x="513" y="857"/>
+	<Point x="514" y="857"/>
+	<Point x="514" y="879"/>
+	<Point x="515" y="879"/>
+	<Point x="515" y="901"/>
+	<Point x="516" y="901"/>
+	<Point x="516" y="923"/>
+	<Point x="517" y="923"/>
+	<Point x="517" y="945"/>
+	<Point x="518" y="945"/>
+	<Point x="518" y="967"/>
+	<Point x="519" y="967"/>
+	<Point x="519" y="989"/>
+	<Point x="520" y="989"/>
+	<Point x="520" y="1011"/>
+	<Point x="521" y="1011"/>
+	<Point x="521" y="1033"/>
+	<Point x="522" y="1033"/>
+	<Point x="522" y="1054"/>
+	<Point x="495" y="1054"/>
+	<Point x="495" y="1055"/>
+	<Point x="467" y="1055"/>
+	<Point x="467" y="1056"/>
+	<Point x="439" y="1056"/>
+	<Point x="439" y="1057"/>
+	<Point x="411" y="1057"/>
+	<Point x="411" y="1058"/>
+	<Point x="400" y="1058"/>
+	<Point x="400" y="1044"/>
+	<Point x="399" y="1044"/>
+	<Point x="399" y="848"/>
+	<Point x="398" y="848"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1882" y="848"/>
+	<Point x="1882" y="946"/>
+	<Point x="1883" y="946"/>
+	<Point x="1883" y="1044"/>
+	<Point x="1884" y="1044"/>
+	<Point x="1884" y="1141"/>
+	<Point x="1885" y="1141"/>
+	<Point x="1885" y="1239"/>
+	<Point x="1886" y="1239"/>
+	<Point x="1886" y="1336"/>
+	<Point x="1887" y="1336"/>
+	<Point x="1887" y="1434"/>
+	<Point x="1888" y="1434"/>
+	<Point x="1888" y="1532"/>
+	<Point x="1889" y="1532"/>
+	<Point x="1889" y="1629"/>
+	<Point x="1890" y="1629"/>
+	<Point x="1890" y="1727"/>
+	<Point x="1891" y="1727"/>
+	<Point x="1891" y="1824"/>
+	<Point x="1892" y="1824"/>
+	<Point x="1892" y="1922"/>
+	<Point x="1893" y="1922"/>
+	<Point x="1893" y="2020"/>
+	<Point x="1894" y="2020"/>
+	<Point x="1894" y="2117"/>
+	<Point x="1895" y="2117"/>
+	<Point x="1895" y="2215"/>
+	<Point x="1896" y="2215"/>
+	<Point x="1896" y="2312"/>
+	<Point x="1897" y="2312"/>
+	<Point x="1897" y="2410"/>
+	<Point x="1898" y="2410"/>
+	<Point x="1898" y="2508"/>
+	<Point x="1899" y="2508"/>
+	<Point x="1899" y="2605"/>
+	<Point x="1900" y="2605"/>
+	<Point x="1900" y="2703"/>
+	<Point x="1901" y="2703"/>
+	<Point x="1894" y="2774"/>
+	<Point x="1861" y="2773"/>
+	<Point x="1718" y="2776"/>
+	<Point x="1698" y="2782"/>
+	<Point x="1651" y="2787"/>
+	<Point x="1528" y="2801"/>
+	<Point x="1528" y="2802"/>
+	<Point x="1341" y="2802"/>
+	<Point x="1341" y="2803"/>
+	<Point x="1155" y="2803"/>
+	<Point x="1155" y="2804"/>
+	<Point x="968" y="2804"/>
+	<Point x="968" y="2805"/>
+	<Point x="791" y="2811"/>
+	<Point x="775" y="2810"/>
+	<Point x="594" y="2813"/>
+	<Point x="581" y="2813"/>
+	<Point x="408" y="2807"/>
+	<Point x="408" y="2808"/>
+	<Point x="408" y="2612"/>
+	<Point x="407" y="2612"/>
+	<Point x="407" y="2416"/>
+	<Point x="406" y="2416"/>
+	<Point x="406" y="2220"/>
+	<Point x="405" y="2220"/>
+	<Point x="405" y="2024"/>
+	<Point x="404" y="2024"/>
+	<Point x="404" y="1828"/>
+	<Point x="403" y="1828"/>
+	<Point x="403" y="1632"/>
+	<Point x="402" y="1632"/>
+	<Point x="402" y="1436"/>
+	<Point x="401" y="1436"/>
+	<Point x="401" y="1240"/>
+	<Point x="400" y="1240"/>
+	<Point x="400" y="1060"/>
+	<Point x="413" y="1060"/>
+	<Point x="413" y="1059"/>
+	<Point x="441" y="1059"/>
+	<Point x="441" y="1058"/>
+	<Point x="469" y="1058"/>
+	<Point x="469" y="1057"/>
+	<Point x="497" y="1057"/>
+	<Point x="497" y="1056"/>
+	<Point x="524" y="1056"/>
+	<Point x="524" y="1055"/>
+	<Point x="525" y="1055"/>
+	<Point x="525" y="1052"/>
+	<Point x="524" y="1052"/>
+	<Point x="524" y="1031"/>
+	<Point x="523" y="1031"/>
+	<Point x="523" y="1009"/>
+	<Point x="522" y="1009"/>
+	<Point x="522" y="987"/>
+	<Point x="521" y="987"/>
+	<Point x="521" y="965"/>
+	<Point x="520" y="965"/>
+	<Point x="520" y="943"/>
+	<Point x="519" y="943"/>
+	<Point x="519" y="921"/>
+	<Point x="518" y="921"/>
+	<Point x="518" y="899"/>
+	<Point x="517" y="899"/>
+	<Point x="517" y="877"/>
+	<Point x="516" y="877"/>
+	<Point x="516" y="855"/>
+	<Point x="515" y="855"/>
+	<Point x="515" y="848"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>AS Aprehenones ſobrenaturales, ya d¡chas, de
+la Memoria ſon tambien a los Eſpirituales grande
+ocaon para caer en alguna preſuncion, ò vanidad,
+ hazen caſo deas, ò las tienen en algo. Porque a co
+mo eà mui libre de caer en ee vicio, el que no tiene
+nada deſo, pues no vè en  de que preſumir; a por el
+contrario el  lo tiene, tiene ocaon en la mano de pẽ
+ſar  ya es algo, pues tiene aqueas comunicaciones
+ſobrenaturales. Porque aunque es verdad, que lo puede
+atribuir a Dios, i darle gracias, ntiendoſe por indigno:
+con todo eſo ſe ſuele quedar cierta ſatisfacion oculta
+en el Eſpiritu i eimacion de aqueo i de , de que n
+ſentirlo les nace harta ſoberbia Eſpiritual. Lo cual pue
+den eos ver bien claramente en el diſguo que les na
+ce, i deſvio con quien no les alaba ſu Eſpiritu, ni les eſ-
+tima aqueas coſas que tienen, i la pena que les dà cuã
+do pienſan, o les dizen, que otros tienen aqueas miſ-
+mas coſas, o mejores. Todo lo cual nace de ſecreta eſ-
+timacion i ſoberbia, i eos no acaban de entender, que
+por ventura ean metidos en ea haa los ojos. Que
+pienſan, que baa cierta manera de conocimiento de
+ſu miſeria, eando juntamente con eo enos de ocul-
+ta eimacion, i ſatisfacion de  meſmos, agradandoſe
+mas de ſu Eſpiritu i bienes que del ageno, como el Fa-
+riſeo,  daba gracias a Dios, que no era como los otros</Unicode></TextEquiv></TextRegion></Page></PcGts>

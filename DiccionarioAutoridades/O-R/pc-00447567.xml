@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00447567">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T21:04:09</Created>
+	<LastChange>2011-07-28T11:27:18</LastChange></Metadata>
+	<Page imageFilename="00447567.tif" imageWidth="2748" imageHeight="4138">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r18" index="8"/>
+	<RegionRefIndexed regionRef="r20" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="drop-capital">
+	<Coords>
+	<Point x="486" y="382"/>
+	<Point x="615" y="380"/>
+	<Point x="624" y="550"/>
+	<Point x="547" y="551"/>
+	<Point x="486" y="532"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="792" y="237"/>
+	<Point x="2152" y="237"/>
+	<Point x="2152" y="355"/>
+	<Point x="792" y="355"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Académicos que ſe han admitido en el miſmo tiempo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="629" y="554"/>
+	<Point x="621" y="376"/>
+	<Point x="2492" y="378"/>
+	<Point x="2491" y="647"/>
+	<Point x="2209" y="653"/>
+	<Point x="2156" y="652"/>
+	<Point x="2048" y="635"/>
+	<Point x="1563" y="637"/>
+	<Point x="467" y="612"/>
+	<Point x="467" y="531"/>
+	<Point x="551" y="556"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L Do. D. Pedro Gonzalez, Cura proprio de la Parrochiál de S. Ni-
+colás dea Corte, fué admitido por Académico ſupernumeratio, por
+la auſencia de D. Thomás de Montes, en primero de Abril de 1734.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="463" y="619"/>
+	<Point x="1437" y="641"/>
+	<Point x="1603" y="644"/>
+	<Point x="2055" y="644"/>
+	<Point x="2156" y="656"/>
+	<Point x="2211" y="656"/>
+	<Point x="2493" y="654"/>
+	<Point x="2492" y="834"/>
+	<Point x="1404" y="867"/>
+	<Point x="1277" y="887"/>
+	<Point x="1190" y="855"/>
+	<Point x="569" y="867"/>
+	<Point x="463" y="864"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Don Alonſo Verdúgo de Caia, Conde de Torrepalma, fué admitido
+por Académico ſupernumeratio, por la auſencia de Don Joſeph de Monte-
+alegre, en 6. de Marzo de 1736.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="464" y="873"/>
+	<Point x="549" y="870"/>
+	<Point x="1154" y="866"/>
+	<Point x="1176" y="863"/>
+	<Point x="1280" y="891"/>
+	<Point x="1401" y="874"/>
+	<Point x="2512" y="847"/>
+	<Point x="2515" y="1182"/>
+	<Point x="1352" y="1188"/>
+	<Point x="1022" y="1183"/>
+	<Point x="977" y="1197"/>
+	<Point x="908" y="1173"/>
+	<Point x="462" y="1170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Don Aguin de Montiano y Luyando, Secretario de ſu Magead en
+la Junta de Comiarios Eſpañoles è Ingleſes, y Oﬁcial del Deſpacho Uni-
+verſál de Eádo, fué admitido por Académico ſupernumeratio, por la au-
+ſencia de Don Miguél de Peréa, en el miſmo dia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="461" y="1179"/>
+	<Point x="909" y="1181"/>
+	<Point x="982" y="1201"/>
+	<Point x="1012" y="1192"/>
+	<Point x="2507" y="1194"/>
+	<Point x="2507" y="1450"/>
+	<Point x="1919" y="1444"/>
+	<Point x="1776" y="1432"/>
+	<Point x="1722" y="1452"/>
+	<Point x="1658" y="1433"/>
+	<Point x="1622" y="1444"/>
+	<Point x="1590" y="1439"/>
+	<Point x="1531" y="1450"/>
+	<Point x="1494" y="1429"/>
+	<Point x="1306" y="1424"/>
+	<Point x="1248" y="1450"/>
+	<Point x="1217" y="1423"/>
+	<Point x="991" y="1418"/>
+	<Point x="944" y="1426"/>
+	<Point x="603" y="1422"/>
+	<Point x="461" y="1415"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Don Manuel de Viegas y Oyárbide: oy Maero de Mathemáticas de
+los Cabaeros Pages del Rey, fué admitido por Académico ſupernumera-
+tio, por la auſencia de D. Diego de Viegas y Quevedo, en el miſmo dia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="460" y="1421"/>
+	<Point x="910" y="1436"/>
+	<Point x="954" y="1436"/>
+	<Point x="993" y="1423"/>
+	<Point x="1208" y="1430"/>
+	<Point x="1246" y="1454"/>
+	<Point x="1308" y="1433"/>
+	<Point x="1489" y="1435"/>
+	<Point x="1535" y="1460"/>
+	<Point x="1595" y="1444"/>
+	<Point x="1627" y="1453"/>
+	<Point x="1655" y="1439"/>
+	<Point x="1725" y="1458"/>
+	<Point x="1781" y="1437"/>
+	<Point x="1929" y="1451"/>
+	<Point x="2508" y="1459"/>
+	<Point x="2515" y="2022"/>
+	<Point x="459" y="2015"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El P. Fr. Antonio Ventúra de Prado, del Orden de la Santiſsima Trini-
+dad, Redención de Cautivos, Maero del Número y Juicia de ſu Pro-
+vincia de Andalucía, Eleór general por ea, y dos veces Redentór Gene-
+ral, Cathedrático de Theología de la Univerdad de Sevia, Examinadór
+Synodál de ſu Arzobiſpado, Caliﬁcador de la Suprema General Inqui-
+ción, y Predicadór de ſu Magead, fué admitido por Académico ſupernu-
+meratio, por la auſencia de D. Joſeph Torréro y Marzo, en el miſmo dia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="credit">
+	<Coords>
+	<Point x="903" y="3935"/>
+	<Point x="1796" y="3935"/>
+	<Point x="1796" y="4035"/>
+	<Point x="903" y="4035"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="462" y="2023"/>
+	<Point x="2483" y="2035"/>
+	<Point x="2484" y="2297"/>
+	<Point x="467" y="2306"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Autóres elegidos para el uſo de las voces y modos de hablar, deſpues de los que
+contienen las lias que eán pueas al principio de los quatro
+Tomos antecedentes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="444" y="2313"/>
+	<Point x="2026" y="2311"/>
+	<Point x="2031" y="3083"/>
+	<Point x="445" y="3084"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fr. Gaſpar Ruiz de Montiáno, Monge Benediino.
+Fr. Franciſco de Santa Maria, Carmelita Deſcalzo.
+Don Fernando Baeeros y Saavedra.
+Fr. Pedro de Santa Teréſa, Carmelita Deſcalzo.
+El Do. D Juan de Ferreras: Académico.
+El P. Joſeph Caſani, de la Compañia de Jeſus: Académico.
+Don Joſeph Perez de Montóro.
+Don Pedro Sylvere.
+Don Manuel de Viegas y Piñateli: Académico.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="catch-word">
+	<Coords>
+	<Point x="2267" y="3612"/>
+	<Point x="2267" y="3745"/>
+	<Point x="2462" y="3745"/>
+	<Point x="2462" y="3612"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EX-</Unicode></TextEquiv></TextRegion></Page></PcGts>

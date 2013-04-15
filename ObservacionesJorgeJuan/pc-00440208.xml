@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440208">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T07:58:05</Created>
+	<LastChange>2011-12-19T11:38:50</LastChange></Metadata>
+	<Page imageFilename="00440208.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r10" index="0"/>
+	<RegionRefIndexed regionRef="r14" index="1"/>
+	<RegionRefIndexed regionRef="r33" index="2"/>
+	<RegionRefIndexed regionRef="r22" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="461" y="1354"/>
+	<Point x="2067" y="1354"/>
+	<Point x="2067" y="1645"/>
+	<Point x="1546" y="1654"/>
+	<Point x="461" y="1653"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Reduccion del angulo formado en Oyambàro (A)
+entre Pambamàrca (C) y Tanlàgua (D)
+à horizontàl.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="400" y="2096"/>
+	<Point x="2125" y="2096"/>
+	<Point x="2125" y="2401"/>
+	<Point x="1435" y="2410"/>
+	<Point x="400" y="2401"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Reduccion del angulo formado en Pambamàrca (C)
+entre Oyambàro (A) y Campanàrio (ζ)
+à horizontàl.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="catch-word">
+	<Coords>
+	<Point x="2070" y="3480"/>
+	<Point x="2238" y="3480"/>
+	<Point x="2238" y="3580"/>
+	<Point x="2070" y="3580"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>An-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="credit">
+	<Coords>
+	<Point x="961" y="4000"/>
+	<Point x="1961" y="4000"/>
+	<Point x="1961" y="4104"/>
+	<Point x="961" y="4104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="header">
+	<Coords>
+	<Point x="809" y="434"/>
+	<Point x="1765" y="434"/>
+	<Point x="1765" y="519"/>
+	<Point x="809" y="519"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="page-number">
+	<Coords>
+	<Point x="2011" y="439"/>
+	<Point x="2169" y="439"/>
+	<Point x="2169" y="523"/>
+	<Point x="2011" y="523"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>189</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r4">
+	<Coords>
+	<Point x="267" y="524"/>
+	<Point x="2263" y="529"/>
+	<Point x="2261" y="1306"/>
+	<Point x="267" y="1306"/></Coords></TableRegion>
+	<TableRegion id="r11">
+	<Coords>
+	<Point x="261" y="1670"/>
+	<Point x="1559" y="1666"/>
+	<Point x="2051" y="1662"/>
+	<Point x="2251" y="1670"/>
+	<Point x="2251" y="2070"/>
+	<Point x="261" y="2070"/></Coords></TableRegion>
+	<TableRegion id="r15">
+	<Coords>
+	<Point x="270" y="2423"/>
+	<Point x="476" y="2416"/>
+	<Point x="1051" y="2413"/>
+	<Point x="1426" y="2419"/>
+	<Point x="2267" y="2423"/>
+	<Point x="2267" y="2800"/>
+	<Point x="1815" y="2802"/>
+	<Point x="720" y="2794"/>
+	<Point x="270" y="2800"/></Coords></TableRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="554" y="2809"/>
+	<Point x="729" y="2803"/>
+	<Point x="1114" y="2803"/>
+	<Point x="1801" y="2805"/>
+	<Point x="1948" y="2809"/>
+	<Point x="1952" y="2897"/>
+	<Point x="1704" y="2905"/>
+	<Point x="1655" y="2900"/>
+	<Point x="1634" y="2896"/>
+	<Point x="1580" y="2891"/>
+	<Point x="1378" y="2889"/>
+	<Point x="1307" y="2906"/>
+	<Point x="1254" y="2900"/>
+	<Point x="1200" y="2884"/>
+	<Point x="554" y="2885"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Reduccion de los angulos en Guàpulo (E)</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r20">
+	<Coords>
+	<Point x="261" y="2896"/>
+	<Point x="596" y="2898"/>
+	<Point x="939" y="2892"/>
+	<Point x="1212" y="2895"/>
+	<Point x="1255" y="2905"/>
+	<Point x="1311" y="2913"/>
+	<Point x="1399" y="2897"/>
+	<Point x="1610" y="2901"/>
+	<Point x="1706" y="2913"/>
+	<Point x="1851" y="2906"/>
+	<Point x="2261" y="2898"/>
+	<Point x="2254" y="3468"/>
+	<Point x="270" y="3468"/></Coords></TableRegion></Page></PcGts>

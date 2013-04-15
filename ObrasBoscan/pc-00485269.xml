@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485269">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T13:32:33</Created>
+	<LastChange>2011-05-12T13:41:10</LastChange></Metadata>
+	<Page imageFilename="00485269.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/>
+	<RegionRefIndexed regionRef="r9" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r11" type="credit">
+	<Coords>
+	<Point x="625" y="3027"/>
+	<Point x="1387" y="3027"/>
+	<Point x="1387" y="3091"/>
+	<Point x="625" y="3091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="350" y="987"/>
+	<Point x="1610" y="987"/>
+	<Point x="1610" y="1752"/>
+	<Point x="350" y="1752"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Conuiene para eo, que os partays,
+Y traſpaando, por diuerſas vias,
+Adonde ean eas ſeñoras, vays,
+Y el camino a de ſer, en pocos dias.
+Al yr no os deternan: no lo temays,
+Que la y da ſera por tierras mias.
+Y enﬁn porque mas preo aa egueys,
+Mis ciſnes, y mi carro tomareys.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="367" y="206"/>
+	<Point x="1641" y="206"/>
+	<Point x="1641" y="913"/>
+	<Point x="367" y="913"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y el amanſar ſera, con las razones,
+Que mas manſas, y blandas, os parezcan:
+A ﬁn que dos tan duros coraçones,
+Con vna blanda fuerça ſenternezcan.
+Moueldes aa dentro ſus paiones,
+Con todos los deleytes que ſe ofrezcan,
+Y daldes a entender quan gran pecado,
+Comete quien no ama endo amado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="327" y="1797"/>
+	<Point x="1670" y="1797"/>
+	<Point x="1670" y="2555"/>
+	<Point x="327" y="2555"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y tomareys mi hijo, bien armado,
+Con las fuertes ſaetas que les tire.
+Mas quando ay ais a eas ya egado,
+Por el Niño mira, que no las mire.
+De ſolo ſu tirar tenga cuydado,
+D'ſuerte que entirando, ſe retire.
+Pareceos que ſeria buen concierto,
+Que Amor yendo a matar dae muerto.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="689" y="100"/>
+	<Point x="1221" y="100"/>
+	<Point x="1221" y="200"/>
+	<Point x="689" y="200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="1306" y="95"/>
+	<Point x="1643" y="95"/>
+	<Point x="1647" y="197"/>
+	<Point x="1308" y="191"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. CL.</Unicode></TextEquiv></TextRegion></Page></PcGts>

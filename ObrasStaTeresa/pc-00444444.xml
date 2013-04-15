@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444444">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:11:02</Created>
+	<LastChange>2011-12-19T11:39:45</LastChange></Metadata>
+	<Page imageFilename="00444444.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="866" y="82"/>
+	<Point x="1530" y="76"/>
+	<Point x="1520" y="198"/>
+	<Point x="857" y="204"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="363" y="215"/>
+	<Point x="1771" y="212"/>
+	<Point x="2007" y="212"/>
+	<Point x="2001" y="2601"/>
+	<Point x="1842" y="2633"/>
+	<Point x="1774" y="2624"/>
+	<Point x="1743" y="2619"/>
+	<Point x="1634" y="2618"/>
+	<Point x="1577" y="2639"/>
+	<Point x="1533" y="2636"/>
+	<Point x="369" y="2667"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que era todo en comparacion de aqueo, es
+an que ſe afrentaua deſpues mi alma, de
+ver que pueda parar en ninguna coſa criada,
+quanti mas afﬁcionarſe a ea, porque todo
+me parecia vn hormiguero, comulgue y eu-
+ue en la mia, que no ſe como pude ear, pa-
+reciome auia do muy breue eſpacio, eſpan-
+teme quando dio el relox, y vi que eran dos
+horas las que auia eado en aquel arroba-
+miento y gloria. Eſpantauame deſpues co-
+mo en egando a ee fuego que parece vie-
+ne de arriba de verdadero amor de Dios, por-
+que aunque mas lo quiera, y procure, y me
+deshaga por eo,  no es quando ſu Mage-
+ad quiere, como he dicho otras vezes, no
+ſoy parte para tener vna centea del, parece
+que conſume el hombre viejo de faltas, y ti-
+bieza, y miſeria, y a manera de como haze el
+aue phenix ſegun he leydo, y de la miſma ce-
+niza, deſpues que ſe quema, ſale otra: aſsi que-
+da hecha otra el alma deſpues con diﬀerentes
+deeos y fortaleza grãde, no parece es la que
+antes, no que comiença con nueua puridad
+el camino del Señor. Supplicando yo a ſu Ma
+gead fuee aſsi, y que de nueuo començaſ-
+ſe yo a ſeruirle, me dixo: Buena cõparacion has he
+cho, mirano ſe te oluide para procurar mejorarte ẽpre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1675" y="2624"/>
+	<Point x="1748" y="2622"/>
+	<Point x="1840" y="2637"/>
+	<Point x="1974" y="2609"/>
+	<Point x="1985" y="2702"/>
+	<Point x="1843" y="2702"/>
+	<Point x="1675" y="2701"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eando</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="617" y="3070"/>
+	<Point x="1568" y="3073"/>
+	<Point x="1561" y="3159"/>
+	<Point x="617" y="3147"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="436" y="104"/>
+	<Point x="436" y="207"/>
+	<Point x="628" y="207"/>
+	<Point x="628" y="104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>524</Unicode></TextEquiv></TextRegion></Page></PcGts>

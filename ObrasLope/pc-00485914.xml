@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485914">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T10:03:08</Created>
+	<LastChange>2011-07-28T11:29:12</LastChange></Metadata>
+	<Page imageFilename="00485914.tif" imageWidth="2250" imageHeight="3124">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="490" y="196"/>
+	<Point x="1196" y="212"/>
+	<Point x="1341" y="231"/>
+	<Point x="1752" y="250"/>
+	<Point x="1723" y="2819"/>
+	<Point x="1554" y="2791"/>
+	<Point x="1297" y="2810"/>
+	<Point x="493" y="2819"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>contra el Poniente leuanta
+a Roſas y Barcelona,
+frontera iure de Italia;
+y Maorca con ſus iﬂas
+enfrente deſcubren agua
+quedando en la tierra adentro
+Valencia qne Turia baña,
+y ai ea la gran Sagunto,
+y luego en la coa larga
+ſe veen Denia y Almeria,
+la antigua Cartago y Malaga:
+goza dentro el Reyno hermoſa
+de la Moriſca Granada,
+y enfrente el mar Aﬀricano
+de Gibraltar ſuena y brama,
+a Ceuta y las Algeziras
+muera con Tanger y alcaçar,
+y en la Andaluzia Medina
+y las columnas de Eſpaña:
+veeſe la ingne Tarifa,
+y de ſan Lucar la barra,
+y Seuia por el Betis
+ingne en letras y en armas.
+Ea es ſu coa ſeñor
+ por tierra la amenazas,
+Gaſcuña te da las puertas
+y las Montañas de Iaca.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="catch-word">
+	<Coords>
+	<Point x="1354" y="2815"/>
+	<Point x="1605" y="2815"/>
+	<Point x="1605" y="2889"/>
+	<Point x="1354" y="2889"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Carlos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="664" y="3059"/>
+	<Point x="665" y="3104"/>
+	<Point x="920" y="3103"/>
+	<Point x="1284" y="3104"/>
+	<Point x="1284" y="3113"/>
+	<Point x="1298" y="3113"/>
+	<Point x="1304" y="3103"/>
+	<Point x="1408" y="3102"/>
+	<Point x="1410" y="3060"/>
+	<Point x="1130" y="3061"/>
+	<Point x="831" y="3061"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="772" y="82"/>
+	<Point x="772" y="197"/>
+	<Point x="1104" y="203"/>
+	<Point x="1217" y="206"/>
+	<Point x="1334" y="226"/>
+	<Point x="1763" y="237"/>
+	<Point x="1775" y="197"/>
+	<Point x="1775" y="82"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comedia de Lope de Vega.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r5" type="handwritten-annotation">
+	<Coords>
+	<Point x="995" y="2842"/>
+	<Point x="1164" y="2842"/>
+	<Point x="1164" y="2986"/>
+	<Point x="995" y="2986"/></Coords></GraphicRegion></Page></PcGts>

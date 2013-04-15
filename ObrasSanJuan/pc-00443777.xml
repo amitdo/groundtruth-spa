@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443777">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T04:23:33</Created>
+	<LastChange>2010-12-27T09:02:30</LastChange></Metadata>
+	<Page imageFilename="00443777.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r15" index="2"/>
+	<RegionRefIndexed regionRef="r17" index="3"/>
+	<RegionRefIndexed regionRef="r8" index="4"/>
+	<RegionRefIndexed regionRef="r23" index="5"/>
+	<RegionRefIndexed regionRef="r21" index="6"/>
+	<RegionRefIndexed regionRef="r11" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="333" y="92"/>
+	<Point x="491" y="80"/>
+	<Point x="501" y="176"/>
+	<Point x="349" y="178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>764</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="826" y="62"/>
+	<Point x="1367" y="66"/>
+	<Point x="1364" y="169"/>
+	<Point x="1335" y="173"/>
+	<Point x="821" y="173"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Declaracion de la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="339" y="203"/>
+	<Point x="1857" y="192"/>
+	<Point x="1862" y="767"/>
+	<Point x="333" y="764"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no paſen los limites de ſu region, la ſenſual a molear i
+a inquietar la porcion ſuperior i eſpiritual del anima;
+porque no la impida aun por algun minimo movimien
+to el bien i ſuavidad de que goza; porque los movimi
+tos de la parte ſentiva i ſus potencias,  obran cuando
+el eſpiritu goza, tanto mas le molean i deſquietan,
+cuanto eos tien de mas obra i viveza. Dize pues a:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="805" y="849"/>
+	<Point x="1407" y="832"/>
+	<Point x="1408" y="951"/>
+	<Point x="807" y="962"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O Ninfas de Iudea.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="780" y="2936"/>
+	<Point x="1413" y="2937"/>
+	<Point x="1413" y="2994"/>
+	<Point x="776" y="2989"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="678" y="2205"/>
+	<Point x="1598" y="2200"/>
+	<Point x="1621" y="2416"/>
+	<Point x="1382" y="2423"/>
+	<Point x="1291" y="2417"/>
+	<Point x="653" y="2423"/>
+	<Point x="664" y="2325"/>
+	<Point x="671" y="2319"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En tanto que las flores iroſales,
+El ambar perfumea.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="catch-word">
+	<Coords>
+	<Point x="1762" y="2715"/>
+	<Point x="1762" y="2792"/>
+	<Point x="1865" y="2792"/>
+	<Point x="1865" y="2715"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſas</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="drop-capital">
+	<Coords>
+	<Point x="355" y="993"/>
+	<Point x="419" y="993"/>
+	<Point x="420" y="1016"/>
+	<Point x="422" y="1018"/>
+	<Point x="420" y="1050"/>
+	<Point x="421" y="1050"/>
+	<Point x="421" y="1080"/>
+	<Point x="422" y="1080"/>
+	<Point x="422" y="1111"/>
+	<Point x="423" y="1111"/>
+	<Point x="423" y="1134"/>
+	<Point x="421" y="1134"/>
+	<Point x="421" y="1135"/>
+	<Point x="386" y="1135"/>
+	<Point x="386" y="1136"/>
+	<Point x="354" y="1136"/>
+	<Point x="354" y="1119"/>
+	<Point x="355" y="1119"/>
+	<Point x="355" y="992"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="440" y="993"/>
+	<Point x="440" y="994"/>
+	<Point x="525" y="994"/>
+	<Point x="525" y="995"/>
+	<Point x="609" y="995"/>
+	<Point x="609" y="996"/>
+	<Point x="694" y="996"/>
+	<Point x="694" y="997"/>
+	<Point x="779" y="997"/>
+	<Point x="779" y="998"/>
+	<Point x="863" y="998"/>
+	<Point x="863" y="999"/>
+	<Point x="948" y="999"/>
+	<Point x="948" y="1000"/>
+	<Point x="1032" y="1000"/>
+	<Point x="1032" y="1001"/>
+	<Point x="1117" y="1001"/>
+	<Point x="1117" y="1002"/>
+	<Point x="1202" y="1002"/>
+	<Point x="1202" y="1003"/>
+	<Point x="1286" y="1003"/>
+	<Point x="1286" y="1004"/>
+	<Point x="1371" y="1004"/>
+	<Point x="1371" y="1005"/>
+	<Point x="1455" y="1005"/>
+	<Point x="1455" y="1006"/>
+	<Point x="1540" y="1006"/>
+	<Point x="1540" y="1007"/>
+	<Point x="1625" y="1007"/>
+	<Point x="1625" y="1008"/>
+	<Point x="1709" y="1008"/>
+	<Point x="1709" y="1009"/>
+	<Point x="1794" y="1009"/>
+	<Point x="1794" y="1010"/>
+	<Point x="1878" y="1010"/>
+	<Point x="1878" y="1295"/>
+	<Point x="1879" y="1295"/>
+	<Point x="1879" y="1579"/>
+	<Point x="1880" y="1579"/>
+	<Point x="1880" y="1864"/>
+	<Point x="1881" y="1864"/>
+	<Point x="1881" y="2147"/>
+	<Point x="1882" y="2147"/>
+	<Point x="1882" y="2148"/>
+	<Point x="1881" y="2148"/>
+	<Point x="1881" y="2147"/>
+	<Point x="1626" y="2147"/>
+	<Point x="1626" y="2146"/>
+	<Point x="1370" y="2146"/>
+	<Point x="1370" y="2145"/>
+	<Point x="1114" y="2145"/>
+	<Point x="1114" y="2144"/>
+	<Point x="858" y="2144"/>
+	<Point x="858" y="2143"/>
+	<Point x="602" y="2143"/>
+	<Point x="602" y="2142"/>
+	<Point x="346" y="2142"/>
+	<Point x="347" y="2142"/>
+	<Point x="347" y="2014"/>
+	<Point x="348" y="2014"/>
+	<Point x="348" y="1886"/>
+	<Point x="349" y="1886"/>
+	<Point x="349" y="1758"/>
+	<Point x="350" y="1758"/>
+	<Point x="350" y="1630"/>
+	<Point x="351" y="1630"/>
+	<Point x="351" y="1503"/>
+	<Point x="352" y="1503"/>
+	<Point x="352" y="1375"/>
+	<Point x="353" y="1375"/>
+	<Point x="353" y="1247"/>
+	<Point x="354" y="1247"/>
+	<Point x="354" y="1138"/>
+	<Point x="388" y="1138"/>
+	<Point x="388" y="1137"/>
+	<Point x="423" y="1137"/>
+	<Point x="423" y="1136"/>
+	<Point x="425" y="1136"/>
+	<Point x="426" y="1135"/>
+	<Point x="426" y="1131"/>
+	<Point x="425" y="1109"/>
+	<Point x="424" y="1109"/>
+	<Point x="424" y="1078"/>
+	<Point x="423" y="1078"/>
+	<Point x="423" y="1048"/>
+	<Point x="422" y="1048"/>
+	<Point x="425" y="1018"/>
+	<Point x="425" y="1014"/>
+	<Point x="421" y="993"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vdea ama a la parte inferior del anima que es la
+ſentiva, i amala Iudea, porque es flaca i carnal i
+de ſuyo ciega como es la gente Iudaica. I ama Ninfas
+a todas las imaginaciones, fantaas, i movimientos, i
+afeciones dea porcion inferior, a todas eas ama
+Ninfas: porque a como las Ninfas con ſu aﬁcion i gra
+cia atraen para  a los amantes, a eas operaciones i
+movimientos de la ſenſualidad ſabroſamente procu-
+ran atraer a  la voluntad de la parte razional, ſacan-
+dola de lo interior a  quiera lo eerior lo  eos quie-
+ren i apetecen, moviendo tambien al Entendimiento,
+i atrayendole a que ſe caſe i junte con eas en ſu baxo
+modo ſenſual, procurando conformar a la parte razio-
+nal, i aunarla con la ſenſual. Voſotras pues, dize, ope-
+raciones i movimientos ſenſuales,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="1880" y="2481"/>
+	<Point x="1881" y="2481"/>
+	<Point x="1881" y="2495"/>
+	<Point x="1882" y="2495"/>
+	<Point x="1882" y="2508"/>
+	<Point x="1883" y="2508"/>
+	<Point x="1883" y="2522"/>
+	<Point x="1884" y="2522"/>
+	<Point x="1884" y="2536"/>
+	<Point x="1885" y="2536"/>
+	<Point x="1885" y="2549"/>
+	<Point x="1886" y="2549"/>
+	<Point x="1886" y="2563"/>
+	<Point x="1887" y="2563"/>
+	<Point x="1887" y="2576"/>
+	<Point x="1888" y="2576"/>
+	<Point x="1888" y="2590"/>
+	<Point x="1889" y="2590"/>
+	<Point x="1889" y="2604"/>
+	<Point x="1890" y="2604"/>
+	<Point x="1890" y="2617"/>
+	<Point x="1891" y="2617"/>
+	<Point x="1891" y="2631"/>
+	<Point x="1892" y="2631"/>
+	<Point x="1892" y="2644"/>
+	<Point x="1893" y="2644"/>
+	<Point x="1893" y="2658"/>
+	<Point x="1894" y="2658"/>
+	<Point x="1894" y="2672"/>
+	<Point x="1895" y="2672"/>
+	<Point x="1895" y="2685"/>
+	<Point x="1896" y="2685"/>
+	<Point x="1896" y="2699"/>
+	<Point x="1897" y="2699"/>
+	<Point x="1897" y="2711"/>
+	<Point x="1898" y="2711"/>
+	<Point x="1898" y="2712"/>
+	<Point x="1897" y="2712"/>
+	<Point x="1897" y="2711"/>
+	<Point x="1880" y="2711"/>
+	<Point x="1880" y="2710"/>
+	<Point x="1862" y="2710"/>
+	<Point x="1862" y="2709"/>
+	<Point x="1844" y="2709"/>
+	<Point x="1844" y="2708"/>
+	<Point x="1826" y="2708"/>
+	<Point x="1826" y="2707"/>
+	<Point x="1808" y="2707"/>
+	<Point x="1808" y="2706"/>
+	<Point x="1780" y="2706"/>
+	<Point x="1780" y="2707"/>
+	<Point x="1770" y="2707"/>
+	<Point x="1770" y="2708"/>
+	<Point x="1761" y="2708"/>
+	<Point x="1761" y="2709"/>
+	<Point x="1751" y="2709"/>
+	<Point x="1751" y="2710"/>
+	<Point x="1741" y="2710"/>
+	<Point x="1741" y="2711"/>
+	<Point x="1732" y="2711"/>
+	<Point x="1732" y="2712"/>
+	<Point x="1722" y="2712"/>
+	<Point x="1722" y="2713"/>
+	<Point x="1713" y="2713"/>
+	<Point x="1713" y="2714"/>
+	<Point x="1703" y="2714"/>
+	<Point x="1703" y="2715"/>
+	<Point x="1693" y="2715"/>
+	<Point x="1693" y="2716"/>
+	<Point x="1684" y="2716"/>
+	<Point x="1684" y="2717"/>
+	<Point x="1674" y="2717"/>
+	<Point x="1674" y="2718"/>
+	<Point x="1665" y="2718"/>
+	<Point x="1665" y="2719"/>
+	<Point x="1655" y="2719"/>
+	<Point x="1655" y="2720"/>
+	<Point x="1645" y="2720"/>
+	<Point x="1645" y="2721"/>
+	<Point x="1636" y="2721"/>
+	<Point x="1636" y="2722"/>
+	<Point x="1626" y="2722"/>
+	<Point x="1626" y="2723"/>
+	<Point x="1616" y="2723"/>
+	<Point x="1616" y="2724"/>
+	<Point x="1607" y="2724"/>
+	<Point x="1607" y="2725"/>
+	<Point x="1597" y="2725"/>
+	<Point x="1597" y="2726"/>
+	<Point x="1588" y="2726"/>
+	<Point x="1588" y="2727"/>
+	<Point x="1578" y="2727"/>
+	<Point x="1578" y="2728"/>
+	<Point x="1568" y="2728"/>
+	<Point x="1568" y="2729"/>
+	<Point x="1559" y="2729"/>
+	<Point x="1559" y="2730"/>
+	<Point x="1549" y="2730"/>
+	<Point x="1549" y="2731"/>
+	<Point x="1540" y="2731"/>
+	<Point x="1540" y="2732"/>
+	<Point x="1530" y="2732"/>
+	<Point x="1530" y="2733"/>
+	<Point x="1520" y="2733"/>
+	<Point x="1520" y="2734"/>
+	<Point x="1511" y="2734"/>
+	<Point x="1511" y="2735"/>
+	<Point x="1501" y="2735"/>
+	<Point x="1501" y="2736"/>
+	<Point x="1492" y="2736"/>
+	<Point x="1492" y="2737"/>
+	<Point x="1492" y="2736"/>
+	<Point x="1388" y="2736"/>
+	<Point x="1388" y="2735"/>
+	<Point x="1284" y="2735"/>
+	<Point x="1284" y="2734"/>
+	<Point x="1180" y="2734"/>
+	<Point x="1180" y="2733"/>
+	<Point x="1077" y="2733"/>
+	<Point x="1077" y="2732"/>
+	<Point x="973" y="2732"/>
+	<Point x="973" y="2731"/>
+	<Point x="869" y="2731"/>
+	<Point x="869" y="2730"/>
+	<Point x="765" y="2730"/>
+	<Point x="765" y="2729"/>
+	<Point x="662" y="2729"/>
+	<Point x="662" y="2728"/>
+	<Point x="558" y="2728"/>
+	<Point x="558" y="2727"/>
+	<Point x="454" y="2727"/>
+	<Point x="454" y="2726"/>
+	<Point x="351" y="2726"/>
+	<Point x="352" y="2726"/>
+	<Point x="352" y="2697"/>
+	<Point x="353" y="2697"/>
+	<Point x="353" y="2668"/>
+	<Point x="354" y="2668"/>
+	<Point x="354" y="2640"/>
+	<Point x="355" y="2640"/>
+	<Point x="355" y="2611"/>
+	<Point x="356" y="2611"/>
+	<Point x="356" y="2600"/>
+	<Point x="461" y="2600"/>
+	<Point x="461" y="2601"/>
+	<Point x="462" y="2601"/>
+	<Point x="462" y="2602"/>
+	<Point x="464" y="2602"/>
+	<Point x="464" y="2601"/>
+	<Point x="465" y="2601"/>
+	<Point x="471" y="2564"/>
+	<Point x="473" y="2556"/>
+	<Point x="473" y="2552"/>
+	<Point x="466" y="2512"/>
+	<Point x="467" y="2512"/>
+	<Point x="467" y="2469"/>
+	<Point x="1120" y="2469"/>
+	<Point x="1120" y="2468"/>
+	<Point x="1880" y="2468"/>
+	<Point x="1880" y="2467"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>As Flores ſon las virtudes del alma, como arriba
+diximos, los Roſales ſon las tres Potencias del alma
+Entendimiento, Memoria, i Voluntad, que evan ro-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="drop-capital">
+	<Coords>
+	<Point x="465" y="2469"/>
+	<Point x="465" y="2510"/>
+	<Point x="464" y="2510"/>
+	<Point x="462" y="2552"/>
+	<Point x="463" y="2555"/>
+	<Point x="466" y="2572"/>
+	<Point x="463" y="2599"/>
+	<Point x="463" y="2598"/>
+	<Point x="356" y="2598"/>
+	<Point x="356" y="2583"/>
+	<Point x="357" y="2583"/>
+	<Point x="357" y="2554"/>
+	<Point x="358" y="2554"/>
+	<Point x="358" y="2526"/>
+	<Point x="359" y="2526"/>
+	<Point x="359" y="2497"/>
+	<Point x="360" y="2497"/>
+	<Point x="360" y="2469"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442625">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:01:10</Created>
+	<LastChange>2012-03-12T14:12:12</LastChange></Metadata>
+	<Page imageFilename="00442625.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="420" y="66"/>
+	<Point x="1142" y="70"/>
+	<Point x="1137" y="153"/>
+	<Point x="548" y="178"/>
+	<Point x="413" y="175"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="143" y="175"/>
+	<Point x="373" y="177"/>
+	<Point x="458" y="183"/>
+	<Point x="1118" y="177"/>
+	<Point x="1448" y="181"/>
+	<Point x="1486" y="2148"/>
+	<Point x="1240" y="2153"/>
+	<Point x="1100" y="2178"/>
+	<Point x="118" y="2175"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>des, y darte lo prometido. Hagote ſaber, que n ca-
+ſarme podre cumplir tu deeo, muy facilmente por
+que yo ſacare de adahala, antes de entrar en la bata-
+a, que ſaliendo vencedor dea, ya que no me caſe,
+me han de dar vna parte del reyno, para que la pue-
+da dar a quien yo quiere: y en dandomela, a quien
+quieres tu que la de, no a ti? Eo eá claro, reſpon-
+dio Sancho, pero mire vuera merced que la eſco-
+ja hàzia la marina, porque no me contentare la vi-
+uienda, pueda embarcar mis negros vaaos, y ha-
+zer deos lo que ya he dicho. Y vuera merced no
+ſe cure de yr por agora a ver a mi ſeñora Dulzinea,
+no vayae a matar al Gigante, y concluyamos ee
+negocio, que por Dios que ſe me aſsienta, que ha de
+ſer de mucha honra, y de mucho prouecho. Digote
+Sancho, dixo don Quixote, que eàs en lo cierto, y
+que aure de tomar tu conſejo, en quanto el yr antes
+con la Princeſa, que a ver a Dulzinea. Y auiſote que
+no digas nada a nadie, ni a los que con noſotros vie-
+nen, de lo que aqui hemos departido, y tratado, que
+pues Dulzinea es tan recatada, que no quiere que ſe
+ſepan ſus penſamientos, no ſerà bien que yo, ni otro
+por mi los deſcubra. Pues  eo es aſsi, dixo Sãcho,
+como haze vuera merced, que todos los que ven-
+ce por ſu braço, ſe vayan a preſentar ante mi ſeñora
+Dulzinea, endo eo ﬁrma de ſu nombre, que la
+quiere bien, y que es ſu enamorado Y endo forço-
+ſo, que los que fueren, ſe han de yr a hincar de ﬁno-
+jos ante ſu preſencia, y dezir que van de parte de
+vuera merced à dae la obediencia, como ſe pue-
+den encubrir los penſamiẽtos de entrambos? O que
+necio, y que mple que eres, dixo don Quixote. Tu</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="448" y="2298"/>
+	<Point x="1132" y="2295"/>
+	<Point x="1119" y="2353"/>
+	<Point x="1031" y="2351"/>
+	<Point x="1025" y="2359"/>
+	<Point x="1016" y="2358"/>
+	<Point x="1014" y="2354"/>
+	<Point x="454" y="2356"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1294" y="88"/>
+	<Point x="1294" y="171"/>
+	<Point x="1458" y="171"/>
+	<Point x="1458" y="88"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>175</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1257" y="2167"/>
+	<Point x="1257" y="2215"/>
+	<Point x="1430" y="2215"/>
+	<Point x="1430" y="2167"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no ves</Unicode></TextEquiv></TextRegion></Page></PcGts>

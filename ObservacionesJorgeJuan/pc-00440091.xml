@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440091">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T04:37:20</Created>
+	<LastChange>2011-12-19T11:38:41</LastChange></Metadata>
+	<Page imageFilename="00440091.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r15" index="0"/>
+	<RegionRefIndexed regionRef="r16" index="1"/>
+	<RegionRefIndexed regionRef="r22" index="2"/>
+	<RegionRefIndexed regionRef="r26" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1264" y="338"/>
+	<Point x="2098" y="349"/>
+	<Point x="2098" y="426"/>
+	<Point x="1264" y="423"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="685" y="1658"/>
+	<Point x="1741" y="1653"/>
+	<Point x="1767" y="1660"/>
+	<Point x="2200" y="1660"/>
+	<Point x="2252" y="1661"/>
+	<Point x="2324" y="1673"/>
+	<Point x="2351" y="1673"/>
+	<Point x="2389" y="1674"/>
+	<Point x="2400" y="1677"/>
+	<Point x="2608" y="1680"/>
+	<Point x="2616" y="2033"/>
+	<Point x="1952" y="2029"/>
+	<Point x="1909" y="2052"/>
+	<Point x="1667" y="2055"/>
+	<Point x="1626" y="2032"/>
+	<Point x="910" y="2033"/>
+	<Point x="683" y="2033"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Es de notar en ee Eclipſe una particularidad, y es,
+que huvo Faculas, que ſe immergieron deſpues, que otras
+ſalieron de la ſombra. En la miſma obſervacion ſe vè, que
+Dionio entrò en ſombra, deſpues que ſaliò Grimaldi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="676" y="2043"/>
+	<Point x="920" y="2040"/>
+	<Point x="1620" y="2042"/>
+	<Point x="1655" y="2066"/>
+	<Point x="1933" y="2059"/>
+	<Point x="1953" y="2041"/>
+	<Point x="2619" y="2044"/>
+	<Point x="2622" y="2278"/>
+	<Point x="1794" y="2296"/>
+	<Point x="1687" y="2330"/>
+	<Point x="1616" y="2344"/>
+	<Point x="1182" y="2363"/>
+	<Point x="676" y="2358"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El dia 24 de Enero de 1739, eando tambien en
+Quito, obſervè con un anteojo de reﬂexion de 14 pulga‐
+das de largo, el que ſe gue.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="682" y="2699"/>
+	<Point x="982" y="2692"/>
+	<Point x="1052" y="2692"/>
+	<Point x="1072" y="2703"/>
+	<Point x="1358" y="2702"/>
+	<Point x="1391" y="2690"/>
+	<Point x="2323" y="2702"/>
+	<Point x="2328" y="2715"/>
+	<Point x="2389" y="2715"/>
+	<Point x="2592" y="2708"/>
+	<Point x="2593" y="3367"/>
+	<Point x="2545" y="3367"/>
+	<Point x="2138" y="3365"/>
+	<Point x="1068" y="3385"/>
+	<Point x="997" y="3448"/>
+	<Point x="687" y="3450"/>
+	<Point x="683" y="3312"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La ſombra en ea obſervacion ſe viò bien terminada,
+aunque la Penumbra era muy eendida, pero bien diin‐
+guida de la ſombra. El Eclipſe me pareciò ﬁnalizar en el ex‐
+tremo de un Diametro tirado en la Luna por la Facula
+blanca junto à Inſula nus medii de la parte del Septentrion,
+y por poco mas al medio dia que Plinio, y tambien por
+Buialdo. Las Nubes me impidieron el obſervar las demàs
+Phaſes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="credit">
+	<Coords>
+	<Point x="1000" y="4000"/>
+	<Point x="1946" y="4000"/>
+	<Point x="1946" y="4100"/>
+	<Point x="1000" y="4100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="page-number">
+	<Coords>
+	<Point x="761" y="345"/>
+	<Point x="757" y="430"/>
+	<Point x="887" y="429"/>
+	<Point x="890" y="345"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>74</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r11">
+	<Coords>
+	<Point x="688" y="437"/>
+	<Point x="896" y="437"/>
+	<Point x="986" y="434"/>
+	<Point x="1230" y="431"/>
+	<Point x="2087" y="435"/>
+	<Point x="2207" y="423"/>
+	<Point x="2602" y="423"/>
+	<Point x="2603" y="1250"/>
+	<Point x="2601" y="1669"/>
+	<Point x="2554" y="1671"/>
+	<Point x="2427" y="1671"/>
+	<Point x="2316" y="1662"/>
+	<Point x="2289" y="1660"/>
+	<Point x="2239" y="1652"/>
+	<Point x="1719" y="1648"/>
+	<Point x="1439" y="1648"/>
+	<Point x="688" y="1646"/></Coords></TableRegion>
+	<TableRegion id="r18">
+	<Coords>
+	<Point x="687" y="2389"/>
+	<Point x="1207" y="2385"/>
+	<Point x="1618" y="2366"/>
+	<Point x="1783" y="2338"/>
+	<Point x="1829" y="2322"/>
+	<Point x="1840" y="2317"/>
+	<Point x="2136" y="2308"/>
+	<Point x="2598" y="2302"/>
+	<Point x="2592" y="2703"/>
+	<Point x="2335" y="2708"/>
+	<Point x="2323" y="2697"/>
+	<Point x="2245" y="2694"/>
+	<Point x="1390" y="2687"/>
+	<Point x="1348" y="2699"/>
+	<Point x="1154" y="2701"/>
+	<Point x="1072" y="2700"/>
+	<Point x="1062" y="2685"/>
+	<Point x="726" y="2682"/>
+	<Point x="687" y="2680"/></Coords></TableRegion>
+	<TextRegion id="r26" type="catch-word">
+	<Coords>
+	<Point x="2493" y="3374"/>
+	<Point x="2493" y="3454"/>
+	<Point x="2606" y="3454"/>
+	<Point x="2606" y="3374"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El</Unicode></TextEquiv></TextRegion></Page></PcGts>

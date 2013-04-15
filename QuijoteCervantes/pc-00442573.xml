@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442573">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T20:51:50</Created>
+	<LastChange>2012-03-12T14:12:09</LastChange></Metadata>
+	<Page imageFilename="00442573.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="413" y="52"/>
+	<Point x="1171" y="51"/>
+	<Point x="1170" y="153"/>
+	<Point x="558" y="151"/>
+	<Point x="532" y="173"/>
+	<Point x="410" y="167"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="174" y="166"/>
+	<Point x="374" y="164"/>
+	<Point x="399" y="165"/>
+	<Point x="421" y="179"/>
+	<Point x="523" y="179"/>
+	<Point x="545" y="180"/>
+	<Point x="563" y="163"/>
+	<Point x="1290" y="156"/>
+	<Point x="1319" y="178"/>
+	<Point x="1430" y="173"/>
+	<Point x="1402" y="281"/>
+	<Point x="174" y="286"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>lo impidio vna voz que egò a ſus oydos, que con
+tries acentos dezia dea manera.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="178" y="292"/>
+	<Point x="1426" y="287"/>
+	<Point x="1450" y="2127"/>
+	<Point x="1208" y="2133"/>
+	<Point x="1143" y="2119"/>
+	<Point x="880" y="2117"/>
+	<Point x="791" y="2138"/>
+	<Point x="182" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ay Dios,  ſerà poſsible que he ya haa do lugar
+que pueda ſeruir de eſcondida ſepultura a la carga
+peſada dee cuerpo, que tan cõtra mi voluntad ſoſ-
+tengo? Si ſerà,  la ſoledad que prometen eas e‐
+tras no me miente. Ay deſdichada, y quan mas
+agradable compañia haràn eos riſcos, y malezas
+a mi intencion, pues me daràn lugar para que con
+quexas comunique mi deſgracia al cielo, que no
+la de ningun hombre humano, pues no ay ningu‐
+no en la tierra de quien ſe pueda eſperar conſejo
+en las dudas, aliuio en las quexas, ni remedio en
+los males. Todas eas razones oyeron, y perci‐
+bieron, el Cura, y los que con el eauan: y por
+parecerles, como eo era, que ai junto las dezian,
+ſe leuantaron a buſcar el dueño, y no huuieron
+andado veynte paos, quando detras de vn pe‐
+ñaſco vieron ſentado al pie de vn freſno, a vn mo‐
+ço, veido como labrador, al qual por tener in‐
+clinado el roro, a cauſa de que ſe lauaua los pies
+en el arroyo que por ai corria, no ſe le pudie‐
+ron ver por entonces: y eos egaron con tan‐
+to lencio, que del no fueron ſentidos, ni el ea-
+ua a otra coſa atento, que a lauarſe los pies, que
+eran tales que no parecian no dos pedaços de
+blanco crial, que entre las otras piedras del arro‐
+yo ſe auian nacido. Suſpendioles la blancura, y
+beeza de los pies, pareciendoles que no eauan
+hechos a piſar terrones, ni a andar tras el arado, y
+los bueyes, como moraua el habito de ſu dueño:
+y aſsi viendo que no auian do ſentidos, el Cura</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="signature-mark">
+	<Coords>
+	<Point x="943" y="2122"/>
+	<Point x="1126" y="2122"/>
+	<Point x="1126" y="2206"/>
+	<Point x="943" y="2206"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T 5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="424" y="2279"/>
+	<Point x="1163" y="2279"/>
+	<Point x="1145" y="2358"/>
+	<Point x="436" y="2357"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1289" y="93"/>
+	<Point x="1289" y="146"/>
+	<Point x="1340" y="164"/>
+	<Point x="1427" y="163"/>
+	<Point x="1429" y="93"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>149</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1325" y="2140"/>
+	<Point x="1325" y="2216"/>
+	<Point x="1437" y="2216"/>
+	<Point x="1437" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion></Page></PcGts>

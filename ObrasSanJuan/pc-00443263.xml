@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443263">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T18:40:19</Created>
+	<LastChange>2011-03-15T16:51:44</LastChange></Metadata>
+	<Page imageFilename="00443263.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="823" y="63"/>
+	<Point x="889" y="55"/>
+	<Point x="1602" y="60"/>
+	<Point x="1600" y="171"/>
+	<Point x="1589" y="165"/>
+	<Point x="823" y="150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subida del monte Carmelo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="421" y="207"/>
+	<Point x="434" y="186"/>
+	<Point x="1907" y="181"/>
+	<Point x="1913" y="207"/>
+	<Point x="1913" y="705"/>
+	<Point x="1889" y="715"/>
+	<Point x="889" y="684"/>
+	<Point x="889" y="744"/>
+	<Point x="850" y="744"/>
+	<Point x="418" y="739"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>arriba dicha, no ſolo no ſe ha de procurar, mas aunque
+Dios lo embie ſe ha de deſviar. I que claro eà, que
+pues Dios lo dà, para bien lo dà, i buen efeto harà. Que
+no avemos de arrojar las margaritas a mal. I aun es
+genero de ſoberbia, no querer admitir las coſas de-
+Dios, como que n eas por noſotros miſmos nos po
+dremos valer.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="414" y="750"/>
+	<Point x="789" y="751"/>
+	<Point x="925" y="751"/>
+	<Point x="1912" y="752"/>
+	<Point x="1883" y="2745"/>
+	<Point x="1690" y="2748"/>
+	<Point x="1677" y="2761"/>
+	<Point x="1636" y="2771"/>
+	<Point x="1607" y="2760"/>
+	<Point x="389" y="2762"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Para ſatisfacion dea objecion, es meneer adver-
+tir lo que diximos en el capitulo quinze i diez i ſeis del
+ſegundo libro, donde ſe reſponde en mucha parte a eſ-
+ta duda. Porque ai dezimos, que el bien que redunda
+en el alma de las Aprehenones ſobrenaturales, cuan-
+do ſon de buena parte, pavamente ſe obra en el alma
+cuando ſe repreſentan al ſentido, n que las Potencias
+hagan de ſuyo alguna operacion. De donde no es me-
+neer que la Volũtad haga ao de admitirlas; porque
+como tambien avemos dicho,  el alma entonces quie
+re obrar ſegun la habilidad de ſus Potencias, antes con
+ſu operacion baxa natural impediria lo ſobrenatural,
+que por medio deas Aprehenones obra Dios enton
+ces en ea, que ſacaſe algun provecho de ſu exercicio
+de obra. Sino que a como ſe le da al alma pavamen-
+te el Eſpiritu de aqueas Aprehenones imaginarias;
+a pavamente ſe ha de aver en eas el alma, n po-
+ner ſus acciones interiores, ò exteriores en nada, en el
+ſentido arriba dicho. I eo es guardar los ſentimientos
+de Dios; porque dea manera no los pierde por ſu ma-
+nera baxa de obrar. I eo es tambien no apagar el Eſpi
+ritu, porque apagarleìa  el alma ſe quieſe a ver de o-
+tra manera que Dios la eva. Lo cual haria,  dandole
+Dios el Eſpiritu pavamẽte como haze en eas Apre-
+henones, ea entonces ſe quieſe aver en eas aiva
+mẽte obrando de ſuyo cõ el entendimiento, ò queriẽdo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="778" y="2936"/>
+	<Point x="1418" y="2940"/>
+	<Point x="1420" y="2985"/>
+	<Point x="1418" y="2995"/>
+	<Point x="780" y="2995"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="426" y="81"/>
+	<Point x="426" y="165"/>
+	<Point x="568" y="165"/>
+	<Point x="568" y="81"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>252</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1726" y="2761"/>
+	<Point x="1726" y="2850"/>
+	<Point x="1870" y="2850"/>
+	<Point x="1870" y="2761"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>algo</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443782">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T04:24:42</Created>
+	<LastChange>2010-12-27T09:04:23</LastChange></Metadata>
+	<Page imageFilename="00443782.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r13" index="2"/>
+	<RegionRefIndexed regionRef="r15" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r21" index="5"/>
+	<RegionRefIndexed regionRef="r19" index="6"/>
+	<RegionRefIndexed regionRef="r7" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="418" y="72"/>
+	<Point x="1172" y="85"/>
+	<Point x="1161" y="198"/>
+	<Point x="410" y="194"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cancion Trigematertia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="70" y="214"/>
+	<Point x="1592" y="218"/>
+	<Point x="1594" y="236"/>
+	<Point x="1621" y="854"/>
+	<Point x="63" y="865"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>municacion de Dios por las eſpaldas, como hizo Dios
+con Moiſes, que es conocerle por ſus efetos i obras, -
+no con la haz de Dios, que es comunicacion eſencial
+de la divinidad n otro algun medio en el alma, por
+cierto contao dea en la divinidad: lo cual es coſa a-
+gena de todo ſentido i acidentes, por cuanto es toque
+de ſuancias deſnudas, es a ſaber, del alma mediante las
+potencias dichas i divinidad. I por eſo dize luego:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="456" y="896"/>
+	<Point x="1092" y="887"/>
+	<Point x="1103" y="1010"/>
+	<Point x="461" y="1019"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I no quieras dezio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="470" y="2260"/>
+	<Point x="1221" y="2274"/>
+	<Point x="1205" y="2407"/>
+	<Point x="465" y="2405"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mas mira las campañas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1494" y="2761"/>
+	<Point x="1534" y="2756"/>
+	<Point x="1536" y="2763"/>
+	<Point x="1558" y="2761"/>
+	<Point x="1572" y="2760"/>
+	<Point x="1605" y="2758"/>
+	<Point x="1614" y="2818"/>
+	<Point x="1563" y="2821"/>
+	<Point x="1561" y="2823"/>
+	<Point x="1543" y="2821"/>
+	<Point x="1525" y="2823"/>
+	<Point x="1499" y="2819"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tro</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="774" y="2936"/>
+	<Point x="1425" y="2932"/>
+	<Point x="1419" y="3003"/>
+	<Point x="1292" y="3003"/>
+	<Point x="759" y="3001"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="1425" y="94"/>
+	<Point x="1425" y="196"/>
+	<Point x="1587" y="196"/>
+	<Point x="1587" y="94"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>769</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="drop-capital">
+	<Coords>
+	<Point x="89" y="1064"/>
+	<Point x="220" y="1064"/>
+	<Point x="220" y="1164"/>
+	<Point x="221" y="1164"/>
+	<Point x="221" y="1266"/>
+	<Point x="87" y="1266"/>
+	<Point x="87" y="1242"/>
+	<Point x="88" y="1242"/>
+	<Point x="88" y="1152"/>
+	<Point x="89" y="1152"/>
+	<Point x="89" y="1063"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="473" y="1064"/>
+	<Point x="473" y="1065"/>
+	<Point x="856" y="1065"/>
+	<Point x="856" y="1066"/>
+	<Point x="1240" y="1066"/>
+	<Point x="1240" y="1067"/>
+	<Point x="1623" y="1067"/>
+	<Point x="1623" y="1171"/>
+	<Point x="1624" y="1171"/>
+	<Point x="1624" y="1274"/>
+	<Point x="1625" y="1274"/>
+	<Point x="1625" y="1378"/>
+	<Point x="1626" y="1378"/>
+	<Point x="1626" y="1481"/>
+	<Point x="1627" y="1481"/>
+	<Point x="1627" y="1585"/>
+	<Point x="1628" y="1585"/>
+	<Point x="1628" y="1688"/>
+	<Point x="1629" y="1688"/>
+	<Point x="1629" y="1792"/>
+	<Point x="1630" y="1792"/>
+	<Point x="1630" y="1895"/>
+	<Point x="1631" y="1895"/>
+	<Point x="1631" y="1999"/>
+	<Point x="1632" y="1999"/>
+	<Point x="1632" y="2102"/>
+	<Point x="1633" y="2102"/>
+	<Point x="1633" y="2205"/>
+	<Point x="1634" y="2205"/>
+	<Point x="1571" y="2205"/>
+	<Point x="1571" y="2206"/>
+	<Point x="1509" y="2206"/>
+	<Point x="1509" y="2207"/>
+	<Point x="1447" y="2207"/>
+	<Point x="1447" y="2208"/>
+	<Point x="1384" y="2208"/>
+	<Point x="1384" y="2209"/>
+	<Point x="1322" y="2209"/>
+	<Point x="1322" y="2210"/>
+	<Point x="1260" y="2210"/>
+	<Point x="1260" y="2211"/>
+	<Point x="1197" y="2211"/>
+	<Point x="1197" y="2212"/>
+	<Point x="1135" y="2212"/>
+	<Point x="1135" y="2213"/>
+	<Point x="1073" y="2213"/>
+	<Point x="1073" y="2214"/>
+	<Point x="1010" y="2214"/>
+	<Point x="1010" y="2215"/>
+	<Point x="948" y="2215"/>
+	<Point x="948" y="2216"/>
+	<Point x="886" y="2216"/>
+	<Point x="886" y="2217"/>
+	<Point x="823" y="2217"/>
+	<Point x="823" y="2218"/>
+	<Point x="761" y="2218"/>
+	<Point x="761" y="2219"/>
+	<Point x="699" y="2219"/>
+	<Point x="699" y="2220"/>
+	<Point x="636" y="2220"/>
+	<Point x="636" y="2221"/>
+	<Point x="574" y="2221"/>
+	<Point x="574" y="2222"/>
+	<Point x="512" y="2222"/>
+	<Point x="512" y="2223"/>
+	<Point x="449" y="2223"/>
+	<Point x="449" y="2224"/>
+	<Point x="387" y="2224"/>
+	<Point x="387" y="2225"/>
+	<Point x="325" y="2225"/>
+	<Point x="325" y="2226"/>
+	<Point x="262" y="2226"/>
+	<Point x="262" y="2227"/>
+	<Point x="200" y="2227"/>
+	<Point x="200" y="2228"/>
+	<Point x="138" y="2228"/>
+	<Point x="138" y="2229"/>
+	<Point x="77" y="2229"/>
+	<Point x="77" y="2230"/>
+	<Point x="76" y="2230"/>
+	<Point x="76" y="2229"/>
+	<Point x="77" y="2229"/>
+	<Point x="77" y="2140"/>
+	<Point x="78" y="2140"/>
+	<Point x="78" y="2050"/>
+	<Point x="79" y="2050"/>
+	<Point x="79" y="1960"/>
+	<Point x="80" y="1960"/>
+	<Point x="80" y="1870"/>
+	<Point x="81" y="1870"/>
+	<Point x="81" y="1781"/>
+	<Point x="82" y="1781"/>
+	<Point x="82" y="1691"/>
+	<Point x="83" y="1691"/>
+	<Point x="83" y="1601"/>
+	<Point x="84" y="1601"/>
+	<Point x="84" y="1511"/>
+	<Point x="85" y="1511"/>
+	<Point x="85" y="1422"/>
+	<Point x="86" y="1422"/>
+	<Point x="86" y="1332"/>
+	<Point x="87" y="1332"/>
+	<Point x="87" y="1268"/>
+	<Point x="222" y="1268"/>
+	<Point x="222" y="1269"/>
+	<Point x="225" y="1269"/>
+	<Point x="225" y="1267"/>
+	<Point x="224" y="1267"/>
+	<Point x="224" y="1265"/>
+	<Point x="223" y="1265"/>
+	<Point x="223" y="1162"/>
+	<Point x="222" y="1162"/>
+	<Point x="222" y="1064"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>S a ſaber, I no quieras dezio como antes, cuãdo las
+comunicaciones que en mi haziaseran demanera,
+que las dezias a los ſentidos eeriores, por ſer co-
+ſas de que eos eran capazes: porque no eran tan al-
+tas i profundas, que no pudieſen eos alcançarlas: mas
+aora ſean tan ſubidas i tan ſuanciales i tan de adtro,
+que no quieras dezirſelo a eos, demanera que ſean ca
+pazes deas: porque la ſuancia no ſe puede comuni-
+car en los ſentidos, i a lo que puede caer en ſentido
+no es Dios eſencialmente. Deſeando pues el alma aqui
+ea comunicacion de Dios eſencial, que no cae en ſen-
+tido, le pide que ſea demanera, que no ſe les diga à e-
+os, eo es, no quieras comunicarte en eſe termino tan
+baxo i tan de afuera, que pueda en el comunicar el ſen
+tido i el dicho</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1625" y="2445"/>
+	<Point x="1626" y="2445"/>
+	<Point x="1626" y="2459"/>
+	<Point x="1627" y="2459"/>
+	<Point x="1627" y="2474"/>
+	<Point x="1628" y="2474"/>
+	<Point x="1628" y="2488"/>
+	<Point x="1629" y="2488"/>
+	<Point x="1629" y="2503"/>
+	<Point x="1630" y="2503"/>
+	<Point x="1630" y="2517"/>
+	<Point x="1631" y="2517"/>
+	<Point x="1631" y="2532"/>
+	<Point x="1632" y="2532"/>
+	<Point x="1632" y="2546"/>
+	<Point x="1633" y="2546"/>
+	<Point x="1633" y="2561"/>
+	<Point x="1634" y="2561"/>
+	<Point x="1634" y="2575"/>
+	<Point x="1635" y="2575"/>
+	<Point x="1635" y="2590"/>
+	<Point x="1636" y="2590"/>
+	<Point x="1636" y="2604"/>
+	<Point x="1637" y="2604"/>
+	<Point x="1637" y="2619"/>
+	<Point x="1638" y="2619"/>
+	<Point x="1638" y="2633"/>
+	<Point x="1639" y="2633"/>
+	<Point x="1639" y="2648"/>
+	<Point x="1640" y="2648"/>
+	<Point x="1640" y="2662"/>
+	<Point x="1641" y="2662"/>
+	<Point x="1641" y="2677"/>
+	<Point x="1642" y="2677"/>
+	<Point x="1642" y="2691"/>
+	<Point x="1643" y="2691"/>
+	<Point x="1643" y="2706"/>
+	<Point x="1644" y="2706"/>
+	<Point x="1644" y="2720"/>
+	<Point x="1645" y="2720"/>
+	<Point x="1645" y="2735"/>
+	<Point x="1646" y="2735"/>
+	<Point x="1646" y="2749"/>
+	<Point x="1647" y="2749"/>
+	<Point x="1561" y="2749"/>
+	<Point x="1561" y="2750"/>
+	<Point x="1475" y="2750"/>
+	<Point x="1475" y="2751"/>
+	<Point x="1390" y="2751"/>
+	<Point x="1390" y="2752"/>
+	<Point x="1304" y="2752"/>
+	<Point x="1304" y="2753"/>
+	<Point x="1218" y="2753"/>
+	<Point x="1218" y="2754"/>
+	<Point x="1133" y="2754"/>
+	<Point x="1133" y="2755"/>
+	<Point x="1047" y="2755"/>
+	<Point x="1047" y="2756"/>
+	<Point x="961" y="2756"/>
+	<Point x="961" y="2757"/>
+	<Point x="876" y="2757"/>
+	<Point x="876" y="2758"/>
+	<Point x="790" y="2758"/>
+	<Point x="790" y="2759"/>
+	<Point x="704" y="2759"/>
+	<Point x="704" y="2760"/>
+	<Point x="619" y="2760"/>
+	<Point x="619" y="2761"/>
+	<Point x="533" y="2761"/>
+	<Point x="533" y="2762"/>
+	<Point x="447" y="2762"/>
+	<Point x="447" y="2763"/>
+	<Point x="362" y="2763"/>
+	<Point x="362" y="2764"/>
+	<Point x="276" y="2764"/>
+	<Point x="276" y="2765"/>
+	<Point x="190" y="2765"/>
+	<Point x="190" y="2766"/>
+	<Point x="106" y="2766"/>
+	<Point x="106" y="2767"/>
+	<Point x="105" y="2767"/>
+	<Point x="105" y="2766"/>
+	<Point x="106" y="2766"/>
+	<Point x="106" y="2694"/>
+	<Point x="107" y="2694"/>
+	<Point x="107" y="2621"/>
+	<Point x="108" y="2621"/>
+	<Point x="108" y="2569"/>
+	<Point x="168" y="2569"/>
+	<Point x="168" y="2570"/>
+	<Point x="232" y="2570"/>
+	<Point x="232" y="2571"/>
+	<Point x="233" y="2571"/>
+	<Point x="233" y="2573"/>
+	<Point x="235" y="2573"/>
+	<Point x="235" y="2572"/>
+	<Point x="236" y="2572"/>
+	<Point x="236" y="2566"/>
+	<Point x="237" y="2566"/>
+	<Point x="237" y="2559"/>
+	<Point x="238" y="2559"/>
+	<Point x="238" y="2552"/>
+	<Point x="239" y="2552"/>
+	<Point x="239" y="2545"/>
+	<Point x="240" y="2545"/>
+	<Point x="240" y="2539"/>
+	<Point x="241" y="2539"/>
+	<Point x="241" y="2532"/>
+	<Point x="242" y="2532"/>
+	<Point x="242" y="2525"/>
+	<Point x="243" y="2525"/>
+	<Point x="243" y="2518"/>
+	<Point x="244" y="2518"/>
+	<Point x="244" y="2512"/>
+	<Point x="245" y="2512"/>
+	<Point x="245" y="2505"/>
+	<Point x="246" y="2505"/>
+	<Point x="246" y="2498"/>
+	<Point x="247" y="2498"/>
+	<Point x="247" y="2491"/>
+	<Point x="248" y="2491"/>
+	<Point x="248" y="2485"/>
+	<Point x="249" y="2485"/>
+	<Point x="249" y="2478"/>
+	<Point x="250" y="2478"/>
+	<Point x="250" y="2471"/>
+	<Point x="251" y="2471"/>
+	<Point x="251" y="2464"/>
+	<Point x="252" y="2464"/>
+	<Point x="252" y="2458"/>
+	<Point x="253" y="2458"/>
+	<Point x="253" y="2451"/>
+	<Point x="254" y="2451"/>
+	<Point x="254" y="2444"/>
+	<Point x="255" y="2444"/>
+	<Point x="255" y="2440"/>
+	<Point x="385" y="2440"/>
+	<Point x="385" y="2439"/>
+	<Point x="523" y="2439"/>
+	<Point x="523" y="2438"/>
+	<Point x="661" y="2438"/>
+	<Point x="661" y="2437"/>
+	<Point x="799" y="2437"/>
+	<Point x="799" y="2436"/>
+	<Point x="936" y="2436"/>
+	<Point x="936" y="2435"/>
+	<Point x="1074" y="2435"/>
+	<Point x="1074" y="2434"/>
+	<Point x="1212" y="2434"/>
+	<Point x="1212" y="2433"/>
+	<Point x="1350" y="2433"/>
+	<Point x="1350" y="2432"/>
+	<Point x="1488" y="2432"/>
+	<Point x="1488" y="2431"/>
+	<Point x="1625" y="2431"/>
+	<Point x="1625" y="2430"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A avemos dicho, que el mirar de Dios es amar; las
+que aqui ama Campañas ſon la multitud de virtu-
+des i dones, i perfeciones i riquezas eſpirituales del
+alma; i a es, como  dixera: Mas antes cõviertete ad</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="drop-capital">
+	<Coords>
+	<Point x="253" y="2440"/>
+	<Point x="253" y="2442"/>
+	<Point x="252" y="2442"/>
+	<Point x="252" y="2449"/>
+	<Point x="251" y="2449"/>
+	<Point x="251" y="2456"/>
+	<Point x="250" y="2456"/>
+	<Point x="250" y="2462"/>
+	<Point x="249" y="2462"/>
+	<Point x="249" y="2469"/>
+	<Point x="248" y="2469"/>
+	<Point x="248" y="2476"/>
+	<Point x="247" y="2476"/>
+	<Point x="247" y="2483"/>
+	<Point x="246" y="2483"/>
+	<Point x="246" y="2489"/>
+	<Point x="245" y="2489"/>
+	<Point x="245" y="2496"/>
+	<Point x="244" y="2496"/>
+	<Point x="244" y="2503"/>
+	<Point x="243" y="2503"/>
+	<Point x="243" y="2510"/>
+	<Point x="242" y="2510"/>
+	<Point x="242" y="2516"/>
+	<Point x="241" y="2516"/>
+	<Point x="241" y="2523"/>
+	<Point x="240" y="2523"/>
+	<Point x="240" y="2530"/>
+	<Point x="239" y="2530"/>
+	<Point x="239" y="2537"/>
+	<Point x="238" y="2537"/>
+	<Point x="238" y="2543"/>
+	<Point x="237" y="2543"/>
+	<Point x="237" y="2550"/>
+	<Point x="236" y="2550"/>
+	<Point x="236" y="2557"/>
+	<Point x="235" y="2557"/>
+	<Point x="235" y="2564"/>
+	<Point x="234" y="2564"/>
+	<Point x="234" y="2569"/>
+	<Point x="234" y="2568"/>
+	<Point x="170" y="2568"/>
+	<Point x="170" y="2567"/>
+	<Point x="108" y="2567"/>
+	<Point x="108" y="2548"/>
+	<Point x="109" y="2548"/>
+	<Point x="109" y="2441"/>
+	<Point x="247" y="2441"/>
+	<Point x="247" y="2440"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y</Unicode></TextEquiv></TextRegion></Page></PcGts>

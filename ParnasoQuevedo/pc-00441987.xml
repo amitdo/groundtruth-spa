@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441987">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T07:56:25</Created>
+	<LastChange>2011-07-05T14:26:44</LastChange></Metadata>
+	<Page imageFilename="00441987.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r19" index="0"/>
+	<RegionRefIndexed regionRef="r18" index="1"/>
+	<RegionRefIndexed regionRef="r12" index="2"/>
+	<RegionRefIndexed regionRef="r15" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1663" y="239"/>
+	<Point x="1663" y="342"/>
+	<Point x="1865" y="342"/>
+	<Point x="1865" y="239"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>403</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="105" y="1229"/>
+	<Point x="90" y="1286"/>
+	<Point x="92" y="1313"/>
+	<Point x="110" y="1356"/>
+	<Point x="93" y="1403"/>
+	<Point x="1" y="1400"/>
+	<Point x="26" y="2980"/>
+	<Point x="31" y="2978"/>
+	<Point x="372" y="2994"/>
+	<Point x="506" y="2992"/>
+	<Point x="905" y="2994"/>
+	<Point x="914" y="2984"/>
+	<Point x="1022" y="2982"/>
+	<Point x="1042" y="2984"/>
+	<Point x="1182" y="2987"/>
+	<Point x="1267" y="2998"/>
+	<Point x="1588" y="2994"/>
+	<Point x="1604" y="1247"/>
+	<Point x="1607" y="1225"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A ega ia aquea Muſa deleitoſa, i agraciada ( i io cõ
+cõplacencia à Ea ego tambien, por me occao-
+na el Diſcurrir con V. S. Señor Don Lorenço, Erudi-
+to tanto exquitamente; quando de Erudicion, i Ex-
+quita, habrà de preceder aqui ea ni inutil, ni ocioſa
+DISSERTACION) Que ega ia, digo, aquea
+Muſa entre todas, que, con inſpiracion mas propicia,
+i esforçada, inﬂuiò todo ſu Numen en el feliz ingenio
+de nuero Poeta. THALIA es, la que quiero de-
+cir, i a la que ahora venimos, parece, que con orden
+bien diſpueo. Phornuto, Grammatico Griego, en las
+Alegorias, que eſcribio, de las Fabulas de los Poetas,
+da origen al nombre de ea Muſa, n duda de un ver-
+bo Griego (aunque no le nombra) que gniﬁca, jun-
+tarſe a comer ſplendidamente en Convites. Inﬁerelo mi
+obſervacion, de que inquiriendo el miſmo Phornuto ſu
+Etymologia, enſeña originarſele de la elegancia, i fei-
+vidad de los Convites meſmos. i dèſpues Plutarcho, en
+un ingne lugar a ee propoto de el Eſcrito ſuio De
+los Convites tambien, ſeñala * qual es el verbo, dan-
+do ſu Denominacion a la Muſa de èl proprio, por ha-
+ber do la Auora de reducir a los hombres, lve-
+res antes, i inhumanos, a vida Politica, i ſociable,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="footnote">
+	<Coords>
+	<Point x="1604" y="2661"/>
+	<Point x="1596" y="2808"/>
+	<Point x="1604" y="2857"/>
+	<Point x="1876" y="2857"/>
+	<Point x="1876" y="2661"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* Thali
+zein.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="catch-word">
+	<Coords>
+	<Point x="1466" y="3004"/>
+	<Point x="1466" y="3104"/>
+	<Point x="1661" y="3104"/>
+	<Point x="1661" y="3004"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Por</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="credit">
+	<Coords>
+	<Point x="688" y="3136"/>
+	<Point x="691" y="3196"/>
+	<Point x="1463" y="3196"/>
+	<Point x="1469" y="3129"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="signature-mark">
+	<Coords>
+	<Point x="948" y="2991"/>
+	<Point x="950" y="3065"/>
+	<Point x="1124" y="3065"/>
+	<Point x="1123" y="2994"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eee 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="drop-capital">
+	<Coords>
+	<Point x="38" y="1248"/>
+	<Point x="38" y="1362"/>
+	<Point x="89" y="1362"/>
+	<Point x="90" y="1347"/>
+	<Point x="81" y="1290"/>
+	<Point x="89" y="1248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="heading">
+	<Coords>
+	<Point x="7" y="364"/>
+	<Point x="5" y="1202"/>
+	<Point x="35" y="1207"/>
+	<Point x="1897" y="1179"/>
+	<Point x="1902" y="379"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>AL SEÑOR DON LORENZO RAMIREZ DE
+PRADO,
+CABALLER O DE LA ORDEN DE SANTIA GO,
+DE EL CONSEIO DE SV MAGESTAD EN EL
+SVPREMO DE CASTILLA,
+DON IVSEPE ANTONIO.</Unicode></TextEquiv></TextRegion></Page></PcGts>

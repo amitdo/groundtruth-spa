@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438946">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T02:30:53</Created>
+	<LastChange>2011-06-24T14:04:27</LastChange></Metadata>
+	<Page imageFilename="00438946.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/>
+	<RegionRefIndexed regionRef="r14" index="3"/>
+	<RegionRefIndexed regionRef="r28" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r16" type="credit">
+	<Coords>
+	<Point x="484" y="2097"/>
+	<Point x="997" y="2097"/>
+	<Point x="997" y="2140"/>
+	<Point x="484" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="header">
+	<Coords>
+	<Point x="157" y="18"/>
+	<Point x="1001" y="18"/>
+	<Point x="1001" y="120"/>
+	<Point x="157" y="120"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A GARCILASSO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="page-number">
+	<Coords>
+	<Point x="1074" y="8"/>
+	<Point x="1208" y="8"/>
+	<Point x="1208" y="142"/>
+	<Point x="1074" y="142"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>105</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="50" y="130"/>
+	<Point x="928" y="125"/>
+	<Point x="980" y="254"/>
+	<Point x="1108" y="257"/>
+	<Point x="1125" y="380"/>
+	<Point x="57" y="394"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y toda via parecer hermoſa,
+quanto puedes, procuras,
+y burlas, y hazes mil deſembolturas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="12" y="421"/>
+	<Point x="1217" y="431"/>
+	<Point x="1205" y="904"/>
+	<Point x="12" y="915"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y con la voz temblando
+cantas, por deſpertar al perezoſo
+Amor, que repoſando
+ſe eà deſpacio ſobre el cuerpo hermo
+de Chia la cantora, (ſo
+que de ſu edad eà en la ﬂor agora.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="12" y="942"/>
+	<Point x="1191" y="951"/>
+	<Point x="1200" y="1447"/>
+	<Point x="14" y="1451"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Que ſobre ſeca rama
+no quiere hazer aſsiento, ni manida
+aquel malo, y deſama
+te ya, porque la boca denegrida,
+y las canas te afean,
+que en la neuada cumbre ya blanquean.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="4" y="1478"/>
+	<Point x="1187" y="1478"/>
+	<Point x="1208" y="1958"/>
+	<Point x="1021" y="1952"/>
+	<Point x="954" y="1958"/>
+	<Point x="941" y="1972"/>
+	<Point x="894" y="1978"/>
+	<Point x="867" y="1954"/>
+	<Point x="770" y="1951"/>
+	<Point x="747" y="1965"/>
+	<Point x="4" y="1971"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y no ſon poderoſas
+ni las granas de Coo, ni los brocados,
+ni las piedras precioſas
+a tornarte los años, que encerrados
+debaxo de ſu aue
+dexà la edad, que buela mas que el aue.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="signature-mark">
+	<Coords>
+	<Point x="788" y="1962"/>
+	<Point x="857" y="1964"/>
+	<Point x="855" y="2032"/>
+	<Point x="782" y="2032"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="catch-word">
+	<Coords>
+	<Point x="1035" y="1962"/>
+	<Point x="1201" y="1967"/>
+	<Point x="1201" y="2051"/>
+	<Point x="1037" y="2048"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Que</Unicode></TextEquiv></TextRegion></Page></PcGts>

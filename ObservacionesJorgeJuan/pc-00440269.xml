@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440269">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T10:38:25</Created>
+	<LastChange>2011-12-19T11:38:54</LastChange></Metadata>
+	<Page imageFilename="00440269.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r41" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r32" type="credit">
+	<Coords>
+	<Point x="1007" y="4021"/>
+	<Point x="1942" y="4021"/>
+	<Point x="1942" y="4086"/>
+	<Point x="1007" y="4086"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="page-number">
+	<Coords>
+	<Point x="763" y="370"/>
+	<Point x="918" y="370"/>
+	<Point x="920" y="493"/>
+	<Point x="826" y="500"/>
+	<Point x="766" y="490"/>
+	<Point x="763" y="500"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>250</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="header">
+	<Coords>
+	<Point x="1247" y="370"/>
+	<Point x="2046" y="370"/>
+	<Point x="2056" y="490"/>
+	<Point x="1656" y="488"/>
+	<Point x="1246" y="486"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r6">
+	<Coords>
+	<Point x="696" y="524"/>
+	<Point x="2620" y="493"/>
+	<Point x="2620" y="3441"/>
+	<Point x="693" y="3437"/></Coords></TableRegion>
+	<TextRegion id="r41" type="catch-word">
+	<Coords>
+	<Point x="2407" y="3444"/>
+	<Point x="2407" y="3556"/>
+	<Point x="2598" y="3556"/>
+	<Point x="2598" y="3444"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Yaſui</Unicode></TextEquiv></TextRegion></Page></PcGts>

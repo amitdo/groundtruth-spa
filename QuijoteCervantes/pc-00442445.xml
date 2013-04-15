@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442445">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T09:59:19</Created>
+	<LastChange>2012-03-12T14:12:02</LastChange></Metadata>
+	<Page imageFilename="00442445.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r2" index="2"/>
+	<RegionRefIndexed regionRef="r8" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="191" y="164"/>
+	<Point x="503" y="166"/>
+	<Point x="540" y="170"/>
+	<Point x="557" y="164"/>
+	<Point x="565" y="161"/>
+	<Point x="573" y="142"/>
+	<Point x="1271" y="160"/>
+	<Point x="1295" y="164"/>
+	<Point x="1424" y="164"/>
+	<Point x="1424" y="475"/>
+	<Point x="191" y="475"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cap. XX. De la jamas via ni oyda auentura que
+con mas poco peligro fue acabada de famoſo caua-
+ero en el mundo, como la que acabó el valeroſo don
+Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="129" y="764"/>
+	<Point x="465" y="752"/>
+	<Point x="468" y="745"/>
+	<Point x="485" y="718"/>
+	<Point x="484" y="702"/>
+	<Point x="484" y="663"/>
+	<Point x="482" y="614"/>
+	<Point x="489" y="579"/>
+	<Point x="482" y="565"/>
+	<Point x="485" y="501"/>
+	<Point x="1433" y="510"/>
+	<Point x="1438" y="2102"/>
+	<Point x="1234" y="2101"/>
+	<Point x="1169" y="2102"/>
+	<Point x="1135" y="2112"/>
+	<Point x="1097" y="2103"/>
+	<Point x="1016" y="2104"/>
+	<Point x="733" y="2106"/>
+	<Point x="698" y="2122"/>
+	<Point x="658" y="2116"/>
+	<Point x="586" y="2122"/>
+	<Point x="147" y="2122"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O es poſsible ſeñor mio, no que eas
+yeruas dan teimonio de que por aqui
+cerca deue de ear alguna fuẽte, o arro
+yo, que eas yeruas humedece, y aſsi
+ſerà bien, que vamos vn poco mas adelante que ya
+toparemos donde podamos mitigar ea terrible
+ſed que nos fatiga, que n duda cauſa mayor pena
+que la hambre. Pareciole bien el conſejo a dõ Qui-
+xote, y tomando de la rienda a Rozinãte, y Sancho
+del cabero a ſu aſno, deſpues de auer pueoſobre
+el los relieues que de la cena quedaron, comença-
+ron a caminar por el prado arriba a tiento, por que
+la eſcuridad de la noche no les dexaua ver coſa al‐
+guna: mas no huuieron andado dozientos paos
+quando egò a ſus oydos vn grandes ruydo de
+agua, como que de algunos grandes y leuantados
+riſcos ſe deſpeñaua. Alegroles el ruydo en grã ma
+nera, y parandoſe a eſcuchar hàzia que parte ſona-
+ua, oyeron a deshora otro eruendo, que les aguò
+el contento del agua, eſpecialmente a Sancho, que
+naturalmente era medroſo, y de poco animo. Di‐
+go que oyeron que dauan vnos golpes a compas,
+con vn cierto cruxir de hierros y cadenas, que
+acompañados del furioſo eruendo del agua, que
+pueran pauor a qualquier otro coraçon que no
+fuera el de don Quixote. Era la noche, como ſe ha</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="drop-capital">
+	<Coords>
+	<Point x="210" y="523"/>
+	<Point x="479" y="522"/>
+	<Point x="480" y="571"/>
+	<Point x="485" y="579"/>
+	<Point x="481" y="609"/>
+	<Point x="483" y="715"/>
+	<Point x="465" y="743"/>
+	<Point x="416" y="748"/>
+	<Point x="210" y="751"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="450" y="2304"/>
+	<Point x="1132" y="2304"/>
+	<Point x="1132" y="2363"/>
+	<Point x="450" y="2363"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="445" y="67"/>
+	<Point x="445" y="154"/>
+	<Point x="516" y="162"/>
+	<Point x="536" y="165"/>
+	<Point x="547" y="165"/>
+	<Point x="562" y="160"/>
+	<Point x="571" y="139"/>
+	<Point x="1200" y="154"/>
+	<Point x="1200" y="67"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1309" y="74"/>
+	<Point x="1309" y="160"/>
+	<Point x="1406" y="160"/>
+	<Point x="1406" y="74"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>85</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="966" y="2110"/>
+	<Point x="969" y="2174"/>
+	<Point x="1089" y="2176"/>
+	<Point x="1085" y="2109"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L 5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="1255" y="2107"/>
+	<Point x="1255" y="2176"/>
+	<Point x="1421" y="2176"/>
+	<Point x="1421" y="2107"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dicho,</Unicode></TextEquiv></TextRegion></Page></PcGts>

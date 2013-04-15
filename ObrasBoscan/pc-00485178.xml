@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485178">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T09:52:03</Created>
+	<LastChange>2011-05-12T13:41:00</LastChange></Metadata>
+	<Page imageFilename="00485178.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="565" y="2980"/>
+	<Point x="1476" y="2980"/>
+	<Point x="1476" y="3096"/>
+	<Point x="565" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="390" y="204"/>
+	<Point x="1762" y="204"/>
+	<Point x="1762" y="2935"/>
+	<Point x="390" y="2935"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Entre las quaIes, no oluido la d' Hero:
+Antes la ſeñalo con tantas ſombras,
+Y ai la repitio con tal ahinco,
+Que notaron en el, vn cierto aﬀeo
+Dolorido, ſobre 'o y laimoſo.
+En las palabras del, ea bien vido,
+Gran parte del proceo ya paado:
+Y avn d' aqueo, que por venir eaua.
+En lo de por venir, s' altero mucho.
+El primer mouimiento, fue entendeo,
+Mas el ſegundo, fue cerrar los ojos:
+No queriendo entender, lo que' ntendia.
+O crudo Amor,  al que gue tus paos,
+No hay engañarle, ni deſengañarle,
+Todo lo vee, y todo lo ſoſpecha:
+Y lo que 'l miſmo ha vio, y ſoſpechado,
+Quando otro ſe lo dize no lo cree.
+Tardoſe en ea ﬁea quatro dias:
+Y tardoſe otros ſeys en el camino,
+De ida y de venida para Seo.
+Aquea fue la cauſa, del tardarſe
+La trie d' Hero, en aomar ſu lumbre.
+Eo a Leaudro dio tales diez dias,
+Tan malos, tan penoſos, y tan largos,
+Que no lo fueron tanto los diez años,
+Que los Griegos tuuieron ſobre Troya.
+Hero, egando en via de ſu torre,
+En ſu alma ntio entrañable gozo.
+Repreſentole Amor, en aquel punto,
+El tiempo, y el lugar, d' hazer ſu ſeña:
+El venir de Leandro, y ſu 'ſperae.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r12">
+	<Coords>
+	<Point x="1292" y="122"/>
+	<Point x="1298" y="193"/>
+	<Point x="1440" y="190"/>
+	<Point x="1440" y="122"/></Coords></GraphicRegion>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="818" y="101"/>
+	<Point x="1275" y="98"/>
+	<Point x="1290" y="194"/>
+	<Point x="818" y="194"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion></Page></PcGts>

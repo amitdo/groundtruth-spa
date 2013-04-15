@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439216">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T08:44:53</Created>
+	<LastChange>2011-05-12T13:39:52</LastChange></Metadata>
+	<Page imageFilename="00439216.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="547" y="59"/>
+	<Point x="1521" y="59"/>
+	<Point x="1524" y="142"/>
+	<Point x="547" y="147"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="257" y="169"/>
+	<Point x="338" y="163"/>
+	<Point x="382" y="166"/>
+	<Point x="620" y="154"/>
+	<Point x="1709" y="148"/>
+	<Point x="1714" y="2579"/>
+	<Point x="1642" y="2570"/>
+	<Point x="1599" y="2579"/>
+	<Point x="1581" y="2581"/>
+	<Point x="1551" y="2576"/>
+	<Point x="1405" y="2601"/>
+	<Point x="293" y="2586"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>da: y para eo ſepa  hurtar no es otro, que tener la coſa
+contra la voluntad agena de ſu dueño. No ſe me dà mas
+ ya no lo ſepa, como  lo dè con ſu mano,  es por mas
+no poder, ò por ai redimir la vejacion. Comencèlo des-
+de la niñez, aunque no empre lo usè; fuy como el arbol
+cortado por el pie, que empre dexa rayzes vivas, de
+donde à cabo de largos años acontece ſalir una nueva
+planta con el miſmo fruto. Ya preo vereys como me
+buelvo à hazer mis buñuelos: el tiempo que dexè de
+hurtar euve violentado fuera de mi centro, con el
+buen trato; agora doy al malo la buelta. Quando mu-
+chacho eava curtido y curſado en alçar, con facilidad
+y buena maña, qualquiera coſa mal puea: deſpues,
+ya hombre, à los principios me pareciò ear gotoſo de
+pies y manos, torpe, y mal diero, mas en breve
+bolvì en mis carnes. Continuèlo de manera, precia-
+vame deo tanto, como de ſus armas el buen ſoldado,
+y el ginete de ſu cavao y jaezes. Quando avia dudas,
+yo las reſolvia,  ſe buſcavan traças, yo las dava; en
+los caſos graves, yo predia. Oyanſe mis conſejos, co-
+mo reſpueas de un oraculo, n aver quien à mis pre-
+ceptos contradixee, ni à mis ordenes replicae. An-
+davan tras de mi mas praticantes, que ſuelen acudir
+al hoſpital de Zaragoça, ni en Guadalupe. Uſavalo à
+tiempo, y con intercadencias como ﬁebres, porque
+quando todo me faltava, eo me avia de ſobrar, en la
+bolſa me lo haava como  lo tuviera colgado del
+cueo en la cadenita del Embaxador mi ſeñor, que aun
+la eſcapè del peligro mucho tiempo. Era tan propio
+en mi como el rible, y aun ca quiera dezir era in-
+deleble como caraer, ſegun eava impreo en el
+alma. Pero quando no le exercitava, no por eo fal-
+tava la buena voluntad que tuve empre prompta. Sa-
+limos de Milan yo y Sayabedra, bien abrigados y me-
+jor acomodados de lo neceario, que qualquiera me
+juzgàra por hombre rico y de buenas prendas. Mas
+quantos ay que podrian dezir, comè mangas, que à</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1486" y="2592"/>
+	<Point x="1565" y="2581"/>
+	<Point x="1594" y="2583"/>
+	<Point x="1598" y="2590"/>
+	<Point x="1690" y="2587"/>
+	<Point x="1715" y="2594"/>
+	<Point x="1695" y="2644"/>
+	<Point x="1500" y="2644"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>voſotras,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="534" y="2866"/>
+	<Point x="1315" y="2862"/>
+	<Point x="1326" y="2928"/>
+	<Point x="1179" y="2937"/>
+	<Point x="525" y="2937"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="309" y="71"/>
+	<Point x="309" y="157"/>
+	<Point x="447" y="157"/>
+	<Point x="447" y="71"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>184</Unicode></TextEquiv></TextRegion></Page></PcGts>

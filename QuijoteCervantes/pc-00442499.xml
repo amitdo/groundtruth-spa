@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442499">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T05:09:04</Created>
+	<LastChange>2012-03-12T14:12:05</LastChange></Metadata>
+	<Page imageFilename="00442499.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="435" y="74"/>
+	<Point x="1082" y="62"/>
+	<Point x="1146" y="67"/>
+	<Point x="1167" y="164"/>
+	<Point x="533" y="166"/>
+	<Point x="516" y="185"/>
+	<Point x="424" y="178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="147" y="170"/>
+	<Point x="408" y="170"/>
+	<Point x="427" y="190"/>
+	<Point x="536" y="193"/>
+	<Point x="560" y="174"/>
+	<Point x="1426" y="170"/>
+	<Point x="1423" y="2127"/>
+	<Point x="1161" y="2127"/>
+	<Point x="1133" y="2146"/>
+	<Point x="1101" y="2144"/>
+	<Point x="111" y="2126"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>xote, no a vn coxin, y a vna maletia que no lexos
+dee lugar haamos. Tambien la haè yo, reſpon‐
+dio el cabrero, mas nunca la quiſe alçar, ni egar a
+ea, temeroſo de algun deſman, y de que no me la
+pidieen por de hurto, que es el diablo ſotil, y de-
+baxo de los pies ſe leuanta aombre coſa donde.
+tropiece, y caya, n ſaber como, ni como no. Eo
+meſmo es lo que yo digo, reſpondio Sancho, que
+tambien la haè yo, y no quiſe egar a ea con vn
+tiro de piedra: ai la dexè, y ai ſe queda como ſe eſ
+taua, que no quiero perro con cencerro. Dezidme
+buen hombre, dixo don Quixote, ſabeys vos quien
+ſea el dueño deas prẽdas? Lo que ſabre yo dezir,
+dixo el cabrero, es, que aura al pie de ſeys meſes
+poco mas a menos, que egò a vna majada de paſ‐
+tores, que earà como tres leguas dee lugar, vn
+mancebo, de gentil tae y apoura, cauaero ſobre
+ea meſma mula que ahi eà muerta, y con el meſ‐
+mo coxin, y maleta que dezis que haaes, y no to-
+caes. Preguntonos, que qual parte dea erra
+era la mas aſpera, y eſcondida. Diximoſle, que era
+ea donde aora eamos: y es an la verdad, por-
+  entrays media legua mas adentro quiça no acer
+tareys a ſalir: y eoy marauiado de como aueys
+podido egar a qui, porque no ay camino, ni ſenda
+que a ee lugar encamine. Digo pues, que en oyẽ-
+do nuera reſpuea el mancebo, boluio las rien-
+das, y encaminò házia el lugar donde le ſeñalamos,
+dexandonos a todos contentos de ſu buen tae,
+y admirados de ſu demanda, y de la priea con
+que le viamos caminar, y boluerſe hàzia la erra: y
+deſde entonces nũca mas le vimos, haa que deſde</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="441" y="2286"/>
+	<Point x="1133" y="2286"/>
+	<Point x="1128" y="2359"/>
+	<Point x="445" y="2357"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1264" y="91"/>
+	<Point x="1264" y="164"/>
+	<Point x="1392" y="164"/>
+	<Point x="1392" y="91"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>112</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1264" y="2132"/>
+	<Point x="1264" y="2202"/>
+	<Point x="1365" y="2202"/>
+	<Point x="1365" y="2132"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ai</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443056">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T14:12:28</Created>
+	<LastChange>2011-03-15T16:51:35</LastChange></Metadata>
+	<Page imageFilename="00443056.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/>
+	<RegionRefIndexed regionRef="r12" index="2"/>
+	<RegionRefIndexed regionRef="r11" index="3"/>
+	<RegionRefIndexed regionRef="r13" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="548" y="74"/>
+	<Point x="548" y="198"/>
+	<Point x="1064" y="198"/>
+	<Point x="1064" y="74"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro primero.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1534" y="82"/>
+	<Point x="1534" y="204"/>
+	<Point x="1652" y="204"/>
+	<Point x="1652" y="82"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>45</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="470" y="286"/>
+	<Point x="470" y="392"/>
+	<Point x="1178" y="392"/>
+	<Point x="1178" y="286"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITVLO XI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords>
+	<Point x="82" y="460"/>
+	<Point x="82" y="764"/>
+	<Point x="1610" y="764"/>
+	<Point x="1610" y="460"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Prueva, como es neceſario, para llegar a Ia divina
+union, carecer el alma de todos los apeti-
+tos, por pegueños que ſean.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="203" y="837"/>
+	<Point x="1637" y="837"/>
+	<Point x="1648" y="2737"/>
+	<Point x="1442" y="2731"/>
+	<Point x="1226" y="2754"/>
+	<Point x="70" y="2766"/>
+	<Point x="62" y="1000"/>
+	<Point x="196" y="992"/>
+	<Point x="196" y="833"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Arece, que ha mucho que el Letor deſea preguntar:
+Que  es de fuerça para llegar a ee alto eado de
+perfecion, aya de aver precedido morticacion total en
+todos los apetitos, chicos i grandes? I   baàra morti
+car algunos dellos, i dexar otros, alomenos aquellos que
+pareciã de poco momento? Porque parece coſa rezia, i
+mui dificultoſa, poder llegar el alma a tanta pureza i deſ
+nudez, que no tenga voluntad, ni aficion a ninguna coſa.
+A eo ſe reſponde, lo primero, que es verdad, que no to-
+dos los apetitos ſon tan perjudiciales vnos como otros,
+ni embaraçan al alma todos en igual grado (hablo de
+los voluntarios) porque los apetitos naturales poco, o
+nada impiden al alma para la union cuan do no ſon con-
+ſentidos, ni paſan de primeros movimientos. I llamo na
+turales i de primeros movimientos, todos aquellos, en
+que la voluntad racional antes, ni deſpues tuvo parte.
+Porque quitar eos, i mortificarlos del todo en ea vi-
+da, es impoble. I eos no impiden demanera, que no
+ſe pueda llegar a la divina union, aunque del todo, como
+digo, no een mortificados; que bien los puede tener el
+natural, i ear el alma, ſegun el Eſpiritu racional, muy li
+bre dellos. Porque aun acaecera a vezes que e è el al-
+ma en alta union de quietud en la voluntad, i que aual
+mente moren eos en la parte ſentiva del hombre, no
+teniendo en ellos parte la parte ſuperior que eà en ora</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="drop-capital">
+	<Coords>
+	<Point x="72" y="831"/>
+	<Point x="72" y="972"/>
+	<Point x="185" y="972"/>
+	<Point x="185" y="831"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="catch-word">
+	<Coords>
+	<Point x="1450" y="2742"/>
+	<Point x="1450" y="2812"/>
+	<Point x="1618" y="2812"/>
+	<Point x="1618" y="2742"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cion</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="credit">
+	<Coords>
+	<Point x="771" y="2921"/>
+	<Point x="771" y="2996"/>
+	<Point x="1417" y="2996"/>
+	<Point x="1417" y="2921"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

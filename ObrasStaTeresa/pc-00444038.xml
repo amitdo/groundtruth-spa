@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444038">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T00:50:46</Created>
+	<LastChange>2011-12-19T11:39:22</LastChange></Metadata>
+	<Page imageFilename="00444038.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="441" y="223"/>
+	<Point x="2032" y="223"/>
+	<Point x="2042" y="2634"/>
+	<Point x="1929" y="2641"/>
+	<Point x="1853" y="2637"/>
+	<Point x="1792" y="2648"/>
+	<Point x="441" y="2648"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode> el Señor me la dio a mi, ſegũ ntio mi co-
+raçõ, euue por grãrato  toda me deshazia
+en lagrimas, y entre mi meſma con gran aﬀli
+ciõ y fatiga. O  ſuﬀre vn alma, vala me Dios
+por perder la libertad  auia de tener de ſer ſe
+ñora, y  de tormentos padece: yo me admiro
+aora, como podia viuir en tãto tormento, ſea
+Dios alabado  me diovida para ſalir de muer
+te tã mortal, pareceme  gano grandes fuerças
+mi alma de la diuina magead, y  deuia oyr
+misclamores, y auer laima de tãtas lagrimas.
+Comẽcome acrecer la afﬁciõđ ear mastiẽpo
+cõ el, y a quitarme de los ojos las ocaones,
+por quitadas luego me boluiaa amar a ſu ma
+gead,  biẽ entẽdia yo, a mi parecer, le ama-
+ua, mas no entẽdia en  ea el amar đ veras a
+Dioscomo lo auia đentẽder. No me parece aca
+baua yo de diſponerme a rerle ſeruir quãdo
+ſu magead me comẽçaua a tornar a regalar.
+No parece no  lo  otros procurã cõ grã tra
+bajo adqiurir, grãgeaua el Señor cõmigo,  yo
+lo quiee recebir,  era ya en eos poreros
+años darme guosy regalos: ſuplicar yo me los
+diee ni ternura đ đuociõ jamas a eo me atre
+ui, ſolo le pidia me diee gracia para  no le of
+fẽ dieey me perdonae misgrãdes peccados,
+como los via tã grãdes: aũ deear regalosni gu</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1891" y="2642"/>
+	<Point x="2003" y="2642"/>
+	<Point x="2003" y="2709"/>
+	<Point x="1891" y="2709"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>o</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="590" y="3062"/>
+	<Point x="1592" y="3062"/>
+	<Point x="1592" y="3170"/>
+	<Point x="590" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="466" y="98"/>
+	<Point x="649" y="98"/>
+	<Point x="649" y="205"/>
+	<Point x="466" y="205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>110</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="979" y="98"/>
+	<Point x="1612" y="98"/>
+	<Point x="1612" y="205"/>
+	<Point x="979" y="205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

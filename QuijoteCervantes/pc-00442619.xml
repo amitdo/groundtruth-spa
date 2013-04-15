@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442619">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:00:01</Created>
+	<LastChange>2012-03-12T14:12:12</LastChange></Metadata>
+	<Page imageFilename="00442619.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r9" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="431" y="75"/>
+	<Point x="1203" y="58"/>
+	<Point x="1205" y="160"/>
+	<Point x="659" y="172"/>
+	<Point x="522" y="187"/>
+	<Point x="430" y="169"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="181" y="180"/>
+	<Point x="512" y="192"/>
+	<Point x="551" y="193"/>
+	<Point x="651" y="179"/>
+	<Point x="1168" y="171"/>
+	<Point x="1450" y="187"/>
+	<Point x="1461" y="521"/>
+	<Point x="189" y="536"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>prouecho, di en oluidaa. Y  algo ſe me acuerda, es
+aqueo del ſobajada, digo del ſoberana ſeñora, y lo
+vltimo, vuero haa la muerte, el cauaero de la
+trie Figura. Y enmedio deas dos coſas, le puſe
+mas de trezientas almas, y vidas, y ojos mios.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="191" y="560"/>
+	<Point x="1456" y="547"/>
+	<Point x="1449" y="799"/>
+	<Point x="190" y="817"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cap. XXXI. De los ſabroſos razonamientos que paa-
+ron entre don Quixote, y Sancho Pança ſu eſcude-
+ro: con otros ſuceos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="476" y="861"/>
+	<Point x="1457" y="850"/>
+	<Point x="1472" y="2147"/>
+	<Point x="1390" y="2151"/>
+	<Point x="1382" y="2151"/>
+	<Point x="1346" y="2152"/>
+	<Point x="1221" y="2160"/>
+	<Point x="1137" y="2144"/>
+	<Point x="1045" y="2142"/>
+	<Point x="528" y="2165"/>
+	<Point x="505" y="2163"/>
+	<Point x="177" y="2161"/>
+	<Point x="183" y="1098"/>
+	<Point x="472" y="1098"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ODO eo no me deſcontenta, pro-
+gue adelante, dixo don Quixote. Llegaſ
+te, y que hazia aquea reyna de la her-
+moſura? a buen ſeguro, que la haae en-
+ſartando perlas, o bordando alguna empreſa, con
+oro de cañutio, para ee ſu cautiuo cauaero. No
+la haè, reſpondio Sancho, no ahechando dos ane-
+gas de trigo, en vn corral de ſu caſa. Pues haz cuen-
+ta, dixo don Quixote, que los granos de aquel trigo,
+eran granos de perlas, tocados de ſus manos. Y  mi-
+rae amigo, el trigo era candeal, o trechel? No era 
+no rubion, reſpondio Sancho. Pues yo te aeguro,
+dixo don Quixote, que ahechado por ſus manos
+hizo pan candeal, n duda alguna: pero paa adelan-
+te. Quando le die mi carta beſola? Puſoſela ſobre
+la cabeça? hizo alguna ceremonia, digna de tal carta?
+o que hizo? Quando yo ſe la yua a dar, reſpõdio San
+cho, ea eaua en la fuga del meneo, dè vna buena
+parte de trigo, que tenia en la criua. Y dixome, po-
+ned amigo ea carta ſobre aquel coal,  no la pue-
+do leer haa que acabe de acriuar todo lo que aqui</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="drop-capital">
+	<Coords>
+	<Point x="190" y="859"/>
+	<Point x="466" y="857"/>
+	<Point x="463" y="1091"/>
+	<Point x="189" y="1089"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="469" y="2307"/>
+	<Point x="1130" y="2307"/>
+	<Point x="1122" y="2360"/>
+	<Point x="465" y="2356"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1307" y="95"/>
+	<Point x="1310" y="172"/>
+	<Point x="1447" y="174"/>
+	<Point x="1441" y="93"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>172</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="1047" y="2146"/>
+	<Point x="1047" y="2216"/>
+	<Point x="1156" y="2222"/>
+	<Point x="1161" y="2163"/>
+	<Point x="1102" y="2149"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y 4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1317" y="2156"/>
+	<Point x="1314" y="2219"/>
+	<Point x="1452" y="2217"/>
+	<Point x="1457" y="2151"/>
+	<Point x="1382" y="2153"/>
+	<Point x="1360" y="2153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ea.</Unicode></TextEquiv></TextRegion></Page></PcGts>

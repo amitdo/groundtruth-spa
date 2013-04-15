@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444039">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T08:50:55</Created>
+	<LastChange>2011-12-19T11:39:22</LastChange></Metadata>
+	<Page imageFilename="00444039.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r13" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="607" y="3061"/>
+	<Point x="1590" y="3061"/>
+	<Point x="1590" y="3162"/>
+	<Point x="607" y="3162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="326" y="87"/>
+	<Point x="1499" y="87"/>
+	<Point x="1499" y="192"/>
+	<Point x="326" y="192"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="1561" y="87"/>
+	<Point x="1712" y="87"/>
+	<Point x="1712" y="192"/>
+	<Point x="1561" y="192"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>111</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="157" y="217"/>
+	<Point x="1749" y="217"/>
+	<Point x="1755" y="2610"/>
+	<Point x="1437" y="2604"/>
+	<Point x="1412" y="2627"/>
+	<Point x="158" y="2632"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>o nũca de aduertẽcia oſaua, harto me parece
+hazia ſu piedad, y cõ verdad hazia mucha mi
+ſericordia cõmigo en cõſentirme delãte de 
+y traerme a ſu preſencia,  via yo  tãto el no
+lo procurara no viniera. Sola vna vez en mi
+vida me acuerdo pedirle guos eãdo cõ mu
+cha ſedad, y como aduerti lo  hazia de tã
+cõfuſa  la miſma fatiga de verme tan poco
+humilde me dio lo  me auia atreuido a pe-
+dir, biẽ ſabia yo era licito pedirIo, mas parecia
+me a mi  lo es a los  eã diſpueos, cõ auer
+procurado lo  esverdadera deuociõ cõ todas
+fus fuerças, que es no oﬀender a Dios, y ear
+diſpueos, y determinados para todo biẽ. Pa
+reciame  aas mis lagrimas erã mugeriles,
+y n fuerça pues no alcãçaua cõ eas lo  deſ
+ſeaua. Pues cõ todo creo me valierõ, por co‐
+mo digo en eſpecial deſpues deas dos vezes
+de tã grã cõpunciõ y fatiga de mi coraçõ, co-
+mẽce mas a darme a oracion, y a tratar menos
+en coſas  me dañaen, aũ  aũ no las dexaua
+del todo, no como digo fueme ayudãdo Dios
+a deſuiarme, como no eaua ſu magead eſ‐
+perãdo no algũ aparejo en mi fuerõ creciẽ
+do las mercedes eſpirituales de la manera 
+dire. Coſa no vſada dar las el Señor no a los
+ ean en mas limpieza de conſciencia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="catch-word">
+	<Coords>
+	<Point x="1467" y="2616"/>
+	<Point x="1694" y="2616"/>
+	<Point x="1694" y="2698"/>
+	<Point x="1467" y="2698"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP.</Unicode></TextEquiv></TextRegion></Page></PcGts>

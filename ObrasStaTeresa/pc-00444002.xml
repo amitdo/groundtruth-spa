@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444002">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:46:26</Created>
+	<LastChange>2011-12-19T11:39:20</LastChange></Metadata>
+	<Page imageFilename="00444002.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r10" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="904" y="58"/>
+	<Point x="1565" y="66"/>
+	<Point x="1554" y="184"/>
+	<Point x="901" y="178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="436" y="205"/>
+	<Point x="1985" y="202"/>
+	<Point x="1978" y="1349"/>
+	<Point x="421" y="1381"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>todo eo de mi. No ſe como queremos viuir,
+pues es todo tan incierto. Pareciame a mi Se-
+ñor mio ya impoſsible dexaros tan del todo a
+vos, y como tantas vezes os dexe, no puedo
+dexar de temer, porque en apartando os vn
+poco de mi, daua con todo en el ſuelo, ben-
+dito ſeays por empre, que aunque os dexa-
+ua yo a vos, no me dexaes vos a mi tan del
+todo, que no me tornae a leuantar, con dar-
+me vos empre la mano, y muchas vezes Se-
+ñor no la queria, ni queria entender como
+muchas vezes me amauades de nueuo, co-
+mo aora dire.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="445" y="1457"/>
+	<Point x="1982" y="1462"/>
+	<Point x="1974" y="2012"/>
+	<Point x="445" y="2010"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP. VIl. Trata por los terminos que fue
+perdiendo Ias mercedes que el Señor le auia
+hecho, y quan perdida vida començo a tener:
+dize los daños que ay en no ſer muy encer-
+rados los moneerios de las monjas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1675" y="2622"/>
+	<Point x="1972" y="2621"/>
+	<Point x="1971" y="2719"/>
+	<Point x="1672" y="2722"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>amiad,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="624" y="3060"/>
+	<Point x="1573" y="3060"/>
+	<Point x="1573" y="3154"/>
+	<Point x="624" y="3154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="412" y="100"/>
+	<Point x="412" y="192"/>
+	<Point x="564" y="192"/>
+	<Point x="564" y="100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>74</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="446" y="2364"/>
+	<Point x="737" y="2365"/>
+	<Point x="740" y="2077"/>
+	<Point x="1974" y="2064"/>
+	<Point x="1977" y="2609"/>
+	<Point x="1674" y="2612"/>
+	<Point x="1652" y="2640"/>
+	<Point x="448" y="2644"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ves an comẽce de paatiempo, en
+paatiempo, y de vanidad, en vani-
+dad, de ocaon, en ocaõ, a meterme
+tanto en muy grandes ocaones, y andar tan
+eragada mi alma en muchas vanidades, que
+ya yo tenia verguença de en tan particular</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="drop-capital">
+	<Coords>
+	<Point x="444" y="2072"/>
+	<Point x="444" y="2354"/>
+	<Point x="730" y="2357"/>
+	<Point x="733" y="2072"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P</Unicode></TextEquiv></TextRegion></Page></PcGts>

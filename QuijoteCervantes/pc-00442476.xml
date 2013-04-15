@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442476">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T18:05:20</Created>
+	<LastChange>2012-03-12T14:12:03</LastChange></Metadata>
+	<Page imageFilename="00442476.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="485" y="90"/>
+	<Point x="1145" y="90"/>
+	<Point x="1145" y="193"/>
+	<Point x="761" y="198"/>
+	<Point x="485" y="193"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tercera parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="177" y="204"/>
+	<Point x="687" y="204"/>
+	<Point x="1452" y="207"/>
+	<Point x="1445" y="1025"/>
+	<Point x="175" y="1022"/>
+	<Point x="180" y="402"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>me, que era ſu cauaerizo, y que era vſo de grandes,
+euar tras  a los tales. Deſde entonces lo ſe ta bien,
+que nunca ſe me ha oluidado. Digo que tienes razõ,
+dixo don Quixote, y que aſsi puedes tu euar a tu
+barbero, que los vſos no vinieron todos juntos, ni ſe
+inuentaron a vna, y puedes ſer tu el primero Con‑
+de, que eue tras  ſu barbero, y aun es de mas con-
+ança el hazer la barba, que enar vn cauao. Que
+deſe eo del barbero a mi cargo, dixo Sancho, y al
+de vuera merced ſe quede, el procurar venir a ſer
+Rey, y el hazerme Conde. Aſsi ſera, reſpondio don
+Quixote, y alçando los ojos vio, lo que ſe dira en el
+guiente capitulo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="177" y="1057"/>
+	<Point x="1445" y="1057"/>
+	<Point x="1445" y="1335"/>
+	<Point x="177" y="1335"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cap. XXII. De la libertad que dio don Quixote a mu-
+chos deſdichados, que mal de ſugrado los euauan,
+donde no quieran yr.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="486" y="1613"/>
+	<Point x="487" y="1382"/>
+	<Point x="1476" y="1375"/>
+	<Point x="1467" y="1689"/>
+	<Point x="1490" y="2181"/>
+	<Point x="1183" y="2179"/>
+	<Point x="1162" y="2195"/>
+	<Point x="916" y="2200"/>
+	<Point x="187" y="2188"/>
+	<Point x="192" y="1622"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VENTA Cide Hamete Benengeli, au
+tor Arauigo y Manchego, en ea grauiſ
+ma, altiſonante, minima, dulçe, é ymagi
+nada hioria, que deſpues  entre el fa‑
+moſo don Quixote de la Mancha, y Sancho Pãça ſu
+eſcudero, paaron aqueas razones, que en el ﬁn
+del capitulo veynte y vno quedan referidas. Que
+don Quixote alço los ojos, y vio que por el camino
+que euaua, venian haa doze hombres apie, enſar‑
+tados como cuentas, en vna gran cadena de hierro,
+por los cueos, y todos con eſpoſas a las manos: ve‑
+nian an miſmo con eos, dos hombres de acauao,
+y dos de apie. Los de acauao, con eſcopetas de rue</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1301" y="2186"/>
+	<Point x="1430" y="2186"/>
+	<Point x="1430" y="2259"/>
+	<Point x="1301" y="2259"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>da, y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="464" y="2310"/>
+	<Point x="1117" y="2310"/>
+	<Point x="1117" y="2366"/>
+	<Point x="464" y="2366"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="drop-capital">
+	<Coords>
+	<Point x="195" y="1369"/>
+	<Point x="475" y="1369"/>
+	<Point x="475" y="1604"/>
+	<Point x="195" y="1604"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C</Unicode></TextEquiv></TextRegion></Page></PcGts>

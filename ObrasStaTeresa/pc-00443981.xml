@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443981">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T11:13:57</Created>
+	<LastChange>2011-12-19T11:39:18</LastChange></Metadata>
+	<Page imageFilename="00443981.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="346" y="30"/>
+	<Point x="1507" y="30"/>
+	<Point x="1507" y="239"/>
+	<Point x="346" y="239"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="179" y="257"/>
+	<Point x="731" y="246"/>
+	<Point x="1733" y="256"/>
+	<Point x="1690" y="2665"/>
+	<Point x="1486" y="2637"/>
+	<Point x="1368" y="2671"/>
+	<Point x="1330" y="2666"/>
+	<Point x="1300" y="2663"/>
+	<Point x="1278" y="2655"/>
+	<Point x="1236" y="2644"/>
+	<Point x="1136" y="2642"/>
+	<Point x="930" y="2676"/>
+	<Point x="855" y="2655"/>
+	<Point x="153" y="2671"/>
+	<Point x="130" y="246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ziera ſalir deas,  entrara, cõ breuedad. Y  el
+demonio me acometiera entonces deſcubier
+tamente pareciame en ninguna manera tor‐
+nara grauemente a peccar. Mas fue tan ſub-
+til, y yo tãruyn,  todas mis determinaciones
+me aprouecharon poco, aun que muy mucho
+los dias, que ſerui a Dios para poder ſuﬀrir
+las terribles enfermedades que tuue con tan
+gran paciencia como ſu magead me dio.
+Muchas vezes he penſado eſpantada de la grã
+bondad de Dios, y regalado ſe mi alma de tan
+ta magniﬁcencia y miſericordia, ſea bendito
+por todo,  he vio claro no dexar n pagar
+me aũ en ea vida ningun deeo bueno. Por
+ruynes y imperfeas que fueen mis obras,
+ee Señor mio las yua mejorando, y perfec-
+cionando, y dando valor, y los males y pecca-
+dos luego los aſcondia. Aũ en los ojos de quiẽ
+los ha vio permite ſu magead ſe cieguẽ, y
+los quita de ſu memoria. Dora las culpas, ha-
+ze que reſplandezca vna virtud quel miſmo
+Señor pone en mi ca haziendome fuerça pa
+ra que la tenga. Quiero tornar a lo que me hã
+mandado, digo que  vuiera de dezir por me
+nudo de la manera quel Señor ſe auia conmi
+go en eosprincipios, que fuera meneer
+otro entendimiento que el mio, para ſaber</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="signature-mark">
+	<Coords>
+	<Point x="1153" y="2655"/>
+	<Point x="1195" y="2654"/>
+	<Point x="1305" y="2673"/>
+	<Point x="1323" y="2752"/>
+	<Point x="1176" y="2762"/>
+	<Point x="1153" y="2764"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="624" y="3059"/>
+	<Point x="1567" y="3059"/>
+	<Point x="1567" y="3149"/>
+	<Point x="624" y="3149"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1564" y="103"/>
+	<Point x="1564" y="245"/>
+	<Point x="1715" y="245"/>
+	<Point x="1715" y="103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>53</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1472" y="2661"/>
+	<Point x="1472" y="2767"/>
+	<Point x="1695" y="2767"/>
+	<Point x="1690" y="2677"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>enca-</Unicode></TextEquiv></TextRegion></Page></PcGts>

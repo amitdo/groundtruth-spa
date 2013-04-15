@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442429">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T17:26:17</Created>
+	<LastChange>2012-03-12T14:12:01</LastChange></Metadata>
+	<Page imageFilename="00442429.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="386" y="68"/>
+	<Point x="1153" y="67"/>
+	<Point x="1147" y="163"/>
+	<Point x="532" y="159"/>
+	<Point x="516" y="180"/>
+	<Point x="481" y="181"/>
+	<Point x="385" y="178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="134" y="178"/>
+	<Point x="1402" y="191"/>
+	<Point x="1400" y="2136"/>
+	<Point x="1387" y="2153"/>
+	<Point x="1354" y="2147"/>
+	<Point x="1126" y="2157"/>
+	<Point x="1103" y="2150"/>
+	<Point x="1061" y="2154"/>
+	<Point x="990" y="2140"/>
+	<Point x="147" y="2139"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tos vuera merced dize parece por todo eo, alo‐
+menos yo no los veo, quiça todo deue ſer encãtamẽ
+to como las fantaſmas de anoche. Como dizes eo,
+reſpondio don Quixote? No oyes el relinchar de los
+cauaos, el tocar de los clarines, el ruydo de los atã
+bores? No oygo otra coſa, reſpõdio Sancho, no mu
+chos balidos de ouejas y carnerós: y aſsi era la ver-
+dad, por ya egauan cerca los dos rebaños. El mie‑
+do que tienes, dixo don Quixote, te haze Sancho 
+ni veas ni oyas a derechas. Por vno de los efeos
+del miedo, es turbar los ſentidos, y hazer que las co‑
+ſas no parezcan lo que ſon: y  es que tãto temes, re‑
+tirate a vna parte, y dexame ſolo,  ſolo bao a dar
+la vioria, a la parte a quien yo diere mi ayuda: y di‑
+ziendo eo, puſo las eſpuelas a Rozinante, y pueſ-
+ta la lança en el rire, baxò de la coezuela como
+vn rayo. Diole vozes Sancho, diziendole: BueIuaſe
+vuera merced ſeñor don Quixote, que boto a
+Dios que ſon carneros y ouejas las que va a enueſ-
+tir: bueluaſe deſdichado del padre que me engen‑
+dro, que locura es ea? Mire que no ay Gigante ni
+cauaero alguno, ni gatos, ni armas, ni eſcudos, par‑
+tidos ni enteros, ni veros azules, ni endiablados: que
+es lo que haze pecador ſoy yo a Dios? Ni por eas
+boluio don Quixote, antes en altas vozes yua di-
+ziendo: Ea cauaeros los que ſeguis y militays deba
+xo de las vanderas del valeroſo Emperador Penta‑
+polin, del arremangado braço, ſeguidme todos, ve‑
+reys quan facilmente le doy vengança de ſu enemi‑
+go Alefanfaron de la Trapobana. Eo diziendo ſe
+entro por medio del eſquadron de las ouejas, y co-
+menço de alanceaas con tanto corage y denuedo,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="466" y="2299"/>
+	<Point x="1117" y="2290"/>
+	<Point x="1124" y="2352"/>
+	<Point x="948" y="2354"/>
+	<Point x="516" y="2351"/>
+	<Point x="475" y="2351"/>
+	<Point x="459" y="2347"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1268" y="88"/>
+	<Point x="1268" y="171"/>
+	<Point x="1377" y="171"/>
+	<Point x="1377" y="88"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>77</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1223" y="2158"/>
+	<Point x="1319" y="2161"/>
+	<Point x="1403" y="2164"/>
+	<Point x="1403" y="2201"/>
+	<Point x="1225" y="2201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>como</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="945" y="2148"/>
+	<Point x="945" y="2211"/>
+	<Point x="1062" y="2213"/>
+	<Point x="1062" y="2160"/>
+	<Point x="1009" y="2148"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>K 5</Unicode></TextEquiv></TextRegion></Page></PcGts>

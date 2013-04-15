@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485022">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T07:34:27</Created>
+	<LastChange>2011-05-12T13:40:45</LastChange></Metadata>
+	<Page imageFilename="00485022.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r10" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="345" y="1495"/>
+	<Point x="1704" y="1504"/>
+	<Point x="1654" y="2809"/>
+	<Point x="418" y="2804"/>
+	<Point x="363" y="2800"/>
+	<Point x="359" y="2800"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ai oſando, y temiendo,
+dixe os no ſe que: no ſe  os lo dixe:
+Mas dixe os Io, ſegun me reſpondies.
+O quanto me maldixe,
+Deſpues que' n lo que hize, fui cayendo.
+Vos ſeñora, vos bien lo conocies:
+Y alguna vez a laima os mouies.
+Vime tan adelante, que tornarme
+Por donde entre, muy gran peligro fuera.
+Mas preo me perdiera,
+Si ﬁn tuuiera entonces a ganarme.
+El temor m'arrojaua
+Al peligro mayor, para ſaluarme.
+Como en miedo de noche no oſaua
+tornar atras, y ai m'auenturaua.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="600" y="2989"/>
+	<Point x="1407" y="2989"/>
+	<Point x="1407" y="3010"/>
+	<Point x="1405" y="3089"/>
+	<Point x="1275" y="3091"/>
+	<Point x="1094" y="3094"/>
+	<Point x="643" y="3084"/>
+	<Point x="605" y="3086"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="377" y="150"/>
+	<Point x="368" y="1468"/>
+	<Point x="1663" y="1472"/>
+	<Point x="1710" y="215"/>
+	<Point x="1595" y="200"/>
+	<Point x="1584" y="200"/>
+	<Point x="1536" y="207"/>
+	<Point x="1518" y="213"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Anduue como digo,
+Muchos dias vencido en mi porﬁa,
+Y deſpues de vencido, peleando.
+Haa que' n ﬁn vn dia
+Penſando'ar del todo n abrigo;
+Acaſo me hae con vos hablando,
+Y algun rato conmigo diſputando.
+Muchas coſas vinieron a turbarme,
+Y la que mas de todas m' atajaua,
+Era yo que os hablaua.
+Eando ai: quiriendo ya eſforçarme
+Contra' l dolor que ento:
+No ſe como os boluies a mirarme.
+Cobre eſfuerço: que' l ﬂaco penſamiente
+De quequiera recibe mouimtento.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="1263" y="72"/>
+	<Point x="1268" y="181"/>
+	<Point x="1728" y="171"/>
+	<Point x="1718" y="72"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. .XXVII</Unicode></TextEquiv></TextRegion></Page></PcGts>

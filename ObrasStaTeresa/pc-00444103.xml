@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444103">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:58:19</Created>
+	<LastChange>2011-12-19T11:39:25</LastChange></Metadata>
+	<Page imageFilename="00444103.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="314" y="16"/>
+	<Point x="1485" y="16"/>
+	<Point x="1485" y="227"/>
+	<Point x="314" y="227"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="153" y="234"/>
+	<Point x="1761" y="248"/>
+	<Point x="1741" y="2633"/>
+	<Point x="1613" y="2636"/>
+	<Point x="1590" y="2636"/>
+	<Point x="1572" y="2638"/>
+	<Point x="1572" y="2636"/>
+	<Point x="1473" y="2638"/>
+	<Point x="1450" y="2634"/>
+	<Point x="1172" y="2662"/>
+	<Point x="810" y="2668"/>
+	<Point x="750" y="2653"/>
+	<Point x="158" y="2653"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ma,  no tiene auiſo en eo, en eſpecial 
+es el entendimiento agudo, que quando
+comiença a ordenar platicas, y buſcar ra‐
+zones en tantico,  ſon bien dichas penſa‐
+ra haze algo. La razon que aqui ha de auer,
+es entender claro que no ay ninguna para
+que Dios nos haga tan gran merced, no
+ſola ſu bondad, y ver que eamos tan cer‐
+ca, y pedir a ſu Magead mercedes, y ro‐
+garle por la yglea, y por los que ſe nos
+han encomendado, y por las animas de pur‐
+gatorio, no con ruydo de palabras, no
+con ſentimiento de deear que nos oya.
+Es oracion que comprehende mucho, y
+ſe alcança mas, que por mucho relatar el
+entendimiento, deſpierte en  la voluntad
+algunas razones que de la miſma razon ſe
+repreſentaran de verſe tan mejorada, para
+abiuar ee amor, y haga algunos aos a‐
+moroſos de que hara por quien tanto de-
+ue, n admitir, como he dicho, ruydo del
+entendimiento, a que buſque grandes coſas,
+mas hazen aqui al caſo vnas pagitas pueas
+con humildad, y menos ſeran que pajas,  las
+ponemos noſotros, y mas le ayudan a enten‐
+der, que no mucha leña jũta de razones muy
+doas a nuero parecer, que en vn credo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1460" y="2646"/>
+	<Point x="1712" y="2646"/>
+	<Point x="1729" y="2693"/>
+	<Point x="1712" y="2734"/>
+	<Point x="1460" y="2734"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>la aho-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="617" y="3063"/>
+	<Point x="1576" y="3063"/>
+	<Point x="1576" y="3146"/>
+	<Point x="617" y="3146"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1559" y="122"/>
+	<Point x="1559" y="235"/>
+	<Point x="1753" y="235"/>
+	<Point x="1753" y="122"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>175</Unicode></TextEquiv></TextRegion></Page></PcGts>

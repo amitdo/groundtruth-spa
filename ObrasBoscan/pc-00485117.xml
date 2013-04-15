@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485117">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T11:14:51</Created>
+	<LastChange>2011-05-12T13:40:55</LastChange></Metadata>
+	<Page imageFilename="00485117.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="816" y="114"/>
+	<Point x="1269" y="108"/>
+	<Point x="1273" y="161"/>
+	<Point x="1274" y="180"/>
+	<Point x="1276" y="194"/>
+	<Point x="816" y="190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="credit">
+	<Coords>
+	<Point x="634" y="3032"/>
+	<Point x="1390" y="3032"/>
+	<Point x="1390" y="3090"/>
+	<Point x="634" y="3090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="528" y="206"/>
+	<Point x="1752" y="206"/>
+	<Point x="1754" y="2768"/>
+	<Point x="508" y="2771"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Haziendo ſu querer qnanto queria,
+No hazia no lo razonable:
+Y en ea diſcordançia concordaua.
+Alegre'aua, 'ando retrayda:
+No buſcaua ſolaz, ni paatiempos:
+Antes los paatiempos la buſcauan.
+Virgen, y virginal ſu biuir era:
+No andaua en competencias, ni aonadas,
+Ni en cuentas, con agenas hermoſuras.
+Tan apartada de tener inbidia
+Eaua, que aun de quien ſe la tenia,
+Se dolia entre , y ſe laimaua.
+En tanto que ea vida ea ſouuo,
+No pudo Amor entrae en ſu morada:
+Porque ſubir no ſuele a'ſcala via:
+Ni ſuele romper muros, ni por ſuerça
+Entrar, donde l'echan con buen tiento:
+No vençe a quien no quiere ſer vencido:
+Solo para ladron dizen que's abil:
+Y nunca os hurtara coſa que valga,
+Sino quando's vera, que'ays durmiédo:
+O quando'eys en gran tropel degente:
+Adonde vanamente'eys atento.
+Ai ſe os metera noſe por donde:
+Y hurtando os lo mejor, y mas guardado,
+Nunca lo ſentireys, haa ya quando
+Con la mano tenteys, lo que ai os falta.
+Eo hao por prueua ea ſeñora:
+Que mientra'uuo dẽtro de ſus puertas:
+El Amor no oſo, entrar a fatigaa.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r14">
+	<Coords>
+	<Point x="1282" y="122"/>
+	<Point x="1282" y="193"/>
+	<Point x="1419" y="193"/>
+	<Point x="1419" y="122"/></Coords></GraphicRegion></Page></PcGts>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442408">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T15:22:12</Created>
+	<LastChange>2012-03-12T14:12:00</LastChange></Metadata>
+	<Page imageFilename="00442408.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="524" y="104"/>
+	<Point x="1159" y="104"/>
+	<Point x="1159" y="209"/>
+	<Point x="524" y="209"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tercera parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="163" y="214"/>
+	<Point x="1468" y="214"/>
+	<Point x="1467" y="2186"/>
+	<Point x="1228" y="2187"/>
+	<Point x="1204" y="2210"/>
+	<Point x="1193" y="2201"/>
+	<Point x="1037" y="2191"/>
+	<Point x="1020" y="2208"/>
+	<Point x="163" y="2208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vino a ver el mal ferido cauaero vẽcida de ſus amo
+res, con todos los adornos  aqui van pueos. Y era
+tanta la ceguedad del pobre hidalgo, que el tao ni
+el aliento, ni otras coſas que trahia en  la buena dõ
+zea, no le deſengañauan, las quales pudierã hazer
+vomitar a otro que no fuera harriero. Antes le pare
+cia que tenia entre ſus braços a la dioſa de la hermo
+ſura. Y teniendola bien ada, con voz amoroſa y ba
+xa, le començo a dezir: Quiera haarme en termi‐
+nos, fermoſa y alta ſeñora, de poder pagar tamaña
+merced, como la que con la via de vuera grãfer‐
+moſura me auedes fecho, pero ha querido lafortuna
+(que no ſe canſa de perſeguir a los buenos) poner‐
+me en ee lecho, donde yago tan molido y que‐
+brantado, que aunque de mi voluntad quiera ſa‐
+tisfazer a la vuera, fuera impoſsible. Y mas que ſe
+añade a ea impoſsibilidad otra mayor, que es la
+prometida fè que tengo dada, a la mpar Dulzinea
+del Toboſo, vnica ſeñora de mis mas eſcondidos pẽ
+ſamiẽtos. Que  eo no vuiera de por medio, no fue
+ra yo tan ſandio cauaero, que dexara paar en blã‐
+co, la venturoſa ocaon en que vuera grã bondad
+me ha pueo. Maritornes eaua congoxadiſsima y
+traſudãdo, de verſe tã ada de don Quixote, y n en
+tender ni ear atenta a las razones que le dezia, pro
+curaua n hablar palabra deſarſe. El bueno del ha‐
+rriero, a quien tenian deſpierto ſus malos deeos,
+deſde el punto que entrò ſu Coyma por la puerta
+la ﬁntiò: euuo atentamente eſcuchando todo lo
+que don Quixote dezia, y zeloſo de que la Auria‐
+na le vuiee faltado la palabra por otro, ſe fue
+egando mas al lecho de don Quixote, y euuo‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1235" y="2194"/>
+	<Point x="1467" y="2194"/>
+	<Point x="1467" y="2278"/>
+	<Point x="1235" y="2278"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſe que‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="412" y="2302"/>
+	<Point x="1148" y="2302"/>
+	<Point x="1148" y="2370"/>
+	<Point x="412" y="2370"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

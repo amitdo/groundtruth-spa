@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00484958">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T18:26:24</Created>
+	<LastChange>2011-05-12T13:40:39</LastChange></Metadata>
+	<Page imageFilename="00484958.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="drop-capital">
+	<Coords>
+	<Point x="468" y="167"/>
+	<Point x="464" y="592"/>
+	<Point x="108" y="592"/>
+	<Point x="106" y="174"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="628" y="3028"/>
+	<Point x="1392" y="3028"/>
+	<Point x="1388" y="3088"/>
+	<Point x="622" y="3090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="466" y="597"/>
+	<Point x="466" y="526"/>
+	<Point x="474" y="145"/>
+	<Point x="1666" y="138"/>
+	<Point x="1666" y="2556"/>
+	<Point x="1494" y="2556"/>
+	<Point x="1498" y="2520"/>
+	<Point x="1470" y="2518"/>
+	<Point x="1382" y="2516"/>
+	<Point x="1372" y="2526"/>
+	<Point x="1374" y="2556"/>
+	<Point x="70" y="2556"/>
+	<Point x="70" y="600"/>
+	<Point x="156" y="600"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OS DON CARLOS. Por la di-
+uina clemencia Emperador delos Romanos
+empre auguo Rey de Alemaña Doña
+loana ſu madre y el meſmo dõ Carlos por
+la gracia de dios Reyes de Caia de Are
+gon, de Leon; delas dos Cicilias, de Hieruſalem, de Vn-
+gria, de Dalmacia, de Croacia, de Granada, de Toledo, de
+Valencia, đ Galicia, đ Maorcas, đ Seuia, đ Cordoua de
+Corcega, đ Murcia, đ Iaẽ, đ los Algar bes, đ Algezira, đ Gi
+braltar, delas Iſlas đ Canaria đlas lſlas Indias y tierra ﬁr
+me, del marocceão Archidus de Auria Dus đ Bur
+goña Brauãte etc. Cõdes đ Barchinona, de Flãdes y Tirol
+etc. Duques đ Athenas, y đ Neopatria, Cõdes đ Roeõ
+y Cerdania ſeñores de Viſcaya y đ Molina etc. Marque
+ſes đ Oriã y đ Gociano. Por quãto por parte de vos
+đ doña Anna Girõ đ Reboedo vidua deꝙ°. Iuã Boſcã
+Cauaero de Barcelona nos ha do hecha relacion que
+el dicho vuero marido compuſo vna ſatira contra los
+auarientos dos eglogas paoriles vna cancion y dos ſo⸗
+netos ala muerte de Garcilao dela vega y otra canciõ
+dos apiolas vna es reſpuea de vna quele embio don
+Diego de mendoça en coſas familiares y de amiad vn
+capitulo en coſas de palacio, ciertos ſonetos y canciones
+del dicho Garcilao vna octaua rima vna elegia ala mu
+erte de don Bernardino de Toledo hermano del Duque
+de Alua, otra obra dela hioria, o fabula de Leandro
+ſegun ſe haa en Muſeo anor Griego y traducido en
+verſo caeano vna tragedia de Auripides ai miſmo</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r6">
+	<Coords>
+	<Point x="1398" y="2526"/>
+	<Point x="1398" y="2604"/>
+	<Point x="1484" y="2604"/>
+	<Point x="1484" y="2526"/></Coords></ImageRegion></Page></PcGts>

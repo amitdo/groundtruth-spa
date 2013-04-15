@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444095">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:57:19</Created>
+	<LastChange>2011-12-19T11:39:25</LastChange></Metadata>
+	<Page imageFilename="00444095.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="383" y="119"/>
+	<Point x="1541" y="125"/>
+	<Point x="1537" y="228"/>
+	<Point x="373" y="226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="185" y="246"/>
+	<Point x="624" y="246"/>
+	<Point x="1755" y="262"/>
+	<Point x="1776" y="2639"/>
+	<Point x="1558" y="2644"/>
+	<Point x="1548" y="2663"/>
+	<Point x="1505" y="2664"/>
+	<Point x="1496" y="2644"/>
+	<Point x="1417" y="2644"/>
+	<Point x="1230" y="2642"/>
+	<Point x="985" y="2641"/>
+	<Point x="146" y="2651"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cha humildad, tornan de nueuo a crecer las
+ﬂores. O Señor mio, y bien mio, que no pue-
+do dezir eo n lagrimas, y gran regalo de
+mi alma, que querays vos Señor ear an cõ
+noſotros, y eays en el Sacramento,  cõ toda
+verdad ſe puede creer, pues lo es, y con gran
+verdad podemos hazer ea comparacion, y 
+no es por nuera culpa nos podemos gozar
+con vos, que vos os holgays cõ noſotros, pues
+dezis ſer vueros deleytes ear con los hijos
+de los hombres: o Señor mio que es eo, em
+pre que oygo ea palabra me es gran conſue
+lo, aun quando era muy perdida. Es poſsible
+Señor que aya alma que egue a que vos le
+hagays mercedes ſemejantes, y regalos, y a
+entender que vos os holgays con ea, que
+os torne a oﬀender deſpues de tantos fauo-
+res, y tan grandes mueras del amor que la
+teneys, que no ſe puede dudar pues ſe vee cla
+ro la obra? Si ay por cierto, y no vna vez, no
+muchas, que ſoy yo, y plega a vuera bõdad
+Señor, que ſea yo ſola la ingrata, y la que aya
+hecho tan gran maldad, y tenido tã exceſsiua
+ingratitud, porque aun ya de ea algun bien
+ha ſacado vuera inﬁnita bondad, y mien-
+tras mayor mal, mas reſplandece el gran bien
+de vueras miſericordias. Y con quanta</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="signature-mark">
+	<Coords>
+	<Point x="1214" y="2653"/>
+	<Point x="1389" y="2657"/>
+	<Point x="1394" y="2741"/>
+	<Point x="1207" y="2739"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L 4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="566" y="3044"/>
+	<Point x="1612" y="3044"/>
+	<Point x="1608" y="3153"/>
+	<Point x="562" y="3155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1587" y="137"/>
+	<Point x="1587" y="244"/>
+	<Point x="1753" y="244"/>
+	<Point x="1753" y="137"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>167</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1523" y="2671"/>
+	<Point x="1751" y="2666"/>
+	<Point x="1742" y="2735"/>
+	<Point x="1521" y="2735"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>razon</Unicode></TextEquiv></TextRegion></Page></PcGts>

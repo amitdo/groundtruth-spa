@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442461">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T17:32:31</Created>
+	<LastChange>2012-03-12T14:12:03</LastChange></Metadata>
+	<Page imageFilename="00442461.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="408" y="71"/>
+	<Point x="1158" y="74"/>
+	<Point x="1153" y="158"/>
+	<Point x="527" y="166"/>
+	<Point x="523" y="190"/>
+	<Point x="450" y="173"/>
+	<Point x="397" y="173"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="166" y="190"/>
+	<Point x="428" y="195"/>
+	<Point x="1181" y="184"/>
+	<Point x="1413" y="179"/>
+	<Point x="1415" y="2125"/>
+	<Point x="1390" y="2129"/>
+	<Point x="1348" y="2120"/>
+	<Point x="913" y="2125"/>
+	<Point x="895" y="2125"/>
+	<Point x="853" y="2127"/>
+	<Point x="690" y="2142"/>
+	<Point x="666" y="2128"/>
+	<Point x="154" y="2134"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dera hioria. De todo lo que he dicho, has de infe‐
+rir Sancho, que es meneer hazer diferencia, de
+amo a moço, de ſeñor a criado, y de cauaero a eſcu
+dero. Aſsi que deſde oy en adelante, nos hemos de
+tratar cõ mas reſpeto, n darnos cordelejo, porque
+de qualquiera manera que yo me enoje con vos, ha
+de ſer mal para el cantaro. Las mercedes y beneﬁ‐
+cios que yo os he prometido, egaràn a ſu tiempo,
+y no egaren, el ſalario alomenos no ſe ha de per‐
+der (como ya os he dicho.) Eà bien quanto vuera
+merced dize, dixo Sancho. Pero querria yo ſaber
+(por  a caſo no egae el tiempo de las mercedes,
+y fuee neceario acudir al de los ſalarios) quanto
+ganaua vn eſcudero, de vn cauaero andãte en aque
+os tiempos? y  ſe concertauan por meſes, o por
+dias, como peones de albañir? No creo yo, reſpon‐
+dio don Quixote, que jamas los tales eſcuderos eu
+uieron a ſalario, no a merced. Y  yo aora te le he
+ſeñalado a ti, en el teamento cerrado, que dexè en
+mi caſa, fue por lo que podia ſuceder, que aun no ſe
+como prueua en eos tan calamitoſos tiẽpos nueſ‐
+tros la cauaeria, y no querria que por pocas coſas
+penae mi anima en el otro mundo. Porque quiero
+que ſepas Sãcho, que en el no ay eado mas peligro‐
+ſo, que el de los auentureros. Aſsi es verdad, dixo
+Sancho, pues ſolo el ruydo de los maços de vn batã,
+pudo alborotar y deſaoegar el coraçon de vn
+tan valeroſo andante auenturero, como es vuera
+merced. Mas bien puede ear ſeguro, que de aqui
+adelãte, no deſpliegue mis labios, para hazer donay-
+re de las coſas de vuera merced, no fuere para hõ-
+rarle, como a mi amo y ſeñor natural. Dea manera,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="456" y="2299"/>
+	<Point x="1138" y="2299"/>
+	<Point x="1138" y="2356"/>
+	<Point x="1046" y="2358"/>
+	<Point x="456" y="2356"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1282" y="94"/>
+	<Point x="1282" y="173"/>
+	<Point x="1388" y="173"/>
+	<Point x="1388" y="94"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>93</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="930" y="2132"/>
+	<Point x="930" y="2197"/>
+	<Point x="1049" y="2197"/>
+	<Point x="1049" y="2132"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M 5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1203" y="2130"/>
+	<Point x="1200" y="2198"/>
+	<Point x="1400" y="2198"/>
+	<Point x="1400" y="2133"/>
+	<Point x="1358" y="2127"/>
+	<Point x="1332" y="2127"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>replicò</Unicode></TextEquiv></TextRegion></Page></PcGts>

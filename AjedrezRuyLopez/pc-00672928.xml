@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672928">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 10.0</Creator>
+	<Created>2012-01-31T19:46:00</Created>
+	<LastChange>2012-03-05T07:30:04</LastChange></Metadata>
+	<Page imageFilename="00672928.tif" imageWidth="1908" imageHeight="2614">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="403" y="2173"/>
+	<Point x="413" y="1788"/>
+	<Point x="436" y="1024"/>
+	<Point x="476" y="324"/>
+	<Point x="488" y="273"/>
+	<Point x="1653" y="302"/>
+	<Point x="1607" y="2190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ne quid vn quam inuitus facias. Trabaja,dize,de
+no hazer jamas coſa contra la voluntad. Porque
+como dize el meſmo,de trãquillitate animi.Ma-
+le reſpondent coaa ingenia.Quiere dezir.Que
+los ingenios forçados à hazer alguna coſa, de 
+no toman guo,no acuden bien. Y por tanto di-
+ze Boecio de conſolatione,lib.4.cap.3.Duo ſunt,
+quibus humanorum auum cõat eﬀeus. Vo
+luntas.ſ.&amp; poteas. Quorum  alterum det,ni
+hil e, quod explicari queat. Quiere dezir. Dos
+coſas ſon,delas quales cõa el eﬀeo delos aos
+humanos,conuiene à ſaber, la voluntad y el po-
+der : delas quales  falta la vna , ninguna coſa ay
+que ſe pueda explicar. Aſsi que deo dicho con-
+a ſer eas coſas necearias para conſeguir ea
+arte.Y de aqui queda prouado,ſer ee juego ſciẽ
+cia è inuencion liberal. Y otras muchas coſas pu
+diera traer para cõprouallo, que por no me alar-
+gar dexo. Notando otra coſa ſola,y es, que calcu
+lare en latin quiere dezir , poner cuenta y razon,
+ò hazella: y calculus gniﬁca piedrezilla , de que
+los contadores vſauan para ee eﬀeo:y de aqui
+por metaphora los latinos para denotar el axe-
+drez ſer juego de cuenta , alos trebejos llamaron
+calculos, como lo maniﬁea Ouidio, diziẽdo.Si
+ue latrocinij ſub imagine calculus Ibit, fac pereat
+vitreo miles ab hoe tuus. Y Marcial enel lib. 2.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="catch-word">
+	<Coords>
+	<Point x="1500" y="2195"/>
+	<Point x="1500" y="2258"/>
+	<Point x="1579" y="2258"/>
+	<Point x="1579" y="2195"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="marginalia">
+	<Coords>
+	<Point x="244" y="2082"/>
+	<Point x="244" y="2130"/>
+	<Point x="388" y="2130"/>
+	<Point x="388" y="2082"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Marcial.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="marginalia">
+	<Coords>
+	<Point x="255" y="1969"/>
+	<Point x="255" y="2018"/>
+	<Point x="396" y="2018"/>
+	<Point x="396" y="1969"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ouidio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="marginalia">
+	<Coords>
+	<Point x="295" y="702"/>
+	<Point x="295" y="750"/>
+	<Point x="435" y="750"/>
+	<Point x="435" y="702"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Boecio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="marginalia">
+	<Coords>
+	<Point x="316" y="395"/>
+	<Point x="316" y="449"/>
+	<Point x="449" y="449"/>
+	<Point x="449" y="395"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Seneca.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="701" y="202"/>
+	<Point x="701" y="273"/>
+	<Point x="1416" y="286"/>
+	<Point x="1416" y="202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro dela inuencion liberal</Unicode></TextEquiv></TextRegion></Page></PcGts>

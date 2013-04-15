@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443614">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T03:42:41</Created>
+	<LastChange>2010-12-22T06:14:12</LastChange></Metadata>
+	<Page imageFilename="00443614.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="578" y="95"/>
+	<Point x="1163" y="95"/>
+	<Point x="1163" y="114"/>
+	<Point x="1170" y="200"/>
+	<Point x="1141" y="202"/>
+	<Point x="1119" y="204"/>
+	<Point x="553" y="207"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PROLOCO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="163" y="212"/>
+	<Point x="1731" y="236"/>
+	<Point x="1741" y="987"/>
+	<Point x="638" y="997"/>
+	<Point x="626" y="1002"/>
+	<Point x="286" y="989"/>
+	<Point x="193" y="1001"/>
+	<Point x="146" y="995"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>hecho merced de ſacarlas deſos principios, i evadolas
+mas adentro del ſeno de ſu amor divino. I a eſpero, que
+aunque, ſe eſcriven aqui algunos puntos de Teologia
+Eſc olaica, acerca del trato interior del alma con ſu
+Dios, no ſerà en vano a la pureza del eſpiritu, aver ha-
+blado algo en tal manera; pues aunque à algunas les fal-
+te el exercicio de Teologia Eſcolaica, con que ſe en-
+tienden las verdades divinas, no les falta el de la Mii-
+ca,  ſe ſabe por amor, en que no ſolamente ſe ſabe, mas
+juntamente ſe gua.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="156" y="1003"/>
+	<Point x="231" y="1014"/>
+	<Point x="273" y="999"/>
+	<Point x="297" y="998"/>
+	<Point x="614" y="1004"/>
+	<Point x="632" y="1005"/>
+	<Point x="681" y="1004"/>
+	<Point x="881" y="1002"/>
+	<Point x="1713" y="1003"/>
+	<Point x="1725" y="1902"/>
+	<Point x="171" y="1930"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I porque todo lo que dixere lo quiero ſujetar al me-
+jor juizio, i totalmente al de la ſanta Madre Iglea, pa-
+ra que haga mas fe, no pienſo aﬁrmar coſa de mio, ﬁan-
+dome de eſperiencia, que por mi aya paſado, ni de lo
+que en otras perſonas eſpirituales aya conocido, o de-
+as oido (aunque de lo uno i de lo otro me pienſo apro-
+vechar) conﬁrmandolo con autoridades de la divina
+Eſcritura, i declararlo, alomenos en lo  pareciere mas
+diﬁcultoſo de entender. En las cuales Canciones eva
+rè ee eilo, que primero las pondrè todas juntas, i lue-
+go las declararè, poniendo cada una de por  con ſu de-
+claracion por ſu orden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1286" y="2192"/>
+	<Point x="1723" y="2194"/>
+	<Point x="1731" y="2213"/>
+	<Point x="1744" y="2363"/>
+	<Point x="1709" y="2371"/>
+	<Point x="1263" y="2365"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAN-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="786" y="2915"/>
+	<Point x="1421" y="2915"/>
+	<Point x="1436" y="2997"/>
+	<Point x="763" y="3000"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1514" y="112"/>
+	<Point x="1514" y="214"/>
+	<Point x="1704" y="214"/>
+	<Point x="1704" y="112"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>601</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="834" y="2189"/>
+	<Point x="834" y="2415"/>
+	<Point x="1192" y="2415"/>
+	<Point x="1192" y="2189"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Qq 2</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r9">
+	<Coords>
+	<Point x="1557" y="2539"/>
+	<Point x="1557" y="2905"/>
+	<Point x="1889" y="2905"/>
+	<Point x="1889" y="2539"/></Coords></SeparatorRegion></Page></PcGts>

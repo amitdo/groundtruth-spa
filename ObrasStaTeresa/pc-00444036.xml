@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444036">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T08:50:31</Created>
+	<LastChange>2011-12-19T11:39:22</LastChange></Metadata>
+	<Page imageFilename="00444036.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="448" y="226"/>
+	<Point x="2030" y="226"/>
+	<Point x="2041" y="2637"/>
+	<Point x="1730" y="2639"/>
+	<Point x="1701" y="2657"/>
+	<Point x="448" y="2657"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de quietud, que yo conozco a algunas, para
+las que van por aqui es bueno vn libro para
+preo recogerſe. Aprouechauame a mi tam‐
+bien ver campos, agua, ﬂores: en eas coſas ha
+aua yo memoria del criador, digo que me
+deſpertauã y recogiã y ſeruiã de libro, y en mi
+ingratitud y peccados. En coſas del cielo ni en
+coſas ſubidas era mi entendimiẽto tã groe-
+ro,  jamas por jamas las pude imaginar, haa
+ por otro modo el Señor me las repreſento.
+Tenia tã poca habilidad para cõ el entẽdimiẽ
+to repreſentar coſas,   no era lo que via no
+me aprouechaua nada đ mi imaginaciõ, como
+hazẽ otras perſonas,  puedẽ hazer repreſen-
+taciones adõde ſe recogẽ. Yo ſolo podia pẽſar
+en Chrio como hõbre, mas es an  jamas
+le pude repreſentar en mi, por mas  leya ſu
+hermoſura y via imagines, no como quien
+ea ciego, o a eſcuras,  aun habla cõ alguna
+perſona, y vee que ea con ea, porque ſabe
+cierto que ea ai, digo que entiẽde y cree 
+ea ai, mas no la vee: dea manera me acae-
+ciaa mi, quãdo pẽſaua en nuero Señor. Aea
+cauſa era tã amiga de imagines. Deſuentura-
+dos de los  por ſu culpa pierdẽ ee biẽ, biẽ
+parece  no amã al Señor, por  le amarã hol
+garãſe dever ſu retrato, como acaaũ da cõtẽto</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1874" y="2655"/>
+	<Point x="2019" y="2655"/>
+	<Point x="2019" y="2721"/>
+	<Point x="1874" y="2721"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ver</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="607" y="3048"/>
+	<Point x="1582" y="3048"/>
+	<Point x="1582" y="3166"/>
+	<Point x="607" y="3166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="478" y="94"/>
+	<Point x="637" y="94"/>
+	<Point x="637" y="207"/>
+	<Point x="478" y="207"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>108</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="961" y="94"/>
+	<Point x="1589" y="94"/>
+	<Point x="1589" y="207"/>
+	<Point x="961" y="207"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

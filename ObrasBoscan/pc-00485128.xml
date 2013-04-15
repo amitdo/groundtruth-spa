@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485128">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T00:16:08</Created>
+	<LastChange>2011-05-12T13:40:56</LastChange></Metadata>
+	<Page imageFilename="00485128.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r4" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="626" y="3020"/>
+	<Point x="1405" y="3023"/>
+	<Point x="1405" y="3096"/>
+	<Point x="626" y="3095"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="346" y="221"/>
+	<Point x="640" y="231"/>
+	<Point x="1566" y="229"/>
+	<Point x="1592" y="1583"/>
+	<Point x="1581" y="2739"/>
+	<Point x="363" y="2750"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Que ſabiendo por do ſe conﬁaua,
+Temia, n ſaber pordo temia.
+Como aquel que'n deſcuy do coſa nueua
+De lexos ve, que caa, y 'a quedo
+Y entre  con lencio s'alboroça,
+Mirando bien ſus ojos  le'ngañan.
+Y al cabo no ſe ﬁa en lo que vee,
+Haa tanto que claro lo a juzgado.
+Ai Leandro'aua temeroſo,
+No temiendo porque ſu bien no viee,
+Mas porque l'iua tanto en no engañarſe,
+Que'n eo de ſus ojos no ﬁaua:
+Ni ﬁaua tampoco delos dea:
+Los quales claramente le morauan
+Vn puro amor, con vn encogimiento,
+Que ſuele andar embuelto ca empre
+Con las coſas que'l hombre tiene en tãto,
+Que teme a cada pao que an de'rrarſe.
+Mas enﬁn como quiera que'o fuee,
+El alma del ntio, como d'lexos,
+Vn ardor y vna luz, que la mouieron
+A deeo, ſperança y alegria.
+El deeo empeço a tomar la mano,
+Siguiendo el eſperança por ſus paos.
+Y ai 'aua Leandro deeando,
+Y 'ſperando ſu bien, y componiendo
+Mil formas d'alcançar lo que queria.
+Tanto que ai penſo, y determinoſe
+De egar, y d'hablar a ſu ſeñora,
+O bien, o mal, como mejor pudiee.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="527" y="118"/>
+	<Point x="523" y="214"/>
+	<Point x="1073" y="217"/>
+	<Point x="1071" y="121"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1123" y="120"/>
+	<Point x="1130" y="217"/>
+	<Point x="1589" y="217"/>
+	<Point x="1587" y="117"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. LXXX.</Unicode></TextEquiv></TextRegion></Page></PcGts>

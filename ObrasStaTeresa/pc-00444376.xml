@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444376">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:02:02</Created>
+	<LastChange>2011-12-19T11:39:42</LastChange></Metadata>
+	<Page imageFilename="00444376.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="941" y="96"/>
+	<Point x="1617" y="95"/>
+	<Point x="1617" y="215"/>
+	<Point x="926" y="210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="455" y="236"/>
+	<Point x="570" y="242"/>
+	<Point x="1000" y="232"/>
+	<Point x="1144" y="225"/>
+	<Point x="1551" y="224"/>
+	<Point x="2055" y="230"/>
+	<Point x="2074" y="2653"/>
+	<Point x="1945" y="2644"/>
+	<Point x="1932" y="2646"/>
+	<Point x="1918" y="2657"/>
+	<Point x="1889" y="2659"/>
+	<Point x="1658" y="2671"/>
+	<Point x="480" y="2667"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de contentarla excede a mi miſmo contento,
+quitaſe la pena de la falta  me haze la joya
+o lo que ame, y de perder el contento que da-
+ua, de manera que aunque queria tener la de
+ver que dexaua perſonas que tanto ſentian
+apartarſe de mi, con ſer yo de mi condicion
+tan agradecida, que baara en otro tiempo
+a fatigar me mucho, y agora aunque quiera
+tener pena no podia. Importaua tanto el no
+me tardar vn dia mas para lo que tocaua al
+negocio de ea bendita caſa, que yo no ſe co
+mo pudiera concluyrſe  entonces me detu-
+uiera. O grandeza de Dios, muchas vezes me
+eſpanta quãdo lo condero, y veo quan par-
+ticularmente queria ſu Magead ayudarme,
+para que ſe eﬀetuae ee rincõcito de Dios,
+que yo creo lo es, y morada en que ſu Mage-
+ad ſe deleyta, como vna vez eando en ora
+cion me dixo, que era ea caſa parayſo de ſu
+deleyte, y aſsi parece ha ſu Magead eſcogido
+las almas que ha traydo a el, en cuya compa-
+ñia yo viuo con harta confuon: porque yo
+no ſupiera deear las tales para ee propo-
+to de tanta erechura y pobreza y oracion, y
+euandolo con vna alegria y contento, que
+cada vna ſe haa por indigna de auer mere-
+cido venir a tal lugar, en eſpecial algunas que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="601" y="3055"/>
+	<Point x="1571" y="3072"/>
+	<Point x="1569" y="3158"/>
+	<Point x="603" y="3153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="465" y="120"/>
+	<Point x="465" y="225"/>
+	<Point x="570" y="234"/>
+	<Point x="679" y="225"/>
+	<Point x="679" y="120"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>448</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1918" y="2658"/>
+	<Point x="1908" y="2733"/>
+	<Point x="2031" y="2733"/>
+	<Point x="2031" y="2656"/>
+	<Point x="1932" y="2647"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>las</Unicode></TextEquiv></TextRegion></Page></PcGts>

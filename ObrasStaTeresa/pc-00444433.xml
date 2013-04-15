@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444433">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:39:36</Created>
+	<LastChange>2011-12-19T11:39:45</LastChange></Metadata>
+	<Page imageFilename="00444433.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="302" y="101"/>
+	<Point x="1516" y="120"/>
+	<Point x="1511" y="223"/>
+	<Point x="285" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="116" y="237"/>
+	<Point x="1724" y="233"/>
+	<Point x="1721" y="2649"/>
+	<Point x="1614" y="2641"/>
+	<Point x="1576" y="2677"/>
+	<Point x="131" y="2681"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>me mucho eſcrupulo, por yo no podia de-
+xar de creer que el Señor lo hazia por mi ora
+cion, dexemos ſer lo principal por ſola ſu bõ-
+dad, mas ſon ya tantas las coſas, y tan vias
+de otras perſonas que no me da pena creer-
+lo, y alabo a ſu Magead, y haze me confu-
+õ, porque veo ſoy mas deudora, y hazeme a
+mi parecer crecer mas el deeo de ſeruirle, y
+abiuaſe el amor. Y lo que mas que me eſpãta,
+es que las que el Señor vee no conuienen, no
+puedo aunque quiero ſuplicarſelo, no con
+tan poca fuerça y ſpiritu y cuy dado, que aun-
+que mas quiero forçarme es impoſsible, co-
+mo otras coſas que ſu Magead ha de ha-
+zer, que veo yo que puedo pedirlo muchas
+vezes, y con gran importunidad, aunque yo
+no trayga ee cuydado, parece que ſe me
+repreſenta delante, es grande la diﬀeren-
+cia deas dos maneras de pedir, que no ſe
+como lo declarar. Porque aunque lo vno
+pido, que no dexo de esforçarme a ſuplicar-
+lo al Señor, aunque no enta en mi aquel fer
+uor que en otras, aunque mucho me toquen,
+es como quien tiene trauada la lengua, que
+aunque quiere hablar, no puede, y  habla, es
+de ſuerte que ve que no le entienden, o como
+quien habla claro, y deſpierto a quiẽ ve que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1593" y="2669"/>
+	<Point x="1620" y="2647"/>
+	<Point x="1674" y="2659"/>
+	<Point x="1673" y="2727"/>
+	<Point x="1577" y="2730"/>
+	<Point x="1582" y="2696"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="624" y="3066"/>
+	<Point x="1569" y="3069"/>
+	<Point x="1563" y="3159"/>
+	<Point x="621" y="3141"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1541" y="126"/>
+	<Point x="1541" y="227"/>
+	<Point x="1705" y="227"/>
+	<Point x="1705" y="126"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>511</Unicode></TextEquiv></TextRegion></Page></PcGts>

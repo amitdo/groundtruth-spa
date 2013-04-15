@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444077">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T11:25:23</Created>
+	<LastChange>2011-12-19T11:39:24</LastChange></Metadata>
+	<Page imageFilename="00444077.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="394" y="64"/>
+	<Point x="1595" y="64"/>
+	<Point x="1595" y="189"/>
+	<Point x="394" y="189"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="161" y="201"/>
+	<Point x="1809" y="205"/>
+	<Point x="1829" y="2618"/>
+	<Point x="1210" y="2605"/>
+	<Point x="1170" y="2618"/>
+	<Point x="138" y="2623"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mo lo es buena no inquieta. Pues lo ſegu‐
+ro ſera del alma que tuuiere oracion deſcuy
+darſe de todo y de todos, y tener quenta
+congo y contentar a Dios. Eo conuiene
+muy mucho, porque  vuiee de dezir los
+yerros que he vio ſuceder ﬁando en la bue
+na intencion, nunca acabaria. Pues procu‐
+remos empre mirar las virtudes y coſas
+buenas que vieremos en los otros, y ata-
+par ſus defetos con nueros grandes pecca-
+dos: es vna manera de obrar que aunque
+luego no ſe haga con perfecion ſe viene a
+ganar vna gran virtud, que es tener a to‐
+dos por mejores que noſotros, y comien‐
+çaſe a ganar por aqui, con el fauor de Dios
+que es meneer en todo, y quando falta
+eſcuſdas ſon las diligencias, y ſuplicarle
+nos de ea virtud, que con que las haga‐
+mos no falta a nadie. Miren tambien ee
+auiſo los que diſcurren mucho con el en‐
+tendimiento, ſacando muchas coſas de vna
+coſa y muchos concetos, ( que de los que
+no pueden obrar con el, como yo hazia,
+no ay que auiſar, no que tengan pacien‐
+cia haa que el Señor les de en que ſe ocu‐
+pen, y luz, pues eos pueden tan poco por
+, que antes los embaraça ſu entendimiento</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1552" y="2629"/>
+	<Point x="1735" y="2624"/>
+	<Point x="1763" y="2705"/>
+	<Point x="1565" y="2736"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="550" y="3043"/>
+	<Point x="1629" y="3043"/>
+	<Point x="1629" y="3170"/>
+	<Point x="550" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1616" y="93"/>
+	<Point x="1616" y="195"/>
+	<Point x="1756" y="195"/>
+	<Point x="1756" y="93"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>149</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1254" y="2621"/>
+	<Point x="1254" y="2727"/>
+	<Point x="1443" y="2727"/>
+	<Point x="1443" y="2621"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>K 3</Unicode></TextEquiv></TextRegion></Page></PcGts>

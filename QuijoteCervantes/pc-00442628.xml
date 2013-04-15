@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442628">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:01:40</Created>
+	<LastChange>2012-03-12T14:12:12</LastChange></Metadata>
+	<Page imageFilename="00442628.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="505" y="92"/>
+	<Point x="1187" y="97"/>
+	<Point x="1174" y="203"/>
+	<Point x="803" y="207"/>
+	<Point x="626" y="201"/>
+	<Point x="611" y="200"/>
+	<Point x="501" y="198"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quarta parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="183" y="182"/>
+	<Point x="459" y="200"/>
+	<Point x="667" y="207"/>
+	<Point x="840" y="215"/>
+	<Point x="1202" y="209"/>
+	<Point x="1273" y="204"/>
+	<Point x="1296" y="205"/>
+	<Point x="1471" y="220"/>
+	<Point x="1445" y="2187"/>
+	<Point x="140" y="2176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No es verdad todo eo hijo Andres? no notae con
+quanto imperio ſe lo mandè, y con quanta humil-
+dad prometio de hazer todo quanto yo le impuſe,
+y notiﬁque, y quiſe? Reſponde no te turbes, ni dudes
+en nada, di lo que paò a eos ſeñores, porque ſe
+vea, y condere, ſer del prouecho que digo, auer ca-
+uaeros andantes por los caminos. Todo lo  vueſ-
+tra merced ha dicho, es mucha verdad, reſpondio el
+muchacho, pero el ﬁn del negocio ſucedio muy al
+reues de lo que vuera merced ſe imagina. Como al
+reues, replicò don Quixote, luego no te pagò el vi-
+ano? No ſolo no me pagò, reſpondio el muchacho,
+pero aſsi como vuera merced traſpuſo del boſque,
+y quedamos ſolos, me boluio a atar a la meſma enci
+na, y me dio de nueuo tantos açotes, que quedè he-
+cho vn Sambartolome deſoado. Y a cada açote 
+me daua, me dezia vn donayre, y chufeta, acerca de
+hazer burla de vuera merced, que a no ſentir yo
+tanto dolor, me riera de lo que dezia. En efeo, el
+me parô tal, que haa aora he eado curandome en
+vn hoſpital, del mal que el mal viano entõces me
+hizo. De todo lo qual tiene vuera merced la culpa,
+porque  ſe fuera ſu camino adelante, y no viniera
+donde no le amauan, ni ſe entremetiera en nego-
+cios agenos, mi amo ſe contentara con darme vno, o
+dos dozenas de açotes, y luego me ſoltara, y pagara
+quanto me deuia, Mas como vuera merced le deſ-
+honrò tan n propoto, y le dixo tantas vianias,
+encendioſele la colera, y como no la pudo vengar
+en vuera merced, quando ſe vio ſolo deſcargò ſo-
+bre mi el nublado, de modo que me parece, que no
+ſere mas hombre en toda mi vida. El daño euuo,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1289" y="2190"/>
+	<Point x="1321" y="2187"/>
+	<Point x="1418" y="2191"/>
+	<Point x="1414" y="2243"/>
+	<Point x="1290" y="2242"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dixo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="456" y="2309"/>
+	<Point x="1120" y="2314"/>
+	<Point x="1113" y="2370"/>
+	<Point x="455" y="2367"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

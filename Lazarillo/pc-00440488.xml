@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440488">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T13:15:27</Created>
+	<LastChange>2011-07-05T14:26:02</LastChange></Metadata>
+	<Page imageFilename="00440488.tif" imageWidth="843" imageHeight="1614">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="340" y="31"/>
+	<Point x="593" y="32"/>
+	<Point x="590" y="80"/>
+	<Point x="343" y="80"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="95" y="92"/>
+	<Point x="352" y="91"/>
+	<Point x="381" y="88"/>
+	<Point x="833" y="96"/>
+	<Point x="809" y="1546"/>
+	<Point x="632" y="1570"/>
+	<Point x="592" y="1554"/>
+	<Point x="579" y="1566"/>
+	<Point x="560" y="1556"/>
+	<Point x="286" y="1554"/>
+	<Point x="267" y="1573"/>
+	<Point x="215" y="1556"/>
+	<Point x="197" y="1571"/>
+	<Point x="175" y="1570"/>
+	<Point x="166" y="1554"/>
+	<Point x="73" y="1556"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>las piernas de pura hambre : vi
+que me iba ala ſepultura,  Dios
+y mi ſaber no me remediaban pe-
+ro erame impoble vſar de mis-
+mañas, por no tener en que daI-
+le ſalto, y aunque algo vuiera,
+no pudiera cegalle, como hazia
+al que Dios perdone, (  de aquel-
+la calabaçada fenecio, ) que aun-
+que auto como le faltaua aquel
+preciado ſentido, no me veya:
+pero ee la tenia tan aguda como
+vn linze. Quando eauamos en
+el ofertorio, ninguna blanca o-
+frecian en la concha, que no la te-
+giraſe, el vn ojo tenia en lagente,
+y el otro en mis manos : bayla-
+uanle enel caxco, como  fueran
+de azogue : quantas blancas ofre-
+cian contaba : y acabado el ofer-
+torio, luego me quitaua Ia con-
+cheta, y la ponia ſobre el altar de
+manera que no fuy ſeñor de ha-
+zerle en menos vna blanca, todo el
+tiempo que con el biui, o por me-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="285" y="1575"/>
+	<Point x="569" y="1575"/>
+	<Point x="570" y="1597"/>
+	<Point x="286" y="1595"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="106" y="40"/>
+	<Point x="106" y="87"/>
+	<Point x="176" y="87"/>
+	<Point x="176" y="40"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>34</Unicode></TextEquiv></TextRegion></Page></PcGts>

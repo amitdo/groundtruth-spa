@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440174">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:52:05</Created>
+	<LastChange>2011-12-19T11:38:48</LastChange></Metadata>
+	<Page imageFilename="00440174.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r19" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r10" index="2"/>
+	<RegionRefIndexed regionRef="r11" index="3"/>
+	<RegionRefIndexed regionRef="r18" index="4"/>
+	<RegionRefIndexed regionRef="r12" index="5"/>
+	<RegionRefIndexed regionRef="r15" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="831" y="374"/>
+	<Point x="1765" y="360"/>
+	<Point x="1800" y="421"/>
+	<Point x="1747" y="447"/>
+	<Point x="831" y="456"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords>
+	<Point x="890" y="2324"/>
+	<Point x="1648" y="2324"/>
+	<Point x="1648" y="2425"/>
+	<Point x="890" y="2425"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITULO II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="464" y="2514"/>
+	<Point x="2109" y="2514"/>
+	<Point x="2109" y="2624"/>
+	<Point x="464" y="2624"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Del examen de las diviones de los Quartos de circulo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="645" y="2935"/>
+	<Point x="584" y="2819"/>
+	<Point x="572" y="2774"/>
+	<Point x="569" y="2763"/>
+	<Point x="554" y="2710"/>
+	<Point x="2262" y="2700"/>
+	<Point x="2264" y="3364"/>
+	<Point x="596" y="3412"/>
+	<Point x="364" y="3405"/>
+	<Point x="366" y="3000"/>
+	<Point x="380" y="2953"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ntes de emprender una obra, es preciſo examinar
+empre los Inrumentos con que ſe debe execu-
+tar, para conocer los defeos, que pueden producir, y
+corregirlos, ò hacer el computo de la juiﬁcacion de ea.
+Por ee motivo tuvimos preſente antes de empezar las
+Obſervaciones de los angulos, que formaban la Série de
+triangulos de la Meridiana, el examinar las diviones de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="signature-mark">
+	<Coords>
+	<Point x="1377" y="3400"/>
+	<Point x="1527" y="3392"/>
+	<Point x="1533" y="3472"/>
+	<Point x="1393" y="3477"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>V 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="credit">
+	<Coords>
+	<Point x="992" y="3993"/>
+	<Point x="1953" y="3993"/>
+	<Point x="1953" y="4091"/>
+	<Point x="992" y="4091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="catch-word">
+	<Coords>
+	<Point x="2137" y="3381"/>
+	<Point x="2140" y="3468"/>
+	<Point x="2267" y="3470"/>
+	<Point x="2250" y="3398"/>
+	<Point x="2174" y="3398"/>
+	<Point x="2162" y="3379"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>los</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="page-number">
+	<Coords>
+	<Point x="2007" y="355"/>
+	<Point x="2194" y="355"/>
+	<Point x="2194" y="460"/>
+	<Point x="2007" y="460"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>155</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="373" y="465"/>
+	<Point x="1432" y="462"/>
+	<Point x="1941" y="458"/>
+	<Point x="1941" y="689"/>
+	<Point x="1221" y="706"/>
+	<Point x="999" y="702"/>
+	<Point x="970" y="704"/>
+	<Point x="757" y="700"/>
+	<Point x="371" y="702"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>t p p l
+IE = 2090. 5 5. 2.
+IC = 2091. 1 9 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="341" y="714"/>
+	<Point x="975" y="714"/>
+	<Point x="1378" y="709"/>
+	<Point x="1665" y="701"/>
+	<Point x="2287" y="704"/>
+	<Point x="2287" y="2260"/>
+	<Point x="332" y="2260"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De igual modo en el triangulo IOD ſon conocidos,
+el angulo lDO = 180°– CHO = 90° 03' 18½"
+IOD = 88 47 39
+t p p l
+y el lado ID = 4181. 4. 10. 4.: luego
+IOD = 88° 47' 39"
+IDO = 90 03 18½
+t p p l
+ID = 4181 4. 10. 04
+IO = 4182 4 04 10
+luego IC+IO = CO = 6274 toeſas, ò pies, 2 pulgadas,
+y una linea, que es la diancia en linea rea deſde Cara-
+bùru à Oyambàro: la qual el dia 24 de Agoo de 1737 alar‑
+gamos M. Godin, y yo 3 pulgadas, 8 lineas: y aſsi ſerà la
+verdadera diancia de 6274 toeſas, o pies, 5 pulgadas, 9
+lineas: ò de 6274 toeſas, o pies, 6 pulgadas juas, por fal‑
+tarle ſolo 3 lineas para eo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="drop-capital">
+	<Coords>
+	<Point x="373" y="2750"/>
+	<Point x="373" y="2926"/>
+	<Point x="423" y="2933"/>
+	<Point x="586" y="2926"/>
+	<Point x="547" y="2758"/>
+	<Point x="483" y="2729"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444116">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T11:29:55</Created>
+	<LastChange>2011-12-19T11:39:26</LastChange></Metadata>
+	<Page imageFilename="00444116.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="484" y="81"/>
+	<Point x="747" y="81"/>
+	<Point x="747" y="211"/>
+	<Point x="484" y="211"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>188</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="438" y="241"/>
+	<Point x="2017" y="238"/>
+	<Point x="2044" y="2630"/>
+	<Point x="1527" y="2649"/>
+	<Point x="637" y="2640"/>
+	<Point x="446" y="2630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no ay ſuﬀrimiento que la ſuﬀra, y no ſe
+querria jamas ver libre de ea no fuee
+para verſe ya con vos, quando ſe acuerda
+que no os ha ſeruido en nada, y que bi-
+uiendo os puede ſeruir, querria carga muy
+mas peſada, y nunca haa la ﬁn del mun‐
+do morirſe, no tiene en nada ſu deſcanſo
+atrueque de hazeros vn pequeño ſeruicio,
+no ſabe que deee, mas bien entiende que
+no deea otra coſa no a vos. O hijo mio, ( 
+es tan humilde que aſsi ſe quiere nombrar
+aquien va eo dirigido y me lo mando eſ-
+criuir ) ſean ſolo para v. m. las coſas en que
+viere ſalgo de terminos, porque no ay razon
+que bae a no me ſacar de ea quando
+me ſaca el Señor de mi, ni creo ſoy yo la
+que hablo deſde ea mañana que comul‐
+gue, parece que ſueño lo que veo y no
+querria ver no enfermos dee mal que
+eoy yo aora, ſuplico a v. m. ſeamos
+todos locos por amor de quien por no‐
+ſotros ſe lo amaron: pues dize v. m.
+que me quiere, en diſponerſe para que
+Dios le haga ea merced, quiero que me
+lo muere, porque veo muy pocos que
+no los vea con ſeſo demaado para
+lo que les cumple, ya puede ſer que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1783" y="2648"/>
+	<Point x="1986" y="2643"/>
+	<Point x="1993" y="2728"/>
+	<Point x="1773" y="2726"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tenga</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="627" y="3041"/>
+	<Point x="1564" y="3041"/>
+	<Point x="1565" y="3143"/>
+	<Point x="620" y="3144"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="875" y="88"/>
+	<Point x="875" y="215"/>
+	<Point x="1630" y="215"/>
+	<Point x="1630" y="88"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

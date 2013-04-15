@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444127">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:01:14</Created>
+	<LastChange>2011-12-19T11:39:27</LastChange></Metadata>
+	<Page imageFilename="00444127.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="275" y="98"/>
+	<Point x="873" y="98"/>
+	<Point x="891" y="99"/>
+	<Point x="910" y="103"/>
+	<Point x="1519" y="87"/>
+	<Point x="1511" y="218"/>
+	<Point x="291" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="148" y="247"/>
+	<Point x="1751" y="233"/>
+	<Point x="1767" y="2652"/>
+	<Point x="1649" y="2658"/>
+	<Point x="1632" y="2658"/>
+	<Point x="1554" y="2657"/>
+	<Point x="1290" y="2645"/>
+	<Point x="1227" y="2657"/>
+	<Point x="1198" y="2659"/>
+	<Point x="1180" y="2658"/>
+	<Point x="1161" y="2656"/>
+	<Point x="601" y="2679"/>
+	<Point x="556" y="2671"/>
+	<Point x="292" y="2678"/>
+	<Point x="160" y="2672"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que para la paada, porque en ea aun en-
+te el alma no ea muerta del todo, que an
+lo podemos dezir, pues lo ea al mundo, mas
+como dixe, tiene ſentido para entender que
+ea en el, y ſentir ſu ſoledad, y aprouecha-
+ſe de lo exterior, para dar a entender lo que
+ente,  quiera por ſeñas. En toda la ora-
+cion y modos dea que queda dicho, algu-
+na coſa trabaja el hortelano, aunque en eas
+poreras va el trabajo acompañado de tan-
+ta gloria y conſuelo del alma, que jamas
+querria ſalir del, y an no ſe ente por
+trabajo, no por gloria, aca no ay ſentir,
+ no gozar n entender lo que ſe goza: en-
+tiendeſe que ſe goza vn bien, adonde junto
+ſe encierran todos los bienes, mas no ſe com
+prehende ee bien. Ocupanſe todos los ſen-
+tidos en ee gozo, de manera que no queda
+ninguno deſocupado, para poder en otra co-
+ſa interior ni exteriormente, antes dauaſeles
+licencia, para que, como digo, hagan al-
+gunas mueras del gran gozo que enten,
+aca el alma goza mas n comparacion, y
+puedeſe dar a entender muy menos, por-
+que no queda poder en el cuerpo, ni el al-
+ma le tiene para comunicar aquel gozo, en
+aquel tiempo, todo le ſeria gran embaraço</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1491" y="2662"/>
+	<Point x="1702" y="2660"/>
+	<Point x="1718" y="2704"/>
+	<Point x="1711" y="2754"/>
+	<Point x="1488" y="2758"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y tor-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="618" y="3070"/>
+	<Point x="1579" y="3074"/>
+	<Point x="1577" y="3152"/>
+	<Point x="613" y="3145"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1561" y="137"/>
+	<Point x="1561" y="224"/>
+	<Point x="1721" y="224"/>
+	<Point x="1721" y="137"/>
+	<Point x="1633" y="133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>199</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1166" y="2661"/>
+	<Point x="1171" y="2749"/>
+	<Point x="1335" y="2744"/>
+	<Point x="1341" y="2712"/>
+	<Point x="1335" y="2662"/>
+	<Point x="1290" y="2650"/>
+	<Point x="1213" y="2660"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N 4</Unicode></TextEquiv></TextRegion></Page></PcGts>

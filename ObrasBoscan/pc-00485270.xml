@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485270">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T13:32:41</Created>
+	<LastChange>2011-05-12T13:41:10</LastChange></Metadata>
+	<Page imageFilename="00485270.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="492" y="1777"/>
+	<Point x="1850" y="1777"/>
+	<Point x="1850" y="2500"/>
+	<Point x="492" y="2500"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y deſd'ai, paaron adelante,
+Adonde, fue Parthenope enterrada
+Y luego ala ciudad, empre triumphante
+Aegaron, haziendo ſu jornada.
+Y por eos deſpues, en breue inante,
+(ltalia, y Francia, endo atraueada.)
+Subieron n hazer ningun rodeo,
+Ala cumbre del alto Pyreneo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="624" y="3011"/>
+	<Point x="1387" y="3011"/>
+	<Point x="1387" y="3095"/>
+	<Point x="624" y="3095"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="836" y="75"/>
+	<Point x="1364" y="75"/>
+	<Point x="1364" y="181"/>
+	<Point x="836" y="181"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="511" y="193"/>
+	<Point x="1636" y="193"/>
+	<Point x="1640" y="895"/>
+	<Point x="513" y="895"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pueo ﬁn al hablar fuee, dexando
+El ayre con ſuauiimos olores.
+Y por el derredor yuan bolando,
+Mil amores ai, cantando amores.
+Hecho eo, quedaron adreçando
+Su partida, los dos embazadores.
+Y contanto, ſe fueron otro dia,
+Ala hora que ya el ſol eſclarecia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="508" y="981"/>
+	<Point x="1819" y="981"/>
+	<Point x="1819" y="1716"/>
+	<Point x="508" y="1716"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hazia las tierras fueron, caminando,
+Que por el ſolo Nilo, ſon regadas.
+Y anduuieron deſpues atraueando,
+Por las Alexandrinas encontradas.
+Y a mas andar, o a mas bolar, paando,
+Por Creta, y Rhodas, lſlas celebradas,
+Fueron a dar congo, en la gran Grecia,
+Adonde el mar ſe junta de Venecia,</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r13" type="other">
+	<Coords>
+	<Point x="1370" y="82"/>
+	<Point x="1371" y="178"/>
+	<Point x="1499" y="178"/>
+	<Point x="1497" y="87"/></Coords></GraphicRegion></Page></PcGts>

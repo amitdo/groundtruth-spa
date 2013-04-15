@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440048">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T10:00:04</Created>
+	<LastChange>2011-12-19T11:38:38</LastChange></Metadata>
+	<Page imageFilename="00440048.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r22" index="1"/>
+	<RegionRefIndexed regionRef="r26" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="804" y="2386"/>
+	<Point x="2465" y="2386"/>
+	<Point x="2465" y="2591"/>
+	<Point x="804" y="2591"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En el Puerto, ò Playa de Manta de la juriſdiccion
+de Guayaquìl.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r23">
+	<Coords>
+	<Point x="626" y="2621"/>
+	<Point x="2782" y="2621"/>
+	<Point x="2782" y="3313"/>
+	<Point x="626" y="3313"/></Coords></TableRegion>
+	<TextRegion id="r26" type="catch-word">
+	<Coords>
+	<Point x="2430" y="3347"/>
+	<Point x="2704" y="3347"/>
+	<Point x="2704" y="3543"/>
+	<Point x="2430" y="3543"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="credit">
+	<Coords>
+	<Point x="965" y="4000"/>
+	<Point x="2004" y="4000"/>
+	<Point x="2004" y="4104"/>
+	<Point x="965" y="4104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="page-number">
+	<Coords>
+	<Point x="717" y="304"/>
+	<Point x="717" y="413"/>
+	<Point x="943" y="413"/>
+	<Point x="943" y="304"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>32</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r32">
+	<Coords>
+	<Point x="600" y="600"/>
+	<Point x="2713" y="600"/>
+	<Point x="2713" y="2369"/>
+	<Point x="600" y="2369"/></Coords></TableRegion>
+	<TextRegion id="r29" type="header">
+	<Coords>
+	<Point x="1230" y="200"/>
+	<Point x="2073" y="200"/>
+	<Point x="2066" y="398"/>
+	<Point x="1237" y="394"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="1424" y="435"/>
+	<Point x="1424" y="559"/>
+	<Point x="1846" y="559"/>
+	<Point x="1846" y="435"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En Panamà.</Unicode></TextEquiv></TextRegion></Page></PcGts>

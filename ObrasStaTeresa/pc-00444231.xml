@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444231">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T11:14:24</Created>
+	<LastChange>2011-12-19T11:39:33</LastChange></Metadata>
+	<Page imageFilename="00444231.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="277" y="125"/>
+	<Point x="1477" y="142"/>
+	<Point x="1490" y="255"/>
+	<Point x="307" y="257"/>
+	<Point x="286" y="256"/>
+	<Point x="252" y="252"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="95" y="275"/>
+	<Point x="1707" y="282"/>
+	<Point x="1722" y="2694"/>
+	<Point x="1452" y="2693"/>
+	<Point x="1360" y="2720"/>
+	<Point x="715" y="2721"/>
+	<Point x="121" y="2708"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aunque fuee demonio, no oﬀendiendo yo a
+Dios, no me podia hazer nada, que eo ſe me
+quitaria, que lo rogae mucho a Dios, y el y
+todas las perſonas  confeaua lo hazian har-
+to, y otras muchas, y yo toda mi oraciõ, y quã-
+tos entendia eran eruos de Dios, porque ſu
+Magead me euae por otro camino, y eo
+me duro no ſe  dos años que era contino pe
+dirlo al Señor. A mi ningũ cõſuelo me baaua
+quando penſaua que era poſsible, que tantas
+vezes me auia de hablar el demonio. Por de
+que no tomaua horas de ſoledad para oraciõ,
+en conuerſacion me hazia el Señor recoger, y
+n poderlo yo eſcufar, me dezia lo  era ſerui
+do, y aunque me peſaua lo auia de oyr: pues
+eãdome ſola, n tener vna perſona cõ quien
+deſcãſar, ni podia rezar, ni leer, no como per
+ſona eſpãtada de tanta tribulaciõ, y temor de
+ me auia de engañar el demonio toda albo-
+rotada y fatigada, n ſaber  hazer de mi. En
+ea afﬂiciõ me vi algunas y muchas vezes, aũ-
+que no me parece ninguna en tanto eremo,
+euue an quatro o cinco horas,  cõſuelo de
+la tierra ni del cielo, no auia para mi, no  me
+dexo el Señor padecer temiendo mil peligros.
+O Señor mio como ſoys vos el amigo verda-
+dero, y como poderoſo quãdo reys podeys, y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1456" y="2700"/>
+	<Point x="1696" y="2700"/>
+	<Point x="1713" y="2782"/>
+	<Point x="1436" y="2775"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nunca</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="596" y="3060"/>
+	<Point x="1572" y="3060"/>
+	<Point x="1572" y="3156"/>
+	<Point x="596" y="3156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1500" y="146"/>
+	<Point x="1513" y="274"/>
+	<Point x="1671" y="270"/>
+	<Point x="1666" y="146"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>303</Unicode></TextEquiv></TextRegion></Page></PcGts>

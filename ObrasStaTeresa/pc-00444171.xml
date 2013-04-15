@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444171">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:37:01</Created>
+	<LastChange>2011-12-19T11:39:29</LastChange></Metadata>
+	<Page imageFilename="00444171.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="425" y="96"/>
+	<Point x="1548" y="90"/>
+	<Point x="1567" y="200"/>
+	<Point x="425" y="206"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="signature-mark">
+	<Coords>
+	<Point x="1287" y="2632"/>
+	<Point x="1538" y="2632"/>
+	<Point x="1538" y="2745"/>
+	<Point x="1287" y="2745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Q2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="619" y="3064"/>
+	<Point x="1574" y="3064"/>
+	<Point x="1574" y="3151"/>
+	<Point x="619" y="3151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="241" y="219"/>
+	<Point x="1796" y="219"/>
+	<Point x="1793" y="2612"/>
+	<Point x="1774" y="2619"/>
+	<Point x="1306" y="2619"/>
+	<Point x="1216" y="2633"/>
+	<Point x="293" y="2638"/>
+	<Point x="245" y="2636"/>
+	<Point x="245" y="2616"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tae intereſe de honra y dineros. Tego para
+mi ſe remediaria todo. Vee de los deleytes tã
+gran ceguedad, y como cõ eos compra tra-
+bajo aun para ea vida, y deſaoſsiego. Que
+inquietud? que poco contento? que trabajar
+en vano? Aqui no ſolo las telarañas vee de
+ſu alma, y las faltas grandes, no vn pol-
+uito que aya por pequeño que ſea, porque el
+ſol ea muy claro, y an por mucho que
+trabage vn alma en perﬁcionarſe,  de veras
+la coge ee ſol, toda ſe vee muy turuia. Es
+como el agua que ea en vn vaſo, que
+no le da el ſol ea muy claro, y  da en el
+veeſe que ea todo eno de motas. Al pie
+de la letra es ea comparacion, antes de ear
+el alma en ea exta parecele que trae cuy
+dado de no oﬀender a Dios, y que conforme
+a ſus fuerças haze lo que puede, mas egada
+aqui  le da ee ſol de juicia, que la haze
+abrir los ojos, vee tantas motas que los
+querria tornar a cerrar, porque aun no es tan
+hija de ea aguila caudaloſa, que pueda mi-
+rar ee ſol de hito en hito, mas por po-
+co que los tenga abiertos, veeſe toda tur-
+uia, acuerdaſe del verſo que dize: quien ſera
+juo delante de ti? quando mira ee diuino
+ſol deſlumbrale la claridad, como ſe mira a</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1587" y="109"/>
+	<Point x="1587" y="216"/>
+	<Point x="1783" y="216"/>
+	<Point x="1783" y="109"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>243</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1662" y="2636"/>
+	<Point x="1816" y="2622"/>
+	<Point x="1816" y="2741"/>
+	<Point x="1677" y="2741"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>

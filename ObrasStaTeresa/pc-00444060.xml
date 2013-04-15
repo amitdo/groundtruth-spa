@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444060">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T11:23:28</Created>
+	<LastChange>2011-12-19T11:39:23</LastChange></Metadata>
+	<Page imageFilename="00444060.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="445" y="235"/>
+	<Point x="2011" y="235"/>
+	<Point x="2011" y="2630"/>
+	<Point x="1795" y="2628"/>
+	<Point x="1795" y="2669"/>
+	<Point x="445" y="2671"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Magead que conuiene, mas que quando no
+la tuuieren, que no ſe fatiguen, y que entien‐
+dan que no es meneer pues ſu Magead no
+la da, y anden ſeñores de  miſmos. Crean
+que es falta, yo lo he prouado y vio. Crean
+que es imperfecion, y no andar con libertad
+de ſpiritu, no ﬂacos para acometer. Eo no
+lo digo tanto por los que comiençan, aũque
+pongo tanto en eo, porque les importa mu‐
+cho començar con ea libertad y determina-
+cion, no por otros, que aura muchos que lo
+ha que començaron, y nunca acaban de aca‐
+bar, y creo es gran parte ee no abraçar la
+cruz deſde el principio. Que andaran aﬀligi-
+dos pareciendoles no hazen nada, en dexan-
+do de obrar el entendimiento, no lo pueden
+ſuﬀrir, y por ventura entonces engorda la vo‐
+luntad, y toma fuerças, y no lo entiẽden eos.
+Hemos de penſar que no mira el Señor en
+eas coſas, que aunque a noſotros nos pare‐
+cen faltas, no lo ſon, ya ſabe ſu Magead nue
+ra miſeria, y baxo natural, mejor que noſo‐
+tros miſmos, y ſabe que ya eas almas deeã
+empre penſar en el, y amarle, ea determi‐
+nacion es la que quiere, eotro aﬀligimiento
+que nos damos, no rue mas de inquietar el
+alma, y  auia de ear inhabil para aproue-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="576" y="3057"/>
+	<Point x="1592" y="3057"/>
+	<Point x="1592" y="3154"/>
+	<Point x="576" y="3154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="464" y="119"/>
+	<Point x="464" y="221"/>
+	<Point x="645" y="221"/>
+	<Point x="645" y="119"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>132</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="904" y="100"/>
+	<Point x="904" y="209"/>
+	<Point x="1566" y="209"/>
+	<Point x="1566" y="100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1828" y="2635"/>
+	<Point x="1828" y="2735"/>
+	<Point x="2002" y="2735"/>
+	<Point x="2002" y="2635"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>char</Unicode></TextEquiv></TextRegion></Page></PcGts>

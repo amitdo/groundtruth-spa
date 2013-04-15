@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438950">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T08:01:38</Created>
+	<LastChange>2011-06-24T14:04:27</LastChange></Metadata>
+	<Page imageFilename="00438950.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r60" index="0"/>
+	<RegionRefIndexed regionRef="r62" index="1"/>
+	<RegionRefIndexed regionRef="r56" index="2"/>
+	<RegionRefIndexed regionRef="r58" index="3"/>
+	<RegionRefIndexed regionRef="r24" index="4"/>
+	<RegionRefIndexed regionRef="r32" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/>
+	<RegionRefIndexed regionRef="r36" index="7"/>
+	<RegionRefIndexed regionRef="r11" index="8"/>
+	<RegionRefIndexed regionRef="r66" index="9"/>
+	<RegionRefIndexed regionRef="r14" index="10"/>
+	<RegionRefIndexed regionRef="r50" index="11"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="107" y="1448"/>
+	<Point x="243" y="1449"/>
+	<Point x="337" y="1450"/>
+	<Point x="337" y="1445"/>
+	<Point x="407" y="1445"/>
+	<Point x="407" y="1440"/>
+	<Point x="514" y="1441"/>
+	<Point x="517" y="1440"/>
+	<Point x="547" y="1439"/>
+	<Point x="553" y="1448"/>
+	<Point x="659" y="1443"/>
+	<Point x="691" y="1443"/>
+	<Point x="708" y="1420"/>
+	<Point x="995" y="1411"/>
+	<Point x="998" y="1491"/>
+	<Point x="717" y="1496"/>
+	<Point x="711" y="1508"/>
+	<Point x="696" y="1511"/>
+	<Point x="679" y="1509"/>
+	<Point x="681" y="1496"/>
+	<Point x="350" y="1507"/>
+	<Point x="176" y="1508"/>
+	<Point x="106" y="1507"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De los cabeos de oro fuetexida.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="credit">
+	<Coords>
+	<Point x="499" y="2098"/>
+	<Point x="986" y="2098"/>
+	<Point x="986" y="2140"/>
+	<Point x="499" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="header">
+	<Coords>
+	<Point x="143" y="43"/>
+	<Point x="975" y="43"/>
+	<Point x="975" y="140"/>
+	<Point x="740" y="133"/>
+	<Point x="143" y="140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A GARCILASSO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="page-number">
+	<Coords>
+	<Point x="1039" y="54"/>
+	<Point x="1183" y="54"/>
+	<Point x="1183" y="124"/>
+	<Point x="1039" y="124"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>107</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="marginalia">
+	<Coords>
+	<Point x="1193" y="575"/>
+	<Point x="1257" y="575"/>
+	<Point x="1257" y="649"/>
+	<Point x="1192" y="649"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>38</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="28" y="626"/>
+	<Point x="83" y="625"/>
+	<Point x="89" y="611"/>
+	<Point x="165" y="610"/>
+	<Point x="165" y="630"/>
+	<Point x="228" y="630"/>
+	<Point x="230" y="612"/>
+	<Point x="669" y="594"/>
+	<Point x="1185" y="579"/>
+	<Point x="1184" y="705"/>
+	<Point x="739" y="735"/>
+	<Point x="520" y="746"/>
+	<Point x="300" y="749"/>
+	<Point x="95" y="758"/>
+	<Point x="29" y="760"/>
+	<Point x="29" y="727"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Que al vn error añado. Prouer. Latino.
+Morbum morbo addere.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="marginalia">
+	<Coords>
+	<Point x="1210" y="754"/>
+	<Point x="1281" y="748"/>
+	<Point x="1300" y="820"/>
+	<Point x="1206" y="822"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>39</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="29" y="765"/>
+	<Point x="780" y="742"/>
+	<Point x="825" y="740"/>
+	<Point x="988" y="732"/>
+	<Point x="1192" y="726"/>
+	<Point x="1194" y="842"/>
+	<Point x="474" y="854"/>
+	<Point x="376" y="855"/>
+	<Point x="351" y="855"/>
+	<Point x="206" y="857"/>
+	<Point x="188" y="857"/>
+	<Point x="173" y="858"/>
+	<Point x="170" y="906"/>
+	<Point x="26" y="908"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De mis atados pies. Tibulo Elegia vltim.
+lib. 2.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="26" y="914"/>
+	<Point x="220" y="913"/>
+	<Point x="1212" y="867"/>
+	<Point x="1220" y="1027"/>
+	<Point x="1197" y="1027"/>
+	<Point x="1007" y="1030"/>
+	<Point x="1009" y="1049"/>
+	<Point x="975" y="1049"/>
+	<Point x="977" y="1030"/>
+	<Point x="815" y="1036"/>
+	<Point x="655" y="1035"/>
+	<Point x="638" y="1046"/>
+	<Point x="569" y="1045"/>
+	<Point x="567" y="1061"/>
+	<Point x="548" y="1061"/>
+	<Point x="546" y="1053"/>
+	<Point x="412" y="1049"/>
+	<Point x="410" y="1063"/>
+	<Point x="380" y="1063"/>
+	<Point x="378" y="1051"/>
+	<Point x="217" y="1053"/>
+	<Point x="215" y="1069"/>
+	<Point x="192" y="1070"/>
+	<Point x="186" y="1070"/>
+	<Point x="187" y="1053"/>
+	<Point x="159" y="1053"/>
+	<Point x="26" y="1059"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Spes etiam valida ſolatur compede vinũ.
+Crura ſonant ferro, ſed canit inter opus</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords>
+	<Point x="30" y="1075"/>
+	<Point x="230" y="1075"/>
+	<Point x="230" y="1062"/>
+	<Point x="344" y="1063"/>
+	<Point x="343" y="1074"/>
+	<Point x="441" y="1073"/>
+	<Point x="440" y="1060"/>
+	<Point x="524" y="1056"/>
+	<Point x="543" y="1055"/>
+	<Point x="549" y="1065"/>
+	<Point x="570" y="1065"/>
+	<Point x="572" y="1050"/>
+	<Point x="629" y="1052"/>
+	<Point x="814" y="1046"/>
+	<Point x="959" y="1045"/>
+	<Point x="960" y="1057"/>
+	<Point x="1079" y="1052"/>
+	<Point x="1086" y="1035"/>
+	<Point x="1100" y="1035"/>
+	<Point x="1203" y="1033"/>
+	<Point x="1203" y="1066"/>
+	<Point x="1207" y="1173"/>
+	<Point x="1211" y="1296"/>
+	<Point x="1211" y="1323"/>
+	<Point x="1210" y="1383"/>
+	<Point x="1108" y="1386"/>
+	<Point x="676" y="1386"/>
+	<Point x="675" y="1427"/>
+	<Point x="597" y="1428"/>
+	<Point x="592" y="1442"/>
+	<Point x="559" y="1443"/>
+	<Point x="541" y="1429"/>
+	<Point x="516" y="1429"/>
+	<Point x="500" y="1430"/>
+	<Point x="390" y="1429"/>
+	<Point x="388" y="1444"/>
+	<Point x="356" y="1444"/>
+	<Point x="357" y="1430"/>
+	<Point x="308" y="1431"/>
+	<Point x="308" y="1441"/>
+	<Point x="212" y="1443"/>
+	<Point x="141" y="1443"/>
+	<Point x="28" y="1441"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Muerame el eſperança. Aqui moraliza
+la fabula de Tantalo, el qual ﬁngen los Poe
+tas que eà en el inﬁerno metido en el rio
+con el agua haa la boca, y quando quiere
+beuer, le huye el agua.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="marginalia">
+	<Coords>
+	<Point x="1210" y="1052"/>
+	<Point x="1294" y="1052"/>
+	<Point x="1294" y="1116"/>
+	<Point x="1210" y="1116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>40</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="marginalia">
+	<Coords>
+	<Point x="1233" y="1828"/>
+	<Point x="1297" y="1807"/>
+	<Point x="1317" y="1828"/>
+	<Point x="1317" y="1890"/>
+	<Point x="1233" y="1890"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>42</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="26" y="1822"/>
+	<Point x="493" y="1813"/>
+	<Point x="493" y="1792"/>
+	<Point x="519" y="1792"/>
+	<Point x="579" y="1795"/>
+	<Point x="1221" y="1788"/>
+	<Point x="1224" y="1846"/>
+	<Point x="1221" y="1939"/>
+	<Point x="1010" y="1937"/>
+	<Point x="978" y="1939"/>
+	<Point x="400" y="1931"/>
+	<Point x="400" y="1973"/>
+	<Point x="26" y="1973"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aquea tan amada mi enemiga. Petrarch.
+ſoneto. 207.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="catch-word">
+	<Coords>
+	<Point x="1109" y="1951"/>
+	<Point x="1240" y="1951"/>
+	<Point x="1240" y="2014"/>
+	<Point x="1109" y="2014"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r54" type="signature-mark">
+	<Coords>
+	<Point x="767" y="1961"/>
+	<Point x="953" y="1961"/>
+	<Point x="953" y="2040"/>
+	<Point x="767" y="2040"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r56" type="paragraph">
+	<Coords>
+	<Point x="59" y="383"/>
+	<Point x="797" y="367"/>
+	<Point x="799" y="434"/>
+	<Point x="63" y="458"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Arioo cant. 2r. anz. i6.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r58" type="paragraph">
+	<Coords>
+	<Point x="7" y="466"/>
+	<Point x="778" y="441"/>
+	<Point x="840" y="438"/>
+	<Point x="923" y="433"/>
+	<Point x="1142" y="428"/>
+	<Point x="1140" y="572"/>
+	<Point x="1026" y="576"/>
+	<Point x="786" y="582"/>
+	<Point x="587" y="590"/>
+	<Point x="216" y="601"/>
+	<Point x="208" y="623"/>
+	<Point x="179" y="623"/>
+	<Point x="180" y="601"/>
+	<Point x="63" y="604"/>
+	<Point x="64" y="621"/>
+	<Point x="10" y="621"/>
+	<Point x="10" y="604"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Che quãto appar furor neo ſcoglio Alpino
+Tanto ſoterra ha laradice.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r60" type="paragraph">
+	<Coords>
+	<Point x="58" y="151"/>
+	<Point x="690" y="142"/>
+	<Point x="728" y="142"/>
+	<Point x="882" y="146"/>
+	<Point x="884" y="203"/>
+	<Point x="710" y="205"/>
+	<Point x="185" y="220"/>
+	<Point x="184" y="233"/>
+	<Point x="174" y="234"/>
+	<Point x="158" y="233"/>
+	<Point x="154" y="226"/>
+	<Point x="58" y="226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Et quantum vertice ad auras</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r62" type="paragraph">
+	<Coords>
+	<Point x="17" y="248"/>
+	<Point x="175" y="237"/>
+	<Point x="191" y="238"/>
+	<Point x="192" y="227"/>
+	<Point x="333" y="230"/>
+	<Point x="703" y="214"/>
+	<Point x="733" y="213"/>
+	<Point x="760" y="214"/>
+	<Point x="885" y="213"/>
+	<Point x="1185" y="209"/>
+	<Point x="1180" y="347"/>
+	<Point x="410" y="371"/>
+	<Point x="296" y="371"/>
+	<Point x="16" y="373"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>AEthereas, tantum radicem in Tartara
+tendit.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r64" type="marginalia">
+	<Coords>
+	<Point x="1218" y="1520"/>
+	<Point x="1292" y="1520"/>
+	<Point x="1292" y="1589"/>
+	<Point x="1218" y="1589"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>41</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r66" type="paragraph">
+	<Coords>
+	<Point x="29" y="1513"/>
+	<Point x="97" y="1514"/>
+	<Point x="262" y="1514"/>
+	<Point x="558" y="1507"/>
+	<Point x="647" y="1504"/>
+	<Point x="647" y="1512"/>
+	<Point x="702" y="1512"/>
+	<Point x="720" y="1507"/>
+	<Point x="1010" y="1504"/>
+	<Point x="1010" y="1488"/>
+	<Point x="1076" y="1486"/>
+	<Point x="1211" y="1491"/>
+	<Point x="1220" y="1776"/>
+	<Point x="571" y="1770"/>
+	<Point x="476" y="1770"/>
+	<Point x="476" y="1808"/>
+	<Point x="26" y="1815"/>
+	<Point x="26" y="1758"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Moraliza la fabula de Venus, que ﬁngen
+los Poetas que la prẽdio Vulcano con vna
+ſutiliſsima red, tomandola en adulterio cõ
+el Dios Marte.</Unicode></TextEquiv></TextRegion></Page></PcGts>

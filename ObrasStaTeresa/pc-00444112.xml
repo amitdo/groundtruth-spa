@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444112">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:59:25</Created>
+	<LastChange>2011-12-19T11:39:26</LastChange></Metadata>
+	<Page imageFilename="00444112.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="508" y="13"/>
+	<Point x="750" y="13"/>
+	<Point x="750" y="239"/>
+	<Point x="508" y="239"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>184</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="476" y="248"/>
+	<Point x="2025" y="235"/>
+	<Point x="2038" y="2623"/>
+	<Point x="1948" y="2636"/>
+	<Point x="1842" y="2628"/>
+	<Point x="1719" y="2657"/>
+	<Point x="1443" y="2646"/>
+	<Point x="540" y="2661"/>
+	<Point x="476" y="2643"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>n comparacion que lo paado, es que da el
+agua a la gargãta a ea alma de la gracia:  no
+puede ya yr adelante, ni ſabe como, ni tornar
+a tras, querria gozar de grãdiſsima gloria. Es
+como vno que ea con la candela en la ma‑
+no,  le falta poco para morir muerte que la
+deea. Ea gozando en aquea agonia con el
+mayor deleyte  ſe puede dezir, no me parece
+ es otra coſa no vn morir ca del todo a to
+das las coſas del mundo, y ear gozando de
+Dios. Yo no ſe otros terminos como lo dezir,
+ni como lo declarar, ni entõces ſabe el alma 
+hazer, por niſabe  hable, ni  cae, ni  ria,
+ni  ore. Es vn glorioſo deſatino, vna cele‑
+ial locura, adonde ſe deprende la verdadera
+fabiduria, y es deleytoſsima manera de go‑
+zar el alma. Y es an  ha que me dio el Se‑
+ñor en abundãcia ea oraciõ creo cinco y aũ
+ſeys años muchas vezes, y  ni yo la entendia
+ni la ſupiera dezir, y an tenia por mi, egada
+aqui dezir muy poco, o no nada. Bien entẽdia
+que no era del todo vnion de todas las poten
+cias y que era mas que la paada muy claro,
+mas yo conﬁeo que no podia determinar, y
+entẽder como era ea diﬀerencia. Mas creo
+que por la humildad que v. m. ha tenido en
+quererſe ayudar de vna mpleza tã grãde co</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="630" y="3044"/>
+	<Point x="1569" y="3046"/>
+	<Point x="1568" y="3160"/>
+	<Point x="625" y="3158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="945" y="109"/>
+	<Point x="945" y="222"/>
+	<Point x="1630" y="222"/>
+	<Point x="1630" y="109"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1826" y="2655"/>
+	<Point x="1826" y="2730"/>
+	<Point x="2019" y="2730"/>
+	<Point x="2019" y="2655"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mo</Unicode></TextEquiv></TextRegion></Page></PcGts>

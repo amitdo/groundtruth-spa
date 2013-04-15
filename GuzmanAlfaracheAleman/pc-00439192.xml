@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439192">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T21:41:49</Created>
+	<LastChange>2011-05-12T13:39:51</LastChange></Metadata>
+	<Page imageFilename="00439192.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="614" y="130"/>
+	<Point x="1545" y="130"/>
+	<Point x="1547" y="195"/>
+	<Point x="616" y="202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GuZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="290" y="216"/>
+	<Point x="1716" y="207"/>
+	<Point x="1713" y="1051"/>
+	<Point x="1692" y="2643"/>
+	<Point x="285" y="2645"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>con vuera vioria. El me dixo: Señor, la mia y mi
+perſona, ſomos de V. m. con Aguilera ſe ha de tratar
+por lo que le toca, y hecho el Concierto con el, acaba-
+do es el quento, con todos eà hecho. Pues (dixele)
+vete à buſcarlo, y procura verle, n que de ſu caſa te
+vean, dile que nos veamos quando tuviere lugar, que
+poco ſe perderà en que me conozca,  ya le conozco.
+Hizolo aſ, embiolo à amar con un papel ſecretamen-
+te, y quando nos juntamos, le preguntè por menudo
+las calidades, coumbres, y trato de ſu amo, que ha-
+zienda tenia, en que, donde, y en que monedas, y
+debajo de que avas. Començòme à hazer ſu platica
+en ea manera: Señor, ya Sayabedra tiene dada rela-
+cion de mi à V. m. del ſabra que ſoy Calafate ſurdo, un
+pobreto como todos: y aunque conozco, que con me-
+nos ingenio, ay miares muy ricos en el mundo: tam-
+bien he vio con eos à otros mas habiles ahorcados, no
+endo yo el que menos lo ha merecido: de que doy à
+Dios inﬁnitas gracias. Puede aver poco mas de un año
+(que es el tiempo que ha que redo en ea ciudad) que
+rvo à un mercader de harto trabajo, y de quatro me-
+ſes à ea parte ſoy ſu caxero, tengo los libros en mi
+poder, empero ios dineros ean en el ſuyo, amo, y
+temo, no acabo reſolverme como hazerle un ſalto, que
+no me dexe deſpues en el ayre, que para poco y malo,
+menor mal es paar adelante con muy buen trato, y 
+fuee mucho, querrialo gozar mucho. HeIo comunica-
+do con Sayabedra: porque para eos caſos, no ay hom-
+bre que pueda, ſolo para que por aà (entre perſonas
+de quien ſe pueda ﬁar, pues tiene tantos amigos) lo tra-
+te con algunos deos; que como ſon varios los entendi-
+mientos, cada qual diſcurre como mejor ſabe, y algu-
+nas vezes acontece dormitar Omero, y ſalir las traças
+buenas. Y quando anoche recebì ſu papel, embiando-
+me à amar, ſoſpechè que no ſeria en valde, que ha
+mucho que lo conozco, y nunca ſe ſuele armar, no
+à coſa ſeñalada. Creo,  à caſo le haamos vado, que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1514" y="2648"/>
+	<Point x="1680" y="2648"/>
+	<Point x="1686" y="2700"/>
+	<Point x="1500" y="2700"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>avemos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="530" y="2857"/>
+	<Point x="1316" y="2871"/>
+	<Point x="1321" y="2931"/>
+	<Point x="524" y="2929"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="323" y="119"/>
+	<Point x="323" y="200"/>
+	<Point x="459" y="200"/>
+	<Point x="459" y="119"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>160</Unicode></TextEquiv></TextRegion></Page></PcGts>

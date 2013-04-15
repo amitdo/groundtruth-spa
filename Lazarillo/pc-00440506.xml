@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440506">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:47:11</Created>
+	<LastChange>2011-07-05T14:26:03</LastChange></Metadata>
+	<Page imageFilename="00440506.tif" imageWidth="837" imageHeight="1640">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="95" y="99"/>
+	<Point x="173" y="96"/>
+	<Point x="188" y="81"/>
+	<Point x="828" y="92"/>
+	<Point x="820" y="1510"/>
+	<Point x="90" y="1508"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>era ſeñor de vna blanca, quel mal-
+dito ciego no encontraſe, no de-
+xando coura ni remiendo que
+no me buſcae muy amenudo.
+Pues como digo, metia cada no-
+che la llaue en la boca, y dormia
+n recelo que el bruxo de mi amo
+la allae : mas quando la deſdicha
+ha de venit, por de mas es la dili-
+gencia. Quieron mis hados, o
+( por mejor dezir ) mis pecados,
+que vna noche que eaua dur-
+miendo, la llaue ſe me puſo en la
+boca que deuia tener abierta, de
+tal manera, que el ayre, y reſuello
+que durmiendo echaua, entraua
+por lo hueco dela llaue ( que era
+de cañuto ) y luaua ( por mi mal )
+tan rezio, que el ſobreſaltado de
+mi amo lo oyo, y creyo n duda
+ſer el luo de la culebra: y cierto lo
+deuia parecer, leuanto ſe muy que-
+do con ſu garrote en la mano, y al
+ſonido dela culebra, ſe llego a mi</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="285" y="1585"/>
+	<Point x="566" y="1587"/>
+	<Point x="568" y="1612"/>
+	<Point x="283" y="1608"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="100" y="38"/>
+	<Point x="161" y="40"/>
+	<Point x="162" y="85"/>
+	<Point x="100" y="88"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>52</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="344" y="28"/>
+	<Point x="606" y="24"/>
+	<Point x="607" y="81"/>
+	<Point x="342" y="78"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

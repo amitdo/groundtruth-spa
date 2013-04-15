@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439175">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T21:39:37</Created>
+	<LastChange>2011-05-12T13:39:50</LastChange></Metadata>
+	<Page imageFilename="00439175.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="95" y="83"/>
+	<Point x="1200" y="78"/>
+	<Point x="1183" y="161"/>
+	<Point x="80" y="164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PARTE II. LIBRO II. CAP. IV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="0" y="180"/>
+	<Point x="1011" y="178"/>
+	<Point x="1454" y="197"/>
+	<Point x="1456" y="198"/>
+	<Point x="1469" y="2609"/>
+	<Point x="1278" y="2604"/>
+	<Point x="628" y="2642"/>
+	<Point x="36" y="2629"/>
+	<Point x="35" y="2559"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>rarme liberal, fuy aegurarle la perſona que no me
+dexae: porque aviendo de buſcar mariſco, no pu-
+diera haar compañero mas à propoto ni tan bueno;
+demas que endo ygual mio, era criado, y me reco-
+nocia por amo: que no es pequeña ventaja para qual-
+quiera coſa, evar la mano. El quedò tan rendido co-
+mo agradecido, y de uno en otro lance venimos à dar
+en preguntarle yo, la cauſa que le avia movido à robar-
+me, y dixo: Señor, ya no puedo aunque quiee de-
+xar de hazer alarde publico de mi vida: tanto por la
+merced recebida con tanta liberalidad en todo lo paa-
+do, como por ſer notoria, y que con quien ſe ha de
+vivir, ha de ſer el trato ano, n tener algo encubier-
+to; que no ſolo à Confeores, Letrados, y Medicos,
+ha de tratarſe empre verdad, pero entre los de nue-
+ro trato, jamas faltò entre noſotros miſmos, para po-
+dernos conſervar. Y cumpliendo con tantas obligacio-
+nes, vuera merced ſabrà que ſoy Valenciano, hĳo
+de padres honrados, que aun podrà ſer conocerlos algun
+dia por la fama, que ya (y ſea Dios loado) ſon difuntos.
+Fuymos dos hermanos, y entrambos deſgraciados, ya
+fuee porque de niños quedamos conſentidos, ya por-
+que dexandonos evar de los impulſos de nuero ape-
+tito, n hazerles la devida reencia, conſentimos
+en ea tentacion (que mejor diria) dimos en ea ﬂaque-
+za, no creyendo los daños venideros: antes con el ce-
+vo de preſentes guos, haa que ya reſueltos una vez
+à eo, no ſe pudo bolver atras. El otro mi hermano
+es mayor que yo, y aunque ambos y cada uno teniamos
+razonable paﬂada, mas aun eo no nos puſo freno, tan-
+ta es ò fue la fuerça de nuera erea, y tanto el de la
+mala inclinacion a no eſquivarnos dea, que poſpueo
+el honor, con mas deeo de ver tierras, que de ſuen-
+tarle, ſalimos à nueras aventuras. Mas porque pu-
+diera ſer no ſucedernos de la manera que teniamos pen-
+ſado, y para en qual quier trabajo no ſer conocidos, ni
+quedar con infamia fuymos de acuerdo en mudar de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1264" y="2616"/>
+	<Point x="1382" y="2613"/>
+	<Point x="1443" y="2618"/>
+	<Point x="1428" y="2678"/>
+	<Point x="1273" y="2680"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nom-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="540" y="2871"/>
+	<Point x="1311" y="2864"/>
+	<Point x="1301" y="2927"/>
+	<Point x="1254" y="2937"/>
+	<Point x="532" y="2929"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1264" y="76"/>
+	<Point x="1264" y="176"/>
+	<Point x="1404" y="176"/>
+	<Point x="1404" y="76"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>141</Unicode></TextEquiv></TextRegion></Page></PcGts>

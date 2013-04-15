@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442647">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:05:21</Created>
+	<LastChange>2012-03-12T14:12:13</LastChange></Metadata>
+	<Page imageFilename="00442647.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="412" y="75"/>
+	<Point x="1017" y="78"/>
+	<Point x="1077" y="70"/>
+	<Point x="1166" y="166"/>
+	<Point x="1006" y="172"/>
+	<Point x="802" y="171"/>
+	<Point x="562" y="173"/>
+	<Point x="501" y="189"/>
+	<Point x="396" y="166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="142" y="179"/>
+	<Point x="356" y="174"/>
+	<Point x="451" y="183"/>
+	<Point x="502" y="192"/>
+	<Point x="563" y="179"/>
+	<Point x="776" y="176"/>
+	<Point x="1245" y="176"/>
+	<Point x="1435" y="181"/>
+	<Point x="1458" y="2135"/>
+	<Point x="1373" y="2139"/>
+	<Point x="1153" y="2134"/>
+	<Point x="1023" y="2126"/>
+	<Point x="951" y="2132"/>
+	<Point x="171" y="2160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que no ſe auian de valer de ſu amiad en coſas que
+fueen contra Dios. Pues  eo ntio vn Gentil
+de la amiad, quãto mejor es que lo enta el Chriſ-
+tiano, que ſabe que por ninguna humana ha de per-
+der la amiad diuina. Y quando el amigo tirae tã-
+to la barra, que puee a parte los reſpetos del cie-
+lo, por acudir a los de ſu amigo, no ha de ſer por
+coſas ligeras, y de poco momento, no por aque-
+as en que vaya la hõra, y la vida de ſu amigo. Pues
+dime tu aora, Anſelmo, qual deas dos coſas tie-
+nes en peligro, para que yo me auenture a com-
+placerte, y a hazer vna coſa tan deteable como
+me pides? Ninguna por cierto, antes me pides, ſe-
+gun yo entiendo, que procure, y ſolicite quitarte
+la honra, y la vida, y quitarmela a mi juntamente.
+Porque  yo he de procurar quitarte la honra, cla-
+ro eà que te quito la vida, pues el hombre n hõ-
+ra, peor es que vn muerto: y endo yo el inru-
+mento, como tu quieres que lo ſea, de tanto mal tu-
+yo, no vengo a quedar deshonrado, y por el meſ-
+mo conguiente n vida? Eſcucha amigo Anſelmo,
+y ten paciencia de no reſponderme, haa  acabe
+de dezirte lo que ſe me ofreciere, acerca de lo  te
+ha pedido tu deeo, que tiempo quedarà para  tu
+me repliques, y yo te eſcuche. Que me plaze, di-
+xo Anſelmo, di lo que quieres. Y Lotario pro-
+guio, diziendo: Pareceme, o Anſelmo, que
+tienes tu aora el ingenio como el que empre tie-
+nen los Moros, a los quales no ſe les puede dar
+a entender el error de ſu ſea, con las acota-
+ciones de la ſanta Eſcritura, ni con razones que
+conan en eſpeculacion del entendimiẽto, ni que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="460" y="2308"/>
+	<Point x="1123" y="2308"/>
+	<Point x="1123" y="2362"/>
+	<Point x="460" y="2362"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1264" y="92"/>
+	<Point x="1264" y="171"/>
+	<Point x="1403" y="171"/>
+	<Point x="1403" y="92"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>186</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1275" y="2142"/>
+	<Point x="1275" y="2207"/>
+	<Point x="1487" y="2207"/>
+	<Point x="1487" y="2142"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vayan</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="954" y="2135"/>
+	<Point x="956" y="2198"/>
+	<Point x="1131" y="2199"/>
+	<Point x="1135" y="2141"/>
+	<Point x="1004" y="2131"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aa 2</Unicode></TextEquiv></TextRegion></Page></PcGts>

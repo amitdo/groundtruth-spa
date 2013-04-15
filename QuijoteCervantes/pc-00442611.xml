@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442611">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T23:28:33</Created>
+	<LastChange>2012-03-12T14:12:11</LastChange></Metadata>
+	<Page imageFilename="00442611.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="378" y="55"/>
+	<Point x="1175" y="59"/>
+	<Point x="1174" y="100"/>
+	<Point x="1174" y="143"/>
+	<Point x="826" y="143"/>
+	<Point x="711" y="145"/>
+	<Point x="696" y="146"/>
+	<Point x="562" y="148"/>
+	<Point x="504" y="174"/>
+	<Point x="390" y="151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="123" y="147"/>
+	<Point x="390" y="153"/>
+	<Point x="441" y="165"/>
+	<Point x="504" y="176"/>
+	<Point x="549" y="156"/>
+	<Point x="564" y="150"/>
+	<Point x="839" y="146"/>
+	<Point x="1096" y="145"/>
+	<Point x="1120" y="145"/>
+	<Point x="1441" y="142"/>
+	<Point x="1456" y="2126"/>
+	<Point x="1390" y="2120"/>
+	<Point x="1340" y="2110"/>
+	<Point x="1239" y="2121"/>
+	<Point x="830" y="2144"/>
+	<Point x="128" y="2147"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eſpañas, donde haaria el remedio de mis males,
+haando a vn cauaero andante, cuya fama en ee
+tiempo ſe eenderia por todo ee Reyno, el qual
+ſe auia de amar,  mal no me acuerdo, don Açote,
+o don Gigote. Don Quixote diria, ſeñor, dixo a eſ-
+ta ſazon Sancho Pança, o por otro nombre, el caua-
+ero de la trie Figura. Aſsi es la verdad, dixo Do-
+rotea. Dixo mas, que auia de ſer alto de cuerpo, ſe-
+co de roro, y que en el lado derecho, debaxo del
+ombro yzquierdo, o por ai junto, auia de tener vn
+lunar pardo, con ciertos cabeos a manera de cer-
+das. En oyendo eo don Quixote, dixo a ſu eſcude
+ro: Ten aqui Sancho, hijo, ayudame a deſnudar, que
+quiero ver  ſoy el cauaero que aquel ſabio Rey
+dexò profetizado. Pues para  quiere vuera mer-
+ced deſnudarſe, dixo Dorotea? Para ver  tẽgo ee
+lunar que vuero padre dixo, reſpondio don Qui-
+xote. No ay para que deſnudarſe, dixo Sancho, que
+yo ſe que tiene vuera merced vn lunar deas ſe-
+ñas en la mitad del eſpinazo, que es ſeñal de ſer hõ-
+bre fuerte. Eo baa dixo Dorotea, porque con los
+amigos no ſe ha de mirar en pocas coſas, y que eè
+en el hombro, o que eè en el eſpinazo, importa po
+co, baa que aya lunar, y eè donde euuiere, pues
+todo es vna meſma carne: y n duda acertò mi
+buen padre en todo, y yo he acertado en encomen-
+darme al ſeñor don Quixote, que el es por quien
+mi padre dixo, pues las ſeñales del roro vienẽ cõ
+las de la buena fama que ee cauaero tiene, no ſo-
+lo en Eſpaña, pero en toda la Mancha, pues apenas
+me huue deſembarcado en Oſuna, quãdo ohi dezir
+tãtas hazañas ſuyas,  luego me dio el alma,  era el</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1185" y="2129"/>
+	<Point x="1339" y="2112"/>
+	<Point x="1348" y="2115"/>
+	<Point x="1412" y="2126"/>
+	<Point x="1407" y="2153"/>
+	<Point x="1407" y="2189"/>
+	<Point x="1186" y="2180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>meſmo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="450" y="2294"/>
+	<Point x="1128" y="2300"/>
+	<Point x="1131" y="2365"/>
+	<Point x="456" y="2368"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1266" y="61"/>
+	<Point x="1268" y="135"/>
+	<Point x="1428" y="137"/>
+	<Point x="1430" y="58"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>168</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444423">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:08:23</Created>
+	<LastChange>2011-12-19T11:39:44</LastChange></Metadata>
+	<Page imageFilename="00444423.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="373" y="83"/>
+	<Point x="1534" y="80"/>
+	<Point x="1522" y="206"/>
+	<Point x="362" y="207"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="180" y="212"/>
+	<Point x="1785" y="226"/>
+	<Point x="1780" y="2637"/>
+	<Point x="1691" y="2635"/>
+	<Point x="1386" y="2631"/>
+	<Point x="1249" y="2663"/>
+	<Point x="103" y="2680"/>
+	<Point x="86" y="214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vi a la humanidad ſacratiſsima con mas ex-
+ceſsiua gloria que jamas la hauia vio, repre-
+ſentoſeme por vna noticia admirable y clara,
+ear metido en los pechos del Padre, y eo
+no ſabre yo dezir como es, porque n verme
+parecio me vi preſente de aquea diuinidad,
+quede tan eſpantada y de tal manera, que me
+parece paaron algunos dias que no podia
+tornar en mi, y empre me parecia traya pre-
+ſente a aquea Magead del hijo de Dios,
+aunque no era como la primera. eo bien lo
+entendia yo, no que queda tan eſculpido en
+la imaginacion que no lo puede quitar de ,
+por en breue que aya paado por algun tiem
+po, y es harto conſuelo, y aun aprouechamiẽ-
+to. Ea miſma viõ he vio otras tres vezes,
+es a mi parecer la mas ſubida viõ que el Se-
+ñor me ha hecho merced, que vea, y trae cõ-
+go grandiſsimos prouechos, parece que pu
+riﬁca el alma en gran manera, y quita la fuer
+ça ca del todo a ea nuera ſenſualidad, es
+vna ama grande que parece que abraſa y
+anichila todos los deeos de la vida, porque
+ya que yo gloria a Dios no los tenia en coſas
+vanas, declaroſeme aqui bien como era todo
+vanidad, y quã vanos ſon los ſeñorios de aca,
+y es vn enſeñamiento grande para leuantar</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="608" y="3067"/>
+	<Point x="1560" y="3067"/>
+	<Point x="1560" y="3157"/>
+	<Point x="608" y="3157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="signature-mark">
+	<Coords>
+	<Point x="1358" y="2644"/>
+	<Point x="1337" y="2667"/>
+	<Point x="1344" y="2726"/>
+	<Point x="1482" y="2726"/>
+	<Point x="1482" y="2639"/>
+	<Point x="1403" y="2640"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ii</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1589" y="2638"/>
+	<Point x="1580" y="2661"/>
+	<Point x="1585" y="2733"/>
+	<Point x="1705" y="2733"/>
+	<Point x="1701" y="2646"/>
+	<Point x="1643" y="2643"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>los</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1562" y="98"/>
+	<Point x="1562" y="210"/>
+	<Point x="1740" y="212"/>
+	<Point x="1733" y="98"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>497</Unicode></TextEquiv></TextRegion></Page></PcGts>

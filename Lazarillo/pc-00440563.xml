@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440563">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T09:52:28</Created>
+	<LastChange>2011-07-05T14:26:06</LastChange></Metadata>
+	<Page imageFilename="00440563.tif" imageWidth="845" imageHeight="1599">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r17" index="2"/>
+	<RegionRefIndexed regionRef="r20" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="107" y="408"/>
+	<Point x="674" y="408"/>
+	<Point x="674" y="473"/>
+	<Point x="107" y="473"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP. SETIMO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="167" y="800"/>
+	<Point x="167" y="672"/>
+	<Point x="542" y="671"/>
+	<Point x="796" y="671"/>
+	<Point x="796" y="1514"/>
+	<Point x="22" y="1510"/>
+	<Point x="23" y="848"/>
+	<Point x="33" y="848"/>
+	<Point x="33" y="800"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ESPVES dee aente con
+vn maero de pintar pan-
+deros, para molelle los colores,
+con quien ſufri'mil males. Siendo
+ya en ee tiempo buen moçuelo.
+Entrando vn dia en la Iglea ma-
+yor, alle vn Capellan della que me
+recibio en ſu ſeruicio entregome
+vn buen aſno, quatro cataros, y vn
+açote, con que comence a vender
+agua porla ciudad. Ee fue el pri-
+mer eſcalon que ſubi para venir a
+alcançar buena vida, porque mi
+boca era medida : daua cada dia a</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="283" y="1553"/>
+	<Point x="583" y="1553"/>
+	<Point x="583" y="1590"/>
+	<Point x="283" y="1590"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="19" y="87"/>
+	<Point x="768" y="87"/>
+	<Point x="768" y="338"/>
+	<Point x="19" y="338"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>te : Finalmente euue con ee mi
+quinto amo cerca de quatro me-
+ſes, en los quales pae hartas fati-
+gas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="58" y="24"/>
+	<Point x="659" y="24"/>
+	<Point x="659" y="81"/>
+	<Point x="58" y="81"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LAZAR. DE TORM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="676" y="30"/>
+	<Point x="762" y="30"/>
+	<Point x="762" y="81"/>
+	<Point x="676" y="81"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>109</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="drop-capital">
+	<Coords>
+	<Point x="41" y="685"/>
+	<Point x="161" y="685"/>
+	<Point x="161" y="796"/>
+	<Point x="41" y="796"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D</Unicode></TextEquiv></TextRegion>
+	<LineDrawingRegion id="r15">
+	<Coords>
+	<Point x="31" y="363"/>
+	<Point x="31" y="399"/>
+	<Point x="767" y="399"/>
+	<Point x="767" y="363"/></Coords></LineDrawingRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="110" y="514"/>
+	<Point x="719" y="514"/>
+	<Point x="719" y="574"/>
+	<Point x="510" y="574"/>
+	<Point x="510" y="643"/>
+	<Point x="305" y="643"/>
+	<Point x="305" y="574"/>
+	<Point x="110" y="574"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Como Lazaro aento con vn
+Capellan.</Unicode></TextEquiv></TextRegion></Page></PcGts>

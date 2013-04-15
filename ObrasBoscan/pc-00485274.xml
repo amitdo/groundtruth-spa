@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485274">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:03:09</Created>
+	<LastChange>2011-05-12T13:41:11</LastChange></Metadata>
+	<Page imageFilename="00485274.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="401" y="190"/>
+	<Point x="1418" y="186"/>
+	<Point x="1696" y="175"/>
+	<Point x="1696" y="920"/>
+	<Point x="407" y="920"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Amor, a coſas altas nos leuanta:
+Y en eas leuantados, nos ſoiene.
+Amor, las almas, de dulçura tanta
+Nos hinche, que con eas nos mantiene.
+Amor, quando a ſu ſon nos tañe, y canta:
+Traſportados en , nos manda, y tiene.
+Amor, gouierna todo lo criado:
+Con el orden, por el al mundo, dado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="392" y="977"/>
+	<Point x="1754" y="977"/>
+	<Point x="1754" y="1732"/>
+	<Point x="392" y="1732"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La tierra, el mar, el ayre, y mas el fuego:
+Lo vible tambien, con lo inuible:
+Con lo mudable, el eternal ſoiego:
+Lo que no ente, y todo lo ſenble:
+Amor, tu lo gouiernas con tu ruego:
+Ruego, que es mãdo, y fuerça, incõprẽble.
+Tu proprio aiento ea, y tu fortaleza:
+Enla mas alta, y mas eterna, alteza.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="620" y="3028"/>
+	<Point x="1390" y="3028"/>
+	<Point x="1390" y="3090"/>
+	<Point x="620" y="3090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="379" y="1803"/>
+	<Point x="1769" y="1803"/>
+	<Point x="1769" y="2554"/>
+	<Point x="379" y="2554"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y deſd' ai, no ſolo las ereas:
+Y los cielos, Amor gouierna y manda:
+Pero mãda otras coſas, que ay mas beas:
+Sobre'l cielo que mas ligero anda.
+Aqueas mueue ai como centeas:
+Vna virtud que nunca ſe deſmanda:
+Virtud, que del Amor, deciende y ueue:
+Y poco, a poco, ai todo lo mueue.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="713" y="75"/>
+	<Point x="1218" y="77"/>
+	<Point x="1228" y="118"/>
+	<Point x="1228" y="171"/>
+	<Point x="713" y="175"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r11" type="other">
+	<Coords>
+	<Point x="1239" y="79"/>
+	<Point x="1388" y="75"/>
+	<Point x="1388" y="175"/>
+	<Point x="1243" y="166"/></Coords></GraphicRegion></Page></PcGts>

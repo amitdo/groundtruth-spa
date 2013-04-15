@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442460">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T12:02:17</Created>
+	<LastChange>2012-03-12T14:12:03</LastChange></Metadata>
+	<Page imageFilename="00442460.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="481" y="78"/>
+	<Point x="1145" y="78"/>
+	<Point x="1144" y="169"/>
+	<Point x="771" y="169"/>
+	<Point x="762" y="192"/>
+	<Point x="727" y="190"/>
+	<Point x="733" y="167"/>
+	<Point x="481" y="170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tercera parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="171" y="194"/>
+	<Point x="660" y="193"/>
+	<Point x="777" y="198"/>
+	<Point x="1442" y="188"/>
+	<Point x="1459" y="2165"/>
+	<Point x="990" y="2171"/>
+	<Point x="979" y="2188"/>
+	<Point x="810" y="2190"/>
+	<Point x="166" y="2195"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no ſon todas las perſonas tan diſcretas, que ſepan
+poner en ſu punto las coſas. Alomenos, reſpondio
+Sancho, ſupo vuera merced poner en ſu punto el
+lançon, apuntandome a la cabeça, y dandome en las
+eſpaldas: gracias a Dios, y a la diligencia que puſe en
+ladearme. Pero vaya, que todo ſaldra en la colada,
+que yo he oydo dezir. Ee te quiere bien, que te ha-
+ze orar, y mas que ſuelen los principales ſeñores,
+tras vna mala palabra que dizen a vn criado, darle
+luego vnas calças, aunque no ſe lo que le ſuelen dar
+tras auerle dado de palos:  ya no es, que los caua-
+eros andantes, dan tras palos Inſulas, o Reynos, en
+tierra ﬁrme. Tal podria correr el dado, dixo dõ Qui
+xote, que todo lo que dizes viniee a ſer verdad, y
+perdona lo paado, pues eres diſcreto, y ſabes que
+los primeros mouimientos, no ſon en mano del hõ‐
+bre: y ea aduertido de aqui adelante en vna coſa
+(para que te abengas y reportes en el hablar dema
+ado conmigo) que en quantos libros de cauae-
+rias he leydo, que ſon inﬁnitos, jamas he haado
+que ningun eſcudero hablae tanto con ſu ſeñor, co
+mo tu con el tuyo. Y en verdad que lo tengo a gran
+falta, tuya y mia: tuya, en que me eimas en poco:
+mia, en que no me dexo eimar en mas. Si que Gan-
+dalin, eſcudero de Amadis de Gaula, Conde fue de
+la Inſula ﬁrme. Y ſe lee del, que empre hablaua a
+ſu ſeñor con la gorra en la mano, inclinada la cabe
+ça, y doblado el cuerpo, more Turqueſco. Pues que
+diremos de Gaſabal, eſcudero de don Galaor, que
+fue tan caado, que para declararnos la excelencia
+de ſu marauioſo lencio, ſola vna vez ſe nombra
+ſu nombre, en toda aquea tan grande como verda‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1258" y="2173"/>
+	<Point x="1438" y="2173"/>
+	<Point x="1444" y="2230"/>
+	<Point x="1256" y="2227"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dera</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="447" y="2307"/>
+	<Point x="1130" y="2307"/>
+	<Point x="1130" y="2372"/>
+	<Point x="447" y="2372"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

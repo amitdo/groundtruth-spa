@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444237">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:45:06</Created>
+	<LastChange>2011-12-19T11:39:33</LastChange></Metadata>
+	<Page imageFilename="00444237.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="297" y="108"/>
+	<Point x="1032" y="104"/>
+	<Point x="1504" y="108"/>
+	<Point x="1500" y="225"/>
+	<Point x="298" y="246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="138" y="254"/>
+	<Point x="1432" y="237"/>
+	<Point x="1531" y="258"/>
+	<Point x="1716" y="254"/>
+	<Point x="1760" y="2634"/>
+	<Point x="1643" y="2657"/>
+	<Point x="1581" y="2648"/>
+	<Point x="1411" y="2655"/>
+	<Point x="1067" y="2656"/>
+	<Point x="129" y="2690"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nios, porque andar vn alma acobardada, y te-
+meroſa de nada no de oﬀender a Dios es
+grandiſsimo inconueniente, pues tenemos
+rey todo poderoſo y tan gran Señor que to-
+do lo puede y a todos ſugeta, no ay que te-
+mer, andando, como he dicho, con verdad de
+lante de ſu magead, y con limpia concien-
+cia: para eo, como he dicho, querria yo to-
+dos los temores para no oﬀender en vn pun-
+to a quien en el miſmo punto nos puede deſ-
+hazer. Que contento ſu magead no ay quiẽ
+ſea contra noſotros, que no eue las manos
+en la cabeça. Podraſe dezir que an es, mas
+que quien ſera ea alma tan rea, que del to
+do le contente, y que por eo teme. Nó la mia
+por cierto, que es muy miſerable, y n proue
+cho, y ena de mil miſerias, mas no executa
+Dios como las gentes, que entiende nueras
+ﬂaquezas, mas por grandes congeturas en-
+te el alma en ,  le ama de verdad, porque
+en las que egan a ee eado no anda el
+amor diſsimulado, como a los principios, no
+con tan grandes impetus, y deeo de ver a
+Dios como deſpues dire, o queda ya dicho, to
+do canſa, todo fatiga, todo atormenta no es
+con Dios, o por Dios, no ay deſcanſo que no
+canſe, porque ſe vee auſente de ſu verdadero</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="signature-mark">
+	<Coords>
+	<Point x="1087" y="2659"/>
+	<Point x="1278" y="2658"/>
+	<Point x="1282" y="2757"/>
+	<Point x="1084" y="2754"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>V 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="610" y="3053"/>
+	<Point x="1595" y="3057"/>
+	<Point x="1595" y="3155"/>
+	<Point x="602" y="3154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1518" y="130"/>
+	<Point x="1512" y="244"/>
+	<Point x="1708" y="247"/>
+	<Point x="1702" y="132"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>309</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1423" y="2657"/>
+	<Point x="1421" y="2748"/>
+	<Point x="1713" y="2749"/>
+	<Point x="1708" y="2650"/>
+	<Point x="1642" y="2661"/>
+	<Point x="1582" y="2652"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>deſcan-</Unicode></TextEquiv></TextRegion></Page></PcGts>

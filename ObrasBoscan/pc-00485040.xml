@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485040">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T18:36:24</Created>
+	<LastChange>2011-05-12T13:40:47</LastChange></Metadata>
+	<Page imageFilename="00485040.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1156" y="100"/>
+	<Point x="1673" y="100"/>
+	<Point x="1673" y="234"/>
+	<Point x="1156" y="234"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. XXXVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="304" y="186"/>
+	<Point x="1130" y="182"/>
+	<Point x="1121" y="278"/>
+	<Point x="1634" y="269"/>
+	<Point x="1643" y="291"/>
+	<Point x="1643" y="1508"/>
+	<Point x="365" y="1508"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Buſco lo mas ſeguro,
+Dilatando lo que' s mas neceario,
+Por vna cierta temeroſa via.
+Iamas falta contrario
+En lo que quiero, ni en lo que procuro.
+Ea dicha mil años a que' s mia:
+Si yo la viee, yo la conoceria.
+Amor me hiere, y luego ſe m'aſconde.
+Yo lo perdono, mas tambien m' enſaño,
+De ver que con engaño
+Se me va lo mejor no ſe pordonde.
+Penſa lo que os merezco,
+Que amo empre a quiẽ no me reſpõde:
+Y enlos mayores caſos que padezco,
+Deeo el bien, y el mal os agradezco.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="356" y="1639"/>
+	<Point x="1556" y="1639"/>
+	<Point x="1556" y="1952"/>
+	<Point x="356" y="1952"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cancion ya puedes ir aquien tu ſabes:
+Y  al boluer, me quieres hazer ﬁea,
+No cures tu de darme ſu reſpuea.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="630" y="3013"/>
+	<Point x="1404" y="3013"/>
+	<Point x="1404" y="3091"/>
+	<Point x="630" y="3091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485442">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T00:52:56</Created>
+	<LastChange>2011-05-12T13:41:32</LastChange></Metadata>
+	<Page imageFilename="00485442.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r7" index="3"/>
+	<RegionRefIndexed regionRef="r10" index="4"/>
+	<RegionRefIndexed regionRef="r11" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="686" y="104"/>
+	<Point x="1210" y="98"/>
+	<Point x="1204" y="122"/>
+	<Point x="1220" y="208"/>
+	<Point x="708" y="208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="793" y="225"/>
+	<Point x="1270" y="225"/>
+	<Point x="1279" y="282"/>
+	<Point x="787" y="281"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THYRRENO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="861" y="1000"/>
+	<Point x="1208" y="1002"/>
+	<Point x="1222" y="1069"/>
+	<Point x="869" y="1071"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ALZINO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords>
+	<Point x="785" y="1816"/>
+	<Point x="1283" y="1816"/>
+	<Point x="1287" y="1889"/>
+	<Point x="786" y="1889"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THYRRENO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="400" y="1897"/>
+	<Point x="1636" y="1900"/>
+	<Point x="1606" y="2581"/>
+	<Point x="389" y="2591"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El blanco trigo multiplica, y crece:
+Produze 'l campo, en abundancia tierno
+Pao al ganado, el verde monte oﬀrece
+A las ﬁeras ſaluages, ſu gouierno.
+A do quiera que miro me parece
+Que derrama la copia todo el cuerno:
+Mas todo ſe conuertira en abrojos
+Si deo aparta Flerida ſus ojos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="credit">
+	<Coords>
+	<Point x="558" y="3010"/>
+	<Point x="1416" y="3010"/>
+	<Point x="1416" y="3096"/>
+	<Point x="558" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="223" y="288"/>
+	<Point x="817" y="289"/>
+	<Point x="1694" y="288"/>
+	<Point x="1694" y="976"/>
+	<Point x="223" y="976"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Qual ſuele, acompañada de ſu vando
+Aparecer la dulce primauera,
+Quando Fauonio, y Zephyro ſoplando:
+Al campo tornan ſu beldad primera,
+Y van artiﬁcioſos eſmaltando,
+De roxo azul, y blanco la ribera:
+En tal manera a mi Flerida mia:
+Viniendo, reuerdece mi alegria.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r13" type="other">
+	<Coords>
+	<Point x="1230" y="96"/>
+	<Point x="1230" y="204"/>
+	<Point x="1378" y="204"/>
+	<Point x="1378" y="96"/></Coords></GraphicRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="383" y="1085"/>
+	<Point x="1651" y="1085"/>
+	<Point x="1651" y="1773"/>
+	<Point x="383" y="1773"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vees el furor del animoſo viento
+Embrauecido en la fragoſa ſyerra
+Que los antigos robles ciento a ciento:
+Y los pinos altiimos a tierra:
+Y de tanto deroço avn no contento:
+Al eſpantoſo mar mueue la guerra.
+Pequeña es ea furia comparada:
+A la de Phyis con Alzino ayrada.</Unicode></TextEquiv></TextRegion></Page></PcGts>

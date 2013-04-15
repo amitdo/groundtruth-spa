@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438980">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T02:39:34</Created>
+	<LastChange>2011-06-24T14:04:29</LastChange></Metadata>
+	<Page imageFilename="00438980.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r11" index="0"/>
+	<RegionRefIndexed regionRef="r35" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r15" type="credit">
+	<Coords>
+	<Point x="485" y="2098"/>
+	<Point x="988" y="2092"/>
+	<Point x="975" y="2137"/>
+	<Point x="974" y="2140"/>
+	<Point x="488" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="header">
+	<Coords>
+	<Point x="229" y="28"/>
+	<Point x="1081" y="37"/>
+	<Point x="1090" y="111"/>
+	<Point x="238" y="115"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A GARCILASSO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="page-number">
+	<Coords>
+	<Point x="1163" y="39"/>
+	<Point x="1266" y="59"/>
+	<Point x="1255" y="124"/>
+	<Point x="1155" y="114"/>
+	<Point x="1142" y="59"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>122</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="marginalia">
+	<Coords>
+	<Point x="1190" y="1815"/>
+	<Point x="1287" y="1822"/>
+	<Point x="1287" y="1899"/>
+	<Point x="1179" y="1898"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>115</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="8" y="122"/>
+	<Point x="1144" y="122"/>
+	<Point x="1211" y="133"/>
+	<Point x="1240" y="1088"/>
+	<Point x="1175" y="1874"/>
+	<Point x="0" y="1955"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No me ſeran los robos tan ſabroſos,
+ni las hoias, ni el mero,
+Si algunos con Leuantes furioſos
+nos da el Inuierno ﬁero:
+Ni el pauo caera por mi garganta,
+ni el francolin Greciano,
+Mas dulce que la oliua, que quebranta
+la labradora mano.
+La malua, o la romaza enamorada
+del vicioſo prado.
+La oueja en el diſanto degoada,
+el cordero quitado
+Al lobo: y mientras como ver corriendo
+qual las ouejas vienen,
+Y del arar los bueyes, que boluiendo
+a penas ſe ſoienen.
+Ver de eſclauios el hogar cercado,
+enxambre de riqueza.
+Aſsi diſpueo vn cambio ya al arado,
+loaua la pobreza.
+Ayer puſo en ſus ditas todas cobro,
+mas oy ya torna al logro.
+No vee la ana plaça, &amp; c. Horacio en la
+d¡cha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="signature-mark">
+	<Coords>
+	<Point x="651" y="1931"/>
+	<Point x="870" y="1940"/>
+	<Point x="872" y="2033"/>
+	<Point x="659" y="2033"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Q 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="catch-word">
+	<Coords>
+	<Point x="1009" y="1951"/>
+	<Point x="1196" y="1951"/>
+	<Point x="1172" y="2014"/>
+	<Point x="1024" y="2022"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>For-</Unicode></TextEquiv></TextRegion></Page></PcGts>

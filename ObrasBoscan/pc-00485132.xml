@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485132">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T05:46:38</Created>
+	<LastChange>2011-05-12T13:40:57</LastChange></Metadata>
+	<Page imageFilename="00485132.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="596" y="2996"/>
+	<Point x="1389" y="2992"/>
+	<Point x="1389" y="3096"/>
+	<Point x="606" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="372" y="201"/>
+	<Point x="1624" y="215"/>
+	<Point x="1616" y="2790"/>
+	<Point x="1405" y="2786"/>
+	<Point x="1353" y="2787"/>
+	<Point x="1308" y="2788"/>
+	<Point x="1181" y="2797"/>
+	<Point x="369" y="2807"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Yen Leandro empeçaron ameterſe,
+Con vna tal blandura y caimiento:
+Que'l trie amante ſe, ntio cortados
+De ſeſo, y libertad todos los neruios.
+Y ai n mas, n ver lo que hazia:
+Perdido el miedo que'l Amor le daua,
+Perdido el conoçer del deſacato:
+Perdido el contemplar del valer dea:
+Perdido el contentarſe con miraa:
+Perdida la memoria de  miſmo:
+Perdida en ﬁn la fuerca de ſu alma:
+Atreuioſe a tomar la mano d'Hero:
+D'Hero la mano s'atreuio a tomaa.
+Mas eo fue con vn ardor tamaño,
+D'vna congoxa tal, tan entrañable,
+Con vn gemir tan baxo, y tan profundo,
+De fu neceidad tan gran teigo,
+Que deſculpo la culpa del pecado.
+Y el merecer tan junto al pecar vino,
+Que no ſe qual fue mas ni qual primero.
+Ea alpunto que vio tan nueuo hecho,
+Y ſe ntio tan preo ſalteada:
+No ſupo que hazer de, ni ſupo
+Sino quedar tan atajada deo,
+Que ni pudo'ar braua ni enojarſe,
+Ni pudo atras tirar ſu blanca mano:
+Por no dar aentender loque 'ntendia:
+Y por diimular congo miſma,
+Lo que deſpues deimular no pudo.
+Ai que'ando onea, 'uuo queda:
+Como 'uuiera'ando deſonea.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="501" y="93"/>
+	<Point x="501" y="195"/>
+	<Point x="1057" y="195"/>
+	<Point x="1057" y="93"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="1096" y="100"/>
+	<Point x="1096" y="196"/>
+	<Point x="1607" y="196"/>
+	<Point x="1607" y="100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. LXXXII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="signature-mark">
+	<Coords>
+	<Point x="1235" y="2797"/>
+	<Point x="1236" y="2882"/>
+	<Point x="1429" y="2880"/>
+	<Point x="1430" y="2795"/>
+	<Point x="1343" y="2795"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N ij</Unicode></TextEquiv></TextRegion></Page></PcGts>

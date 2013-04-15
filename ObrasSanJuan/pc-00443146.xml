@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443146">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T07:06:57</Created>
+	<LastChange>2011-03-15T16:51:39</LastChange></Metadata>
+	<Page imageFilename="00443146.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="631" y="78"/>
+	<Point x="1078" y="81"/>
+	<Point x="1073" y="92"/>
+	<Point x="1078" y="200"/>
+	<Point x="868" y="210"/>
+	<Point x="613" y="210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro ſegundo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="125" y="234"/>
+	<Point x="104" y="216"/>
+	<Point x="1642" y="218"/>
+	<Point x="1629" y="2747"/>
+	<Point x="1382" y="2764"/>
+	<Point x="1351" y="2762"/>
+	<Point x="1256" y="2746"/>
+	<Point x="1234" y="2754"/>
+	<Point x="1204" y="2751"/>
+	<Point x="96" y="2756"/>
+	<Point x="114" y="606"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que no quiera Dios, darle luego en el primer ao la
+ſuancia del eſpiritu,  los dos eremos, que ſon huma
+no i divino, ſentido i eſpiritu, de via ordinaria pudieran
+convenir i juntarſe con un ſolo ao, n que interven-
+gan primero otros muchos aos de diſpociones, que
+ordenada i ſuavemente cõvengan entre , endo unas
+fundamento, i diſpocion para las otras: a como en
+los agentes naturales las primeras rven a las ſegũdas,
+i las ſegundas a las terceras, i de aì adelante. l a va
+Dios perﬁcionando al hombre al modo del hombre, por
+lo mas baxo i exterior haa lo mas alto i interior. De
+donde primero le perﬁciona el ſentido corporal, moviẽ
+dole, à que vſe de buenos objetos naturales perfetos
+exteriores, como a oir Miſa, Sermones, ver coſas ſan-
+tas, mortiﬁcar el guo en la comida, macerarſe con pe-
+nitencias, i ſanto rigor el tao. I cuando ya ean eos
+ſentidos algo diſpueos, los ſuele perﬁcionar mas, ha-
+ziendoles algunas mercedes ſobrenaturales, i regalos,
+para conﬁrmarlos mas en el bien, ofreciendoles algunas
+comunicaciones ſobrenaturales, como Viones de San-
+tos, ò coſas ſantas corporalmente, olores ſuavimos, i
+Locuciones con pura i particular ſuavidad, con que ſe
+conﬁrma mucho el ſentido en la virtud, i ſe enagena del
+apetito de los males objetos. I aende deſo, los ſenti-
+dos corporales interiores, de  aqui vamos tratando, co
+mo ſon Imaginatiua, i Fãtaa, juntamente ſe los va per
+ﬁcionando, i habituando al bien con conderaciones,
+meditaciones, i diſcurſos ſantos, en la manera que en
+eos puede caber; i en todo eo inruyendo al eſpiritu.
+I a eos diſpueos cõ ee exercicio natural ſuele Dios
+ilurar i eſpiritualizar los mas con alguna Viones ſo-
+brenaturales, que aqui amamos Imaginarias, con las
+cuales, juntamente (como avemos dicho) ſe aprovecha</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="794" y="2908"/>
+	<Point x="1427" y="2933"/>
+	<Point x="1427" y="3000"/>
+	<Point x="766" y="2991"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1573" y="2762"/>
+	<Point x="1573" y="2823"/>
+	<Point x="1631" y="2823"/>
+	<Point x="1633" y="2760"/>
+	<Point x="1621" y="2760"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>el</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="1219" y="2756"/>
+	<Point x="1217" y="2827"/>
+	<Point x="1314" y="2832"/>
+	<Point x="1310" y="2776"/>
+	<Point x="1248" y="2757"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I 4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1488" y="80"/>
+	<Point x="1488" y="191"/>
+	<Point x="1650" y="191"/>
+	<Point x="1650" y="80"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>135</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444204">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T13:11:02</Created>
+	<LastChange>2011-12-19T11:39:31</LastChange></Metadata>
+	<Page imageFilename="00444204.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="497" y="250"/>
+	<Point x="885" y="230"/>
+	<Point x="2073" y="226"/>
+	<Point x="2064" y="947"/>
+	<Point x="2014" y="2654"/>
+	<Point x="797" y="2666"/>
+	<Point x="506" y="2648"/>
+	<Point x="483" y="2609"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>quien penſe confearme y tener por mae-
+ro. Pues trayendolo para que me hablae, y
+yo con grandiſsima confuon de verme pre
+ſente de hombre tan ſanto, dile parte de mi
+alma y oracion que confearme no quiſo, di
+xo que era muy occupado, y era aſsi. Comen
+ço con determinacion ſanta a euarme como
+a fuerte, que de razon auia de ear ſegun la
+oracion vio que tenia, para que en ninguna
+manera oﬀendiee a Dios. Yo como vi ſu de
+terminacion tan de preo en coas, que co
+mo digo yo no tenia fortaleza para ſalir lue-
+go, con tanta perfecion, afﬂigime, y como
+vi que tomaua los coſas de mi alma como co
+ſa que en vna vez auia de acabar con ea, yo
+via que auia meneer mucho mas cuydado.
+En ﬁn entendi no eran por los medios que
+el me daua, por donde yo me auia de reme-
+diar, porque eran para alma mas perfeta, y
+yo, aunque en las mercedes de Dios eaua
+adelante, eaua muy en los principios de las
+virtudes, y mortiﬁcacion. Y cierto no vuie-
+ra de tratar mas de con el, yo creo nunca me-
+drara mi alma, porque de la afﬂicion que me
+daua, de ver como yo no hazia, ni me parece
+podia, lo que el me dezia, baaua para per-
+der la eſperança, y dexarlo todo. Algunas</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1795" y="2662"/>
+	<Point x="1985" y="2660"/>
+	<Point x="1993" y="2722"/>
+	<Point x="1795" y="2720"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vezes</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="595" y="3026"/>
+	<Point x="1611" y="3026"/>
+	<Point x="1611" y="3157"/>
+	<Point x="595" y="3157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="461" y="123"/>
+	<Point x="723" y="123"/>
+	<Point x="721" y="221"/>
+	<Point x="461" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>276</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="928" y="114"/>
+	<Point x="1616" y="100"/>
+	<Point x="1619" y="209"/>
+	<Point x="1588" y="211"/>
+	<Point x="957" y="214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

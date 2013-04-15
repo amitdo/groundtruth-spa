@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444583">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T08:40:10</Created>
+	<LastChange>2011-03-18T12:44:56</LastChange></Metadata>
+	<Page imageFilename="00444583.tif" imageWidth="2613" imageHeight="3944">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r79" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r71" type="page-number">
+	<Coords>
+	<Point x="404" y="217"/>
+	<Point x="404" y="300"/>
+	<Point x="641" y="302"/>
+	<Point x="695" y="300"/>
+	<Point x="732" y="307"/>
+	<Point x="743" y="300"/>
+	<Point x="750" y="304"/>
+	<Point x="764" y="303"/>
+	<Point x="765" y="217"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LXXXXVI</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r75" type="handwritten-annotation">
+	<Coords>
+	<Point x="268" y="839"/>
+	<Point x="268" y="922"/>
+	<Point x="345" y="922"/>
+	<Point x="345" y="839"/></Coords></GraphicRegion>
+	<GraphicRegion id="r76" type="handwritten-annotation">
+	<Coords>
+	<Point x="241" y="1527"/>
+	<Point x="241" y="1612"/>
+	<Point x="329" y="1612"/>
+	<Point x="329" y="1527"/></Coords></GraphicRegion>
+	<GraphicRegion id="r77" type="handwritten-annotation">
+	<Coords>
+	<Point x="231" y="2122"/>
+	<Point x="231" y="2208"/>
+	<Point x="325" y="2208"/>
+	<Point x="325" y="2122"/></Coords></GraphicRegion>
+	<GraphicRegion id="r78" type="handwritten-annotation">
+	<Coords>
+	<Point x="225" y="2750"/>
+	<Point x="225" y="2845"/>
+	<Point x="316" y="2845"/>
+	<Point x="316" y="2750"/></Coords></GraphicRegion>
+	<TextRegion id="r79" type="catch-word">
+	<Coords>
+	<Point x="2212" y="3629"/>
+	<Point x="2212" y="3733"/>
+	<Point x="2416" y="3733"/>
+	<Point x="2416" y="3629"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DIC-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r80" type="credit">
+	<Coords>
+	<Point x="812" y="3845"/>
+	<Point x="812" y="3929"/>
+	<Point x="1768" y="3929"/>
+	<Point x="1768" y="3845"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r10" embText="true">
+	<Coords>
+	<Point x="348" y="317"/>
+	<Point x="362" y="689"/>
+	<Point x="341" y="2882"/>
+	<Point x="2437" y="2875"/>
+	<Point x="2448" y="306"/>
+	<Point x="392" y="310"/></Coords></TableRegion></Page></PcGts>

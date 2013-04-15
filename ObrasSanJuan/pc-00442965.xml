@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442965">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:42:46</Created>
+	<LastChange>2011-03-15T16:51:30</LastChange></Metadata>
+	<Page imageFilename="00442965.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="1869" y="182"/>
+	<Point x="1879" y="184"/>
+	<Point x="1900" y="208"/>
+	<Point x="1879" y="2662"/>
+	<Point x="295" y="2669"/>
+	<Point x="310" y="1535"/>
+	<Point x="355" y="1150"/>
+	<Point x="360" y="415"/>
+	<Point x="385" y="170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>el por la de afuera: encaminòſe la platica al mierio
+de la Santima Trinidad, i tomando el Venerable
+Padre la mano, començò a declararle con tan ſupe-
+rior luz i alteza de palabras, con afeo tan encendi-
+do i tierno, que dexando ſuſpenſa i traſpuea en Dios
+a la Santa; el, no ſolamente fue traſpueo, no tam-
+bien (ò caſo maravilloſo!) arrebatado en el aire,
+con la miſma lla donde eava ſentado, ſubiendo co-
+mo otro Elias en ſu carro de ſuego. Ee admira-
+ble eſpeaculo vio una Religioſa que entraba à dar
+un recaudo a la SANTA MADRE, i viole
+tambien n duda todo el cielo, que ſe earia delei-
+tando, de ver à eos dos tan abraſados Seranes. Su-
+cedieronle en ea miſma ciudad otros muchos caſos
+notables, de los cuales referirèmos algunos. Aco-
+metiòle a ſolas una donzella noble, hermoſa, i teni-
+da por devota, ardiendo en llamas ſenſuales, a quien
+el caimo Varon trocò el amor torpe en divino, ¡
+dexò del todo compungida. Reduxo a otra, que
+aviendo quebrantado ſacrilegamente el voto con
+que a Dios eaba conſagrada, tenia con ſu publi-
+ca torpeza eſcandalizada la ciudad; llevando el Sier-
+vo de Dios en premio dea obra machos golpes,
+con que el Complice le derribò en tierra ca muer-
+to; aunque con tanto gozo del Varon Santo, que
+dezia, le avian do a el tan dulces los palos, como a
+San Eevan las piedras. A otra muger liviana, aun
+que noble (lazo de la perdìda juventud) reduxo a vi-
+da mui loable i exemplar. I entre las demas buenas
+obras que con zelo i pecho Apoolico hizo en ee
+tiempo en beneficio de las almas, fue ſobremanera eſ-
+traordinaria, la que exercitò con vna Religioſa de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1584" y="2673"/>
+	<Point x="1775" y="2673"/>
+	<Point x="1775" y="2741"/>
+	<Point x="1584" y="2741"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cierto</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="777" y="2935"/>
+	<Point x="1033" y="2940"/>
+	<Point x="1140" y="2939"/>
+	<Point x="1418" y="2935"/>
+	<Point x="1418" y="2986"/>
+	<Point x="777" y="2986"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="599" y="51"/>
+	<Point x="599" y="169"/>
+	<Point x="462" y="169"/>
+	<Point x="434" y="39"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>10</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="1626" y="51"/>
+	<Point x="1639" y="47"/>
+	<Point x="1626" y="169"/>
+	<Point x="754" y="169"/>
+	<Point x="754" y="159"/>
+	<Point x="755" y="159"/>
+	<Point x="755" y="139"/>
+	<Point x="756" y="139"/>
+	<Point x="756" y="120"/>
+	<Point x="757" y="120"/>
+	<Point x="757" y="100"/>
+	<Point x="758" y="100"/>
+	<Point x="758" y="80"/>
+	<Point x="759" y="80"/>
+	<Point x="759" y="61"/>
+	<Point x="760" y="61"/>
+	<Point x="756" y="39"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dibujo del Venerable Varon</Unicode></TextEquiv></TextRegion></Page></PcGts>

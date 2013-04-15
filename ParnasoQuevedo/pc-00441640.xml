@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441640">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T20:18:49</Created>
+	<LastChange>2011-07-05T14:26:11</LastChange></Metadata>
+	<Page imageFilename="00441640.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="141" y="751"/>
+	<Point x="1974" y="722"/>
+	<Point x="1974" y="1458"/>
+	<Point x="183" y="1441"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ANSI CANTABA CLIO,
+AL SON DE LA TROMPETA DE LA FAMA,
+I, EL NVMEN, QVE LA INFLAMA,
+SVSPENSO AQVI, DESACORDADO, I FRIO,
+CESSO, I ENTRE LAS FLORES,
+LOS VIENTOS QVISO OIR MVRMVRADORES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="credit">
+	<Coords>
+	<Point x="693" y="3125"/>
+	<Point x="1477" y="3122"/>
+	<Point x="1451" y="3209"/>
+	<Point x="700" y="3209"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439983">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T09:49:40</Created>
+	<LastChange>2011-12-19T11:38:32</LastChange></Metadata>
+	<Page imageFilename="00439983.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="280" y="322"/>
+	<Point x="2267" y="322"/>
+	<Point x="2267" y="2370"/>
+	<Point x="280" y="2370"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>verſados en ſus abruſas eſpeculaciones. De
+eo ſe deberàn hacer cargo los grandes
+Geometras, à quienes parecieen algunas
+explicaciones demaado largas, ò poco ne-
+cearias; y por el contrario,  los no muy
+verſados en Geometrìa no comprehendieſ-
+ſen algunos Calculos, podràn hacernos la
+juicia de ſuponer la demonracion de la
+Propocion, como dada, enterados, de que
+no ſerà facil haar explicacion, que les ſoſ-
+egue, n adquirir otros principios. Con el
+que ningunos tuviee, no puede hablar una
+Obra, en que no ſe dàn éos, no que ſe
+ſuponen; pues para darlos todos, fueran n
+duda necearios otros volumenes, y aun
+acaſo no ſe darían con eos por ſatisfechos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="975" y="4000"/>
+	<Point x="1993" y="4000"/>
+	<Point x="1993" y="4092"/>
+	<Point x="975" y="4092"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="signature-mark">
+	<Coords>
+	<Point x="1306" y="3306"/>
+	<Point x="1306" y="3461"/>
+	<Point x="1564" y="3461"/>
+	<Point x="1564" y="3306"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>§§ 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1983" y="3287"/>
+	<Point x="1983" y="3445"/>
+	<Point x="2303" y="3445"/>
+	<Point x="2303" y="3287"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ERRA‐</Unicode></TextEquiv></TextRegion></Page></PcGts>

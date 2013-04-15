@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444451">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:42:02</Created>
+	<LastChange>2011-12-19T11:39:46</LastChange></Metadata>
+	<Page imageFilename="00444451.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="410" y="100"/>
+	<Point x="1581" y="100"/>
+	<Point x="1581" y="214"/>
+	<Point x="410" y="214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LAM. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="169" y="222"/>
+	<Point x="1738" y="236"/>
+	<Point x="1769" y="236"/>
+	<Point x="1741" y="2626"/>
+	<Point x="1583" y="2663"/>
+	<Point x="1547" y="2653"/>
+	<Point x="1527" y="2653"/>
+	<Point x="1494" y="2643"/>
+	<Point x="1485" y="2642"/>
+	<Point x="1448" y="2639"/>
+	<Point x="1421" y="2637"/>
+	<Point x="1342" y="2636"/>
+	<Point x="1278" y="2664"/>
+	<Point x="724" y="2667"/>
+	<Point x="137" y="2667"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>me en todas las partes de mi alma le via claro
+como en vn eſpejo, y tã biẽ ee eſpejo, yo no
+ſe dezir como ſe eſculpia todo en el miſmo Se
+ñor, por vna comunicaciõ  yo no ſabre de-
+zir muy amoroſa. Se  me fue ea viõ de grã
+prouecho, cada vez  ſe me acuerda, en eſpe-
+cial quãdo acabo de comulgar. Dioſeme a en-
+tender que ear vn alma en peccado mortal
+es cubrirſe ee eſpejo de vna gran niebla, y
+quedar muy negro, y an no ſe puede repre-
+ſentar, ni ver ee Señor, aunque ee em-
+pre preſente dandonos el ſer, y que los he-
+reges es como  el eſpejo fuee quebrado,
+que es muy peor que eſcurecido. Es muy dif-
+ferente el como ſe ve a dezirſe, porque ſe
+puede mal dar a entender. Mas ha me he-
+cho mucho prouecho, y gran laima de las
+vezes que con mis culpas eſcureci mi al-
+ma, para no ver ee Señor. Pareceme pro-
+uechoſa ea vion para perſonas de re-
+cogimiento, para enſeñarſe a conderar al
+Señor en lo muy interior de ſu alma, que es
+conderacion que mas ſe apega, y muy mas
+frutuoſa que fuera de , como otras vezes he
+dicho, y en algunos libros de oracion ea
+eſcrito, adonde ſe ha de buſcar a Dios, en eſpe
+cial lo dize el glorioſo San Auguin, que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1598" y="2665"/>
+	<Point x="1688" y="2646"/>
+	<Point x="1694" y="2716"/>
+	<Point x="1603" y="2723"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ni</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="609" y="3029"/>
+	<Point x="1587" y="3029"/>
+	<Point x="1587" y="3170"/>
+	<Point x="609" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="1308" y="2655"/>
+	<Point x="1331" y="2645"/>
+	<Point x="1377" y="2640"/>
+	<Point x="1503" y="2659"/>
+	<Point x="1503" y="2737"/>
+	<Point x="1303" y="2737"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ll 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1609" y="125"/>
+	<Point x="1769" y="125"/>
+	<Point x="1769" y="223"/>
+	<Point x="1609" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>531</Unicode></TextEquiv></TextRegion></Page></PcGts>

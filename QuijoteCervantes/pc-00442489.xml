@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442489">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T15:37:27</Created>
+	<LastChange>2012-03-12T14:12:04</LastChange></Metadata>
+	<Page imageFilename="00442489.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="387" y="70"/>
+	<Point x="1110" y="67"/>
+	<Point x="1114" y="166"/>
+	<Point x="526" y="166"/>
+	<Point x="500" y="191"/>
+	<Point x="487" y="192"/>
+	<Point x="473" y="191"/>
+	<Point x="390" y="182"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="154" y="173"/>
+	<Point x="372" y="179"/>
+	<Point x="387" y="193"/>
+	<Point x="499" y="194"/>
+	<Point x="527" y="168"/>
+	<Point x="1082" y="175"/>
+	<Point x="1182" y="180"/>
+	<Point x="1369" y="180"/>
+	<Point x="1368" y="2060"/>
+	<Point x="888" y="2085"/>
+	<Point x="784" y="2097"/>
+	<Point x="142" y="2085"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a cubrirſe con la rodela: y el pobre de Rozinante
+no hazia mas caſo de la eſpuela, que  fuera hecho
+de bronze. Sancho ſe puſo tras ſu aſno, y con el ſe
+defendia de la nuue, y pedriſco que ſobre entram‐
+bos ouia. No ſe pudo eſcudar tan bien don Qui‐
+xote, que no le acertaen no ſe quantos guijarros
+en el cuerpo, con tanta fuerça que dieron con el en
+el ſuelo: y apenas huuo caydo, quando fue ſobre el
+el eudiante, y le quitò la vazia de la cabeça, y dio-
+le con ea tres, o quatro golpes en las eſpaldas, y
+otros tantos en la tierra, con que la hizo, pedaços.
+Quitaronle vna ropia que trahia ſobre las armas,
+y las medias calças le querian quitar,  las greuas
+no lo eoruaran. A Sancho le quitaron el gauan, y
+dexandole en pelota, repartiendo entre  los de-
+mas deſpojos de la bataa, ſe fueron cada vno por
+ſu parte, con mas cuydado de eſcaparſe de la Her‐
+mandad que temian, que de cargarſe de la cadena,
+è yr a preſentarſe ante la ſeñora Dulzinea del To-
+boſo. Solos quedaron jumento, y Rozinante, San‐
+cho, y don Quixote. El jumento cabizbaxo, y pen-
+ſatiuo, ſacudiendo de quando en quando las ore‐
+jas, penſando que aun no auia ceado la borraſca
+de las piedras que le perſeguian los oydos. Rozi-
+nante, tendido junto a ſu amo, que tambien vino al
+ſuelo de otra pedrada. Sancho en pelota, y teme‐
+roſo de la ſanta Hermandad. Don Quixote
+mohiniſsimo de verſe tan mal parado,
+por los miſmos a quien tanto
+bien auia hecho.
+(.?.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="signature-mark">
+	<Coords>
+	<Point x="969" y="2119"/>
+	<Point x="1070" y="2121"/>
+	<Point x="1139" y="2120"/>
+	<Point x="1140" y="2202"/>
+	<Point x="964" y="2199"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="421" y="2264"/>
+	<Point x="1170" y="2264"/>
+	<Point x="1170" y="2368"/>
+	<Point x="421" y="2368"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1220" y="95"/>
+	<Point x="1220" y="178"/>
+	<Point x="1358" y="178"/>
+	<Point x="1358" y="95"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>107</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1249" y="2116"/>
+	<Point x="1249" y="2218"/>
+	<Point x="1381" y="2218"/>
+	<Point x="1381" y="2116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cap.</Unicode></TextEquiv></TextRegion></Page></PcGts>

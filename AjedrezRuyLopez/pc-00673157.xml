@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00673157">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 10.0</Creator>
+	<Created>2012-02-02T10:43:00</Created>
+	<LastChange>2012-03-03T18:24:48</LastChange></Metadata>
+	<Page imageFilename="00673157.tif" imageWidth="1854" imageHeight="2621">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="178" y="2236"/>
+	<Point x="183" y="525"/>
+	<Point x="247" y="523"/>
+	<Point x="406" y="527"/>
+	<Point x="440" y="525"/>
+	<Point x="442" y="305"/>
+	<Point x="616" y="318"/>
+	<Point x="670" y="319"/>
+	<Point x="708" y="327"/>
+	<Point x="750" y="322"/>
+	<Point x="922" y="321"/>
+	<Point x="1393" y="332"/>
+	<Point x="1378" y="2234"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VG. el blã.el peon del rey quanto va:el
+neg.jug.el peon del rey quanto va. Si el
+blan,juga el arﬁl, ò veramente primero
+el caua.de ſu rey ala.3. de ſu arﬁl ſobre el peon del
+rey contrario : el negro lo guardara toda via por
+la ſegunda manera, con el peon de ſu dama vna
+caſa. Si el blan.juga.el arﬁl de ſu rey ala.4.del arf.
+de ſu dama: el neg.juga.el arﬁl de ſu dama ala.3.
+de ſu rey por trocar los arﬁles.Y  el blan.toma-
+ra:el neg.tomara conel peon del arﬁl del rey.Si el
+blã.jug.el peon del arf.de ſu dama vna caſa:el ne-
+gro jug.el cau.de ſu dama ala.3.de ſu arﬁl.Si el bl.
+jug.la dama ala.3.de ſu cau.el neg.juga.ſu dama a
+la caſa de ſu arﬁl guardando ſus peones.Si el blã.
+juga.el caua. de ſu rey ala. 4. del caua.del rey con
+trario ſobre el peon del arﬁl: el negro juga. el ca-
+ua.de ſu dama ala caſa de ſu meſma dama guar-
+dando ambos peones: y a podra ordenar bien
+ſu juego, y abrir la via al arﬁl de ſu rey, y deſdo-
+blar ſu peon,  el cõtrario procurare de romper:
+y auiendo ſe en todo cautamente tiene buen jue
+go : y a la oﬀenſa del contrario es muy ﬂaca,
+y de modo que facilmente ſe puede reir. Y aſ-
+ queda facilmẽte prouado ſer ea ſegunda ma-
+nera de guardar el peon del rey, contra la oﬀen-
+ſa del cauallo del Rey contrario, mejor y mas ſe-
+gura, y mucho mas apta para deſembaraçar el</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="drop-capital">
+	<Coords>
+	<Point x="207" y="307"/>
+	<Point x="207" y="521"/>
+	<Point x="397" y="524"/>
+	<Point x="404" y="524"/>
+	<Point x="415" y="523"/>
+	<Point x="436" y="521"/>
+	<Point x="436" y="307"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="page-number">
+	<Coords>
+	<Point x="1309" y="263"/>
+	<Point x="1309" y="319"/>
+	<Point x="1386" y="319"/>
+	<Point x="1386" y="263"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>118</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="530" y="240"/>
+	<Point x="531" y="309"/>
+	<Point x="627" y="316"/>
+	<Point x="636" y="313"/>
+	<Point x="698" y="321"/>
+	<Point x="710" y="324"/>
+	<Point x="740" y="317"/>
+	<Point x="1071" y="313"/>
+	<Point x="1071" y="240"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>del juego del axedrez.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1187" y="2241"/>
+	<Point x="1187" y="2312"/>
+	<Point x="1356" y="2312"/>
+	<Point x="1356" y="2241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>juego</Unicode></TextEquiv></TextRegion></Page></PcGts>

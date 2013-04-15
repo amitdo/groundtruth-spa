@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00673166">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 10.0</Creator>
+	<Created>2012-02-01T21:24:00</Created>
+	<LastChange>2012-03-03T19:54:19</LastChange></Metadata>
+	<Page imageFilename="00673166.tif" imageWidth="1922" imageHeight="2621">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="500" y="2265"/>
+	<Point x="502" y="346"/>
+	<Point x="1686" y="336"/>
+	<Point x="1691" y="2248"/>
+	<Point x="1648" y="2249"/>
+	<Point x="1581" y="2247"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>4.del arf.de ſu dama. Si el blanco jug. el caua.de
+ſu rey ala. 4. del caua.del rey contrario ſobre el
+peon del arf.el neg.jug.el caua. de ſu rey ala. 3. de
+ſu roque guardando el peon. Si el blan. jug. ſu da
+ma ala.4.del roque contrario:el neg.jug. el peon
+de ſu dama vna caſa. Si el blan. jug. el peõ del arf.
+de ſu rey quanto va:el neg.jug el arf.de ſu dama a
+la.4.del caua.del rey contrario ſobre la dama cõ-
+traria.Y jug. la el blã. ala.4.de ſu roque que no tie
+ne otra:el neg.jug.el peõ de ſu arf. vna caſa ſobre
+el caua. Si el blan.jug.el peon de ſu roque vna ca-
+ſa ſobre el arf.el neg. tomara el caua. con ſu peon
+cargando ſobre la dama y ſe lo aura ganado. Por-
+que  el lo tomara con el peon del arf. cargando
+ſobre el caua.el neg.retirara ſu arf.ala.2,de ſu da-
+ma:y el bl.no podra tomar el caua.con el peõ por
+ perderia la dama Si el bl.le dara xaque: el neg.
+ſe cobrira con el caua.y lo mejor que el bl. puede
+jug.es pujar el peon del arf.de ſu rey ala.3. del ca.
+cõtrario ſobre el ca.dela cubierta del rey. Y lo me
+jor que el neg. puede jug.para no perder el juego
+es dexar ear el cau.y jug.el arf. de ſu dama ala.3.
+de ſu rey. Y aſsi quedara bien compueo y n te
+nelleventaja ſu contrario.Pero  quãdo dixe que
+ el blan.jug.el peon de ſu roque vna caſa ſobre
+el arf.ſe haria el juego ſobredicho. Si no lo jug.an
+tes tomara el peon del rey con el de ſu arf.o jug.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="catch-word">
+	<Coords>
+	<Point x="1546" y="2253"/>
+	<Point x="1546" y="2308"/>
+	<Point x="1687" y="2308"/>
+	<Point x="1687" y="2253"/>
+	<Point x="1591" y="2251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>elro-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="header">
+	<Coords>
+	<Point x="698" y="261"/>
+	<Point x="696" y="334"/>
+	<Point x="1408" y="330"/>
+	<Point x="1408" y="261"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro dela inuencion liberal</Unicode></TextEquiv></TextRegion></Page></PcGts>

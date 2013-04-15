@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440244">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:04:13</Created>
+	<LastChange>2011-12-19T11:38:52</LastChange></Metadata>
+	<Page imageFilename="00440244.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r45" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="256" y="460"/>
+	<Point x="780" y="453"/>
+	<Point x="1369" y="452"/>
+	<Point x="1749" y="450"/>
+	<Point x="2239" y="474"/>
+	<Point x="2236" y="895"/>
+	<Point x="256" y="895"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>eos triangulos ſon para ambos los miſmos; ſolo sì, como
+èe hizo el juicio prudente, para corregirlos, de diinta
+forma, los angulos correos variaron, y ſon como ſe ‐
+guen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="credit">
+	<Coords>
+	<Point x="976" y="4002"/>
+	<Point x="1971" y="4002"/>
+	<Point x="1971" y="4104"/>
+	<Point x="976" y="4104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="header">
+	<Coords>
+	<Point x="770" y="348"/>
+	<Point x="1765" y="348"/>
+	<Point x="1765" y="444"/>
+	<Point x="1765" y="439"/>
+	<Point x="1377" y="444"/>
+	<Point x="769" y="440"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="page-number">
+	<Coords>
+	<Point x="1966" y="370"/>
+	<Point x="2148" y="370"/>
+	<Point x="2148" y="457"/>
+	<Point x="2113" y="461"/>
+	<Point x="1966" y="457"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>225</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r6">
+	<Coords>
+	<Point x="279" y="1069"/>
+	<Point x="2210" y="1069"/>
+	<Point x="2210" y="1630"/>
+	<Point x="279" y="1630"/></Coords></TableRegion>
+	<TableRegion id="r9">
+	<Coords>
+	<Point x="282" y="1669"/>
+	<Point x="2184" y="1669"/>
+	<Point x="2184" y="2189"/>
+	<Point x="282" y="2189"/></Coords></TableRegion>
+	<TableRegion id="r14">
+	<Coords>
+	<Point x="282" y="2233"/>
+	<Point x="2174" y="2233"/>
+	<Point x="2174" y="2751"/>
+	<Point x="282" y="2751"/></Coords></TableRegion>
+	<TableRegion id="r19">
+	<Coords>
+	<Point x="276" y="2792"/>
+	<Point x="2176" y="2792"/>
+	<Point x="2176" y="3307"/>
+	<Point x="276" y="3307"/></Coords></TableRegion>
+	<TextRegion id="r39" type="signature-mark">
+	<Coords>
+	<Point x="1423" y="3361"/>
+	<Point x="1558" y="3361"/>
+	<Point x="1558" y="3476"/>
+	<Point x="1423" y="3476"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ff	</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="catch-word">
+	<Coords>
+	<Point x="2041" y="3364"/>
+	<Point x="2210" y="3364"/>
+	<Point x="2210" y="3484"/>
+	<Point x="2041" y="3484"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Co‐</Unicode></TextEquiv></TextRegion></Page></PcGts>

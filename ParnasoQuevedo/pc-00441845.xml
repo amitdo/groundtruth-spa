@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441845">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T15:31:13</Created>
+	<LastChange>2011-07-05T14:26:35</LastChange></Metadata>
+	<Page imageFilename="00441845.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="169" y="700"/>
+	<Point x="1840" y="690"/>
+	<Point x="1890" y="2019"/>
+	<Point x="154" y="2011"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ved la Etherea Region, de ſola es Vna
+Materia pura, i ﬁrme; Vna es ſu llama,
+Que luz prea, i calor, i de el la vida:
+No ſemejança alguna
+Finge aûn la Elementar, que ſe derrama
+En corrupcion tan empre repetida.
+Serà an pues mentida
+La Aﬀeccion Amoroſa,
+Si ſolo en un Incendio no repoſa.
+Pues no es Ethereo Spiritu, quien Ama
+La Beldad dividida;
+Materia Elementar es, que ſe inﬂama.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="credit">
+	<Coords>
+	<Point x="721" y="3104"/>
+	<Point x="1464" y="3080"/>
+	<Point x="1476" y="3159"/>
+	<Point x="1449" y="3189"/>
+	<Point x="1388" y="3200"/>
+	<Point x="716" y="3189"/>
+	<Point x="692" y="3173"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

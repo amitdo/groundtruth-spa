@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439235">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T06:47:24</Created>
+	<LastChange>2011-05-12T13:39:53</LastChange></Metadata>
+	<Page imageFilename="00439235.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="146" y="106"/>
+	<Point x="1226" y="120"/>
+	<Point x="1260" y="122"/>
+	<Point x="1266" y="198"/>
+	<Point x="143" y="215"/>
+	<Point x="104" y="154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PARTE II. LIBRO II. CAP. VIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="47" y="226"/>
+	<Point x="340" y="220"/>
+	<Point x="1362" y="218"/>
+	<Point x="1390" y="230"/>
+	<Point x="1414" y="238"/>
+	<Point x="1452" y="236"/>
+	<Point x="1452" y="2535"/>
+	<Point x="1438" y="2632"/>
+	<Point x="1331" y="2635"/>
+	<Point x="1147" y="2657"/>
+	<Point x="237" y="2663"/>
+	<Point x="27" y="2642"/>
+	<Point x="19" y="2152"/>
+	<Point x="20" y="1035"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>zer tortas. A penas huve acabadoſelo de dezir, quando
+ya centeava de contento, porque deſseava ſalir à mon-
+tear. Luego ſe tratò en el modo de la vengança, y yo
+le dixe: la mayor, mas provechoſa, y de menor daño
+para noſotros, es en dinero. Eſso pido, y dos de bola,
+dixo Sayabedra, que las cuchiadas preo ſanan: pero
+dadas en las bolſas, tarde ſe curan, y para empre due-
+len. Yo le dixe: Pues para que todo ſe comience à diſ-
+poner de la manera que conviene; lo que agora ſe ha
+de hazer, es comprar quatro baules, los dos deos
+pondras en galera, en la parte que Favelo te dixere: y
+los otros dos cargaràs de piedras; y n que alguno ſe-
+pa lo que traes dentro, los haròs meter con mucho tien-
+to en el apoſento. Ai los yràs embolviendo en unas
+harpieras, porque donde quiera que fueren (aunque
+los traygan rodando) no ſuenen, y vayan bien eiva-
+dos, no dexandoles algun vazio, ni even mas peſo
+de aquel que te pareciere conveniente, ò ſatisfazer à
+feys arrobas eſcaſas en cada uno. Dixele mas, todo lo
+que avia de hazer, dexandolo bien informado deo. De
+ai me fuy à caſa del buen viejo don Beltran mi tio, y
+eando en converſacion, truxe à platica lo mucho que
+temia ſalir de caſa de noche, porque tenia en el apoſen-
+to mis baules; en eſpecial dos deos con plata, joyas
+de algun valor, y dineros: y por dezir verdad, mi po-
+breza toda. El me dixo: vuera es la culpa ſobrino,
+que donde mi caſa eà, no era neceario poſada, por-
+que aunque la que teneys es la mejor de aquea ciudad,
+ninguna en todo el mundo es buena, ni tal que podays
+en ea tener alguna ſeguridad. Y porque ſoys moço,
+quiero advertiros como viejo, que nunca os conﬁeys
+de menos que muy fuerte cerradura en vueros baules,
+y otra ſobreave de algunas armeas, y candado que
+eveys con vos de camino; y donde egaredes, poned
+à las puertas de vuero apoſento, porque ya los hueſ-
+pedes, ò ſus mugeres, ò ſus hijos ò criados, no ay
+apoſento que no tenga dos y tres aves, y à buelta</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1351" y="2644"/>
+	<Point x="1378" y="2638"/>
+	<Point x="1411" y="2645"/>
+	<Point x="1447" y="2702"/>
+	<Point x="1337" y="2700"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="537" y="2860"/>
+	<Point x="1298" y="2862"/>
+	<Point x="1310" y="2937"/>
+	<Point x="545" y="2934"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1288" y="128"/>
+	<Point x="1288" y="208"/>
+	<Point x="1362" y="204"/>
+	<Point x="1370" y="214"/>
+	<Point x="1407" y="227"/>
+	<Point x="1422" y="221"/>
+	<Point x="1444" y="196"/>
+	<Point x="1476" y="208"/>
+	<Point x="1444" y="126"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>203</Unicode></TextEquiv></TextRegion></Page></PcGts>

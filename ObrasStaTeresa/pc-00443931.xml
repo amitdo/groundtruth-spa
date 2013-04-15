@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443931">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T11:06:42</Created>
+	<LastChange>2011-12-19T11:39:15</LastChange></Metadata>
+	<Page imageFilename="00443931.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="121" y="244"/>
+	<Point x="1703" y="244"/>
+	<Point x="1701" y="2603"/>
+	<Point x="1185" y="2608"/>
+	<Point x="1183" y="2628"/>
+	<Point x="1142" y="2630"/>
+	<Point x="1137" y="2608"/>
+	<Point x="1078" y="2605"/>
+	<Point x="1075" y="2633"/>
+	<Point x="121" y="2633"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pocos años y de tan pequeños principios, que ca
+da vna por  ſon coſ as muy dignas de conde
+rar. Porque no endo de las mugeres el enſe‐
+ñar, no el ſer enſeñadas, como lo eſcriue S.
+Pablo, luego ſe vee que es marauia nueua
+vna ﬂaca muger tan animoſa que emprẽdieſ‐
+ſe vna coſ a tan grande, y tan ſabia y efﬁcaz
+que ſaliee con ea, y robae los coraçones que
+trataua para hazerlos de Dios, y euae las
+gentes empos de  a todo lo que aborrece el ſen
+tido. En que a lo que yo puedo juzgar, quiſo
+Dios en ee tiempo, quando parece triumpha
+el demonio en la muchedumbre de los inﬁeles
+que le guẽ, y en la porﬁa de tantos pueblos he‐
+rejes que hazen ſus partes, y en los muchos vi‐
+cios de los ﬁeles que ſon de ſu vando, para
+enuilecerle, y para hazer burla del, po‐
+nerle delante, no vn hombre valiente ro‐
+deado de letrasm, no vna pobre muger que
+le deſaﬁae, y leuantae vandera contra el,
+y hiziee publicamente gente que le vença,
+y huee, y acocee, y quiſo n duda para de‐
+monracion de lo mucho que puede, en eﬆa</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="608" y="3069"/>
+	<Point x="1582" y="3069"/>
+	<Point x="1582" y="3151"/>
+	<Point x="608" y="3151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1592" y="132"/>
+	<Point x="1592" y="228"/>
+	<Point x="1669" y="228"/>
+	<Point x="1669" y="132"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="1092" y="2616"/>
+	<Point x="1094" y="2726"/>
+	<Point x="1316" y="2726"/>
+	<Point x="1316" y="2619"/>
+	<Point x="1199" y="2621"/>
+	<Point x="1182" y="2641"/>
+	<Point x="1128" y="2639"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1446" y="2614"/>
+	<Point x="1446" y="2742"/>
+	<Point x="1705" y="2742"/>
+	<Point x="1705" y="2614"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>edad</Unicode></TextEquiv></TextRegion></Page></PcGts>

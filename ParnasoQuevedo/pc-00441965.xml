@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441965">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T17:52:56</Created>
+	<LastChange>2011-07-05T14:26:43</LastChange></Metadata>
+	<Page imageFilename="00441965.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r32" index="0"/>
+	<RegionRefIndexed regionRef="r33" index="1"/>
+	<RegionRefIndexed regionRef="r37" index="2"/>
+	<RegionRefIndexed regionRef="r36" index="3"/>
+	<RegionRefIndexed regionRef="r39" index="4"/>
+	<RegionRefIndexed regionRef="r40" index="5"/>
+	<RegionRefIndexed regionRef="r41" index="6"/>
+	<RegionRefIndexed regionRef="r42" index="7"/>
+	<RegionRefIndexed regionRef="r43" index="8"/>
+	<RegionRefIndexed regionRef="r44" index="9"/>
+	<RegionRefIndexed regionRef="r45" index="10"/>
+	<RegionRefIndexed regionRef="r38" index="11"/>
+	<RegionRefIndexed regionRef="r23" index="12"/>
+	<RegionRefIndexed regionRef="r46" index="13"/>
+	<RegionRefIndexed regionRef="r47" index="14"/>
+	<RegionRefIndexed regionRef="r48" index="15"/>
+	<RegionRefIndexed regionRef="r49" index="16"/>
+	<RegionRefIndexed regionRef="r50" index="17"/>
+	<RegionRefIndexed regionRef="r35" index="18"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r30" type="header">
+	<Coords>
+	<Point x="670" y="203"/>
+	<Point x="670" y="319"/>
+	<Point x="1558" y="319"/>
+	<Point x="1558" y="203"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERPSICHORE,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="page-number">
+	<Coords>
+	<Point x="116" y="174"/>
+	<Point x="116" y="345"/>
+	<Point x="200" y="344"/>
+	<Point x="406" y="345"/>
+	<Point x="406" y="174"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>380</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="heading">
+	<Coords>
+	<Point x="680" y="377"/>
+	<Point x="680" y="480"/>
+	<Point x="1026" y="471"/>
+	<Point x="1490" y="480"/>
+	<Point x="1490" y="377"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LOS GALEOTES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="heading">
+	<Coords>
+	<Point x="774" y="509"/>
+	<Point x="774" y="600"/>
+	<Point x="1361" y="600"/>
+	<Point x="1361" y="509"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BAILE III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="credit">
+	<Coords>
+	<Point x="654" y="3112"/>
+	<Point x="654" y="3196"/>
+	<Point x="1496" y="3196"/>
+	<Point x="1496" y="3112"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="catch-word">
+	<Coords>
+	<Point x="1775" y="2865"/>
+	<Point x="1778" y="2963"/>
+	<Point x="1993" y="2971"/>
+	<Point x="1990" y="2866"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Deſde</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords>
+	<Point x="235" y="632"/>
+	<Point x="240" y="675"/>
+	<Point x="251" y="772"/>
+	<Point x="231" y="936"/>
+	<Point x="1061" y="924"/>
+	<Point x="1061" y="629"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Van Redõdo eà en Gurapas,
+Lampiño por ſus peccados,
+Porque dicen, que cogio
+Treinta donceas ſu carro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="drop-capital">
+	<Coords>
+	<Point x="165" y="631"/>
+	<Point x="167" y="768"/>
+	<Point x="240" y="760"/>
+	<Point x="230" y="646"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>l</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords>
+	<Point x="1110" y="618"/>
+	<Point x="1110" y="736"/>
+	<Point x="1109" y="786"/>
+	<Point x="1185" y="784"/>
+	<Point x="1189" y="866"/>
+	<Point x="1319" y="867"/>
+	<Point x="1320" y="933"/>
+	<Point x="1451" y="934"/>
+	<Point x="1758" y="931"/>
+	<Point x="1756" y="868"/>
+	<Point x="1906" y="867"/>
+	<Point x="1902" y="785"/>
+	<Point x="1996" y="781"/>
+	<Point x="1998" y="618"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Salen Iuan Redondo, i Santurde;
+uno por un lado, i otro por o-
+tro, con veidos de forza-
+dos, i virretes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="170" y="943"/>
+	<Point x="169" y="1028"/>
+	<Point x="229" y="1025"/>
+	<Point x="229" y="1231"/>
+	<Point x="267" y="1239"/>
+	<Point x="332" y="1236"/>
+	<Point x="339" y="1249"/>
+	<Point x="369" y="1247"/>
+	<Point x="372" y="1234"/>
+	<Point x="694" y="1231"/>
+	<Point x="700" y="1248"/>
+	<Point x="731" y="1247"/>
+	<Point x="734" y="1228"/>
+	<Point x="1054" y="1226"/>
+	<Point x="1057" y="937"/>
+	<Point x="818" y="934"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Por bailarle diez viudas
+Se hicieron diez mis andrajos,
+Empobrecio mil barberos,
+Dejaron barbas por ſaltos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords>
+	<Point x="157" y="1247"/>
+	<Point x="156" y="1359"/>
+	<Point x="241" y="1355"/>
+	<Point x="239" y="1612"/>
+	<Point x="658" y="1608"/>
+	<Point x="672" y="1623"/>
+	<Point x="683" y="1629"/>
+	<Point x="702" y="1620"/>
+	<Point x="715" y="1609"/>
+	<Point x="1052" y="1592"/>
+	<Point x="1043" y="1261"/>
+	<Point x="722" y="1264"/>
+	<Point x="670" y="1241"/>
+	<Point x="391" y="1248"/>
+	<Point x="303" y="1256"/>
+	<Point x="285" y="1246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dale Perico murio,
+Que el dar matarà a los dia-
+blos,
+I por ea muerte, i otras
+Vino a varear peſcados.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords>
+	<Point x="167" y="1625"/>
+	<Point x="176" y="2069"/>
+	<Point x="1053" y="2060"/>
+	<Point x="1053" y="1617"/>
+	<Point x="896" y="1612"/>
+	<Point x="816" y="1612"/>
+	<Point x="688" y="1637"/>
+	<Point x="560" y="1617"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Por pedigueño en caminos,
+Es prevendado de el charco;
+Porque arremangò una tien-
+da,
+Porque peizcò unos quar-
+tos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords>
+	<Point x="429" y="2151"/>
+	<Point x="429" y="2223"/>
+	<Point x="800" y="2223"/>
+	<Point x="800" y="2151"/>
+	<Point x="630" y="2135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De adentro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="140" y="2279"/>
+	<Point x="140" y="2545"/>
+	<Point x="988" y="2545"/>
+	<Point x="988" y="2279"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El viento ſalta de tierra,
+Mar bonança, cielo claro,
+Zarpa ferros, toca a leva.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords>
+	<Point x="142" y="2594"/>
+	<Point x="142" y="2756"/>
+	<Point x="466" y="2760"/>
+	<Point x="1048" y="2756"/>
+	<Point x="1048" y="2594"/>
+	<Point x="1004" y="2591"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Suena una trompeta, y ſalen la
+Coruja, i la Pironda.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords>
+	<Point x="136" y="2817"/>
+	<Point x="136" y="2939"/>
+	<Point x="978" y="2939"/>
+	<Point x="978" y="2817"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P. A lindo tiempo egamos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="paragraph">
+	<Coords>
+	<Point x="1082" y="1455"/>
+	<Point x="1082" y="1754"/>
+	<Point x="1679" y="1750"/>
+	<Point x="1685" y="1766"/>
+	<Point x="1700" y="1778"/>
+	<Point x="1722" y="1765"/>
+	<Point x="1720" y="1746"/>
+	<Point x="2003" y="1754"/>
+	<Point x="2007" y="1605"/>
+	<Point x="1918" y="1458"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Oliſcado me han buedes
+A perſonas de el trabajo,
+Cuerpos de alquiler parecen,
+I donceitas de aquatro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords>
+	<Point x="1086" y="1762"/>
+	<Point x="1076" y="2048"/>
+	<Point x="1611" y="2041"/>
+	<Point x="1634" y="2065"/>
+	<Point x="1661" y="2062"/>
+	<Point x="1680" y="2051"/>
+	<Point x="2003" y="2048"/>
+	<Point x="1996" y="1765"/>
+	<Point x="1896" y="1757"/>
+	<Point x="1758" y="1757"/>
+	<Point x="1700" y="1785"/>
+	<Point x="1582" y="1757"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quando io eaba en el glo,
+Pienſo,  ia no me engaño,
+Que las conoci a las dos
+Fruteritas de el peccado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords>
+	<Point x="1100" y="2068"/>
+	<Point x="1095" y="2357"/>
+	<Point x="1237" y="2362"/>
+	<Point x="1288" y="2375"/>
+	<Point x="1304" y="2367"/>
+	<Point x="1320" y="2350"/>
+	<Point x="1522" y="2353"/>
+	<Point x="1539" y="2356"/>
+	<Point x="1548" y="2371"/>
+	<Point x="1575" y="2368"/>
+	<Point x="1593" y="2354"/>
+	<Point x="1710" y="2347"/>
+	<Point x="1724" y="2360"/>
+	<Point x="1741" y="2363"/>
+	<Point x="1754" y="2360"/>
+	<Point x="1770" y="2348"/>
+	<Point x="1843" y="2343"/>
+	<Point x="1840" y="2366"/>
+	<Point x="1875" y="2361"/>
+	<Point x="1880" y="2346"/>
+	<Point x="1998" y="2357"/>
+	<Point x="2008" y="2060"/>
+	<Point x="1827" y="2059"/>
+	<Point x="1741" y="2054"/>
+	<Point x="1635" y="2075"/>
+	<Point x="1304" y="2060"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cor. Que poca memoria tienen
+Los ſeñores prevendados,
+Graduados de peonça,
+Que andan a puro açotaço.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords>
+	<Point x="1085" y="2371"/>
+	<Point x="1083" y="2664"/>
+	<Point x="1218" y="2665"/>
+	<Point x="1240" y="2674"/>
+	<Point x="1249" y="2667"/>
+	<Point x="1301" y="2670"/>
+	<Point x="1321" y="2682"/>
+	<Point x="1461" y="2654"/>
+	<Point x="1959" y="2683"/>
+	<Point x="1959" y="2373"/>
+	<Point x="1894" y="2363"/>
+	<Point x="1822" y="2371"/>
+	<Point x="1738" y="2364"/>
+	<Point x="1698" y="2371"/>
+	<Point x="1681" y="2360"/>
+	<Point x="1601" y="2362"/>
+	<Point x="1571" y="2379"/>
+	<Point x="1551" y="2382"/>
+	<Point x="1495" y="2361"/>
+	<Point x="1321" y="2360"/>
+	<Point x="1287" y="2384"/>
+	<Point x="1255" y="2371"/>
+	<Point x="1223" y="2366"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pir. La Pironda, i la Coruja,
+Tan aprieſa ſe olvidaron,
+Macorales de bolſas,
+I jugadores de manos?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="paragraph">
+	<Coords>
+	<Point x="1088" y="2675"/>
+	<Point x="1087" y="2917"/>
+	<Point x="1490" y="2917"/>
+	<Point x="1491" y="2670"/>
+	<Point x="1444" y="2668"/>
+	<Point x="1312" y="2689"/>
+	<Point x="1302" y="2673"/>
+	<Point x="1249" y="2674"/>
+	<Point x="1235" y="2681"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Iua. Pironda,
+San. Coruja,
+Iua. Hĳas,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="1096" y="990"/>
+	<Point x="1083" y="1449"/>
+	<Point x="2018" y="1452"/>
+	<Point x="2026" y="990"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sant. Partenza en nombre de
+Dios.
+Iu. Lleve bercebu ee cavo,
+Cor. Es Iuan Redondo?
+Pir. Es Santurde?
+Iua. Los dos ſon menos el Sãto.</Unicode></TextEquiv></TextRegion></Page></PcGts>

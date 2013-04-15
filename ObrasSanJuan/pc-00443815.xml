@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443815">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T23:01:59</Created>
+	<LastChange>2011-02-03T05:58:49</LastChange></Metadata>
+	<Page imageFilename="00443815.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="820" y="29"/>
+	<Point x="1341" y="29"/>
+	<Point x="1341" y="131"/>
+	<Point x="820" y="131"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Declaracion de la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="336" y="150"/>
+	<Point x="1867" y="141"/>
+	<Point x="1867" y="2000"/>
+	<Point x="288" y="2008"/>
+	<Point x="308" y="702"/>
+	<Point x="310" y="683"/>
+	<Point x="342" y="561"/>
+	<Point x="341" y="495"/>
+	<Point x="343" y="472"/>
+	<Point x="341" y="433"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que ea con ſus potencias ſentivas i fuerças natura-
+les ſe recogen a participar i gozar en ſu manera de las
+grandezas eſpirituales, que Dios eà comunicando al
+eſpiritu; ſegun lo quiſo entender David, cuando dixo:
+Cor meum &amp; caro mea exultaverunt in Deum vivum, 
+quiere dezir: Mi eſpiritu i mi carne en uno ſe gozarõ i
+deleitaron en Dios vivo. I es de notar, que no dize a-
+qui la Eſpoſa, que la cavaeria decendia à guar las a-
+guas no a via deas: porque ea parte ſentiva cõ
+ſus potencias no pueden eſencial i propiamente guar
+los bienes eſpirituales, porque no tienen proporciona-
+da capazidad para eſo ni en ea vida ni en la otra, -
+no por cierta redundancia del eſpiritu reciben recrea
+cion i deleite, por el cual ſon atraidas eas poten-
+cias al recogimiento en que eà beviendo el alma
+los bienes eſpirituales, lo cual es decender mas à la
+via deos, que al guo eſencial deos: i a guſ-
+tan la redundancia que del alma ſe comunica en eos.
+Dize que decendia, i no otro vocablo alguno, para dar
+a entender, que eas potencias decienden i baxan de
+ſus operaciones al recogimiento del alma: en el cual
+ſea ſervido el Señor IESVS Eſpoſo dulcimo, de
+poner a todos los que invocan
+ſu nombre, Amen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="551" y="2032"/>
+	<Point x="1564" y="2032"/>
+	<Point x="1564" y="2219"/>
+	<Point x="551" y="2219"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LAVS DEO.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r4" type="other">
+	<Coords>
+	<Point x="1590" y="2283"/>
+	<Point x="1525" y="2725"/>
+	<Point x="889" y="2737"/>
+	<Point x="533" y="2744"/>
+	<Point x="506" y="2274"/></Coords></GraphicRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="758" y="2933"/>
+	<Point x="1418" y="2933"/>
+	<Point x="1418" y="3000"/>
+	<Point x="758" y="3000"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="337" y="38"/>
+	<Point x="337" y="123"/>
+	<Point x="488" y="123"/>
+	<Point x="488" y="38"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>802</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="marginalia">
+	<Coords>
+	<Point x="84" y="430"/>
+	<Point x="84" y="547"/>
+	<Point x="330" y="547"/>
+	<Point x="333" y="493"/>
+	<Point x="330" y="430"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pſ.83.3.</Unicode></TextEquiv></TextRegion></Page></PcGts>

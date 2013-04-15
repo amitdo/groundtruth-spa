@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443344">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T08:03:37</Created>
+	<LastChange>2010-12-30T04:36:09</LastChange></Metadata>
+	<Page imageFilename="00443344.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r11" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1464" y="109"/>
+	<Point x="1464" y="212"/>
+	<Point x="1603" y="212"/>
+	<Point x="1603" y="109"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>333</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="651" y="96"/>
+	<Point x="651" y="200"/>
+	<Point x="1080" y="200"/>
+	<Point x="1080" y="96"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro tercero.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="93" y="258"/>
+	<Point x="93" y="1625"/>
+	<Point x="74" y="2216"/>
+	<Point x="261" y="2280"/>
+	<Point x="419" y="2335"/>
+	<Point x="441" y="2358"/>
+	<Point x="545" y="2396"/>
+	<Point x="800" y="2458"/>
+	<Point x="1161" y="2393"/>
+	<Point x="1606" y="2212"/>
+	<Point x="1622" y="258"/>
+	<Point x="1552" y="237"/>
+	<Point x="1198" y="231"/>
+	<Point x="409" y="241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cuan mal ſufre Dios en las juntas que ſe hazen para ſu
+ſervicio eos deſacatos. Porque aì, ſeñor Dios mio, cuã
+tas eas os hazen los hĳos de los hombres, en que ſe
+eva mas el demonio que vos? I el demonio gua de-
+as, por que en eas como el tratante, haze el ſu feria? I
+cuantas vezes direis vos en eas: Populus hic labÿs me
+bonorat, cor autem eorum longè e à me. Ee pueblo con
+los labios ſolos me honra, mas ſu coraçon eà lexos de
+mi, porque me rven n cauſa? Que la principal cauſa
+porque Dios ha de ſer ſervido, es, por ſer el quien es, no
+interponiendo otros ﬁnes mas baxos. Pues bolviendo
+a los Oratorios, digo, que algunas perſonas los atabian
+mas por ſu guo que por el de Dios; i algunos hazen
+tan poco caſo de la devocion deos, que no los tienen
+en mas que ſus camarines profanos; i aun algunos no
+en tanto, pues tienen mas guo en lo profano que en
+lo divino. Pero dexemos aora eo, i digamos todavia
+de los que hilan mas delgado (es a ſaber, de los que ſe
+tienen por gente devota) porque muchos deos de
+tal manera dã en tener ado el apetito i guo a ſu Ora-
+torio i ornato del, que todo lo que avian de emplear en
+oracion de Dios, i recogimiento interior ſe les va en
+eo, I no echan de ver, que no ordenando eo para
+el recogimiento interior, i paz del alma, ſe diraen
+tanto con eo como con las demas coſas, i ſe deſquie-
+taràn en el tal apetito i guo a cada paſo,
+mayormente  ſe le quieſen
+quitar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="marginalia">
+	<Coords>
+	<Point x="1635" y="548"/>
+	<Point x="1635" y="738"/>
+	<Point x="1880" y="738"/>
+	<Point x="1880" y="548"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Iſai. 29.
+13.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="marginalia">
+	<Coords>
+	<Point x="1638" y="777"/>
+	<Point x="1638" y="961"/>
+	<Point x="1893" y="961"/>
+	<Point x="1893" y="777"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Matt. 15
+8.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="catch-word">
+	<Coords>
+	<Point x="1390" y="2619"/>
+	<Point x="1390" y="2735"/>
+	<Point x="1616" y="2735"/>
+	<Point x="1616" y="2619"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CA-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="credit">
+	<Coords>
+	<Point x="764" y="2919"/>
+	<Point x="764" y="3000"/>
+	<Point x="1429" y="3000"/>
+	<Point x="1429" y="2919"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

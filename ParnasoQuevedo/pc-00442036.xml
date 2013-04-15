@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442036">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T18:05:18</Created>
+	<LastChange>2011-07-05T14:26:47</LastChange></Metadata>
+	<Page imageFilename="00442036.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r11" index="0"/>
+	<RegionRefIndexed regionRef="r12" index="1"/>
+	<RegionRefIndexed regionRef="r13" index="2"/>
+	<RegionRefIndexed regionRef="r14" index="3"/>
+	<RegionRefIndexed regionRef="r15" index="4"/>
+	<RegionRefIndexed regionRef="r16" index="5"/>
+	<RegionRefIndexed regionRef="r17" index="6"/>
+	<RegionRefIndexed regionRef="r18" index="7"/>
+	<RegionRefIndexed regionRef="r19" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="709" y="3123"/>
+	<Point x="1451" y="3115"/>
+	<Point x="1478" y="3146"/>
+	<Point x="1449" y="3189"/>
+	<Point x="1375" y="3198"/>
+	<Point x="716" y="3189"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="917" y="200"/>
+	<Point x="917" y="295"/>
+	<Point x="1382" y="295"/>
+	<Point x="1382" y="200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THALIA,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="212" y="253"/>
+	<Point x="236" y="221"/>
+	<Point x="314" y="197"/>
+	<Point x="373" y="195"/>
+	<Point x="412" y="226"/>
+	<Point x="424" y="280"/>
+	<Point x="409" y="309"/>
+	<Point x="331" y="312"/>
+	<Point x="290" y="319"/>
+	<Point x="217" y="300"/>
+	<Point x="212" y="290"/>
+	<Point x="217" y="280"/>
+	<Point x="217" y="265"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>455</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="175" y="360"/>
+	<Point x="217" y="341"/>
+	<Point x="265" y="327"/>
+	<Point x="285" y="327"/>
+	<Point x="319" y="321"/>
+	<Point x="442" y="321"/>
+	<Point x="490" y="306"/>
+	<Point x="569" y="293"/>
+	<Point x="669" y="283"/>
+	<Point x="907" y="310"/>
+	<Point x="1052" y="327"/>
+	<Point x="1240" y="312"/>
+	<Point x="1345" y="312"/>
+	<Point x="1447" y="310"/>
+	<Point x="1557" y="295"/>
+	<Point x="1860" y="295"/>
+	<Point x="2027" y="315"/>
+	<Point x="2057" y="430"/>
+	<Point x="1417" y="447"/>
+	<Point x="1407" y="492"/>
+	<Point x="1332" y="520"/>
+	<Point x="990" y="510"/>
+	<Point x="892" y="510"/>
+	<Point x="832" y="452"/>
+	<Point x="410" y="445"/>
+	<Point x="200" y="440"/>
+	<Point x="180" y="410"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tuulo Crepuſculo, o entre dos luzes,  Titulece,
+no Titulece.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="205" y="565"/>
+	<Point x="205" y="1285"/>
+	<Point x="2045" y="1285"/>
+	<Point x="2045" y="565"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En occaon de haberſe renovado un Titulo olvidado en Eſpaña,
+preguntò a Don Franciſco un curioſo la noticia, que de el te-
+nia ſu memoria, que era feliciſsima. I el con la gracia, que
+le era tan propria, empeço ſu deſcripcion, por los tres ver-
+ſos primeros de ee Soneto ultimo. Deſpues no attendio a pro-
+ſeguirle, por ventura embaraçado en la erilidad de los conſonã.
+tes. Pero porque no ſe malograra tan ſolene principio, perſuadi-
+do a que io le continuara huve de obedecer, bien n mas malicia, de
+la que admitte un mero deſatino por donaire: pues en la ver dad,
+ſu Dignidad es iluriſsima.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="heading">
+	<Coords>
+	<Point x="234" y="1367"/>
+	<Point x="234" y="1421"/>
+	<Point x="394" y="1421"/>
+	<Point x="394" y="1367"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LXXX.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="drop-capital">
+	<Coords>
+	<Point x="335" y="1568"/>
+	<Point x="377" y="1512"/>
+	<Point x="384" y="1480"/>
+	<Point x="405" y="1451"/>
+	<Point x="404" y="1365"/>
+	<Point x="414" y="1345"/>
+	<Point x="440" y="1334"/>
+	<Point x="530" y="1334"/>
+	<Point x="532" y="1395"/>
+	<Point x="532" y="1418"/>
+	<Point x="548" y="1477"/>
+	<Point x="537" y="1511"/>
+	<Point x="520" y="1535"/>
+	<Point x="460" y="1558"/>
+	<Point x="375" y="1564"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>S</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="430" y="1585"/>
+	<Point x="498" y="1558"/>
+	<Point x="552" y="1540"/>
+	<Point x="577" y="1505"/>
+	<Point x="551" y="1447"/>
+	<Point x="540" y="1378"/>
+	<Point x="548" y="1345"/>
+	<Point x="552" y="1340"/>
+	<Point x="594" y="1337"/>
+	<Point x="704" y="1332"/>
+	<Point x="1257" y="1332"/>
+	<Point x="1455" y="1310"/>
+	<Point x="1640" y="1310"/>
+	<Point x="1887" y="1328"/>
+	<Point x="1943" y="1441"/>
+	<Point x="1925" y="1697"/>
+	<Point x="1874" y="1748"/>
+	<Point x="1702" y="1743"/>
+	<Point x="1592" y="1743"/>
+	<Point x="1584" y="1766"/>
+	<Point x="1569" y="1787"/>
+	<Point x="1517" y="1758"/>
+	<Point x="1217" y="1753"/>
+	<Point x="1189" y="1774"/>
+	<Point x="1166" y="1774"/>
+	<Point x="1128" y="1753"/>
+	<Point x="1079" y="1743"/>
+	<Point x="505" y="1738"/>
+	<Point x="461" y="1723"/>
+	<Point x="420" y="1658"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>On los Vizcõdes unos Cõdes vizcos,
+Que no ſe ſabe, hacia  parte cõden.
+A Mercedes humanas no reſponden,
+I a las Damas regalan con pellizcos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="357" y="1771"/>
+	<Point x="398" y="1746"/>
+	<Point x="448" y="1744"/>
+	<Point x="487" y="1751"/>
+	<Point x="582" y="1751"/>
+	<Point x="664" y="1753"/>
+	<Point x="871" y="1753"/>
+	<Point x="1080" y="1758"/>
+	<Point x="1106" y="1757"/>
+	<Point x="1120" y="1757"/>
+	<Point x="1132" y="1760"/>
+	<Point x="1147" y="1770"/>
+	<Point x="1156" y="1777"/>
+	<Point x="1175" y="1783"/>
+	<Point x="1206" y="1783"/>
+	<Point x="1220" y="1775"/>
+	<Point x="1246" y="1763"/>
+	<Point x="1304" y="1762"/>
+	<Point x="1360" y="1763"/>
+	<Point x="1453" y="1763"/>
+	<Point x="1522" y="1772"/>
+	<Point x="1574" y="1803"/>
+	<Point x="1588" y="1790"/>
+	<Point x="1600" y="1751"/>
+	<Point x="1624" y="1750"/>
+	<Point x="1700" y="1755"/>
+	<Point x="1775" y="1755"/>
+	<Point x="1896" y="1762"/>
+	<Point x="1933" y="1762"/>
+	<Point x="1942" y="1859"/>
+	<Point x="1935" y="2114"/>
+	<Point x="1925" y="2151"/>
+	<Point x="1877" y="2155"/>
+	<Point x="1681" y="2150"/>
+	<Point x="1681" y="2161"/>
+	<Point x="1672" y="2172"/>
+	<Point x="1650" y="2168"/>
+	<Point x="1633" y="2168"/>
+	<Point x="1625" y="2154"/>
+	<Point x="1607" y="2145"/>
+	<Point x="1290" y="2145"/>
+	<Point x="1189" y="2143"/>
+	<Point x="1191" y="2162"/>
+	<Point x="1184" y="2169"/>
+	<Point x="1152" y="2169"/>
+	<Point x="1145" y="2161"/>
+	<Point x="1125" y="2156"/>
+	<Point x="1023" y="2156"/>
+	<Point x="1007" y="2164"/>
+	<Point x="1000" y="2171"/>
+	<Point x="971" y="2170"/>
+	<Point x="956" y="2157"/>
+	<Point x="946" y="2150"/>
+	<Point x="856" y="2149"/>
+	<Point x="766" y="2148"/>
+	<Point x="551" y="2147"/>
+	<Point x="502" y="2147"/>
+	<Point x="481" y="2119"/>
+	<Point x="460" y="2004"/>
+	<Point x="459" y="1889"/>
+	<Point x="359" y="1818"/>
+	<Point x="357" y="1794"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Todas ſus Rentas ſon pizcas, i pizcos
+Sus Eados, i niſperos que monden:
+Es Conde cada qual de los que eſcõdẽ
+Los mendrugos, que comẽ a repizcos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="408" y="2182"/>
+	<Point x="423" y="2164"/>
+	<Point x="446" y="2157"/>
+	<Point x="485" y="2160"/>
+	<Point x="546" y="2162"/>
+	<Point x="601" y="2162"/>
+	<Point x="691" y="2161"/>
+	<Point x="798" y="2162"/>
+	<Point x="891" y="2162"/>
+	<Point x="925" y="2163"/>
+	<Point x="958" y="2167"/>
+	<Point x="973" y="2175"/>
+	<Point x="983" y="2176"/>
+	<Point x="995" y="2175"/>
+	<Point x="1008" y="2174"/>
+	<Point x="1015" y="2168"/>
+	<Point x="1024" y="2164"/>
+	<Point x="1118" y="2162"/>
+	<Point x="1127" y="2166"/>
+	<Point x="1150" y="2177"/>
+	<Point x="1185" y="2177"/>
+	<Point x="1196" y="2164"/>
+	<Point x="1199" y="2154"/>
+	<Point x="1200" y="2151"/>
+	<Point x="1369" y="2150"/>
+	<Point x="1589" y="2151"/>
+	<Point x="1601" y="2150"/>
+	<Point x="1613" y="2166"/>
+	<Point x="1627" y="2170"/>
+	<Point x="1647" y="2171"/>
+	<Point x="1668" y="2176"/>
+	<Point x="1682" y="2176"/>
+	<Point x="1687" y="2167"/>
+	<Point x="1691" y="2157"/>
+	<Point x="1889" y="2166"/>
+	<Point x="1915" y="2166"/>
+	<Point x="1936" y="2171"/>
+	<Point x="1944" y="2193"/>
+	<Point x="1951" y="2467"/>
+	<Point x="1773" y="2471"/>
+	<Point x="1517" y="2471"/>
+	<Point x="967" y="2459"/>
+	<Point x="784" y="2467"/>
+	<Point x="738" y="2476"/>
+	<Point x="686" y="2469"/>
+	<Point x="503" y="2465"/>
+	<Point x="444" y="2442"/>
+	<Point x="353" y="2378"/>
+	<Point x="365" y="2263"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Andan en titulillos, coſa fea; (aunan
+I aûn de el Rei miſmo a no admittir ſe
+Lo de, O como la nuera Merced ſea.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="348" y="2517"/>
+	<Point x="380" y="2484"/>
+	<Point x="426" y="2478"/>
+	<Point x="561" y="2478"/>
+	<Point x="605" y="2476"/>
+	<Point x="665" y="2480"/>
+	<Point x="694" y="2480"/>
+	<Point x="853" y="2475"/>
+	<Point x="1017" y="2476"/>
+	<Point x="1076" y="2475"/>
+	<Point x="1228" y="2475"/>
+	<Point x="1357" y="2476"/>
+	<Point x="1515" y="2486"/>
+	<Point x="1638" y="2482"/>
+	<Point x="1703" y="2480"/>
+	<Point x="1811" y="2486"/>
+	<Point x="1888" y="2488"/>
+	<Point x="1919" y="2505"/>
+	<Point x="1951" y="2573"/>
+	<Point x="1965" y="2676"/>
+	<Point x="1934" y="2786"/>
+	<Point x="1807" y="2875"/>
+	<Point x="1736" y="2896"/>
+	<Point x="542" y="2896"/>
+	<Point x="425" y="2890"/>
+	<Point x="344" y="2675"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sus deſpenſas traſpaſos ſon, que ainnan;
+Mas no aũ ſu hãbre haa morir pe-
+lea,
+Dela Merced de Dios ſe deſaiunan.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="catch-word">
+	<Coords>
+	<Point x="1765" y="2936"/>
+	<Point x="1826" y="2876"/>
+	<Point x="1903" y="2876"/>
+	<Point x="1963" y="2903"/>
+	<Point x="1973" y="2963"/>
+	<Point x="1882" y="3003"/>
+	<Point x="1800" y="3003"/>
+	<Point x="1725" y="2975"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Las</Unicode></TextEquiv></TextRegion></Page></PcGts>

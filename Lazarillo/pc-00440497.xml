@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440497">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:16:23</Created>
+	<LastChange>2011-07-05T14:26:03</LastChange></Metadata>
+	<Page imageFilename="00440497.tif" imageWidth="880" imageHeight="1599">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="32" y="76"/>
+	<Point x="660" y="88"/>
+	<Point x="681" y="89"/>
+	<Point x="784" y="95"/>
+	<Point x="775" y="1506"/>
+	<Point x="10" y="1488"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ea noche por nuero pan. Yo
+hizeme muy de nueuas, pregun-
+tandole, lo que era : que ha de ſer
+dixo el, tatones que no dexan co-
+ſa a vida : comimos, y quiſo Dios
+que aun en eo me fue bien, que
+me cupo mas pan que la lazeria
+que me ſolia dar, porque rayo con
+vn cuchillo todo lo que penſo ſer
+ratonado, diziendo ; Comete eſ-
+ſo ; que el raton no es ſucio. Y ai
+aquel dia añadiendo la racion del
+trabajo de mis manos, o de mis
+vñas, por mejor dezir, acabamos
+de comer, aunque ya nunca em-
+peçaua ; vino me otro ſobreſalto,
+que fue ver le andar ſolicito qui-
+tando clauos de las paredes y buſ-
+cando tablillas con las quales cla-
+uo, y cerro todos ios agujeros de-
+la vieja arca. O ſeñor mio ( dixe
+yo entonces ) a quanta miſeria,
+fortuna, y deſares eamos pue-
+os los naſcidos, y quan poco du-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="credit">
+	<Coords>
+	<Point x="289" y="1555"/>
+	<Point x="574" y="1558"/>
+	<Point x="571" y="1582"/>
+	<Point x="286" y="1581"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="header">
+	<Coords>
+	<Point x="70" y="20"/>
+	<Point x="525" y="25"/>
+	<Point x="674" y="26"/>
+	<Point x="670" y="80"/>
+	<Point x="69" y="67"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LAZAR. DE TORM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="694" y="40"/>
+	<Point x="759" y="43"/>
+	<Point x="753" y="88"/>
+	<Point x="696" y="85"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>43</Unicode></TextEquiv></TextRegion></Page></PcGts>

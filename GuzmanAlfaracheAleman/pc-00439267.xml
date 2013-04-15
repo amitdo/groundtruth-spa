@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439267">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T06:51:42</Created>
+	<LastChange>2011-05-12T13:39:55</LastChange></Metadata>
+	<Page imageFilename="00439267.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r14" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r15" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/>
+	<RegionRefIndexed regionRef="r7" index="7"/>
+	<RegionRefIndexed regionRef="r12" index="8"/>
+	<RegionRefIndexed regionRef="r8" index="9"/>
+	<RegionRefIndexed regionRef="r11" index="10"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="320" y="88"/>
+	<Point x="499" y="88"/>
+	<Point x="499" y="179"/>
+	<Point x="320" y="179"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>236</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="435" y="197"/>
+	<Point x="432" y="189"/>
+	<Point x="444" y="191"/>
+	<Point x="1672" y="189"/>
+	<Point x="1675" y="202"/>
+	<Point x="1670" y="213"/>
+	<Point x="1672" y="321"/>
+	<Point x="1651" y="327"/>
+	<Point x="1643" y="321"/>
+	<Point x="427" y="321"/>
+	<Point x="427" y="310"/>
+	<Point x="420" y="214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIBRO TER CERO</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="354" y="505"/>
+	<Point x="1724" y="510"/>
+	<Point x="1729" y="716"/>
+	<Point x="1710" y="718"/>
+	<Point x="343" y="718"/>
+	<Point x="343" y="691"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GVZMAN</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="329" y="870"/>
+	<Point x="1708" y="870"/>
+	<Point x="1708" y="1047"/>
+	<Point x="1697" y="1056"/>
+	<Point x="329" y="1047"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ALFAR ACHE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="329" y="1067"/>
+	<Point x="1710" y="1081"/>
+	<Point x="1718" y="1356"/>
+	<Point x="1705" y="1500"/>
+	<Point x="355" y="1475"/>
+	<Point x="335" y="1472"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Donde reﬁere todo el reo de ſu mala
+vida, deſde que à Eſpaña bolviò,
+haa que fue condenado à las
+galeras, y euvo en eas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="581" y="1613"/>
+	<Point x="1417" y="1627"/>
+	<Point x="1432" y="1621"/>
+	<Point x="1429" y="1754"/>
+	<Point x="1421" y="1759"/>
+	<Point x="575" y="1745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITULO I.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="316" y="1781"/>
+	<Point x="1708" y="1781"/>
+	<Point x="1691" y="2094"/>
+	<Point x="1689" y="2083"/>
+	<Point x="1686" y="2105"/>
+	<Point x="291" y="2108"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Deſpedido Guzman de Alfarach del Capitan Fa-
+belo, diziendole yr à Sebia, fe fue à Za-
+regoça, donde biò el arancel de los necios.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="catch-word">
+	<Coords>
+	<Point x="1538" y="2632"/>
+	<Point x="1562" y="2627"/>
+	<Point x="1662" y="2632"/>
+	<Point x="1680" y="2675"/>
+	<Point x="1669" y="2699"/>
+	<Point x="1582" y="2694"/>
+	<Point x="1540" y="2692"/>
+	<Point x="1538" y="2682"/>
+	<Point x="1524" y="2667"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>eos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="drop-capital">
+	<Coords>
+	<Point x="598" y="2140"/>
+	<Point x="667" y="2131"/>
+	<Point x="665" y="2156"/>
+	<Point x="666" y="2212"/>
+	<Point x="666" y="2247"/>
+	<Point x="657" y="2349"/>
+	<Point x="657" y="2368"/>
+	<Point x="659" y="2386"/>
+	<Point x="658" y="2471"/>
+	<Point x="655" y="2475"/>
+	<Point x="642" y="2488"/>
+	<Point x="448" y="2479"/>
+	<Point x="445" y="2478"/>
+	<Point x="436" y="2474"/>
+	<Point x="409" y="2474"/>
+	<Point x="364" y="2472"/>
+	<Point x="355" y="2471"/>
+	<Point x="316" y="2471"/>
+	<Point x="307" y="2465"/>
+	<Point x="314" y="2352"/>
+	<Point x="314" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Q</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="credit">
+	<Coords>
+	<Point x="515" y="2851"/>
+	<Point x="1330" y="2851"/>
+	<Point x="1327" y="2933"/>
+	<Point x="509" y="2930"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="heading">
+	<Coords>
+	<Point x="543" y="356"/>
+	<Point x="543" y="467"/>
+	<Point x="1510" y="467"/>
+	<Point x="1510" y="386"/>
+	<Point x="1494" y="364"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DEL PICARO</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="heading">
+	<Coords>
+	<Point x="829" y="735"/>
+	<Point x="827" y="856"/>
+	<Point x="1210" y="856"/>
+	<Point x="1210" y="737"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="293" y="2483"/>
+	<Point x="311" y="2473"/>
+	<Point x="374" y="2482"/>
+	<Point x="411" y="2490"/>
+	<Point x="413" y="2476"/>
+	<Point x="423" y="2475"/>
+	<Point x="431" y="2483"/>
+	<Point x="453" y="2486"/>
+	<Point x="625" y="2492"/>
+	<Point x="647" y="2490"/>
+	<Point x="661" y="2480"/>
+	<Point x="673" y="2134"/>
+	<Point x="1700" y="2151"/>
+	<Point x="1677" y="2624"/>
+	<Point x="1526" y="2625"/>
+	<Point x="1451" y="2687"/>
+	<Point x="267" y="2662"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>QUANDO con algun ﬁn quiere acre-
+ditar alguno ſu mentira, para traer à ſu
+propoto teigos, buſca una fuente, la-
+go, piedra, metal, arbol, ò yerva con
+quien la prueva, y luego alega que lo di-
+zen los naturales. Dea manera ſeles han levantado mi-
+ares de teimonios, el es el que miente, y cargaſelo à</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r17">
+	<Coords>
+	<Point x="326" y="1524"/>
+	<Point x="326" y="1580"/>
+	<Point x="355" y="1580"/>
+	<Point x="1697" y="1615"/>
+	<Point x="1697" y="1524"/></Coords></SeparatorRegion></Page></PcGts>

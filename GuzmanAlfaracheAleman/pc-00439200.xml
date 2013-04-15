@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439200">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T03:12:48</Created>
+	<LastChange>2011-05-12T13:39:51</LastChange></Metadata>
+	<Page imageFilename="00439200.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="554" y="92"/>
+	<Point x="1497" y="88"/>
+	<Point x="1497" y="161"/>
+	<Point x="561" y="157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="264" y="169"/>
+	<Point x="1712" y="169"/>
+	<Point x="1729" y="2601"/>
+	<Point x="1691" y="2591"/>
+	<Point x="1650" y="2592"/>
+	<Point x="1647" y="2604"/>
+	<Point x="1624" y="2603"/>
+	<Point x="1582" y="2588"/>
+	<Point x="1208" y="2624"/>
+	<Point x="297" y="2628"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>burla de mis palabras, dezia que me fueſse con Dios,
+ò con la maldicion, que ni me conocia, ni ſabia quien
+era, ni como me amava, ni que le pedia. Agora no
+me conoce, ni ſabe quien ſoy, para levantarſe con mi
+hazienda, pues aun tiene juicia Milan, que me harà
+pagar en breve, tres pies à la Francela, El hombre,
+mas negava, diziendo andar yo errado, que podria
+ſer averlo dado à guardar en otra parte, porque ni te-
+nia dinero mio, ni me lo devia, no obante ſer verdad,
+que yo le dixe que ſe lo quiſe dar à guardar: empero
+que no avia buelto con eo, que me fueſse à quexar à
+la juicia en ora buena, y  algo me devieſse, que a-
+no eava para pagarmelo. Con ea reſolucion larguè
+los pliegues à la boca, lançando por ea eſpuma, y à
+grandes gritos, dixe: O traydor, falſo, juicia del cielo
+y de la tierra venga ſobre ti mal hombre, aſ me quie-
+res quitar mi hazienda delante de los ojos, dexandome
+perdido; la vida me has de dar, ò mi dinero. Vengan
+aqui luego mis tres mil eſcudos digo, no ha de apro-
+vecharos el negarlos, que os los tengo de ſacar del al-
+ma, ò me los aveys de poner en tabla, en oro y plata
+como de mi los recebies. Alborotòſe la caſa con los
+que ai avian eado preſentes al caſo, deſde el princi-
+pio. Juntòſe con eos, de los que paavan por la cae,
+y de otros vezinos, tanto numero de gente, aman-
+doſe con el alboroto, los unos à los otros, que ya nos
+ahogavan, y no nos entendiamos. Andavanſe pre-
+guntando unos à otros que vozes eran, ò ſobre que
+reñiamos; aqui y ai lo contavan ciento, y cada uno
+de ſu manera, y noſotros ai dentro, que nos hundia-
+mos con la rehierta. En eo egò un Barguelo, que
+es como Alguazil en Caia, pero, no trae bara, y ha-
+ziendo lugar por medio de la gente, egò donde eava-
+mos, que ya nos ardiamos. Yo quando vì juicia pre-
+ſente, aunque no ſabia quien fueſle, mas de ſer juicia,
+vì mi pleyto hecho, y dixe luego, ſeñores, ya Vs. ms.
+han vio lo que aqui ha paado, y de la manera que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1506" y="2628"/>
+	<Point x="1525" y="2605"/>
+	<Point x="1636" y="2612"/>
+	<Point x="1675" y="2595"/>
+	<Point x="1726" y="2605"/>
+	<Point x="1707" y="2665"/>
+	<Point x="1577" y="2680"/>
+	<Point x="1531" y="2665"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aquee</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="541" y="2872"/>
+	<Point x="1305" y="2862"/>
+	<Point x="1305" y="2931"/>
+	<Point x="534" y="2937"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="307" y="80"/>
+	<Point x="307" y="161"/>
+	<Point x="447" y="161"/>
+	<Point x="447" y="80"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>168</Unicode></TextEquiv></TextRegion></Page></PcGts>

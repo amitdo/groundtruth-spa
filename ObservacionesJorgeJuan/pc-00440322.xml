@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440322">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T07:17:42</Created>
+	<LastChange>2011-12-19T11:39:00</LastChange></Metadata>
+	<Page imageFilename="00440322.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r7" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="677" y="487"/>
+	<Point x="2680" y="476"/>
+	<Point x="2680" y="1609"/>
+	<Point x="1027" y="1596"/>
+	<Point x="1001" y="1609"/>
+	<Point x="673" y="1609"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tierra 17 leguas y media; aunque de eo no ſe haa obſer‐
+vacion mas de la comun opinion. La legua Eſpañola, à lo me-
+nos la que ſe praica en toda Caia, tiene 15000 pies, de
+los que tres hacen una vara Caeana, como cona por las
+medidas que ſe han hecho, para averiguar las juriſdiciones de
+las Audiencias Reales, como ſe ha medido de Madrid haa
+Alcalà de Henares, por ſaber  eava dentro de las cinco le‐
+guas que tienen juriſdicion los alguaziles, para hacer ſus exe‐
+cuciones, y vitas. Lo miſmo ſe ha medido de Vaadolid à
+Tordeas, y la una, y la otra via eàn fuera de las cinco
+leguas, ſegun que cada legua tiene 15000 pies de los que
+avemos dicho.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="680" y="1617"/>
+	<Point x="1010" y="1615"/>
+	<Point x="1037" y="1607"/>
+	<Point x="2683" y="1617"/>
+	<Point x="2683" y="3304"/>
+	<Point x="680" y="3304"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aquì ſe vè claramente de nuevo, como ſe dudaba de
+la magnitud del grado, en tiempo que eſcriviò Ceſpedes;
+y que el hacerle de 17 Leguas y media Eſpañolas no era
+mas de comun opinion, que ſe evaba ciegamente, pues
+dice, que de eo no ſe haaba obſervacion. Tambien ſe
+vè, que la Legua Eſpañola es una medida determinada,
+como la Mia, piè, y pao de los que ſe uſan comun‐
+mente; haviendo de conar de 15000 pies, ò 5000 Varas.
+De ea magnitud la hace aſsimiſmo el Bachier Juan Pe-
+rez de Moya en ſu Tratado de Geometría Praica, y Specula-
+tiva, que eſcriviò el año 1573, donde dice ( Lib. 2 de
+Geometría Cap. 3 pag. 97 ) Legua Eſpañola es cinco mil va‐
+ras, que hacen quince mil pies; y aſsi no queda duda en que
+la vulgar opinion, que mantiene contener el grado 17
+Leguas y media Eſpañolas, debe ſer deſpreciada; y que
+para averiguar, las que juamente encierra, debemos dàr
+por principio ſentado, que la Legua Eſpañola cona de
+5000 Varas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="857" y="3311"/>
+	<Point x="2632" y="3311"/>
+	<Point x="2632" y="3441"/>
+	<Point x="857" y="3441"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dos objecciones, ſolas ſe pueden hacer à eo; la pri‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="985" y="4002"/>
+	<Point x="1965" y="4002"/>
+	<Point x="1965" y="4097"/>
+	<Point x="985" y="4097"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="750" y="395"/>
+	<Point x="747" y="480"/>
+	<Point x="968" y="480"/>
+	<Point x="969" y="395"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>300</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="1283" y="378"/>
+	<Point x="2057" y="378"/>
+	<Point x="2057" y="469"/>
+	<Point x="1283" y="469"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="2477" y="3456"/>
+	<Point x="2477" y="3517"/>
+	<Point x="2628" y="3517"/>
+	<Point x="2628" y="3456"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>me‐</Unicode></TextEquiv></TextRegion></Page></PcGts>

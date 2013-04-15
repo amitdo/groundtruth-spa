@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443025">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T08:30:51</Created>
+	<LastChange>2011-03-15T16:51:33</LastChange></Metadata>
+	<Page imageFilename="00443025.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r5" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="page-number">
+	<Coords>
+	<Point x="344" y="100"/>
+	<Point x="344" y="189"/>
+	<Point x="463" y="189"/>
+	<Point x="463" y="100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>14</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="750" y="68"/>
+	<Point x="750" y="186"/>
+	<Point x="1528" y="186"/>
+	<Point x="1528" y="68"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subida del monte Carmelo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="352" y="207"/>
+	<Point x="352" y="2778"/>
+	<Point x="1844" y="2778"/>
+	<Point x="1844" y="207"/>
+	<Point x="703" y="196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>el cuerpo, eà como una tabla raſa, en que no eà pin-
+tado nada: i no es lo que por los ſentidos va conocien
+do, de otra parte naturalmente no ſe le comunica nada.
+I a entretanto que eà en el cuerpo, eà como el que
+eltà en vna carzel eſcura, que no ſabe nada , no lo que
+ſe puede alcançar a ver por las ventanas de aquella car
+zel; i  por alli no vieſe, por otra parte no veria nada.
+A el alma, no es lo que por los ſentidos ſe le comu-
+nica, que ſon las ventanas de ſu carzel, naturalmento
+por otra via nada alcançaria. Donde  lo que puedo
+recebir por los ſentidos, ella lo deſecha, i niega; bien po-
+dremos dezir, que ſe queda como a eſcuras, i vazia: pues
+ſegun parece por lo dicho, naturalmente no le puede
+entrar luz por otras lumbreras. Porque aunque es ver-
+dad, que no puede dexar de oir, i ver, oler, guar, i ſen-
+tir; pero ca no le haze mas al caſo, ni le embaraça mas
+al alma,  lo niega, i deſecha,   no lo vieſe, i oyeſe.
+Como tambien el que quiere cerrar los ojos, quedarà
+tan à eſcuras, como el ci ego que no tiene potencia pa-
+ra ver. I a ee propoto hablò David, diziendo:
+Pauper ſum ego, &amp; in laboribus à iuventute mea,
+Yo ſoi pobre, i en trabajos deſde mi juventud. I llama-
+ſe pobre, aunque eà claro, que era rico: porque no te-
+nia en las riquezas ſu voluntad, i a era tanto como 
+realmente fuera pobre. Mas antes,  fuera realmente
+pobre, i de voluntad no lo fuera, no era de verdad po-
+bre: pues el alma eaba rica, i llena en el apetito. I por
+eo llamamos a ea deſnudez Noche para el alma, por
+que no tratamos aqui del carecer de las coſas, que eſo
+no deſnuda al alma,  tiene apetito dellas, no dela deſ
+nudez del apetito, i guo dellas, que es lo que dexa al
+alma libre, i vazia, aunque las tenga; porque no ocupan
+al alma las coſas dee mundo, ni la dañan pues no en-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1686" y="2792"/>
+	<Point x="1686" y="2865"/>
+	<Point x="1836" y="2865"/>
+	<Point x="1836" y="2792"/>
+	<Point x="1739" y="2784"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tran</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="778" y="2923"/>
+	<Point x="778" y="3000"/>
+	<Point x="1457" y="3000"/>
+	<Point x="1457" y="2923"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="marginalia">
+	<Coords>
+	<Point x="89" y="1626"/>
+	<Point x="89" y="1842"/>
+	<Point x="339" y="1842"/>
+	<Point x="339" y="1626"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pſal.87.
+16.</Unicode></TextEquiv></TextRegion></Page></PcGts>

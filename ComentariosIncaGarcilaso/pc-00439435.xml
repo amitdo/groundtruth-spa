@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439435">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T15:13:40</Created>
+	<LastChange>2011-06-24T14:04:33</LastChange></Metadata>
+	<Page imageFilename="00439435.tif" imageWidth="2557" imageHeight="4056">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/>
+	<RegionRefIndexed regionRef="r8" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="2109" y="3736"/>
+	<Point x="2109" y="3827"/>
+	<Point x="2381" y="3827"/>
+	<Point x="2381" y="3736"/>
+	<Point x="2251" y="3725"/>
+	<Point x="2202" y="3727"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>io-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="200" y="286"/>
+	<Point x="200" y="705"/>
+	<Point x="2364" y="705"/>
+	<Point x="2364" y="286"/>
+	<Point x="2362" y="256"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ADVERTENCIAS ACER-
+CA DE LA LENGVA GENERAL
+de los Yndios del Peru.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="701" y="870"/>
+	<Point x="2364" y="829"/>
+	<Point x="2413" y="824"/>
+	<Point x="2424" y="1870"/>
+	<Point x="2386" y="3700"/>
+	<Point x="2370" y="3710"/>
+	<Point x="2240" y="3718"/>
+	<Point x="1983" y="3729"/>
+	<Point x="1862" y="3748"/>
+	<Point x="1621" y="3751"/>
+	<Point x="200" y="3754"/>
+	<Point x="189" y="3100"/>
+	<Point x="216" y="1324"/>
+	<Point x="667" y="1343"/>
+	<Point x="681" y="1343"/>
+	<Point x="686" y="1337"/>
+	<Point x="693" y="1338"/>
+	<Point x="690" y="884"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ARA que ſe entienda mejor lo que con el fa-
+uor diuino huuieremos de eſcriuir en ea hio-
+ria, porque en ea hemos de dezir muchos nom-
+bres de la lengua general de los Yndios del Peru,
+ſera bien dar algunas aduertencias acerca dea.
+La primera ſea que tiene tres maneras diuerſas para pronun-
+ciar algunas labas, muy diferentes de como las pronuncia la
+lengua Eſpañola, en las quales pronunciaciones conen las
+diferentes gniﬁcaciones de vn meſmo vocablo: que vnas -
+labas ſe pronuncian en los labios, otras en el paladar, otras en
+lo interior de la garganta, como adelante daremos los exem-
+plos, donde ſe ofrecieren. Para acentuar las diiones ſe aduier
+ta que tienen ſus acentos ca empre en la laba penultima,
+y pocas vezes en la antepenultima, y nunca jamas en la vlti-
+ma: eo es no contra diziendo a los que dizen que las diio
+nes barbaras ſe han de acentuar en la vltima, que lo dizen por
+no ſaber el lenguage. Tambien es de aduertir que en aquea
+lengua general del Cozco (de quien es mi intencion hablar, y
+no de las particulares de cada prouincia, que ſon innumera-
+bles) faltan las letras guientes b.d.f.g. j.jota. l. ſenzia no la
+ay no .duplicada: y al contrario no ay pronunciacion de rr
+duplicada en principio de parte, ni en medio de la diion, -
+no que empre ſe ha de pronunciar ſenzia. Tampoco ay x.
+de manera, que del todo faltan ſeis letras del a.b.c. Eſpañol, o
+Caeano: y podremos dezir que faltan ocho con la l.ſenzi-
+a, y con la rr. duplicada, los Eſpañoles añaden eas letras
+en perjuyzio y corruption del lenguage, y como los Yndios
+no las tienen, comunmente pronuncian mal las diio-
+nes Eſpañolas que las tienen para atajar ea curruption me
+ſea licito, pues ſoy Yndio que en ea hioria yo eſcriua co
+mo Yndio con las miſmas letras, que aqueas tales di-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="drop-capital">
+	<Coords>
+	<Point x="278" y="873"/>
+	<Point x="292" y="875"/>
+	<Point x="670" y="869"/>
+	<Point x="680" y="869"/>
+	<Point x="675" y="1306"/>
+	<Point x="675" y="1315"/>
+	<Point x="612" y="1312"/>
+	<Point x="256" y="1310"/>
+	<Point x="229" y="1295"/>
+	<Point x="241" y="866"/>
+	<Point x="276" y="870"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="915" y="3931"/>
+	<Point x="915" y="4028"/>
+	<Point x="1839" y="4028"/>
+	<Point x="1839" y="3931"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

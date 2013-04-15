@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444161">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:35:35</Created>
+	<LastChange>2011-12-19T11:39:29</LastChange></Metadata>
+	<Page imageFilename="00444161.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="360" y="96"/>
+	<Point x="1490" y="89"/>
+	<Point x="1504" y="210"/>
+	<Point x="1173" y="215"/>
+	<Point x="359" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="187" y="234"/>
+	<Point x="1768" y="233"/>
+	<Point x="1766" y="2639"/>
+	<Point x="1376" y="2655"/>
+	<Point x="1348" y="2623"/>
+	<Point x="1161" y="2631"/>
+	<Point x="1092" y="2655"/>
+	<Point x="175" y="2672"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>las que algunas vezes ſe egã a mi de las her-
+manas, que ya mas lo entienden. Y las canias
+muy abiertas, y las manos tan yertas que yo
+no las puedo algunas vezes juntar, y an me
+queda dolor haa otro dia en los pulſos y en
+el cuerpo, que parece me han deſcoyuntado.
+Yo bien pienſo alguna vez ha de ſer el Señor
+ſeruido,  va adelãte como aora, que ſe acabe
+con acabar la vida, que a mi parecer baante
+es tan grande pena para eo, no que no lo
+merezco yo. Toda la ana es morirme enton
+ces, ni me acuerdo de purgatorio, de los gran-
+des peccados que he hecho por donde mere-
+cia el inﬁerno, todo ſe me oluida con aquea
+ana de ver a Dios, y aquel deerto y ſoledad
+le parece mejor que toda la cõpañia del mun
+do. Si algo le podria dar conſuelo, es tratar cõ
+quien vuiee paado por ee tormẽto, y ver
+que aunque ſe quexe del nadie, le parece la
+ha de creer. Tambien la atormenta, que ea
+pena es tan crecida, que no querria ſoledad
+como otras ni compañia, no con quien ſe
+pueda quexar. Es como vno que tiene la ſo-
+ga a la garganta, y ſe ea ahogando, que pro-
+cura tomar huelgo, an me parece que ee
+deeo de compañia es de nuera: ﬂaqueza,
+que como nos pone la pena en peligro de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1507" y="2653"/>
+	<Point x="1739" y="2654"/>
+	<Point x="1738" y="2726"/>
+	<Point x="1460" y="2725"/>
+	<Point x="1479" y="2661"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>muerte</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="600" y="3041"/>
+	<Point x="1591" y="3041"/>
+	<Point x="1591" y="3161"/>
+	<Point x="600" y="3161"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="1164" y="2635"/>
+	<Point x="1150" y="2737"/>
+	<Point x="1327" y="2737"/>
+	<Point x="1325" y="2644"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P 5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1595" y="133"/>
+	<Point x="1595" y="225"/>
+	<Point x="1766" y="225"/>
+	<Point x="1766" y="133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>233</Unicode></TextEquiv></TextRegion></Page></PcGts>

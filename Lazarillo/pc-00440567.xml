@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440567">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T06:52:50</Created>
+	<LastChange>2011-07-05T14:26:06</LastChange></Metadata>
+	<Page imageFilename="00440567.tif" imageWidth="880" imageHeight="1599">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="credit">
+	<Coords>
+	<Point x="284" y="1551"/>
+	<Point x="574" y="1551"/>
+	<Point x="574" y="1587"/>
+	<Point x="284" y="1587"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="36" y="78"/>
+	<Point x="780" y="77"/>
+	<Point x="782" y="1499"/>
+	<Point x="42" y="1501"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ñor Arcipree todo lo que puedo
+deſear entre año le da cerca de
+vna carga de trigo: a las paſcuas ſu
+carne : otras vezes vn par de bodi-
+gos, n olbidar ſus calças viejas.
+Hizo nos alquilar vna calla cerca
+dela ſuya : los domingos, y ﬁeas
+com amos en ſu caſa, mas malas
+lenguas, que nunca faltan, no nos
+dexaban biuir, diziendo, no ſe
+que, y  ſeque, que veyan a mi mu-
+ger yrle a hazer la cama, y guiſal-
+le de comer, y aun mas adelante,
+y mejor les ayude Dios que ellos
+dizen la verdad, porque allende
+de no ſer ella muger deſo, mi ſe-
+ñor me prometio, lo que pienſo
+que cumplio, diziendome, Lȃza-
+ro de Tormes, qui en ha de mirar
+a dichos de malas lenguas, nunca
+medrara : digo eo porque no me
+marauillaria alguno viendo en-
+trar en mi caſa a tu muger, y ſalir
+della murmurae. Ella entra con</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="59" y="20"/>
+	<Point x="656" y="20"/>
+	<Point x="656" y="73"/>
+	<Point x="59" y="74"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LAZAR. DE TORM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="680" y="24"/>
+	<Point x="760" y="24"/>
+	<Point x="760" y="74"/>
+	<Point x="680" y="74"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>113</Unicode></TextEquiv></TextRegion></Page></PcGts>

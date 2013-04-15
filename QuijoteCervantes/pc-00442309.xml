@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442309">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T17:00:44</Created>
+	<LastChange>2012-03-12T14:11:50</LastChange></Metadata>
+	<Page imageFilename="00442309.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="461" y="2309"/>
+	<Point x="1132" y="2309"/>
+	<Point x="1126" y="2351"/>
+	<Point x="1025" y="2350"/>
+	<Point x="1022" y="2356"/>
+	<Point x="1016" y="2356"/>
+	<Point x="1012" y="2351"/>
+	<Point x="465" y="2349"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="132" y="141"/>
+	<Point x="496" y="147"/>
+	<Point x="523" y="143"/>
+	<Point x="554" y="142"/>
+	<Point x="609" y="149"/>
+	<Point x="627" y="137"/>
+	<Point x="665" y="134"/>
+	<Point x="718" y="136"/>
+	<Point x="877" y="135"/>
+	<Point x="1393" y="141"/>
+	<Point x="1368" y="2108"/>
+	<Point x="1276" y="2112"/>
+	<Point x="1274" y="2113"/>
+	<Point x="1245" y="2109"/>
+	<Point x="963" y="2102"/>
+	<Point x="898" y="2127"/>
+	<Point x="870" y="2122"/>
+	<Point x="804" y="2120"/>
+	<Point x="376" y="2120"/>
+	<Point x="124" y="2119"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>entrò en el pueblo, y en la caſa de don Quixote, la
+qual haò toda alborotada: y eauan en ea el cu-
+ra, y el barbero del lugar, que eran grandes ami-
+gos de don Quixote, que eaua diziendoles ſu ama
+avozes: Que le parece a vuera merced, ſeñor Li-
+cẽciado Pero Perez (que aſsi ſe amaua el cura) de
+la deſgracia de mi ſeñor: tres dias ha que no parecẽ,
+el ni el rozin, ni la adarga, ni la lança, ni las armas:
+deſuẽturada de mi, que me doy a entender, y aſsi es
+eo la verdad, como naci para morir, que eos mal
+ditos libros de cauaerias que el tiene, y ſuele leer
+tan de ordinario, le han buelto el juyzio:  aora me
+acuerdo auerle oydo dezir muchas vezes hablando
+entre, que queria hazerſe cauaero andãte, è yrſe
+a buſcar las auenturas por eos mundos. Encomen-
+dados ſean a Satanas, ya Barrabas tales libros, que
+aſsi han echado a perder el mas delicado enten-
+dimiento que auia en toda la Mancha. La ſobrina
+dezia lo meſmo, y aun dezia mas: Sepa ſeñor Maeſe
+Nicolas (que ee era el nombre del barbero) que
+muchas vezes le acontecio a mi ſeñor tio, earſe
+leyendo en eos deſalmados libros de deſuentu-
+ras dos dias con ſus noches, al cabo de los quales,
+arrojaua el libro de las manos, y ponia mano a la eſ-
+pada, y andaua a cuchiadas con las paredes, y quan
+do eaua muy canſado, dezia que auia muerto a
+quatro Gigantes como quatro torres, y el ſudor
+que ſudaua del canſancio, dezia que era ſangre de
+las feridas que auia recebido en la bataa, y be-
+uiae luego vn gran jarro de agua fria, y que-
+daua ſano y ſoegado, diziendo que aquea agua,
+era vna precioſsima beuida que le auia traydo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1228" y="2111"/>
+	<Point x="1224" y="2165"/>
+	<Point x="1359" y="2173"/>
+	<Point x="1351" y="2120"/>
+	<Point x="1316" y="2114"/>
+	<Point x="1274" y="2114"/>
+	<Point x="1261" y="2112"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>el ſa-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="signature-mark">
+	<Coords>
+	<Point x="941" y="2113"/>
+	<Point x="938" y="2161"/>
+	<Point x="991" y="2163"/>
+	<Point x="985" y="2108"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="503" y="41"/>
+	<Point x="1064" y="41"/>
+	<Point x="1060" y="122"/>
+	<Point x="623" y="119"/>
+	<Point x="594" y="142"/>
+	<Point x="509" y="126"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="page-number">
+	<Coords>
+	<Point x="1286" y="66"/>
+	<Point x="1362" y="67"/>
+	<Point x="1352" y="132"/>
+	<Point x="1277" y="128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>17</Unicode></TextEquiv></TextRegion></Page></PcGts>

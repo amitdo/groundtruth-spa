@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444559">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T14:34:36</Created>
+	<LastChange>2011-03-05T11:21:15</LastChange></Metadata>
+	<Page imageFilename="00444559.tif" imageWidth="2613" imageHeight="3944">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/>
+	<RegionRefIndexed regionRef="r8" index="2"/>
+	<RegionRefIndexed regionRef="r13" index="3"/>
+	<RegionRefIndexed regionRef="r11" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="490" y="256"/>
+	<Point x="483" y="322"/>
+	<Point x="693" y="324"/>
+	<Point x="695" y="256"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LXXII</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="980" y="243"/>
+	<Point x="985" y="324"/>
+	<Point x="995" y="326"/>
+	<Point x="1919" y="326"/>
+	<Point x="1919" y="246"/>
+	<Point x="1446" y="238"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DISCURSO PROEMIAL</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="catch-word">
+	<Coords>
+	<Point x="2282" y="3687"/>
+	<Point x="2288" y="3751"/>
+	<Point x="2398" y="3751"/>
+	<Point x="2398" y="3687"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vo-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="credit">
+	<Coords>
+	<Point x="826" y="3845"/>
+	<Point x="826" y="3931"/>
+	<Point x="1768" y="3931"/>
+	<Point x="1768" y="3845"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="437" y="347"/>
+	<Point x="441" y="343"/>
+	<Point x="429" y="375"/>
+	<Point x="447" y="572"/>
+	<Point x="592" y="569"/>
+	<Point x="633" y="590"/>
+	<Point x="688" y="563"/>
+	<Point x="1405" y="562"/>
+	<Point x="1500" y="517"/>
+	<Point x="1506" y="518"/>
+	<Point x="2441" y="505"/>
+	<Point x="2460" y="343"/>
+	<Point x="2296" y="335"/>
+	<Point x="1981" y="332"/>
+	<Point x="836" y="332"/>
+	<Point x="485" y="335"/>
+	<Point x="437" y="333"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de que ò precede à vocál: como Yace, Yerro, Yantar, ò eá entre dos vocá-
+les: como Ayuda, Ayer, Arroyo, es clara la diferéncia para poder uſar de
+ea ſeguramente como conſonante.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="444" y="585"/>
+	<Point x="438" y="800"/>
+	<Point x="934" y="802"/>
+	<Point x="949" y="811"/>
+	<Point x="963" y="817"/>
+	<Point x="987" y="814"/>
+	<Point x="1011" y="802"/>
+	<Point x="1649" y="803"/>
+	<Point x="1836" y="819"/>
+	<Point x="1853" y="820"/>
+	<Point x="1875" y="814"/>
+	<Point x="1891" y="807"/>
+	<Point x="2032" y="805"/>
+	<Point x="2328" y="783"/>
+	<Point x="2335" y="770"/>
+	<Point x="2451" y="782"/>
+	<Point x="2460" y="578"/>
+	<Point x="688" y="572"/>
+	<Point x="647" y="604"/>
+	<Point x="606" y="592"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>29 El repáro mayor es acerca de la Y, como conjunción; pero el uſo
+común lo tiene tan aentado, que en algunos Autóres, que han uſado de
+la l Latina en ſu lugar, ha do notado como extravagáncia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="460" y="820"/>
+	<Point x="417" y="3264"/>
+	<Point x="829" y="3255"/>
+	<Point x="1175" y="3255"/>
+	<Point x="1188" y="3264"/>
+	<Point x="1207" y="3267"/>
+	<Point x="1223" y="3252"/>
+	<Point x="1558" y="3257"/>
+	<Point x="1811" y="3264"/>
+	<Point x="1824" y="3277"/>
+	<Point x="1840" y="3274"/>
+	<Point x="1851" y="3257"/>
+	<Point x="2091" y="3262"/>
+	<Point x="2402" y="3201"/>
+	<Point x="2423" y="3199"/>
+	<Point x="2437" y="819"/>
+	<Point x="2151" y="812"/>
+	<Point x="1894" y="820"/>
+	<Point x="1862" y="820"/>
+	<Point x="1851" y="822"/>
+	<Point x="1841" y="825"/>
+	<Point x="1827" y="834"/>
+	<Point x="1659" y="817"/>
+	<Point x="1640" y="829"/>
+	<Point x="1476" y="816"/>
+	<Point x="1180" y="814"/>
+	<Point x="1038" y="817"/>
+	<Point x="977" y="823"/>
+	<Point x="957" y="818"/>
+	<Point x="932" y="820"/>
+	<Point x="894" y="814"/>
+	<Point x="884" y="814"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>30 El uſo de la B, y de la V cauſa mua confuón, nacida de que
+los Eſpañóles, como no hacémos diinción en la pronunciación de eas
+dos letras, igualmente nos hemos valido yá de la B, yá de la V, n el me-
+nor repáro. Para aanar ee embarazo al parecer no poco árduo, y que
+algunos le han reputado por impoſsible de vencer en el génio de nuera
+Nación, ſe debe atender lo priméro al orígen de donde proceden las pa-
+labras, porque  ſalen de voz eſcrita con B: como Barba, Beber, Bizcoo,
+Boca, Bueno, que conocidamente vienen de las Latinas Barba, Bibere, Biſ-
+cous, Bucca, Bonus, ſe deben eſcribir con B: y  vienen de voz eſcrita con
+V, ſe deben eſcribir con ea: como Vanidád, Vida, Vena, Voluntad, Vulgo,
+que ſalen de las Latinas Vanitas, Vena, Vita, Voluntas, Vulgus. Por ea ra-
+zón todos los pretéritos imperfeos de indicativo no ſe deben eſcribir con
+V, como de ordinário ſe hace, no con B, diciendo Amaba, Enſeñaba,
+Cantaba, Hablaba, Oraba, &amp;c. porque ſalen del Latino Amabam, Docebam,
+Canebam, Loquebar, Orabam. Eo ſe debe obſervar en qualeſquiera diccio-
+nes enteramente, y no con la bárbara diinción que ha introducido la
+ignoráncia de que no ha de haver dos BB, ù dos VV en una palabra, por-
+que  en ſu raíz las tienen: como en Barba, Beber, Barbaridád, Volver, Vi-
+vir, qué motívo ſe puede dár para eſcribir Barva, Bever, Barvaridád, Bol-
+ver, Bivir, ò al contrário Varba, Veber, Varbaridád, Volber, Vibir. Lo ſe-
+gundo ſe debe mirar para el uſo de la B  en el orígen de las palabras hai
+P, porque  la tienen no ſe debe uſar de la V, y la razón es, porque la B
+tiene tanta hermandád en el modo de pronunciarſe con la P, que ſe equi-
+vocan: y aſsi ſe debe eſcribir Cabeza, Cabeo, Concebir, Percebir, Lobo, por-
+que ſalen de Caput, Capius, Concipere, Percipere, Lupus. Lo tercero todas
+las veces que ſe guen y juntan antes de la vocál la L, ò la R, ſe debe uſar
+de B, y no de V: como en Amable, Endeble, Apacible, Doble, Poblado, Nu-
+blado, Hombre, Abrir, Bronce, Bruto, Bravo, Abreviar, y aſsi otrasmuas
+palabras. Lo quarto empre ſe debe uſar de la B quando no ſe ſabe cierta-
+mente, ò ſe duda del orígen de las dicciones, porque es mas connaturál à
+nuera manéra de hablar la pronunciación de la B, que de la V.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="435" y="3284"/>
+	<Point x="420" y="3664"/>
+	<Point x="2066" y="3676"/>
+	<Point x="2310" y="3677"/>
+	<Point x="2429" y="3670"/>
+	<Point x="2424" y="3271"/>
+	<Point x="1888" y="3272"/>
+	<Point x="1841" y="3288"/>
+	<Point x="1791" y="3272"/>
+	<Point x="1774" y="3270"/>
+	<Point x="1555" y="3264"/>
+	<Point x="1236" y="3267"/>
+	<Point x="1172" y="3275"/>
+	<Point x="859" y="3281"/>
+	<Point x="823" y="3267"/>
+	<Point x="684" y="3268"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>31 Igual, y aun mayor diverdád ſe ha conderado entre la ç, y la Z,
+ſobre cuyo uſo ha havido, y hai notable variedád y diſpúta: porque unos
+ſon de diámen de que la ç, como letra própria y eſpeciál de la Léngua
+Caeana, debe ſer en todo preferida, y por el contrário otros la preten-
+den excluir, por ſer letra defeuoſa, y ocaonada à ridiculas y raras equi-</Unicode></TextEquiv></TextRegion></Page></PcGts>

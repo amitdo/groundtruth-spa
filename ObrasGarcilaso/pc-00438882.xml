@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438882">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T07:50:25</Created>
+	<LastChange>2011-06-24T14:04:22</LastChange></Metadata>
+	<Page imageFilename="00438882.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r11" index="0"/>
+	<RegionRefIndexed regionRef="r13" index="1"/>
+	<RegionRefIndexed regionRef="r16" index="2"/>
+	<RegionRefIndexed regionRef="r18" index="3"/>
+	<RegionRefIndexed regionRef="r9" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="200" y="80"/>
+	<Point x="976" y="80"/>
+	<Point x="978" y="177"/>
+	<Point x="195" y="178"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GARCILASSO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="955" y="2043"/>
+	<Point x="1192" y="2041"/>
+	<Point x="1198" y="2057"/>
+	<Point x="1195" y="2106"/>
+	<Point x="1037" y="2105"/>
+	<Point x="1001" y="2105"/>
+	<Point x="986" y="2108"/>
+	<Point x="970" y="2112"/>
+	<Point x="957" y="2111"/>
+	<Point x="950" y="2098"/>
+	<Point x="950" y="2083"/>
+	<Point x="953" y="2053"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y muer-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="504" y="2106"/>
+	<Point x="809" y="2104"/>
+	<Point x="816" y="2104"/>
+	<Point x="944" y="2103"/>
+	<Point x="953" y="2106"/>
+	<Point x="953" y="2112"/>
+	<Point x="971" y="2113"/>
+	<Point x="971" y="2138"/>
+	<Point x="504" y="2135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="112" y="191"/>
+	<Point x="68" y="200"/>
+	<Point x="57" y="219"/>
+	<Point x="57" y="265"/>
+	<Point x="67" y="338"/>
+	<Point x="65" y="386"/>
+	<Point x="72" y="408"/>
+	<Point x="232" y="413"/>
+	<Point x="720" y="405"/>
+	<Point x="734" y="417"/>
+	<Point x="757" y="413"/>
+	<Point x="767" y="423"/>
+	<Point x="789" y="428"/>
+	<Point x="798" y="408"/>
+	<Point x="869" y="408"/>
+	<Point x="871" y="419"/>
+	<Point x="897" y="428"/>
+	<Point x="908" y="409"/>
+	<Point x="1160" y="408"/>
+	<Point x="1201" y="390"/>
+	<Point x="1202" y="331"/>
+	<Point x="1113" y="323"/>
+	<Point x="964" y="317"/>
+	<Point x="931" y="236"/>
+	<Point x="900" y="193"/>
+	<Point x="853" y="186"/>
+	<Point x="656" y="187"/>
+	<Point x="117" y="187"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que la dioſa temia de egarſe,
+el no podia hartarſe de miraa,
+de eternamente amaa, proponiendo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="1053" y="84"/>
+	<Point x="1060" y="184"/>
+	<Point x="1168" y="175"/>
+	<Point x="1168" y="84"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>72</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="50" y="415"/>
+	<Point x="23" y="415"/>
+	<Point x="16" y="442"/>
+	<Point x="12" y="486"/>
+	<Point x="50" y="498"/>
+	<Point x="67" y="500"/>
+	<Point x="69" y="541"/>
+	<Point x="65" y="582"/>
+	<Point x="65" y="1065"/>
+	<Point x="73" y="1126"/>
+	<Point x="84" y="1161"/>
+	<Point x="93" y="1168"/>
+	<Point x="100" y="1183"/>
+	<Point x="105" y="1184"/>
+	<Point x="100" y="1183"/>
+	<Point x="113" y="1184"/>
+	<Point x="136" y="1176"/>
+	<Point x="150" y="1167"/>
+	<Point x="264" y="1173"/>
+	<Point x="345" y="1176"/>
+	<Point x="486" y="1173"/>
+	<Point x="641" y="1175"/>
+	<Point x="756" y="1175"/>
+	<Point x="1093" y="1183"/>
+	<Point x="1158" y="1200"/>
+	<Point x="1152" y="1091"/>
+	<Point x="1192" y="1088"/>
+	<Point x="1154" y="1063"/>
+	<Point x="1168" y="1049"/>
+	<Point x="1171" y="1020"/>
+	<Point x="1175" y="1001"/>
+	<Point x="1172" y="972"/>
+	<Point x="1147" y="897"/>
+	<Point x="1189" y="854"/>
+	<Point x="1200" y="786"/>
+	<Point x="1142" y="484"/>
+	<Point x="1119" y="420"/>
+	<Point x="1072" y="417"/>
+	<Point x="1012" y="412"/>
+	<Point x="986" y="417"/>
+	<Point x="927" y="423"/>
+	<Point x="915" y="430"/>
+	<Point x="904" y="435"/>
+	<Point x="878" y="435"/>
+	<Point x="846" y="421"/>
+	<Point x="828" y="420"/>
+	<Point x="804" y="426"/>
+	<Point x="789" y="435"/>
+	<Point x="765" y="438"/>
+	<Point x="749" y="428"/>
+	<Point x="731" y="420"/>
+	<Point x="695" y="419"/>
+	<Point x="663" y="421"/>
+	<Point x="619" y="419"/>
+	<Point x="558" y="426"/>
+	<Point x="341" y="420"/>
+	<Point x="249" y="424"/>
+	<Point x="56" y="420"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Luego venia corriendo Marte ayrado,
+morandoſe alterado en la perſona,
+y daua vna corona à don Fernando,
+y eauale morando vn Cauaero,
+que con ſemblante ﬁero amenazaua
+al moço, que quitaua el nõbre a todos:
+con atentados modos ſe mouia
+contra el que le atendia en vna puente,
+moraua claramente la pintura,
+que acaſo noche eſcura entonces era,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="marginalia">
+	<Coords>
+	<Point x="1179" y="978"/>
+	<Point x="1189" y="966"/>
+	<Point x="1211" y="966"/>
+	<Point x="1240" y="965"/>
+	<Point x="1269" y="965"/>
+	<Point x="1279" y="979"/>
+	<Point x="1273" y="995"/>
+	<Point x="1271" y="1007"/>
+	<Point x="1279" y="1058"/>
+	<Point x="1248" y="1058"/>
+	<Point x="1200" y="1056"/>
+	<Point x="1183" y="1047"/>
+	<Point x="1179" y="1037"/>
+	<Point x="1175" y="1027"/>
+	<Point x="1174" y="1022"/>
+	<Point x="1175" y="1012"/>
+	<Point x="1176" y="1005"/>
+	<Point x="1178" y="1000"/>
+	<Point x="1176" y="987"/>
+	<Point x="1176" y="986"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>177</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="16" y="1177"/>
+	<Point x="87" y="1177"/>
+	<Point x="93" y="1194"/>
+	<Point x="136" y="1181"/>
+	<Point x="153" y="1189"/>
+	<Point x="194" y="1184"/>
+	<Point x="1066" y="1186"/>
+	<Point x="1074" y="1271"/>
+	<Point x="1225" y="1282"/>
+	<Point x="1228" y="1564"/>
+	<Point x="945" y="1560"/>
+	<Point x="917" y="1583"/>
+	<Point x="901" y="1559"/>
+	<Point x="132" y="1553"/>
+	<Point x="131" y="1568"/>
+	<Point x="110" y="1567"/>
+	<Point x="108" y="1548"/>
+	<Point x="86" y="1547"/>
+	<Point x="81" y="1263"/>
+	<Point x="17" y="1260"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De la bataa ﬁera era teigo
+Marte, que al enemigo condenaua,
+y al moço coronaua en el ﬁn dea:
+el qual como la erea relumbrante,
+que el Sol embia delante reſplandece.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="28" y="1555"/>
+	<Point x="98" y="1556"/>
+	<Point x="107" y="1576"/>
+	<Point x="128" y="1578"/>
+	<Point x="148" y="1561"/>
+	<Point x="894" y="1571"/>
+	<Point x="917" y="1591"/>
+	<Point x="943" y="1572"/>
+	<Point x="1128" y="1585"/>
+	<Point x="1129" y="1835"/>
+	<Point x="1202" y="1881"/>
+	<Point x="1196" y="2025"/>
+	<Point x="62" y="2038"/>
+	<Point x="72" y="1648"/>
+	<Point x="32" y="1634"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De ai ſu nombre crece, y ſe derrama
+ſu valeroſa fama a todas partes.
+Luego con nueuas artes ſe conuierte
+a hurtar a la muerte, y a ſu abyſmo
+gran parte de  miſmo, y quedar viuo,
+quando el vulgo cautiuo le orare,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="marginalia">
+	<Coords>
+	<Point x="1189" y="1735"/>
+	<Point x="1172" y="1747"/>
+	<Point x="1181" y="1793"/>
+	<Point x="1189" y="1831"/>
+	<Point x="1302" y="1831"/>
+	<Point x="1302" y="1735"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>178</Unicode></TextEquiv></TextRegion></Page></PcGts>

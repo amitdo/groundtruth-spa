@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444145">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:03:25</Created>
+	<LastChange>2011-12-19T11:39:28</LastChange></Metadata>
+	<Page imageFilename="00444145.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="367" y="71"/>
+	<Point x="1556" y="71"/>
+	<Point x="1552" y="201"/>
+	<Point x="759" y="189"/>
+	<Point x="706" y="190"/>
+	<Point x="376" y="193"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="175" y="197"/>
+	<Point x="897" y="202"/>
+	<Point x="1094" y="202"/>
+	<Point x="1794" y="219"/>
+	<Point x="1760" y="2606"/>
+	<Point x="1229" y="2640"/>
+	<Point x="1175" y="2618"/>
+	<Point x="896" y="2630"/>
+	<Point x="138" y="2653"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>racion y perſecucion de golpe, ya mi pare-
+cer con mucha cauſa, y an no tomaua con
+nadie enemiad, no ſuplicauaos a vos
+miraedes la razon que tenian. Dezian
+que me queria hazer ſanta, y que inuenta-
+ua nouedades no auiendo egado entonces
+con gran parte aun a cumplir toda mi re-
+gla, ni a las muy buenas y ſantas monjas  en
+caſa auia, ni creo egare  Dios por ſu
+bondad no lo haze todo de ſu parte, no
+antes lo era yo, para quitar lo bueno y po-
+ner coumbres que no lo eran, alomenos
+hazia lo que podia para ponerlas, y en el
+mal podia mucho. An que n culpa ſuya
+me culpauan, no digo eran ſolo mon-
+jas, no otras perſonas, deſcubrianme
+verdades, porque lo permitiades vos. Vna
+vez rezando las horas, como yo algunas
+tenia ea tentacion, egue al verſo que
+dize: iuus es Domine, y tus juyzios:
+comence a penſar quanta verdad era (que
+en eo no tenia fuerças el demonio jamas
+para tentarme, de manera que yo dudaſ-
+ſe: teneys vos mi Señor todos los bienes,
+ni en ninguna coſa de la fe, antes me pa-
+recia, mientras mas n camino natural
+yuan, mas ﬁrme la tenia, y me daua de-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1415" y="2635"/>
+	<Point x="1602" y="2623"/>
+	<Point x="1717" y="2619"/>
+	<Point x="1715" y="2712"/>
+	<Point x="1415" y="2709"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>uocion</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="596" y="3043"/>
+	<Point x="1586" y="3050"/>
+	<Point x="1587" y="3155"/>
+	<Point x="593" y="3153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1576" y="90"/>
+	<Point x="1576" y="207"/>
+	<Point x="1779" y="207"/>
+	<Point x="1779" y="90"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>217</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1131" y="2626"/>
+	<Point x="1127" y="2707"/>
+	<Point x="1297" y="2719"/>
+	<Point x="1303" y="2644"/>
+	<Point x="1228" y="2642"/>
+	<Point x="1175" y="2620"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O 5</Unicode></TextEquiv></TextRegion></Page></PcGts>

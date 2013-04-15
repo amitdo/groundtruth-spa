@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440320">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T07:17:20</Created>
+	<LastChange>2011-12-19T11:39:00</LastChange></Metadata>
+	<Page imageFilename="00440320.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="702" y="488"/>
+	<Point x="2669" y="488"/>
+	<Point x="2675" y="1245"/>
+	<Point x="2447" y="1254"/>
+	<Point x="2369" y="1272"/>
+	<Point x="2334" y="1274"/>
+	<Point x="2279" y="1257"/>
+	<Point x="2167" y="1254"/>
+	<Point x="1980" y="1268"/>
+	<Point x="1910" y="1252"/>
+	<Point x="727" y="1228"/>
+	<Point x="702" y="1227"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Legua es una medida conante, è invariable, y en tal
+caſo vèr quantas de eas entran en el grado, n dexarnos
+evar ciegamente, como los mas Authores lo han hecho
+en eo; ò bien al contrario, ſaber de cierto,  debe con‐
+tener el grado las 17 Leguas y media Eſpañolas, como ſe
+cree comunmente, y en ee ultimo caſo inquirir la magni‐
+tud de la Legua; pues ambas coſas ſe pueden deducir, co‐
+mo lo hemos hecho arriba, dada la magnitud del grado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="704" y="1242"/>
+	<Point x="1403" y="1247"/>
+	<Point x="1608" y="1252"/>
+	<Point x="1878" y="1256"/>
+	<Point x="1976" y="1278"/>
+	<Point x="2167" y="1262"/>
+	<Point x="2256" y="1261"/>
+	<Point x="2315" y="1279"/>
+	<Point x="2365" y="1282"/>
+	<Point x="2437" y="1269"/>
+	<Point x="2499" y="1266"/>
+	<Point x="2675" y="1267"/>
+	<Point x="2676" y="3432"/>
+	<Point x="2531" y="3433"/>
+	<Point x="2483" y="3433"/>
+	<Point x="2474" y="3443"/>
+	<Point x="2461" y="3449"/>
+	<Point x="702" y="3425"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Entre varios Authores, que he procurado examinar
+ſobre ee aumpto, el que ſe explica con mas claridad, es
+Andrès Garcia de Ceſpedes en ſu Hydrographía, que eſcriviò
+de Orden del Rey en 1606; pues en el Capitulo 21 dice:
+Porque los grados de longitud que ay de unas partes à otras,
+algunas veces, quando no ſe haava otro mejor medio, ſe
+regulavan por las leguas que ſe haavan de la una parte à la
+otra, tomando por cada grado 17 leguas y media, como co‐
+munmente ſe toman en Eſpaña: y porque ea ſuma de le‐
+guas aun no eà bien averiguada, he querido poner el modo
+como eo ſe podrà averiguar. Para la inteligencia de eo,
+que dice Ceſpedes, es meneer eàr, en que los grados,
+que ſe caminan en el Mar Norte Sur, ſe determinan juſ‐
+tamente por las Obſervaciones de Latitud; pero los de
+Longitud, no ſe conocen por otro medio, que por la
+eimativa, ò juicio prudente de las Varas, que ſe an‐
+dan, atendiendo, à que cada grado debe comprehender
+cierto numero de Varas, ò Leguas; y por eo dice, que
+los grados de Longitud ſe regulaban por las Leguas, que
+ſe haaban de una parte à otra. Segun eo pues, dà co‐
+mo coſa aentada Ceſpedes, que la Legua es una cierta
+magnitud determinada, è independiente del grado, pues
+que ſegun ea ſe regulaban los grados; y no como pien‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="981" y="4002"/>
+	<Point x="1968" y="4002"/>
+	<Point x="1968" y="4102"/>
+	<Point x="981" y="4102"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="780" y="388"/>
+	<Point x="780" y="483"/>
+	<Point x="940" y="483"/>
+	<Point x="940" y="388"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>298</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="1292" y="383"/>
+	<Point x="1292" y="478"/>
+	<Point x="2064" y="478"/>
+	<Point x="2064" y="383"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="2511" y="3438"/>
+	<Point x="2511" y="3519"/>
+	<Point x="2628" y="3519"/>
+	<Point x="2628" y="3438"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſan</Unicode></TextEquiv></TextRegion></Page></PcGts>

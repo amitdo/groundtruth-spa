@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440375">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T10:57:25</Created>
+	<LastChange>2011-12-19T11:39:07</LastChange></Metadata>
+	<Page imageFilename="00440375.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r16" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r13" type="credit">
+	<Coords>
+	<Point x="987" y="4002"/>
+	<Point x="1969" y="4002"/>
+	<Point x="1969" y="4094"/>
+	<Point x="987" y="4094"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="page-number">
+	<Coords>
+	<Point x="729" y="419"/>
+	<Point x="720" y="496"/>
+	<Point x="787" y="503"/>
+	<Point x="922" y="501"/>
+	<Point x="922" y="419"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>352</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="1219" y="403"/>
+	<Point x="1222" y="492"/>
+	<Point x="2029" y="500"/>
+	<Point x="2029" y="403"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="catch-word">
+	<Coords>
+	<Point x="2417" y="3541"/>
+	<Point x="2420" y="3634"/>
+	<Point x="2594" y="3637"/>
+	<Point x="2591" y="3554"/>
+	<Point x="2492" y="3554"/>
+	<Point x="2476" y="3541"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Con</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="648" y="512"/>
+	<Point x="707" y="506"/>
+	<Point x="729" y="509"/>
+	<Point x="755" y="508"/>
+	<Point x="797" y="506"/>
+	<Point x="835" y="510"/>
+	<Point x="863" y="517"/>
+	<Point x="921" y="517"/>
+	<Point x="932" y="501"/>
+	<Point x="2617" y="504"/>
+	<Point x="2610" y="3540"/>
+	<Point x="2513" y="3537"/>
+	<Point x="2368" y="3527"/>
+	<Point x="1253" y="3599"/>
+	<Point x="1218" y="3601"/>
+	<Point x="648" y="3608"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>deſde el Parrafo 895 haa el 899, donde lo puede vèr el
+curioſo, pues aquì baarà decir, que cone, en que ſu‐
+poniendo
+V = al Seno del arco de quien ſe buſcan las partes
+Meridionales en la Elipſoide
+T = à la Tangente de la mitad del complemento del
+miſmo arco
+b = à el Radio del Equador
+a = à el Semi-Exe
+c = (b²-a²)½
+u = c/b V = à el Seno de otro arco
+t = à la Tangente de la mitad del complemento del
+arco antecedente
+el Logarithmo Hyperbolico de � ſeràn las partes Meri‐
+dionales del arco, cuyo Seno es V en la Eſphera; y el Lo‐
+garithmo Hyperbolico de �, menos el Logarithmo Hy‐
+perbolico de �, multiplicado por �, ſeràn las partes Me-
+ridionales del arco, cuyo Seno es V en la Elipſoide; de
+donde conluye en methodo facil, de deducir las partes
+Meridionales de la Elipſoide, por las yà conruìdas de la
+Eſphera; porque el Logarithmo Hyperbolico de � ſon
+las partes Meridionales en las Eſphera del arco, cuyo Seno
+es u; con que multiplicando èas por �, y ſubrayen‐
+do el produo de las partes Meridionales en las Eſphera, cu‐
+yo Seno es V, el reduo ſeràn las partes en la Elipſoide, cuyo
+Seno es tambien V.</Unicode></TextEquiv></TextRegion></Page></PcGts>

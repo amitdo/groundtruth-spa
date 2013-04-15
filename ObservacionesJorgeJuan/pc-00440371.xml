@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440371">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:26:47</Created>
+	<LastChange>2011-12-19T11:39:07</LastChange></Metadata>
+	<Page imageFilename="00440371.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r16" index="1"/>
+	<RegionRefIndexed regionRef="r17" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r13" index="5"/>
+	<RegionRefIndexed regionRef="r15" index="6"/>
+	<RegionRefIndexed regionRef="r6" index="7"/></OrderedGroup></ReadingOrder>
+	<GraphicRegion id="r1" type="other">
+	<Coords>
+	<Point x="729" y="535"/>
+	<Point x="2635" y="535"/>
+	<Point x="2635" y="700"/>
+	<Point x="729" y="700"/></Coords></GraphicRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="667" y="1335"/>
+	<Point x="2651" y="1335"/>
+	<Point x="2651" y="1583"/>
+	<Point x="667" y="1583"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Correccion, que ſe debe hacer à la Navegacion, y à la Tabla
+de partes Meridionales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="2508" y="3466"/>
+	<Point x="2616" y="3466"/>
+	<Point x="2616" y="3530"/>
+	<Point x="2508" y="3530"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>xo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="drop-capital">
+	<Coords>
+	<Point x="748" y="1627"/>
+	<Point x="1099" y="1609"/>
+	<Point x="1086" y="1967"/>
+	<Point x="748" y="1975"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="975" y="4005"/>
+	<Point x="1954" y="4005"/>
+	<Point x="1954" y="4093"/>
+	<Point x="975" y="4093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="774" y="406"/>
+	<Point x="774" y="512"/>
+	<Point x="987" y="512"/>
+	<Point x="987" y="406"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>346</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="783" y="725"/>
+	<Point x="2583" y="725"/>
+	<Point x="2583" y="909"/>
+	<Point x="783" y="909"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIBRO IX.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="footnote">
+	<Coords>
+	<Point x="470" y="2673"/>
+	<Point x="470" y="2751"/>
+	<Point x="711" y="2751"/>
+	<Point x="711" y="2673"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a Lam. 7.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1117" y="1773"/>
+	<Point x="1107" y="1710"/>
+	<Point x="1109" y="1692"/>
+	<Point x="1115" y="1603"/>
+	<Point x="2648" y="1623"/>
+	<Point x="2611" y="2658"/>
+	<Point x="2400" y="2669"/>
+	<Point x="2206" y="2665"/>
+	<Point x="2107" y="2686"/>
+	<Point x="2070" y="2661"/>
+	<Point x="1672" y="2674"/>
+	<Point x="1638" y="2666"/>
+	<Point x="1050" y="2646"/>
+	<Point x="716" y="2658"/>
+	<Point x="741" y="2007"/>
+	<Point x="1122" y="1977"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A vimos en el Libro antecedente, como la
+Tierra es una Elipſoide Lata, cuya razon de
+Diametros es la de 266 à 265; ahora pues es
+muy conducente, y aun neceario manifear
+à los Marineros, como no es lo proprio navegar ſobre ea,
+que ſobre una perfea Eſphera, cuya ﬁgura ſe le ha
+atribuìdo haa el preſente à la Tierra; y aſsimiſmo dàr
+el methodo de praicarlo, en la que ultimamente hemos
+reſuelto; y para eo eſcuſarémos quanto fuere dable los
+terminos geomètricos, los quales no rvieran no de
+confundir à los Marineros, y meramente praicos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="726" y="2677"/>
+	<Point x="898" y="2671"/>
+	<Point x="1025" y="2666"/>
+	<Point x="1628" y="2677"/>
+	<Point x="1686" y="2681"/>
+	<Point x="2069" y="2677"/>
+	<Point x="2108" y="2700"/>
+	<Point x="2185" y="2697"/>
+	<Point x="2224" y="2678"/>
+	<Point x="2645" y="2671"/>
+	<Point x="2648" y="3452"/>
+	<Point x="727" y="3452"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La gura de la Tierra Lata, y ſemejante à la 14�, la
+concluìmos en el Libro VII, debaxo del principio de ſer
+los grados del Meridiano mayores, al pao que ſe apartan
+del Equador; pues tal ſe ha vio, y encontrado por to‐
+das las medidas modernas, hechas con todo el cuydado,
+y aplicacion, que hemos vio: y de la miſma ﬁgura ſe
+deduxo, que los grados del Equador ſon mayores, que ſus
+contiguos de Meridiano: luego  el Piloto navega, deba‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="heading">
+	<Coords>
+	<Point x="803" y="945"/>
+	<Point x="803" y="1122"/>
+	<Point x="2564" y="1122"/>
+	<Point x="2564" y="945"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De la Navegacion ſobre la Elipſoide.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="heading">
+	<Coords>
+	<Point x="1300" y="1158"/>
+	<Point x="1300" y="1293"/>
+	<Point x="2090" y="1293"/>
+	<Point x="2090" y="1158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITULO I.</Unicode></TextEquiv></TextRegion></Page></PcGts>

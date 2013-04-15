@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442047">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T16:07:07</Created>
+	<LastChange>2011-07-05T14:26:48</LastChange></Metadata>
+	<Page imageFilename="00442047.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/>
+	<RegionRefIndexed regionRef="r22" index="2"/>
+	<RegionRefIndexed regionRef="r24" index="3"/>
+	<RegionRefIndexed regionRef="r26" index="4"/>
+	<RegionRefIndexed regionRef="r28" index="5"/>
+	<RegionRefIndexed regionRef="r32" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="692" y="200"/>
+	<Point x="1244" y="201"/>
+	<Point x="1261" y="303"/>
+	<Point x="694" y="312"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MVSA VI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="credit">
+	<Coords>
+	<Point x="701" y="3117"/>
+	<Point x="1471" y="3117"/>
+	<Point x="1472" y="3201"/>
+	<Point x="697" y="3197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="page-number">
+	<Coords>
+	<Point x="1700" y="193"/>
+	<Point x="1700" y="338"/>
+	<Point x="1893" y="338"/>
+	<Point x="1893" y="193"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>467</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="378" y="321"/>
+	<Point x="1566" y="327"/>
+	<Point x="1557" y="483"/>
+	<Point x="1190" y="485"/>
+	<Point x="1186" y="502"/>
+	<Point x="1155" y="510"/>
+	<Point x="1157" y="480"/>
+	<Point x="960" y="479"/>
+	<Point x="957" y="496"/>
+	<Point x="930" y="498"/>
+	<Point x="924" y="478"/>
+	<Point x="863" y="478"/>
+	<Point x="860" y="496"/>
+	<Point x="829" y="495"/>
+	<Point x="831" y="473"/>
+	<Point x="533" y="479"/>
+	<Point x="519" y="495"/>
+	<Point x="448" y="496"/>
+	<Point x="409" y="475"/>
+	<Point x="385" y="475"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mas eà diſculpado,
+Que el ſolo es proprio moço de recado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="301" y="484"/>
+	<Point x="392" y="485"/>
+	<Point x="416" y="504"/>
+	<Point x="550" y="503"/>
+	<Point x="571" y="489"/>
+	<Point x="809" y="485"/>
+	<Point x="825" y="508"/>
+	<Point x="1126" y="502"/>
+	<Point x="1146" y="525"/>
+	<Point x="1192" y="528"/>
+	<Point x="1539" y="534"/>
+	<Point x="1553" y="1096"/>
+	<Point x="377" y="1118"/>
+	<Point x="374" y="583"/>
+	<Point x="300" y="590"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Algo crei en la treta,
+De el hacerte creer, que eres diſcreta:
+Pero deſpues de darte entendimiento,
+Atiſbabas mi argento:
+Mas  el cultiparlar ſe te conceda,
+Quieres, no has de mentar a la moneda,
+Que mi bolſa eremeces,
+Quando de tu vendimia eà en las heces.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="379" y="1153"/>
+	<Point x="1598" y="1149"/>
+	<Point x="1598" y="1254"/>
+	<Point x="372" y="1263"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A una moza bermoſa, que comia barro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="heading">
+	<Coords>
+	<Point x="699" y="1303"/>
+	<Point x="1242" y="1307"/>
+	<Point x="1235" y="1395"/>
+	<Point x="695" y="1392"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MADRIGAL.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="drop-capital">
+	<Coords>
+	<Point x="304" y="1453"/>
+	<Point x="411" y="1457"/>
+	<Point x="409" y="1504"/>
+	<Point x="401" y="1508"/>
+	<Point x="409" y="1534"/>
+	<Point x="396" y="1531"/>
+	<Point x="396" y="1599"/>
+	<Point x="311" y="1600"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="416" y="1450"/>
+	<Point x="1558" y="1474"/>
+	<Point x="1567" y="2989"/>
+	<Point x="1382" y="2986"/>
+	<Point x="1348" y="3014"/>
+	<Point x="1335" y="2985"/>
+	<Point x="719" y="2976"/>
+	<Point x="708" y="2991"/>
+	<Point x="378" y="2988"/>
+	<Point x="375" y="1617"/>
+	<Point x="410" y="1621"/>
+	<Point x="415" y="1546"/>
+	<Point x="418" y="1546"/>
+	<Point x="414" y="1488"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>V ſola, Cloris mia,
+Qne  miras n velo,
+La vída puedes alargar al dia,
+Has podido juntar la tierra al cielo.
+Pero a rieſgos te pones,
+En ſer Cielo goloſo de terrones;
+Mira, que en quien de barros eà llena.
+Es calle de Xetafe cada vena.
+Empieceſe a comer ſu ſepoltura
+En barros disfraçada,
+Muger manida, i guera, i arrugada:
+I en tu niñez loçana, en tu hermoſura,
+No profanen con barro a tus rubies
+Las perlas con que maſcas, con que ries.
+Que tu guo no entierres, hoi mi abiſo
+Te advierte, Cloris bella; porque endo
+En carne ſoberano Paraiſo,
+Quando con barro la ſalud eragas,
+No el Paraiſo Terrenal te hagas.
+Barro es quanto en mis verſos te preivo,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="signature-mark">
+	<Coords>
+	<Point x="1281" y="2994"/>
+	<Point x="1278" y="3063"/>
+	<Point x="1067" y="3062"/>
+	<Point x="1069" y="2991"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nnn 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="catch-word">
+	<Coords>
+	<Point x="1660" y="2993"/>
+	<Point x="1667" y="3066"/>
+	<Point x="1507" y="3073"/>
+	<Point x="1508" y="3000"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mas</Unicode></TextEquiv></TextRegion></Page></PcGts>

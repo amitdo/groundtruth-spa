@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444386">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T11:33:27</Created>
+	<LastChange>2011-12-19T11:39:42</LastChange></Metadata>
+	<Page imageFilename="00444386.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="854" y="100"/>
+	<Point x="1512" y="113"/>
+	<Point x="1511" y="226"/>
+	<Point x="851" y="238"/>
+	<Point x="840" y="227"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="363" y="253"/>
+	<Point x="1105" y="240"/>
+	<Point x="2045" y="246"/>
+	<Point x="2040" y="2657"/>
+	<Point x="1966" y="2660"/>
+	<Point x="1754" y="2664"/>
+	<Point x="1700" y="2701"/>
+	<Point x="326" y="2714"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſuerte que no ſabia que hazer de mi. O 
+miraemos con aduertencia las coſas de nue
+ra vida, cada vno veria con eſperiencia en
+lo poco que ſe ha de tener contento, ni
+deſcontento de ea. Es cierto que me pare-
+ce que fue vno de los rezios ratos que he paſ
+ſado en mi vida, parece que adiuinaua el ſpi-
+ritu lo mucho que quedaua por paar, aun-
+que no ego a ſer tanto como eo  dura-
+ra: mas no dexo el Señor padecer a ſu pobre
+erua, porque nunca en las tribulaciones
+me dexo de ſocorrer, y aſsi fue en ea que
+me dio vn poco de luz, para ver que era
+demonio, y para que pudiee entender la
+verdad, y que todo era quererme eſpantar
+con mentiras, y aſsi comence a acordarme
+de mis grandes determinaciones de ſeruir al
+Señor, y deeos de padecer por el, y penſe 
+auia de cumplirlos, que no auia de andar a
+procurar deſcanſo, y que  tuuiee trabajos
+que ee ſeria el merecer, como lo tomae
+por ſeruir a Dios me ſeruiria de purgatorio,
+que de que temia, que pues deeaua traba-
+jos que buenos eran eos, que en la ma-
+yor contradicion eaua la ganancia, que
+porque me auia de faltar animo, para ſer-
+uir a quien tanto deuia, con eas y otras</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1757" y="2671"/>
+	<Point x="1859" y="2667"/>
+	<Point x="1969" y="2663"/>
+	<Point x="1953" y="2762"/>
+	<Point x="1717" y="2759"/>
+	<Point x="1714" y="2709"/>
+	<Point x="1745" y="2674"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>con-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="593" y="3049"/>
+	<Point x="1598" y="3046"/>
+	<Point x="1598" y="3160"/>
+	<Point x="592" y="3163"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="370" y="127"/>
+	<Point x="370" y="243"/>
+	<Point x="614" y="243"/>
+	<Point x="614" y="127"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>458</Unicode></TextEquiv></TextRegion></Page></PcGts>

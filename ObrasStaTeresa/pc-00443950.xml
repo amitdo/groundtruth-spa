@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443950">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T11:10:03</Created>
+	<LastChange>2011-12-19T11:39:16</LastChange></Metadata>
+	<Page imageFilename="00443950.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r4" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="569" y="160"/>
+	<Point x="708" y="160"/>
+	<Point x="708" y="251"/>
+	<Point x="569" y="251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>22</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1838" y="2645"/>
+	<Point x="2076" y="2645"/>
+	<Point x="2076" y="2760"/>
+	<Point x="1838" y="2760"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>gracia</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="609" y="3067"/>
+	<Point x="1573" y="3067"/>
+	<Point x="1573" y="3147"/>
+	<Point x="609" y="3147"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="567" y="276"/>
+	<Point x="2130" y="262"/>
+	<Point x="2138" y="2628"/>
+	<Point x="1843" y="2636"/>
+	<Point x="1777" y="2647"/>
+	<Point x="535" y="2662"/>
+	<Point x="571" y="2123"/>
+	<Point x="579" y="1960"/>
+	<Point x="582" y="1607"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>muchas partes deﬆos libros acoumbra de‐
+zir, que eﬆa el alma junto a Dios, y que
+ambos ſe entienden, y que ean las almas
+ciertas que Dios les habla, y otras coſas de‐
+a manera. En lo qual no ha de entender
+ninguno que pone certidumbre en la gracia
+y juﬆicia de los que ſe occupan eneos ex-
+ercicios, ni de otros ningunos por ſanos
+que ſean, de manera que eos een ciertos
+de  que la tienen, no ſon aqueos a quien
+Dios lo reuela. Que la madre miſma que
+gozo de todo lo que eneos libros dize, y
+de mucho mas que no dize, eſcriue en vno
+deos, eﬆas palabras de : Y lo que no ſe
+puede ſuﬀrir Señor es, no poder ſaber cierto
+ os amo, y  ſon acceptos mis deeos de-
+lante de vos. Solo quiere dezir lo que es la
+verdad, que las almas en eﬆos exercicios
+enten a Dios preſente para los eﬀeos
+que en eas entonces haze que ſon delei‐
+tarlas y alumbrarlas, dandoles auiſos y gu‐
+os, que aunque ſon grandes mercedes de
+Dios, y que muchas vezes, o andan con la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="marginalia">
+	<Coords>
+	<Point x="309" y="1612"/>
+	<Point x="309" y="1890"/>
+	<Point x="575" y="1890"/>
+	<Point x="575" y="1612"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro ca
+mino de
+perfeiõ
+cap.4.</Unicode></TextEquiv></TextRegion></Page></PcGts>

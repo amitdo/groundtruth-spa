@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441829">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T15:28:28</Created>
+	<LastChange>2011-07-05T14:26:34</LastChange></Metadata>
+	<Page imageFilename="00441829.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r25" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r23" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="964" y="183"/>
+	<Point x="1390" y="183"/>
+	<Point x="1390" y="284"/>
+	<Point x="964" y="284"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ERATO,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="375" y="352"/>
+	<Point x="2043" y="352"/>
+	<Point x="2043" y="616"/>
+	<Point x="375" y="616"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Exclama a Iuppiter contra unos ojos, aquien el
+miſmo Iuppiter teme.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="850" y="671"/>
+	<Point x="1552" y="671"/>
+	<Point x="1552" y="784"/>
+	<Point x="850" y="784"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MADRIGAL VII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="credit">
+	<Coords>
+	<Point x="696" y="3132"/>
+	<Point x="1467" y="3132"/>
+	<Point x="1467" y="3200"/>
+	<Point x="696" y="3200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="page-number">
+	<Coords>
+	<Point x="260" y="183"/>
+	<Point x="450" y="183"/>
+	<Point x="450" y="284"/>
+	<Point x="260" y="284"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>236</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="590" y="833"/>
+	<Point x="1928" y="832"/>
+	<Point x="1928" y="2101"/>
+	<Point x="600" y="2101"/>
+	<Point x="599" y="942"/>
+	<Point x="591" y="933"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vppiter,  vengança tan ſevera
+Tomae de Phaetonte,
+Porque deſcaminando el Sol al dia,
+Encendio el Rio, el Mar, el Llano, el Monte:
+Quanto maior conviene,
+Si tu braço el valor antiguo tiene,
+Que la tomen agora tus enojos,
+De aquellos n piedad divinos ojos,
+Que abraſan deſde el ſuelo
+Hombres, i Dioſes; Mar, i Tierra, i Cielo?
+Mas con que raios puedes caigallos,
+Si para fulminar miras con ellos;
+Si vibras en las nubes ſus cabellos,
+Si padeces ſus lumbres, con mirallos?
+Diſsimula,  de ellos pues ſe quexan,
+I fulmina la parte, que te dexan.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="catch-word">
+	<Coords>
+	<Point x="1928" y="2858"/>
+	<Point x="2111" y="2858"/>
+	<Point x="2111" y="2950"/>
+	<Point x="1928" y="2950"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ERA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="drop-capital">
+	<Coords>
+	<Point x="533" y="851"/>
+	<Point x="587" y="850"/>
+	<Point x="587" y="937"/>
+	<Point x="595" y="946"/>
+	<Point x="594" y="964"/>
+	<Point x="534" y="964"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r10">
+	<Coords>
+	<Point x="1073" y="2273"/>
+	<Point x="1073" y="2542"/>
+	<Point x="1423" y="2542"/>
+	<Point x="1423" y="2273"/></Coords></ImageRegion></Page></PcGts>

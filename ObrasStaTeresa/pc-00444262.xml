@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444262">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:18:03</Created>
+	<LastChange>2011-12-19T11:39:34</LastChange></Metadata>
+	<Page imageFilename="00444262.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="926" y="99"/>
+	<Point x="1552" y="100"/>
+	<Point x="1546" y="222"/>
+	<Point x="929" y="224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="439" y="241"/>
+	<Point x="2016" y="232"/>
+	<Point x="2047" y="2620"/>
+	<Point x="1825" y="2622"/>
+	<Point x="1480" y="2662"/>
+	<Point x="414" y="2690"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tan diﬀerente de la de aca, que parece vna co-
+ſa tan deſlurada la claridad del ſol  vemos,
+en comparaciõ de aquea claridad y luz que
+ſe repreſenta a la via,  no ſe querrian abrir
+los ojos. Es como ver vn agua muy clara que
+corre ſobre crial, y reueruera en ea el ſol,
+a vna muy turuia y con gran nublado, y que
+corre por encima de la tierra, no porque ſe
+repreſenta ſol, ni la luz es como la del ſol, pa-
+rece en ﬁn luz natural, y eotra coſa artiﬁcial.
+Es luz que no tiene noche, no que como ẽ
+pre es luz, no la turba nada. En ﬁn es de ſuerte
+que por grande entendimiento que vna per-
+ſona tuuiee, en todos los dias de ſu vida po-
+dria imaginar como es, y ponele Dios delante
+tan preo que aun no vuiera lugar para abrir
+los ojos,  fuera meneer abrirlos, mas no ha
+ze mas ear abiertos que cerrados, quando el
+Señor quiere, que aũque no queramos ſe vee.
+No ay diuertimiento  bae, ni ay poder re-
+ir, ni baa diligencia ni cuydado para eo.
+Eo tengo yo bien eſperimẽtado como dire.
+Lo  yo aora querria dezir, es el modo como
+el Señor ſe muera por eas viones, no digo
+ declarare de  manera puede ſer poner ea
+luz tã fuerte en el ſentido interior, y en el en-
+tendimiento imagen tã clara,  parece verda-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="617" y="3065"/>
+	<Point x="1578" y="3068"/>
+	<Point x="1563" y="3153"/>
+	<Point x="1186" y="3151"/>
+	<Point x="617" y="3147"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="452" y="104"/>
+	<Point x="452" y="234"/>
+	<Point x="682" y="234"/>
+	<Point x="682" y="104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>334</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1791" y="2630"/>
+	<Point x="1793" y="2724"/>
+	<Point x="2001" y="2725"/>
+	<Point x="2000" y="2633"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dera-</Unicode></TextEquiv></TextRegion></Page></PcGts>

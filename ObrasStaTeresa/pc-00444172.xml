@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444172">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:37:09</Created>
+	<LastChange>2011-12-19T11:39:29</LastChange></Metadata>
+	<Page imageFilename="00444172.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r13" index="2"/>
+	<RegionRefIndexed regionRef="r15" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="448" y="237"/>
+	<Point x="944" y="222"/>
+	<Point x="2048" y="222"/>
+	<Point x="1999" y="1538"/>
+	<Point x="1961" y="1554"/>
+	<Point x="442" y="1585"/>
+	<Point x="442" y="1512"/>
+	<Point x="425" y="972"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode> el barro le atapa los ojos, ciega eà ea palo
+mita, an acaece muchas vezes quedarſe an
+ciega del todo, abſorta, eſpãtada, deſuaneſcida
+de tantas grandezas como vee : aqui ſe gana
+la verdadera humildad, para no ſe le dar nada
+de dezir bienes de , ni que lo digan otros.
+Reparteel Señor del huerto la fruta, y no ea,
+y an no ſe le pega nada a las manos, todo el
+bien que tiene va guiado a Dios,  algo dize
+de , es para ſu gloria, ſabe que no tiene na-
+da ea ai, y aunque quiera no puede igno-
+rarlo, porque lo vee por via de ojos, que
+mal que le peſe ſe los hazen cerrar a las coſas
+del mundo, y que los tenga abiertos para en-
+tender verdades.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="437" y="1614"/>
+	<Point x="1014" y="1622"/>
+	<Point x="1999" y="1609"/>
+	<Point x="1998" y="2242"/>
+	<Point x="1953" y="2250"/>
+	<Point x="1118" y="2281"/>
+	<Point x="452" y="2250"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP. XXI Progue yacaba ee porer
+grado de oracion, dize lo que ente el alma
+que ea en el de tornar a viuir en el mundo,
+y da la luz que da el Señor de los
+engaños del, tiene buena
+dorina.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1780" y="2630"/>
+	<Point x="1810" y="2625"/>
+	<Point x="1831" y="2628"/>
+	<Point x="1839" y="2627"/>
+	<Point x="1845" y="2628"/>
+	<Point x="1867" y="2642"/>
+	<Point x="1880" y="2656"/>
+	<Point x="1908" y="2648"/>
+	<Point x="1934" y="2675"/>
+	<Point x="1926" y="2719"/>
+	<Point x="1870" y="2716"/>
+	<Point x="1775" y="2711"/>
+	<Point x="1773" y="2669"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſabe</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="548" y="2975"/>
+	<Point x="1606" y="2975"/>
+	<Point x="1606" y="3170"/>
+	<Point x="548" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="743" y="118"/>
+	<Point x="989" y="101"/>
+	<Point x="1312" y="100"/>
+	<Point x="1573" y="81"/>
+	<Point x="1586" y="133"/>
+	<Point x="1556" y="203"/>
+	<Point x="793" y="201"/>
+	<Point x="750" y="179"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="449" y="129"/>
+	<Point x="720" y="130"/>
+	<Point x="720" y="210"/>
+	<Point x="454" y="220"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>244</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="drop-capital">
+	<Coords>
+	<Point x="355" y="2303"/>
+	<Point x="693" y="2303"/>
+	<Point x="720" y="2352"/>
+	<Point x="712" y="2600"/>
+	<Point x="704" y="2664"/>
+	<Point x="644" y="2686"/>
+	<Point x="355" y="2662"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="736" y="2336"/>
+	<Point x="762" y="2320"/>
+	<Point x="1974" y="2311"/>
+	<Point x="1974" y="2594"/>
+	<Point x="1926" y="2648"/>
+	<Point x="1875" y="2632"/>
+	<Point x="1857" y="2632"/>
+	<Point x="1847" y="2622"/>
+	<Point x="1827" y="2617"/>
+	<Point x="1710" y="2628"/>
+	<Point x="718" y="2656"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ves acabando en lo que yua digo,
+ no ha meneer aqui cõſentimien-
+to de ea alma, ya ſe le tiene dado, y</Unicode></TextEquiv></TextRegion></Page></PcGts>

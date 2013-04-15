@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00484956">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T07:26:11</Created>
+	<LastChange>2011-05-12T13:40:38</LastChange></Metadata>
+	<Page imageFilename="00484956.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/>
+	<RegionRefIndexed regionRef="r2" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="439" y="103"/>
+	<Point x="1432" y="103"/>
+	<Point x="1432" y="435"/>
+	<Point x="439" y="435"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SONETO DE GARCI
+lao, que ſe oluido de poner
+ala ﬁn con ſus obras.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="465" y="675"/>
+	<Point x="475" y="677"/>
+	<Point x="487" y="672"/>
+	<Point x="580" y="667"/>
+	<Point x="1479" y="681"/>
+	<Point x="1489" y="689"/>
+	<Point x="1489" y="695"/>
+	<Point x="1523" y="930"/>
+	<Point x="1492" y="1028"/>
+	<Point x="955" y="1016"/>
+	<Point x="948" y="1032"/>
+	<Point x="919" y="1035"/>
+	<Point x="914" y="1020"/>
+	<Point x="653" y="1021"/>
+	<Point x="638" y="1032"/>
+	<Point x="616" y="1032"/>
+	<Point x="626" y="1017"/>
+	<Point x="583" y="1017"/>
+	<Point x="550" y="1032"/>
+	<Point x="525" y="1029"/>
+	<Point x="506" y="1016"/>
+	<Point x="397" y="1014"/>
+	<Point x="349" y="995"/>
+	<Point x="327" y="795"/>
+	<Point x="405" y="785"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aando el mar Leandro el animoſo,
+En amoroſo fuego todo ardiendo,
+Eſforçoel viento, y fuee'mbraueciendo
+El agua, con vn impetu furioſo:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="307" y="1598"/>
+	<Point x="402" y="1605"/>
+	<Point x="416" y="1613"/>
+	<Point x="702" y="1617"/>
+	<Point x="725" y="1607"/>
+	<Point x="1263" y="1626"/>
+	<Point x="1436" y="1629"/>
+	<Point x="1357" y="1879"/>
+	<Point x="340" y="1879"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ondas pues no ſe'ſcuſa que yo muera,
+Dexad me aa egar, y ala tornada
+Vuero furor eecuta en mi vida.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="628" y="3014"/>
+	<Point x="1396" y="3014"/>
+	<Point x="1396" y="3096"/>
+	<Point x="628" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="310" y="1031"/>
+	<Point x="581" y="1036"/>
+	<Point x="819" y="1033"/>
+	<Point x="967" y="1053"/>
+	<Point x="978" y="1031"/>
+	<Point x="1162" y="1035"/>
+	<Point x="1181" y="1059"/>
+	<Point x="1529" y="1069"/>
+	<Point x="1600" y="1118"/>
+	<Point x="1538" y="1366"/>
+	<Point x="1379" y="1364"/>
+	<Point x="1202" y="1351"/>
+	<Point x="1176" y="1367"/>
+	<Point x="1162" y="1372"/>
+	<Point x="1148" y="1367"/>
+	<Point x="1124" y="1352"/>
+	<Point x="889" y="1364"/>
+	<Point x="805" y="1374"/>
+	<Point x="737" y="1368"/>
+	<Point x="657" y="1365"/>
+	<Point x="615" y="1357"/>
+	<Point x="621" y="1369"/>
+	<Point x="460" y="1375"/>
+	<Point x="442" y="1361"/>
+	<Point x="382" y="1359"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vencido del trabajo preuroſo,
+Contraar alas ondas no pudiendo,
+Y mas del bien que ai perdia muriendo
+Que de ſu propia vida congoxoſo:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="306" y="1395"/>
+	<Point x="328" y="1357"/>
+	<Point x="398" y="1365"/>
+	<Point x="411" y="1381"/>
+	<Point x="611" y="1376"/>
+	<Point x="614" y="1375"/>
+	<Point x="630" y="1369"/>
+	<Point x="685" y="1370"/>
+	<Point x="745" y="1371"/>
+	<Point x="792" y="1379"/>
+	<Point x="875" y="1379"/>
+	<Point x="915" y="1367"/>
+	<Point x="1094" y="1363"/>
+	<Point x="1140" y="1378"/>
+	<Point x="1178" y="1377"/>
+	<Point x="1204" y="1365"/>
+	<Point x="1380" y="1369"/>
+	<Point x="1399" y="1583"/>
+	<Point x="1380" y="1608"/>
+	<Point x="1252" y="1613"/>
+	<Point x="654" y="1599"/>
+	<Point x="581" y="1608"/>
+	<Point x="428" y="1597"/>
+	<Point x="416" y="1601"/>
+	<Point x="397" y="1594"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Como pudo' ſforço ſu boz canſada,
+Y alas ondas hablo d'ea manera.
+(Mas nunca fue ſu boz deas oyda)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="drop-capital">
+	<Coords>
+	<Point x="307" y="635"/>
+	<Point x="307" y="727"/>
+	<Point x="330" y="780"/>
+	<Point x="387" y="770"/>
+	<Point x="428" y="730"/>
+	<Point x="444" y="698"/>
+	<Point x="440" y="635"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P</Unicode></TextEquiv></TextRegion></Page></PcGts>

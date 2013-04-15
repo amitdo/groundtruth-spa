@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485048">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T18:37:14</Created>
+	<LastChange>2011-05-12T13:40:48</LastChange></Metadata>
+	<Page imageFilename="00485048.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/>
+	<RegionRefIndexed regionRef="r10" index="7"/>
+	<RegionRefIndexed regionRef="r12" index="8"/>
+	<RegionRefIndexed regionRef="r15" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="498" y="111"/>
+	<Point x="1073" y="112"/>
+	<Point x="1112" y="190"/>
+	<Point x="493" y="190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ SONETO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="376" y="885"/>
+	<Point x="468" y="877"/>
+	<Point x="474" y="891"/>
+	<Point x="530" y="885"/>
+	<Point x="892" y="883"/>
+	<Point x="1551" y="887"/>
+	<Point x="1637" y="1040"/>
+	<Point x="1551" y="1128"/>
+	<Point x="844" y="1121"/>
+	<Point x="777" y="1134"/>
+	<Point x="763" y="1130"/>
+	<Point x="756" y="1125"/>
+	<Point x="620" y="1125"/>
+	<Point x="610" y="1129"/>
+	<Point x="592" y="1128"/>
+	<Point x="587" y="1123"/>
+	<Point x="463" y="1125"/>
+	<Point x="382" y="954"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En tanto aprieto'a mi penſamiento,
+Que me contento, y pienſo que'oy ſano,
+Por poco que s'aliuie mi tormento.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="390" y="1130"/>
+	<Point x="404" y="1124"/>
+	<Point x="431" y="1117"/>
+	<Point x="435" y="1132"/>
+	<Point x="745" y="1133"/>
+	<Point x="763" y="1140"/>
+	<Point x="809" y="1140"/>
+	<Point x="819" y="1135"/>
+	<Point x="845" y="1130"/>
+	<Point x="1047" y="1128"/>
+	<Point x="1362" y="1137"/>
+	<Point x="1512" y="1375"/>
+	<Point x="747" y="1377"/>
+	<Point x="736" y="1381"/>
+	<Point x="711" y="1385"/>
+	<Point x="702" y="1377"/>
+	<Point x="410" y="1375"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lo que puedo ſaluar, eo me gano.
+Para ver mi poder, eI braço tiento:
+Y hao que no'a nada en mi mano.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="609" y="1411"/>
+	<Point x="1215" y="1412"/>
+	<Point x="1227" y="1466"/>
+	<Point x="1228" y="1490"/>
+	<Point x="615" y="1477"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ SONETO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="384" y="1515"/>
+	<Point x="1498" y="1530"/>
+	<Point x="1512" y="1755"/>
+	<Point x="1492" y="1857"/>
+	<Point x="1414" y="1857"/>
+	<Point x="810" y="1854"/>
+	<Point x="452" y="1857"/>
+	<Point x="392" y="1607"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sueños d'amor me traen en gran duda:
+Yo no'o ya para ſuﬀrir rebatos.
+Pudiera el ſeſo andar en eos tratos,
+Si fuera mi fortuna menos cruda.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="381" y="1862"/>
+	<Point x="1515" y="1868"/>
+	<Point x="1532" y="2190"/>
+	<Point x="1221" y="2190"/>
+	<Point x="1208" y="2193"/>
+	<Point x="1164" y="2186"/>
+	<Point x="1154" y="2192"/>
+	<Point x="1124" y="2193"/>
+	<Point x="1122" y="2185"/>
+	<Point x="1071" y="2184"/>
+	<Point x="1057" y="2192"/>
+	<Point x="1033" y="2195"/>
+	<Point x="1034" y="2184"/>
+	<Point x="461" y="2177"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Agora el alma queda muy deſnuda:
+Ya ſe perdieron todos ſus baratos.
+Ha de gaar ſus tiempos y ſus ratos
+En ſer en todo ſorda, ciega y muda.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="signature-mark">
+	<Coords>
+	<Point x="1259" y="2733"/>
+	<Point x="1267" y="2687"/>
+	<Point x="1378" y="2688"/>
+	<Point x="1386" y="2696"/>
+	<Point x="1401" y="2700"/>
+	<Point x="1414" y="2691"/>
+	<Point x="1420" y="2687"/>
+	<Point x="1448" y="2684"/>
+	<Point x="1461" y="2745"/>
+	<Point x="1444" y="2778"/>
+	<Point x="1272" y="2772"/>
+	<Point x="1256" y="2761"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>G iiij</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="credit">
+	<Coords>
+	<Point x="634" y="3029"/>
+	<Point x="1390" y="3029"/>
+	<Point x="1377" y="3092"/>
+	<Point x="622" y="3084"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="395" y="2440"/>
+	<Point x="858" y="2442"/>
+	<Point x="920" y="2448"/>
+	<Point x="1014" y="2450"/>
+	<Point x="1051" y="2445"/>
+	<Point x="1281" y="2450"/>
+	<Point x="1351" y="2468"/>
+	<Point x="1586" y="2552"/>
+	<Point x="1534" y="2694"/>
+	<Point x="1461" y="2689"/>
+	<Point x="1450" y="2677"/>
+	<Point x="1427" y="2677"/>
+	<Point x="1418" y="2686"/>
+	<Point x="1409" y="2693"/>
+	<Point x="1396" y="2695"/>
+	<Point x="1387" y="2690"/>
+	<Point x="1376" y="2677"/>
+	<Point x="1240" y="2681"/>
+	<Point x="1228" y="2703"/>
+	<Point x="645" y="2706"/>
+	<Point x="405" y="2694"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El mal eſcojo, por determinarme.
+Mas luego el bien remuerde al coraçon:
+Y e dolor de perder lo que no tengo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="392" y="2182"/>
+	<Point x="1012" y="2198"/>
+	<Point x="1175" y="2196"/>
+	<Point x="1558" y="2199"/>
+	<Point x="1641" y="2346"/>
+	<Point x="1590" y="2458"/>
+	<Point x="1560" y="2456"/>
+	<Point x="1552" y="2452"/>
+	<Point x="1008" y="2427"/>
+	<Point x="996" y="2445"/>
+	<Point x="924" y="2444"/>
+	<Point x="906" y="2442"/>
+	<Point x="903" y="2433"/>
+	<Point x="876" y="2433"/>
+	<Point x="392" y="2428"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Qual digo oy, y viene'l afﬁcion
+Trayendo el bien y el mal a preſentarme.
+Yo viẽdo en mi, que entre'os me detẽgo,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="393" y="205"/>
+	<Point x="1534" y="205"/>
+	<Point x="1579" y="537"/>
+	<Point x="1292" y="531"/>
+	<Point x="1284" y="546"/>
+	<Point x="1267" y="546"/>
+	<Point x="1167" y="555"/>
+	<Point x="1144" y="550"/>
+	<Point x="1129" y="533"/>
+	<Point x="922" y="534"/>
+	<Point x="919" y="547"/>
+	<Point x="896" y="552"/>
+	<Point x="883" y="547"/>
+	<Point x="886" y="538"/>
+	<Point x="393" y="538"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Gran tiempo ha que'l coraçon m'engaña,
+Y quẽ de miedo adrede me conﬁa.
+Anda conmigo falſa mi alegria:
+Yo la entiendo, mas cumpleme ſu maña.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="372" y="551"/>
+	<Point x="708" y="552"/>
+	<Point x="720" y="543"/>
+	<Point x="745" y="550"/>
+	<Point x="874" y="550"/>
+	<Point x="895" y="559"/>
+	<Point x="906" y="554"/>
+	<Point x="937" y="559"/>
+	<Point x="1066" y="548"/>
+	<Point x="1126" y="549"/>
+	<Point x="1148" y="554"/>
+	<Point x="1175" y="559"/>
+	<Point x="1270" y="565"/>
+	<Point x="1267" y="554"/>
+	<Point x="1307" y="550"/>
+	<Point x="1313" y="563"/>
+	<Point x="1549" y="554"/>
+	<Point x="1549" y="877"/>
+	<Point x="1116" y="882"/>
+	<Point x="1095" y="881"/>
+	<Point x="1078" y="876"/>
+	<Point x="512" y="874"/>
+	<Point x="426" y="867"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Apartome de quien me deſengaña,
+Por no verme'ragar la fantaa.
+Mi mal es tanto, que m'enſañaria:
+Pero no es ee mal d'aquel que'nſaña.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="page-number">
+	<Coords>
+	<Point x="1145" y="93"/>
+	<Point x="1145" y="187"/>
+	<Point x="1468" y="187"/>
+	<Point x="1468" y="93"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. XL.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r19">
+	<Coords>
+	<Point x="1224" y="1413"/>
+	<Point x="1222" y="1428"/>
+	<Point x="1235" y="1477"/>
+	<Point x="1350" y="1480"/>
+	<Point x="1350" y="1414"/></Coords></GraphicRegion></Page></PcGts>

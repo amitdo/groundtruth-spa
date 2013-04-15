@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443032">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T08:33:25</Created>
+	<LastChange>2011-03-15T16:51:33</LastChange></Metadata>
+	<Page imageFilename="00443032.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/>
+	<RegionRefIndexed regionRef="r18" index="2"/>
+	<RegionRefIndexed regionRef="r11" index="3"/>
+	<RegionRefIndexed regionRef="r16" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="622" y="83"/>
+	<Point x="622" y="183"/>
+	<Point x="837" y="190"/>
+	<Point x="1122" y="183"/>
+	<Point x="1122" y="83"/>
+	<Point x="925" y="75"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro primero</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="568" y="290"/>
+	<Point x="568" y="370"/>
+	<Point x="1207" y="370"/>
+	<Point x="1207" y="290"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITVLO V.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="131" y="451"/>
+	<Point x="131" y="835"/>
+	<Point x="653" y="844"/>
+	<Point x="1670" y="835"/>
+	<Point x="1670" y="451"/>
+	<Point x="1401" y="422"/>
+	<Point x="911" y="427"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Progue lo dicho, mostrando con autoridades i figu-
+ras de la ſagrada Eſcricura, cuan neceſario ſea al
+alma ir a Dios por ea Noche eſcura de la
+mortificacion delapetito.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="237" y="1084"/>
+	<Point x="133" y="1086"/>
+	<Point x="137" y="2700"/>
+	<Point x="435" y="2708"/>
+	<Point x="706" y="2715"/>
+	<Point x="1122" y="2691"/>
+	<Point x="1168" y="2688"/>
+	<Point x="1180" y="2700"/>
+	<Point x="1202" y="2706"/>
+	<Point x="1570" y="2680"/>
+	<Point x="1684" y="2683"/>
+	<Point x="1706" y="2681"/>
+	<Point x="1682" y="2363"/>
+	<Point x="1710" y="916"/>
+	<Point x="282" y="913"/>
+	<Point x="277" y="1077"/>
+	<Point x="271" y="1086"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A avemos dicho la diancia que ai de las criatu-
+ras a Dios, i como las almas, que en algunas dellas
+ponen ſu aficion, cſa miſma diancia tienen de Dios:
+porque (como avemos dicho) el amor haze igualdad i
+ſemejança. Lo cual avia bien conocido ſan Aguin,
+cuando dezia, hablando con Dios en los Soliloquios: Mi
+ſerable de mi, cuando podra mi cortedad, i imperfecion
+convenir con tu reitud? tu verdaderamente eres bue-
+no, yo malo; tu piadoſo, yo impio; tu ſanto, yo miſera-
+ble; tu juo, yo injuo; tu luz, yo ciego; tu vida, yo
+muerte; tu medicina, yo enfermo; tu ſuma verdad, yo
+toda vanidad. Lo cual dize ee Santo, en cuanto ſe in-
+clina a las criaturas. Por tanto es ſuma ignorancia del
+alma penſar podra paſar a ee alto eado de union con
+Dios,  primero no vàzia el apetito de las coſas natu-
+rales i ſobrenaturales, en cuanto a el por el amor pro-
+pio pueden pertenecer; pues es ſuma la diancia que ai
+dellas a lo que en ee eado ſe dà, que es puramente
+transformacion en Dios. Que por eſo Crio nuero
+Señor, enſeñandonos ee camino, dixo por ſan Lucas:
+Qui non renuntiat omnibus qu poſsidet, nõ pote, meus ee
+diſcipulus. El que no renuncia todas las coſas que con la
+voluntad poſee, no puede ſer mi dicipulo. I eo eà cla</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="1521" y="84"/>
+	<Point x="1521" y="160"/>
+	<Point x="1621" y="160"/>
+	<Point x="1621" y="84"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>21</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="marginalia">
+	<Coords>
+	<Point x="1725" y="2377"/>
+	<Point x="1712" y="2375"/>
+	<Point x="1715" y="2459"/>
+	<Point x="1713" y="2517"/>
+	<Point x="1715" y="2544"/>
+	<Point x="1725" y="2563"/>
+	<Point x="1931" y="2563"/>
+	<Point x="1936" y="2427"/>
+	<Point x="1931" y="2377"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Luc. 14.
+33.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="signature-mark">
+	<Coords>
+	<Point x="1124" y="2696"/>
+	<Point x="1124" y="2798"/>
+	<Point x="1231" y="2798"/>
+	<Point x="1232" y="2714"/>
+	<Point x="1193" y="2712"/>
+	<Point x="1176" y="2709"/>
+	<Point x="1160" y="2698"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="catch-word">
+	<Coords>
+	<Point x="1605" y="2707"/>
+	<Point x="1605" y="2758"/>
+	<Point x="1698" y="2758"/>
+	<Point x="1698" y="2707"/>
+	<Point x="1648" y="2701"/>
+	<Point x="1635" y="2696"/>
+	<Point x="1618" y="2698"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ro,
+</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="credit">
+	<Coords>
+	<Point x="781" y="2942"/>
+	<Point x="781" y="2992"/>
+	<Point x="1414" y="2992"/>
+	<Point x="1414" y="2942"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="drop-capital">
+	<Coords>
+	<Point x="123" y="921"/>
+	<Point x="123" y="1076"/>
+	<Point x="264" y="1076"/>
+	<Point x="264" y="921"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y</Unicode></TextEquiv></TextRegion></Page></PcGts>

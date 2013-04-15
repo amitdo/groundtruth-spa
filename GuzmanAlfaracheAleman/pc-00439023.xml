@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439023">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T08:20:49</Created>
+	<LastChange>2010-12-27T11:46:28</LastChange></Metadata>
+	<Page imageFilename="00439023.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="247" y="814"/>
+	<Point x="278" y="794"/>
+	<Point x="623" y="789"/>
+	<Point x="618" y="617"/>
+	<Point x="618" y="605"/>
+	<Point x="622" y="417"/>
+	<Point x="1682" y="405"/>
+	<Point x="1649" y="2578"/>
+	<Point x="1556" y="2581"/>
+	<Point x="1423" y="2568"/>
+	<Point x="1374" y="2583"/>
+	<Point x="1260" y="2578"/>
+	<Point x="1068" y="2600"/>
+	<Point x="175" y="2595"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VELEN algunos que ſueñan co-
+ſas peſadas y tries, bregar tan fuer-
+temente con la imaginacion (que n
+aver movido) deſpues de recordados
+aſsi quedan molidos, como  con un fuerte toro hu-
+vieran luchado à fuerças. Tal he ſalido del proe-
+mio paado, imaginando en el barbariſmo, y nume-
+ro degual de los ignorantes, à cuya cenſura me obli-
+guè, como el que ſale à voluntario deierro, y no es
+en ſu mana la buelta. Empeñème con la promea
+dee libro, hame do forçoſo ſeguir el embite que
+hize de falſo. Bien veo de mi rudo ingenio, y cortos
+eudios, fuera muy juo temer la carrera, y aver
+do ea libertad, y licencia demaada, mas con-
+derando no aver libro tan malo, donde no ſe hae
+algo bueno, ſerà poſsible, que en lo que faltò el in-
+genio, ſupla el zelo de aprovechar que tuve, hazien-
+do algun virtuoſo efeto, que ſeria baante premio de
+mayores trabajos, y digno del perdon de tal atrevi-
+miento. No me ſerà neceario con el diſcreto, largas
+exordios, ni prolixas arengas, pues ni le deſvane-
+ce la eloquencia de palabras, ni lo tuerce la
+fuerça de la oracion à mas de lo juo, ni eriva ſu</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1296" y="2587"/>
+	<Point x="1346" y="2591"/>
+	<Point x="1430" y="2578"/>
+	<Point x="1636" y="2587"/>
+	<Point x="1622" y="2677"/>
+	<Point x="1296" y="2677"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>felicidad</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="drop-capital">
+	<Coords>
+	<Point x="617" y="432"/>
+	<Point x="615" y="781"/>
+	<Point x="275" y="781"/>
+	<Point x="275" y="435"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>S</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="537" y="2859"/>
+	<Point x="1295" y="2864"/>
+	<Point x="1327" y="2946"/>
+	<Point x="521" y="2939"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="245" y="71"/>
+	<Point x="1659" y="71"/>
+	<Point x="1659" y="339"/>
+	<Point x="809" y="373"/>
+	<Point x="245" y="339"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>AL DISCRETO
+Letor.</Unicode></TextEquiv></TextRegion></Page></PcGts>

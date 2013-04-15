@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442471">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T01:34:26</Created>
+	<LastChange>2012-03-12T14:12:03</LastChange></Metadata>
+	<Page imageFilename="00442471.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="358" y="96"/>
+	<Point x="1100" y="96"/>
+	<Point x="1099" y="189"/>
+	<Point x="482" y="186"/>
+	<Point x="482" y="212"/>
+	<Point x="358" y="203"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="130" y="220"/>
+	<Point x="1363" y="220"/>
+	<Point x="1366" y="2172"/>
+	<Point x="711" y="2181"/>
+	<Point x="131" y="2177"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que ee Rey, o Principe, o lo que es, tiene vna muy
+reñida guerra, cõ otro tan poderoſo como el, y el ca
+uaero hueſped le pide(al cabo de algunos dias que
+ha eado en ſu Corte) licencia para yr a ſeruirle en
+aquea guerra dicha. Daraſela el Rey, de muy buen
+talante, y el cauaero le beara corteſmente las ma‐
+nos, por la merced que le faze. Y aquea noche ſe
+deſpedira, de ſu ſeñora la Infanta, por las rejas de vn
+jardin, que cae en el apoſento donde ea duerme,
+por las quales ya otras muchas vezes la auia fabla-
+do, endo medianera y ſabidora de todo, vna donze
+a de quien la Infanta mucho ſe ﬁaua. Soſpirarà el,
+deſmayarae ea, traera agua la dõzea, acuytaraſ-
+ſe mucho, por viene la mañana, y no querria que
+fueen deſcubiertos, por la honra de ſu ſeñora. Fi‐
+nalmente, la Infanta boluera en , y dara ſus blancas
+manos por la reja al cauaero, el qual ſe las beſarà,
+mil y mil vezes, y ſe las bañara en lagrimas. Queda‐
+rà concertado entre los dos, del modo que ſe han de
+hazer ſaber ſus buenos o malos ſuceos: y rogarale
+la Princeſa, que ſe detẽga lo menos que pudiere: pro
+meterſelo ha el, con muchos juramentos: tornale a
+beſar las manos, y deſpideſe con tanto ſentimiento,
+que eara poco por acabar la vida: vaſe deſde ai a
+ſu apoſento, echae ſobre ſu lecho, no pue de dor‐
+mir del dolor de la partida, madruga muy demaña‐
+na: vaſe a deſpedir del Rey, y de la Reyna, y de la In-
+fanta, dizenle auiendoſe deſpedido de los dos,  la ſe
+ñora Infanta ea maldiſpuea, y  no puede recebir
+vita: pienſa el cauaero, que es de pena de ſu parti-
+da, traſpaaele el coraçõ, y falta poco de no dar in‐
+dicio maniﬁeo de ſu pena: eà la donzea media-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="444" y="2301"/>
+	<Point x="1135" y="2301"/>
+	<Point x="1135" y="2364"/>
+	<Point x="447" y="2356"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1265" y="113"/>
+	<Point x="1265" y="201"/>
+	<Point x="1354" y="201"/>
+	<Point x="1354" y="113"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>98</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="963" y="2181"/>
+	<Point x="963" y="2240"/>
+	<Point x="1075" y="2240"/>
+	<Point x="1075" y="2181"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1235" y="2191"/>
+	<Point x="1235" y="2241"/>
+	<Point x="1360" y="2241"/>
+	<Point x="1360" y="2191"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nera</Unicode></TextEquiv></TextRegion></Page></PcGts>

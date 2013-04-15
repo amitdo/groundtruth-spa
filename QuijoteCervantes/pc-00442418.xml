@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442418">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T23:24:09</Created>
+	<LastChange>2012-03-12T14:12:00</LastChange></Metadata>
+	<Page imageFilename="00442418.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="508" y="44"/>
+	<Point x="1176" y="44"/>
+	<Point x="1176" y="148"/>
+	<Point x="508" y="148"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tercera parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="173" y="155"/>
+	<Point x="1482" y="155"/>
+	<Point x="1480" y="2137"/>
+	<Point x="1040" y="2140"/>
+	<Point x="1033" y="2167"/>
+	<Point x="173" y="2167"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>prometo por la orden de cauaero que recebi, de fa
+zeros ſatisfecho y pagado a toda vuera voluntad.
+El ventero le reſpondio con el meſmo ſoſsiego: Se‐
+ñor cauaero, yo no tẽgo neceſsidad de que vuera
+merced me vengue ningun agrauio, porque yo ſe to
+mar la vengança  me parece, quando ſe me hazen.
+Solo he meneer que vuera merced me pague el
+gao  ea noche ha hecho en la venta, aſsi de la pa
+ja y ceuada de ſus dos beias, como de la cena y ca‐
+mas. Luego venta es ea? Replico don Quixote. Y
+muy honrada, reſpondio el vẽtero. Engañado he vi‐
+uido haa aqui, reſpondio don Quixote, que en ver
+dad que penſe que era caio, y no malo: pero pues
+es an, que no es caio no venta, lo  ſe podra ha
+zer por agora es, que perdoneys por la paga, que yo
+no puedo contrauenir a la ordẽ de los cauaeros an
+dãtes. De los quales ſe cierto (n que haa aora aya
+leydo coſa en contrario) que jamas pagaron poſada
+ni otra coſa, en vẽta donde euuieen. Porque ſe les
+deue de fuero y de derecho, qualquier buen acogi‐
+miento que ſe les hiziere, en pago del inſufrible tra‐
+bajo que padecen, buſcando las auenturas de noche
+y de dia, en inuierno y en verano, a pie y a cauao, cõ
+ſed y con hambre, con calor y con frio, ſugetos a to‐
+das las inclemencias del cielo, y a todos los incómo
+dos de la tierra. Poco tengo yo que ver en eo, reſ‐
+pondio el ventero, pagueſeme lo que ſe me deue, y
+dexemonos de cuẽtos, ni de cauaerias,  yo no ten
+go cuenta cõ otra coſa, que con cobrar mi haziẽda.
+Vos ſoys vn ſandio y mal hoalero reſpondio don
+Quixote, y poniendo piernas al Rozinante, y terciã
+do ſu lançon, ſe ſalio de la vẽta n que nadie le detu‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1253" y="2143"/>
+	<Point x="1448" y="2143"/>
+	<Point x="1448" y="2219"/>
+	<Point x="1253" y="2219"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>uiee,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="396" y="2307"/>
+	<Point x="1139" y="2307"/>
+	<Point x="1139" y="2375"/>
+	<Point x="396" y="2375"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

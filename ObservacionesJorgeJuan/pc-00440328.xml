@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440328">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T09:48:40</Created>
+	<LastChange>2011-12-19T11:39:00</LastChange></Metadata>
+	<Page imageFilename="00440328.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="664" y="485"/>
+	<Point x="1392" y="478"/>
+	<Point x="2601" y="493"/>
+	<Point x="2607" y="838"/>
+	<Point x="1937" y="853"/>
+	<Point x="1236" y="861"/>
+	<Point x="1212" y="862"/>
+	<Point x="1101" y="866"/>
+	<Point x="1082" y="861"/>
+	<Point x="1009" y="857"/>
+	<Point x="976" y="861"/>
+	<Point x="667" y="857"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tierra no puede ſer perfeamente Eſphérica; y haandoſe
+menores al pao que eàn mas proximos del Equador, ha
+de ſer preciſamente Lata: eo es, el Diametro del Equa‐
+dor mayor que ſu Exe. �</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="670" y="867"/>
+	<Point x="1040" y="863"/>
+	<Point x="1062" y="867"/>
+	<Point x="1074" y="868"/>
+	<Point x="1236" y="866"/>
+	<Point x="1811" y="863"/>
+	<Point x="1824" y="863"/>
+	<Point x="1868" y="864"/>
+	<Point x="1896" y="864"/>
+	<Point x="2580" y="867"/>
+	<Point x="2617" y="1988"/>
+	<Point x="678" y="1975"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Para haar la razon en que eàn eos dos Diametros,
+M. de Maupertuis dà una formula en ſu medida citada, ba-
+xo la ſupocion de que la curva, por cuya revolucion ſe
+produce la Eſpheroide, ò Figura de la Tierra, es una Elipſe.
+Con ee miſmo principio dì yo otra en Quito ignorando
+la primera; de quien ſolo ſe diingue, en que en aquea
+empleò M. de la Maupertuis las Séries inﬁnitas, lo que yo
+no hice; por lo qual le ſaliò mas mple. Eo me hiciera
+omitir la mia con toda ſu conruccion, à no ſer mas gene‐
+ral, y neceſsitar de algunas Equaciones, que de ea redun‐
+dan. La propocion, y la forma en que yo la reſolvì ſe re‐
+ducen à eo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="1332" y="2087"/>
+	<Point x="1943" y="2087"/>
+	<Point x="1943" y="2176"/>
+	<Point x="1540" y="2188"/>
+	<Point x="1332" y="2176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PROBLEMA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="687" y="2250"/>
+	<Point x="2608" y="2260"/>
+	<Point x="2605" y="2456"/>
+	<Point x="687" y="2480"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dados dos grados, ò minutos de la perifera de una Elipſe,
+haar la razon de ſus Diametros.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="1549" y="2553"/>
+	<Point x="1730" y="2559"/>
+	<Point x="1730" y="2652"/>
+	<Point x="1543" y="2649"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sean</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="2460" y="3335"/>
+	<Point x="2492" y="3332"/>
+	<Point x="2578" y="3335"/>
+	<Point x="2602" y="3335"/>
+	<Point x="2600" y="3419"/>
+	<Point x="2463" y="3417"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DB</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="footnote">
+	<Coords>
+	<Point x="765" y="3396"/>
+	<Point x="1714" y="3394"/>
+	<Point x="1719" y="3483"/>
+	<Point x="767" y="3478"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a. Veanſe las razones en la Introduccion.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="credit">
+	<Coords>
+	<Point x="1013" y="4024"/>
+	<Point x="1606" y="4026"/>
+	<Point x="1935" y="4024"/>
+	<Point x="1935" y="4089"/>
+	<Point x="1013" y="4089"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="footer">
+	<Coords>
+	<Point x="410" y="2732"/>
+	<Point x="670" y="2732"/>
+	<Point x="670" y="2872"/>
+	<Point x="410" y="2872"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>b Fig. 14.
+Lam. 7.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="692" y="2727"/>
+	<Point x="2460" y="2727"/>
+	<Point x="2460" y="3320"/>
+	<Point x="692" y="3320"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BQCE � la Elipſe, ò Meridiano terrere
+EQ el Equador
+BC el Exe
+H Un parage, ò punto donde ſe midiò un grado
+I Otro parage donde ſe midiò el ſegundo grado
+DE = A</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="page-number">
+	<Coords>
+	<Point x="903" y="395"/>
+	<Point x="913" y="458"/>
+	<Point x="803" y="475"/>
+	<Point x="747" y="478"/>
+	<Point x="752" y="412"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>306</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="header">
+	<Coords>
+	<Point x="1245" y="393"/>
+	<Point x="2013" y="393"/>
+	<Point x="2013" y="471"/>
+	<Point x="1245" y="471"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion></Page></PcGts>

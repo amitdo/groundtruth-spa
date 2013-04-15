@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00446018">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T04:12:00</Created>
+	<LastChange>2011-06-24T14:05:33</LastChange></Metadata>
+	<Page imageFilename="00446018.tif" imageWidth="2905" imageHeight="4147">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r19" index="1"/>
+	<RegionRefIndexed regionRef="r21" index="2"/>
+	<RegionRefIndexed regionRef="r23" index="3"/>
+	<RegionRefIndexed regionRef="r27" index="4"/>
+	<RegionRefIndexed regionRef="r29" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r52" index="8"/>
+	<RegionRefIndexed regionRef="r54" index="9"/>
+	<RegionRefIndexed regionRef="r48" index="10"/>
+	<RegionRefIndexed regionRef="r50" index="11"/>
+	<RegionRefIndexed regionRef="r46" index="12"/>
+	<RegionRefIndexed regionRef="r42" index="13"/>
+	<RegionRefIndexed regionRef="r38" index="14"/>
+	<RegionRefIndexed regionRef="r32" index="15"/>
+	<RegionRefIndexed regionRef="r34" index="16"/>
+	<RegionRefIndexed regionRef="r16" index="17"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="744" y="207"/>
+	<Point x="816" y="205"/>
+	<Point x="841" y="204"/>
+	<Point x="936" y="201"/>
+	<Point x="941" y="268"/>
+	<Point x="745" y="268"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CUM</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="385" y="281"/>
+	<Point x="1315" y="278"/>
+	<Point x="1308" y="339"/>
+	<Point x="656" y="343"/>
+	<Point x="597" y="337"/>
+	<Point x="604" y="383"/>
+	<Point x="450" y="382"/>
+	<Point x="426" y="389"/>
+	<Point x="394" y="388"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tis in ſermone familiari uſurpari ſolit, putidus
+aﬀeator.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="373" y="3026"/>
+	<Point x="419" y="3035"/>
+	<Point x="635" y="3030"/>
+	<Point x="679" y="3015"/>
+	<Point x="1352" y="3016"/>
+	<Point x="1367" y="3439"/>
+	<Point x="637" y="3448"/>
+	<Point x="576" y="3443"/>
+	<Point x="580" y="3491"/>
+	<Point x="416" y="3491"/>
+	<Point x="418" y="3087"/>
+	<Point x="375" y="3090"/>
+	<Point x="371" y="3064"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CUMPLIMIENTO. Vale tambien Abundáncia. Lat.
+Copia, . CLAVIJ. Embax. fol. 11. En ee Mo-
+naério havia muchos cumplimientos de caſas,
+de huertas, è aguas. SALAZ. DE MEND. Chron.
+del Card. lib. 2. cap. 54. Las caſas ſon de las
+mayóres y de mas y mejór apoſento que hai
+en la Ciudád: Cabaerizas tienen para cien
+cabaos, y à ee pao todo el demás cumpli-
+miento.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="384" y="3496"/>
+	<Point x="1374" y="3474"/>
+	<Point x="1370" y="3709"/>
+	<Point x="531" y="3709"/>
+	<Point x="435" y="3706"/>
+	<Point x="432" y="3550"/>
+	<Point x="383" y="3551"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CUMPLIMIENTO. Se tomaba tambien en lo anti-
+guo por abao ſuﬁciente de algúna coſa. Lat.
+Suppeditatio. Copia,  FUER. R. lib. 3. tit. 8. l. 2.
+Si algun home fuere metido en prion........</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="catch-word">
+	<Coords>
+	<Point x="2365" y="3664"/>
+	<Point x="2386" y="3665"/>
+	<Point x="2389" y="3678"/>
+	<Point x="2425" y="3678"/>
+	<Point x="2423" y="3715"/>
+	<Point x="2354" y="3710"/>
+	<Point x="2357" y="3678"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſer</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="credit">
+	<Coords>
+	<Point x="1044" y="4014"/>
+	<Point x="1967" y="4012"/>
+	<Point x="1971" y="4068"/>
+	<Point x="1847" y="4072"/>
+	<Point x="1837" y="4088"/>
+	<Point x="1814" y="4086"/>
+	<Point x="1806" y="4070"/>
+	<Point x="1043" y="4067"/>
+	<Point x="1041" y="4040"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="347" y="387"/>
+	<Point x="382" y="385"/>
+	<Point x="392" y="391"/>
+	<Point x="610" y="391"/>
+	<Point x="656" y="382"/>
+	<Point x="789" y="386"/>
+	<Point x="1319" y="382"/>
+	<Point x="1335" y="1060"/>
+	<Point x="1133" y="1061"/>
+	<Point x="1121" y="1102"/>
+	<Point x="801" y="1107"/>
+	<Point x="797" y="1117"/>
+	<Point x="751" y="1119"/>
+	<Point x="752" y="1107"/>
+	<Point x="388" y="1105"/>
+	<Point x="383" y="435"/>
+	<Point x="347" y="430"/>
+	<Point x="339" y="411"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CUMPLIMIENTO. ſ. m. El ao de cumplir
+algúno con lo que tiene obligación. Es ver-
+bal del verbo Cumplir. Lat. Muneris alicui in-
+iuni executio. NIEREMB. Catec. Rom. part. I.
+Lecc. 28. Para eo nos dexó inituídos los
+Sacramentos, por los quales alcanzamos ea
+gracia, y fuerzas para el cumplimiento de ſu
+Ley. PUENT. Conven. lib. 2. cap. 32. §. 8. Adon-
+de tambien predicó, en cumplimiento de ſu
+obligacion y ocio. CRRV. Quix. tom. 2. cap. 28.
+Y te alientes y anímes à eſperar el cumplimien-
+to de mis promeas. SOLD. PIND. fol. 127. Pues
+à quien falta al cumplimiento de ſu palabra, no
+es mucho ſe le niegue tal conﬁanza.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="344" y="1116"/>
+	<Point x="375" y="1113"/>
+	<Point x="720" y="1115"/>
+	<Point x="749" y="1123"/>
+	<Point x="974" y="1111"/>
+	<Point x="1325" y="1107"/>
+	<Point x="1327" y="1630"/>
+	<Point x="574" y="1633"/>
+	<Point x="570" y="1679"/>
+	<Point x="446" y="1681"/>
+	<Point x="417" y="1692"/>
+	<Point x="403" y="1687"/>
+	<Point x="401" y="1170"/>
+	<Point x="344" y="1167"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CUMPLIMIENTO. Se toma tambien por la acción
+obſequioſa que ſe hace con algúno, en conſe-
+qüencia del reſpéto ò benevoléncia que ſe
+tiene con él: como quando ſe dá un parabien,
+ſe hace un regálo, ò ſe liſonjéa y complace.
+Lat. Ofﬁcioſa ofﬁcii funio, perfunio. SOLIS,
+Hi. de Nuev. Eſp. lib. 1. cap. 6. Deſpues de
+los priméros cumplimientos, mandó que egaſ-
+ſen ſus criádos, con otro preſente que trahían.
+SALAZ. Com. El encanto es la hermoſúra.
+Jorn. 1.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="492" y="1690"/>
+	<Point x="799" y="1683"/>
+	<Point x="801" y="1727"/>
+	<Point x="1130" y="1729"/>
+	<Point x="1130" y="1785"/>
+	<Point x="897" y="1781"/>
+	<Point x="903" y="1862"/>
+	<Point x="901" y="1882"/>
+	<Point x="781" y="1882"/>
+	<Point x="730" y="1881"/>
+	<Point x="632" y="1882"/>
+	<Point x="614" y="1891"/>
+	<Point x="550" y="1894"/>
+	<Point x="484" y="1890"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>............... dexa
+Doña Ana los cumplimientos,
+que deſconﬁaré de ti,
+ perſeveras en eos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="355" y="1889"/>
+	<Point x="473" y="1897"/>
+	<Point x="546" y="1901"/>
+	<Point x="688" y="1897"/>
+	<Point x="711" y="1892"/>
+	<Point x="1341" y="1883"/>
+	<Point x="1351" y="2651"/>
+	<Point x="971" y="2655"/>
+	<Point x="928" y="2653"/>
+	<Point x="915" y="2666"/>
+	<Point x="900" y="2666"/>
+	<Point x="892" y="2665"/>
+	<Point x="888" y="2655"/>
+	<Point x="834" y="2657"/>
+	<Point x="769" y="2656"/>
+	<Point x="773" y="2664"/>
+	<Point x="504" y="2670"/>
+	<Point x="409" y="2665"/>
+	<Point x="399" y="1953"/>
+	<Point x="354" y="1951"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CUMPLIMIENTO. Se ama tambien la acción
+afeada y ﬁngida, para cumplir con la apa-
+riencia. Lat. Ofﬁcioſa verba. FLORENC. Mar.
+tom. 2. pl. 214. Hai tres géneros de visítas, unas
+buenas, otras malas, otras indiferentes: las
+buenas ſe deben hacer, las malas evitar, las
+indiferentes no menudear, pues ſon ſolas de
+cumplimiento, y de perdimiento de tiempo.
+RODRIG. Exerc. tom. 2. trat. 3. cap. 20. El dia
+de oy todo es cumplimiento, engaño, liſonja y
+mentíra: que aun eos interpretan aſsi el nom-
+bre cumplimiento, cumplo, y miento para cum-
+plir. CERV. Quix. tom. 2. cap. 21. Que la mano
+que me pides y quieres darme, no ſea por
+cumplimiento, ni para engañarme de nuevo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="372" y="2665"/>
+	<Point x="507" y="2677"/>
+	<Point x="800" y="2666"/>
+	<Point x="906" y="2672"/>
+	<Point x="929" y="2664"/>
+	<Point x="958" y="2662"/>
+	<Point x="1346" y="2656"/>
+	<Point x="1358" y="2971"/>
+	<Point x="1105" y="2969"/>
+	<Point x="1062" y="2980"/>
+	<Point x="1032" y="2971"/>
+	<Point x="806" y="2976"/>
+	<Point x="635" y="2969"/>
+	<Point x="631" y="3022"/>
+	<Point x="434" y="3028"/>
+	<Point x="414" y="3019"/>
+	<Point x="416" y="2722"/>
+	<Point x="371" y="2720"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CUMPLIMIENTO. Vale tambien la execución de
+lo que ſe manda, pide ò encarga: como el
+cumplimiento de una requitória. Lat. Manda-
+ti executio. RECOP. DE IND. lib. 9. tit. 26. l. 10.
+Mandámos à los Predentes, Oidóres y Juſ-
+ticias de las Indias, no den cumplimiento à las
+licéncias.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r30">
+	<Coords>
+	<Point x="2417" y="2720"/>
+	<Point x="2620" y="2719"/>
+	<Point x="2627" y="2973"/>
+	<Point x="2512" y="2976"/>
+	<Point x="2439" y="2968"/>
+	<Point x="2419" y="2972"/>
+	<Point x="2419" y="2962"/></Coords></GraphicRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="1429" y="2802"/>
+	<Point x="2413" y="2791"/>
+	<Point x="2422" y="3564"/>
+	<Point x="2125" y="3566"/>
+	<Point x="2112" y="3610"/>
+	<Point x="2070" y="3613"/>
+	<Point x="2058" y="3618"/>
+	<Point x="2038" y="3619"/>
+	<Point x="2032" y="3608"/>
+	<Point x="1866" y="3615"/>
+	<Point x="1854" y="3623"/>
+	<Point x="1836" y="3624"/>
+	<Point x="1818" y="3623"/>
+	<Point x="1809" y="3617"/>
+	<Point x="1484" y="3619"/>
+	<Point x="1471" y="2856"/>
+	<Point x="1428" y="2855"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CUMPLIR. Vale tambien lo miſmo que Conve-
+nir, tocar ò pertenecer para algún efeo ò ﬁn:
+y en ee ſentido es verbo imperſonal. Lat.
+Convenire. Expedire. C. LUCAN. cap. 5. Para lo
+uno y para lo ál cumple mucho que del primer
+dia que el hombre caſa, debe dar à entender
+à ſu mugér que él es ſeñór. B. CIUD. R. Epi.
+8. pl. 12. E  V. m. pudiee por preſencia avi-
+ſarſe à sí miſmo de lo que le cumple, yo ſe-
+ría deſembargado de el ſubdio. M. AVIL.
+Epi. trat. 4. Epi. 2. Quien ſe ﬁará de ſu de-
+ſeo y parecer, pues aquel en quien moraba el
+Eſpiritu Santo, pide lo que no le cumple al-
+canzar? CERV. Quix. tom. 1. cap. 36. Pues ea
+haó y alcanzó lo que deſeaba, y yo he ha-
+ado en vos lo que me cumple.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords>
+	<Point x="1443" y="3627"/>
+	<Point x="1791" y="3626"/>
+	<Point x="1841" y="3628"/>
+	<Point x="1880" y="3628"/>
+	<Point x="1934" y="3623"/>
+	<Point x="2037" y="3621"/>
+	<Point x="2313" y="3608"/>
+	<Point x="2418" y="3612"/>
+	<Point x="2429" y="3625"/>
+	<Point x="2421" y="3666"/>
+	<Point x="2397" y="3669"/>
+	<Point x="2390" y="3661"/>
+	<Point x="2373" y="3661"/>
+	<Point x="2343" y="3660"/>
+	<Point x="2339" y="3675"/>
+	<Point x="1446" y="3680"/>
+	<Point x="1441" y="3651"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CUMPLIR. Es tambien lo miſmo que baar, y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords>
+	<Point x="1413" y="2546"/>
+	<Point x="1450" y="2542"/>
+	<Point x="1470" y="2557"/>
+	<Point x="1569" y="2556"/>
+	<Point x="1620" y="2558"/>
+	<Point x="1626" y="2550"/>
+	<Point x="1647" y="2547"/>
+	<Point x="2211" y="2533"/>
+	<Point x="2395" y="2534"/>
+	<Point x="2402" y="2744"/>
+	<Point x="1960" y="2752"/>
+	<Point x="1661" y="2750"/>
+	<Point x="1647" y="2794"/>
+	<Point x="1462" y="2797"/>
+	<Point x="1466" y="2600"/>
+	<Point x="1414" y="2600"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CUMPLIR. Vale tambien ſuplir, enar ò acabalar
+algúna coſa. Lat. Supplere. MEX. Hi. Imper.
+Vid. de Alexand. Sever. cap. 2. Si los veía po-
+bres y deſnudos, les cumplia ſus faltas y neceſ-
+dades.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords>
+	<Point x="1398" y="1766"/>
+	<Point x="1584" y="1772"/>
+	<Point x="2397" y="1763"/>
+	<Point x="2400" y="2497"/>
+	<Point x="1996" y="2490"/>
+	<Point x="2008" y="2532"/>
+	<Point x="1713" y="2539"/>
+	<Point x="1638" y="2537"/>
+	<Point x="1635" y="2546"/>
+	<Point x="1617" y="2549"/>
+	<Point x="1590" y="2548"/>
+	<Point x="1582" y="2549"/>
+	<Point x="1506" y="2551"/>
+	<Point x="1478" y="2550"/>
+	<Point x="1464" y="2545"/>
+	<Point x="1446" y="1822"/>
+	<Point x="1400" y="1819"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CUMPLIR. v. a. Executar plenamente lo que
+es de la obligacion de cada uno. Lat. Munus
+conﬁcere, exequi, implere. GUEV. Epi. al Con-
+de de Buendia, pl. 140. Porque no cumple un
+ſeñór con pagar à ſus criados, no que han de
+hacer tambien lo que deben. PUENT. Conven.
+lib. 2. cap. 21. §. 8. Porque los Judíos de las de-
+más Naciónes vivían en Jeruſalén de aſsien-
+to, y los Romános de pao, à cumplir ſu obli-
+gación y volverſe luego à Roma. CERV. Quix.
+tom. 2. cap. 59. Junto con el deſeo de cumplir
+con lo que he prometido. SAAV. Empr. 11.
+Lo que ſe prométe y no ſe cumple, lo recibe
+por afrenta el ſuperiór, por injuicia el igual,
+y por tyranía el inferiór.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="paragraph">
+	<Coords>
+	<Point x="1544" y="1666"/>
+	<Point x="1914" y="1669"/>
+	<Point x="1941" y="1671"/>
+	<Point x="1956" y="1671"/>
+	<Point x="1974" y="1673"/>
+	<Point x="2042" y="1665"/>
+	<Point x="2195" y="1667"/>
+	<Point x="2196" y="1761"/>
+	<Point x="1548" y="1764"/>
+	<Point x="1545" y="1750"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>In militum congreſsibus ſodalium
+Urbanitatis exulant minuti.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords>
+	<Point x="1393" y="793"/>
+	<Point x="2052" y="784"/>
+	<Point x="2388" y="791"/>
+	<Point x="2388" y="1238"/>
+	<Point x="2382" y="1248"/>
+	<Point x="2068" y="1246"/>
+	<Point x="2067" y="1300"/>
+	<Point x="1909" y="1301"/>
+	<Point x="1881" y="1313"/>
+	<Point x="1859" y="1301"/>
+	<Point x="1659" y="1300"/>
+	<Point x="1653" y="1313"/>
+	<Point x="1622" y="1314"/>
+	<Point x="1611" y="1300"/>
+	<Point x="1566" y="1299"/>
+	<Point x="1538" y="1300"/>
+	<Point x="1438" y="1300"/>
+	<Point x="1441" y="846"/>
+	<Point x="1392" y="843"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CUMPLIMIENTO. Se toma algúnas veces por
+Complemento y cabal perfeccion, y felicidád.
+Lat. Complementum. RIBAD. Ciſm. de Inglat.
+lib. 3. cap. 10. Y deſpues de haver dicho algú-
+nas coſas que pertenecen à la continuacion y
+cumplimiento de ea Hioria, pondrémos la
+ſuma de él en ſu lugár. SAAV. Empr. 99. Y aſsi
+la paz (como dixo Iſaías) es el cumplimiento de
+todos los bienes que Dios dá à los hombres,
+como la guerra el mayór mal.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="paragraph">
+	<Coords>
+	<Point x="1396" y="1305"/>
+	<Point x="1602" y="1306"/>
+	<Point x="1612" y="1319"/>
+	<Point x="1727" y="1311"/>
+	<Point x="1851" y="1307"/>
+	<Point x="1869" y="1318"/>
+	<Point x="2067" y="1304"/>
+	<Point x="2372" y="1296"/>
+	<Point x="2373" y="1602"/>
+	<Point x="2345" y="1609"/>
+	<Point x="2295" y="1606"/>
+	<Point x="2280" y="1660"/>
+	<Point x="1961" y="1657"/>
+	<Point x="1962" y="1666"/>
+	<Point x="1949" y="1668"/>
+	<Point x="1929" y="1668"/>
+	<Point x="1931" y="1659"/>
+	<Point x="1446" y="1663"/>
+	<Point x="1445" y="1358"/>
+	<Point x="1396" y="1352"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Entre amigos y Soldádos, cumplimientos ſon ex-
+cuſados. Refr. que enſeña, que quando hai
+verdadéra amiad, no ſe repára en leves omiſ-
+ones ù deſcuidos de cortéjo. Y tambien que
+el deſpéjo militar, aunque praíca la urbani-
+dad y cortesía, ſe detiene poco ò nada en ce-
+remonias afeadas ò impertinentes. Lat.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="paragraph">
+	<Coords>
+	<Point x="1434" y="271"/>
+	<Point x="2163" y="267"/>
+	<Point x="2178" y="278"/>
+	<Point x="2287" y="265"/>
+	<Point x="2336" y="266"/>
+	<Point x="2359" y="270"/>
+	<Point x="2358" y="365"/>
+	<Point x="2130" y="366"/>
+	<Point x="2034" y="369"/>
+	<Point x="1973" y="377"/>
+	<Point x="1963" y="380"/>
+	<Point x="1804" y="375"/>
+	<Point x="1771" y="380"/>
+	<Point x="1515" y="382"/>
+	<Point x="1433" y="371"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aquel que le face meter en la prion, dele
+cumplimiento de pan è de agua nueve dias.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r54" type="paragraph">
+	<Coords>
+	<Point x="1389" y="374"/>
+	<Point x="1511" y="388"/>
+	<Point x="1777" y="382"/>
+	<Point x="1830" y="387"/>
+	<Point x="1971" y="386"/>
+	<Point x="2027" y="374"/>
+	<Point x="2110" y="372"/>
+	<Point x="2358" y="374"/>
+	<Point x="2362" y="739"/>
+	<Point x="1739" y="752"/>
+	<Point x="1673" y="749"/>
+	<Point x="1661" y="786"/>
+	<Point x="1454" y="787"/>
+	<Point x="1430" y="788"/>
+	<Point x="1434" y="432"/>
+	<Point x="1388" y="431"/>
+	<Point x="1380" y="403"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CUMPLIMIENTO. Se toma tambien por exac-
+ción y perfección en el modo de obrar y exe-
+cutar algúna coſa. Lat. Perfeio. Exaio, onis.
+MEDIN. Dialog. Prolog. Y aſsi es mui cierto,
+que con menos diﬁcultád y con mas cumpli-
+miento alcanzarémos à hacer por amór de
+Dios, lo que aqueos hicieron por amór de
+la virtúd.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r56" type="header">
+	<Coords>
+	<Point x="1714" y="196"/>
+	<Point x="1900" y="198"/>
+	<Point x="1903" y="255"/>
+	<Point x="1714" y="257"/>
+	<Point x="1709" y="227"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CUM</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r62" type="page-number">
+	<Coords>
+	<Point x="2197" y="206"/>
+	<Point x="2308" y="206"/>
+	<Point x="2314" y="250"/>
+	<Point x="2236" y="253"/>
+	<Point x="2212" y="270"/>
+	<Point x="2192" y="263"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>701</Unicode></TextEquiv></TextRegion></Page></PcGts>

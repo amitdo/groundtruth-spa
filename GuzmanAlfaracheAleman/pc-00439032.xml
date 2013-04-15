@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439032">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T08:21:50</Created>
+	<LastChange>2010-12-27T12:02:33</LastChange></Metadata>
+	<Page imageFilename="00439032.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="r8" index="2"/>
+	<RegionRefIndexed regionRef="r13" index="3"/>
+	<RegionRefIndexed regionRef="r9" index="4"/>
+	<RegionRefIndexed regionRef="r10" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="207" y="1825"/>
+	<Point x="1240" y="1810"/>
+	<Point x="1230" y="1952"/>
+	<Point x="207" y="1955"/>
+	<Point x="202" y="1937"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En que cuenta quien fue ſu Padre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="40" y="2390"/>
+	<Point x="408" y="2390"/>
+	<Point x="412" y="2090"/>
+	<Point x="415" y="2051"/>
+	<Point x="410" y="1968"/>
+	<Point x="650" y="1975"/>
+	<Point x="1457" y="1970"/>
+	<Point x="1492" y="2566"/>
+	<Point x="1444" y="2573"/>
+	<Point x="1181" y="2573"/>
+	<Point x="1148" y="2596"/>
+	<Point x="1121" y="2594"/>
+	<Point x="875" y="2597"/>
+	<Point x="711" y="2580"/>
+	<Point x="687" y="2608"/>
+	<Point x="25" y="2615"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L deeo  tenia (curioſo Leor) de con-
+tarte mi vida, me daua tanta priea para
+engolfarte en ea, n preuenir algunas co-
+ſas,  (como primer principio) es biẽ dexar-
+las entẽdidas, por endo eenciales à ee
+diſcurſo, tambien te ſeràn de no pequeño
+guo,  me olvidaua de cerrar vn portio, por donde me
+pudiera entrar curando qualquier terminia de mal La-
+n, redarguyendome de pecado, porque no procedì de la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="catch-word">
+	<Coords>
+	<Point x="1191" y="2580"/>
+	<Point x="1262" y="2579"/>
+	<Point x="1444" y="2579"/>
+	<Point x="1451" y="2646"/>
+	<Point x="1182" y="2648"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>diﬁnicion</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="credit">
+	<Coords>
+	<Point x="543" y="2862"/>
+	<Point x="1292" y="2860"/>
+	<Point x="1305" y="2940"/>
+	<Point x="536" y="2930"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r12">
+	<Coords>
+	<Point x="1678" y="1583"/>
+	<Point x="1678" y="1923"/>
+	<Point x="1406" y="1923"/>
+	<Point x="1406" y="1583"/></Coords></ImageRegion>
+	<TextRegion id="r13" type="drop-capital">
+	<Coords>
+	<Point x="404" y="2014"/>
+	<Point x="407" y="2195"/>
+	<Point x="406" y="2313"/>
+	<Point x="404" y="2355"/>
+	<Point x="66" y="2355"/>
+	<Point x="66" y="2014"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="22" y="172"/>
+	<Point x="1500" y="192"/>
+	<Point x="1477" y="1325"/>
+	<Point x="70" y="1345"/>
+	<Point x="17" y="1337"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VIDA Y HECHOS
+DEL PICARO
+GVZMAN
+DE
+ALFARACHE,
+PARTE PRIMERA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="92" y="1450"/>
+	<Point x="1395" y="1447"/>
+	<Point x="1367" y="1787"/>
+	<Point x="82" y="1802"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIBRO PRIMERO
+CAPITVLO I.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="signature-mark">
+	<Coords>
+	<Point x="710" y="2591"/>
+	<Point x="710" y="2658"/>
+	<Point x="796" y="2658"/>
+	<Point x="796" y="2591"/>
+	<Point x="752" y="2586"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="page-number">
+	<Coords>
+	<Point x="1345" y="71"/>
+	<Point x="1345" y="154"/>
+	<Point x="1466" y="154"/>
+	<Point x="1466" y="71"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1</Unicode></TextEquiv></TextRegion></Page></PcGts>

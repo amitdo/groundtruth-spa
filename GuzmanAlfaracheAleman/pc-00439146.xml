@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439146">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T14:05:58</Created>
+	<LastChange>2010-12-28T07:16:50</LastChange></Metadata>
+	<Page imageFilename="00439146.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="571" y="82"/>
+	<Point x="1517" y="71"/>
+	<Point x="1514" y="157"/>
+	<Point x="567" y="157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="285" y="185"/>
+	<Point x="346" y="171"/>
+	<Point x="1718" y="168"/>
+	<Point x="1722" y="2114"/>
+	<Point x="915" y="2125"/>
+	<Point x="357" y="2121"/>
+	<Point x="237" y="2117"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Padrino derribò al un mantenedor, ſeñalando valeroſa-
+mente ſu perſona. Era la diferencia tanta, los apeidos
+tan contrarios, las calidades alegadas, tan diantes que
+para ſalir dea duda, ſe reſolvieron los juezes en tomar
+ſu declaracion. Preguntaronle  era cavaero? Re-
+ſpondiò, ſer noble de ſangre Real, pero no amarſe Am-
+broo, ni Jayme Vives; pidenle que diga ſu nombre, y
+caliﬁque ſu perſona? Reſpondiò que no por deſcubrirſe
+eſcuſara la pena: y que aviendo de morir indubitable-
+mente, no era neceario dezirlo, ni de importancia pade-
+cer una ni otra muerte. Rogaronle, dixee,  avia do
+el que don Alonſo dezia, que tan ſeñalado anduvo en
+los toros y jua? Reſpondiò ſer aſ, pero no tenia los
+nombres que dezian, y como tan de veras negae ſu Ii-
+nage (pareciendoles hombre de calidad) fueronſedete-
+niendo algo con el, para veriﬁcar quien fuee: y porque
+los dos cavaeros los defendian, y en general toda la ciu-
+dad deeava ſu libertad, y le eavan apaſonados. Con
+eo deſpacharon à Zaragoça, que ſe averiguara la ver-
+dad, y ſupiera ſu nacimiento. Mas aviendoſe gaado al-
+gunos dias en eo, y hecho muchas diligencias, no ſe de-
+ſcubriò quien del diee noticia, ni ſupiera quien pudiera
+ſer el cavaero de ſu nombre ni ſeñas. Traydo ee mal
+deſpacho, aunque le importunaron, ſus amigos y la jui-
+cia le requiriò diverſas vezes  ſe caliﬁcara, jamas lo quiſo
+hazer, ni ſue poſble. Aſ (paados los terminos) los
+juezes muy contra ſu voluntad, condolidos de tanta mo-
+çedad y valentia, no pudiendo dexar de hazer juicia,
+endo con importunacion pedida de los contrarios, con-
+ﬁrmaron la ſentencia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="314" y="2126"/>
+	<Point x="1732" y="2132"/>
+	<Point x="1726" y="2592"/>
+	<Point x="294" y="2630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Daraxa, ni ſus padres no dormian en quanto eo
+paàva, que ya tenian hecha relacion à ſus Altezas de
+todo el caſo, y eavan informados de la verdad. Davan-
+ſeles memoriales por momentos. Daraxa perſonalmen-
+te ſolicitava la vida de ſu eſpoſo, pidiendola de merced, y
+nada ſe reſpondia: pero ſecretamente deſpacharon luego
+à don Luys, con ſu Real provion à las juicias, para</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1592" y="2603"/>
+	<Point x="1708" y="2603"/>
+	<Point x="1703" y="2671"/>
+	<Point x="1592" y="2666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="539" y="2857"/>
+	<Point x="1305" y="2862"/>
+	<Point x="1304" y="2936"/>
+	<Point x="548" y="2932"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="317" y="67"/>
+	<Point x="317" y="157"/>
+	<Point x="482" y="157"/>
+	<Point x="482" y="67"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>112</Unicode></TextEquiv></TextRegion></Page></PcGts>

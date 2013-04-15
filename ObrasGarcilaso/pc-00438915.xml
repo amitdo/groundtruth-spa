@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438915">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T07:54:54</Created>
+	<LastChange>2011-06-24T14:04:24</LastChange></Metadata>
+	<Page imageFilename="00438915.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r12" index="1"/>
+	<RegionRefIndexed regionRef="r14" index="2"/>
+	<RegionRefIndexed regionRef="r15" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="473" y="52"/>
+	<Point x="1116" y="35"/>
+	<Point x="1130" y="90"/>
+	<Point x="1123" y="133"/>
+	<Point x="526" y="140"/>
+	<Point x="471" y="128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBRAS DE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1160" y="1967"/>
+	<Point x="1178" y="1964"/>
+	<Point x="1192" y="1964"/>
+	<Point x="1224" y="1975"/>
+	<Point x="1267" y="1968"/>
+	<Point x="1363" y="1969"/>
+	<Point x="1367" y="1997"/>
+	<Point x="1364" y="2034"/>
+	<Point x="1161" y="2032"/>
+	<Point x="1155" y="2022"/>
+	<Point x="1154" y="1998"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>hazien-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="500" y="2100"/>
+	<Point x="975" y="2100"/>
+	<Point x="975" y="2139"/>
+	<Point x="500" y="2139"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="304" y="159"/>
+	<Point x="271" y="169"/>
+	<Point x="273" y="216"/>
+	<Point x="285" y="238"/>
+	<Point x="319" y="238"/>
+	<Point x="319" y="221"/>
+	<Point x="1228" y="221"/>
+	<Point x="1252" y="192"/>
+	<Point x="1230" y="159"/>
+	<Point x="1200" y="145"/>
+	<Point x="1001" y="151"/>
+	<Point x="978" y="147"/>
+	<Point x="947" y="159"/>
+	<Point x="776" y="150"/>
+	<Point x="769" y="159"/>
+	<Point x="573" y="154"/>
+	<Point x="508" y="144"/>
+	<Point x="336" y="143"/>
+	<Point x="313" y="155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pudiera ſer tomado con la mano.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="marginalia">
+	<Coords>
+	<Point x="125" y="253"/>
+	<Point x="104" y="271"/>
+	<Point x="110" y="292"/>
+	<Point x="116" y="298"/>
+	<Point x="175" y="297"/>
+	<Point x="195" y="296"/>
+	<Point x="202" y="293"/>
+	<Point x="206" y="286"/>
+	<Point x="207" y="281"/>
+	<Point x="205" y="275"/>
+	<Point x="200" y="264"/>
+	<Point x="186" y="251"/>
+	<Point x="174" y="251"/>
+	<Point x="127" y="252"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>222</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="203" y="231"/>
+	<Point x="242" y="229"/>
+	<Point x="271" y="246"/>
+	<Point x="340" y="249"/>
+	<Point x="604" y="228"/>
+	<Point x="1341" y="223"/>
+	<Point x="1331" y="810"/>
+	<Point x="966" y="814"/>
+	<Point x="960" y="836"/>
+	<Point x="942" y="842"/>
+	<Point x="930" y="836"/>
+	<Point x="920" y="817"/>
+	<Point x="590" y="818"/>
+	<Point x="569" y="842"/>
+	<Point x="556" y="837"/>
+	<Point x="534" y="829"/>
+	<Point x="529" y="823"/>
+	<Point x="360" y="820"/>
+	<Point x="250" y="816"/>
+	<Point x="214" y="307"/>
+	<Point x="210" y="297"/>
+	<Point x="209" y="268"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Los rayos ya del Sol ſe traornauan,
+eſcondiendo ſu luz al mundo cara
+tras altos montes, y a la Luna dauan
+lugar para morar ſu blanca cara:
+Los pezes a menudo ya ſaltauan,
+con la cola açotando el agua clara,
+quando las Nynfas la labor dexando,
+hàzia el agua ſe fueron paeando.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="226" y="822"/>
+	<Point x="184" y="829"/>
+	<Point x="180" y="878"/>
+	<Point x="185" y="897"/>
+	<Point x="247" y="897"/>
+	<Point x="243" y="932"/>
+	<Point x="210" y="1418"/>
+	<Point x="300" y="1430"/>
+	<Point x="337" y="1429"/>
+	<Point x="370" y="1429"/>
+	<Point x="385" y="1438"/>
+	<Point x="399" y="1446"/>
+	<Point x="404" y="1441"/>
+	<Point x="409" y="1425"/>
+	<Point x="611" y="1422"/>
+	<Point x="844" y="1420"/>
+	<Point x="850" y="1428"/>
+	<Point x="867" y="1431"/>
+	<Point x="880" y="1421"/>
+	<Point x="883" y="1420"/>
+	<Point x="885" y="1429"/>
+	<Point x="889" y="1436"/>
+	<Point x="900" y="1442"/>
+	<Point x="904" y="1438"/>
+	<Point x="908" y="1426"/>
+	<Point x="909" y="1421"/>
+	<Point x="911" y="1417"/>
+	<Point x="974" y="1422"/>
+	<Point x="1163" y="1418"/>
+	<Point x="1249" y="1417"/>
+	<Point x="1307" y="1381"/>
+	<Point x="1298" y="1301"/>
+	<Point x="1290" y="1282"/>
+	<Point x="1176" y="1279"/>
+	<Point x="1163" y="1135"/>
+	<Point x="1278" y="1128"/>
+	<Point x="1298" y="1073"/>
+	<Point x="1345" y="1036"/>
+	<Point x="1367" y="1023"/>
+	<Point x="1374" y="983"/>
+	<Point x="1278" y="950"/>
+	<Point x="1240" y="962"/>
+	<Point x="1212" y="840"/>
+	<Point x="1143" y="828"/>
+	<Point x="1047" y="828"/>
+	<Point x="974" y="838"/>
+	<Point x="950" y="846"/>
+	<Point x="935" y="847"/>
+	<Point x="909" y="835"/>
+	<Point x="854" y="832"/>
+	<Point x="598" y="829"/>
+	<Point x="589" y="855"/>
+	<Point x="562" y="857"/>
+	<Point x="552" y="838"/>
+	<Point x="545" y="835"/>
+	<Point x="527" y="835"/>
+	<Point x="281" y="830"/>
+	<Point x="258" y="828"/>
+	<Point x="229" y="822"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En las templadas ondas ya metidos
+tenian los pies, y reclinar querian
+los blancos cuerpos, quando ſus oy dos
+fueron de dos çampoñas que tañian
+ſuaue, y dulcemente detenidos,
+tanto, que n mudarſe las oían,
+y al ſon de las çampoñas eſcuchauan
+dos paoras a vezes, que cantauan.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="219" y="1438"/>
+	<Point x="181" y="1435"/>
+	<Point x="177" y="1516"/>
+	<Point x="247" y="1526"/>
+	<Point x="249" y="1584"/>
+	<Point x="250" y="1943"/>
+	<Point x="549" y="1976"/>
+	<Point x="1140" y="1969"/>
+	<Point x="1178" y="1956"/>
+	<Point x="1190" y="1954"/>
+	<Point x="1198" y="1954"/>
+	<Point x="1209" y="1964"/>
+	<Point x="1218" y="1967"/>
+	<Point x="1242" y="1959"/>
+	<Point x="1252" y="1925"/>
+	<Point x="1209" y="1891"/>
+	<Point x="1185" y="1759"/>
+	<Point x="1235" y="1708"/>
+	<Point x="1225" y="1595"/>
+	<Point x="1318" y="1574"/>
+	<Point x="1316" y="1501"/>
+	<Point x="1252" y="1456"/>
+	<Point x="1101" y="1430"/>
+	<Point x="1050" y="1424"/>
+	<Point x="1015" y="1428"/>
+	<Point x="940" y="1427"/>
+	<Point x="918" y="1427"/>
+	<Point x="912" y="1440"/>
+	<Point x="903" y="1447"/>
+	<Point x="886" y="1449"/>
+	<Point x="876" y="1437"/>
+	<Point x="866" y="1436"/>
+	<Point x="842" y="1431"/>
+	<Point x="746" y="1429"/>
+	<Point x="611" y="1428"/>
+	<Point x="414" y="1432"/>
+	<Point x="404" y="1455"/>
+	<Point x="391" y="1447"/>
+	<Point x="389" y="1442"/>
+	<Point x="387" y="1440"/>
+	<Point x="382" y="1437"/>
+	<Point x="370" y="1431"/>
+	<Point x="340" y="1431"/>
+	<Point x="254" y="1435"/>
+	<Point x="221" y="1438"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mas claro cada vez el ſon ſe oía
+de los paores, que venian cantando
+tras el ganado, que tambien venia
+por aquel verde ſoto caminando:
+y a la majada, ya paado el dìa,
+recogido le euauan, alegrando
+las verdes ſeluas con el ſon ſuaue,</Unicode></TextEquiv></TextRegion></Page></PcGts>

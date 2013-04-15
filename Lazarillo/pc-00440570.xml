@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440570">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T01:23:07</Created>
+	<LastChange>2011-07-05T14:26:06</LastChange></Metadata>
+	<Page imageFilename="00440570.tif" imageWidth="876" imageHeight="1640">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r11" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="91" y="97"/>
+	<Point x="837" y="101"/>
+	<Point x="839" y="576"/>
+	<Point x="91" y="575"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>matare con el. Dea manera no
+me dizen nada, y yo tengo paz en
+mi caſa, mi caſamiento fue el meſ-
+mo año que nuero viorioſo
+Emperador entro en ea ingne
+ciudad de Toledo, y tuuo en ea
+cortes, y ſe hizieron grandes re-
+gozijos, y ﬁeas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="193" y="681"/>
+	<Point x="740" y="681"/>
+	<Point x="740" y="746"/>
+	<Point x="193" y="746"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP. NONO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="92" y="806"/>
+	<Point x="832" y="806"/>
+	<Point x="832" y="989"/>
+	<Point x="92" y="989"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Do cuenta Lazaro la amiﬆad que
+tuue en Toledo con vnos
+Tudeſcos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="200" y="1167"/>
+	<Point x="201" y="1036"/>
+	<Point x="830" y="1035"/>
+	<Point x="827" y="1535"/>
+	<Point x="79" y="1535"/>
+	<Point x="78" y="1167"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N ee tiempo eaua en mi
+proſperidad, y en la cumbre
+de toda buena fortuna, y como
+empre truxee en mi compañia
+vna buena redoma de buen vino
+que en ea tierra lo ay, para mue-
+ia de lo que pregonaua, cobre
+tantos amigos, y ſeñores, ai na-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="279" y="1580"/>
+	<Point x="572" y="1580"/>
+	<Point x="572" y="1612"/>
+	<Point x="279" y="1612"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="111" y="43"/>
+	<Point x="188" y="43"/>
+	<Point x="188" y="87"/>
+	<Point x="111" y="87"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>116</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="347" y="41"/>
+	<Point x="623" y="41"/>
+	<Point x="623" y="91"/>
+	<Point x="347" y="91"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="drop-capital">
+	<Coords>
+	<Point x="95" y="1052"/>
+	<Point x="194" y="1052"/>
+	<Point x="194" y="1163"/>
+	<Point x="95" y="1163"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r12">
+	<Coords>
+	<Point x="94" y="607"/>
+	<Point x="94" y="669"/>
+	<Point x="833" y="669"/>
+	<Point x="833" y="607"/></Coords></SeparatorRegion></Page></PcGts>

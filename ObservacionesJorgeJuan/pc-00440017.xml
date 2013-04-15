@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440017">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T11:55:03</Created>
+	<LastChange>2011-12-19T11:38:35</LastChange></Metadata>
+	<Page imageFilename="00440017.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r4" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/>
+	<RegionRefIndexed regionRef="r9" index="3"/>
+	<RegionRefIndexed regionRef="r11" index="4"/>
+	<RegionRefIndexed regionRef="r17" index="5"/>
+	<RegionRefIndexed regionRef="r12" index="6"/>
+	<RegionRefIndexed regionRef="r18" index="7"/></OrderedGroup></ReadingOrder>
+	<ImageRegion id="r2">
+	<Coords>
+	<Point x="2520" y="295"/>
+	<Point x="2536" y="1442"/>
+	<Point x="2200" y="1449"/>
+	<Point x="90" y="1451"/>
+	<Point x="94" y="307"/>
+	<Point x="2145" y="298"/>
+	<Point x="2191" y="300"/>
+	<Point x="2221" y="300"/>
+	<Point x="2409" y="296"/>
+	<Point x="2491" y="294"/></Coords></ImageRegion>
+	<GraphicRegion id="r5" type="other">
+	<Coords>
+	<Point x="376" y="1956"/>
+	<Point x="2182" y="1956"/>
+	<Point x="2182" y="2074"/>
+	<Point x="376" y="2074"/></Coords></GraphicRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="945" y="2121"/>
+	<Point x="1619" y="2123"/>
+	<Point x="1619" y="2235"/>
+	<Point x="941" y="2235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIBRO I.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="933" y="2533"/>
+	<Point x="1660" y="2533"/>
+	<Point x="1660" y="2631"/>
+	<Point x="933" y="2631"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITULO I.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="711" y="2925"/>
+	<Point x="709" y="2875"/>
+	<Point x="745" y="2876"/>
+	<Point x="2229" y="2886"/>
+	<Point x="2239" y="3370"/>
+	<Point x="1809" y="3389"/>
+	<Point x="1730" y="3392"/>
+	<Point x="1711" y="3392"/>
+	<Point x="1639" y="3394"/>
+	<Point x="1529" y="3377"/>
+	<Point x="1415" y="3381"/>
+	<Point x="1387" y="3387"/>
+	<Point x="1164" y="3370"/>
+	<Point x="896" y="3370"/>
+	<Point x="462" y="3394"/>
+	<Point x="356" y="3386"/>
+	<Point x="350" y="3280"/>
+	<Point x="733" y="3280"/>
+	<Point x="727" y="3168"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>IENDO la averiguacion de la maxima Obliqui‐
+dad de la Ecliptica, ò del angulo, que ee cir‐
+culo forma con la Equinoccial, de las prime-
+ras obſervaciones, que ſe neceſsitan hacer en
+la praica de la Aronomìa, parece, que debemos dàr</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="credit">
+	<Coords>
+	<Point x="1000" y="4042"/>
+	<Point x="1002" y="4038"/>
+	<Point x="1021" y="4035"/>
+	<Point x="1026" y="4032"/>
+	<Point x="1032" y="4030"/>
+	<Point x="1040" y="4030"/>
+	<Point x="1048" y="4033"/>
+	<Point x="1054" y="4036"/>
+	<Point x="1071" y="4044"/>
+	<Point x="1082" y="4042"/>
+	<Point x="1085" y="4036"/>
+	<Point x="1086" y="4031"/>
+	<Point x="1087" y="4028"/>
+	<Point x="1169" y="4028"/>
+	<Point x="1958" y="4009"/>
+	<Point x="1958" y="4096"/>
+	<Point x="984" y="4096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="drop-capital">
+	<Coords>
+	<Point x="699" y="2904"/>
+	<Point x="700" y="3245"/>
+	<Point x="352" y="3239"/>
+	<Point x="345" y="2904"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>S</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="444" y="2250"/>
+	<Point x="497" y="2242"/>
+	<Point x="795" y="2250"/>
+	<Point x="858" y="2252"/>
+	<Point x="1243" y="2249"/>
+	<Point x="1743" y="2249"/>
+	<Point x="1879" y="2236"/>
+	<Point x="1894" y="2237"/>
+	<Point x="2126" y="2249"/>
+	<Point x="2111" y="2490"/>
+	<Point x="1305" y="2503"/>
+	<Point x="453" y="2500"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sobre la maxima Obliquidad de la
+Ecliptica.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="339" y="2645"/>
+	<Point x="2225" y="2650"/>
+	<Point x="2227" y="2843"/>
+	<Point x="1382" y="2862"/>
+	<Point x="345" y="2847"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De lo util, y neceario que es el obſervar la maxima Obliquidad
+de la Ecliptica.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="catch-word">
+	<Coords>
+	<Point x="2050" y="3384"/>
+	<Point x="2050" y="3482"/>
+	<Point x="2245" y="3482"/>
+	<Point x="2245" y="3384"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Prin-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="signature-mark">
+	<Coords>
+	<Point x="1424" y="3384"/>
+	<Point x="1544" y="3385"/>
+	<Point x="1543" y="3486"/>
+	<Point x="1415" y="3486"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="372" y="1476"/>
+	<Point x="2198" y="1476"/>
+	<Point x="2198" y="1921"/>
+	<Point x="372" y="1921"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES
+ASTRONOMICAS, Y PHYSICAS,
+hechas de Orden de S. M.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r21" type="stamp">
+	<Coords>
+	<Point x="992" y="4018"/>
+	<Point x="1004" y="4027"/>
+	<Point x="1023" y="4032"/>
+	<Point x="1036" y="4027"/>
+	<Point x="1044" y="4030"/>
+	<Point x="1058" y="4037"/>
+	<Point x="1067" y="4041"/>
+	<Point x="1081" y="4040"/>
+	<Point x="1084" y="4033"/>
+	<Point x="1086" y="4027"/>
+	<Point x="1139" y="4026"/>
+	<Point x="1311" y="3963"/>
+	<Point x="1368" y="3702"/>
+	<Point x="1322" y="3414"/>
+	<Point x="1032" y="3379"/>
+	<Point x="805" y="3429"/>
+	<Point x="809" y="3875"/></Coords></GraphicRegion></Page></PcGts>

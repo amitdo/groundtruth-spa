@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442427">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T04:25:54</Created>
+	<LastChange>2012-03-12T14:12:01</LastChange></Metadata>
+	<Page imageFilename="00442427.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="413" y="34"/>
+	<Point x="1151" y="34"/>
+	<Point x="1151" y="158"/>
+	<Point x="553" y="154"/>
+	<Point x="544" y="174"/>
+	<Point x="479" y="176"/>
+	<Point x="410" y="170"/>
+	<Point x="368" y="90"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="133" y="161"/>
+	<Point x="351" y="175"/>
+	<Point x="384" y="180"/>
+	<Point x="420" y="182"/>
+	<Point x="710" y="177"/>
+	<Point x="1060" y="179"/>
+	<Point x="1416" y="162"/>
+	<Point x="1402" y="2138"/>
+	<Point x="1201" y="2134"/>
+	<Point x="1154" y="2127"/>
+	<Point x="1141" y="2134"/>
+	<Point x="1031" y="2133"/>
+	<Point x="1000" y="2133"/>
+	<Point x="133" y="2197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pero buelue los ojos a eotra parte, y veras delante
+y en la frente deotro exercito, al empre vence-
+dor y jamas vencido, Timonel de Carcajona, Prin-
+cipe de la nueua Vizcaya, que viene armado con las
+armas partidas a quarteles, azules, verdes, blancas, y
+amarias, y trae en el eſcudo vn gato de oro, en cam
+poleonado, con vna letra que dize, Miau, que es el
+principio del nombre de ſu dama, que ſegun ſe dize
+es la mpar Miulina, hija del duque Alfeñiquen del
+Algarue: el otro que carga y oprime los lomos de
+aquea poderoſa Alfana, que trae las armas como
+nieue blancas, y el eſcudo blanco y n empreſa algu
+na, es vn cauaero nouel de nacion Frances, ama‐
+do Pierres Papio, ſeñor de las Baronias de vtri: el
+otro que bate las hijadas cõ los herrados carcanos,
+a aquea pintada y ligera cebra, y trae las armas de
+los veros azules, es el poderoſo Duque de Nerbia,
+Eſpartaﬁlardo del Boſque, que trae por empreſa en
+el eſcudo vna eſparraguera, con vna letra en Cae-
+ano, que dize aſsi, Rarea mi ſuerte. Y dea mane‐
+ra fue nombrando muchos caueros, del vno y del
+otro eſquadron que el ſe ymaginaua. Y a todos les
+dio ſus armas, colores, empreſas, y motes de impro-
+uiſo, euado de la ymaginacion de ſu nunca via lo‐
+cura, y n parar proguio diziendo: A ee eſqua-
+dron frontero, forman y hazen gentes de diuerſas
+naciones, aqui ean los que beuian las dulces aguas
+del famoſo Xanto, los Mentuoſos que piſan los Ma
+licos campos, los que cubren el ﬁniſsimo y menudo
+oro, en la felize Arabia, los que gozan las famoſas y
+freſcas riberas del claro Termodoante, los que ſan.
+gran por muchas y diuerſas vias al dorado Paolo,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="445" y="2277"/>
+	<Point x="1132" y="2277"/>
+	<Point x="1132" y="2361"/>
+	<Point x="445" y="2361"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1287" y="67"/>
+	<Point x="1287" y="155"/>
+	<Point x="1425" y="155"/>
+	<Point x="1425" y="67"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>76</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1309" y="2146"/>
+	<Point x="1309" y="2201"/>
+	<Point x="1419" y="2201"/>
+	<Point x="1419" y="2146"/>
+	<Point x="1332" y="2141"/>
+	<Point x="1323" y="2141"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>los</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1033" y="2139"/>
+	<Point x="1033" y="2202"/>
+	<Point x="1158" y="2202"/>
+	<Point x="1158" y="2139"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>K 4</Unicode></TextEquiv></TextRegion></Page></PcGts>

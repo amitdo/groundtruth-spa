@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444259">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:17:43</Created>
+	<LastChange>2011-12-19T11:39:34</LastChange></Metadata>
+	<Page imageFilename="00444259.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="281" y="115"/>
+	<Point x="1464" y="112"/>
+	<Point x="1500" y="219"/>
+	<Point x="278" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="109" y="241"/>
+	<Point x="1491" y="239"/>
+	<Point x="1716" y="239"/>
+	<Point x="1730" y="2642"/>
+	<Point x="1435" y="2637"/>
+	<Point x="1346" y="2663"/>
+	<Point x="114" y="2667"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>contentae al que claramẽte veya eaua por
+teigo, y aunque a vezes temia con lo mucho
+que me dezian, durauame poco el temor, por-
+que el Señor me aeguraua. Eando vn dia
+en oracion quiſo el Señor morarme ſolas las
+manos, con tan grandiſsima hermoſura, que
+no lo podria yo encarecer. Hizome gran te-
+mor, porque qualquier nouedad me le haze
+grãde a los principios de qualquiera merced
+ſobrenatural  el Señor me haga. Deſde a po
+cos dias vi tambien aquel diuino roro  del
+todo me parece me dexo abſorta. No podia
+yo entẽder, porque el Señor ſe moraua an
+poco a poco, pues deſpues me auia de hazer
+merced  yo le viee del todo, haa deſpues 
+he entendido,  me yua el Señor euando cõ
+forme a mi ﬂaqueza natural, ſea bendito por
+empre, porque tanta gloria jũta, tan baxo, y
+ruyn ſugeto no la pudiera ſuﬀrir, y como quiẽ
+eo ſabia, yua el piadoſo Señor diſponiendo.
+Parecerle ha a v.m. que no era meneer mu-
+cho esfuerço, para ver vnas manos y roro
+tan hermoſo: ſonlo tanto los cuerpos glori-
+ﬁcados, que la gloria que traen congo ver
+coſa tan ſobrenatural, y hermoſa deſatina, y
+an me hazia tanto temor, que toda me tur-
+baua, y alborotada, aun deſpues quedaua cõ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1484" y="2657"/>
+	<Point x="1700" y="2652"/>
+	<Point x="1706" y="2755"/>
+	<Point x="1486" y="2763"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>certi-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="627" y="3075"/>
+	<Point x="1566" y="3076"/>
+	<Point x="1565" y="3152"/>
+	<Point x="626" y="3154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1532" y="116"/>
+	<Point x="1521" y="230"/>
+	<Point x="1589" y="230"/>
+	<Point x="1712" y="229"/>
+	<Point x="1709" y="116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>331</Unicode></TextEquiv></TextRegion></Page></PcGts>

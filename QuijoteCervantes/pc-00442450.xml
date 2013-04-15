@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442450">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T02:00:12</Created>
+	<LastChange>2012-03-12T14:12:02</LastChange></Metadata>
+	<Page imageFilename="00442450.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="531" y="76"/>
+	<Point x="1199" y="76"/>
+	<Point x="1196" y="166"/>
+	<Point x="801" y="167"/>
+	<Point x="802" y="187"/>
+	<Point x="771" y="187"/>
+	<Point x="770" y="161"/>
+	<Point x="518" y="159"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tercera parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="145" y="163"/>
+	<Point x="755" y="171"/>
+	<Point x="765" y="192"/>
+	<Point x="810" y="191"/>
+	<Point x="810" y="173"/>
+	<Point x="1473" y="177"/>
+	<Point x="1473" y="2162"/>
+	<Point x="144" y="2162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>echarſe a dormir vn poco ſobre la verde yerua, a
+vſo de cauaeros andantes, para haarſe mas deſ‐
+canſado quando egue el dia, y pũto de acometer
+ea tan deſemejable auentura que le eſpera. A que
+amas apear, o a que dormir, dixo don Quixote?
+Soy yo por vẽtura de aqueos cauaeros que to‐
+man repoſo en los pelogros? duerme tu que naciſ‐
+te para dormir, o haz lo que quieres, que yo hare
+lo que viere que mas viene con mi pretenon. No
+ſe enoje vuera merced ſeñor mio, reſpondio San
+cho, que no lo dixe por tanto: y egandoſe a el pu‐
+ſo la vna mano en el arzon delantero, y la otra en el
+otro, de modo que quedô abraçado con el muo
+yzquierdo de ſu amo, n oſarſe apartar del vn de‐
+do: tal era el miedo que tenia a los golpes,  toda
+via alternatiuamente ſonauan. Dixole don Quixo‐
+te, que contae algun cuento para entretenerle, co
+mo ſe lo auia prometido: a lo que Sancho dixo que
+ hiziera,  le dexara el temor de lo que oîa, pero
+cõ todo eo yo me esforçarè a dezir vna hioria,
+que  la acierto a contar, y no me van a la mano, es
+la mejor de las hiorias: y eeme vuera merced
+atento,  ya comienço. Eraſe que ſe era, el bien que
+viniere para todos ſea, y el mal para quien lo fuere
+a buſcar. Y aduierta vuera merced, ſeñor mio, 
+el principio que los antiguos dieron a ſus conſejas,
+no fue aſsi como quiera,  fue vna ſentencia de Ca‐
+ton Çonzorino Romano, que dize: Y el mal para
+quien le fuere a buſcar, que viene aqui como anio
+al dedo, para  vuera merced ſe eè quedo, y no
+vaya a buſcar el mal a ninguna parte, no que nos
+boluamos por otro camino, pues nadie nos fuerça</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1264" y="2169"/>
+	<Point x="1441" y="2169"/>
+	<Point x="1441" y="2233"/>
+	<Point x="1264" y="2233"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="433" y="2307"/>
+	<Point x="1133" y="2307"/>
+	<Point x="1133" y="2373"/>
+	<Point x="433" y="2373"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

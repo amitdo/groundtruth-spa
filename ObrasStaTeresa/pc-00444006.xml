@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444006">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:46:56</Created>
+	<LastChange>2011-12-19T11:39:20</LastChange></Metadata>
+	<Page imageFilename="00444006.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="888" y="106"/>
+	<Point x="1533" y="109"/>
+	<Point x="1526" y="210"/>
+	<Point x="886" y="201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="442" y="233"/>
+	<Point x="1985" y="246"/>
+	<Point x="1989" y="2628"/>
+	<Point x="1480" y="2630"/>
+	<Point x="1460" y="2660"/>
+	<Point x="825" y="2662"/>
+	<Point x="414" y="2664"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>es peccado, como muchas vezes yo lo hazia: y
+ay tan gran difﬁcultad en hazerlo entender, 
+es meneer el Señor ponga muy de veras en
+eo ſu mano. Si los padres tomaen mi cõſejo
+ya  no quieran mirar a poner ſus hijas adõde
+vayan camino de ſaluaciõ, no con mas peli-
+gro  en el mundo, que lo miren por lo  toca
+a ſu honra, y quieran mas caſarlas muy baxa-
+mente,  meterlas en moneerios ſemejãtes,
+no ſõ muy biẽ inclinadas, y plega Dios apro
+ueche, o ſe la tenga en ſu caſa, por  quiere
+ſer ruyn, no ſe podra encubrir, no poco tiẽ-
+po, y aca muy mucho, y en ﬁn lo deſcubre el
+Señor, y no ſolo daña a , no a todas, y a las
+vezes las pobrezitas no tienen culpa, por ſe
+van por lo  haan, y es laima de muchas 
+ſe quieren apartar de mundo, y pẽſando que
+ſe van a ſeruir al Señor, y apartar de los peli-
+gros del mundo, ſe haan en diez mundos jũ-
+tos, que ni ſaben como ſe valer, ni remediar:
+que la mocedad, y ſenſualidad, y demonio las
+cõbida e inclina a ſeguir algunas coſas,  ſon
+del miſmo mundo. Ve ai que lo tienen por
+bueno, a manera de dezir. Pareceme como
+los deſuẽturados de los hereges en parte, que
+ſe quieren cegar, y hazer entender que es bue
+no, aqueo que guen, y que lo creen an</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="574" y="3068"/>
+	<Point x="1597" y="3068"/>
+	<Point x="1597" y="3161"/>
+	<Point x="574" y="3161"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="460" y="122"/>
+	<Point x="460" y="220"/>
+	<Point x="593" y="220"/>
+	<Point x="593" y="122"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>78</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1834" y="2636"/>
+	<Point x="1834" y="2722"/>
+	<Point x="1968" y="2722"/>
+	<Point x="1968" y="2636"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>n</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442585">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T01:53:50</Created>
+	<LastChange>2012-03-12T14:12:10</LastChange></Metadata>
+	<Page imageFilename="00442585.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="400" y="70"/>
+	<Point x="1160" y="74"/>
+	<Point x="1149" y="157"/>
+	<Point x="544" y="156"/>
+	<Point x="525" y="179"/>
+	<Point x="501" y="182"/>
+	<Point x="389" y="165"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="159" y="187"/>
+	<Point x="585" y="187"/>
+	<Point x="766" y="182"/>
+	<Point x="1414" y="177"/>
+	<Point x="1441" y="2145"/>
+	<Point x="1101" y="2141"/>
+	<Point x="1086" y="2151"/>
+	<Point x="1072" y="2151"/>
+	<Point x="1053" y="2138"/>
+	<Point x="991" y="2154"/>
+	<Point x="151" y="2161"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>para con Dios, ſere ſu eſpoſa. Y  quiero con deſde-
+nes deſpedia, en termino le veo, que no vſando el
+que deue, vſarà el de la fuerça, y vendra a quedar deſ
+honrada, y n diſculpa, de la culpa que me podia
+dar, el que no ſupiere, quan n ea he venido a ee
+punto. Porque, que razones ſeran baantes, para per
+ſuadir a mis padres, y a otros, que ee cauaero en-
+trò en mi apoſento, n conſentimiento mio? Todas
+eas demandas y reſpuea, reboluio en vn inan-
+te en la imaginacion. Y Sobre todo, me començarõ
+a hazer fuerça, y a inclinarme a lo que fue (n yo pẽ
+ſarlo) mi peticion, los juramentos de don Fernan-
+do, los teigos que ponia, las lagrimas que derrama-
+uȧ, y ﬁnalmente ſu diſpucion, y gentileza, que acõ-
+pañada con tantas mueras de verdadero amor, pu-
+dieran rendir a otro tan libre, y recatado coraçon,
+como el mio. Llamè a mi criada, para que en la tie-
+rra acompañaſſe a los teigos del cielo. Tornô don
+Fernando, a reyterar, y conﬁrmar ſus juramentos.
+Añadio a los primeros, nueuos ſantos por teigos,
+echoſe mil futuras maldiciones, no cumpliee lo
+que me prometia. Boluio a hume decer ſus ojos, y a
+acrecentar ſus ſuſpiros, apretome mas entre ſus bra
+ços de los quales jamas me auia dexado. Y con eo,
+y cõ boluerſe a ſalir del apoſento mi dõzea, yo de-
+xè de ſerlo, y el acabò de ſer traydor, y fementido.
+El dia que ſucedio, a la noche de mi deſgracia, ſe ve-
+nia aun no tan apriea, como yo pienſo que don Fer
+nando deeaua. Porque deſpues de cumplido, aque-
+o que el apetito pide, el mayor guo  puede ve-
+nir, es apartarſe de donde le alcançaron. Digo eo,
+porque don Fernãdo dio priea por partirſe de mi,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="458" y="2292"/>
+	<Point x="1145" y="2292"/>
+	<Point x="1123" y="2361"/>
+	<Point x="458" y="2354"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1264" y="86"/>
+	<Point x="1264" y="165"/>
+	<Point x="1409" y="165"/>
+	<Point x="1409" y="86"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>155</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="1196" y="2156"/>
+	<Point x="1197" y="2214"/>
+	<Point x="1017" y="2219"/>
+	<Point x="1019" y="2151"/>
+	<Point x="1066" y="2149"/>
+	<Point x="1085" y="2158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>V 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1434" y="2152"/>
+	<Point x="1431" y="2221"/>
+	<Point x="1245" y="2223"/>
+	<Point x="1246" y="2154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y por</Unicode></TextEquiv></TextRegion></Page></PcGts>

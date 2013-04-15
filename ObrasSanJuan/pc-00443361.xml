@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443361">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:08:52</Created>
+	<LastChange>2011-03-24T14:53:26</LastChange></Metadata>
+	<Page imageFilename="00443361.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r13" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="648" y="86"/>
+	<Point x="648" y="216"/>
+	<Point x="1448" y="216"/>
+	<Point x="1448" y="86"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subida del monte Carmelo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="335" y="113"/>
+	<Point x="335" y="205"/>
+	<Point x="500" y="205"/>
+	<Point x="500" y="113"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>350</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="335" y="237"/>
+	<Point x="316" y="1097"/>
+	<Point x="470" y="1175"/>
+	<Point x="786" y="1321"/>
+	<Point x="816" y="1310"/>
+	<Point x="840" y="1321"/>
+	<Point x="948" y="1313"/>
+	<Point x="959" y="1305"/>
+	<Point x="1038" y="1306"/>
+	<Point x="1090" y="1306"/>
+	<Point x="1332" y="1316"/>
+	<Point x="1554" y="1313"/>
+	<Point x="1851" y="1232"/>
+	<Point x="1849" y="1159"/>
+	<Point x="1840" y="827"/>
+	<Point x="1843" y="254"/>
+	<Point x="1843" y="251"/>
+	<Point x="1827" y="248"/>
+	<Point x="1205" y="243"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bis te imonium Chrii, &amp; ſermomeus, &amp; prdicatio mea
+non in perſuabilibus buman ſapienti verbis, ſed in oen
+one ſpiritus &amp; virtutis. Yo hermanos cuãdo vine a vo-
+ſotros, no vine predicando a Crio con alteza de do-
+trina i ſabiduria; i mis palabras, i mi predicacion no
+era en retorica de humana ſabiduria, no en manifeſ-
+tacion del Eſpiritu i de la virtud. Que aun la intencion
+del A pool i la mia aqui no es condenar el buen eilo
+i retorica, i buen termino, porque antes haze mucho
+al caſo al Predicador, como tambien a todos los nego-
+cios, pues el buen termino i eilo aun las coſas caidas
+i eragadas levanta i reediﬁca; a como el mal
+termino ſuele eragar, i echar a per-
+der à las buenas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="catch-word">
+	<Coords>
+	<Point x="1489" y="2059"/>
+	<Point x="1489" y="2224"/>
+	<Point x="1829" y="2224"/>
+	<Point x="1829" y="2059"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>NO-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="credit">
+	<Coords>
+	<Point x="775" y="2921"/>
+	<Point x="781" y="2997"/>
+	<Point x="1427" y="2994"/>
+	<Point x="1427" y="2916"/>
+	<Point x="1056" y="2929"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r15">
+	<Coords>
+	<Point x="975" y="1329"/>
+	<Point x="976" y="1402"/>
+	<Point x="1053" y="1413"/>
+	<Point x="1159" y="1397"/>
+	<Point x="1169" y="1333"/>
+	<Point x="1163" y="1315"/>
+	<Point x="970" y="1318"/></Coords></SeparatorRegion></Page></PcGts>

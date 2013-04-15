@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444324">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:55:24</Created>
+	<LastChange>2011-12-19T11:39:38</LastChange></Metadata>
+	<Page imageFilename="00444324.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r15" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="620" y="3067"/>
+	<Point x="1577" y="3067"/>
+	<Point x="1577" y="3155"/>
+	<Point x="620" y="3155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="474" y="245"/>
+	<Point x="2019" y="236"/>
+	<Point x="2010" y="2649"/>
+	<Point x="1875" y="2649"/>
+	<Point x="1867" y="2675"/>
+	<Point x="1792" y="2674"/>
+	<Point x="457" y="2680"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mís peccados, eo fue en breuiſsimo eſpa-
+cio, mas aunque yo viuiee muchos años me
+parece impoſsible oluidarſeme, pareciame
+la entrada a manera de vn caejon muy lar-
+go y erecho, a manera de horno muy baxo
+y eſcuro, y angoo: el ſuelo me parecia de
+vna agua como lodo, muy ſuzio, y de pei-
+lencial olor, y muchas ſauandĳas malas en el:
+al cabo eaua vna concauidad metida en vna
+pared a manera de vna alacena, adonde me vi
+meter en mucho erecho, todo eo era de-
+leytoſo a la via en comparacion de lo que
+ai ſenti, eo que he dicho va mal encareci-
+do. Eotro me parece que aun principio de
+encarecerſe, como es, no lo puede auer ni ſe
+puede entender, mas ſenti vn fuego en el al-
+ma, que yo no puedo entender como poder
+dezir de la manera que es, los dolores corpora
+bles, tan incomportables que con auerlos paſ
+ſado en ea vida grauiſsimos, y ſegun dizẽ los
+medicos los mayores que ſe puedẽ aca paar,
+por fue encogerſeme todos los neruios quã
+do me tui n otros muchos de muchas ma-
+neras  he tenido, y aun algunos como he di-
+cho cauſados del demonio, no es todo nada en
+cõparacion de lo  ai ſenti, y ver que auiã de
+ſer n ﬁn, y n jamas cear. Eo no es pues</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="930" y="115"/>
+	<Point x="1558" y="115"/>
+	<Point x="1558" y="221"/>
+	<Point x="930" y="221"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="500" y="128"/>
+	<Point x="650" y="128"/>
+	<Point x="650" y="228"/>
+	<Point x="500" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>396</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="catch-word">
+	<Coords>
+	<Point x="1826" y="2682"/>
+	<Point x="1825" y="2734"/>
+	<Point x="2001" y="2734"/>
+	<Point x="2000" y="2677"/>
+	<Point x="1981" y="2676"/>
+	<Point x="1981" y="2655"/>
+	<Point x="1925" y="2655"/>
+	<Point x="1925" y="2682"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nada</Unicode></TextEquiv></TextRegion></Page></PcGts>

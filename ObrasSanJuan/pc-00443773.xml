@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443773">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T09:52:39</Created>
+	<LastChange>2010-12-23T11:30:51</LastChange></Metadata>
+	<Page imageFilename="00443773.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="812" y="57"/>
+	<Point x="1549" y="39"/>
+	<Point x="1542" y="141"/>
+	<Point x="812" y="160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dclaracion de la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="383" y="199"/>
+	<Point x="1916" y="182"/>
+	<Point x="1917" y="2691"/>
+	<Point x="1896" y="2680"/>
+	<Point x="1820" y="2691"/>
+	<Point x="1810" y="2692"/>
+	<Point x="1801" y="2692"/>
+	<Point x="1780" y="2689"/>
+	<Point x="1752" y="2686"/>
+	<Point x="1654" y="2703"/>
+	<Point x="371" y="2710"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>las amenas Liras de ſu ſuavidad i canto de Sirenas de
+ſu deleite, para  no ſolo no reinen en ea, pero ni en
+algun tanto la puedan dar nſabor; por es la grande-
+za i eabilidad del alma tan grande en ee eado  
+antes le egavã al alma las aguas del dolor de cualquie
+ra coſa, i aun de los pecados ſuyos, o agenos, que es lo
+que mas ſuelen ſentir los eſpirituales; ya aunque los eſ-
+tima no le haz dolor ni ſentimiento congoxoſo, i la
+compaon, eo es, la congoxa del ſentimiento dea,
+no la tiene, aunque tiene las obras i perfecion dea:
+porque aqui le falta al alma lo que tenia de flaco en las
+virtudes, i Ie queda lo fuerte conante i perfeto deas:
+porque a modo de los Angeles que perfetamente ei-
+man las coſas que ſon de dolor, n ſentir dolor i exerci
+tan las obras de miſericordia i compaon, n ſentir cõ-
+paon, le acaece al alma en ea transformacion de a-
+mor; aunque algunas vezes i en algunas coſas diſpenſa
+Dios con ea, dandoſelo a ſentir i dexandola padecer
+porque merezca mas, como hizo con la Madre Virg;
+pero el eado de ſuyo no lo eva; en los deſeos de la eſ-
+perança tampoco pena; porque eando ya ſatisfecha,
+en cuanto en ea vida puede, en la union de Dios, ni a-
+cerca del mundo tiene que eſperar, ni acerca de lo eſpi-
+ritual que deſear, pues ſe vè i ente ena de las rique-
+zas de Dios, aunque puede crecer en caridad, i a en el
+vivir i en el morir eà conforme i ajuada à la volun-
+tad de Dios. Tambien en las afeciones del gozo que en
+el alma ſolian hazer ſentimiento demas, o menos, ni en
+eas echa de ver mengua, ni le haze novedad abun-
+dancia: porque es tanta de la que ea ordinariamente
+goza, que a manera del mar ni mengua por los rios que
+dea ſalen, ni crece por los que en ea entran: porque
+ea es el alma, en que eà hecha la fuente, cuya agua</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1754" y="2692"/>
+	<Point x="1788" y="2691"/>
+	<Point x="1796" y="2694"/>
+	<Point x="1800" y="2695"/>
+	<Point x="1815" y="2695"/>
+	<Point x="1830" y="2699"/>
+	<Point x="1854" y="2702"/>
+	<Point x="1861" y="2704"/>
+	<Point x="1891" y="2707"/>
+	<Point x="1892" y="2757"/>
+	<Point x="1842" y="2757"/>
+	<Point x="1815" y="2758"/>
+	<Point x="1805" y="2759"/>
+	<Point x="1792" y="2758"/>
+	<Point x="1788" y="2757"/>
+	<Point x="1752" y="2756"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dize</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="775" y="2937"/>
+	<Point x="1414" y="2935"/>
+	<Point x="1414" y="2998"/>
+	<Point x="767" y="2990"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="387" y="83"/>
+	<Point x="387" y="178"/>
+	<Point x="542" y="178"/>
+	<Point x="542" y="83"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>760</Unicode></TextEquiv></TextRegion></Page></PcGts>

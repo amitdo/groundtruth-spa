@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442462">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T17:32:43</Created>
+	<LastChange>2012-03-12T14:12:03</LastChange></Metadata>
+	<Page imageFilename="00442462.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="466" y="65"/>
+	<Point x="988" y="60"/>
+	<Point x="1106" y="59"/>
+	<Point x="1103" y="146"/>
+	<Point x="757" y="146"/>
+	<Point x="760" y="167"/>
+	<Point x="718" y="168"/>
+	<Point x="712" y="145"/>
+	<Point x="459" y="145"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tercera parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="163" y="170"/>
+	<Point x="841" y="176"/>
+	<Point x="1396" y="169"/>
+	<Point x="1398" y="366"/>
+	<Point x="159" y="379"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>replicò don Quixote, viuiras ſobre la haz de la tie
+rra, porque deſpues de a los padres, a los amos ſe ha
+de reſpetar, como  lo fueen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="162" y="438"/>
+	<Point x="1402" y="430"/>
+	<Point x="1398" y="529"/>
+	<Point x="1397" y="674"/>
+	<Point x="168" y="680"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cap. XXI. Que trata de la alta auentura y rica ga‐
+nancia del yelmo de Mambrino, con otras coſas
+ſucedidas a nuero inuencible cauaero.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="153" y="982"/>
+	<Point x="417" y="980"/>
+	<Point x="424" y="736"/>
+	<Point x="1406" y="718"/>
+	<Point x="1409" y="2143"/>
+	<Point x="1372" y="2141"/>
+	<Point x="1155" y="2146"/>
+	<Point x="1155" y="2162"/>
+	<Point x="1139" y="2162"/>
+	<Point x="1112" y="2153"/>
+	<Point x="132" y="2165"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>NESTO començò a ouer vn poco, y
+quiera Sancho que ſe entraran en el mo
+lino de los batanes. Mas auiales cobrado
+tal aborrecimiento don Quixote, por la
+peſada burla, que en ninguna manera quiſo entrar
+dentro: y aſsi torciendo el camino a la derecha ma‐
+no, dieron en otro, como el que auian euado el dia
+de antes. De ai a poco, deſcubrio don Quixote vn
+hombre a cauao, que trahia en la cabeça vna coſa
+que relumbraua, como  fuera de oro, y aun el ape‐
+nas le vuo vio, quando ſe boluio a Sancho, y le di-
+xo: Pareceme Sancho, que no ay refran que no ſea
+verdadero, porque todos ſon ſentencias ſacadas de
+la meſma experiencia, madre de las ciencias todas:
+eſpecialmente aquel que dize, Donde vna puerta ſe
+cierra, otra ſe abre. Digolo, porque  anoche nos ce
+rro la ventura la puerta, de la que buſcauamos, enga-
+ñandonos con los batanes, aora nos abre de par en
+par otra, para otra mejor y mas cierta auentura, que
+ yo no acertare a entrar por ea, mia ſera la culpa,
+n que la pueda dar a la poca noticia de batanes, ni
+a la eſcuridad de la noche. Digo eo, porque no
+me engaño, hàzia noſotros viene vno, que trae en</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="449" y="2306"/>
+	<Point x="1140" y="2306"/>
+	<Point x="1140" y="2369"/>
+	<Point x="449" y="2369"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1181" y="2151"/>
+	<Point x="1179" y="2219"/>
+	<Point x="1398" y="2218"/>
+	<Point x="1398" y="2150"/>
+	<Point x="1285" y="2151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſu cabe</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="drop-capital">
+	<Coords>
+	<Point x="154" y="745"/>
+	<Point x="149" y="973"/>
+	<Point x="406" y="969"/>
+	<Point x="415" y="739"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion></Page></PcGts>

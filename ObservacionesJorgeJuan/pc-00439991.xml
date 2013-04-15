@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439991">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T15:20:51</Created>
+	<LastChange>2011-12-19T11:38:33</LastChange></Metadata>
+	<Page imageFilename="00439991.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="2109" y="310"/>
+	<Point x="2205" y="306"/>
+	<Point x="2191" y="427"/>
+	<Point x="2180" y="436"/>
+	<Point x="2161" y="436"/>
+	<Point x="2152" y="431"/>
+	<Point x="2162" y="414"/>
+	<Point x="2104" y="424"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>iij</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="292" y="398"/>
+	<Point x="1737" y="395"/>
+	<Point x="2040" y="390"/>
+	<Point x="2091" y="432"/>
+	<Point x="2240" y="447"/>
+	<Point x="2278" y="3260"/>
+	<Point x="296" y="3303"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>idèas, fuè el primero, que demonrò, ſegun dice Ario‐
+teles, la eſphericidad, ò redondèz de la Tierra; y deſpues
+de èl Thales Myleo, que ﬂoreciò ca ſeiſcientos años an‐
+tes de Chtio, guiendo la miſma ſentencia, aunque aña‐
+diendo, que la Tierra ſobrenada en las Aguas, predixo
+los Eclipſes el primero de todos los Griegos, ſegun el teſ‐
+timonio de Plinio. Es creìble, que les hiciee perſuadir la
+eſphericidad de el globo terraqueo à aqueos antiguos
+Maeros el advertir el orden con que ſe deſcubren, y ſe
+ocultan à quien camina, ò à quien navega las alturas de
+los Montes, las Torres, y las cumbres de los ediﬁcios, y
+las demàs eminencias de la Tierra; que à eo ſe añadiee,
+el notar la mutacion de altura de las Ereas circumpo‐
+lares, ſegun los varios lugares mas, ò menos diantes de
+los Polos deſde donde las obſervaen; lo que no ſucederìa
+endo perfeamente ana la Superﬁcie; y que ultima‐
+mente à alguno ſe le ofreciee la razon, con que funda‐
+dos en diverſos principios, pretendieron demonrar por
+diverſos medios la eſphericidad de la Superﬁcie de las
+Aguas Arioteles, y Arquimedes. Pero la razon mas mple
+para atribuir à la Tierra ea ﬁgura ſe tomarìa n duda de
+que aſsi aparece ſu ſombra en los Eclipſes Lunares; ſom‐
+bra, que no podìan dexar de atribuir à la Tierra, deſpues
+que dexaron los Sabios para ſola la credulidad del vulgo
+los vanos terrores, que ſobre los Eclipſes engendrò la ig‐
+norancia, y ſu ﬁel compañera la ſupericion. Al ﬁn de
+qualquier modo quedò eablecida deſde entonces la eſ‐
+phericidad, ò redondèz perfea de la Tierra tan ſolida-
+mente, que no ſe ha dudado de eo en todos los Siglos ‐
+guie ntes haa el paado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="signature-mark">
+	<Coords>
+	<Point x="1443" y="3341"/>
+	<Point x="1580" y="3341"/>
+	<Point x="1580" y="3443"/>
+	<Point x="1443" y="3443"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="960" y="3989"/>
+	<Point x="1982" y="3989"/>
+	<Point x="1982" y="4096"/>
+	<Point x="960" y="4096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="2098" y="3349"/>
+	<Point x="2098" y="3474"/>
+	<Point x="2290" y="3474"/>
+	<Point x="2290" y="3349"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sen‐</Unicode></TextEquiv></TextRegion></Page></PcGts>

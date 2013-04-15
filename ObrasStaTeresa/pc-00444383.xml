@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444383">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T11:33:04</Created>
+	<LastChange>2011-12-19T11:39:42</LastChange></Metadata>
+	<Page imageFilename="00444383.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="249" y="102"/>
+	<Point x="1431" y="103"/>
+	<Point x="1427" y="223"/>
+	<Point x="248" y="226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="71" y="235"/>
+	<Point x="670" y="229"/>
+	<Point x="1364" y="235"/>
+	<Point x="1495" y="248"/>
+	<Point x="1711" y="251"/>
+	<Point x="1762" y="2688"/>
+	<Point x="1665" y="2656"/>
+	<Point x="1381" y="2679"/>
+	<Point x="1344" y="2686"/>
+	<Point x="1285" y="2652"/>
+	<Point x="1254" y="2654"/>
+	<Point x="1158" y="2673"/>
+	<Point x="73" y="2722"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>lo todo lo hiziera, como lo hize la otra vez
+con todo ſoſsiego y paz. Pues fue para mi co
+mo ear en vna gloria ver poner el ſantiſsi-
+mo Sacramento, y que ſe remediaron qua-
+tro huerfanas pobres, porque no ſe toma-
+uan con dote, y grandes eruas de Dios
+que eo ſe pretendio al principio, que en-
+traen perſonas que con ſu exemplo fueſ-
+ſen fundamento, para en que ſe pudiee el
+intento que euauamos de mucha perfecion
+y oracion eﬀetuar, y hecha vna obra que
+tenia entendido era para el ſeruicio del Se-
+ñor, y honra del habito de ſu glorioſa ma-
+dre, que eas eran mis anas, y tambien
+me dio gran conſuelo de auer hecho lo que
+tanto el Señor me auia mandado, y otra
+yglea mas en ee lugar de mi padre glo-
+rioſo ſan Ioſeph, que no la auia, no por-
+que a mi me pareciee auia hecho en eo
+nada, que nunca me lo parecia, ni parece,
+empre entiendo lo hazia el Señor, y lo
+que era de mi parte era con tantas imper-
+feciones, que antes veo auia que me cul-
+par, que no que me agradecer, mas era
+me gran regalo, ver que vuiee ſu Ma-
+gead tomadome por inrumento, endo
+tan ruyn para tan grande obra, aſsi que euue</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1530" y="2676"/>
+	<Point x="1670" y="2661"/>
+	<Point x="1690" y="2706"/>
+	<Point x="1694" y="2745"/>
+	<Point x="1651" y="2767"/>
+	<Point x="1530" y="2766"/>
+	<Point x="1524" y="2722"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>con</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="604" y="3057"/>
+	<Point x="1587" y="3064"/>
+	<Point x="1582" y="3158"/>
+	<Point x="599" y="3155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1501" y="129"/>
+	<Point x="1485" y="196"/>
+	<Point x="1501" y="237"/>
+	<Point x="1681" y="237"/>
+	<Point x="1681" y="129"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>455</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1166" y="2673"/>
+	<Point x="1172" y="2766"/>
+	<Point x="1368" y="2771"/>
+	<Point x="1387" y="2681"/>
+	<Point x="1344" y="2687"/>
+	<Point x="1285" y="2654"/>
+	<Point x="1257" y="2656"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FF 4</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444069">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T00:54:28</Created>
+	<LastChange>2011-12-19T11:39:23</LastChange></Metadata>
+	<Page imageFilename="00444069.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r8" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="293" y="88"/>
+	<Point x="1544" y="88"/>
+	<Point x="1544" y="212"/>
+	<Point x="293" y="212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="160" y="221"/>
+	<Point x="1789" y="225"/>
+	<Point x="1798" y="1491"/>
+	<Point x="144" y="1489"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>alguna iuon, aunque tengo por cierto, no
+conente el Señor dañe, a quien con humil‐
+dad ſe procura egar a el, antes ſacara mas
+prouecho, y ganancia, por donde el demonio
+le penſare hazer perder. Por ſer ee camino
+de los primeros mas vſado, y importar mu‐
+cho los auiſos que he dado, me he alargada
+tanto, y auran los eſcrito en otras partes muy
+mejor, yo lo conﬁeo, y que con harta con‐
+fuon y verguença lo he eſcrito, aunque no
+tanta como auia de tener. Sea el Señor ben‐
+dito por todo, que a vna como yo quiere y
+conente que hable en coſas ſuyas, tales y
+tan ſubidas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="156" y="1531"/>
+	<Point x="1762" y="1531"/>
+	<Point x="1763" y="2094"/>
+	<Point x="155" y="2088"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP. XIII. Progue en eﬆe primer eado,
+y pone auiſos para algunas tentaciones que el
+demonio ſuele poner algunas vezes, y
+da auiſos para eas, es muy
+prouechoſo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="498" y="2369"/>
+	<Point x="508" y="2097"/>
+	<Point x="1763" y="2103"/>
+	<Point x="1773" y="2642"/>
+	<Point x="1539" y="2648"/>
+	<Point x="1448" y="2648"/>
+	<Point x="1439" y="2662"/>
+	<Point x="160" y="2700"/>
+	<Point x="194" y="2387"/>
+	<Point x="453" y="2368"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A me parecido dezir algunas tenta‐
+ciones que he vio, que ſe tienen a
+los principios, y algunas he tenido
+yo, y dar algunos auiſos de coſas que me pa‐
+recen necearias. Pues procureſe a los prin‐
+cipios andar con alegria y libertad, que ay al‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="drop-capital">
+	<Coords>
+	<Point x="196" y="2101"/>
+	<Point x="496" y="2101"/>
+	<Point x="490" y="2364"/>
+	<Point x="196" y="2376"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="623" y="3034"/>
+	<Point x="1606" y="3034"/>
+	<Point x="1606" y="3162"/>
+	<Point x="623" y="3162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1559" y="83"/>
+	<Point x="1559" y="214"/>
+	<Point x="1744" y="214"/>
+	<Point x="1744" y="83"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>141</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="1490" y="2656"/>
+	<Point x="1490" y="2759"/>
+	<Point x="1728" y="2759"/>
+	<Point x="1728" y="2656"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>gunas</Unicode></TextEquiv></TextRegion></Page></PcGts>

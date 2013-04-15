@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440547">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T19:51:02</Created>
+	<LastChange>2011-07-05T14:26:05</LastChange></Metadata>
+	<Page imageFilename="00440547.tif" imageWidth="880" imageHeight="1599">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="51" y="61"/>
+	<Point x="92" y="57"/>
+	<Point x="793" y="68"/>
+	<Point x="797" y="1493"/>
+	<Point x="37" y="1483"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>toſe el eſcriuano en vn poyo para
+eſcreuir el inuentario, preguntãdo
+me que tenia : Señores, d¡xe yo, lo
+que ee mi amo tiene, ſegun el
+me dixo, es vn muy buen ſolar de
+caſas, y vn palomar derribado.
+Bien ea, dixeron ellos, por poco
+que eo valga, ay para, pagar la
+deuda. Preguntaronme en que
+parte de la ciudad eauan ? En ſu
+tierra, les reſpondi. Por Dios di-
+xeron que ea bueno el negocio,
+y donde es ſu tierra ? De Cailla
+la vieja me dixo el que era, les reſ-
+pondi yo. Rieronſe el aguazil y el
+eſcriuano, diziendo, Baante re-
+lacion es ea, para cobrar la deu-
+da, aunque fuee mayor. Las ve-
+zinas, que eauan preſentes, di-
+xeron : Señores ee es vn niño
+inocente, y ha pocos dias que ea
+conee eſcudero, y no ſabe del
+mas quevueſas mercedes, muchas
+vezes le dauamos de comer por</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="credit">
+	<Coords>
+	<Point x="290" y="1544"/>
+	<Point x="572" y="1537"/>
+	<Point x="575" y="1587"/>
+	<Point x="281" y="1586"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="header">
+	<Coords>
+	<Point x="66" y="1"/>
+	<Point x="697" y="1"/>
+	<Point x="697" y="58"/>
+	<Point x="71" y="51"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LAZAR. DE TORM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="706" y="7"/>
+	<Point x="706" y="64"/>
+	<Point x="767" y="64"/>
+	<Point x="767" y="7"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>93</Unicode></TextEquiv></TextRegion></Page></PcGts>

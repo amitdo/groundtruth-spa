@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444174">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:37:25</Created>
+	<LastChange>2011-12-19T11:39:29</LastChange></Metadata>
+	<Page imageFilename="00444174.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="960" y="39"/>
+	<Point x="1582" y="39"/>
+	<Point x="1595" y="117"/>
+	<Point x="1582" y="213"/>
+	<Point x="960" y="213"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="454" y="237"/>
+	<Point x="801" y="220"/>
+	<Point x="932" y="241"/>
+	<Point x="1315" y="226"/>
+	<Point x="1977" y="216"/>
+	<Point x="2028" y="337"/>
+	<Point x="2039" y="1475"/>
+	<Point x="2015" y="2409"/>
+	<Point x="1994" y="2624"/>
+	<Point x="1875" y="2621"/>
+	<Point x="1871" y="2631"/>
+	<Point x="1854" y="2649"/>
+	<Point x="1826" y="2652"/>
+	<Point x="1775" y="2658"/>
+	<Point x="446" y="2665"/>
+	<Point x="443" y="794"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>otra ſuerte que yo, mas almenos ſatisﬁziera
+me yo, pareceme que tuuiera en poco la vi-
+da por dar a entẽder vna ſola verdad de eas,
+no ſe deſpues lo que hiziera, que no ay que
+ﬁar de mi, con ſer la que ſoy me dan grandes
+impetus, por dezir eo a los que mandã, que
+me deshazen: de que no puedo mas, tornome
+a vos Señor mio a pediros remedio para to-
+do, y bien ſabeys vos que muy de buena ga-
+na me deſpoeeria yo de las mercedes  me
+aueys hecho con quedar en eado que no
+os oﬀendiee, y las daria a los reyes, por-
+que ſe que ſeria impoſsible conſentir coſas
+que aora ſe conenten, ni dexar de auer
+grandiſsimos bienes. O Dios mio daldes a
+entender a lo que ean obligados, pues
+los quies vos ſeñalar en la tierra de mane
+ra, que, aun he oydo dezir, ay ſeñales en el
+cielo quando euays alguno. Que cierto
+quando pienſo eo me haze deuocion que
+querays vos rey mio, que haa en eo en-
+tiendan os han de imitar en vida, pues en al-
+guna manera ay ſeñal en el cielo, como quan
+do mories vos, en ſu muerte. Mucho me
+atreuo: Rompalo v. m.  mal le parece, y
+crea ſe lo diria mejor en preſencia  pudieſ-
+ſe, o penſae me han de creer, porque</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="607" y="3037"/>
+	<Point x="900" y="3054"/>
+	<Point x="1484" y="3035"/>
+	<Point x="1584" y="3066"/>
+	<Point x="1554" y="3156"/>
+	<Point x="637" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="483" y="120"/>
+	<Point x="650" y="98"/>
+	<Point x="645" y="211"/>
+	<Point x="586" y="218"/>
+	<Point x="483" y="211"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>246</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1857" y="2702"/>
+	<Point x="1864" y="2650"/>
+	<Point x="1867" y="2639"/>
+	<Point x="1874" y="2634"/>
+	<Point x="1984" y="2630"/>
+	<Point x="1984" y="2733"/>
+	<Point x="1862" y="2733"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>los</Unicode></TextEquiv></TextRegion></Page></PcGts>

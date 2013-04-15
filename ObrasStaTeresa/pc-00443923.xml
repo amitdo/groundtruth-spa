@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443923">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T05:35:41</Created>
+	<LastChange>2011-12-19T11:39:14</LastChange></Metadata>
+	<Page imageFilename="00443923.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="112" y="309"/>
+	<Point x="1741" y="309"/>
+	<Point x="1741" y="622"/>
+	<Point x="112" y="622"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vn tratado de ſu Vida, amamiento, y apro‐
+uechamiento con algunas coſas de oracion.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="116" y="664"/>
+	<Point x="1738" y="664"/>
+	<Point x="1738" y="919"/>
+	<Point x="116" y="919"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Otro tratado del Camino de la perfecion jun‐
+tamente con vnasreglas y auiſos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="96" y="993"/>
+	<Point x="1722" y="993"/>
+	<Point x="1722" y="1383"/>
+	<Point x="96" y="1383"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Otro que ſe intitula Caio eſpiritual o las
+Moradas. Convnas eſclamaciones o medi‐
+taciones eſpirituales.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r4">
+	<Coords>
+	<Point x="567" y="1470"/>
+	<Point x="1364" y="1470"/>
+	<Point x="1364" y="2396"/>
+	<Point x="567" y="2396"/></Coords></ImageRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="606" y="3058"/>
+	<Point x="1570" y="3058"/>
+	<Point x="1570" y="3161"/>
+	<Point x="606" y="3161"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1148" y="2458"/>
+	<Point x="1148" y="2648"/>
+	<Point x="1419" y="2648"/>
+	<Point x="1419" y="2458"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>§ 2</Unicode></TextEquiv></TextRegion></Page></PcGts>

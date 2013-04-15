@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444373">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T06:01:39</Created>
+	<LastChange>2011-12-19T11:39:42</LastChange></Metadata>
+	<Page imageFilename="00444373.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="252" y="96"/>
+	<Point x="1456" y="102"/>
+	<Point x="1452" y="222"/>
+	<Point x="251" y="219"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="80" y="230"/>
+	<Point x="1647" y="239"/>
+	<Point x="1656" y="2667"/>
+	<Point x="82" y="2704"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dad, a ee en ningun arte me podia perſua-
+dir, porque dexado el trabajo grande por
+ſer muy muchas, y otras cauſas de que yo nũ
+ca fuy amiga, ni de ningun ofﬁcio, antes ẽ-
+pre los auia rehuſado: pareciame grã peligro
+para la conciencia, y aſsi alabe a Dios de no
+me haar aa. Eſcriui a mis amigas para que
+no me dieen voto. Eando muy contenta
+de no me haar en aquel ruydo, dixome el
+Señor que en ninguna manera dexe de yr,
+que pues deeo cruz, que buena ſe me apa-
+reja, que no la deſeche, que vaya con animo
+que el me ayudara, y que me fuee luego: yo
+me fatigue mucho y no hazia no orar, por
+que penſe que era la cruz ſer perlada, y co-
+mo digo no podia perſuadirme a que eaua
+bien a mi alma en ninguna manera, ni yo ha
+aua terminos para eo: contelo a mi confeſ-
+ſor, mandome que luego procurae yr, que
+claro eaua era mas perfeciõ, y que por ha-
+zia grã calor baaua haarme aa a la eleciõ,
+que me euuiee vnos dias, por no me hi-
+ziee mal el camino: mas el Señor que tenia
+ordenada otra coſa, vuoſe de hazer, porque
+era tan grãde el deſaoſsiego  traya en mi, y
+el no poder tener oracion, y parecerme falta-
+ua de lo que el Señor me auia mandado, y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1477" y="2675"/>
+	<Point x="1623" y="2673"/>
+	<Point x="1636" y="2753"/>
+	<Point x="1477" y="2760"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="620" y="3069"/>
+	<Point x="1567" y="3069"/>
+	<Point x="1567" y="3157"/>
+	<Point x="620" y="3157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1482" y="124"/>
+	<Point x="1482" y="234"/>
+	<Point x="1642" y="234"/>
+	<Point x="1642" y="124"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>445</Unicode></TextEquiv></TextRegion></Page></PcGts>

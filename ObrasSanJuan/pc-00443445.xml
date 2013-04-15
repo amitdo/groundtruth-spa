@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443445">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T14:00:37</Created>
+	<LastChange>2010-12-27T11:26:01</LastChange></Metadata>
+	<Page imageFilename="00443445.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r11" index="3"/>
+	<RegionRefIndexed regionRef="r13" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="322" y="156"/>
+	<Point x="479" y="156"/>
+	<Point x="479" y="245"/>
+	<Point x="322" y="245"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>434</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="877" y="116"/>
+	<Point x="1354" y="116"/>
+	<Point x="1354" y="254"/>
+	<Point x="877" y="254"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Noche eſcura.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="324" y="262"/>
+	<Point x="834" y="271"/>
+	<Point x="1847" y="266"/>
+	<Point x="1866" y="990"/>
+	<Point x="349" y="1013"/>
+	<Point x="350" y="964"/>
+	<Point x="350" y="820"/>
+	<Point x="348" y="774"/>
+	<Point x="320" y="752"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſaber, porque no ſe particulariza a ningun particular
+inteligible, ni aﬁcion. I ea es la propiedad del eſpiritu
+purgado i aniquilado acerca de todas particulares aﬁ-
+ciones i inteligencias, que en ee no guar nada, ni en
+tender nada en particular, morando en ſu vazìo, eſcuri-
+dad i tinieblas, lo abraça todo con gran diſpocion: pa-
+ra que ſe veriﬁque en el miicamente lo de ſan Pablo:
+Nihil bebentes, &amp; omnia poſsidentes. Porque tal biena-
+venturança ſe devia a tal pobreza de eſpititu;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="682" y="1043"/>
+	<Point x="1453" y="1043"/>
+	<Point x="1453" y="1138"/>
+	<Point x="682" y="1138"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITVLO IX.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="353" y="1210"/>
+	<Point x="1810" y="1210"/>
+	<Point x="1810" y="1433"/>
+	<Point x="353" y="1433"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Como aunque esta Noche eſ curece al eſpiritu, es
+para ilurarle i darle luz.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1675" y="2765"/>
+	<Point x="1738" y="2767"/>
+	<Point x="1766" y="2744"/>
+	<Point x="1851" y="2753"/>
+	<Point x="1845" y="2825"/>
+	<Point x="1681" y="2820"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>todos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="767" y="2935"/>
+	<Point x="1421" y="2935"/>
+	<Point x="1421" y="3001"/>
+	<Point x="767" y="3001"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="marginalia">
+	<Coords>
+	<Point x="95" y="778"/>
+	<Point x="328" y="785"/>
+	<Point x="340" y="818"/>
+	<Point x="344" y="852"/>
+	<Point x="331" y="914"/>
+	<Point x="232" y="980"/>
+	<Point x="75" y="991"/>
+	<Point x="80" y="811"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2.Cor.6.
+10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="drop-capital">
+	<Coords>
+	<Point x="481" y="1458"/>
+	<Point x="481" y="1459"/>
+	<Point x="480" y="1459"/>
+	<Point x="480" y="1480"/>
+	<Point x="479" y="1480"/>
+	<Point x="479" y="1500"/>
+	<Point x="478" y="1500"/>
+	<Point x="478" y="1521"/>
+	<Point x="477" y="1521"/>
+	<Point x="477" y="1541"/>
+	<Point x="476" y="1541"/>
+	<Point x="476" y="1562"/>
+	<Point x="475" y="1562"/>
+	<Point x="475" y="1582"/>
+	<Point x="474" y="1582"/>
+	<Point x="474" y="1586"/>
+	<Point x="475" y="1586"/>
+	<Point x="475" y="1588"/>
+	<Point x="476" y="1588"/>
+	<Point x="476" y="1590"/>
+	<Point x="477" y="1590"/>
+	<Point x="477" y="1592"/>
+	<Point x="478" y="1592"/>
+	<Point x="478" y="1594"/>
+	<Point x="479" y="1594"/>
+	<Point x="479" y="1596"/>
+	<Point x="480" y="1596"/>
+	<Point x="480" y="1597"/>
+	<Point x="481" y="1597"/>
+	<Point x="481" y="1599"/>
+	<Point x="482" y="1599"/>
+	<Point x="482" y="1601"/>
+	<Point x="483" y="1601"/>
+	<Point x="483" y="1603"/>
+	<Point x="484" y="1603"/>
+	<Point x="484" y="1605"/>
+	<Point x="485" y="1605"/>
+	<Point x="485" y="1607"/>
+	<Point x="486" y="1607"/>
+	<Point x="486" y="1609"/>
+	<Point x="487" y="1609"/>
+	<Point x="487" y="1610"/>
+	<Point x="488" y="1610"/>
+	<Point x="488" y="1612"/>
+	<Point x="489" y="1612"/>
+	<Point x="489" y="1614"/>
+	<Point x="490" y="1614"/>
+	<Point x="490" y="1616"/>
+	<Point x="491" y="1616"/>
+	<Point x="491" y="1618"/>
+	<Point x="492" y="1618"/>
+	<Point x="492" y="1620"/>
+	<Point x="493" y="1620"/>
+	<Point x="493" y="1621"/>
+	<Point x="494" y="1621"/>
+	<Point x="494" y="1622"/>
+	<Point x="493" y="1622"/>
+	<Point x="493" y="1625"/>
+	<Point x="492" y="1625"/>
+	<Point x="492" y="1628"/>
+	<Point x="491" y="1628"/>
+	<Point x="491" y="1631"/>
+	<Point x="490" y="1631"/>
+	<Point x="490" y="1634"/>
+	<Point x="489" y="1634"/>
+	<Point x="489" y="1637"/>
+	<Point x="488" y="1637"/>
+	<Point x="488" y="1640"/>
+	<Point x="487" y="1640"/>
+	<Point x="487" y="1643"/>
+	<Point x="486" y="1643"/>
+	<Point x="486" y="1646"/>
+	<Point x="485" y="1646"/>
+	<Point x="485" y="1648"/>
+	<Point x="484" y="1648"/>
+	<Point x="484" y="1649"/>
+	<Point x="483" y="1649"/>
+	<Point x="483" y="1650"/>
+	<Point x="478" y="1650"/>
+	<Point x="478" y="1651"/>
+	<Point x="472" y="1651"/>
+	<Point x="472" y="1652"/>
+	<Point x="467" y="1652"/>
+	<Point x="467" y="1653"/>
+	<Point x="461" y="1653"/>
+	<Point x="461" y="1654"/>
+	<Point x="456" y="1654"/>
+	<Point x="456" y="1655"/>
+	<Point x="450" y="1655"/>
+	<Point x="450" y="1656"/>
+	<Point x="445" y="1656"/>
+	<Point x="445" y="1657"/>
+	<Point x="439" y="1657"/>
+	<Point x="439" y="1658"/>
+	<Point x="434" y="1658"/>
+	<Point x="434" y="1659"/>
+	<Point x="428" y="1659"/>
+	<Point x="428" y="1660"/>
+	<Point x="423" y="1660"/>
+	<Point x="423" y="1661"/>
+	<Point x="417" y="1661"/>
+	<Point x="417" y="1662"/>
+	<Point x="411" y="1662"/>
+	<Point x="411" y="1663"/>
+	<Point x="406" y="1663"/>
+	<Point x="406" y="1664"/>
+	<Point x="400" y="1664"/>
+	<Point x="400" y="1665"/>
+	<Point x="395" y="1665"/>
+	<Point x="395" y="1666"/>
+	<Point x="389" y="1666"/>
+	<Point x="389" y="1667"/>
+	<Point x="384" y="1667"/>
+	<Point x="384" y="1668"/>
+	<Point x="378" y="1668"/>
+	<Point x="378" y="1669"/>
+	<Point x="373" y="1669"/>
+	<Point x="373" y="1670"/>
+	<Point x="367" y="1670"/>
+	<Point x="367" y="1671"/>
+	<Point x="362" y="1671"/>
+	<Point x="362" y="1672"/>
+	<Point x="356" y="1672"/>
+	<Point x="356" y="1673"/>
+	<Point x="350" y="1673"/>
+	<Point x="350" y="1674"/>
+	<Point x="345" y="1674"/>
+	<Point x="345" y="1675"/>
+	<Point x="339" y="1675"/>
+	<Point x="339" y="1676"/>
+	<Point x="334" y="1676"/>
+	<Point x="334" y="1677"/>
+	<Point x="328" y="1677"/>
+	<Point x="328" y="1678"/>
+	<Point x="323" y="1678"/>
+	<Point x="323" y="1679"/>
+	<Point x="317" y="1679"/>
+	<Point x="317" y="1680"/>
+	<Point x="315" y="1680"/>
+	<Point x="315" y="1458"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>R</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1871" y="1458"/>
+	<Point x="1867" y="2738"/>
+	<Point x="1750" y="2735"/>
+	<Point x="1735" y="2757"/>
+	<Point x="1707" y="2757"/>
+	<Point x="1687" y="2752"/>
+	<Point x="1423" y="2787"/>
+	<Point x="315" y="2764"/>
+	<Point x="315" y="1682"/>
+	<Point x="319" y="1682"/>
+	<Point x="319" y="1681"/>
+	<Point x="325" y="1681"/>
+	<Point x="325" y="1680"/>
+	<Point x="330" y="1680"/>
+	<Point x="330" y="1679"/>
+	<Point x="336" y="1679"/>
+	<Point x="336" y="1678"/>
+	<Point x="341" y="1678"/>
+	<Point x="341" y="1677"/>
+	<Point x="347" y="1677"/>
+	<Point x="347" y="1676"/>
+	<Point x="352" y="1676"/>
+	<Point x="352" y="1675"/>
+	<Point x="358" y="1675"/>
+	<Point x="358" y="1674"/>
+	<Point x="364" y="1674"/>
+	<Point x="364" y="1673"/>
+	<Point x="369" y="1673"/>
+	<Point x="369" y="1672"/>
+	<Point x="375" y="1672"/>
+	<Point x="375" y="1671"/>
+	<Point x="380" y="1671"/>
+	<Point x="380" y="1670"/>
+	<Point x="386" y="1670"/>
+	<Point x="386" y="1669"/>
+	<Point x="391" y="1669"/>
+	<Point x="391" y="1668"/>
+	<Point x="397" y="1668"/>
+	<Point x="397" y="1667"/>
+	<Point x="402" y="1667"/>
+	<Point x="402" y="1666"/>
+	<Point x="408" y="1666"/>
+	<Point x="408" y="1665"/>
+	<Point x="413" y="1665"/>
+	<Point x="413" y="1664"/>
+	<Point x="419" y="1664"/>
+	<Point x="419" y="1663"/>
+	<Point x="425" y="1663"/>
+	<Point x="425" y="1662"/>
+	<Point x="430" y="1662"/>
+	<Point x="430" y="1661"/>
+	<Point x="436" y="1661"/>
+	<Point x="436" y="1660"/>
+	<Point x="441" y="1660"/>
+	<Point x="441" y="1659"/>
+	<Point x="447" y="1659"/>
+	<Point x="447" y="1658"/>
+	<Point x="452" y="1658"/>
+	<Point x="452" y="1657"/>
+	<Point x="458" y="1657"/>
+	<Point x="458" y="1656"/>
+	<Point x="463" y="1656"/>
+	<Point x="463" y="1655"/>
+	<Point x="469" y="1655"/>
+	<Point x="469" y="1654"/>
+	<Point x="474" y="1654"/>
+	<Point x="474" y="1653"/>
+	<Point x="480" y="1653"/>
+	<Point x="480" y="1652"/>
+	<Point x="485" y="1652"/>
+	<Point x="485" y="1651"/>
+	<Point x="486" y="1651"/>
+	<Point x="486" y="1650"/>
+	<Point x="487" y="1650"/>
+	<Point x="487" y="1648"/>
+	<Point x="488" y="1648"/>
+	<Point x="488" y="1645"/>
+	<Point x="489" y="1645"/>
+	<Point x="489" y="1642"/>
+	<Point x="490" y="1642"/>
+	<Point x="490" y="1639"/>
+	<Point x="491" y="1639"/>
+	<Point x="491" y="1636"/>
+	<Point x="492" y="1636"/>
+	<Point x="492" y="1633"/>
+	<Point x="493" y="1633"/>
+	<Point x="493" y="1630"/>
+	<Point x="494" y="1630"/>
+	<Point x="494" y="1627"/>
+	<Point x="495" y="1627"/>
+	<Point x="495" y="1624"/>
+	<Point x="496" y="1624"/>
+	<Point x="496" y="1619"/>
+	<Point x="495" y="1619"/>
+	<Point x="495" y="1618"/>
+	<Point x="494" y="1618"/>
+	<Point x="494" y="1616"/>
+	<Point x="493" y="1616"/>
+	<Point x="493" y="1614"/>
+	<Point x="492" y="1614"/>
+	<Point x="492" y="1612"/>
+	<Point x="491" y="1612"/>
+	<Point x="491" y="1610"/>
+	<Point x="490" y="1610"/>
+	<Point x="490" y="1608"/>
+	<Point x="489" y="1608"/>
+	<Point x="489" y="1607"/>
+	<Point x="488" y="1607"/>
+	<Point x="488" y="1605"/>
+	<Point x="487" y="1605"/>
+	<Point x="487" y="1603"/>
+	<Point x="486" y="1603"/>
+	<Point x="486" y="1601"/>
+	<Point x="485" y="1601"/>
+	<Point x="485" y="1599"/>
+	<Point x="484" y="1599"/>
+	<Point x="484" y="1597"/>
+	<Point x="483" y="1597"/>
+	<Point x="483" y="1595"/>
+	<Point x="482" y="1595"/>
+	<Point x="482" y="1594"/>
+	<Point x="481" y="1594"/>
+	<Point x="481" y="1592"/>
+	<Point x="480" y="1592"/>
+	<Point x="480" y="1590"/>
+	<Point x="479" y="1590"/>
+	<Point x="479" y="1588"/>
+	<Point x="478" y="1588"/>
+	<Point x="478" y="1586"/>
+	<Point x="477" y="1586"/>
+	<Point x="477" y="1584"/>
+	<Point x="476" y="1584"/>
+	<Point x="477" y="1584"/>
+	<Point x="477" y="1564"/>
+	<Point x="478" y="1564"/>
+	<Point x="478" y="1543"/>
+	<Point x="479" y="1543"/>
+	<Point x="479" y="1523"/>
+	<Point x="480" y="1523"/>
+	<Point x="480" y="1502"/>
+	<Point x="481" y="1502"/>
+	<Point x="481" y="1482"/>
+	<Point x="482" y="1482"/>
+	<Point x="482" y="1461"/>
+	<Point x="483" y="1461"/>
+	<Point x="483" y="1458"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ea, pues, aqui dezir, que ea dichoſa Noche, aun
+que eſcurece al eſpiritu, no lo haze no por darle
+luz de todas las coſas: i aunque le humia i pone
+miſerable, no es no para enſalçarle i libertarle: i aun
+le empobrece i vàzia de toda poſeon i aﬁciõ natural,
+no es no para que divinamente pueda eenderſe a
+gozar i guar de todas las coſas de arriba i de abaxo,
+endo con libertad de eſpiritu general en todo. Por-
+que a como los elementos, para que ſe comuniquen
+en todos los compueos i entes naturales, conviene,
+que con ninguna particularidad de color, olor, ni ſabor,
+een afeados, para poder concurrir con todos los ſa-
+bores, olores i colares: a al eſpiritu le conviene ear
+ſencio, puro i deſnudo de todas maneras de aﬁcio-
+nes naturales, a auales, como habituales, para po-
+der comunicar conlibertad con la anchura del eſpiri-
+tu de divina Sabiduria, en que por ſu limpieza gua</Unicode></TextEquiv></TextRegion></Page></PcGts>

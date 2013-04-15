@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441776">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T15:18:32</Created>
+	<LastChange>2011-07-05T14:26:29</LastChange></Metadata>
+	<Page imageFilename="00441776.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="568" y="133"/>
+	<Point x="1131" y="144"/>
+	<Point x="1136" y="217"/>
+	<Point x="568" y="220"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MVSA III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="68" y="237"/>
+	<Point x="1666" y="250"/>
+	<Point x="1620" y="973"/>
+	<Point x="1660" y="1860"/>
+	<Point x="1640" y="1883"/>
+	<Point x="604" y="1897"/>
+	<Point x="64" y="1898"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cion, i benevolencia de Virgilio, a quien quiere cor-
+regir el exceo tambien de ſu dolor; añadiendo, deſ-
+pues que le tenga propicio, las raçones, que puedan
+moverle, para moderar la demaa de ſus ſenbles de-
+monraciones. Alto artiﬁcio de Rhetorica, i que el
+no haberle advertido aqui, puſo a ſus Scholiaes en
+miſerables fatigas, alterando con torpe violencia la
+conruccion de ſus palabras; i * buſcando, como dice
+el antiguo Proverbio, nudo en la liſura del mimbre.
+Ignoraron anmiſmo, Lo que fuee ai la Voz liquida;
+habiendo entendido por ea con elegancia ſumma La
+de las lagrimas: I no alcançando tambien, Que el Pa-
+dre de MELPOMENE en ee lugar no podia ſer Iup-
+piter, pues nunca El tuvo Muca voz, ni Cithara, que
+comunicae; no que Apolo es, a quien gniﬁca, bien
+amado an, por ſu Proteor, i por ſu Maero. Pero
+ſean diſculpables aûn en ea occaon con V. M. eos
+no prolixos advertimientos, pues fuera de no retirarſe
+de el propoto, en que ahora inimos; ﬁrme luz, i
+ſegura han de dar juntamente a una iluriſsima Can-
+cion de aquel gran Lyrico, haa hoi permanecida en
+infelices tinieblas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="66" y="1905"/>
+	<Point x="1632" y="1898"/>
+	<Point x="1697" y="2866"/>
+	<Point x="1592" y="2828"/>
+	<Point x="1259" y="2900"/>
+	<Point x="64" y="2921"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De ea Parte pues de las dos, que io obſervo, que a
+MELPOMENE ſe deinan, ſon reliquias ſolas, las que
+haa la occaon preſente he podido alcançar, de las
+ruinas eimables de nuero Don Franciſco. i  bien li-
+mitadas, de las menos oﬀendidas ſon de ſu deſcuido: aun-
+que neceſsitada alguna de reﬁngirſe a Forma nueva, 
+por ſer de las copiadas mas repetidamente, juzguè ne-
+ceario, el advertirlo, para aqueos, que la deſconocieſ-
+ſen. Entre eas tambien determinè io, dignamẽte mere-
+cer colocarſe las Exequias de la Tortola, i de la Ma-
+ripoſa, que a exemplo de los mejores Poetas antiguos, i
+con tanto ſabor ſuio, ean eſcritas, i paſo a la otra Parte
+¡a, que debe a MELPOMENE dedicarſe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="685" y="3130"/>
+	<Point x="1480" y="3109"/>
+	<Point x="1473" y="3214"/>
+	<Point x="690" y="3192"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1490" y="2871"/>
+	<Point x="1490" y="2980"/>
+	<Point x="1621" y="2980"/>
+	<Point x="1621" y="2871"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vi-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1436" y="112"/>
+	<Point x="1436" y="228"/>
+	<Point x="1610" y="228"/>
+	<Point x="1610" y="112"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>181</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="1642" y="784"/>
+	<Point x="1637" y="907"/>
+	<Point x="1642" y="958"/>
+	<Point x="1912" y="958"/>
+	<Point x="1912" y="784"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* Nodum in
+ſcirpo qure
+re.</Unicode></TextEquiv></TextRegion></Page></PcGts>

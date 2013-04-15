@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444269">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:48:52</Created>
+	<LastChange>2011-12-19T11:39:35</LastChange></Metadata>
+	<Page imageFilename="00444269.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="384" y="107"/>
+	<Point x="656" y="112"/>
+	<Point x="1521" y="107"/>
+	<Point x="1521" y="218"/>
+	<Point x="384" y="218"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="167" y="236"/>
+	<Point x="1739" y="236"/>
+	<Point x="1737" y="2647"/>
+	<Point x="1550" y="2662"/>
+	<Point x="1475" y="2645"/>
+	<Point x="1271" y="2648"/>
+	<Point x="911" y="2672"/>
+	<Point x="167" y="2661"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>daua yo quando me dezian que era demo-
+nio, y que ſe me antojaua, que fue muchas
+vezes, y ponia comparaciones como yo po-
+dia. Y el Señor me daua a entender, mas to-
+do aprouechaua poco, porque como auia
+perſonas muy ſantas en ee Iugar, y yo en ſu
+comparacion vna perdicion, y no los euaua
+Dios por ee camino, luego era el temor en
+eos, que mis peccados parece lo hazian, que
+de vno en otro ſe rodeaua, de manera que lo
+venian a ſaber n dezirlo yo, no a mi con-
+feor, o aquien el me mandaua. Yo les dixe
+vna vez, que  los que me dezian eo me
+dixeran, que vna perſona que vuiee acaba-
+do de hablar, y la conociee mucho, que no
+era ea, no que ſe me antojaua, que eos lo
+ſabian, que n duda yo lo creyera mas que
+lo que auia vio. Mas  ea perſona me de-
+xara algunas joyas, y ſe me quedauan en las
+manos por prendas de mucho amor, y que
+antes no tenia ninguna, y me via rica endo
+pobre, que no podria creerlo aunque yo
+quiee, y que eas joyas las podia morar,
+porque todos los que me conocian, vian cla-
+ro ear otra mi alma, y an lo dezia mi con-
+feor, porque era muy grande la diﬀerencia
+en todas las coſas, y no diſsimulada, no</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1520" y="2667"/>
+	<Point x="1745" y="2667"/>
+	<Point x="1745" y="2764"/>
+	<Point x="1520" y="2764"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>muy</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="592" y="3017"/>
+	<Point x="923" y="3015"/>
+	<Point x="1571" y="3017"/>
+	<Point x="1571" y="3170"/>
+	<Point x="592" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="1285" y="2655"/>
+	<Point x="1285" y="2751"/>
+	<Point x="1461" y="2751"/>
+	<Point x="1461" y="2655"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1557" y="134"/>
+	<Point x="1557" y="222"/>
+	<Point x="1701" y="222"/>
+	<Point x="1701" y="134"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>341</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440210">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T10:28:27</Created>
+	<LastChange>2011-12-19T11:38:50</LastChange></Metadata>
+	<Page imageFilename="00440210.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r27" index="0"/>
+	<RegionRefIndexed regionRef="r18" index="1"/>
+	<RegionRefIndexed regionRef="r23" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="541" y="2712"/>
+	<Point x="1983" y="2712"/>
+	<Point x="1983" y="2883"/>
+	<Point x="541" y="2883"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Reduccion de los angulos en Chichichòco (P)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="credit">
+	<Coords>
+	<Point x="675" y="3343"/>
+	<Point x="1493" y="3342"/>
+	<Point x="1676" y="3343"/>
+	<Point x="1677" y="3429"/>
+	<Point x="677" y="3429"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="catch-word">
+	<Coords>
+	<Point x="2025" y="3419"/>
+	<Point x="2216" y="3419"/>
+	<Point x="2216" y="3519"/>
+	<Point x="2025" y="3519"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="header">
+	<Coords>
+	<Point x="806" y="374"/>
+	<Point x="809" y="458"/>
+	<Point x="1481" y="464"/>
+	<Point x="1782" y="466"/>
+	<Point x="1783" y="374"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="page-number">
+	<Coords>
+	<Point x="2035" y="383"/>
+	<Point x="2036" y="481"/>
+	<Point x="2084" y="482"/>
+	<Point x="2157" y="480"/>
+	<Point x="2206" y="479"/>
+	<Point x="2206" y="383"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>191</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r2">
+	<Coords>
+	<Point x="280" y="474"/>
+	<Point x="890" y="471"/>
+	<Point x="949" y="478"/>
+	<Point x="2024" y="488"/>
+	<Point x="2112" y="488"/>
+	<Point x="2188" y="484"/>
+	<Point x="2283" y="485"/>
+	<Point x="2275" y="1170"/>
+	<Point x="280" y="1165"/></Coords></TableRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="600" y="1209"/>
+	<Point x="1970" y="1209"/>
+	<Point x="1970" y="1332"/>
+	<Point x="1748" y="1347"/>
+	<Point x="1595" y="1333"/>
+	<Point x="1370" y="1330"/>
+	<Point x="1332" y="1333"/>
+	<Point x="1313" y="1339"/>
+	<Point x="1299" y="1342"/>
+	<Point x="1271" y="1343"/>
+	<Point x="1189" y="1329"/>
+	<Point x="862" y="1318"/>
+	<Point x="597" y="1310"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Reduccion de los angulos en Chulàpu (N)</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r29">
+	<Coords>
+	<Point x="265" y="1325"/>
+	<Point x="610" y="1325"/>
+	<Point x="863" y="1329"/>
+	<Point x="1164" y="1333"/>
+	<Point x="1275" y="1349"/>
+	<Point x="1317" y="1343"/>
+	<Point x="1332" y="1339"/>
+	<Point x="1582" y="1338"/>
+	<Point x="1750" y="1353"/>
+	<Point x="1938" y="1344"/>
+	<Point x="2264" y="1320"/>
+	<Point x="2250" y="2690"/>
+	<Point x="230" y="2660"/>
+	<Point x="264" y="1751"/></Coords></TableRegion>
+	<TableRegion id="r21">
+	<Coords>
+	<Point x="267" y="2912"/>
+	<Point x="2200" y="2912"/>
+	<Point x="2208" y="3333"/>
+	<Point x="267" y="3318"/></Coords></TableRegion></Page></PcGts>

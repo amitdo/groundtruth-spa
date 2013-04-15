@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441313">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T03:25:11</Created>
+	<LastChange>2011-05-12T13:40:12</LastChange></Metadata>
+	<Page imageFilename="00441313.tif" imageWidth="1495" imageHeight="2328">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r2" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="266" y="77"/>
+	<Point x="982" y="77"/>
+	<Point x="983" y="222"/>
+	<Point x="276" y="219"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EXCELmo SEOR.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="265" y="272"/>
+	<Point x="1228" y="309"/>
+	<Point x="1247" y="1730"/>
+	<Point x="443" y="1742"/>
+	<Point x="120" y="1725"/>
+	<Point x="95" y="568"/>
+	<Point x="272" y="516"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A Felicidad de don Luys de Gongora en el
+comun aplauſo de ca toda Eſpaña, obligòa
+muchos (que deean entender lo miſmo que
+por fee aprueuan) a pedirme que comentae ſus o-
+bras, o parte deas, no pude negarme a ſuruego, y
+menos al imperio de alguno, a quien obedeci recono-
+cido, y aſsi en el ocio, que me permiten propias fati-
+gas, eſcriui, para declaracion de las agenas, eas
+notas, y por aegurarlas de la inuidia, determinè
+conſagrarlas aV. Exc. cuya cenſura por eudioſa
+dexarà (quãdo las condene) n que ja mi cuydado,
+y en ſu aprouacion ( la merecieren) ambicioſade
+mayores empleos mi modeia. Admita V. Excel:
+aciertos de mi eleccion ya que no de mi ingenio: y
+mientras Coronia de ſus glorioſas haçañas ſolici-
+to perpetuar, eſcriuiendolas, mi memoria, lea V.
+Exc. en ee Panegyrico, que me dio mi afeo bre
+ues alabanças de ſu grandeza, que aumente Dios
+guardando ſu per ſona, como los criados de V. Exc.
+deeamos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="562" y="1816"/>
+	<Point x="1162" y="1801"/>
+	<Point x="1194" y="1975"/>
+	<Point x="584" y="1987"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D.Garcia de Salzedo
+Coronel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="449" y="2215"/>
+	<Point x="709" y="2204"/>
+	<Point x="1038" y="2232"/>
+	<Point x="1046" y="2305"/>
+	<Point x="448" y="2308"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="drop-capital">
+	<Coords>
+	<Point x="102" y="339"/>
+	<Point x="105" y="521"/>
+	<Point x="262" y="511"/>
+	<Point x="262" y="339"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L</Unicode></TextEquiv></TextRegion></Page></PcGts>

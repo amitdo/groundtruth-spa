@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485090">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T05:41:52</Created>
+	<LastChange>2011-05-12T13:40:52</LastChange></Metadata>
+	<Page imageFilename="00485090.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r4" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1305" y="84"/>
+	<Point x="1607" y="85"/>
+	<Point x="1628" y="152"/>
+	<Point x="1615" y="182"/>
+	<Point x="1496" y="185"/>
+	<Point x="1302" y="191"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. LXI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="402" y="1071"/>
+	<Point x="1345" y="1060"/>
+	<Point x="1585" y="1096"/>
+	<Point x="1616" y="1325"/>
+	<Point x="1616" y="2032"/>
+	<Point x="1578" y="2564"/>
+	<Point x="1500" y="2557"/>
+	<Point x="1417" y="2569"/>
+	<Point x="1364" y="2573"/>
+	<Point x="1216" y="2600"/>
+	<Point x="400" y="2606"/>
+	<Point x="380" y="1158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aique vos no ſoys ya poderoſa
+Para ſacarme de ningun aprieto:
+Y no es por  ay en vuero poder falta.
+La falta no es no de mi ſujetto:
+Que'n alma tan cuitada y ſoſpechoſa
+No es culpa del remedio,  le falta.
+Toda coſa de bien me ſobreſalta:
+Su nouedad n mas baa a alterarme.
+Mas vos ſeñora que ſabeys mi'ado,
+Y veys quanto he paado,
+Buſca forma,  l'hay, de remediarme:
+Que yo que'oy tendido en mi triura,
+No ſe no dezir mil deſuarios,
+Soſpechando, que todo me's dañoſo.
+Vos que ſabeis adonde'a el repoſo
+Delos trabajos y tormentos mios,
+Curame ya de tanta deſuentura:
+Aunque ſea matarme con la cura.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="634" y="3022"/>
+	<Point x="1081" y="3023"/>
+	<Point x="1387" y="3021"/>
+	<Point x="1389" y="3091"/>
+	<Point x="635" y="3093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="415" y="205"/>
+	<Point x="1064" y="204"/>
+	<Point x="1602" y="224"/>
+	<Point x="1628" y="961"/>
+	<Point x="812" y="995"/>
+	<Point x="435" y="964"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y aqui mis penſamientos
+Amartian mi coraçon cuytado:
+El qual trae con vos erecha cuenta,
+Con vn proceo tan eſcrupuloſo,
+Que 'lſeſo ſe me haze mil pedaços:
+Y  quiero acogerme a vueros braços,
+Y con vos remediarme, ya no oſo:
+Porque quando quereys ſanar mi aﬀrẽta,
+Entonçes mi ſoſpecha s'acrecienta.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="1374" y="2576"/>
+	<Point x="1374" y="2652"/>
+	<Point x="1415" y="2658"/>
+	<Point x="1462" y="2652"/>
+	<Point x="1462" y="2576"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>K</Unicode></TextEquiv></TextRegion></Page></PcGts>

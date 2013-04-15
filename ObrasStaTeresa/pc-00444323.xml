@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444323">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:55:17</Created>
+	<LastChange>2011-12-19T11:39:38</LastChange></Metadata>
+	<Page imageFilename="00444323.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/>
+	<RegionRefIndexed regionRef="r12" index="2"/>
+	<RegionRefIndexed regionRef="r11" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="337" y="124"/>
+	<Point x="1483" y="124"/>
+	<Point x="1483" y="228"/>
+	<Point x="337" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="169" y="251"/>
+	<Point x="1710" y="253"/>
+	<Point x="1705" y="992"/>
+	<Point x="174" y="987"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ﬁn como mios,  tengo Señor mio, mas el
+no tener otra coſa que contar de mi parte
+me haze dezir tan baxos principios, para
+que tenga eſperança quien los hiziere gran-
+des, que pues eos parece ha tomado el Se-
+ñor en quenta, los tomara mejor. Plega a ſu
+Magead me de gracia para que no ee em
+pre en principios. Amen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1564" y="2695"/>
+	<Point x="1610" y="2695"/>
+	<Point x="1639" y="2692"/>
+	<Point x="1639" y="2676"/>
+	<Point x="1708" y="2679"/>
+	<Point x="1708" y="2758"/>
+	<Point x="1565" y="2761"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mis</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="620" y="3076"/>
+	<Point x="1570" y="3076"/>
+	<Point x="1570" y="3150"/>
+	<Point x="620" y="3150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1538" y="157"/>
+	<Point x="1676" y="157"/>
+	<Point x="1676" y="246"/>
+	<Point x="1538" y="246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>395</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="1732" y="1025"/>
+	<Point x="1732" y="1863"/>
+	<Point x="1699" y="1863"/>
+	<Point x="1699" y="1864"/>
+	<Point x="1654" y="1864"/>
+	<Point x="1654" y="1865"/>
+	<Point x="1609" y="1865"/>
+	<Point x="1609" y="1866"/>
+	<Point x="1564" y="1866"/>
+	<Point x="1564" y="1867"/>
+	<Point x="1518" y="1867"/>
+	<Point x="1518" y="1868"/>
+	<Point x="1501" y="1868"/>
+	<Point x="1501" y="1869"/>
+	<Point x="1484" y="1869"/>
+	<Point x="1484" y="1870"/>
+	<Point x="1467" y="1870"/>
+	<Point x="1467" y="1871"/>
+	<Point x="1450" y="1871"/>
+	<Point x="1450" y="1872"/>
+	<Point x="1433" y="1872"/>
+	<Point x="1433" y="1873"/>
+	<Point x="1416" y="1873"/>
+	<Point x="1416" y="1874"/>
+	<Point x="1398" y="1874"/>
+	<Point x="1398" y="1875"/>
+	<Point x="1329" y="1875"/>
+	<Point x="1329" y="1876"/>
+	<Point x="1260" y="1876"/>
+	<Point x="1260" y="1877"/>
+	<Point x="1191" y="1877"/>
+	<Point x="1191" y="1878"/>
+	<Point x="1148" y="1878"/>
+	<Point x="1148" y="1877"/>
+	<Point x="1144" y="1877"/>
+	<Point x="1144" y="1876"/>
+	<Point x="1140" y="1876"/>
+	<Point x="1140" y="1875"/>
+	<Point x="1135" y="1875"/>
+	<Point x="1135" y="1874"/>
+	<Point x="1131" y="1874"/>
+	<Point x="1131" y="1873"/>
+	<Point x="1127" y="1873"/>
+	<Point x="1127" y="1872"/>
+	<Point x="1120" y="1872"/>
+	<Point x="1120" y="1873"/>
+	<Point x="1113" y="1873"/>
+	<Point x="1113" y="1874"/>
+	<Point x="1106" y="1874"/>
+	<Point x="1106" y="1875"/>
+	<Point x="1099" y="1875"/>
+	<Point x="1099" y="1876"/>
+	<Point x="1092" y="1876"/>
+	<Point x="1092" y="1877"/>
+	<Point x="1084" y="1877"/>
+	<Point x="1084" y="1878"/>
+	<Point x="1050" y="1878"/>
+	<Point x="1050" y="1873"/>
+	<Point x="1051" y="1873"/>
+	<Point x="1051" y="1866"/>
+	<Point x="1052" y="1866"/>
+	<Point x="1052" y="1858"/>
+	<Point x="1049" y="1858"/>
+	<Point x="1049" y="1859"/>
+	<Point x="994" y="1859"/>
+	<Point x="994" y="1860"/>
+	<Point x="939" y="1860"/>
+	<Point x="939" y="1861"/>
+	<Point x="938" y="1861"/>
+	<Point x="938" y="1863"/>
+	<Point x="937" y="1863"/>
+	<Point x="937" y="1864"/>
+	<Point x="936" y="1864"/>
+	<Point x="936" y="1866"/>
+	<Point x="935" y="1866"/>
+	<Point x="935" y="1867"/>
+	<Point x="934" y="1867"/>
+	<Point x="934" y="1869"/>
+	<Point x="933" y="1869"/>
+	<Point x="933" y="1871"/>
+	<Point x="932" y="1871"/>
+	<Point x="932" y="1872"/>
+	<Point x="931" y="1872"/>
+	<Point x="931" y="1874"/>
+	<Point x="930" y="1874"/>
+	<Point x="930" y="1875"/>
+	<Point x="929" y="1875"/>
+	<Point x="929" y="1876"/>
+	<Point x="928" y="1876"/>
+	<Point x="928" y="1877"/>
+	<Point x="903" y="1877"/>
+	<Point x="903" y="1878"/>
+	<Point x="878" y="1878"/>
+	<Point x="878" y="1879"/>
+	<Point x="856" y="1879"/>
+	<Point x="856" y="1878"/>
+	<Point x="855" y="1878"/>
+	<Point x="855" y="1859"/>
+	<Point x="852" y="1859"/>
+	<Point x="852" y="1860"/>
+	<Point x="711" y="1860"/>
+	<Point x="711" y="1862"/>
+	<Point x="710" y="1862"/>
+	<Point x="710" y="1865"/>
+	<Point x="709" y="1865"/>
+	<Point x="709" y="1867"/>
+	<Point x="708" y="1867"/>
+	<Point x="708" y="1870"/>
+	<Point x="707" y="1870"/>
+	<Point x="707" y="1872"/>
+	<Point x="706" y="1872"/>
+	<Point x="706" y="1873"/>
+	<Point x="705" y="1873"/>
+	<Point x="705" y="1874"/>
+	<Point x="681" y="1874"/>
+	<Point x="668" y="1875"/>
+	<Point x="661" y="1876"/>
+	<Point x="650" y="1874"/>
+	<Point x="648" y="1872"/>
+	<Point x="648" y="1869"/>
+	<Point x="647" y="1869"/>
+	<Point x="645" y="1865"/>
+	<Point x="640" y="1858"/>
+	<Point x="639" y="1858"/>
+	<Point x="639" y="1857"/>
+	<Point x="581" y="1854"/>
+	<Point x="572" y="1856"/>
+	<Point x="504" y="1856"/>
+	<Point x="504" y="1855"/>
+	<Point x="467" y="1852"/>
+	<Point x="436" y="1854"/>
+	<Point x="368" y="1854"/>
+	<Point x="368" y="1853"/>
+	<Point x="300" y="1853"/>
+	<Point x="300" y="1852"/>
+	<Point x="232" y="1852"/>
+	<Point x="232" y="1851"/>
+	<Point x="173" y="1851"/>
+	<Point x="173" y="1025"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP. XXXII. En que trata como quiſo
+el Señor ponerla en eſpiritu en vn lugar del
+inﬁerno que tenia por ſus peccados merecido.
+Quenta vna cifra de lo que ai ſe te repreſen-
+to para lo que fue, comiença a tratar
+la manera y modo como ſe fundo
+el moneﬆerio adonde aora
+ea de ſan Ioſeph.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="478" y="2135"/>
+	<Point x="477" y="2118"/>
+	<Point x="478" y="2099"/>
+	<Point x="480" y="2059"/>
+	<Point x="480" y="2051"/>
+	<Point x="478" y="2033"/>
+	<Point x="475" y="1989"/>
+	<Point x="477" y="1909"/>
+	<Point x="477" y="1887"/>
+	<Point x="479" y="1863"/>
+	<Point x="496" y="1861"/>
+	<Point x="512" y="1863"/>
+	<Point x="555" y="1862"/>
+	<Point x="572" y="1863"/>
+	<Point x="625" y="1863"/>
+	<Point x="628" y="1867"/>
+	<Point x="631" y="1867"/>
+	<Point x="636" y="1870"/>
+	<Point x="637" y="1872"/>
+	<Point x="639" y="1877"/>
+	<Point x="642" y="1880"/>
+	<Point x="647" y="1882"/>
+	<Point x="655" y="1882"/>
+	<Point x="670" y="1881"/>
+	<Point x="678" y="1880"/>
+	<Point x="685" y="1881"/>
+	<Point x="707" y="1876"/>
+	<Point x="707" y="1875"/>
+	<Point x="708" y="1875"/>
+	<Point x="708" y="1874"/>
+	<Point x="709" y="1874"/>
+	<Point x="709" y="1872"/>
+	<Point x="710" y="1872"/>
+	<Point x="710" y="1869"/>
+	<Point x="711" y="1869"/>
+	<Point x="711" y="1867"/>
+	<Point x="712" y="1867"/>
+	<Point x="712" y="1864"/>
+	<Point x="713" y="1864"/>
+	<Point x="713" y="1862"/>
+	<Point x="853" y="1862"/>
+	<Point x="853" y="1880"/>
+	<Point x="854" y="1880"/>
+	<Point x="854" y="1881"/>
+	<Point x="880" y="1881"/>
+	<Point x="880" y="1880"/>
+	<Point x="905" y="1880"/>
+	<Point x="905" y="1879"/>
+	<Point x="930" y="1879"/>
+	<Point x="930" y="1878"/>
+	<Point x="931" y="1878"/>
+	<Point x="931" y="1877"/>
+	<Point x="932" y="1877"/>
+	<Point x="932" y="1876"/>
+	<Point x="933" y="1876"/>
+	<Point x="933" y="1874"/>
+	<Point x="934" y="1874"/>
+	<Point x="934" y="1873"/>
+	<Point x="935" y="1873"/>
+	<Point x="935" y="1871"/>
+	<Point x="936" y="1871"/>
+	<Point x="936" y="1869"/>
+	<Point x="937" y="1869"/>
+	<Point x="937" y="1868"/>
+	<Point x="938" y="1868"/>
+	<Point x="938" y="1866"/>
+	<Point x="939" y="1866"/>
+	<Point x="939" y="1865"/>
+	<Point x="940" y="1865"/>
+	<Point x="940" y="1863"/>
+	<Point x="941" y="1863"/>
+	<Point x="941" y="1862"/>
+	<Point x="996" y="1862"/>
+	<Point x="996" y="1861"/>
+	<Point x="1050" y="1861"/>
+	<Point x="1050" y="1864"/>
+	<Point x="1049" y="1864"/>
+	<Point x="1049" y="1871"/>
+	<Point x="1048" y="1871"/>
+	<Point x="1048" y="1877"/>
+	<Point x="1047" y="1877"/>
+	<Point x="1047" y="1880"/>
+	<Point x="1086" y="1880"/>
+	<Point x="1086" y="1879"/>
+	<Point x="1094" y="1879"/>
+	<Point x="1094" y="1878"/>
+	<Point x="1101" y="1878"/>
+	<Point x="1101" y="1877"/>
+	<Point x="1108" y="1877"/>
+	<Point x="1108" y="1876"/>
+	<Point x="1115" y="1876"/>
+	<Point x="1115" y="1875"/>
+	<Point x="1122" y="1875"/>
+	<Point x="1122" y="1874"/>
+	<Point x="1125" y="1874"/>
+	<Point x="1125" y="1875"/>
+	<Point x="1129" y="1875"/>
+	<Point x="1129" y="1876"/>
+	<Point x="1133" y="1876"/>
+	<Point x="1133" y="1877"/>
+	<Point x="1138" y="1877"/>
+	<Point x="1138" y="1878"/>
+	<Point x="1142" y="1878"/>
+	<Point x="1142" y="1879"/>
+	<Point x="1146" y="1879"/>
+	<Point x="1146" y="1880"/>
+	<Point x="1193" y="1880"/>
+	<Point x="1193" y="1879"/>
+	<Point x="1262" y="1879"/>
+	<Point x="1262" y="1878"/>
+	<Point x="1331" y="1878"/>
+	<Point x="1331" y="1877"/>
+	<Point x="1400" y="1877"/>
+	<Point x="1400" y="1876"/>
+	<Point x="1418" y="1876"/>
+	<Point x="1418" y="1875"/>
+	<Point x="1435" y="1875"/>
+	<Point x="1435" y="1874"/>
+	<Point x="1452" y="1874"/>
+	<Point x="1452" y="1873"/>
+	<Point x="1469" y="1873"/>
+	<Point x="1469" y="1872"/>
+	<Point x="1486" y="1872"/>
+	<Point x="1486" y="1871"/>
+	<Point x="1503" y="1871"/>
+	<Point x="1503" y="1870"/>
+	<Point x="1520" y="1870"/>
+	<Point x="1520" y="1869"/>
+	<Point x="1566" y="1869"/>
+	<Point x="1566" y="1868"/>
+	<Point x="1611" y="1868"/>
+	<Point x="1611" y="1867"/>
+	<Point x="1656" y="1867"/>
+	<Point x="1656" y="1866"/>
+	<Point x="1701" y="1866"/>
+	<Point x="1701" y="1865"/>
+	<Point x="1732" y="1865"/>
+	<Point x="1723" y="2667"/>
+	<Point x="1628" y="2667"/>
+	<Point x="1616" y="2688"/>
+	<Point x="1509" y="2687"/>
+	<Point x="1487" y="2688"/>
+	<Point x="171" y="2695"/>
+	<Point x="165" y="2157"/>
+	<Point x="478" y="2157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eſpues de mucho tiempo que el Se-
+ñor me auia hecho ya muchas de
+las mercedes que he dicho, y otras
+muy grandes. Eando vn dia en oracion,
+me hae en vn punto toda n ſaber co-
+mo, que me parecia ear metida en el
+inﬁerno, entendi que queria el Señor
+que viee el lugar que los demonios aa
+me tenian aparejado, y yo merecido por</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="drop-capital">
+	<Coords>
+	<Point x="471" y="2148"/>
+	<Point x="469" y="1868"/>
+	<Point x="181" y="1868"/>
+	<Point x="181" y="2144"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D</Unicode></TextEquiv></TextRegion></Page></PcGts>

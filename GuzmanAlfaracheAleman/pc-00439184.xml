@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439184">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T08:40:45</Created>
+	<LastChange>2011-05-12T13:39:50</LastChange></Metadata>
+	<Page imageFilename="00439184.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="607" y="85"/>
+	<Point x="1521" y="83"/>
+	<Point x="1528" y="166"/>
+	<Point x="604" y="166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="285" y="188"/>
+	<Point x="350" y="183"/>
+	<Point x="1714" y="178"/>
+	<Point x="1723" y="2606"/>
+	<Point x="1138" y="2647"/>
+	<Point x="280" y="2626"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bien eramos como el, eos en la fuga ſe metian de por
+medio, en ſon de meter paz, ayudandonos à deſpartir
+y ponernos en libertad, y  neceario era, quando
+no podian derramavan el poleo, del ayre buſcavan a-
+chaque, incitando con palabras à las obras, haa que
+con el alboroto mayor ſe ſoſegava el menor, y aſ nos
+eſcabuiamos. Otras vezes que yvamos huyendo con
+el hurto,  alguno venia corriendo tras de noſotros, y
+dandonos alcance, ſaliale un compañero de traves à
+detenerlo, poniendoſele delante, y preguntan do ſo-
+bre que avia do la peſadumbre, no dexandolo paar
+de ai, à modo de querer poner paz, y ſoſegarlo, y por
+muy poquita demora que de qualquier manera tuviee,
+les tomavamos grandiſma ventaja: porque de mas de la
+que  empre haze quien huye à quien corre, pone alas
+en los pies el miedo en caſos tales. Los que corren ſe
+canſan preo naturalmente con el corto animo de hazer
+mal, que los deſmaya, no obante que quieran y lo
+procuren: mas es les impoſble forçar à la naturaleza,
+la qual empre favorece à lo que deean ſalvarſe. De u-
+na ò de otra manera, empre los detenian. Otras ve-
+zes nos abonavan, quando avia paado la palabra con
+el hurto, y no ſe nos haava porque ya lo teniamos de
+ai tres caes ò quatro: demanera que ſus buenas pala-
+bras, interceſones, y abonos, hazian que fueemos
+libres de la mala opinion que ſe nos achacava. En to-
+das maneras por acà, ò por acuà, haziamos nuera
+hazienda, peſae à quien peſae, que para todo avia
+traça: mas una vez que me deſcuydè, ſaliendo un po-
+co à mariſcar, n eſcoa y por el campo, no me la cu-
+brirà pelo, ni ſe me caera tan preo de encima. Mis
+pecados y otro no me ſacaron à paear un dia por fuera
+de la ciudad, y como cerca del arroyo euviee ſobre
+la yerva tendida mucha ropa, y el dueño dea tras de
+un poco de repecho, à la ſombra de una pared, pare-
+ciome que ya devia ear bien enjuta, ò à lo menos que
+quanto para mi meneer, con aqueo baava. Diome</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1561" y="2630"/>
+	<Point x="1697" y="2626"/>
+	<Point x="1707" y="2690"/>
+	<Point x="1554" y="2702"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>gana</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="538" y="2866"/>
+	<Point x="1328" y="2859"/>
+	<Point x="1302" y="2942"/>
+	<Point x="522" y="2931"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="330" y="92"/>
+	<Point x="311" y="169"/>
+	<Point x="385" y="171"/>
+	<Point x="459" y="166"/>
+	<Point x="459" y="92"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>150</Unicode></TextEquiv></TextRegion></Page></PcGts>

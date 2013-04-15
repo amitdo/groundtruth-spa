@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443098">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T12:22:57</Created>
+	<LastChange>2011-03-15T16:51:37</LastChange></Metadata>
+	<Page imageFilename="00443098.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r13" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="612" y="79"/>
+	<Point x="1058" y="79"/>
+	<Point x="1058" y="205"/>
+	<Point x="612" y="205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro ſegundo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="780" y="2925"/>
+	<Point x="1417" y="2925"/>
+	<Point x="1417" y="3004"/>
+	<Point x="780" y="3004"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1590" y="115"/>
+	<Point x="1590" y="211"/>
+	<Point x="1690" y="211"/>
+	<Point x="1690" y="115"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>87</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="117" y="218"/>
+	<Point x="1684" y="228"/>
+	<Point x="1633" y="1226"/>
+	<Point x="1623" y="2765"/>
+	<Point x="1247" y="2765"/>
+	<Point x="1235" y="2747"/>
+	<Point x="104" y="2746"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mayor obra, que en toda ſu vida con milagros i maravi-
+as avia hecho; que fue reconciliar, i unir al genero hu-
+mano por gracia con Dios. I eo fue al tiempo i punto
+que ee Señor euvo mas aniquilado en todo. Convie-
+ne a ſaber, acerca de la reputacion de los hombres; por-
+que como le vian morir en un madero, antes hazian bur
+la del, que le eimaban en algo. I acerca de la natura-
+leza, pues en ea, en cierto modo, ſe aniquilaba murien-
+do. I acerca del amparo, i conſuelo del Padre; pues en
+aquel tiempo le deſamparò, porque puramente pagaſ-
+ſe la deuda, i unieſe al hombre con Dios, quedando a
+aniquilado, i como reſuelto en nada. De donde David
+dize del: Ad nihilum redaus ſum, &amp; neſcivi. Para que
+entienda el buen eſpiritual el mierio de la puerta, i
+del camino Crio, para unirſe con Dios, i ſcpa, que cuan
+to mas ſe aniquilare por Dios, ſegũ eas dos partes ſen
+tiva i eſpiritual, tanto mas ſe une a Dios, i tanto ma-
+yor obra haze; i cuando viniere a quedar reſuelto en na
+da, que ſerà en la ſuma humildad, quedarà hecha la
+union entre el alma i Dios, que es el mayor i mas alto
+eado a que en ea vida ſe puede egar. No cone
+pues en recreaciones, ni guos, ni ſentimientos eſpiri-
+tuales, no en una viva muerte de Cruz ſentiva, i eſpi
+ritual, interior, i exterior. No me quiero alargar a ha
+blar mas en eo, aun no quiera acabar de tratar de-
+o, porque veo es mui poco conocido Ieſu Crio de los
+que ſe tienen por ſus amigos; pues los vemos andar buſ-
+cando en el ſus guos i conſolaciones, amandoſe mucho
+a  miſmos, mas no ſus amarguras i muertes, amandole
+mucho a el. Deos hablo, que ſe tienen por ſus ami-
+gos; que eſotros que viven aà a lo lexos apartados
+dèl, grandes letrados i potentes, i los demas que vi-
+ven aà con el mũdo en el cuidado de ſus pretenones</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="marginalia">
+	<Coords>
+	<Point x="1658" y="1065"/>
+	<Point x="1900" y="1064"/>
+	<Point x="1900" y="1216"/>
+	<Point x="1647" y="1216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pſal.72.
+22.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="catch-word">
+	<Coords>
+	<Point x="1452" y="2776"/>
+	<Point x="1627" y="2777"/>
+	<Point x="1626" y="2846"/>
+	<Point x="1451" y="2846"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y ma-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="signature-mark">
+	<Coords>
+	<Point x="1000" y="2754"/>
+	<Point x="1129" y="2754"/>
+	<Point x="1128" y="2829"/>
+	<Point x="1000" y="2829"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>F 4</Unicode></TextEquiv></TextRegion></Page></PcGts>

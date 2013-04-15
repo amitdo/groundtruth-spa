@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443932">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T11:06:51</Created>
+	<LastChange>2011-12-19T11:39:15</LastChange></Metadata>
+	<Page imageFilename="00443932.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="500" y="140"/>
+	<Point x="640" y="140"/>
+	<Point x="640" y="238"/>
+	<Point x="500" y="238"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="492" y="247"/>
+	<Point x="2104" y="247"/>
+	<Point x="2102" y="2600"/>
+	<Point x="1970" y="2597"/>
+	<Point x="1927" y="2628"/>
+	<Point x="492" y="2640"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>edad adonde tantos miares de hombres, vnos
+con ſus errados ingenios, y otros con ſus perdi‐
+das coﬆumbres aportian ſu reyno que vna
+muger alumbrae los entendimientos, y orde‐
+nae las coumbres de muchos, que cada dia
+crecen para reparar eas quiebras. Y en ea
+vejez de la Iglea tuuo por bien de moﬆrar‐
+nos que no ſe enuejece ſugracia, ni es agora
+menos la virtud de ſu eſpiritu que fue en los
+primeros y felices tiempos dea, pues con me‐
+dios mas ﬂacos en linage que entonces haze lo
+miſmo, o calomiſmo que entonces. Porque,
+( y eﬆe es el ſegundo milagro ) la vida en que
+vueras reuerencias viuen, y la perfecion en
+que las puſo ſu madre, que es no vn retrato de
+la ſantidad de la Iglea primera? Que cierta‐
+mente lo que leemos en las hiorias de aque‐
+os tiempos, eo miſmo vemos agora con los
+ojos en ſus coumbres: y ſu vida nos demue‐
+ra en las obras, lo que ya por el poco vſopa‐
+recia eﬆar en ſolos los papeles y las palabras:
+y lo que leydo admira, y apenas la carne lo cree
+agora lo vee hecho en vuera reuerencia, y en</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1931" y="2636"/>
+	<Point x="1989" y="2609"/>
+	<Point x="2082" y="2610"/>
+	<Point x="2090" y="2733"/>
+	<Point x="1922" y="2732"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſus</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="609" y="3064"/>
+	<Point x="1597" y="3064"/>
+	<Point x="1597" y="3150"/>
+	<Point x="609" y="3150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

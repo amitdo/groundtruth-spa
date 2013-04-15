@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443949">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T08:39:53</Created>
+	<LastChange>2011-12-19T11:39:16</LastChange></Metadata>
+	<Page imageFilename="00443949.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r12" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="114" y="249"/>
+	<Point x="1642" y="249"/>
+	<Point x="1643" y="2617"/>
+	<Point x="1034" y="2618"/>
+	<Point x="992" y="2633"/>
+	<Point x="114" y="2633"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>qual que por ſu indiſpocion ſe oﬀendiere.
+Y an por no perder aqueos, encarece, y
+pone delante los ojos el daño de aqueos,
+que el por otros mil caminos tiene dañados.
+Aunque como dezia, no ſe ninguno tan
+mal diſpueﬆo que ſaque daño de ſaber que
+Dios es dulce con ſus amigos, y de ſaber
+quan dulce es, y de conocer por que ca‐
+minos ſe le egan las almas, a que ſe ende‐
+reça toda aquea eſcriptura. Solamente me
+recelo de vnos que quieren quiar por  a
+todos, y que apprueuan mal lo que no or‐
+denan eos, y que procuran no tenga au‐
+toridad lo que no es  juyzio: a los quales
+no quiero ſatisfazer, porque nace ſu error
+de ſu voluntad, y an no querran ſer ſatisfe‐
+chos, mas quiero rogar a los demas que no les
+den credito porque nole merecen. Sola vna co‐
+ſa aduertire aqui, que es neceario ſe ad‐
+uierta, y es. Que la ſana madre hablando
+de la oracion que ama de quietud, y de otros
+grados mas altos, y tratãdo de algunas particu
+lares mercedes que Dios haze a las almas en</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="603" y="3057"/>
+	<Point x="1574" y="3057"/>
+	<Point x="1574" y="3146"/>
+	<Point x="603" y="3146"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1508" y="160"/>
+	<Point x="1508" y="235"/>
+	<Point x="1626" y="235"/>
+	<Point x="1626" y="160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>21</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1217" y="2623"/>
+	<Point x="1217" y="2677"/>
+	<Point x="1216" y="2677"/>
+	<Point x="1216" y="2729"/>
+	<Point x="1053" y="2729"/>
+	<Point x="1053" y="2623"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="catch-word">
+	<Coords>
+	<Point x="1638" y="2623"/>
+	<Point x="1638" y="2729"/>
+	<Point x="1360" y="2729"/>
+	<Point x="1360" y="2623"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>muchas</Unicode></TextEquiv></TextRegion></Page></PcGts>

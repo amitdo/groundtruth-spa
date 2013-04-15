@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444076">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T11:25:15</Created>
+	<LastChange>2011-12-19T11:39:24</LastChange></Metadata>
+	<Page imageFilename="00444076.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="951" y="55"/>
+	<Point x="1598" y="55"/>
+	<Point x="1598" y="203"/>
+	<Point x="951" y="203"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="419" y="221"/>
+	<Point x="1258" y="215"/>
+	<Point x="2069" y="210"/>
+	<Point x="2069" y="2630"/>
+	<Point x="407" y="2666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que pretende, que por poca que ſea quando
+es vna comunidad deue ganar mucho, quan-
+to mas que lo que yo hazia malo, era muy
+mucho y an en muchos años ſolas tres ſe
+aprouecharon de lo que les dezia, y deſpues
+que ya el Señor me hauia dado mas fuerças
+en la virtud, ſe aprouecharon en dos o tres
+años muchas, como deſpues dire: y n eo
+ay otro gran inconueniente que es perder el
+alma porque lo mas que hemos de procurar
+al principio es ſolo tener cuydado de ea ſola,
+y hazer quenta que no ay en la tierra no
+Dios y ea, y eo es lo que le conuiene mu
+cho. Da otra tentacion, y todas van con vn
+zelo de virtud, que es meneer entenderſe,
+y andar con cuydado, de pena de los pecca-
+dos y faltas que veen en los otros, pone el
+demonio que es ſolo la pena de querer que
+no oﬀendan a Dios, y peſarle por ſu honra,
+y luego querrian remediarlo, inquieta eo
+tanto que impide la oracion, y el mayor da-
+ñoes penſar que es virtud y perfecion, y grã
+zelo de Dios, dexo las penas que dan pecca-
+dos publicos,  los vuiee en coumbre
+de vna congregacion, o daños de la iglea
+de eas heregias, adonde vemos perder
+tantas almas, que ea es muy buena, y co‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="585" y="3041"/>
+	<Point x="1594" y="3041"/>
+	<Point x="1594" y="3157"/>
+	<Point x="585" y="3157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="462" y="87"/>
+	<Point x="462" y="205"/>
+	<Point x="682" y="205"/>
+	<Point x="682" y="87"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>148</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1839" y="2642"/>
+	<Point x="1839" y="2735"/>
+	<Point x="1982" y="2735"/>
+	<Point x="1982" y="2642"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mo</Unicode></TextEquiv></TextRegion></Page></PcGts>

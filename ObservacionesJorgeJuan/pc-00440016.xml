@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440016">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T22:54:50</Created>
+	<LastChange>2011-12-19T11:38:34</LastChange></Metadata>
+	<Page imageFilename="00440016.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="723" y="433"/>
+	<Point x="955" y="433"/>
+	<Point x="955" y="530"/>
+	<Point x="724" y="522"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>xxviij</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="656" y="533"/>
+	<Point x="795" y="532"/>
+	<Point x="900" y="535"/>
+	<Point x="1437" y="519"/>
+	<Point x="2582" y="507"/>
+	<Point x="2600" y="1170"/>
+	<Point x="2581" y="1172"/>
+	<Point x="2556" y="1171"/>
+	<Point x="2334" y="1171"/>
+	<Point x="1884" y="1168"/>
+	<Point x="1038" y="1168"/>
+	<Point x="939" y="1170"/>
+	<Point x="658" y="1171"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>en los Reynos del Perù, que eà baxo de la Equinoccial.
+Pidióſe licencia para paar à eos ſus dominios al Rey N. S,
+el qual, no ſolo la concediò benigniſsimo, no que quiſo,
+que noſotros los acompañaemos, como yà dixe en el Pro‐
+logo, è hicieemos con eos las miſmas Obſervaciones, y
+otras, que S. M. ſe rviò ordenarnos en ſus Reales Inruc‐
+ciones.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="651" y="1180"/>
+	<Point x="997" y="1177"/>
+	<Point x="1092" y="1175"/>
+	<Point x="2601" y="1182"/>
+	<Point x="2589" y="2017"/>
+	<Point x="2561" y="2017"/>
+	<Point x="2003" y="2030"/>
+	<Point x="1643" y="2028"/>
+	<Point x="1569" y="2024"/>
+	<Point x="639" y="2023"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Groſera ruicidad ſerìa no dàr aquì algun pequeño
+teimonio de nuero aprecio, y eimacion al merito de
+los que por tanto tiempo hemos logrado por Compañeros,
+y de nuero reconocimiento à las luces, que hemos debi‐
+do à ſu comunicacion. Nueros elogios ninguna recomen‐
+dacion pueden añadir à ſus talentos, ſobre la Soberana, que
+les dà la elecion de ſu Rey; y aſsì nos contentarémos con
+hacerles la juicia de decir, que hacen jua la ſuperior
+conﬁanza de ſu Monarcha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="649" y="2037"/>
+	<Point x="1158" y="2030"/>
+	<Point x="1933" y="2041"/>
+	<Point x="2582" y="2030"/>
+	<Point x="2589" y="3282"/>
+	<Point x="1994" y="3301"/>
+	<Point x="646" y="3289"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ultimamente debémos advertir, que deſpues del re-
+greo à Francia de los Academicos embiados al Norte, ſe
+volviò à medir de orden del Rey la linea Meridiana, que
+atraviea la Francia, con Inrumentos mas exaos, y con
+mayor delicadeza, que ſe havìa executado antecedente‐
+mente. Encargóſe ea medida à M. Caſsini de Thury, nieto
+de M. Caſsini, que la emprendiò la primera vez, y à M. el
+Abate de la Caie; y haviendo èos executado ſu medida,
+con quanta precion es imaginable, haaron, que èa ſe
+conformaba, con las medidas hechas en el Circulo Polar, y
+deſpues con las nueras, hechas en el Equador, como ſe
+puede vèr en las Memorias de la Academia de las Ciencias, y
+como noſotros dirémos en la Obra, que vamos à empezar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="2242" y="3446"/>
+	<Point x="2592" y="3446"/>
+	<Point x="2592" y="3573"/>
+	<Point x="2242" y="3573"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSER-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="992" y="4001"/>
+	<Point x="1960" y="4001"/>
+	<Point x="1960" y="4091"/>
+	<Point x="992" y="4091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

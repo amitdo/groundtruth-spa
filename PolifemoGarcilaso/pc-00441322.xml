@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441322">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:26:14</Created>
+	<LastChange>2011-05-12T13:40:12</LastChange></Metadata>
+	<Page imageFilename="00441322.tif" imageWidth="1444" imageHeight="2304">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r11" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r12" index="2"/>
+	<RegionRefIndexed regionRef="r7" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="394" y="2236"/>
+	<Point x="396" y="2225"/>
+	<Point x="395" y="2219"/>
+	<Point x="406" y="2156"/>
+	<Point x="998" y="2166"/>
+	<Point x="1025" y="2254"/>
+	<Point x="1018" y="2265"/>
+	<Point x="990" y="2271"/>
+	<Point x="977" y="2275"/>
+	<Point x="968" y="2278"/>
+	<Point x="383" y="2266"/>
+	<Point x="389" y="2250"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1239" y="2005"/>
+	<Point x="1263" y="2010"/>
+	<Point x="1260" y="2070"/>
+	<Point x="1263" y="2123"/>
+	<Point x="1234" y="2123"/>
+	<Point x="1190" y="2118"/>
+	<Point x="1181" y="2101"/>
+	<Point x="1171" y="2090"/>
+	<Point x="1160" y="2052"/>
+	<Point x="1207" y="2015"/>
+	<Point x="1234" y="2005"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Si</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="144" y="192"/>
+	<Point x="144" y="797"/>
+	<Point x="184" y="780"/>
+	<Point x="198" y="786"/>
+	<Point x="240" y="777"/>
+	<Point x="300" y="784"/>
+	<Point x="1234" y="797"/>
+	<Point x="1234" y="192"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No inferior a ſu tio generoſo,
+En los Eados ſucedio el tercero
+Perafan, que prudente y viorioſo
+Aegurò las golrias del primero:
+Dos vezes ſuituto venturoſo
+Del Monarca Eſpañol, reynò ſeuero,
+Y en diintas Regiones fue altamente
+Precurſor de ſu miſmo deſcendiente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="178" y="1431"/>
+	<Point x="178" y="1986"/>
+	<Point x="175" y="2027"/>
+	<Point x="236" y="2036"/>
+	<Point x="581" y="2059"/>
+	<Point x="752" y="2063"/>
+	<Point x="1051" y="2066"/>
+	<Point x="1048" y="2028"/>
+	<Point x="1168" y="2028"/>
+	<Point x="1226" y="1986"/>
+	<Point x="1226" y="1431"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pero no de ſu eirpe venerada
+El golpe acerbo interrumpio la gloria,
+Que generoſamente dilatada,
+Mirò ſu eternidad en tu memoria:
+De inexorable ley executada,
+Hizo menos infaua la vioria,
+Tu eſperada virtud, cuyos honores
+Renueuan mulacro a tus mayores.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="160" y="839"/>
+	<Point x="163" y="810"/>
+	<Point x="200" y="805"/>
+	<Point x="236" y="800"/>
+	<Point x="239" y="805"/>
+	<Point x="257" y="805"/>
+	<Point x="1272" y="818"/>
+	<Point x="1278" y="1026"/>
+	<Point x="1277" y="1393"/>
+	<Point x="552" y="1405"/>
+	<Point x="186" y="1401"/>
+	<Point x="176" y="897"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Real traſunto del inuio hermano,
+Proguio don Fernando ſu grandeza,
+Y en ilure conſorcio, al ſuelo Hiſpano
+Dio claro ſuceorde ſu nobleza:
+Iouen feliz, cuy a valiente mano
+Excediera la antigua fortaleza,
+Si la muerte, invidioſa de ſu vida,
+No anticipara la comun herida.</Unicode></TextEquiv></TextRegion></Page></PcGts>

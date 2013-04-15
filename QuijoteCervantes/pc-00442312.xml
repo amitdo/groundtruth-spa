@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442312">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T22:31:24</Created>
+	<LastChange>2012-03-12T14:11:50</LastChange></Metadata>
+	<Page imageFilename="00442312.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="557" y="112"/>
+	<Point x="1112" y="101"/>
+	<Point x="1096" y="194"/>
+	<Point x="791" y="201"/>
+	<Point x="567" y="199"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Primera parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="192" y="203"/>
+	<Point x="807" y="212"/>
+	<Point x="1324" y="194"/>
+	<Point x="1481" y="208"/>
+	<Point x="1505" y="2155"/>
+	<Point x="1191" y="2166"/>
+	<Point x="810" y="2196"/>
+	<Point x="203" y="2201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bien enquadernados, y otros pequeños: y aſsi como
+el ama los vio, boluioſe a ſalir del apoſento con grã
+priea, y tornò luego con vna eſcudia de agua ben
+dita, y vn hiſopo, y dixo: Tome vuera merced ſe-
+ñor Licẽciado, rozie ee apoſento, no eè aqui al-
+gun encantador de los muchos que tienen eos li-
+bros y nos encanten, en pena de las que les quere-
+mos dar, echandolos del mundo. Cauſo riſa al Licen
+ciado, la mplicidad del ama, y mandò al barbero
+que le fuee dando de aqueos libros vno a vno,
+para ver de que tratauan, pues podia ſer haar al-
+gunos que no merecieen caigo de fuego. No, di-
+xo la ſobrina, no ay para que perdonar a ninguno,
+porque todos han do los dañadores: mejor ſerà
+arrojaros por las ventanas al patio, y hazer vn
+rimero deos, y pegarles fuego, y no euar-
+los al corral, y ai ſe hara la hoguera, y no ofen-
+derà el humo. Lo miſmo dixo el ama, tal era la
+gana que las dos tenian, de la muerte de aqueos
+inocentes, mas el cura no vino en eo, ﬁn pri-
+mero leer  quiera los titulos. Y el primero que
+Maeſe Nicolas le dio en las manos, fue los qua-
+tro de Amadis de Gaula, y dixo el cura: Parece
+coſa de mierio ea, porque ſegun he oydo de-
+zir, ee libro fue el primero de cauaerias que
+ſe imprimio en Eſpaña, y todos los demas han
+tomado principio y origen dee: y aſsi me pare-
+ce, que como a dogmatizador de vna ſea tan ma-
+la, le deuemos n eſcuſa alguna condenar al fue-
+go. No ſeñor, dixo el barbero, que tambien he oy-
+do dezir, que es el mejor de todos los libros que de
+ee genero ſe han compueo, y aſsi como a vnico</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1294" y="2171"/>
+	<Point x="1482" y="2162"/>
+	<Point x="1489" y="2233"/>
+	<Point x="1292" y="2232"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>en ſu</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="439" y="2300"/>
+	<Point x="1132" y="2307"/>
+	<Point x="1141" y="2382"/>
+	<Point x="449" y="2384"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

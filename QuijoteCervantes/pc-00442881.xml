@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442881">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:48:05</Created>
+	<LastChange>2012-03-12T14:12:33</LastChange></Metadata>
+	<Page imageFilename="00442881.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="424" y="49"/>
+	<Point x="857" y="50"/>
+	<Point x="1186" y="59"/>
+	<Point x="1175" y="145"/>
+	<Point x="644" y="137"/>
+	<Point x="527" y="164"/>
+	<Point x="430" y="139"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="135" y="132"/>
+	<Point x="429" y="141"/>
+	<Point x="527" y="166"/>
+	<Point x="575" y="159"/>
+	<Point x="646" y="141"/>
+	<Point x="1055" y="150"/>
+	<Point x="1228" y="151"/>
+	<Point x="1304" y="170"/>
+	<Point x="1343" y="154"/>
+	<Point x="1378" y="169"/>
+	<Point x="1431" y="171"/>
+	<Point x="1450" y="184"/>
+	<Point x="1459" y="2089"/>
+	<Point x="1409" y="2078"/>
+	<Point x="1317" y="2093"/>
+	<Point x="1298" y="2082"/>
+	<Point x="1268" y="2088"/>
+	<Point x="1244" y="2083"/>
+	<Point x="1089" y="2110"/>
+	<Point x="125" y="2111"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>guio por el exemplo que me da el grande Amadis
+de Gaula, que hizo a ſu eſcudero Conde de la inſu-
+la Firme, y aſsi puedo yo n eſcrupulo de concien-
+cia, hazer Conde a Sancho Pança, que es vno de los
+mejores eſcuderos que cauaero andãte ha tenido.
+Admirado quedò el Canonigo, de los concertados
+diſparates que don Quixote auia dicho, del modo
+con que auia pintado la auentura del cauaero del
+Lago, de la impreſsion que en el auian hecho las pẽ
+ſadas mentiras de los libros que auia leydo: y ﬁnal-
+mente le admiraua, la necedad de Sancho, que con
+tanto ahinco deeaua alcançar el Condado que ſu
+amo le auia prometido. Ya en eo boluian los cria-
+dos del Canonigo, que a la venta auian ydo por la
+azemila del repueo, y haziẽdo meſa de vna alhõ-
+bra, y de la verde yerua del prado, a la ſombra de
+vnos arboles ſe ſentaron, y comieron ai, porque
+el boyero no perdiee la comodidad de aquel -
+tio, como queda dicho. Y eando comiendo, a deſ-
+hora oyeron vn rezio eruendo, y vn ſon de eſqui-
+la, que por entre vnas çarças, y eſpeas matas que
+ai junto eauan, ſonaua, y al meſmo inante vierõ
+ſalir de entre aqueas malezas, vna hermoſa cabra,
+toda la piel mãchada de negro, blãco, y pardo. Tras
+ea venia vn cabrero dandole vozes, y diziendole
+palabras a ſu vſo, para que ſe detuuiee, o al rebaño
+boluiee. La fugitiua cabra, temeroſa, y deſpauori-
+da, ſe vino a la gente, como a fauorecerſe dea, y ai
+ſe detuuo. Llegò el cabrero, y aendola de los cuer
+nos, como  fuera capaz de diſcurſo, y entendimien
+to, le dixo: A cerrera, cerrera, manchada, mancha-
+da, y como andays vos eos dias de pie coxo, que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1243" y="2084"/>
+	<Point x="1269" y="2089"/>
+	<Point x="1297" y="2083"/>
+	<Point x="1316" y="2094"/>
+	<Point x="1392" y="2088"/>
+	<Point x="1391" y="2149"/>
+	<Point x="1229" y="2146"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>lobos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="453" y="2298"/>
+	<Point x="1120" y="2303"/>
+	<Point x="1116" y="2349"/>
+	<Point x="1026" y="2349"/>
+	<Point x="1023" y="2360"/>
+	<Point x="1015" y="2359"/>
+	<Point x="1014" y="2352"/>
+	<Point x="455" y="2349"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1283" y="91"/>
+	<Point x="1295" y="164"/>
+	<Point x="1305" y="166"/>
+	<Point x="1344" y="152"/>
+	<Point x="1378" y="168"/>
+	<Point x="1409" y="161"/>
+	<Point x="1410" y="94"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>303</Unicode></TextEquiv></TextRegion></Page></PcGts>

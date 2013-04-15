@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485195">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T07:54:04</Created>
+	<LastChange>2011-05-12T13:41:01</LastChange></Metadata>
+	<Page imageFilename="00485195.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="634" y="3028"/>
+	<Point x="1394" y="3028"/>
+	<Point x="1394" y="3088"/>
+	<Point x="634" y="3088"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="385" y="200"/>
+	<Point x="1597" y="199"/>
+	<Point x="1555" y="2772"/>
+	<Point x="1435" y="2763"/>
+	<Point x="1251" y="2763"/>
+	<Point x="1194" y="2784"/>
+	<Point x="360" y="2802"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tendido como muerto entre las peñas.
+Mas el amor, que aun deo no s'hartaua,
+y queria acabar ya ſu tragedia,
+Llegando el porer auto al porer punto.
+No le quiſo dexar en ſus deſmayos,
+Sino, que con la mano del deeo,
+Le leuanto del trie caimyento,
+A donde ca ya'aua enterrado.
+Y ai vn dia deſpues d'anochecido,
+Dixo entre, ſe que'e brauo tiempo
+Ha de tener ſus terminos por fuerça.
+Y  dezimos, que's ira del cielo,
+Tambien terna ſu punto donde pare
+No puede ſer tan grande la vengança,
+Delos dioſes, que'l mundo ora s'acabe.
+Pues  eo ha de parar tarde, o temprano,
+No es mejor eſforçarme y'ar fuerte,
+Para quando la ſeña pareciere
+Que ſer entonces muerto, o'ar tan ﬂaco
+Que no vea mi lumbre, o que la vea,
+Para no poder yr do me amare
+Con eo ſe'orço congo miſmo,
+Y empeço a leuantarſe poco a poco,
+Tomando ſu camino para Abydo.
+Y ai 'uuo dos dias trabajando,
+De darſe algun aliuio, y cobrar fuerças.
+Iua ſaliendo el ſol ya del Centauro,
+Y caentaua del Cabron los cuernos:
+Quando Leandro, ſaIiendo vna mañana,
+Al'oria del'agua a ver el tiempo:
+Vio que la mar, ſus ondas leuantaua</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="607" y="107"/>
+	<Point x="1139" y="107"/>
+	<Point x="1139" y="190"/>
+	<Point x="607" y="190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="page-number">
+	<Coords>
+	<Point x="1170" y="104"/>
+	<Point x="1574" y="104"/>
+	<Point x="1574" y="186"/>
+	<Point x="1170" y="186"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. CXIIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="signature-mark">
+	<Coords>
+	<Point x="1256" y="2772"/>
+	<Point x="1256" y="2863"/>
+	<Point x="1398" y="2863"/>
+	<Point x="1397" y="2770"/>
+	<Point x="1293" y="2771"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>R ij</Unicode></TextEquiv></TextRegion></Page></PcGts>

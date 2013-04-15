@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444427">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:38:51</Created>
+	<LastChange>2011-12-19T11:39:44</LastChange></Metadata>
+	<Page imageFilename="00444427.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="400" y="123"/>
+	<Point x="1557" y="114"/>
+	<Point x="1557" y="233"/>
+	<Point x="400" y="231"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="177" y="242"/>
+	<Point x="1781" y="257"/>
+	<Point x="1755" y="2657"/>
+	<Point x="1470" y="2664"/>
+	<Point x="1422" y="2692"/>
+	<Point x="1299" y="2656"/>
+	<Point x="1181" y="2661"/>
+	<Point x="157" y="2703"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>uan eos como amedrentados, y eſpantados
+delante de vos, que de buena gana parece
+huyeran,  vos los dexarades yr. Diome tan
+gran turbacion que no ſe como pude comul
+gar, y quede con gran temor, pareciendome
+que  fuera vion de Dios, que no permitie-
+ra ſu Magead viera yo el mal que eaua en
+aquel alma. Dixome el miſmo Señor que ro-
+gae por el, y que lo auia permitido para que
+entendiee yo la fuerça que tienen las pala-
+bras de la conſagracion: y como no dexara
+Dios de ear ai por malo que ſea el ſacer-
+dote que las dize: y para que viee ſu gran
+bondad, como ſe pone en aqueas manos de
+ſu enemigo, y todo para biẽ mio, y de todos.
+Entendi bien quan mas obligados ean los
+ſacerdotes a ſer buenos, que otros; y quan re-
+zia coſa es tomar ee ſantiſsimo Sacramen-
+to indignamente, y quan Señor es el demo-
+nio del alma que ea en peccado mortal, har
+to gran prouecho me hizo, y harto conoci-
+miento me puſo de lo que deuia a Dios, ſea
+bēdito por empre jamas. Otra vez me acae-
+cio aſsi otra coſa que me eſpanto muy mu-
+cho. Eaua en vna parte adõde ſe murio cier
+ta perſona que auia biuido harto mal, ſegun
+ſupe, y muchos años: mas auia dos que tenia</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1484" y="2674"/>
+	<Point x="1593" y="2668"/>
+	<Point x="1718" y="2664"/>
+	<Point x="1722" y="2757"/>
+	<Point x="1496" y="2766"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>enfer-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="620" y="3067"/>
+	<Point x="1572" y="3070"/>
+	<Point x="1563" y="3160"/>
+	<Point x="616" y="3150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1615" y="128"/>
+	<Point x="1615" y="240"/>
+	<Point x="1790" y="240"/>
+	<Point x="1790" y="128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>501</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1213" y="2667"/>
+	<Point x="1220" y="2768"/>
+	<Point x="1395" y="2773"/>
+	<Point x="1389" y="2697"/>
+	<Point x="1350" y="2680"/>
+	<Point x="1304" y="2668"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ii 3</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r7" type="stamp">
+	<Coords>
+	<Point x="1816" y="1372"/>
+	<Point x="1816" y="1810"/>
+	<Point x="2156" y="1810"/>
+	<Point x="2156" y="1372"/></Coords></GraphicRegion></Page></PcGts>

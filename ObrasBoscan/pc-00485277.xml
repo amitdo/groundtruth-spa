@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485277">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T08:03:28</Created>
+	<LastChange>2011-05-12T13:41:11</LastChange></Metadata>
+	<Page imageFilename="00485277.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r8" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="630" y="3030"/>
+	<Point x="1406" y="3030"/>
+	<Point x="1406" y="3091"/>
+	<Point x="630" y="3091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="350" y="196"/>
+	<Point x="1594" y="196"/>
+	<Point x="1594" y="896"/>
+	<Point x="350" y="896"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y aquel que nuero tiempo truxo vfano:
+El nuero Garcilao dela Vega:
+Ea virtud le dio con larga mano:
+El bien que ca a todo el mundo niega.
+O ſu verſo latino, y caeano:
+Que deſde el Helicon mil campos riega.
+O dichoſo amador, dichoſo amado:
+Que del Amor acrecento el eado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="310" y="995"/>
+	<Point x="1627" y="995"/>
+	<Point x="1627" y="1760"/>
+	<Point x="310" y="1760"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y al grande Catalan d' amor maero:
+Aoas March, que en ſu verſo pudo tãto:
+Que enrriquecio ſu pluma el nõbre nro:
+Con ſu fuerte y ſabroſo y dulce anto:
+Amor le Ieuanto, y le hizo diero:
+En leuantar ſu dama, con ſu canto:
+Y en eender ſu nombre de tal ſuerte:
+Que no podra vencerſe con la muerte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="307" y="1825"/>
+	<Point x="1585" y="1825"/>
+	<Point x="1591" y="2495"/>
+	<Point x="1485" y="2497"/>
+	<Point x="1208" y="2495"/>
+	<Point x="965" y="2524"/>
+	<Point x="847" y="2522"/>
+	<Point x="307" y="2506"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y aqui teneys tambien, en vuera tierra:
+Otro, que Gualbes dizen que ſe ama:
+Cuyo eſcriuir, en ſu amoroſa guerra:
+Señala el gran ardor de ſu gran ama.
+De manera que quien d' amar no yerra:
+Dara y recibira muy alta fama.
+Y andara por el mundo la ſu gloria:
+Renouando en las gentes la memoria.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="611" y="94"/>
+	<Point x="1169" y="98"/>
+	<Point x="1168" y="186"/>
+	<Point x="611" y="192"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ TERCERO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="page-number">
+	<Coords>
+	<Point x="1206" y="94"/>
+	<Point x="1640" y="94"/>
+	<Point x="1633" y="187"/>
+	<Point x="1195" y="181"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. CLIIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="signature-mark">
+	<Coords>
+	<Point x="1226" y="2502"/>
+	<Point x="1404" y="2502"/>
+	<Point x="1438" y="2550"/>
+	<Point x="1426" y="2591"/>
+	<Point x="1350" y="2623"/>
+	<Point x="1202" y="2620"/>
+	<Point x="1213" y="2518"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y iij</Unicode></TextEquiv></TextRegion></Page></PcGts>

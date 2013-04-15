@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442531">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T17:44:46</Created>
+	<LastChange>2012-03-12T14:12:07</LastChange></Metadata>
+	<Page imageFilename="00442531.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="411" y="118"/>
+	<Point x="1130" y="77"/>
+	<Point x="1130" y="187"/>
+	<Point x="510" y="224"/>
+	<Point x="489" y="227"/>
+	<Point x="477" y="225"/>
+	<Point x="443" y="218"/>
+	<Point x="385" y="206"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="149" y="211"/>
+	<Point x="344" y="220"/>
+	<Point x="379" y="225"/>
+	<Point x="395" y="223"/>
+	<Point x="499" y="237"/>
+	<Point x="515" y="232"/>
+	<Point x="634" y="222"/>
+	<Point x="658" y="229"/>
+	<Point x="727" y="221"/>
+	<Point x="851" y="218"/>
+	<Point x="869" y="224"/>
+	<Point x="880" y="212"/>
+	<Point x="1060" y="205"/>
+	<Point x="1246" y="200"/>
+	<Point x="1416" y="211"/>
+	<Point x="1416" y="2175"/>
+	<Point x="1265" y="2175"/>
+	<Point x="1189" y="2194"/>
+	<Point x="149" y="2193"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>euuiee ea rariando lino, o triando en las he-
+ras, y eos ſe corrieen de verla, y ea ſe riee y en-
+fadae del preſente. Ya te tengo dicho antes de ago
+ra muchas vezes Sancho, dixo don Quixote, que
+eres muy grande hablador, y que aunque de ingenio
+boto, muchas vezes deſpuntas de agudo. Mas para
+que veas quan necio eres tu, y quan diſcreto ſoy yo,
+quiero que me oyas vn breue cuento. Has de ſaber,
+que vna viu da hermoſa, moça, libre y rica, y ſobre to
+do deſenfadada, ſe enamoro de vn moço motilon, ro
+izo y de buen tomo, alcançolo a ſaber ſu muger, y
+vn dia dixo a la buena viuda, por via de fraternal re‑
+prehenon: Marauiado eoy ſeñora, y no n mu‑
+cha cauſa, de que vna muger tan principal, tan her‑
+moſa, y tan rica, como vuera merced, ſe aya ena‑
+morado, de vn hombre tan ſoez, tan baxo, y tan idio‑
+ta, como fulano, auiendo en ea caſa tantos maeſ-
+tros, tantos preſentados, y tantos teologos, en quien
+vuera merced pudiera eſcoger, como entre peras,
+y dezir, ee quiero, aquee no quiero? Mas ea le
+reſpondio con mucho donayre, y deſemboltura:
+Vuera merced ſeñor mio, eà muy engañado, y
+pienſa muy a lo antiguo,  pienſa que yo he eſcogi‑
+do mal en fulano, por idiota que le parece, pues para
+lo que yo le quiero, tanta ﬁloſoﬁa ſabe, y mas que
+Arioteles. Aſsi que Sancho, por lo que yo quiero a
+Dulzinea del Toboſo, tanto vale, como la mas alta
+Princeſa de la tierra, Si que no todos los Poetas, que
+auran damas, debaxo de vn nombre, que eos a ſu
+aluedrio les ponen, es verdad que las tienen. Pienſas
+tu que las Amariles, las Filis, las Siluias, las Dianas,
+las Galateas, las Alidas, y otras tales, de que los li-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="468" y="2301"/>
+	<Point x="1119" y="2295"/>
+	<Point x="1126" y="2362"/>
+	<Point x="466" y="2356"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1279" y="91"/>
+	<Point x="1279" y="180"/>
+	<Point x="1415" y="180"/>
+	<Point x="1415" y="91"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>128</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1257" y="2181"/>
+	<Point x="1257" y="2264"/>
+	<Point x="1423" y="2264"/>
+	<Point x="1423" y="2181"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bros,</Unicode></TextEquiv></TextRegion></Page></PcGts>

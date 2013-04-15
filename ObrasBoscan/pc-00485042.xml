@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485042">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T18:36:36</Created>
+	<LastChange>2011-05-12T13:40:47</LastChange></Metadata>
+	<Page imageFilename="00485042.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="433" y="206"/>
+	<Point x="1103" y="200"/>
+	<Point x="1679" y="213"/>
+	<Point x="1679" y="1315"/>
+	<Point x="443" y="1327"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Temila tanto, que impoible fuera,
+Que no viniera coſa tan temida.
+Nũca es n cauſa vn miedo, quãdo dura.
+Vuo de ſer cuytado ea partida:
+Y entrieciome trie de manera,
+Que al amor a vencido la triura.
+Ya toda mi blandura
+Se' ndurecio con duros penſamientos.
+Dañaron mis tormentos
+Aquel lugar, do amor mas enterneçe.
+Ya todo el mal parece.
+Ya en lagrimas amargas de dolor
+S' an mudado las lagrimas d' amor.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="415" y="1445"/>
+	<Point x="1644" y="1440"/>
+	<Point x="1642" y="2531"/>
+	<Point x="1533" y="2531"/>
+	<Point x="1505" y="2519"/>
+	<Point x="1408" y="2519"/>
+	<Point x="1380" y="2533"/>
+	<Point x="1173" y="2533"/>
+	<Point x="801" y="2544"/>
+	<Point x="426" y="2531"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Todo amaua, y agora todo peno.
+Recogioſe' l a mor, do no parece.
+No le ento, y ſe bien, que' a preſente.
+Elmengua al pareçer, ſu Iauor crece.
+No ﬁguro ſu roro tan de eno:
+Mas hao en mi mas fuerte ſu acidente.
+Todo'a tan doliente,
+Que no ſe trie de qual lado echarme,
+Ni puedo Ieuantarme.
+Abre de morir mal aun que me peſe,
+O que' l alma s'aueze
+A ſoener al cabo de ſus años
+Nueuo mal, nueuo amor y nueuos daños.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="631" y="3027"/>
+	<Point x="1379" y="3027"/>
+	<Point x="1396" y="3059"/>
+	<Point x="1379" y="3090"/>
+	<Point x="631" y="3090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1200" y="94"/>
+	<Point x="1200" y="194"/>
+	<Point x="1693" y="194"/>
+	<Point x="1693" y="94"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. XXXVII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="1402" y="2526"/>
+	<Point x="1402" y="2612"/>
+	<Point x="1486" y="2612"/>
+	<Point x="1486" y="2526"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>G</Unicode></TextEquiv></TextRegion></Page></PcGts>

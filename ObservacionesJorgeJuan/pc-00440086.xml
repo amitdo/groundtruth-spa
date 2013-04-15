@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440086">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T12:06:32</Created>
+	<LastChange>2011-12-19T11:38:40</LastChange></Metadata>
+	<Page imageFilename="00440086.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r4" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r15" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="header">
+	<Coords>
+	<Point x="857" y="266"/>
+	<Point x="1819" y="273"/>
+	<Point x="1819" y="360"/>
+	<Point x="866" y="355"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="396" y="371"/>
+	<Point x="2289" y="373"/>
+	<Point x="2287" y="603"/>
+	<Point x="983" y="589"/>
+	<Point x="982" y="646"/>
+	<Point x="812" y="646"/>
+	<Point x="767" y="669"/>
+	<Point x="707" y="669"/>
+	<Point x="692" y="658"/>
+	<Point x="376" y="658"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>deſear: y tomando un medio arithmético entre todas, ſe
+tendrà el medio dia en el Pendulo à las 11 horas 58 minu‐
+tos 22¼ ſegundos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="369" y="667"/>
+	<Point x="649" y="666"/>
+	<Point x="698" y="682"/>
+	<Point x="796" y="681"/>
+	<Point x="835" y="658"/>
+	<Point x="1005" y="658"/>
+	<Point x="1023" y="616"/>
+	<Point x="2301" y="628"/>
+	<Point x="2261" y="1963"/>
+	<Point x="349" y="1974"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dixe antecedentemente, que el tiempo, que el Sol
+gaaba en egar al Meridiano, deſde que ſale de una al‐
+tura por la mañana, es igual al tiempo, que emplea, deſ‐
+de que ſale del Meridiano, haa que obtiene la miſma al‐
+tura por la tarde, ſalvo una corta correccion, que es ne-
+ceario hacer. Ea proviene del movimiento en Declina‐
+cion, que el Sol tiene, deſde el tiempo, en que ſe hacen
+las obſervaciones de la mañana, à aquel en que ſe hacen
+las de la tarde. Su explicacion, y particularidades ſon algo
+dilatadas; por cuyo motivo juzgo, que por no detenernos
+en el calculo de las obſervaciones de las Immerones, po‐
+demos ſuponerla al preſente, y explicarla deſpues en Ca‐
+pitulo ſeparado: y aſsi corregirémos de ea ſuerte el me‐
+dio dia haado antecedentemente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="catch-word">
+	<Coords>
+	<Point x="2100" y="3280"/>
+	<Point x="2294" y="3280"/>
+	<Point x="2294" y="3408"/>
+	<Point x="2100" y="3408"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>miſ-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="credit">
+	<Coords>
+	<Point x="1004" y="3997"/>
+	<Point x="1956" y="3997"/>
+	<Point x="1956" y="4091"/>
+	<Point x="1004" y="4091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="page-number">
+	<Coords>
+	<Point x="2133" y="278"/>
+	<Point x="2133" y="369"/>
+	<Point x="2239" y="369"/>
+	<Point x="2239" y="278"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>69</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r6">
+	<Coords>
+	<Point x="385" y="1990"/>
+	<Point x="2271" y="1990"/>
+	<Point x="2271" y="2352"/>
+	<Point x="2143" y="2363"/>
+	<Point x="2142" y="2349"/>
+	<Point x="2030" y="2346"/>
+	<Point x="2014" y="2356"/>
+	<Point x="1964" y="2357"/>
+	<Point x="1945" y="2340"/>
+	<Point x="1220" y="2322"/>
+	<Point x="1183" y="2352"/>
+	<Point x="385" y="2352"/></Coords></TableRegion>
+	<TableRegion id="r13">
+	<Coords>
+	<Point x="341" y="2362"/>
+	<Point x="1237" y="2362"/>
+	<Point x="1293" y="2348"/>
+	<Point x="1923" y="2357"/>
+	<Point x="1945" y="2369"/>
+	<Point x="2051" y="2367"/>
+	<Point x="2075" y="2356"/>
+	<Point x="2120" y="2357"/>
+	<Point x="2138" y="2379"/>
+	<Point x="2285" y="2362"/>
+	<Point x="2284" y="3222"/>
+	<Point x="1725" y="3251"/>
+	<Point x="1622" y="3331"/>
+	<Point x="344" y="3343"/></Coords></TableRegion></Page></PcGts>

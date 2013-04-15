@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00445653">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T16:44:15</Created>
+	<LastChange>2011-10-12T11:02:44</LastChange></Metadata>
+	<Page imageFilename="00445653.tif" imageWidth="2783" imageHeight="4005">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r17" index="0"/>
+	<RegionRefIndexed regionRef="r21" index="1"/>
+	<RegionRefIndexed regionRef="r25" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="r28" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r30" index="6"/>
+	<RegionRefIndexed regionRef="r34" index="7"/>
+	<RegionRefIndexed regionRef="r38" index="8"/>
+	<RegionRefIndexed regionRef="r40" index="9"/>
+	<RegionRefIndexed regionRef="r62" index="10"/>
+	<RegionRefIndexed regionRef="r64" index="11"/>
+	<RegionRefIndexed regionRef="r60" index="12"/>
+	<RegionRefIndexed regionRef="r56" index="13"/>
+	<RegionRefIndexed regionRef="r52" index="14"/>
+	<RegionRefIndexed regionRef="r48" index="15"/>
+	<RegionRefIndexed regionRef="r44" index="16"/>
+	<RegionRefIndexed regionRef="r9" index="17"/>
+	<RegionRefIndexed regionRef="r10" index="18"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="2018" y="202"/>
+	<Point x="2201" y="197"/>
+	<Point x="2210" y="257"/>
+	<Point x="2018" y="261"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHR</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="1707" y="3541"/>
+	<Point x="1956" y="3538"/>
+	<Point x="2013" y="3537"/>
+	<Point x="2056" y="3531"/>
+	<Point x="2447" y="3524"/>
+	<Point x="2687" y="3520"/>
+	<Point x="2703" y="3676"/>
+	<Point x="2303" y="3678"/>
+	<Point x="2296" y="3691"/>
+	<Point x="2247" y="3691"/>
+	<Point x="2229" y="3676"/>
+	<Point x="1754" y="3695"/>
+	<Point x="1756" y="3586"/>
+	<Point x="1707" y="3589"/>
+	<Point x="1705" y="3569"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHUBARBA. ſ. f. Planta que en Eſpaña nace, y
+crece ſolamente en el monte Calpe de Gi-
+braltár. Es un arbolíto que ſe levanta de la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="catch-word">
+	<Coords>
+	<Point x="2666" y="3692"/>
+	<Point x="2695" y="3700"/>
+	<Point x="2687" y="3719"/>
+	<Point x="2668" y="3732"/>
+	<Point x="2600" y="3731"/>
+	<Point x="2582" y="3700"/>
+	<Point x="2613" y="3681"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tier-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="credit">
+	<Coords>
+	<Point x="1008" y="3905"/>
+	<Point x="1928" y="3905"/>
+	<Point x="1933" y="3972"/>
+	<Point x="1010" y="3967"/>
+	<Point x="1001" y="3936"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="1202" y="218"/>
+	<Point x="1211" y="283"/>
+	<Point x="1014" y="285"/>
+	<Point x="1017" y="220"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHR</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="746" y="292"/>
+	<Point x="746" y="293"/>
+	<Point x="709" y="293"/>
+	<Point x="707" y="296"/>
+	<Point x="707" y="297"/>
+	<Point x="701" y="308"/>
+	<Point x="624" y="310"/>
+	<Point x="628" y="233"/>
+	<Point x="770" y="226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>336</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="630" y="313"/>
+	<Point x="669" y="311"/>
+	<Point x="689" y="314"/>
+	<Point x="746" y="313"/>
+	<Point x="763" y="308"/>
+	<Point x="876" y="311"/>
+	<Point x="915" y="310"/>
+	<Point x="932" y="301"/>
+	<Point x="1291" y="286"/>
+	<Point x="1561" y="283"/>
+	<Point x="1559" y="442"/>
+	<Point x="1319" y="456"/>
+	<Point x="1310" y="497"/>
+	<Point x="1140" y="499"/>
+	<Point x="1122" y="505"/>
+	<Point x="1103" y="515"/>
+	<Point x="1062" y="503"/>
+	<Point x="992" y="503"/>
+	<Point x="974" y="501"/>
+	<Point x="631" y="520"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>réce claro por las Hiórias de Alonſo de Pa-
+lencia, y de Diego Henriquez del Caio,
+Chronias del Rey Don Henrique IV. VI-
+LLAVIC. Moſch. Cant. 7. O. 21.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="687" y="522"/>
+	<Point x="967" y="510"/>
+	<Point x="1038" y="508"/>
+	<Point x="1051" y="515"/>
+	<Point x="1083" y="520"/>
+	<Point x="1119" y="520"/>
+	<Point x="1153" y="508"/>
+	<Point x="1307" y="506"/>
+	<Point x="1321" y="522"/>
+	<Point x="1409" y="524"/>
+	<Point x="1404" y="686"/>
+	<Point x="1338" y="703"/>
+	<Point x="1278" y="701"/>
+	<Point x="1230" y="703"/>
+	<Point x="1122" y="707"/>
+	<Point x="1097" y="715"/>
+	<Point x="1086" y="721"/>
+	<Point x="1075" y="724"/>
+	<Point x="1053" y="714"/>
+	<Point x="828" y="712"/>
+	<Point x="788" y="720"/>
+	<Point x="770" y="725"/>
+	<Point x="750" y="723"/>
+	<Point x="688" y="715"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hazme la cauſa del rencór notória,
+Pues ſus tries ſuceos me recuerdas;
+Y permite que ponga en ea lia
+Lo que olvidó el antiguo Coronia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="594" y="726"/>
+	<Point x="732" y="726"/>
+	<Point x="745" y="728"/>
+	<Point x="754" y="726"/>
+	<Point x="783" y="727"/>
+	<Point x="810" y="724"/>
+	<Point x="1053" y="718"/>
+	<Point x="1063" y="729"/>
+	<Point x="1090" y="728"/>
+	<Point x="1107" y="717"/>
+	<Point x="1256" y="708"/>
+	<Point x="1574" y="702"/>
+	<Point x="1583" y="1218"/>
+	<Point x="1372" y="1226"/>
+	<Point x="1266" y="1228"/>
+	<Point x="1258" y="1273"/>
+	<Point x="1070" y="1276"/>
+	<Point x="1024" y="1285"/>
+	<Point x="1004" y="1285"/>
+	<Point x="976" y="1282"/>
+	<Point x="943" y="1282"/>
+	<Point x="915" y="1291"/>
+	<Point x="897" y="1292"/>
+	<Point x="882" y="1283"/>
+	<Point x="870" y="1274"/>
+	<Point x="866" y="1291"/>
+	<Point x="852" y="1294"/>
+	<Point x="832" y="1294"/>
+	<Point x="780" y="1287"/>
+	<Point x="741" y="1288"/>
+	<Point x="684" y="1288"/>
+	<Point x="650" y="1286"/>
+	<Point x="634" y="888"/>
+	<Point x="639" y="784"/>
+	<Point x="589" y="782"/>
+	<Point x="591" y="759"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHRONOGRAPHIA. ſ. f. Deſcripcion ò Eſ-
+critúra de los tiempos. Es voz Griega. Lat.
+Chronographía. PATON, Eloqüenc. fol. 131. Chro-
+nographia es deſcripcion de tiempo, quales
+ſon las períphraſes que los Poétas hacen, aſsi
+de los del año, como de la menór, como ſon
+dias, y noches, y ſus partes. MOND. Diert.
+4. cap. 4. La forma común de contar los años
+de Chrio en los reſcriptos de los Pontíﬁces,
+y Reyes, aſsi en los aos públicos, como en
+las chronographías, ò hiórias.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="600" y="1291"/>
+	<Point x="755" y="1297"/>
+	<Point x="853" y="1295"/>
+	<Point x="874" y="1293"/>
+	<Point x="888" y="1294"/>
+	<Point x="905" y="1294"/>
+	<Point x="972" y="1289"/>
+	<Point x="1011" y="1289"/>
+	<Point x="1104" y="1283"/>
+	<Point x="1215" y="1284"/>
+	<Point x="1279" y="1279"/>
+	<Point x="1587" y="1272"/>
+	<Point x="1594" y="1581"/>
+	<Point x="1385" y="1586"/>
+	<Point x="1199" y="1586"/>
+	<Point x="1056" y="1593"/>
+	<Point x="1025" y="1590"/>
+	<Point x="931" y="1600"/>
+	<Point x="826" y="1598"/>
+	<Point x="816" y="1645"/>
+	<Point x="665" y="1648"/>
+	<Point x="646" y="1345"/>
+	<Point x="600" y="1342"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHRONOGRAPHO. ſ. m. El hombre doo
+en la Chronographía. Lat. Chronographus, i.
+MOND. Exam. §. 16. Los Chronógraphos céle-
+bres, que ſe han dedicado à examinar con di-
+ligencia los cómputos mas ilures de todas
+las Naciónes, convienen en acreditar el ſentir
+miſmo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="613" y="1656"/>
+	<Point x="953" y="1647"/>
+	<Point x="1339" y="1637"/>
+	<Point x="1595" y="1635"/>
+	<Point x="1606" y="2141"/>
+	<Point x="1602" y="2230"/>
+	<Point x="1603" y="2254"/>
+	<Point x="1229" y="2261"/>
+	<Point x="895" y="2267"/>
+	<Point x="892" y="2315"/>
+	<Point x="678" y="2322"/>
+	<Point x="655" y="2079"/>
+	<Point x="656" y="1703"/>
+	<Point x="609" y="1705"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHRONOLOGIA. ſ. f. Narración ò hioria
+de los tiempos, y de los ſuceos acaecidos
+en eos, ſeñalando el tiempo en que acaecie-
+ron. Es voz Griega. Lat. Chronologia. Ratio, vel
+ſcientia temporum. COLMEN. Eſcrit. Segob. pl.
+703. Si bien los infortunios, que ſobre eo pa-
+deció, y referimos en nuera hiória, diſcul-
+pan el deſconcierto de ſu chronología. MOND.
+Diert. 1. cap. 4. Fué tan notoria ea chronología
+en los antiguos, que no ſolo ſe veriﬁca con
+los Eſcritóres Arabes, y nueros mas autenti-
+cos; no ſe ofrece tambien acreditada en los
+Francéſes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="627" y="2481"/>
+	<Point x="796" y="2485"/>
+	<Point x="817" y="2481"/>
+	<Point x="932" y="2478"/>
+	<Point x="1099" y="2471"/>
+	<Point x="1266" y="2467"/>
+	<Point x="1420" y="2471"/>
+	<Point x="1469" y="2464"/>
+	<Point x="1591" y="2464"/>
+	<Point x="1619" y="2468"/>
+	<Point x="1621" y="2917"/>
+	<Point x="1584" y="2920"/>
+	<Point x="1529" y="2917"/>
+	<Point x="1520" y="2933"/>
+	<Point x="1500" y="2929"/>
+	<Point x="1483" y="2919"/>
+	<Point x="1327" y="2922"/>
+	<Point x="1314" y="2934"/>
+	<Point x="1244" y="2934"/>
+	<Point x="1224" y="2923"/>
+	<Point x="1006" y="2929"/>
+	<Point x="996" y="2940"/>
+	<Point x="976" y="2941"/>
+	<Point x="951" y="2932"/>
+	<Point x="805" y="2935"/>
+	<Point x="799" y="2948"/>
+	<Point x="775" y="2947"/>
+	<Point x="760" y="2938"/>
+	<Point x="725" y="2938"/>
+	<Point x="715" y="2948"/>
+	<Point x="711" y="2951"/>
+	<Point x="710" y="2951"/>
+	<Point x="691" y="2952"/>
+	<Point x="678" y="2948"/>
+	<Point x="680" y="2939"/>
+	<Point x="674" y="2536"/>
+	<Point x="615" y="2536"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHRONOLOGlCO, CA. adj. Lo que ſe ordé-
+na diinguiendo los tiempos, y poniendo en
+eos los ſuceos que les correſponden: como
+Epítome Chronológico, Narración chrono-
+lógica. Lat. Chronologicus, a, um. MOND. Exam.
+§. 12. Entre los Griegos fué igualmente noto-
+rio el origen de ee cómputo, ſegun ſe reco-
+noce de aquel fragmento Griego que publicó
+Joſepho Scalígero en ſu Iſagoge chronológico.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords>
+	<Point x="643" y="2949"/>
+	<Point x="653" y="2948"/>
+	<Point x="689" y="2953"/>
+	<Point x="722" y="2953"/>
+	<Point x="734" y="2950"/>
+	<Point x="792" y="2950"/>
+	<Point x="960" y="2942"/>
+	<Point x="995" y="2942"/>
+	<Point x="1018" y="2937"/>
+	<Point x="1207" y="2932"/>
+	<Point x="1220" y="2938"/>
+	<Point x="1308" y="2939"/>
+	<Point x="1322" y="2931"/>
+	<Point x="1336" y="2927"/>
+	<Point x="1486" y="2926"/>
+	<Point x="1492" y="2935"/>
+	<Point x="1514" y="2936"/>
+	<Point x="1623" y="2936"/>
+	<Point x="1627" y="3182"/>
+	<Point x="1591" y="3176"/>
+	<Point x="1584" y="3242"/>
+	<Point x="1323" y="3231"/>
+	<Point x="1208" y="3234"/>
+	<Point x="1105" y="3239"/>
+	<Point x="1029" y="3241"/>
+	<Point x="881" y="3244"/>
+	<Point x="818" y="3248"/>
+	<Point x="799" y="3262"/>
+	<Point x="761" y="3262"/>
+	<Point x="759" y="3250"/>
+	<Point x="698" y="3262"/>
+	<Point x="694" y="2994"/>
+	<Point x="642" y="2997"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHRONOLOGO. ſ. m. El que ſabe la chrono-
+logía. Lat. Chronologus, i. MOND. Exam. §. 6.
+Siendo tan diverſas las opiniones de los Chro-
+nólogos modernos, que deﬁenden eá diminu-
+ta deſde uno, haa ſeis años la computacion
+vulgár de la Natividad. GONG. Rom. burl. 3.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords>
+	<Point x="808" y="3261"/>
+	<Point x="1067" y="3256"/>
+	<Point x="1078" y="3248"/>
+	<Point x="1252" y="3248"/>
+	<Point x="1271" y="3238"/>
+	<Point x="1289" y="3248"/>
+	<Point x="1380" y="3248"/>
+	<Point x="1368" y="3399"/>
+	<Point x="1271" y="3441"/>
+	<Point x="1236" y="3448"/>
+	<Point x="1207" y="3447"/>
+	<Point x="1200" y="3443"/>
+	<Point x="1172" y="3459"/>
+	<Point x="1163" y="3441"/>
+	<Point x="1062" y="3444"/>
+	<Point x="898" y="3457"/>
+	<Point x="874" y="3459"/>
+	<Point x="848" y="3457"/>
+	<Point x="794" y="3449"/>
+	<Point x="805" y="3277"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aunque es tradicion conante,
+ los tiempos no confundo,
+de chronólogos, me atengo
+al que calzare mas juo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords>
+	<Point x="650" y="3462"/>
+	<Point x="765" y="3460"/>
+	<Point x="860" y="3461"/>
+	<Point x="912" y="3458"/>
+	<Point x="924" y="3460"/>
+	<Point x="935" y="3456"/>
+	<Point x="1158" y="3453"/>
+	<Point x="1169" y="3465"/>
+	<Point x="1187" y="3453"/>
+	<Point x="1275" y="3448"/>
+	<Point x="1299" y="3445"/>
+	<Point x="1378" y="3437"/>
+	<Point x="1638" y="3450"/>
+	<Point x="1641" y="3712"/>
+	<Point x="712" y="3730"/>
+	<Point x="704" y="3510"/>
+	<Point x="654" y="3516"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHRYSANTEMO. ſ. f. Hierba tierna, y ra-
+móſa, que produce los taos liſos, y las hojas
+variamente hendidas: las ﬂores amarias, mui
+reſplandecientes y redondas en forma de un
+ojo. Crece al rededor de las Ciudádes Co-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords>
+	<Point x="1702" y="3177"/>
+	<Point x="1831" y="3180"/>
+	<Point x="1845" y="3181"/>
+	<Point x="1860" y="3179"/>
+	<Point x="1878" y="3178"/>
+	<Point x="1998" y="3177"/>
+	<Point x="2060" y="3178"/>
+	<Point x="2095" y="3177"/>
+	<Point x="2111" y="3173"/>
+	<Point x="2680" y="3157"/>
+	<Point x="2689" y="3486"/>
+	<Point x="2032" y="3483"/>
+	<Point x="2015" y="3511"/>
+	<Point x="1993" y="3531"/>
+	<Point x="1755" y="3531"/>
+	<Point x="1742" y="3223"/>
+	<Point x="1706" y="3227"/>
+	<Point x="1699" y="3206"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHRYSOMELA. ſ. m. Membrio pequeño
+amario, redondo, y mui oloroſo. Es voz
+Griega. Lat. Chryſomela. LAG. Dioſc. lib. 1.
+cap. 131. Háanſe de membrios comunmen-
+te tres diferencias, la una es de aqueos que
+Dioſcórides ſuele amar legítimos, y chryſo-
+méla Plinio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords>
+	<Point x="1685" y="2401"/>
+	<Point x="2052" y="2401"/>
+	<Point x="2091" y="2396"/>
+	<Point x="2252" y="2395"/>
+	<Point x="2671" y="2390"/>
+	<Point x="2682" y="3115"/>
+	<Point x="2414" y="3114"/>
+	<Point x="2214" y="3116"/>
+	<Point x="2194" y="3164"/>
+	<Point x="2067" y="3169"/>
+	<Point x="2053" y="3176"/>
+	<Point x="1880" y="3168"/>
+	<Point x="1854" y="3179"/>
+	<Point x="1844" y="3179"/>
+	<Point x="1751" y="3174"/>
+	<Point x="1730" y="2450"/>
+	<Point x="1687" y="2455"/>
+	<Point x="1683" y="2414"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHRYSOLITHO. ſ. m. Piedra precioſa mui
+parecida al oro en el colór, aunque deſcaeci-
+do. Tiene en ſu campo unas centeítas, ò
+manchítas de oro incorporadas en la miſma
+piedra, que azuléan. Conforta el entendimien-
+to, aclara la via, y quita los temóres de co-
+ſas funeas. Es voz Griega. Lat. Chryſolithus.
+ARGENS. Maluc. lib. 6. fol. 214. Abunda de
+Amaties, Garamanticos, Jacinthos, Eſpinélos,
+Chryſólythos, y ojos de gato, piedras todas
+precioſas. M. AGRED. Tom. 1. num. 282. El
+priméro fundamento era jaſpe, el ſegundo
+zaphíro, el tercero chalcedonio, el quarto
+eſmeralda, el quinto ſardonio, el ſexto ſardio,
+el ſeptimo chryſólitho.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="paragraph">
+	<Coords>
+	<Point x="1679" y="2346"/>
+	<Point x="2007" y="2352"/>
+	<Point x="2123" y="2339"/>
+	<Point x="2230" y="2345"/>
+	<Point x="2235" y="2385"/>
+	<Point x="2203" y="2389"/>
+	<Point x="1684" y="2396"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHRYSOL. Veaſe Criſól.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r56" type="paragraph">
+	<Coords>
+	<Point x="1668" y="1889"/>
+	<Point x="2082" y="1885"/>
+	<Point x="2102" y="1887"/>
+	<Point x="2114" y="1885"/>
+	<Point x="2397" y="1877"/>
+	<Point x="2427" y="1876"/>
+	<Point x="2442" y="1880"/>
+	<Point x="2646" y="1880"/>
+	<Point x="2656" y="2286"/>
+	<Point x="2225" y="2304"/>
+	<Point x="2067" y="2301"/>
+	<Point x="2055" y="2341"/>
+	<Point x="1864" y="2345"/>
+	<Point x="1729" y="2343"/>
+	<Point x="1728" y="2269"/>
+	<Point x="1718" y="2251"/>
+	<Point x="1727" y="2222"/>
+	<Point x="1721" y="1935"/>
+	<Point x="1673" y="1935"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHRYSOGONO. ſ. f. Hierba ramoſa, que pro-
+duce las hojas ſemejantes à las del roble. Sus
+ﬂores ſon como las del Gordolobo, y rven
+para hacer guirnaldas. Su raíz ſe paréce al na-
+bo redondo, y es por de dentro mui roxa, y
+por de fuera negra. Es voz Griega. Lat. Chry-
+ſogonus. LAG. Dioſc. lib. 4. cap. 57. Llámaſe
+Chryſógono aquea planta, porque tiene la -
+miente dorada.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r60" type="paragraph">
+	<Coords>
+	<Point x="1657" y="1423"/>
+	<Point x="1988" y="1421"/>
+	<Point x="2161" y="1419"/>
+	<Point x="2638" y="1407"/>
+	<Point x="2648" y="1823"/>
+	<Point x="2476" y="1815"/>
+	<Point x="2469" y="1868"/>
+	<Point x="2352" y="1869"/>
+	<Point x="2234" y="1873"/>
+	<Point x="2117" y="1875"/>
+	<Point x="2101" y="1885"/>
+	<Point x="2089" y="1884"/>
+	<Point x="2078" y="1875"/>
+	<Point x="2043" y="1875"/>
+	<Point x="1719" y="1880"/>
+	<Point x="1703" y="1469"/>
+	<Point x="1660" y="1469"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHRYSOCOMA. ſ. f. Hierba que nace en lu-
+gáres ſombríos y pedregóſos, de altúra de un
+palmo. Produce una copa en forma de raci-
+mios, como la del hyopo. La raíz es ſutíl
+y beoſa ſemejante à la del eléboro negro. Es
+voz Griega. Lat. Chryſocoma. LAG. Dioſc. lib. 4.
+cap. 56. La chryſócoma nace n fruto, y n ho-
+jas, y produce encima del tao unas ﬂoreci-
+as amontonadas y de colór de oro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r62" type="paragraph">
+	<Coords>
+	<Point x="1672" y="274"/>
+	<Point x="1822" y="280"/>
+	<Point x="2611" y="264"/>
+	<Point x="2620" y="577"/>
+	<Point x="2305" y="583"/>
+	<Point x="2296" y="635"/>
+	<Point x="2016" y="638"/>
+	<Point x="2001" y="653"/>
+	<Point x="1982" y="641"/>
+	<Point x="1836" y="639"/>
+	<Point x="1818" y="648"/>
+	<Point x="1787" y="649"/>
+	<Point x="1776" y="640"/>
+	<Point x="1687" y="641"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>menſe ſus taos, como la demás hortaliza. Es
+voz Griega. Lat. Chryſantemon. LAG. Dioſc.
+lib. 4. cap. 59. Perſuadenſe algunos, que ee
+capitulo no puede ſer de Dioſcórides, tenien-
+do por cierto, que el Chryſántemo aqui deſcrip-
+to, y el Buphtalmo, tratado en el libro ter-
+cero, ſean una planta meſma.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r64" type="paragraph">
+	<Coords>
+	<Point x="1641" y="647"/>
+	<Point x="1791" y="651"/>
+	<Point x="1984" y="645"/>
+	<Point x="2005" y="660"/>
+	<Point x="2024" y="646"/>
+	<Point x="2335" y="639"/>
+	<Point x="2375" y="633"/>
+	<Point x="2635" y="627"/>
+	<Point x="2638" y="1354"/>
+	<Point x="2565" y="1361"/>
+	<Point x="2531" y="1367"/>
+	<Point x="2185" y="1372"/>
+	<Point x="2163" y="1411"/>
+	<Point x="1704" y="1413"/>
+	<Point x="1688" y="695"/>
+	<Point x="1643" y="696"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHRYSOCOLA. ſ. f. Liquór que deíla por la
+vena del oro, y ſe congela en piedra con el
+frio del Invierno. Háaſe aſsimiſmo, y aun
+mas perfea en las minéras de cobre, y en las
+de la plata y del plomo, aunque no tan loable.
+Suelen tambien hacerla con artiﬁcio, regan-
+do blandamente las venas de los metáles con
+agua todo el Invierno, haa el mes de Junio,
+la qual deſpues recocida y ſeca con el calór
+eivo viene à hacerſe chryſocóla. Es voz Grie-
+ga. Lat. Chryſocoa. LAG. Dioſc. lib. 5. cap. 63.
+Tiene la chryſocóla facultad de mundiﬁcar las
+agas, de abaxar la carne crecída en eas, de
+repurgar, de comprimir, de calentar, y de
+corroer blandamente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="625" y="2329"/>
+	<Point x="880" y="2324"/>
+	<Point x="1114" y="2316"/>
+	<Point x="1602" y="2305"/>
+	<Point x="1612" y="2339"/>
+	<Point x="1606" y="2455"/>
+	<Point x="1486" y="2454"/>
+	<Point x="1452" y="2463"/>
+	<Point x="1425" y="2467"/>
+	<Point x="1361" y="2459"/>
+	<Point x="1109" y="2462"/>
+	<Point x="951" y="2468"/>
+	<Point x="825" y="2473"/>
+	<Point x="684" y="2476"/>
+	<Point x="674" y="2377"/>
+	<Point x="626" y="2375"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CHRONOLOGlCAMENTE. adv. Con diin-
+cion de los tiempos, guardando el orden de
+los ſuceos. Lat. Secundum rationes temporum.</Unicode></TextEquiv></TextRegion></Page></PcGts>

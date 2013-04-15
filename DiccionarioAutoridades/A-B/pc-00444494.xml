@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444494">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:49:57</Created>
+	<LastChange>2011-03-08T10:02:16</LastChange></Metadata>
+	<Page imageFilename="00444494.tif" imageWidth="2613" imageHeight="3944">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/>
+	<RegionRefIndexed regionRef="r9" index="2"/>
+	<RegionRefIndexed regionRef="r10" index="3"/>
+	<RegionRefIndexed regionRef="r11" index="4"/>
+	<RegionRefIndexed regionRef="r12" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="2105" y="3626"/>
+	<Point x="2140" y="3622"/>
+	<Point x="2143" y="3623"/>
+	<Point x="2154" y="3622"/>
+	<Point x="2167" y="3620"/>
+	<Point x="2175" y="3620"/>
+	<Point x="2190" y="3619"/>
+	<Point x="2201" y="3621"/>
+	<Point x="2219" y="3621"/>
+	<Point x="2223" y="3630"/>
+	<Point x="2240" y="3636"/>
+	<Point x="2236" y="3662"/>
+	<Point x="2219" y="3667"/>
+	<Point x="2211" y="3667"/>
+	<Point x="2156" y="3678"/>
+	<Point x="2097" y="3671"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aten-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="813" y="3836"/>
+	<Point x="813" y="3927"/>
+	<Point x="1777" y="3927"/>
+	<Point x="1777" y="3836"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="267" y="273"/>
+	<Point x="262" y="898"/>
+	<Point x="258" y="901"/>
+	<Point x="434" y="911"/>
+	<Point x="457" y="924"/>
+	<Point x="468" y="924"/>
+	<Point x="484" y="910"/>
+	<Point x="618" y="917"/>
+	<Point x="636" y="920"/>
+	<Point x="653" y="923"/>
+	<Point x="668" y="911"/>
+	<Point x="845" y="911"/>
+	<Point x="864" y="924"/>
+	<Point x="878" y="921"/>
+	<Point x="890" y="904"/>
+	<Point x="1015" y="918"/>
+	<Point x="1054" y="924"/>
+	<Point x="1067" y="905"/>
+	<Point x="1212" y="908"/>
+	<Point x="1230" y="915"/>
+	<Point x="1262" y="921"/>
+	<Point x="1270" y="908"/>
+	<Point x="1488" y="910"/>
+	<Point x="1535" y="925"/>
+	<Point x="1582" y="907"/>
+	<Point x="2260" y="908"/>
+	<Point x="2260" y="283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mado el medio de que à las dicciones, que en los artículos de ſu explicación
+ván repetidas en las autoridades ù por otro motívo, ſe les ponen ai los
+accentos que les correſponden, y en las que no hai ea òportunidád ſe re-
+píten de letra pequeña entre parénthes, immediatamente à las verſáles, y
+ſe les ponen los accentos que neceſsítan: y aun ea circunáncia ſe ſuele
+tambien excuſar en aqueas cuya pronunciación es conocida de todos,
+como los inﬁnitivos de los verbos, que no ſe puede ignorar ſer larga la úl-
+tima ſylaba, y en los particípios en que lo es la penúltima.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="274" y="933"/>
+	<Point x="265" y="2083"/>
+	<Point x="412" y="2088"/>
+	<Point x="892" y="2093"/>
+	<Point x="913" y="2106"/>
+	<Point x="930" y="2109"/>
+	<Point x="942" y="2092"/>
+	<Point x="1253" y="2091"/>
+	<Point x="1276" y="2104"/>
+	<Point x="1297" y="2106"/>
+	<Point x="1314" y="2092"/>
+	<Point x="2273" y="2086"/>
+	<Point x="2271" y="916"/>
+	<Point x="2122" y="915"/>
+	<Point x="1809" y="918"/>
+	<Point x="1627" y="921"/>
+	<Point x="1561" y="923"/>
+	<Point x="1510" y="933"/>
+	<Point x="1498" y="923"/>
+	<Point x="1290" y="926"/>
+	<Point x="1279" y="939"/>
+	<Point x="1266" y="928"/>
+	<Point x="1254" y="922"/>
+	<Point x="1238" y="933"/>
+	<Point x="1213" y="921"/>
+	<Point x="1137" y="921"/>
+	<Point x="1089" y="934"/>
+	<Point x="885" y="939"/>
+	<Point x="833" y="920"/>
+	<Point x="668" y="922"/>
+	<Point x="667" y="922"/>
+	<Point x="638" y="935"/>
+	<Point x="530" y="922"/>
+	<Point x="481" y="947"/>
+	<Point x="440" y="925"/>
+	<Point x="408" y="922"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>16 Se reﬁeren las voces primitívas con ſu deﬁnición, deſcripción, ò
+etymología, y las derivadas y compueas, y las pocas que hai ſynóny-
+mas, con los epithétos mas uſados, ſus phraſes, y los refránes que convie-
+nen con las próprias voces, y ſon mas moráles: omitiendo la Académia re-
+ferirlos todos, porque algunos ſon ſumamente ſencios, y de literal gni-
+ﬁcación: además, que haviendoſe eampado en los años de 1555. de
+1568. y 1619. los refránes ò adagios, que recogió en romance y gloſsó
+Hernan Nuñez de Guzman, amado el Pinciano, y mas comunmente el
+Comendador Griego, y antes juntó en gran parte el Marqués de Santia-
+na Don Iñigo Lopez de Mendóza, impreos en Sevia en el año de 1508.
+y la Philoſophía vulgár de Juan de Malára en mil refránes gloados, y los
+que explicó y ſacó à luz el año de 1675. el Licenciado Geronymo Martin
+Caro y Cejúdo, y otros Autóres, ſería trabájo mui inutil exprear los
+que no tienen moralidád, y buen ſentído, quando todos ò las mas ſe pue-
+den vér en los Autóres que los han impreo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="269" y="2095"/>
+	<Point x="273" y="2417"/>
+	<Point x="296" y="2419"/>
+	<Point x="326" y="2403"/>
+	<Point x="410" y="2407"/>
+	<Point x="561" y="2406"/>
+	<Point x="587" y="2348"/>
+	<Point x="1092" y="2343"/>
+	<Point x="1595" y="2358"/>
+	<Point x="2247" y="2344"/>
+	<Point x="2252" y="2095"/>
+	<Point x="1618" y="2107"/>
+	<Point x="1289" y="2118"/>
+	<Point x="1253" y="2105"/>
+	<Point x="989" y="2107"/>
+	<Point x="947" y="2130"/>
+	<Point x="929" y="2124"/>
+	<Point x="910" y="2107"/>
+	<Point x="776" y="2106"/>
+	<Point x="620" y="2104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>17 Deſpues de todas las acepciónes que convienen à cada voz, y ván
+en artículos aparte, ſe ponen todas las phraſes que le correſponden, y lue-
+go los refránes, obſervando tambien en uno y otro el riguroſo orden Al-
+phabético.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="286" y="2426"/>
+	<Point x="269" y="2963"/>
+	<Point x="473" y="2964"/>
+	<Point x="692" y="2958"/>
+	<Point x="706" y="2960"/>
+	<Point x="734" y="2972"/>
+	<Point x="758" y="2973"/>
+	<Point x="773" y="2953"/>
+	<Point x="970" y="2969"/>
+	<Point x="996" y="2976"/>
+	<Point x="1023" y="2961"/>
+	<Point x="1358" y="2969"/>
+	<Point x="1387" y="2979"/>
+	<Point x="1409" y="2963"/>
+	<Point x="2250" y="2949"/>
+	<Point x="2244" y="2416"/>
+	<Point x="826" y="2412"/>
+	<Point x="548" y="2416"/>
+	<Point x="484" y="2427"/>
+	<Point x="424" y="2415"/>
+	<Point x="372" y="2431"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>18 En la verón Latina de las voces ha procurado poner la Acadé-
+mia la mayor conformidád; aunque muas veces es ca impoſsible con-
+vertir igualmente la voz Caeana en otra Latina, por cuya razón para
+inteligéncia de los extrangéros ſe ha uſado de algunas phraſes en los caſos
+que ha do preciſo, con el deſéo de la mayor claridád, y conocimiento
+de los Leóres: y tambien por evitar no volver la voz Eſpañóla en otra
+Latina, menos expreſsíva, y no tan correſpondiente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="279" y="2972"/>
+	<Point x="273" y="3506"/>
+	<Point x="907" y="3517"/>
+	<Point x="947" y="3527"/>
+	<Point x="964" y="3518"/>
+	<Point x="2243" y="3517"/>
+	<Point x="2243" y="2969"/>
+	<Point x="1508" y="2975"/>
+	<Point x="1387" y="2989"/>
+	<Point x="1308" y="2976"/>
+	<Point x="1078" y="2976"/>
+	<Point x="1021" y="2978"/>
+	<Point x="933" y="2982"/>
+	<Point x="877" y="2974"/>
+	<Point x="779" y="2980"/>
+	<Point x="632" y="2983"/>
+	<Point x="567" y="2971"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>19 Algunos Autóres ſe han citado por los folios, ò páginas de ſus
+obras, para mas conveniéncia de quien quiere cotejar la autoridád que
+ſe reﬁere: y tambien porque no dividiendoſe ſus eſcritos por Capítulos, ò
+con otro género de diinciones, ha do preciſo uſar de ee méthodo,
+para la comprobación,  ſe buſcare: y para inteligéncia de las cifras de ſus
+nombres y obras, ſe pone al princípio de cada tomo la declaración con-
+veniente de los Autóres que en él ſe citan.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="349" y="3520"/>
+	<Point x="366" y="3590"/>
+	<Point x="973" y="3600"/>
+	<Point x="1312" y="3606"/>
+	<Point x="1338" y="3614"/>
+	<Point x="1392" y="3604"/>
+	<Point x="2253" y="3610"/>
+	<Point x="2254" y="3530"/>
+	<Point x="1444" y="3526"/>
+	<Point x="1161" y="3532"/>
+	<Point x="1127" y="3526"/>
+	<Point x="1109" y="3543"/>
+	<Point x="1066" y="3526"/>
+	<Point x="952" y="3541"/>
+	<Point x="921" y="3527"/>
+	<Point x="871" y="3524"/>
+	<Point x="734" y="3521"/>
+	<Point x="544" y="3520"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>20 Los verbos ſe han de buſcar por los inﬁnitivos: como arrojar,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="2105" y="200"/>
+	<Point x="2105" y="273"/>
+	<Point x="2235" y="273"/>
+	<Point x="2235" y="200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VII</Unicode></TextEquiv></TextRegion></Page></PcGts>

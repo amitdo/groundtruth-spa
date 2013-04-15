@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444542">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T14:00:22</Created>
+	<LastChange>2011-03-05T07:35:45</LastChange></Metadata>
+	<Page imageFilename="00444542.tif" imageWidth="2613" imageHeight="3944">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r11" index="1"/>
+	<RegionRefIndexed regionRef="r12" index="2"/>
+	<RegionRefIndexed regionRef="r13" index="3"/>
+	<RegionRefIndexed regionRef="r14" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="751" y="191"/>
+	<Point x="751" y="265"/>
+	<Point x="761" y="268"/>
+	<Point x="1052" y="271"/>
+	<Point x="1317" y="268"/>
+	<Point x="1331" y="267"/>
+	<Point x="1940" y="272"/>
+	<Point x="1927" y="189"/>
+	<Point x="1932" y="189"/>
+	<Point x="1215" y="192"/>
+	<Point x="1174" y="190"/>
+	<Point x="1042" y="185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SOBRE LAS ETYMOLOGIAS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="2184" y="204"/>
+	<Point x="2185" y="277"/>
+	<Point x="2225" y="274"/>
+	<Point x="2281" y="270"/>
+	<Point x="2282" y="258"/>
+	<Point x="2290" y="195"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LV</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="828" y="3847"/>
+	<Point x="830" y="3917"/>
+	<Point x="1454" y="3922"/>
+	<Point x="1727" y="3929"/>
+	<Point x="1769" y="3927"/>
+	<Point x="1769" y="3915"/>
+	<Point x="1771" y="3858"/>
+	<Point x="1047" y="3847"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="2237" y="3606"/>
+	<Point x="2235" y="3636"/>
+	<Point x="2232" y="3669"/>
+	<Point x="2333" y="3669"/>
+	<Point x="2333" y="3608"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="327" y="287"/>
+	<Point x="327" y="1140"/>
+	<Point x="682" y="1140"/>
+	<Point x="697" y="1149"/>
+	<Point x="709" y="1140"/>
+	<Point x="908" y="1140"/>
+	<Point x="924" y="1148"/>
+	<Point x="941" y="1140"/>
+	<Point x="1015" y="1140"/>
+	<Point x="1016" y="1152"/>
+	<Point x="1034" y="1155"/>
+	<Point x="1050" y="1143"/>
+	<Point x="1170" y="1140"/>
+	<Point x="1195" y="1146"/>
+	<Point x="1206" y="1140"/>
+	<Point x="1408" y="1140"/>
+	<Point x="1425" y="1150"/>
+	<Point x="1438" y="1140"/>
+	<Point x="1590" y="1140"/>
+	<Point x="1607" y="1150"/>
+	<Point x="1622" y="1140"/>
+	<Point x="1686" y="1140"/>
+	<Point x="1705" y="1154"/>
+	<Point x="1726" y="1140"/>
+	<Point x="1734" y="1156"/>
+	<Point x="1761" y="1144"/>
+	<Point x="2008" y="1141"/>
+	<Point x="2013" y="1147"/>
+	<Point x="2026" y="1155"/>
+	<Point x="2044" y="1154"/>
+	<Point x="2054" y="1153"/>
+	<Point x="2065" y="1141"/>
+	<Point x="2138" y="1140"/>
+	<Point x="2134" y="1101"/>
+	<Point x="2140" y="1090"/>
+	<Point x="2341" y="1094"/>
+	<Point x="2332" y="281"/>
+	<Point x="2160" y="282"/>
+	<Point x="2137" y="268"/>
+	<Point x="2130" y="282"/>
+	<Point x="1657" y="284"/>
+	<Point x="1628" y="277"/>
+	<Point x="1604" y="278"/>
+	<Point x="1588" y="284"/>
+	<Point x="1484" y="284"/>
+	<Point x="1464" y="277"/>
+	<Point x="1440" y="284"/>
+	<Point x="1357" y="284"/>
+	<Point x="1345" y="275"/>
+	<Point x="1315" y="284"/>
+	<Point x="1178" y="277"/>
+	<Point x="1154" y="278"/>
+	<Point x="1141" y="282"/>
+	<Point x="651" y="285"/>
+	<Point x="610" y="261"/>
+	<Point x="578" y="286"/>
+	<Point x="520" y="286"/>
+	<Point x="501" y="271"/>
+	<Point x="481" y="286"/>
+	<Point x="389" y="287"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>terminaciones, como oy en dia ſe vé en los Africanos que vienen à nueſ-
+tra Eſpaña, que empre ſe explícan por inﬁnitivos, y los Italianos y Fran-
+ceſes, que al princípio mudan las terminaciones, tomando en nueras Vo-
+ces la gniﬁcación y las letras haa la última terminación : y de aqui na-
+ció n duda, que en aqueas Voces en que convenían las terminaciones
+de los Romános, y de los Eſpañoles, las tomaen, y uſaen puramente
+Latinas : como los femeninos en A, Muſa, Roſa, Contraria, Aura, Ar-
+dua, y en otras muas, y por mejor decir muiſsimas Voces ſe muda
+ſolo la terminación : como Sermón, Canción, Incéndio, Vencimiento, Imme-
+diatamente, Claramente, y el inﬁnitivo, ò la raíz por donde ſe conjugan:
+como Amar, Clamar, Implorar, Conocer, Poner, Reir, Sumergir.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="332" y="1162"/>
+	<Point x="358" y="2353"/>
+	<Point x="404" y="2352"/>
+	<Point x="411" y="2335"/>
+	<Point x="971" y="2326"/>
+	<Point x="985" y="2345"/>
+	<Point x="998" y="2346"/>
+	<Point x="1016" y="2343"/>
+	<Point x="1020" y="2325"/>
+	<Point x="1588" y="2319"/>
+	<Point x="1601" y="2332"/>
+	<Point x="1639" y="2336"/>
+	<Point x="1652" y="2333"/>
+	<Point x="1659" y="2330"/>
+	<Point x="1672" y="2318"/>
+	<Point x="2357" y="2305"/>
+	<Point x="2358" y="1155"/>
+	<Point x="2097" y="1152"/>
+	<Point x="2087" y="1155"/>
+	<Point x="2044" y="1155"/>
+	<Point x="2037" y="1156"/>
+	<Point x="2011" y="1158"/>
+	<Point x="1987" y="1156"/>
+	<Point x="1973" y="1151"/>
+	<Point x="1962" y="1156"/>
+	<Point x="1935" y="1163"/>
+	<Point x="1932" y="1151"/>
+	<Point x="1919" y="1151"/>
+	<Point x="1905" y="1164"/>
+	<Point x="1793" y="1166"/>
+	<Point x="1772" y="1153"/>
+	<Point x="1762" y="1159"/>
+	<Point x="1685" y="1160"/>
+	<Point x="1670" y="1150"/>
+	<Point x="1657" y="1160"/>
+	<Point x="1645" y="1160"/>
+	<Point x="1635" y="1146"/>
+	<Point x="1613" y="1160"/>
+	<Point x="1500" y="1161"/>
+	<Point x="1489" y="1147"/>
+	<Point x="1477" y="1146"/>
+	<Point x="1473" y="1161"/>
+	<Point x="1377" y="1162"/>
+	<Point x="1369" y="1150"/>
+	<Point x="1348" y="1149"/>
+	<Point x="1340" y="1159"/>
+	<Point x="1195" y="1160"/>
+	<Point x="1181" y="1150"/>
+	<Point x="1165" y="1160"/>
+	<Point x="1097" y="1160"/>
+	<Point x="1075" y="1149"/>
+	<Point x="1069" y="1160"/>
+	<Point x="1025" y="1160"/>
+	<Point x="1006" y="1149"/>
+	<Point x="999" y="1160"/>
+	<Point x="792" y="1161"/>
+	<Point x="774" y="1151"/>
+	<Point x="756" y="1161"/>
+	<Point x="681" y="1161"/>
+	<Point x="671" y="1151"/>
+	<Point x="631" y="1150"/>
+	<Point x="596" y="1153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>23 Si huviera quedado alguna luz, ò notícia cierta del Idióma que
+hablaban los antíguos Eſpañoles antes que los ſujetaen los Romanos, no
+hai duda que huviera una antorcha, que con toda claridád no ſolo moſ-
+trára el orígen de muas Voces, no alumbrára para haar y diſcurrir
+reglas verdadéras para otras ; pero como aquea Léngua ſe obſcureció
+tan del todo entre las ſombras del olvído, para deſcubrir y facilitar algun
+camíno al diſcurſo, el dia de oy es forzoſo valerſe de la eſcáſa luz de las
+conjeturas, y deducir las reglas del miſmo eado que oy tienen las Voces,
+ò inferirlas de la variación de las letras, en que por la ſemejanza de unas
+con otras, y falta de inteligéncia del lenguage, y pronunciación de los La-
+tinos, trocaron nueros antíguos las unas por las otras, y desﬁgurando
+las Voces Latinas formaron poco à poco las Eſpañolas : à que contribuyó
+lo baante la irrupción de los Arabes, de quienes nos ha quedado el fre-
+qüente uſo de la F el pronunciar como ea la X en algunas palabras, y el
+general ſonído de la G guturál en las vocáles E, y I.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="425" y="2418"/>
+	<Point x="349" y="2416"/>
+	<Point x="346" y="2751"/>
+	<Point x="415" y="2750"/>
+	<Point x="434" y="2734"/>
+	<Point x="854" y="2731"/>
+	<Point x="881" y="2742"/>
+	<Point x="888" y="2730"/>
+	<Point x="902" y="2730"/>
+	<Point x="902" y="2751"/>
+	<Point x="922" y="2741"/>
+	<Point x="930" y="2730"/>
+	<Point x="942" y="2730"/>
+	<Point x="1176" y="2723"/>
+	<Point x="1185" y="2736"/>
+	<Point x="1201" y="2739"/>
+	<Point x="1222" y="2737"/>
+	<Point x="1225" y="2723"/>
+	<Point x="1775" y="2715"/>
+	<Point x="1788" y="2723"/>
+	<Point x="1813" y="2736"/>
+	<Point x="1826" y="2739"/>
+	<Point x="1839" y="2722"/>
+	<Point x="1914" y="2722"/>
+	<Point x="1923" y="2663"/>
+	<Point x="2373" y="2653"/>
+	<Point x="2372" y="2355"/>
+	<Point x="2238" y="2348"/>
+	<Point x="2220" y="2328"/>
+	<Point x="2202" y="2342"/>
+	<Point x="2148" y="2351"/>
+	<Point x="2140" y="2322"/>
+	<Point x="2039" y="2326"/>
+	<Point x="2034" y="2349"/>
+	<Point x="1920" y="2347"/>
+	<Point x="1921" y="2327"/>
+	<Point x="1828" y="2327"/>
+	<Point x="1812" y="2345"/>
+	<Point x="1712" y="2343"/>
+	<Point x="1696" y="2329"/>
+	<Point x="1682" y="2342"/>
+	<Point x="1666" y="2336"/>
+	<Point x="1651" y="2337"/>
+	<Point x="1629" y="2341"/>
+	<Point x="1598" y="2341"/>
+	<Point x="1593" y="2352"/>
+	<Point x="1481" y="2351"/>
+	<Point x="1470" y="2330"/>
+	<Point x="1443" y="2351"/>
+	<Point x="1411" y="2351"/>
+	<Point x="1393" y="2336"/>
+	<Point x="1375" y="2351"/>
+	<Point x="1344" y="2351"/>
+	<Point x="1327" y="2333"/>
+	<Point x="1304" y="2353"/>
+	<Point x="1213" y="2353"/>
+	<Point x="1189" y="2338"/>
+	<Point x="1167" y="2353"/>
+	<Point x="1129" y="2352"/>
+	<Point x="1006" y="2353"/>
+	<Point x="988" y="2356"/>
+	<Point x="971" y="2337"/>
+	<Point x="964" y="2338"/>
+	<Point x="957" y="2345"/>
+	<Point x="800" y="2344"/>
+	<Point x="788" y="2341"/>
+	<Point x="774" y="2344"/>
+	<Point x="606" y="2343"/>
+	<Point x="579" y="2363"/>
+	<Point x="425" y="2364"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>24 Aſsi fué poco à poco formándoſe un Idióma diinto del Latino,
+de donde nació, y de donde ſe fué apartando del modo dio : de ſuerte
+que conſerva la ﬁliación, pero n ſujeción alguna de Pupíla, no libre,
+con Réino aparte, y debaxo de Império abſoluto, que goza ſobre las Lén-
+guas el común uſo, y ea es la priméra edád de la Léngua.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="336" y="2770"/>
+	<Point x="337" y="3060"/>
+	<Point x="360" y="3448"/>
+	<Point x="658" y="3446"/>
+	<Point x="676" y="3457"/>
+	<Point x="696" y="3445"/>
+	<Point x="838" y="3443"/>
+	<Point x="858" y="3458"/>
+	<Point x="878" y="3447"/>
+	<Point x="1094" y="3445"/>
+	<Point x="1094" y="3376"/>
+	<Point x="2372" y="3369"/>
+	<Point x="2373" y="2730"/>
+	<Point x="2365" y="2726"/>
+	<Point x="2294" y="2726"/>
+	<Point x="2017" y="2728"/>
+	<Point x="1927" y="2729"/>
+	<Point x="1862" y="2732"/>
+	<Point x="1824" y="2748"/>
+	<Point x="1798" y="2732"/>
+	<Point x="1784" y="2732"/>
+	<Point x="1764" y="2744"/>
+	<Point x="1713" y="2745"/>
+	<Point x="1692" y="2732"/>
+	<Point x="1555" y="2732"/>
+	<Point x="1517" y="2734"/>
+	<Point x="1508" y="2740"/>
+	<Point x="1429" y="2741"/>
+	<Point x="1413" y="2734"/>
+	<Point x="1396" y="2736"/>
+	<Point x="1172" y="2743"/>
+	<Point x="1164" y="2739"/>
+	<Point x="1058" y="2740"/>
+	<Point x="1049" y="2757"/>
+	<Point x="938" y="2763"/>
+	<Point x="926" y="2742"/>
+	<Point x="914" y="2750"/>
+	<Point x="905" y="2760"/>
+	<Point x="826" y="2760"/>
+	<Point x="822" y="2745"/>
+	<Point x="808" y="2739"/>
+	<Point x="791" y="2761"/>
+	<Point x="648" y="2764"/>
+	<Point x="643" y="2750"/>
+	<Point x="629" y="2744"/>
+	<Point x="600" y="2750"/>
+	<Point x="590" y="2765"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>25 Formada yá creció à ſu ſegunda edád, fortalecida, y enriqueci-
+da de muas Voces, unas formadas de las que yá eran ſuyas próprias,
+otras que cobró de la ſujeción de los Arabes, y no pocas que tomó de la
+comunicación de los Teutones, Italianos, y Franceſes, y aſsi duró haa
+los tiempos del Rey Don Alonſo el Sabio, haa los quales ſe conſervó la
+coumbre de formar los inrumentos públicos en Latin : n duda para ſe-
+guridád y ﬁrméza de las expreſsiones, por no poderſe ﬁar en eos primé-
+ros tiempos los Eſpañoles de ſus balbucientes Phraſes, para aegurar los
+contratos que eipulaban.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="391" y="3470"/>
+	<Point x="356" y="3609"/>
+	<Point x="730" y="3605"/>
+	<Point x="746" y="3615"/>
+	<Point x="769" y="3605"/>
+	<Point x="1114" y="3602"/>
+	<Point x="1134" y="3617"/>
+	<Point x="1161" y="3602"/>
+	<Point x="1304" y="3601"/>
+	<Point x="1330" y="3615"/>
+	<Point x="1363" y="3600"/>
+	<Point x="2189" y="3594"/>
+	<Point x="2222" y="3610"/>
+	<Point x="2250" y="3591"/>
+	<Point x="2370" y="3590"/>
+	<Point x="2367" y="3435"/>
+	<Point x="2002" y="3426"/>
+	<Point x="1438" y="3434"/>
+	<Point x="1243" y="3439"/>
+	<Point x="1168" y="3439"/>
+	<Point x="1151" y="3440"/>
+	<Point x="1135" y="3448"/>
+	<Point x="1046" y="3453"/>
+	<Point x="1036" y="3463"/>
+	<Point x="845" y="3466"/>
+	<Point x="833" y="3454"/>
+	<Point x="800" y="3454"/>
+	<Point x="796" y="3470"/>
+	<Point x="732" y="3470"/>
+	<Point x="722" y="3455"/>
+	<Point x="700" y="3455"/>
+	<Point x="688" y="3461"/>
+	<Point x="651" y="3462"/>
+	<Point x="632" y="3455"/>
+	<Point x="607" y="3457"/>
+	<Point x="546" y="3457"/>
+	<Point x="525" y="3456"/>
+	<Point x="503" y="3463"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>26 En los tiempos de ee Rey ſabio ſe mandó que ſe formaen los
+inrumentos públicos en Eſpañól, para evitar la indecéncia del ﬁngido</Unicode></TextEquiv></TextRegion></Page></PcGts>

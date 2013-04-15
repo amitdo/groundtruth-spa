@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443226">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T01:59:42</Created>
+	<LastChange>2011-03-15T16:51:42</LastChange></Metadata>
+	<Page imageFilename="00443226.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="98" y="206"/>
+	<Point x="519" y="209"/>
+	<Point x="530" y="214"/>
+	<Point x="1097" y="210"/>
+	<Point x="1142" y="202"/>
+	<Point x="1671" y="206"/>
+	<Point x="1647" y="2190"/>
+	<Point x="154" y="2210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>xar de manifear al Confeſor maduro, ò a perſona
+diſcreta i ſabia, para que dè dotrina, i vea lo que cõ-
+viene en eo, i de ſu conſejo ſe aya en eas regnada
+i negativamente. I  no fuere haada la tal perſona
+experta, mas vale tomando lo ſuancial i ſeguro que
+truxeren; en lo demas no haziendo caſo deas, no
+dar parte à nadie, porque facilmente encontrarà con
+algunas perſonas, que antes la deruyan el alma, que
+la ediﬁquen. Porque las almas no las ha de tratar cual-
+quiera, pues es coſa de tanta importancia acertar, ò
+errar en tan grave negocio. I adviertaſe mucho, en
+que el alma jamas de ſu parecer haga coſa, ni la admi-
+ta de lo que aqueas palabras le dizẽ n mucho acuer-
+do i conſejo. Porque en ea materia acaecen enga-
+ños ſutiles, i eraños; tanto, que tengo para mi, que
+el alma que no fuere enemiga de tener las tales coſas,
+no podra dexar de ſer engañada en muchas deas, en
+poco, ò en mucho. I porque deos engaños i peligros
+i de la cautela para eos eà tratado de propoto en
+el Capitulo diez i ete, diez i ocho, i diez i nueve, i
+veinte dee libro; no me alargo mas aqui. Solo digo,
+que la principal dotrina, i ſegura para eo, es no ha-
+zer caſo deo, aunque mas parezca: no gobernarſe
+en todo por razon, i por lo que ya nos ha
+enſeñado la Iglea; i nos enſe-
+ña cada dia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="586" y="94"/>
+	<Point x="586" y="202"/>
+	<Point x="1058" y="194"/>
+	<Point x="1068" y="202"/>
+	<Point x="1068" y="94"/>
+	<Point x="986" y="88"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro ſegundo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1496" y="106"/>
+	<Point x="1496" y="178"/>
+	<Point x="1640" y="178"/>
+	<Point x="1640" y="106"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>215</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1414" y="2433"/>
+	<Point x="1414" y="2574"/>
+	<Point x="1677" y="2574"/>
+	<Point x="1677" y="2433"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CA-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="signature-mark">
+	<Coords>
+	<Point x="929" y="2433"/>
+	<Point x="929" y="2574"/>
+	<Point x="1151" y="2574"/>
+	<Point x="1151" y="2433"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O 4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="credit">
+	<Coords>
+	<Point x="769" y="2925"/>
+	<Point x="769" y="3000"/>
+	<Point x="1438" y="3000"/>
+	<Point x="1438" y="2925"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r12">
+	<Coords>
+	<Point x="763" y="2211"/>
+	<Point x="763" y="2308"/>
+	<Point x="913" y="2300"/>
+	<Point x="952" y="2308"/>
+	<Point x="952" y="2211"/>
+	<Point x="820" y="2208"/></Coords></SeparatorRegion></Page></PcGts>

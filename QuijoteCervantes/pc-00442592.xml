@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442592">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T04:55:11</Created>
+	<LastChange>2012-03-12T14:12:10</LastChange></Metadata>
+	<Page imageFilename="00442592.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="427" y="99"/>
+	<Point x="1141" y="99"/>
+	<Point x="1141" y="221"/>
+	<Point x="427" y="221"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quarta parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="125" y="292"/>
+	<Point x="1400" y="292"/>
+	<Point x="1400" y="538"/>
+	<Point x="125" y="538"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cap. XXIX. Que trata de la diſcordia de la hermoſa
+Dorotea, con otras coſas de mucho guo y paſ‐
+ſatiempo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="412" y="838"/>
+	<Point x="410" y="561"/>
+	<Point x="1432" y="565"/>
+	<Point x="1423" y="2196"/>
+	<Point x="1019" y="2205"/>
+	<Point x="1019" y="2219"/>
+	<Point x="134" y="2218"/>
+	<Point x="129" y="838"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>STA es ſeñores, la verdaera hioria
+de mi tragedia, mirad y juzgad aora,  los
+ſuſpiros que eſcuchaes, las palabras que
+oyes, y las lagrimas que de mis ojos ſa‐
+lian, tenian ocaon haante, para morarſe en ma‐
+yor abundancia: y conderada la calidad de mi deſ‐
+gracia, vereys que ſerà en vano el conſuelo, pues es
+impoſsible el remedio dea. Solo os ruego, lo que
+con facilidad podreys, y deueys hazer, que me acon
+ſejeys donde podrè paar la vida, n que me acabe
+el temor, y ſobreſalto que tengo, de ſer haada de
+los que me buſcã, que aunque ſe que el mucho amor
+que mis padres me tienẽ, no aegura que ſere deos
+bien recebida: es tanta la verguença que me ocupa,
+ſolo el penſar que no como eos penſauan, tengo de
+parecer a ſu preſencia, que tengo por mejor dee‐
+rrarme para ẽpre, de ſer via, que no verles el roſ‐
+tro, con penſamiento que eos miran el mio, ageno
+de la honeidad, que de mi ſe deuian de tener pro‐
+metida. Caò en diziendo eo, y el roro ſe le cu‐
+brio de vn color, que moro bien claro el ſentimien
+to, y verguença del alma. En las ſuyas ntieron los
+que eſcuchado la auian, tanta laima, como admira‐
+cion, de ſu deſgracia: y aunque luego quiera el cu‐
+ra conſolarla, y aconſejarla, tomò primero la mano
+Cardenio, diziendo. En ﬁn ſeñora, que tu eres la her‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="445" y="2290"/>
+	<Point x="1197" y="2290"/>
+	<Point x="1197" y="2371"/>
+	<Point x="445" y="2371"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="drop-capital">
+	<Coords>
+	<Point x="143" y="580"/>
+	<Point x="403" y="580"/>
+	<Point x="403" y="821"/>
+	<Point x="143" y="821"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1243" y="2205"/>
+	<Point x="1243" y="2269"/>
+	<Point x="1420" y="2269"/>
+	<Point x="1420" y="2205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>moſa</Unicode></TextEquiv></TextRegion></Page></PcGts>

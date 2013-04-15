@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439977">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T06:18:49</Created>
+	<LastChange>2011-12-19T11:38:32</LastChange></Metadata>
+	<Page imageFilename="00439977.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="drop-capital">
+	<Coords>
+	<Point x="348" y="828"/>
+	<Point x="996" y="828"/>
+	<Point x="1004" y="917"/>
+	<Point x="1019" y="925"/>
+	<Point x="1022" y="1487"/>
+	<Point x="1023" y="1496"/>
+	<Point x="948" y="1498"/>
+	<Point x="365" y="1498"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>U</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="781" y="613"/>
+	<Point x="1802" y="613"/>
+	<Point x="1802" y="776"/>
+	<Point x="781" y="776"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PROLOGO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="998" y="817"/>
+	<Point x="2293" y="820"/>
+	<Point x="2313" y="3157"/>
+	<Point x="1990" y="3159"/>
+	<Point x="1980" y="3171"/>
+	<Point x="1961" y="3182"/>
+	<Point x="1834" y="3168"/>
+	<Point x="1542" y="3171"/>
+	<Point x="1257" y="3178"/>
+	<Point x="489" y="3184"/>
+	<Point x="487" y="3223"/>
+	<Point x="336" y="3221"/>
+	<Point x="331" y="1521"/>
+	<Point x="1058" y="1515"/>
+	<Point x="1051" y="987"/>
+	<Point x="1050" y="916"/>
+	<Point x="1005" y="916"/>
+	<Point x="1004" y="905"/>
+	<Point x="1009" y="899"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No de los teimonios mas
+relevantes del zelo, con que
+ſolicitò el adelantamiento
+de las Ciencias en Eſpaña
+el Rey N. S. Don Phelipe
+Quinto, que eà en el Cie‐
+lo, fuè n duda la generoſa reſolucion, con
+que no ſolo permitiò paar à ſus Reynos
+de la America Meridionàl los Academicos
+Franceſes deinados à tomar en eos la me‐
+dida del grado terrere debaxo del Equa-
+dor; no que quiſo tambien, que los acom-
+pañaen Vaaos ſuyos, que à ſus Reales
+expenſas executaen eas, y otras Obſerva‐
+ciones. La eleccion de Sugetos recayò en
+Don Antonio de Uoa, y en mì, que la eima‐
+mos, aun mas que por las particularidades,
+que en tan dilatado Viage ſe nos ofrecìan
+examinar, por la recomendacion ngular,
+que en sì miſma traía tan ſoberana dignacion.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="555" y="3287"/>
+	<Point x="555" y="3207"/>
+	<Point x="587" y="3196"/>
+	<Point x="1906" y="3190"/>
+	<Point x="1927" y="3190"/>
+	<Point x="1936" y="3184"/>
+	<Point x="1949" y="3183"/>
+	<Point x="1973" y="3187"/>
+	<Point x="2323" y="3184"/>
+	<Point x="2319" y="3400"/>
+	<Point x="2017" y="3400"/>
+	<Point x="2011" y="3434"/>
+	<Point x="1555" y="3411"/>
+	<Point x="1544" y="3438"/>
+	<Point x="1461" y="3430"/>
+	<Point x="415" y="3452"/>
+	<Point x="416" y="3288"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Salímos de Europa por Mayo de 1735,
+y euvimos en ea de regreo, deſpues de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="1004" y="4018"/>
+	<Point x="1946" y="4018"/>
+	<Point x="1946" y="4090"/>
+	<Point x="1004" y="4090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="2150" y="3407"/>
+	<Point x="2150" y="3541"/>
+	<Point x="2336" y="3541"/>
+	<Point x="2336" y="3407"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dàr</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r8" type="other">
+	<Coords>
+	<Point x="337" y="451"/>
+	<Point x="2242" y="451"/>
+	<Point x="2242" y="592"/>
+	<Point x="337" y="592"/></Coords></GraphicRegion></Page></PcGts>

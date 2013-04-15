@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441982">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T17:55:40</Created>
+	<LastChange>2011-07-05T14:26:44</LastChange></Metadata>
+	<Page imageFilename="00441982.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r16" index="0"/>
+	<RegionRefIndexed regionRef="r17" index="1"/>
+	<RegionRefIndexed regionRef="r18" index="2"/>
+	<RegionRefIndexed regionRef="r19" index="3"/>
+	<RegionRefIndexed regionRef="r20" index="4"/>
+	<RegionRefIndexed regionRef="r21" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="763" y="204"/>
+	<Point x="763" y="280"/>
+	<Point x="1239" y="280"/>
+	<Point x="1239" y="204"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MVSA V.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="1690" y="185"/>
+	<Point x="1690" y="292"/>
+	<Point x="1885" y="292"/>
+	<Point x="1885" y="185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>397</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="129" y="314"/>
+	<Point x="135" y="545"/>
+	<Point x="191" y="549"/>
+	<Point x="213" y="552"/>
+	<Point x="231" y="554"/>
+	<Point x="261" y="551"/>
+	<Point x="274" y="549"/>
+	<Point x="315" y="542"/>
+	<Point x="834" y="551"/>
+	<Point x="834" y="314"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No hacen tanto mal,
+Como los de uña,
+Que en las tiendas dan.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="61" y="546"/>
+	<Point x="60" y="843"/>
+	<Point x="656" y="843"/>
+	<Point x="664" y="577"/>
+	<Point x="603" y="563"/>
+	<Point x="545" y="555"/>
+	<Point x="431" y="554"/>
+	<Point x="268" y="562"/>
+	<Point x="254" y="556"/>
+	<Point x="229" y="558"/>
+	<Point x="210" y="555"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No ſabe en ſu Tajo
+El bolſon nadar,
+Viejas remolinos
+Sorben ſu caudal.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="56" y="848"/>
+	<Point x="56" y="936"/>
+	<Point x="529" y="936"/>
+	<Point x="529" y="848"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Del uñas abaxo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="1060" y="314"/>
+	<Point x="1060" y="534"/>
+	<Point x="1663" y="534"/>
+	<Point x="1663" y="314"/>
+	<Point x="1533" y="305"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quien ſe eſconderà?
+Del uñas arriba
+No baa volar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="1004" y="546"/>
+	<Point x="997" y="591"/>
+	<Point x="1004" y="853"/>
+	<Point x="1919" y="853"/>
+	<Point x="1919" y="546"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tan, tan, tan, tan,
+Tan pobres los tiempos van;
+Que piden, i no nos dan,
+Dan, dan, dan, dan.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="285" y="1878"/>
+	<Point x="285" y="2392"/>
+	<Point x="1634" y="2392"/>
+	<Point x="1634" y="1878"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Suſpender quiſo ſu Canto
+TERPSICHORE aqui, depueo
+Su Inrumento, porque tanto
+Peligra en ſer, como el Llanto,
+An el Deleite moleo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="credit">
+	<Coords>
+	<Point x="697" y="3129"/>
+	<Point x="697" y="3197"/>
+	<Point x="1465" y="3197"/>
+	<Point x="1465" y="3129"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r10" type="other">
+	<Coords>
+	<Point x="848" y="971"/>
+	<Point x="848" y="1085"/>
+	<Point x="1082" y="1085"/>
+	<Point x="1082" y="971"/></Coords></GraphicRegion></Page></PcGts>

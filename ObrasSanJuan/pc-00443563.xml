@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443563">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T03:30:14</Created>
+	<LastChange>2010-12-21T11:57:54</LastChange></Metadata>
+	<Page imageFilename="00443563.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r9" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="754" y="140"/>
+	<Point x="1007" y="138"/>
+	<Point x="1173" y="140"/>
+	<Point x="1228" y="140"/>
+	<Point x="1359" y="166"/>
+	<Point x="1357" y="259"/>
+	<Point x="707" y="245"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Llama de amor viva.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="373" y="278"/>
+	<Point x="1902" y="280"/>
+	<Point x="1895" y="1312"/>
+	<Point x="378" y="1326"/>
+	<Point x="379" y="700"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſonido de muchas aguas, como ſonido del altimo Dios
+que gniﬁcan el impetu de las aguas divinas,  al caer
+el Eſpiritu Santo envie al alma en ama de amor. Go
+zando aqui la gloria de Dios en ſu amparo i favor de
+ſu ſombra; como ai tambien dize ee Profeta, que a-
+quea vion era ſemejança de la gloria del Senor: Hc
+vio militudinis glori Domini. O cuan elevada eà
+aqui ea dichoſa alma! O cuan engrandecida! Cuan
+admirada de lo que vè aun dentro de los limites de Fè!
+Quien lo podra dezir? infundida con tanta copiodad
+en las aguas deos divinos reſplandores, donde el Pa-
+dre Eterno dà con larga mano el regadio ſuperior i
+inferior; pues eas aguas regando alma i cuerpo pe-
+netran.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="368" y="1335"/>
+	<Point x="616" y="1331"/>
+	<Point x="1887" y="1329"/>
+	<Point x="1872" y="2314"/>
+	<Point x="370" y="2298"/>
+	<Point x="364" y="2112"/>
+	<Point x="366" y="2079"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O admirable coſa! que con ſer eas Lamparas de
+los atributos divinos un mple ſer, en el ſe cõciba i en-
+tienda la diincion deas, tan encendida la una como
+la otra, endo la una ſuancialmente la otra? O abiſmo
+de deleites! tanto mas abundantes, cuanto ean rus ri-
+quezas mas recogidas en unidad i mplicidad inﬁnita.
+Donde de tal manera ſe conozca i gue lo uno, que no
+ſe impida el conocimiento i guo de lo otro; antes cada
+coſa en ti es luz, que no eorva à la otra; i por tu lim-
+pieza, o ſabiduria divina! muchas coſas ſe conocen en
+ti en una, porque tu eres el depoto de los
+teſoros del Eterno
+Padre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="778" y="2926"/>
+	<Point x="1427" y="2939"/>
+	<Point x="1428" y="3000"/>
+	<Point x="771" y="2998"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="378" y="161"/>
+	<Point x="378" y="261"/>
+	<Point x="538" y="261"/>
+	<Point x="538" y="161"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>552</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="marginalia">
+	<Coords>
+	<Point x="126" y="641"/>
+	<Point x="126" y="819"/>
+	<Point x="372" y="819"/>
+	<Point x="375" y="712"/>
+	<Point x="372" y="641"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ezech.2.
+1.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1464" y="2566"/>
+	<Point x="1464" y="2792"/>
+	<Point x="1892" y="2792"/>
+	<Point x="1892" y="2566"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VER-</Unicode></TextEquiv></TextRegion></Page></PcGts>

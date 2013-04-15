@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444466">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:43:51</Created>
+	<LastChange>2011-12-19T11:39:47</LastChange></Metadata>
+	<Page imageFilename="00444466.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="916" y="103"/>
+	<Point x="1551" y="103"/>
+	<Point x="1551" y="235"/>
+	<Point x="916" y="235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="390" y="258"/>
+	<Point x="2045" y="256"/>
+	<Point x="2009" y="2644"/>
+	<Point x="1735" y="2651"/>
+	<Point x="1709" y="2650"/>
+	<Point x="1561" y="2670"/>
+	<Point x="391" y="2701"/>
+	<Point x="391" y="2697"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tormento deſde que le dixo Simeon aque-
+as palabras la dio mi padre clara luz pa-
+ra que viee lo que yo auia de padecer.
+Los grandes ſantos que biuieron en los de-
+ertos, como eran guyados por Dios an-
+ hazian graues penitencias, y n eo te-
+nian grandes bataas con el demonio, y
+congo miſmos, mucho tiempo ſe paa-
+uan n ninguna conſolacion eſpiritual.
+Cree hija que aquien mi padre mas ama,
+da mayores trabajos, y a eos reſponde
+el amor. En que te le puedo mas mo-
+rar, que querer para ti lo que quiſe pa-
+ra mi. Mira eas agas que nunca e-
+garan aqui tus dolores. Ee es el cami-
+no de la verdad. An me ayudaras a o-
+rar la perdicion que traen los del mun-
+do entendiendo tu eo, que todos ſus
+deeos, y cuydados, y penſamientos ſe
+emplean en como tener lo contrario. Quan-
+do ee dia comence a tener oracion, ea-
+ua con tan gran mal de cabeça, que me
+parecia ca impoſsible poderla tener. Di-
+xome el Señor. Por aqui veras el premio
+del padecer, que como no eauas tu
+con ſalud para hablar conmigo, he yo
+hablado contigo y regaladote. Y es an-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="603" y="3052"/>
+	<Point x="1589" y="3053"/>
+	<Point x="1588" y="3168"/>
+	<Point x="599" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="448" y="129"/>
+	<Point x="448" y="235"/>
+	<Point x="629" y="235"/>
+	<Point x="629" y="129"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>546</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1711" y="2657"/>
+	<Point x="1706" y="2761"/>
+	<Point x="1978" y="2752"/>
+	<Point x="1978" y="2652"/>
+	<Point x="1761" y="2654"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode> cier-</Unicode></TextEquiv></TextRegion></Page></PcGts>

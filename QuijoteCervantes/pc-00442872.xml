@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442872">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:46:36</Created>
+	<LastChange>2012-03-12T14:12:32</LastChange></Metadata>
+	<Page imageFilename="00442872.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="457" y="74"/>
+	<Point x="1091" y="78"/>
+	<Point x="1087" y="161"/>
+	<Point x="756" y="179"/>
+	<Point x="720" y="188"/>
+	<Point x="651" y="172"/>
+	<Point x="537" y="188"/>
+	<Point x="452" y="179"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quarta parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="127" y="169"/>
+	<Point x="222" y="166"/>
+	<Point x="456" y="193"/>
+	<Point x="599" y="189"/>
+	<Point x="658" y="175"/>
+	<Point x="721" y="190"/>
+	<Point x="746" y="183"/>
+	<Point x="852" y="177"/>
+	<Point x="1023" y="169"/>
+	<Point x="1116" y="169"/>
+	<Point x="1267" y="162"/>
+	<Point x="1415" y="172"/>
+	<Point x="1386" y="2129"/>
+	<Point x="1164" y="2129"/>
+	<Point x="1143" y="2131"/>
+	<Point x="103" y="2200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>por mi cuenta, que el n juyzio, y el encantado, es
+vuera merced, pues ſe ha pueo a dezir tãtas blaſ-
+femias contra vna coſa tan recebida en el mundo, y
+tenida por tan verdadera, que el que la negae, co-
+mo vuera merced la niega, merecia la meſma pe-
+na, que vuera merced dize que da a los libros, quã
+do los lee, y le enfadan. Porque querer dar a enten-
+der a nadie, que Amadis no fue en el mundo, ni to-
+dos los otros cauaeros auentureros, de que ean
+colmadas las hiorias, ſerà querer perſuadir, que el
+Sol no alumbra, ni el yelo enfria, ni la tierra ſuen-
+ta: porque que ingenio puede auer en el mũdo, que
+pueda perſuadir a otro, que no fue verdad lo de la
+infanta Floripes, y Guy de Borgoña: y lo de Fiera-
+bras, con la puente de Mantible, que ſucedio en el
+tiempo de Carlo Magno, que voto a tal, que es tan-
+ta verdad, como es aora de dia? Y  es mentira, tam-
+bien lo deue de ſer, que no huuo Heor, ni Aqui-
+les, ni la guerra de Troya, ni los doze Pares de Fran
+cia, ni el Rey Artus de Ingalaterra, que anda haa
+aora conuertido en cueruo, y le eſperan en ſu Rey-
+no por momentos. Y tambien ſe atreueran a dezir,
+que es mentiroſa la hioria de Guarino Mez quino,
+y la de la demanda del ſanto Grial, y que ſon apo-
+crifos los amores de don Trian, y la Reyna Yſeo,
+como los de Ginebra, y Lançarote, auiendo perſo-
+nas que ca ſe acuerdan de auer vio a la dueña
+Quintañona, que fue la mejor eſcanciadora de vino
+que tuuo la gran Bretaña: y es eo tan an, que me
+acuerdo yo que me dezia vna mi aguela, de partes
+de mi padre, quando veía alguna dueña con tocas
+reuerendas: Aquea, nieto, ſe parece a la dueña</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="444" y="2305"/>
+	<Point x="1130" y="2297"/>
+	<Point x="1130" y="2375"/>
+	<Point x="443" y="2379"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1152" y="2132"/>
+	<Point x="1146" y="2210"/>
+	<Point x="1362" y="2211"/>
+	<Point x="1358" y="2137"/>
+	<Point x="1239" y="2134"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quinta-</Unicode></TextEquiv></TextRegion></Page></PcGts>

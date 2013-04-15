@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439202">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T03:13:04</Created>
+	<LastChange>2011-05-12T13:39:51</LastChange></Metadata>
+	<Page imageFilename="00439202.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="583" y="76"/>
+	<Point x="1500" y="78"/>
+	<Point x="1511" y="154"/>
+	<Point x="564" y="154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="264" y="173"/>
+	<Point x="1702" y="161"/>
+	<Point x="1723" y="2595"/>
+	<Point x="1553" y="2597"/>
+	<Point x="269" y="2595"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no ay para que aſconderlo ni encubrirlo, aqui ſe haa-
+rà la verdad. Anduvieron hojeando un poco, y quan-
+do reconocì las partidas y letra, dixe: Vueas merce-
+des vean lo que aqui dize; lean eas partidas que me
+tiene teadas y adicionadas à la margen: pues no le ha
+de valer tampoco por ay, que mi dinero me tiene de
+dar. Vieron todos las partidas, y ſer como yo lo dezia,
+y el mercader eava tan loco que no ſabia que dezir,
+mas de jurar mil juramentos, que tal no ſabia como ni
+quien lo huvieﬂe eſcrito. Yo les dixe: yo miſmo lo eſ-
+crevì, miletra es, pero la de la margen es diferente, y
+falſamente pueo, y teadas, que no me han buelto
+nada, y en aquel eſcritorio (no los ha ſacado) ai
+ean mis eſcudos. Hazia unos eremos como un loco
+furioſo, de manera que creyeron ſer n duda verdad
+quanto dezia: y procurandome ſoſegar, dezian que
+me apaziguaſle, que no importava ear teadas las
+partidas, ni eſcrito en la margen avermelos buelto, 
+en lo demas era ſegun lo dezia. Dixeles luego: Que
+mayor verdad mia, ò que mayor indicio de ſu malicia,
+puede aver, que dezir, poco ha que no le avia dado
+blanca, y haarſe aqui eſcrito, aunque teado. Si lo
+recibio, porque lo niega: y  no lo recibiò, como eà
+eſcrito aqui. Abraſe aquel eſcritorio, que dentro e-
+aran mis doblones, y los diez de à diez entre medias
+deos. Porﬁava el mercader, y deshaziaſe diziendo
+con varios juramentos y obſecraciones, que todo era
+maldad, y que ſe lo levantava, porque doblones de à
+diez, uno, ni mas avia en toda ſu caſa. Tanto porﬁaron,
+y el Bargelo tanto inò en que diee las aves del eſcri-
+torio, porque las reia, no queriendo las dar, que
+le jurò, no ſe las diee, que ſe lo ſacaria de caſa, ha-
+a dar noticia de todo al Capitan de juicia (que ai es
+como en Caia un Corregidor) para que depotado
+ſe ſupiee la verdad. Finalmente las diò, y en abrien-
+dolo, dixe: Ai en aquea gaveta los metiò en un ga-
+topardo rodado; abrieron la gaveta, y ſacaron el gato,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1618" y="2601"/>
+	<Point x="1668" y="2603"/>
+	<Point x="1663" y="2665"/>
+	<Point x="1621" y="2662"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="537" y="2863"/>
+	<Point x="1305" y="2866"/>
+	<Point x="1305" y="2938"/>
+	<Point x="520" y="2930"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="295" y="76"/>
+	<Point x="295" y="166"/>
+	<Point x="440" y="161"/>
+	<Point x="430" y="80"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>170</Unicode></TextEquiv></TextRegion></Page></PcGts>

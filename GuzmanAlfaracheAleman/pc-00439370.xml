@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439370">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T09:05:09</Created>
+	<LastChange>2011-05-12T13:40:04</LastChange></Metadata>
+	<Page imageFilename="00439370.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="575" y="127"/>
+	<Point x="605" y="127"/>
+	<Point x="1496" y="124"/>
+	<Point x="1475" y="205"/>
+	<Point x="566" y="203"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="292" y="272"/>
+	<Point x="296" y="240"/>
+	<Point x="319" y="234"/>
+	<Point x="375" y="234"/>
+	<Point x="426" y="231"/>
+	<Point x="444" y="213"/>
+	<Point x="1711" y="216"/>
+	<Point x="1711" y="2629"/>
+	<Point x="1343" y="2629"/>
+	<Point x="1293" y="2711"/>
+	<Point x="459" y="2697"/>
+	<Point x="296" y="2629"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que lo ſepa, y diimule, ò por el mucho amor, ò por
+el mucho dolor, ò por no dar otra campanada mayor,
+no me admira: y no ſolamente pudiera no ſer eo vicio,
+mas virtud y merito, no conntiendolo, ni dando favor
+ò entrada para eo; mas que como yo no ſolo gua va
+deo, mas que  neceario era, les echava (como di-
+zen) la capa encima, no sè  eava ciego  loco,  hechi-
+zado, pues no lo conderava, ò como,  lo conderè,
+no le puſe remedio, antes lo favorecia! O loco, loco,
+mil vezes loco, que poco ſe me dava de todo, n repa-
+rar en lo mal que ſe compadecia honra y muger guitar-
+rera, ni que dieſse ſolas à otros que à mi con ea. Suelen
+los hombres, para obligar à ſus damas, darles mucas, y
+cantarles en las caes: pero mi muger enamorava los
+hombres, yendoles à tañer y cantar en ſus caſas. Bien
+claro eà de ver, que tales gracias de ſuyo ſon apeteci-
+bles, pues como combidando con eas, no me las avian
+de codiciar? Que juyzio tiene un hombre que à ladro-
+nes deſcubre ſus teoros, con que deſcuydo duerme, ò
+como puede nunca repoſar, n temor que no ſe los hur-
+ten? Que fuee yo tan ignorante, que ya paava por
+ſemejante ﬂaqueza, viniee por interes à dar en otra
+mayor, loar en las converſaciones en preſencia de aque-
+os que pretendian ſer galanes de mi eſpoſa, las prendas
+y partes buenas que tenia, pidiendole, y aun mandan-
+dole que deſcubriee algunas coſas ilicitas, pechos, bra-
+ços, pies, y aun, y aun, (quiero caar, que me corro
+de imaginarlo) para que vieen  era gruea, ò delga-
+da, blanca, morena, ò roxa. Que ya todo anduviee
+de rompido, que aqueo que en otro tiempo abomina-
+va, con el uſo y frequentacion ſe me hiziee facil y en-
+tretenimiento? Que la conntiee vitas, y aun ſe las
+truxee à caſa, y dexandolas en eas, me bolvieſse à yr
+fuera, y ſobre todo quieſse hazerlos tontos à todos, para
+que me dieſsen à entender que creian ſer aqueo bueno
+y licito, endo depravado y malo? Que la hizieſse ſalir à
+ſolicitar comiones, y buſcarme ocupaciones à caſa de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1547" y="2637"/>
+	<Point x="1706" y="2637"/>
+	<Point x="1706" y="2717"/>
+	<Point x="1547" y="2717"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>per-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="536" y="2867"/>
+	<Point x="1302" y="2867"/>
+	<Point x="1302" y="2936"/>
+	<Point x="536" y="2936"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="313" y="141"/>
+	<Point x="313" y="209"/>
+	<Point x="343" y="217"/>
+	<Point x="393" y="216"/>
+	<Point x="437" y="209"/>
+	<Point x="437" y="141"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>340</Unicode></TextEquiv></TextRegion></Page></PcGts>

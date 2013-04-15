@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485192">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T07:53:43</Created>
+	<LastChange>2011-05-12T13:41:01</LastChange></Metadata>
+	<Page imageFilename="00485192.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="629" y="3027"/>
+	<Point x="1388" y="3027"/>
+	<Point x="1388" y="3091"/>
+	<Point x="629" y="3091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="478" y="199"/>
+	<Point x="1679" y="208"/>
+	<Point x="1668" y="2823"/>
+	<Point x="462" y="2827"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tornaua a la verdad, y a ſu trieza.
+Otro dia deſpues, le parecia
+Que la noche paada, bien pudiera
+Hauer pueo ſu lumbre, y que Leandro,
+Pudiera auer venido n peligro.
+Y mientras que 'e antojo le duraua,
+Era el morir y el fuerte congoxarſe.
+Era el darſe mil culpas, y el reñirſe,
+Era el quedar quexoſa de  ſola,
+Sin tener que dezir contra los vìentos.
+Y era el determinar con grandes fuerças,
+De no hazer otro tanto eotra noche.
+Mas deſpues que la noche era venida,
+Viendo la tempead toda en ſu fuerça,
+Midiendo la preſente y la paada:
+Via ſu proprio error abiertamente.
+Que diremos agora de Leandro
+Que diremos, no que padecia,
+Los miſmos accidentes y dolores.
+En entrambos ardia vn miſmo fuego:
+Hauia d' hazer por fuerça vn miſmo eﬀeto.
+Y aſli 'aua el cuytado aa en ſu playa,
+Lo mas del dia, y la noche, toda entera
+Triemente aentado en vna peña.
+Y ai la peña, y ſu alma ſe partian,
+Los golpes delas olas y gualmente.
+No le daua 'ſperança la fortuna,
+Que ſe hiziee la ſeña con tal tiempo.
+Mas era tan ardiente ſu deeo,
+Que total deſengaño, no ſufria.
+Y ai tenia el ojo, a ver ſu lumbre,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="735" y="100"/>
+	<Point x="1219" y="100"/>
+	<Point x="1219" y="185"/>
+	<Point x="735" y="185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r16" type="other">
+	<Coords>
+	<Point x="1223" y="108"/>
+	<Point x="1358" y="108"/>
+	<Point x="1358" y="197"/>
+	<Point x="1223" y="197"/></Coords></GraphicRegion></Page></PcGts>

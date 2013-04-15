@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440502">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T23:16:50</Created>
+	<LastChange>2011-07-05T14:26:03</LastChange></Metadata>
+	<Page imageFilename="00440502.tif" imageWidth="840" imageHeight="1640">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="75" y="107"/>
+	<Point x="162" y="105"/>
+	<Point x="183" y="90"/>
+	<Point x="825" y="92"/>
+	<Point x="816" y="1494"/>
+	<Point x="389" y="1509"/>
+	<Point x="363" y="1517"/>
+	<Point x="338" y="1506"/>
+	<Point x="73" y="1515"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cos dias pumos la pobre de tal
+forma, que mas parecia coraças
+viejas que arcaz, ſegun la claua-
+zõ, y tachuelas que tenia. Quan-
+do miamo vio que ſu remedio,
+no le ſeruia de nada, dixo : E-
+e arcaz ea tan mal tratado,
+y es de madera tan vieja, y ﬂo-
+xa, que no podra defenderſe de
+vn ratoncillo, y ea tal que  an-
+damos mas con el, nos dexata en
+blanco, y lo peor es, que aunque
+vale poco me hara falta, y me pon-
+dra en coa de tres, o quatro rea-
+les. El mejor remedio que hal-
+los, para eos ratones malditos
+pues el de haa aqui no aproue-
+cha es armar les por de dentro
+vna ratera. Buſco preada vna
+y con cortezas de queſo que a los
+vezinos pedia empre, el gato e-
+aua armado dentro del arca, lo
+que era para mi ngular auxilio:
+porque aunque no auia meneer</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="710" y="1499"/>
+	<Point x="817" y="1499"/>
+	<Point x="812" y="1551"/>
+	<Point x="707" y="1551"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſalſas</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="285" y="1585"/>
+	<Point x="568" y="1586"/>
+	<Point x="569" y="1612"/>
+	<Point x="282" y="1608"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="334" y="34"/>
+	<Point x="580" y="32"/>
+	<Point x="588" y="85"/>
+	<Point x="331" y="84"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="83" y="35"/>
+	<Point x="165" y="32"/>
+	<Point x="159" y="92"/>
+	<Point x="82" y="93"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>48</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444117">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T11:30:03</Created>
+	<LastChange>2011-12-19T11:39:26</LastChange></Metadata>
+	<Page imageFilename="00444117.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="335" y="17"/>
+	<Point x="1523" y="17"/>
+	<Point x="1523" y="217"/>
+	<Point x="335" y="217"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="176" y="223"/>
+	<Point x="1728" y="238"/>
+	<Point x="1738" y="2633"/>
+	<Point x="1556" y="2641"/>
+	<Point x="210" y="2689"/>
+	<Point x="138" y="2669"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tenga yo mas que todos, no me lo conenta
+v. m. padre mio: pues tambien lo es como
+hijo, pues es mi confeor, y a quien he ﬁado
+mialma, deſengañeme cõ verdad, que ſe vſan
+muy poco eas verdades. Ee concierto que‐
+rria hizieemos, los cinco que al preſente nos
+amamos en Chrio que como otros en eos
+tiempos ſe juntauan en ſecreto para contra
+ſu magead y para ordenar maldades y here-
+gias, procuraemos juntarnos alguna vez pa‐
+ra deſengañar vnos a otros, y dezir en lo que
+podriamos enmendarnos, y contentar mas a
+Dios, que no ay quien tãbien ſe conozca a 
+como conocen los  nos miran  es cõ amor,
+y cuydado de aprouecharnos, digo en ſecre‐
+to, por no ſe vſa ya ee Iẽguage, haa los pre
+dicadores van ordenando ſus ſermones pa‐
+ra no deſcontentar, buena intencion ternan, y
+la obra lo ſera, mas an ſe enmiendan pocos.
+Mas como no ſon muchos los  por los ſer‐
+mones dexan los vicios publicos? Sabe  me
+parece, porque tienen mucho ſeſo los que los
+predican. No ean n el con el gran fuego
+del amor de Dios como lo eauan los apoo
+les, y an caenta poco ea ama, no digo
+yo ſea tanta como eos tenian, mas querria
+que fuee mas de lo que veo. Sabe v. m. en</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="627" y="3037"/>
+	<Point x="1557" y="3049"/>
+	<Point x="1585" y="3150"/>
+	<Point x="615" y="3156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1558" y="94"/>
+	<Point x="1558" y="217"/>
+	<Point x="1725" y="217"/>
+	<Point x="1725" y="94"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>189</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1541" y="2669"/>
+	<Point x="1541" y="2766"/>
+	<Point x="1782" y="2766"/>
+	<Point x="1782" y="2669"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion></Page></PcGts>

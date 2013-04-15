@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438896">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T20:52:19</Created>
+	<LastChange>2011-06-24T14:04:23</LastChange></Metadata>
+	<Page imageFilename="00438896.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r5" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="286" y="57"/>
+	<Point x="337" y="50"/>
+	<Point x="987" y="54"/>
+	<Point x="983" y="127"/>
+	<Point x="351" y="143"/>
+	<Point x="290" y="143"/>
+	<Point x="275" y="128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GARCILASSO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="511" y="2095"/>
+	<Point x="977" y="2102"/>
+	<Point x="977" y="2130"/>
+	<Point x="968" y="2136"/>
+	<Point x="927" y="2140"/>
+	<Point x="881" y="2138"/>
+	<Point x="506" y="2136"/>
+	<Point x="500" y="2122"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1117" y="56"/>
+	<Point x="1117" y="136"/>
+	<Point x="1224" y="136"/>
+	<Point x="1224" y="56"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>79</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="95" y="158"/>
+	<Point x="102" y="1173"/>
+	<Point x="121" y="1456"/>
+	<Point x="100" y="2050"/>
+	<Point x="740" y="2020"/>
+	<Point x="1138" y="1988"/>
+	<Point x="1270" y="1950"/>
+	<Point x="1275" y="1510"/>
+	<Point x="1290" y="1285"/>
+	<Point x="1239" y="913"/>
+	<Point x="1198" y="639"/>
+	<Point x="1247" y="570"/>
+	<Point x="1269" y="345"/>
+	<Point x="1245" y="154"/>
+	<Point x="1190" y="147"/>
+	<Point x="969" y="150"/>
+	<Point x="796" y="141"/>
+	<Point x="743" y="150"/>
+	<Point x="696" y="149"/>
+	<Point x="657" y="143"/>
+	<Point x="583" y="143"/>
+	<Point x="428" y="145"/>
+	<Point x="347" y="149"/>
+	<Point x="198" y="140"/>
+	<Point x="97" y="158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>muerte, daños, enojos, ſangre, y guerra
+con ſolo amor ſe encierra, n reſpeo,
+y el amoroſo afeo, y zelo ardiente
+ﬁgurado, y preſente eà en la cara:
+y la conſorte cara preſuroſa,
+de vn tal plazer dudoſa, aunque lo via,
+el cueo le ceñia en ñudo erecho,
+de aqueos braços hecho delicados:
+de lagrimas preñados relumbrauan
+los ojos, que ſobrauan al Sol claro:
+con ſu Fernando caro, y ſeñor pio:
+la tierra, el cãpo, el rio, el mõte, el ano
+alegres a vna mano eauan todos:
+mas con diuerſos modos lo dezian:
+los muros parecian de otra altura:
+el campo en hermoſura de otras ﬂores
+pintaua mil colores diſconformes.
+Eaua el miſmo Tormes ﬁgurado,
+en torno rodeado de ſus Ninfas,
+vertiendo claras linfas con inancia,
+en mayor abundancia que ſolia.
+Del monte ſe veya el verde ſeno
+de cieruos to do eno, corços, gamos,
+que de los tiernos ramos vã rumiando</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="1171" y="2000"/>
+	<Point x="1182" y="1988"/>
+	<Point x="1214" y="1979"/>
+	<Point x="1246" y="1974"/>
+	<Point x="1262" y="2008"/>
+	<Point x="1262" y="2049"/>
+	<Point x="1172" y="2057"/>
+	<Point x="1169" y="2006"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="marginalia">
+	<Coords>
+	<Point x="1218" y="640"/>
+	<Point x="1235" y="604"/>
+	<Point x="1298" y="587"/>
+	<Point x="1338" y="581"/>
+	<Point x="1330" y="648"/>
+	<Point x="1300" y="690"/>
+	<Point x="1220" y="662"/>
+	<Point x="1217" y="644"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>197</Unicode></TextEquiv></TextRegion></Page></PcGts>

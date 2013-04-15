@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440163">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T12:20:18</Created>
+	<LastChange>2011-12-19T11:38:47</LastChange></Metadata>
+	<Page imageFilename="00440163.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/>
+	<RegionRefIndexed regionRef="r12" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="738" y="376"/>
+	<Point x="885" y="376"/>
+	<Point x="885" y="452"/>
+	<Point x="738" y="452"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>144</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r2" type="other">
+	<Coords>
+	<Point x="675" y="457"/>
+	<Point x="904" y="456"/>
+	<Point x="955" y="431"/>
+	<Point x="2634" y="457"/>
+	<Point x="2634" y="591"/>
+	<Point x="675" y="591"/></Coords></GraphicRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="1240" y="636"/>
+	<Point x="1574" y="635"/>
+	<Point x="2020" y="636"/>
+	<Point x="2020" y="750"/>
+	<Point x="1240" y="750"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIBRO VII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="679" y="809"/>
+	<Point x="2550" y="809"/>
+	<Point x="2550" y="1216"/>
+	<Point x="679" y="1216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De la medida del grado de Meridiano
+contiguo à el Equador en el Reyno
+de Quito.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="1227" y="1272"/>
+	<Point x="2018" y="1272"/>
+	<Point x="2018" y="1370"/>
+	<Point x="1227" y="1370"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SECCION I.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords>
+	<Point x="692" y="1446"/>
+	<Point x="2529" y="1446"/>
+	<Point x="2529" y="1737"/>
+	<Point x="692" y="1737"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Determinacion de la medida geometrica ſegun
+mis Obſervaciones.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="1246" y="1788"/>
+	<Point x="1968" y="1788"/>
+	<Point x="1968" y="1896"/>
+	<Point x="1246" y="1896"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITULO I.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="750" y="1966"/>
+	<Point x="2477" y="1966"/>
+	<Point x="2477" y="2114"/>
+	<Point x="750" y="2114"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Medida de la Baſe fundamental del Llano de Yaruquì.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="882" y="2352"/>
+	<Point x="878" y="2153"/>
+	<Point x="2596" y="2137"/>
+	<Point x="2597" y="3405"/>
+	<Point x="2280" y="3400"/>
+	<Point x="2224" y="3411"/>
+	<Point x="651" y="3411"/>
+	<Point x="665" y="2355"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eſpues de haverſe ampliamente tratado en la Intro‐
+duccion ſobre los motivos, que obligaron à dudar
+de la Figura eſphérica de la Tierra, que muchos años ha
+ſe tenía recibida, y hecho vèr, que el mejor modo de re‐
+ſolver, ò determinar la verdadera cone, en medir con
+la mayor juiﬁcacion, que fuere dable, las longitudes de
+dos grados de Meridiano terrere, el uno lo mas proximo,
+que ſe pudiere al Polo, y el otro ſobre el Equador, para
+que con eo,  ſe haare alguna diferencia en eas, ſea
+ſenble à los Obſervadores, y no ſe les confunda con los
+yerros, que pueden producir los Inrumentos, pues de
+ea diferencia ſe debe concluir la verdadera Figura de la
+Tierra, como queda notado en la Introduccion à ea</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="catch-word">
+	<Coords>
+	<Point x="2365" y="3410"/>
+	<Point x="2580" y="3410"/>
+	<Point x="2580" y="3505"/>
+	<Point x="2365" y="3505"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Obra;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="credit">
+	<Coords>
+	<Point x="961" y="4000"/>
+	<Point x="1958" y="4000"/>
+	<Point x="1958" y="4097"/>
+	<Point x="961" y="4097"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="drop-capital">
+	<Coords>
+	<Point x="679" y="2166"/>
+	<Point x="679" y="2350"/>
+	<Point x="876" y="2350"/>
+	<Point x="876" y="2166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D</Unicode></TextEquiv></TextRegion></Page></PcGts>

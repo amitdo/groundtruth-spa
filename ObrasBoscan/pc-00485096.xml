@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485096">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T18:42:33</Created>
+	<LastChange>2011-05-12T13:40:53</LastChange></Metadata>
+	<Page imageFilename="00485096.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/>
+	<RegionRefIndexed regionRef="r11" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1224" y="89"/>
+	<Point x="1692" y="89"/>
+	<Point x="1692" y="228"/>
+	<Point x="1224" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. LXIIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="392" y="349"/>
+	<Point x="1617" y="349"/>
+	<Point x="1617" y="685"/>
+	<Point x="392" y="685"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cancion: tu puedes ir donde quieres:
+Que aun que vas a peligro, endo mia:
+Iras bien, yendo n mi compañia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="406" y="1516"/>
+	<Point x="1496" y="1504"/>
+	<Point x="1485" y="1852"/>
+	<Point x="978" y="1855"/>
+	<Point x="927" y="1870"/>
+	<Point x="889" y="1864"/>
+	<Point x="526" y="1871"/>
+	<Point x="410" y="1856"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Como aquel que'n ſoñar guo reclue,
+Su guo procediendo de locura,
+Ai el imaginar con ſu ﬁgura
+Vanamente ſu gozo en mi conciue.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="411" y="1879"/>
+	<Point x="928" y="1878"/>
+	<Point x="939" y="1875"/>
+	<Point x="970" y="1868"/>
+	<Point x="988" y="1865"/>
+	<Point x="1588" y="1864"/>
+	<Point x="1657" y="2086"/>
+	<Point x="1594" y="2199"/>
+	<Point x="1207" y="2206"/>
+	<Point x="1098" y="2197"/>
+	<Point x="1078" y="2195"/>
+	<Point x="938" y="2193"/>
+	<Point x="840" y="2207"/>
+	<Point x="421" y="2203"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Otro bien en mi trie no ſe ſcriue,
+Sino es aquel, que mi penſar procura:
+De quanto ha do hecho en mi ventura,
+Lo ſolo imaginado es lo que biue.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="924" y="703"/>
+	<Point x="1178" y="703"/>
+	<Point x="1178" y="793"/>
+	<Point x="1142" y="803"/>
+	<Point x="924" y="793"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FIN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="765" y="1126"/>
+	<Point x="1193" y="1139"/>
+	<Point x="1246" y="1160"/>
+	<Point x="1275" y="1183"/>
+	<Point x="1283" y="1188"/>
+	<Point x="1299" y="1203"/>
+	<Point x="1348" y="1201"/>
+	<Point x="1406" y="1195"/>
+	<Point x="1463" y="1236"/>
+	<Point x="1400" y="1263"/>
+	<Point x="1354" y="1271"/>
+	<Point x="1300" y="1271"/>
+	<Point x="1283" y="1236"/>
+	<Point x="907" y="1236"/>
+	<Point x="760" y="1246"/>
+	<Point x="767" y="1206"/>
+	<Point x="710" y="1195"/>
+	<Point x="646" y="1195"/>
+	<Point x="628" y="1190"/>
+	<Point x="608" y="1139"/>
+	<Point x="626" y="1113"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ SONETO. ☜</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="credit">
+	<Coords>
+	<Point x="631" y="3017"/>
+	<Point x="1392" y="3017"/>
+	<Point x="1392" y="3090"/>
+	<Point x="631" y="3090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="404" y="2460"/>
+	<Point x="830" y="2457"/>
+	<Point x="1285" y="2453"/>
+	<Point x="1546" y="2475"/>
+	<Point x="1575" y="2692"/>
+	<Point x="1545" y="2698"/>
+	<Point x="1445" y="2687"/>
+	<Point x="1292" y="2693"/>
+	<Point x="1116" y="2718"/>
+	<Point x="414" y="2727"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A contemplar ſu gloria ya paada.
+O ſombra de remedio inconante:
+Ser en mi lo mejor lo que no es nada.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="395" y="2215"/>
+	<Point x="841" y="2218"/>
+	<Point x="935" y="2203"/>
+	<Point x="1078" y="2204"/>
+	<Point x="1256" y="2218"/>
+	<Point x="1576" y="2213"/>
+	<Point x="1594" y="2454"/>
+	<Point x="1464" y="2456"/>
+	<Point x="1294" y="2443"/>
+	<Point x="414" y="2452"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Teme mi coraçon d'ir adelante,
+Viendo'ar ſu dolor pueo en celada:
+Y ai rebuelue atras en vn inante</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="signature-mark">
+	<Coords>
+	<Point x="1262" y="2703"/>
+	<Point x="1262" y="2786"/>
+	<Point x="1466" y="2786"/>
+	<Point x="1466" y="2703"/>
+	<Point x="1442" y="2695"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>K iiij</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r14">
+	<Coords>
+	<Point x="1287" y="1137"/>
+	<Point x="1289" y="1188"/>
+	<Point x="1318" y="1200"/>
+	<Point x="1351" y="1199"/>
+	<Point x="1381" y="1195"/>
+	<Point x="1416" y="1189"/>
+	<Point x="1416" y="1137"/></Coords></GraphicRegion>
+	<GraphicRegion id="r15">
+	<Coords>
+	<Point x="622" y="1197"/>
+	<Point x="622" y="1262"/>
+	<Point x="744" y="1262"/>
+	<Point x="747" y="1217"/>
+	<Point x="741" y="1204"/>
+	<Point x="680" y="1200"/></Coords></GraphicRegion></Page></PcGts>

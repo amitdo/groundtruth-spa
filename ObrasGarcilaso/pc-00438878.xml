@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438878">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T07:49:57</Created>
+	<LastChange>2011-06-24T14:04:22</LastChange></Metadata>
+	<Page imageFilename="00438878.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/>
+	<RegionRefIndexed regionRef="r9" index="3"/>
+	<RegionRefIndexed regionRef="r10" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1125" y="45"/>
+	<Point x="1229" y="41"/>
+	<Point x="1229" y="122"/>
+	<Point x="1122" y="125"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>70</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="253" y="46"/>
+	<Point x="981" y="42"/>
+	<Point x="992" y="120"/>
+	<Point x="905" y="122"/>
+	<Point x="259" y="133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GARCILASSO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="114" y="146"/>
+	<Point x="1162" y="133"/>
+	<Point x="1161" y="200"/>
+	<Point x="1220" y="201"/>
+	<Point x="1217" y="260"/>
+	<Point x="1195" y="264"/>
+	<Point x="1196" y="276"/>
+	<Point x="720" y="286"/>
+	<Point x="702" y="298"/>
+	<Point x="688" y="297"/>
+	<Point x="681" y="294"/>
+	<Point x="672" y="284"/>
+	<Point x="554" y="289"/>
+	<Point x="501" y="308"/>
+	<Point x="476" y="290"/>
+	<Point x="287" y="293"/>
+	<Point x="250" y="318"/>
+	<Point x="237" y="316"/>
+	<Point x="216" y="294"/>
+	<Point x="116" y="296"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tal, qual jamas ſalido de otro parto,
+del primer glo al quarto vio la Luna.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="marginalia">
+	<Coords>
+	<Point x="1278" y="234"/>
+	<Point x="1315" y="233"/>
+	<Point x="1315" y="292"/>
+	<Point x="1250" y="298"/>
+	<Point x="1217" y="294"/>
+	<Point x="1223" y="236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>172</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="36" y="302"/>
+	<Point x="198" y="302"/>
+	<Point x="239" y="328"/>
+	<Point x="300" y="302"/>
+	<Point x="467" y="298"/>
+	<Point x="503" y="318"/>
+	<Point x="566" y="299"/>
+	<Point x="675" y="295"/>
+	<Point x="697" y="300"/>
+	<Point x="725" y="299"/>
+	<Point x="1207" y="301"/>
+	<Point x="1217" y="521"/>
+	<Point x="1149" y="533"/>
+	<Point x="1166" y="966"/>
+	<Point x="906" y="968"/>
+	<Point x="894" y="977"/>
+	<Point x="878" y="984"/>
+	<Point x="861" y="978"/>
+	<Point x="852" y="969"/>
+	<Point x="405" y="973"/>
+	<Point x="408" y="992"/>
+	<Point x="333" y="990"/>
+	<Point x="325" y="974"/>
+	<Point x="103" y="982"/>
+	<Point x="94" y="392"/>
+	<Point x="45" y="394"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En la pequeña cuna ſe leya
+vn nombre que dezia, Don Fernando,
+baxauan del hablando de dos cumbres
+aqueas nue ue lumbres de la vida,
+con ligera corrida yua con eas,
+qual luna con ereas, el mancebo
+intonſo, y rubio Febo: y en egando,
+por orden abraçando todas fueron
+el niño, que tuuieron luengamente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="marginalia">
+	<Coords>
+	<Point x="1209" y="821"/>
+	<Point x="1334" y="826"/>
+	<Point x="1331" y="907"/>
+	<Point x="1214" y="909"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>173</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="44" y="990"/>
+	<Point x="315" y="984"/>
+	<Point x="345" y="1007"/>
+	<Point x="412" y="1001"/>
+	<Point x="451" y="984"/>
+	<Point x="843" y="986"/>
+	<Point x="890" y="993"/>
+	<Point x="904" y="986"/>
+	<Point x="1228" y="984"/>
+	<Point x="1226" y="1123"/>
+	<Point x="1196" y="1130"/>
+	<Point x="1229" y="1151"/>
+	<Point x="1229" y="1211"/>
+	<Point x="1154" y="1200"/>
+	<Point x="1164" y="1356"/>
+	<Point x="1256" y="1356"/>
+	<Point x="1253" y="1725"/>
+	<Point x="656" y="1735"/>
+	<Point x="615" y="1757"/>
+	<Point x="584" y="1736"/>
+	<Point x="357" y="1730"/>
+	<Point x="350" y="1750"/>
+	<Point x="342" y="1753"/>
+	<Point x="318" y="1756"/>
+	<Point x="285" y="1750"/>
+	<Point x="281" y="1732"/>
+	<Point x="188" y="1733"/>
+	<Point x="124" y="1732"/>
+	<Point x="112" y="1070"/>
+	<Point x="42" y="1072"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vido como preſente de otra parte
+Mercurio eaua, y Marte cauto, y ﬁero:
+viẽdo elgran Cauaero, que encogido
+en el recien nacido cuerpo eaua:
+entonces lugar daua meſurado
+a Venus, que a ſu la do eaua puea:
+ea con mano prea, y abundante,
+near ſobre el infante deſparzia:
+mas Febo la deſuia de aquel tierno
+niño, y daua el gouierno a ſus herma-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="marginalia">
+	<Coords>
+	<Point x="1231" y="1084"/>
+	<Point x="1326" y="1084"/>
+	<Point x="1325" y="1149"/>
+	<Point x="1228" y="1142"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>174</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="72" y="1743"/>
+	<Point x="247" y="1743"/>
+	<Point x="316" y="1767"/>
+	<Point x="340" y="1763"/>
+	<Point x="372" y="1743"/>
+	<Point x="577" y="1743"/>
+	<Point x="614" y="1767"/>
+	<Point x="659" y="1743"/>
+	<Point x="1245" y="1735"/>
+	<Point x="1245" y="1956"/>
+	<Point x="866" y="1982"/>
+	<Point x="851" y="1975"/>
+	<Point x="832" y="1971"/>
+	<Point x="70" y="1983"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Del cargo eã vfanas todas nueue (nas.
+el tiẽpo el paſo mueue, el niño crece,
+y en tierna edad ﬂorece, y ſe leuanta,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="catch-word">
+	<Coords>
+	<Point x="1070" y="1980"/>
+	<Point x="1251" y="1974"/>
+	<Point x="1256" y="2027"/>
+	<Point x="1069" y="2024"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>como</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="credit">
+	<Coords>
+	<Point x="496" y="2096"/>
+	<Point x="975" y="2095"/>
+	<Point x="975" y="2138"/>
+	<Point x="495" y="2139"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

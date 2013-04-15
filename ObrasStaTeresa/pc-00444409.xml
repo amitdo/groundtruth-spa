@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444409">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:06:32</Created>
+	<LastChange>2011-12-19T11:39:43</LastChange></Metadata>
+	<Page imageFilename="00444409.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="305" y="94"/>
+	<Point x="1453" y="94"/>
+	<Point x="1453" y="216"/>
+	<Point x="305" y="216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="87" y="235"/>
+	<Point x="1691" y="231"/>
+	<Point x="1751" y="2662"/>
+	<Point x="1568" y="2650"/>
+	<Point x="1435" y="2668"/>
+	<Point x="1393" y="2648"/>
+	<Point x="1100" y="2645"/>
+	<Point x="956" y="2695"/>
+	<Point x="89" y="2685"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>porque no ſe toma de burla quando ay deſ-
+cuydo en tratar con las gentes mucho mas 
+merecen, no que tan de veras lo toman por
+aﬀrenta, que es meneer hazer ſatisfaciones
+de vuera intẽcion,  ay, como digo, deſcuy-
+do, y aun plega a Dios lo crean. Torno a de-
+zir, que cierto yo no ſabia como biuir, por
+ſe ve vna pobre de alma fatigada. Ve que la
+mandan que occupe empre el penſamiento
+en Dios, y que es neceario traerle en el para
+librarſe de muchos peligros. Por otro cabo
+ve que no cũple perder punto en puntos de
+mũdo, ſo pena de no dexar de dar ocaõ a 
+ſe tienten los que tienen ſu honra puea en
+eos puntos. Trayame fatigada, y nunca aca-
+baua de hazer ſatisfaciones, porque no podia
+aunque lo eudiaua, dexar de hazer muchas
+faltas en eo, que como digo, no ſe tiene en el
+mundo por pequeña. Y es verdad que en las
+religiones que de razon auiamos en eos ca-
+ſos de ear deſculpados, ay diſculpa? no  di-
+zen  los moneerios ha de ſer corte de criã-
+ça, y de ſaberla, yo cierto que no puedo en-
+tender eo, he penſado  dixo algun ſanto
+que auia de ſer corte para enſeñar a los que
+quieen ſer corteſanos del cieIo, y lo hã en-
+tendido al reues, porque traer ee cuydado</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1461" y="2670"/>
+	<Point x="1566" y="2657"/>
+	<Point x="1668" y="2666"/>
+	<Point x="1660" y="2716"/>
+	<Point x="1654" y="2752"/>
+	<Point x="1440" y="2767"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>quien</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="619" y="3061"/>
+	<Point x="1569" y="3061"/>
+	<Point x="1569" y="3152"/>
+	<Point x="619" y="3152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1483" y="117"/>
+	<Point x="1483" y="223"/>
+	<Point x="1682" y="223"/>
+	<Point x="1682" y="117"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>483</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1090" y="2651"/>
+	<Point x="1085" y="2764"/>
+	<Point x="1375" y="2764"/>
+	<Point x="1374" y="2655"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hh 2</Unicode></TextEquiv></TextRegion></Page></PcGts>

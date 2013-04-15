@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443809">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T10:00:42</Created>
+	<LastChange>2010-12-23T13:52:32</LastChange></Metadata>
+	<Page imageFilename="00443809.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="894" y="33"/>
+	<Point x="1416" y="33"/>
+	<Point x="1416" y="135"/>
+	<Point x="894" y="135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Declaracion de la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="352" y="173"/>
+	<Point x="1877" y="175"/>
+	<Point x="1854" y="2591"/>
+	<Point x="1656" y="2594"/>
+	<Point x="1637" y="2620"/>
+	<Point x="1522" y="2624"/>
+	<Point x="301" y="2618"/>
+	<Point x="360" y="1103"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>han ya ido i apartado lexos, las flores han parecido yã
+en nuera tierra: y egado el tiempo del podar, i la
+voz de la Tortolica ſe ha oìdo en nuera tierra: en la
+cual voz del Eſpoſo que la habla en lo interior del al-
+ma ente la Eſpoſa ﬁn de males i principio de bienes,
+en cuyo refrigerio i amparo i ſentimiento ſabroſo,
+ea tambien dà ſu voz de dulce Filomena con nue-
+vo canto a Dios juntamente con el que la cauſa, por-
+que  el dà la voz a ea, es para que ea en uno la dè
+junto con el a Dios, porque eſa es la pretenon i de-
+ſeo del: ſegun tambien el meſmo Eſpoſo lo deſea en los
+Cantares, que hablando con ea dize: Surge amica
+mea, ſpecioſamea, &amp; veni: Columba mea in foramini-
+bus petr in caberna maceri oende mihi faciem tuam: ſo
+net vox tua in auribus meis; vox enim tua dulcis, &amp; facies
+tua decora. Levantate amiga mia, i ven Paloma mia
+en los agujeros de la piedra i caberna de la cerca, mueſ
+trame tu roro, ſuene tu voz en mis oidos, porque tu
+voz es dulce i tu hermoſo roro. Los oidos de Dios g
+niﬁcan aqui los deſeos de Dios, que tiene de que le
+alabemos perfetamente: porque la voz, que aqui pide a
+la Eſpoſa, es alabança perfeca i jubilacion a Dios, la
+cual voz, para que ſea perfeca, dize el Eſpoſo, que la
+dè i ſuene en las cabernas de la piedra, que ſon las inte
+ligencias amoroſas de los mierios de Crio, en que di
+ximos arriba, eava el alma unida con el, que porque
+en ea union el alma jubila i alaba à Dios con el meſ-
+mo Dios, como deziamos del amor, es alabança per fe
+ta: porque eando el alma en perfecion, haze las obras
+perfetas, i a ea voz es mui dulce para Dios i para
+el alma, i a ſe gue: Porque tu voz es dulce, es a ſa-
+ber, no ſolo para ti no tambien para mi, porque eſ-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="769" y="2937"/>
+	<Point x="1424" y="2937"/>
+	<Point x="1424" y="3000"/>
+	<Point x="769" y="3000"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="360" y="60"/>
+	<Point x="360" y="150"/>
+	<Point x="516" y="150"/>
+	<Point x="516" y="60"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>796</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1651" y="2611"/>
+	<Point x="1651" y="2697"/>
+	<Point x="1842" y="2697"/>
+	<Point x="1842" y="2611"/>
+	<Point x="1775" y="2598"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tando</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="marginalia">
+	<Coords>
+	<Point x="73" y="1034"/>
+	<Point x="73" y="1163"/>
+	<Point x="350" y="1163"/>
+	<Point x="350" y="1034"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cãt.2. 13</Unicode></TextEquiv></TextRegion></Page></PcGts>

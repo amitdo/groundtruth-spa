@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442895">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:20:21</Created>
+	<LastChange>2012-03-12T14:12:33</LastChange></Metadata>
+	<Page imageFilename="00442895.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="445" y="56"/>
+	<Point x="1167" y="74"/>
+	<Point x="1182" y="159"/>
+	<Point x="913" y="155"/>
+	<Point x="622" y="153"/>
+	<Point x="537" y="175"/>
+	<Point x="444" y="175"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="193" y="173"/>
+	<Point x="416" y="181"/>
+	<Point x="452" y="181"/>
+	<Point x="539" y="178"/>
+	<Point x="621" y="158"/>
+	<Point x="903" y="158"/>
+	<Point x="1300" y="183"/>
+	<Point x="1457" y="175"/>
+	<Point x="1450" y="2058"/>
+	<Point x="1410" y="2061"/>
+	<Point x="1342" y="2058"/>
+	<Point x="1016" y="2081"/>
+	<Point x="189" y="2104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>peta que a nueros oydos ega, me parece, que a
+alguna nueua auentura me ama. El cabrero que
+ya eaua canſado de moler, y ſer molido, le dexò
+luego, y dõ Quixote ſe puſo en pie, boluiendo aſsi
+miſmo el roro adonde el ſon ſe oya, y vio adeſ-
+hora que por vn recueo baxauan muchos hom-
+bres veidos de blanco, a modo de diciplinantes.
+Era el caſo, que aquel año auian las nuues negado
+ſu rocio a la tierra, y por todos los lugares de aque
+a comarca ſe hazian proceſsiones, rogatiuas, y
+diciplinas, pidiẽdo a Dios abriee las manos de ſu
+miſericordia, y les ouiee: y para ee efeo la
+gente de vna aldea que ai junto eaua venia
+en proceſsion a vna deuota ermita, que en vn re-
+cueo de aquel vae auia. Don Quixote que vio
+los eraños trajes de los diciplinantes, n paar-
+le por la memoria las muchas vezes que los auia
+de auer vio, ſe imaginò, que era coſa de auentu-
+ra, y que a el ſolo tocaua, como a cauaero andan-
+te, el acometerla: y conﬁrmole mas ea imagina-
+cion penſar que vna imagen que trayan cubierta
+de luto fuee alguna principal ſeñora que euauã
+por fuerça aqueos foones, y deſcomedidos Ma
+landrines, y como eo le cayo en las mientes, con
+grã ligereza arremetio a Rozinãte,  paciendo an
+daua, quitandole del arzon el freno, y el adarga, y
+en vn pũto le enfrenò, y pidiẽdo a Sãcho ſu eſpada
+ſubio ſobre Rozinãte, y embraçò ſu adarga, y di-
+xo en alta voz a todos los que preſentes eauan:
+Agora valeroſa cõpañia veredes quãto importa 
+aya en el mundo cauaeros que profeen la ordẽ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1280" y="2064"/>
+	<Point x="1334" y="2060"/>
+	<Point x="1350" y="2060"/>
+	<Point x="1409" y="2062"/>
+	<Point x="1418" y="2130"/>
+	<Point x="1275" y="2125"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="441" y="2291"/>
+	<Point x="1136" y="2284"/>
+	<Point x="1128" y="2361"/>
+	<Point x="444" y="2359"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1271" y="101"/>
+	<Point x="1265" y="172"/>
+	<Point x="1299" y="179"/>
+	<Point x="1421" y="168"/>
+	<Point x="1420" y="102"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>311</Unicode></TextEquiv></TextRegion></Page></PcGts>

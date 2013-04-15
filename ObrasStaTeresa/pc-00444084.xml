@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444084">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:56:05</Created>
+	<LastChange>2011-12-19T11:39:24</LastChange></Metadata>
+	<Page imageFilename="00444084.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1001" y="85"/>
+	<Point x="1637" y="82"/>
+	<Point x="1618" y="192"/>
+	<Point x="996" y="199"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="480" y="212"/>
+	<Point x="2041" y="212"/>
+	<Point x="2058" y="2612"/>
+	<Point x="1580" y="2614"/>
+	<Point x="1530" y="2644"/>
+	<Point x="464" y="2639"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no aborrecen a el ſpiritu, ni le ignoran,
+porque en la ſagrada eſcritura que tra-
+tan empre haan la verdad del buen
+eſpiritu. Tengo para mi que perſona
+de oracion que trate con letrados, 
+ea no ſe quiere engañar no la enga-
+ñara el demonio con iuones, porque
+creo temen en gran manera las letras
+humildes y virtuoſas, y ſaben ſeran deſ-
+cubiertos y ſaldran con perdida. He di-
+cho eo porque ay opiniones de que
+no ſon letrados para gente de oracion,
+no tienen ſpiritu: ya dixe es meneer
+ſpiritual maero, mas  ee no es le-
+trado gran incoueniente es, y ſera mu-
+cha ayuda tratar con eos como ſean
+virtuoſos, aunque no tenga ſpiritu nos
+aprouechara y Dios le dara a entender
+lo que ha de enſeñar, y aun le hara
+ſpiritual para que nos aproueche, y eo
+no lo digo n auerlo prouado y acae-
+cido me a mi con mas de dos. Digo pues
+que para rendirſe vn alma del todo a
+ear ſugeta a ſolo vn maero, que yer-
+ra mucho en no procurar que ſea tal,
+eſpecial  es religioſo, pues ha de ear
+ſugeto a ſu perlado, que por ventura le</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="594" y="3059"/>
+	<Point x="1627" y="3059"/>
+	<Point x="1627" y="3152"/>
+	<Point x="594" y="3152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="492" y="91"/>
+	<Point x="492" y="198"/>
+	<Point x="678" y="198"/>
+	<Point x="678" y="91"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>156</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1882" y="2622"/>
+	<Point x="1882" y="2708"/>
+	<Point x="2031" y="2708"/>
+	<Point x="2031" y="2622"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>fal.</Unicode></TextEquiv></TextRegion></Page></PcGts>

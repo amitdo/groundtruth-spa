@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441918">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T10:15:29</Created>
+	<LastChange>2011-07-05T14:26:40</LastChange></Metadata>
+	<Page imageFilename="00441918.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r15" index="0"/>
+	<RegionRefIndexed regionRef="r18" index="1"/>
+	<RegionRefIndexed regionRef="r19" index="2"/>
+	<RegionRefIndexed regionRef="r20" index="3"/>
+	<RegionRefIndexed regionRef="r22" index="4"/>
+	<RegionRefIndexed regionRef="r21" index="5"/>
+	<RegionRefIndexed regionRef="r23" index="6"/>
+	<RegionRefIndexed regionRef="r24" index="7"/>
+	<RegionRefIndexed regionRef="r25" index="8"/>
+	<RegionRefIndexed regionRef="r26" index="9"/>
+	<RegionRefIndexed regionRef="r30" index="10"/>
+	<RegionRefIndexed regionRef="r31" index="11"/>
+	<RegionRefIndexed regionRef="r32" index="12"/>
+	<RegionRefIndexed regionRef="r33" index="13"/>
+	<RegionRefIndexed regionRef="r34" index="14"/>
+	<RegionRefIndexed regionRef="r28" index="15"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="193" y="251"/>
+	<Point x="193" y="496"/>
+	<Point x="310" y="525"/>
+	<Point x="1027" y="496"/>
+	<Point x="1027" y="251"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mi dinero deſpavìla:
+El que la dora, es Medoro;
+El que no peejo, i cuero;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="header">
+	<Coords>
+	<Point x="837" y="155"/>
+	<Point x="837" y="213"/>
+	<Point x="1320" y="213"/>
+	<Point x="1320" y="155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MVSA V.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="page-number">
+	<Coords>
+	<Point x="1765" y="144"/>
+	<Point x="1765" y="237"/>
+	<Point x="1962" y="237"/>
+	<Point x="1962" y="144"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>329</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1131" y="255"/>
+	<Point x="1131" y="417"/>
+	<Point x="1591" y="421"/>
+	<Point x="1900" y="417"/>
+	<Point x="1900" y="255"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En Verano toma el acero,
+I en todos tiempos el oro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="heading">
+	<Coords>
+	<Point x="637" y="534"/>
+	<Point x="637" y="596"/>
+	<Point x="752" y="600"/>
+	<Point x="1010" y="594"/>
+	<Point x="1390" y="590"/>
+	<Point x="1400" y="534"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LET. SATYRICA XV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="334" y="593"/>
+	<Point x="334" y="748"/>
+	<Point x="1744" y="748"/>
+	<Point x="1744" y="593"/>
+	<Point x="1674" y="593"/>
+	<Point x="1025" y="600"/>
+	<Point x="1010" y="603"/>
+	<Point x="834" y="609"/>
+	<Point x="766" y="606"/>
+	<Point x="647" y="603"/>
+	<Point x="431" y="600"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eà eſcrita a ſugeto particular, en occaon de ha-
+ber ſalido a jugar cañas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="269" y="768"/>
+	<Point x="225" y="800"/>
+	<Point x="225" y="854"/>
+	<Point x="249" y="926"/>
+	<Point x="322" y="947"/>
+	<Point x="338" y="951"/>
+	<Point x="364" y="946"/>
+	<Point x="374" y="940"/>
+	<Point x="577" y="929"/>
+	<Point x="891" y="927"/>
+	<Point x="889" y="782"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ste  que es corredor,
+Que los otros no.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="drop-capital">
+	<Coords>
+	<Point x="117" y="775"/>
+	<Point x="117" y="924"/>
+	<Point x="227" y="924"/>
+	<Point x="230" y="893"/>
+	<Point x="226" y="877"/>
+	<Point x="214" y="862"/>
+	<Point x="216" y="821"/>
+	<Point x="206" y="789"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="113" y="937"/>
+	<Point x="112" y="999"/>
+	<Point x="179" y="1031"/>
+	<Point x="171" y="1536"/>
+	<Point x="232" y="1537"/>
+	<Point x="251" y="1545"/>
+	<Point x="283" y="1547"/>
+	<Point x="302" y="1544"/>
+	<Point x="312" y="1521"/>
+	<Point x="332" y="1525"/>
+	<Point x="632" y="1524"/>
+	<Point x="996" y="1526"/>
+	<Point x="985" y="1101"/>
+	<Point x="893" y="954"/>
+	<Point x="888" y="945"/>
+	<Point x="578" y="935"/>
+	<Point x="384" y="949"/>
+	<Point x="374" y="946"/>
+	<Point x="359" y="949"/>
+	<Point x="347" y="957"/>
+	<Point x="338" y="960"/>
+	<Point x="282" y="959"/>
+	<Point x="283" y="949"/>
+	<Point x="213" y="939"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ha de eſpantar las ereas
+Con marabias erañas,
+Que al ﬁn es hõbre de cañas,
+Por parecer hecho deas:
+Todos le guen las hueas,
+I el vuela como un açor.
+Ee  que es corredor.
+Que los otros no.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="103" y="1544"/>
+	<Point x="94" y="1602"/>
+	<Point x="172" y="1631"/>
+	<Point x="176" y="2052"/>
+	<Point x="313" y="2055"/>
+	<Point x="354" y="2055"/>
+	<Point x="373" y="2068"/>
+	<Point x="402" y="2073"/>
+	<Point x="417" y="2055"/>
+	<Point x="438" y="2063"/>
+	<Point x="566" y="2056"/>
+	<Point x="795" y="2061"/>
+	<Point x="1002" y="2047"/>
+	<Point x="1003" y="1544"/>
+	<Point x="635" y="1530"/>
+	<Point x="324" y="1533"/>
+	<Point x="317" y="1552"/>
+	<Point x="244" y="1553"/>
+	<Point x="236" y="1541"/>
+	<Point x="117" y="1541"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Todos los otros ſocorre,
+A todos los deja atras,
+Porque el corre con compas,
+Porque con ſus piernas corre;
+Ninguno hai cõ quiẽ ſe ahorre
+Ni perdona a ſu Señor.
+Ee  que es corredor, &amp;c.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="93" y="2065"/>
+	<Point x="84" y="2134"/>
+	<Point x="176" y="2150"/>
+	<Point x="166" y="2575"/>
+	<Point x="379" y="2577"/>
+	<Point x="386" y="2598"/>
+	<Point x="417" y="2588"/>
+	<Point x="458" y="2572"/>
+	<Point x="999" y="2580"/>
+	<Point x="997" y="2073"/>
+	<Point x="809" y="2065"/>
+	<Point x="793" y="2065"/>
+	<Point x="761" y="2077"/>
+	<Point x="568" y="2061"/>
+	<Point x="424" y="2079"/>
+	<Point x="370" y="2086"/>
+	<Point x="302" y="2063"/>
+	<Point x="230" y="2062"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Miradle, que bien que bate,
+Notad, que haçe marabias,
+Pues pica con las rodias,
+Mas que con el acicate:
+Ninguno hai, que ſe reſcate
+de ſu contrario, mejor.
+Ee  que es corredor, &amp;c.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="105" y="2594"/>
+	<Point x="93" y="2680"/>
+	<Point x="160" y="2718"/>
+	<Point x="181" y="2880"/>
+	<Point x="233" y="2897"/>
+	<Point x="986" y="2886"/>
+	<Point x="986" y="2593"/>
+	<Point x="662" y="2584"/>
+	<Point x="470" y="2586"/>
+	<Point x="398" y="2606"/>
+	<Point x="363" y="2596"/>
+	<Point x="351" y="2582"/>
+	<Point x="265" y="2584"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El cabao pone grima,
+Pues parece,  ſe enfoſca,
+Mas, que corre con la moſca,
+Que con Cabaero encima:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="signature-mark">
+	<Coords>
+	<Point x="1541" y="2889"/>
+	<Point x="1541" y="2968"/>
+	<Point x="1679" y="2968"/>
+	<Point x="1679" y="2889"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tt</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="catch-word">
+	<Coords>
+	<Point x="1819" y="2891"/>
+	<Point x="1812" y="2973"/>
+	<Point x="1848" y="2979"/>
+	<Point x="1924" y="2975"/>
+	<Point x="1923" y="2900"/>
+	<Point x="1905" y="2890"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="credit">
+	<Coords>
+	<Point x="686" y="3131"/>
+	<Point x="686" y="3196"/>
+	<Point x="1462" y="3196"/>
+	<Point x="1462" y="3131"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="1112" y="779"/>
+	<Point x="1103" y="1003"/>
+	<Point x="1292" y="996"/>
+	<Point x="1324" y="993"/>
+	<Point x="1350" y="1016"/>
+	<Point x="1362" y="1013"/>
+	<Point x="1376" y="998"/>
+	<Point x="1791" y="1006"/>
+	<Point x="1928" y="1006"/>
+	<Point x="1931" y="789"/>
+	<Point x="1913" y="774"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Miradle que bien le arrima
+los çancajos el Dotor.
+Ee  que es corredor, &amp;c.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="1048" y="1016"/>
+	<Point x="1088" y="1596"/>
+	<Point x="1300" y="1596"/>
+	<Point x="1327" y="1620"/>
+	<Point x="1618" y="1601"/>
+	<Point x="1769" y="1611"/>
+	<Point x="1928" y="1602"/>
+	<Point x="1919" y="1011"/>
+	<Point x="1418" y="1013"/>
+	<Point x="1399" y="1006"/>
+	<Point x="1371" y="1011"/>
+	<Point x="1351" y="1023"/>
+	<Point x="1342" y="1013"/>
+	<Point x="1317" y="1011"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Como diablos puede ſer
+Hombre de Letras fundado?
+Pues nunca el que es buen Le-
+trado,
+Tiene tan mal parecer:
+A  ſe viene a correr
+El pobre Legislador:
+Ee  que es corredor, &amp;c.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="1041" y="1604"/>
+	<Point x="1034" y="1651"/>
+	<Point x="1104" y="2031"/>
+	<Point x="1117" y="2122"/>
+	<Point x="1307" y="2119"/>
+	<Point x="1314" y="2120"/>
+	<Point x="1323" y="2122"/>
+	<Point x="1335" y="2134"/>
+	<Point x="1342" y="2138"/>
+	<Point x="1348" y="2137"/>
+	<Point x="1351" y="2136"/>
+	<Point x="1353" y="2135"/>
+	<Point x="1356" y="2118"/>
+	<Point x="1760" y="2135"/>
+	<Point x="1944" y="2134"/>
+	<Point x="1941" y="1620"/>
+	<Point x="1657" y="1613"/>
+	<Point x="1334" y="1627"/>
+	<Point x="1296" y="1625"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De trapos, como muñeca,
+Va con adarga a burlarſe,
+Pudiendo todo adargarſe
+Con un parche de xaqueca:
+Babieca ſobre Babieca
+Son cabao, i picador.
+Ee  que es corredor, &amp;c.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="1045" y="2133"/>
+	<Point x="1030" y="2130"/>
+	<Point x="1030" y="2177"/>
+	<Point x="1086" y="2645"/>
+	<Point x="1311" y="2649"/>
+	<Point x="1325" y="2665"/>
+	<Point x="1396" y="2661"/>
+	<Point x="1694" y="2652"/>
+	<Point x="1709" y="2654"/>
+	<Point x="1719" y="2659"/>
+	<Point x="1764" y="2659"/>
+	<Point x="1961" y="2662"/>
+	<Point x="1948" y="2151"/>
+	<Point x="1349" y="2138"/>
+	<Point x="1347" y="2138"/>
+	<Point x="1339" y="2139"/>
+	<Point x="1334" y="2137"/>
+	<Point x="1242" y="2134"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No hai coſa, a que no acometa,
+Con parecer el cuitado
+Vn eſparrago barbado,
+I una leſna a la gineta:
+Mirad, que bien que ſe aprieta
+A la a el pecador.
+Ee  que es corredor, &amp;c.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords>
+	<Point x="1027" y="2668"/>
+	<Point x="1027" y="2879"/>
+	<Point x="1796" y="2879"/>
+	<Point x="1881" y="2886"/>
+	<Point x="1893" y="2886"/>
+	<Point x="1927" y="2879"/>
+	<Point x="1924" y="2672"/>
+	<Point x="1862" y="2665"/>
+	<Point x="1652" y="2664"/>
+	<Point x="1335" y="2671"/>
+	<Point x="1323" y="2673"/>
+	<Point x="1313" y="2661"/>
+	<Point x="1291" y="2656"/>
+	<Point x="1121" y="2655"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quien hai que con el apuee,
+A quien tiene mas donaire,
+Pues  otros corren con aire,</Unicode></TextEquiv></TextRegion></Page></PcGts>

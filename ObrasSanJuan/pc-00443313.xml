@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443313">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T15:54:29</Created>
+	<LastChange>2010-12-30T06:46:05</LastChange></Metadata>
+	<Page imageFilename="00443313.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="382" y="108"/>
+	<Point x="382" y="204"/>
+	<Point x="526" y="204"/>
+	<Point x="526" y="108"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>302</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="791" y="86"/>
+	<Point x="791" y="221"/>
+	<Point x="1578" y="221"/>
+	<Point x="1578" y="86"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subida del monte Carmelo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="373" y="239"/>
+	<Point x="334" y="2082"/>
+	<Point x="478" y="2156"/>
+	<Point x="673" y="2239"/>
+	<Point x="756" y="2260"/>
+	<Point x="845" y="2292"/>
+	<Point x="892" y="2298"/>
+	<Point x="924" y="2301"/>
+	<Point x="962" y="2291"/>
+	<Point x="1041" y="2298"/>
+	<Point x="1079" y="2296"/>
+	<Point x="1128" y="2295"/>
+	<Point x="1152" y="2300"/>
+	<Point x="1178" y="2302"/>
+	<Point x="1262" y="2305"/>
+	<Point x="1294" y="2305"/>
+	<Point x="1526" y="2239"/>
+	<Point x="1734" y="2130"/>
+	<Point x="1795" y="2100"/>
+	<Point x="1856" y="2091"/>
+	<Point x="1873" y="239"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>la vida eterna, porque no pretendieron en eas la hon
+ra i gloria que es de ſolo Dios, i ſu amor ſobre toda.
+Debe pues gozarſe el Criiano no en  haze buenas
+obras, i gue buenas coumbres, no en  las haze ſo
+lo por amor de Dios n otro reſpeto alguno. Porque
+quanto ſon para mayor premio de gloria, hechas ſolo
+por ſervir a Dios; tanto para mayor conſuon ſuya
+ſer. delante de Dios, quanto mas le uvieren movi-
+do otros reſpetos. Para endereçar pues el Gozo a Dios
+en los bienes Morales, ha de advertir el Criiano,
+que el valor de ſus buenas obras, ayunos, limoſnas,
+penitencias, i oraciones, &amp;c. que no ſe funda tanto
+en la cantidad i calidad deas, no en el amor de
+Dios que el eva en eas; i que entonces van tanto
+mas caliﬁcadas, quanto con mas puro i entero amor
+de Dios van hechas, i menos el quiere interes acà, i
+aà deas de Gozo, guo, conſuelo, i alabança. I por
+eſo ni ha de aſentar el coraçon en el guo, conſuelo, i
+ſabor, i los demas intereſes que ſuelen traer congo los
+buenos exercicios i obras, no recoger el Gozo a Dios,
+deſeando ſervir a Dios con eas; i purgandoſe i que-
+dandoſe a eſcuras dee Gozo: querer que ſolo Dios
+ſea el que ſe goze deas, i gue deas en eſcondido
+n algun otro reſpeto i jugo, que la honra i gloria do
+Dios . I a recogera en Dios toda la fuerça
+de la Voluntad acerca de los
+bienes Morales.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r8">
+	<Coords>
+	<Point x="978" y="2304"/>
+	<Point x="978" y="2392"/>
+	<Point x="1137" y="2392"/>
+	<Point x="1137" y="2304"/></Coords></SeparatorRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1660" y="2621"/>
+	<Point x="1660" y="2701"/>
+	<Point x="1821" y="2701"/>
+	<Point x="1821" y="2621"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C A-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="775" y="2935"/>
+	<Point x="775" y="2991"/>
+	<Point x="1420" y="2991"/>
+	<Point x="1420" y="2935"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

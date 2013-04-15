@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440468">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T23:43:43</Created>
+	<LastChange>2011-07-05T14:26:01</LastChange></Metadata>
+	<Page imageFilename="00440468.tif" imageWidth="876" imageHeight="1640">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="359" y="32"/>
+	<Point x="359" y="95"/>
+	<Point x="625" y="95"/>
+	<Point x="625" y="32"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="118" y="21"/>
+	<Point x="229" y="21"/>
+	<Point x="229" y="92"/>
+	<Point x="118" y="92"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>14</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="78" y="98"/>
+	<Point x="864" y="98"/>
+	<Point x="840" y="1526"/>
+	<Point x="78" y="1523"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>piẽſo que me ntio, y de ai ade-
+lante mudo propoto, metiẽdo el
+jarro entre las piernas, y atapãdo-
+lo cõ la mano, y aſ beuia ſeguro.
+Yo como eaua hecho al vino,
+moria por el, y viendo que aquel
+remedio dela paja no me aproue-
+chaua ni valia, determine de ha-
+zer enel ſuelo del jarro vna fuen-
+tezia, y agujero ſutil, y delicada‑
+mente con vna muy delgada tor-
+tia de cera taparlo, y quando co-
+miamos (ﬁngiendo tener frio)
+me entraua entre las piernas del
+trie ciego a calentar en la po-
+brezia lumbre que teniamos, y
+al calor dea derretida la ce-
+ra, por ſer muy poca, comença-
+ua la fuentezia a deilarme en
+la boca, la qual yo ponia, de tal
+manera, que maldita la gota ſe
+perdia. Quando el pobreto yua a
+beuer, no haaua nada, eſpantaua
+fe, maldeziaſe, daua al diablo al</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="285" y="1586"/>
+	<Point x="285" y="1612"/>
+	<Point x="571" y="1612"/>
+	<Point x="571" y="1586"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

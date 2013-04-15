@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444083">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:55:59</Created>
+	<LastChange>2011-12-19T11:39:24</LastChange></Metadata>
+	<Page imageFilename="00444083.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="319" y="62"/>
+	<Point x="1514" y="74"/>
+	<Point x="1499" y="182"/>
+	<Point x="303" y="176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="189" y="207"/>
+	<Point x="1726" y="210"/>
+	<Point x="1742" y="2621"/>
+	<Point x="162" y="2630"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tender que es mejor que le obedezca
+a el que no a ſu ſuperior, y n ma-
+licia ſuya, no penſando acierta: por-
+que no es de religion parecerle ha
+es an, y  es muger caſada dira
+la que es mejor quando ha de enten-
+der en ſu caſa, earſe en oracion aun-
+que deſcontente a ſu marido, an
+que no ſabe ordenar el tiempo, ni
+las coſas, para que vayan conforme
+a verdad, por faltarle a el la luz,
+no la da a los otros aunque quiera.
+Y aunque para eo parece no ſon me-
+neer letras, mi opinion ha do em-
+pre y ſera, que qualquiera Chriia-
+no procure tratar con quien las ten-
+ga buenas  puede, y mientras mas
+mejor: y los que van por camino
+de oracion tienen deo mayor neceſ-
+dad, y mientras mas ſpirituales
+mas, y no ſe engañen con dezir que
+letrados n oracion no ſon para quien
+la tiene, yo he tratado hartos por-
+que de vnos años aca lo he mas pro-
+curado con la mayor neceſsidad, y
+empre fuy amiga de eos, que aun-
+que algunos no tienen eſperiencia,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1567" y="2633"/>
+	<Point x="1641" y="2630"/>
+	<Point x="1714" y="2633"/>
+	<Point x="1714" y="2698"/>
+	<Point x="1567" y="2698"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="562" y="3060"/>
+	<Point x="1616" y="3060"/>
+	<Point x="1616" y="3164"/>
+	<Point x="562" y="3164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1544" y="91"/>
+	<Point x="1544" y="198"/>
+	<Point x="1714" y="198"/>
+	<Point x="1714" y="91"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>155</Unicode></TextEquiv></TextRegion></Page></PcGts>

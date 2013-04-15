@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442984">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T13:48:12</Created>
+	<LastChange>2011-03-15T16:51:31</LastChange></Metadata>
+	<Page imageFilename="00442984.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r14" index="0"/>
+	<RegionRefIndexed regionRef="r16" index="1"/>
+	<RegionRefIndexed regionRef="r11" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="530" y="52"/>
+	<Point x="530" y="145"/>
+	<Point x="1135" y="145"/>
+	<Point x="1135" y="52"/>
+	<Point x="809" y="38"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fr. Ioan de la Cruz.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1471" y="64"/>
+	<Point x="1471" y="140"/>
+	<Point x="1585" y="140"/>
+	<Point x="1585" y="64"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>29</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="marginalia">
+	<Coords>
+	<Point x="1583" y="2634"/>
+	<Point x="1583" y="1966"/>
+	<Point x="1840" y="1966"/>
+	<Point x="1840" y="2634"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1591.
+Dones
+del Eſpi
+ritu-ſan-
+to, Fru-
+tos, Bien
+aventurã
+ças, i Gra
+cias.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="catch-word">
+	<Coords>
+	<Point x="1364" y="2781"/>
+	<Point x="1374" y="2714"/>
+	<Point x="1400" y="2708"/>
+	<Point x="1430" y="2723"/>
+	<Point x="1468" y="2725"/>
+	<Point x="1491" y="2706"/>
+	<Point x="1501" y="2714"/>
+	<Point x="1504" y="2729"/>
+	<Point x="1602" y="2733"/>
+	<Point x="1593" y="2781"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ticular-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="credit">
+	<Coords>
+	<Point x="783" y="2940"/>
+	<Point x="783" y="2997"/>
+	<Point x="1424" y="2997"/>
+	<Point x="1424" y="2940"/>
+	<Point x="1046" y="2932"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="1598" y="855"/>
+	<Point x="1599" y="855"/>
+	<Point x="1598" y="855"/>
+	<Point x="1598" y="927"/>
+	<Point x="1597" y="927"/>
+	<Point x="1597" y="999"/>
+	<Point x="1596" y="999"/>
+	<Point x="1596" y="1070"/>
+	<Point x="1595" y="1070"/>
+	<Point x="1595" y="1142"/>
+	<Point x="1594" y="1142"/>
+	<Point x="1594" y="1213"/>
+	<Point x="1593" y="1213"/>
+	<Point x="1593" y="1285"/>
+	<Point x="1592" y="1285"/>
+	<Point x="1592" y="1357"/>
+	<Point x="1591" y="1357"/>
+	<Point x="1591" y="1428"/>
+	<Point x="1590" y="1428"/>
+	<Point x="1590" y="1500"/>
+	<Point x="1589" y="1500"/>
+	<Point x="1589" y="1571"/>
+	<Point x="1588" y="1571"/>
+	<Point x="1588" y="1600"/>
+	<Point x="1587" y="1600"/>
+	<Point x="1587" y="1629"/>
+	<Point x="1586" y="1629"/>
+	<Point x="1586" y="1658"/>
+	<Point x="1585" y="1658"/>
+	<Point x="1585" y="1687"/>
+	<Point x="1584" y="1687"/>
+	<Point x="1584" y="1716"/>
+	<Point x="1583" y="1716"/>
+	<Point x="1583" y="1745"/>
+	<Point x="1582" y="1745"/>
+	<Point x="1582" y="1774"/>
+	<Point x="1581" y="1774"/>
+	<Point x="1581" y="1803"/>
+	<Point x="1580" y="1803"/>
+	<Point x="1580" y="1832"/>
+	<Point x="1579" y="1832"/>
+	<Point x="1579" y="1861"/>
+	<Point x="1578" y="1861"/>
+	<Point x="1578" y="1889"/>
+	<Point x="1577" y="1889"/>
+	<Point x="1577" y="1943"/>
+	<Point x="1454" y="1943"/>
+	<Point x="1454" y="1942"/>
+	<Point x="1298" y="1942"/>
+	<Point x="1298" y="1941"/>
+	<Point x="1145" y="1940"/>
+	<Point x="1142" y="1940"/>
+	<Point x="1128" y="1938"/>
+	<Point x="1113" y="1940"/>
+	<Point x="1084" y="1939"/>
+	<Point x="987" y="1940"/>
+	<Point x="987" y="1939"/>
+	<Point x="831" y="1939"/>
+	<Point x="831" y="1938"/>
+	<Point x="675" y="1938"/>
+	<Point x="675" y="1937"/>
+	<Point x="520" y="1937"/>
+	<Point x="520" y="1936"/>
+	<Point x="364" y="1936"/>
+	<Point x="364" y="1935"/>
+	<Point x="208" y="1935"/>
+	<Point x="208" y="1934"/>
+	<Point x="116" y="1935"/>
+	<Point x="79" y="1934"/>
+	<Point x="79" y="1911"/>
+	<Point x="78" y="1911"/>
+	<Point x="78" y="1753"/>
+	<Point x="77" y="1753"/>
+	<Point x="77" y="1595"/>
+	<Point x="76" y="1595"/>
+	<Point x="76" y="1438"/>
+	<Point x="75" y="1438"/>
+	<Point x="75" y="1280"/>
+	<Point x="74" y="1280"/>
+	<Point x="74" y="1122"/>
+	<Point x="73" y="1122"/>
+	<Point x="73" y="964"/>
+	<Point x="72" y="964"/>
+	<Point x="72" y="807"/>
+	<Point x="71" y="807"/>
+	<Point x="71" y="649"/>
+	<Point x="70" y="649"/>
+	<Point x="70" y="491"/>
+	<Point x="69" y="491"/>
+	<Point x="69" y="333"/>
+	<Point x="68" y="333"/>
+	<Point x="68" y="177"/>
+	<Point x="67" y="177"/>
+	<Point x="67" y="176"/>
+	<Point x="68" y="176"/>
+	<Point x="68" y="177"/>
+	<Point x="81" y="177"/>
+	<Point x="81" y="178"/>
+	<Point x="562" y="178"/>
+	<Point x="562" y="177"/>
+	<Point x="692" y="177"/>
+	<Point x="692" y="176"/>
+	<Point x="821" y="176"/>
+	<Point x="821" y="175"/>
+	<Point x="951" y="175"/>
+	<Point x="951" y="174"/>
+	<Point x="1080" y="174"/>
+	<Point x="1080" y="173"/>
+	<Point x="1210" y="173"/>
+	<Point x="1210" y="172"/>
+	<Point x="1339" y="172"/>
+	<Point x="1339" y="171"/>
+	<Point x="1469" y="171"/>
+	<Point x="1469" y="170"/>
+	<Point x="1598" y="170"/>
+	<Point x="1598" y="169"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>da, i era una fuente de ſalud. Eos milagros fueron to
+dos viviendo el Siervo de Dios; que losha obrado ſu
+Magead por elideſpues de muerto, ſon ¡numerables,
+no aviendo apenas mal que no aya hallado cura en la
+invocacion ò reliquia dee Bienavẽturado Padre. Las
+mercedes grãdes i eraordinarias, que recibio de Criſ-
+to Señor nuero i de ſu Madre benditima, hizieron
+colmo a ſus divinos Dones. El concederle ſu Mageſ-
+tad una pureza infantil, i conrmarle en gracia; el apa-
+recerſele crucificado en Avila; el vitarle en la carcel
+de Toledo; el hablarle por medio de una Imagen ſuya
+en Segovia, favores fueron i gracias ngulares. Fuelo
+tambien el a parecerſele i librarle de peligro la VIR-
+GEN tantas vezes: es a ſaber, en un eanque, en un
+pozo, en un rio, en la carcel, de donde le ayudò a ſalir,
+i en una ruìna de pared que le iba a caer encima. Eas
+mercedes fueron mui patentes, i que pudieron eſcapar
+ſe al gran recato del Venerable Varon: pero muchas o-
+tras, i mayores recibio n duda, cuyos indicios ſe traslu
+zian, por mas que los procuraba èl encubrir. Porque al-
+ma tan llena de Virtudes i Dones, endo morada del
+Eſpiritu-fanto, no podia dexar de fer enriquezida i re-
+galada con ngularimos favores del cielo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="206" y="1936"/>
+	<Point x="206" y="1937"/>
+	<Point x="362" y="1937"/>
+	<Point x="362" y="1938"/>
+	<Point x="518" y="1938"/>
+	<Point x="518" y="1939"/>
+	<Point x="673" y="1939"/>
+	<Point x="673" y="1940"/>
+	<Point x="829" y="1940"/>
+	<Point x="829" y="1941"/>
+	<Point x="985" y="1941"/>
+	<Point x="985" y="1942"/>
+	<Point x="1072" y="1945"/>
+	<Point x="1128" y="1940"/>
+	<Point x="1140" y="1942"/>
+	<Point x="1140" y="1943"/>
+	<Point x="1296" y="1943"/>
+	<Point x="1296" y="1944"/>
+	<Point x="1452" y="1944"/>
+	<Point x="1452" y="1945"/>
+	<Point x="1577" y="1945"/>
+	<Point x="1577" y="2300"/>
+	<Point x="1576" y="2300"/>
+	<Point x="1576" y="2711"/>
+	<Point x="1576" y="2710"/>
+	<Point x="1569" y="2710"/>
+	<Point x="1569" y="2709"/>
+	<Point x="1562" y="2709"/>
+	<Point x="1562" y="2708"/>
+	<Point x="1556" y="2708"/>
+	<Point x="1556" y="2707"/>
+	<Point x="1549" y="2707"/>
+	<Point x="1549" y="2706"/>
+	<Point x="1543" y="2706"/>
+	<Point x="1543" y="2705"/>
+	<Point x="1536" y="2705"/>
+	<Point x="1536" y="2704"/>
+	<Point x="1530" y="2704"/>
+	<Point x="1530" y="2703"/>
+	<Point x="1523" y="2703"/>
+	<Point x="1523" y="2702"/>
+	<Point x="1517" y="2702"/>
+	<Point x="1517" y="2701"/>
+	<Point x="1510" y="2701"/>
+	<Point x="1510" y="2700"/>
+	<Point x="1504" y="2700"/>
+	<Point x="1504" y="2699"/>
+	<Point x="1497" y="2699"/>
+	<Point x="1497" y="2698"/>
+	<Point x="1489" y="2698"/>
+	<Point x="1489" y="2699"/>
+	<Point x="1487" y="2699"/>
+	<Point x="1487" y="2700"/>
+	<Point x="1485" y="2700"/>
+	<Point x="1485" y="2701"/>
+	<Point x="1483" y="2701"/>
+	<Point x="1483" y="2702"/>
+	<Point x="1481" y="2702"/>
+	<Point x="1481" y="2703"/>
+	<Point x="1479" y="2703"/>
+	<Point x="1479" y="2704"/>
+	<Point x="1477" y="2704"/>
+	<Point x="1477" y="2705"/>
+	<Point x="1475" y="2705"/>
+	<Point x="1475" y="2706"/>
+	<Point x="1473" y="2706"/>
+	<Point x="1473" y="2707"/>
+	<Point x="1471" y="2707"/>
+	<Point x="1471" y="2708"/>
+	<Point x="1469" y="2708"/>
+	<Point x="1469" y="2709"/>
+	<Point x="1467" y="2709"/>
+	<Point x="1467" y="2710"/>
+	<Point x="1465" y="2710"/>
+	<Point x="1465" y="2711"/>
+	<Point x="1463" y="2711"/>
+	<Point x="1463" y="2712"/>
+	<Point x="1461" y="2712"/>
+	<Point x="1461" y="2713"/>
+	<Point x="1461" y="2712"/>
+	<Point x="1436" y="2712"/>
+	<Point x="1436" y="2711"/>
+	<Point x="1434" y="2711"/>
+	<Point x="1434" y="2710"/>
+	<Point x="1433" y="2710"/>
+	<Point x="1433" y="2709"/>
+	<Point x="1431" y="2709"/>
+	<Point x="1431" y="2708"/>
+	<Point x="1430" y="2708"/>
+	<Point x="1430" y="2707"/>
+	<Point x="1428" y="2707"/>
+	<Point x="1428" y="2706"/>
+	<Point x="1427" y="2706"/>
+	<Point x="1427" y="2705"/>
+	<Point x="1426" y="2705"/>
+	<Point x="1426" y="2704"/>
+	<Point x="1422" y="2704"/>
+	<Point x="1422" y="2703"/>
+	<Point x="1418" y="2703"/>
+	<Point x="1418" y="2702"/>
+	<Point x="1414" y="2702"/>
+	<Point x="1414" y="2701"/>
+	<Point x="1410" y="2701"/>
+	<Point x="1410" y="2700"/>
+	<Point x="1406" y="2700"/>
+	<Point x="1406" y="2699"/>
+	<Point x="1399" y="2699"/>
+	<Point x="1399" y="2700"/>
+	<Point x="1395" y="2700"/>
+	<Point x="1395" y="2701"/>
+	<Point x="1391" y="2701"/>
+	<Point x="1391" y="2702"/>
+	<Point x="1388" y="2702"/>
+	<Point x="1388" y="2703"/>
+	<Point x="1384" y="2703"/>
+	<Point x="1384" y="2704"/>
+	<Point x="1380" y="2704"/>
+	<Point x="1380" y="2705"/>
+	<Point x="1376" y="2705"/>
+	<Point x="1376" y="2706"/>
+	<Point x="1373" y="2706"/>
+	<Point x="1373" y="2707"/>
+	<Point x="1369" y="2707"/>
+	<Point x="1369" y="2708"/>
+	<Point x="1365" y="2708"/>
+	<Point x="1365" y="2709"/>
+	<Point x="1362" y="2709"/>
+	<Point x="1362" y="2710"/>
+	<Point x="1362" y="2709"/>
+	<Point x="1345" y="2709"/>
+	<Point x="1345" y="2708"/>
+	<Point x="1329" y="2708"/>
+	<Point x="1329" y="2707"/>
+	<Point x="1313" y="2707"/>
+	<Point x="1313" y="2706"/>
+	<Point x="1297" y="2706"/>
+	<Point x="1297" y="2705"/>
+	<Point x="1281" y="2705"/>
+	<Point x="1281" y="2704"/>
+	<Point x="1265" y="2704"/>
+	<Point x="1265" y="2703"/>
+	<Point x="1245" y="2703"/>
+	<Point x="1245" y="2704"/>
+	<Point x="1241" y="2704"/>
+	<Point x="1241" y="2705"/>
+	<Point x="1237" y="2705"/>
+	<Point x="1237" y="2706"/>
+	<Point x="1233" y="2706"/>
+	<Point x="1233" y="2707"/>
+	<Point x="1229" y="2707"/>
+	<Point x="1229" y="2708"/>
+	<Point x="1225" y="2708"/>
+	<Point x="1225" y="2709"/>
+	<Point x="1221" y="2709"/>
+	<Point x="1221" y="2710"/>
+	<Point x="1218" y="2710"/>
+	<Point x="1218" y="2711"/>
+	<Point x="1214" y="2711"/>
+	<Point x="1214" y="2712"/>
+	<Point x="1210" y="2712"/>
+	<Point x="1210" y="2713"/>
+	<Point x="1206" y="2713"/>
+	<Point x="1206" y="2714"/>
+	<Point x="1202" y="2714"/>
+	<Point x="1202" y="2715"/>
+	<Point x="1198" y="2715"/>
+	<Point x="1198" y="2716"/>
+	<Point x="1194" y="2716"/>
+	<Point x="1194" y="2717"/>
+	<Point x="1190" y="2717"/>
+	<Point x="1190" y="2718"/>
+	<Point x="1187" y="2718"/>
+	<Point x="1187" y="2719"/>
+	<Point x="1183" y="2719"/>
+	<Point x="1183" y="2720"/>
+	<Point x="1179" y="2720"/>
+	<Point x="1179" y="2721"/>
+	<Point x="1175" y="2721"/>
+	<Point x="1175" y="2722"/>
+	<Point x="1171" y="2722"/>
+	<Point x="1171" y="2723"/>
+	<Point x="1167" y="2723"/>
+	<Point x="1167" y="2724"/>
+	<Point x="1163" y="2724"/>
+	<Point x="1163" y="2725"/>
+	<Point x="1160" y="2725"/>
+	<Point x="1160" y="2726"/>
+	<Point x="1160" y="2725"/>
+	<Point x="981" y="2725"/>
+	<Point x="981" y="2724"/>
+	<Point x="802" y="2724"/>
+	<Point x="802" y="2723"/>
+	<Point x="624" y="2723"/>
+	<Point x="624" y="2722"/>
+	<Point x="600" y="2722"/>
+	<Point x="600" y="2721"/>
+	<Point x="576" y="2721"/>
+	<Point x="576" y="2720"/>
+	<Point x="553" y="2720"/>
+	<Point x="553" y="2719"/>
+	<Point x="529" y="2719"/>
+	<Point x="529" y="2718"/>
+	<Point x="506" y="2718"/>
+	<Point x="506" y="2717"/>
+	<Point x="482" y="2717"/>
+	<Point x="482" y="2716"/>
+	<Point x="459" y="2716"/>
+	<Point x="459" y="2715"/>
+	<Point x="435" y="2715"/>
+	<Point x="435" y="2714"/>
+	<Point x="412" y="2714"/>
+	<Point x="412" y="2713"/>
+	<Point x="388" y="2713"/>
+	<Point x="388" y="2712"/>
+	<Point x="365" y="2712"/>
+	<Point x="365" y="2711"/>
+	<Point x="341" y="2711"/>
+	<Point x="341" y="2710"/>
+	<Point x="318" y="2710"/>
+	<Point x="318" y="2709"/>
+	<Point x="294" y="2709"/>
+	<Point x="294" y="2708"/>
+	<Point x="271" y="2708"/>
+	<Point x="271" y="2707"/>
+	<Point x="247" y="2707"/>
+	<Point x="247" y="2706"/>
+	<Point x="224" y="2706"/>
+	<Point x="224" y="2705"/>
+	<Point x="200" y="2705"/>
+	<Point x="200" y="2704"/>
+	<Point x="177" y="2704"/>
+	<Point x="177" y="2703"/>
+	<Point x="153" y="2703"/>
+	<Point x="153" y="2702"/>
+	<Point x="130" y="2702"/>
+	<Point x="130" y="2701"/>
+	<Point x="106" y="2701"/>
+	<Point x="106" y="2700"/>
+	<Point x="83" y="2700"/>
+	<Point x="83" y="2542"/>
+	<Point x="82" y="2542"/>
+	<Point x="82" y="2384"/>
+	<Point x="81" y="2384"/>
+	<Point x="81" y="2226"/>
+	<Point x="80" y="2226"/>
+	<Point x="80" y="2069"/>
+	<Point x="79" y="2069"/>
+	<Point x="79" y="1936"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>12 No ſolamente con los Dones referidos (que por
+ſer eſpeciales privilegios del cielo, generalmente ave-
+mos llamado Dones celeiales) eaba enriquezida el
+alma dee Varon Divino, no tambien cõ todos aque
+llos que particularmente infunde el Eſpiritu-ſanto, i ſe
+llaman propiamente Dones ſuyos, ordenados a diſpo-
+ner el alma jua para ſeguir pronta, facil i ſuave la mo-
+cion Divina. Fuele pues comunicado el Don de Sabi-
+duria, para juzgar por razones ſobrenaturales de las
+coſas Divinas i criadas: como tambien para eas, par-</Unicode></TextEquiv></TextRegion></Page></PcGts>

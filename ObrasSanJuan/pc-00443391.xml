@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443391">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T02:46:32</Created>
+	<LastChange>2010-12-29T06:51:47</LastChange></Metadata>
+	<Page imageFilename="00443391.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r10" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="313" y="180"/>
+	<Point x="422" y="180"/>
+	<Point x="434" y="212"/>
+	<Point x="422" y="244"/>
+	<Point x="300" y="247"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>380</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="901" y="153"/>
+	<Point x="923" y="144"/>
+	<Point x="1272" y="144"/>
+	<Point x="1297" y="153"/>
+	<Point x="1305" y="196"/>
+	<Point x="1297" y="237"/>
+	<Point x="1114" y="248"/>
+	<Point x="901" y="237"/>
+	<Point x="886" y="189"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Noche eſcura.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="654" y="338"/>
+	<Point x="871" y="329"/>
+	<Point x="1379" y="333"/>
+	<Point x="1377" y="399"/>
+	<Point x="654" y="399"/>
+	<Point x="631" y="358"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITVLO IX.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="303" y="491"/>
+	<Point x="1778" y="481"/>
+	<Point x="1783" y="529"/>
+	<Point x="1783" y="581"/>
+	<Point x="1641" y="582"/>
+	<Point x="1643" y="690"/>
+	<Point x="1631" y="683"/>
+	<Point x="1194" y="677"/>
+	<Point x="1212" y="768"/>
+	<Point x="894" y="778"/>
+	<Point x="881" y="683"/>
+	<Point x="468" y="690"/>
+	<Point x="421" y="586"/>
+	<Point x="297" y="571"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De las ſeñales en que ſe conocera, que el eſpiritual
+va por el camino dea Noche, i purgacion
+Sentiva.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="402" y="832"/>
+	<Point x="1645" y="825"/>
+	<Point x="1768" y="836"/>
+	<Point x="1768" y="1364"/>
+	<Point x="1418" y="1371"/>
+	<Point x="1409" y="1431"/>
+	<Point x="1275" y="1433"/>
+	<Point x="1268" y="1448"/>
+	<Point x="1247" y="1450"/>
+	<Point x="1241" y="1434"/>
+	<Point x="1080" y="1451"/>
+	<Point x="1073" y="1437"/>
+	<Point x="619" y="1437"/>
+	<Point x="610" y="1455"/>
+	<Point x="592" y="1457"/>
+	<Point x="589" y="1437"/>
+	<Point x="293" y="1451"/>
+	<Point x="283" y="1374"/>
+	<Point x="272" y="1337"/>
+	<Point x="280" y="1227"/>
+	<Point x="292" y="1075"/>
+	<Point x="397" y="1075"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ero porque eas ſequedades podrian proceder mu
+chas vezes no de la dicha Noche, i purgacion del
+apetito ſentivo, no, ò de pecados, ò de imperfe-
+ciones, floxedad, ò tibieza, ò de algun mal humor, ò in.
+diſpocion corporal; pondrè aqui algunas ſeñales, en
+que ſe conozca,  es la tal ſequedad de la dicha purga-
+cion, ò  nace de algunos de los dichos vicios, para lo
+cual hao que ai tres ſeñales principales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="367" y="1455"/>
+	<Point x="586" y="1452"/>
+	<Point x="589" y="1469"/>
+	<Point x="655" y="1451"/>
+	<Point x="877" y="1449"/>
+	<Point x="1038" y="1463"/>
+	<Point x="1158" y="1451"/>
+	<Point x="1245" y="1453"/>
+	<Point x="1422" y="1441"/>
+	<Point x="1768" y="1444"/>
+	<Point x="1779" y="1606"/>
+	<Point x="1744" y="2647"/>
+	<Point x="1383" y="2652"/>
+	<Point x="1384" y="2719"/>
+	<Point x="1279" y="2713"/>
+	<Point x="782" y="2717"/>
+	<Point x="748" y="2732"/>
+	<Point x="722" y="2731"/>
+	<Point x="707" y="2717"/>
+	<Point x="273" y="2717"/>
+	<Point x="278" y="1541"/>
+	<Point x="365" y="1538"/>
+	<Point x="363" y="1515"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La primera es,  a como no haa guo, ni conſuelo
+en las coſas de D os, tampoco le haa en alguna de las
+coſas criadas. Porque como pone Dios al alma en la eſ
+cura Noche, a ﬁn de enjugarle i purgarle el apetito ſen
+tivo, en ninguna coſa la dexa engolonar, ni haar ſa
+bor. En eo ſe conoce probablemente, que ea ſeque-
+dad i nſabor, no proviene de pecados, ni de imperfe-
+ciones nuevamente cometidas Porque  eo fueſe, ſen
+tirſeìa en el Natural alguna inclinacion, ò gana de guſ
+tar de alguna otra coſa que de las de Dios. Porque cuã
+do quiera que ſe relaxa el apetito en alguna imperfe-
+cion, luego ſe ente quedar inclinado a ea poco, ò mu
+cho ſegun el guo i aﬁcion que ai aplicò. Pero porque
+ee no guar ni de coſa de arriba, ni de abaxo podria
+provenir de alguna indiſpocion, ò humor melancoli-
+co, el cual muchas vezes no dexa haar guo en nada,
+es meneer la ſegunda ſeñal i condicion.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="351" y="2737"/>
+	<Point x="771" y="2737"/>
+	<Point x="1294" y="2726"/>
+	<Point x="1748" y="2730"/>
+	<Point x="1759" y="2763"/>
+	<Point x="1751" y="2803"/>
+	<Point x="1369" y="2812"/>
+	<Point x="534" y="2810"/>
+	<Point x="514" y="2815"/>
+	<Point x="493" y="2810"/>
+	<Point x="353" y="2810"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La ſegunda ſenal i condicion dea purgacion, es,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="1641" y="2821"/>
+	<Point x="1696" y="2813"/>
+	<Point x="1746" y="2818"/>
+	<Point x="1757" y="2856"/>
+	<Point x="1705" y="2862"/>
+	<Point x="1662" y="2882"/>
+	<Point x="1641" y="2874"/>
+	<Point x="1629" y="2851"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="788" y="2947"/>
+	<Point x="845" y="2943"/>
+	<Point x="1404" y="2939"/>
+	<Point x="1405" y="2947"/>
+	<Point x="1424" y="2968"/>
+	<Point x="1405" y="2986"/>
+	<Point x="1316" y="2990"/>
+	<Point x="1200" y="2989"/>
+	<Point x="788" y="2986"/>
+	<Point x="775" y="2961"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="drop-capital">
+	<Coords>
+	<Point x="285" y="832"/>
+	<Point x="285" y="1010"/>
+	<Point x="390" y="1010"/>
+	<Point x="396" y="889"/>
+	<Point x="395" y="827"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P</Unicode></TextEquiv></TextRegion></Page></PcGts>

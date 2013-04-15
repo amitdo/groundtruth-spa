@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439232">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T01:16:58</Created>
+	<LastChange>2011-05-12T13:39:53</LastChange></Metadata>
+	<Page imageFilename="00439232.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="655" y="103"/>
+	<Point x="1494" y="126"/>
+	<Point x="1536" y="160"/>
+	<Point x="1500" y="204"/>
+	<Point x="606" y="193"/>
+	<Point x="620" y="120"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="331" y="212"/>
+	<Point x="570" y="201"/>
+	<Point x="1699" y="212"/>
+	<Point x="1710" y="247"/>
+	<Point x="1718" y="813"/>
+	<Point x="1720" y="1247"/>
+	<Point x="1707" y="2644"/>
+	<Point x="1597" y="2645"/>
+	<Point x="1511" y="2676"/>
+	<Point x="331" y="2654"/>
+	<Point x="309" y="2593"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>po yva paando, y con el travandoſe mas mis amia-
+des, conociendo y endo conocido. Tratavaſe con
+calor mi caſamiento, deeando todos naturalizarme
+aà con eos; vitava, y vitavanme; acudian à mi
+poſada mis amigos, y yo à la deos entrava ya como
+natural en todas partes, y en las caſas del juego, en
+mi poſada tambien ſolia travarſe; ya perdiendo, ya
+ganando, haa una noche que acudiendo el naype de
+golpe, truxe à la poſada mas de ete mil reales, de
+que dexè tan picados à los contrayentes, que trataron
+de alargar el juego para la noche guiente. No me pe-
+sò de que ſe quieſsen alargar, porque ya yo eava
+(como dizen) fuera de quenta en los nueve meſes: que
+me avia dicho el Capitan Favelo que ſe apreavan las
+galeras, y creia que para peſsar à Eſpaña con mucha bre-
+vedad. Eo me traia ya de leva: porque adonde quiera
+que fueran, avia de yr en eas, empero no me oſava
+declarar, haa que huvieſsen de ſalir del puerto. Ace-
+tèles el juego, no con otro animo, que de yr entrete-
+niendome con eos largo, y ear prevenido para darles
+(à uſo de Portugal) de pancada, perdì la noche guien-
+te, aunque no mas de aqueo que yo quiſe, porque ya
+me aprovechava de toda ciencia, para hazer mi hecho;
+andavame con eos à barlovento, y empre ſacandole
+à mi amigo ſu barato, porque lo avia de ſer mucho mas
+para mi. Pocos dias paaron, que viendolo trie le
+preguntè, que tenia, y reſpondiòme, que ſolo
+ſentir mi auſencia, porque n duda ſeria el viage den-
+tro de diez dias à lo mas largo, que ai tenian la orden.
+Sus palabras fueron perlas, y ſu voz para mi, del cielo,
+como  otra vez oyera dezir: Abre ea capacha, por-
+que con el porte dea, pensè quedar hecho de beota;
+y apartandolo à ſolas en ſecreto, le dixe: Señor Capi-
+tan, ſoys tan mi amigo, eimo vueras amiades en
+tanto, que no sè como encarecerlo ni pagarlas. Haſe
+me ofrecido con vuero viage, todo el remedio de mis
+deeos, que ya en otra coſa no cone, ni lo eſpero.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1617" y="2649"/>
+	<Point x="1685" y="2652"/>
+	<Point x="1679" y="2726"/>
+	<Point x="1619" y="2722"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="550" y="2862"/>
+	<Point x="1301" y="2863"/>
+	<Point x="1306" y="2928"/>
+	<Point x="1146" y="2938"/>
+	<Point x="536" y="2932"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="309" y="95"/>
+	<Point x="309" y="195"/>
+	<Point x="424" y="192"/>
+	<Point x="478" y="169"/>
+	<Point x="436" y="98"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>200</Unicode></TextEquiv></TextRegion></Page></PcGts>

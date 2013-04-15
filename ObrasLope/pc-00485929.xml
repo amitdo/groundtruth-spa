@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485929">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T23:05:08</Created>
+	<LastChange>2011-07-28T11:29:14</LastChange></Metadata>
+	<Page imageFilename="00485929.tif" imageWidth="2203" imageHeight="3072">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r21" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r7" index="3"/>
+	<RegionRefIndexed regionRef="r20" index="4"/>
+	<RegionRefIndexed regionRef="r16" index="5"/>
+	<RegionRefIndexed regionRef="r22" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="589" y="47"/>
+	<Point x="1566" y="69"/>
+	<Point x="1572" y="196"/>
+	<Point x="1535" y="215"/>
+	<Point x="1258" y="216"/>
+	<Point x="643" y="163"/>
+	<Point x="596" y="150"/>
+	<Point x="586" y="112"/>
+	<Point x="586" y="84"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comedia de Lope de Vega.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="107" y="1026"/>
+	<Point x="375" y="1037"/>
+	<Point x="409" y="1045"/>
+	<Point x="415" y="1047"/>
+	<Point x="433" y="1047"/>
+	<Point x="485" y="1046"/>
+	<Point x="509" y="1044"/>
+	<Point x="859" y="1038"/>
+	<Point x="1406" y="1035"/>
+	<Point x="1408" y="1186"/>
+	<Point x="1221" y="1226"/>
+	<Point x="1200" y="1231"/>
+	<Point x="1189" y="1230"/>
+	<Point x="1071" y="1235"/>
+	<Point x="1018" y="1258"/>
+	<Point x="961" y="1232"/>
+	<Point x="114" y="1208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Brauonel. Voy quedaras viorioſa
+de Francia inuencible Eſpaña.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="credit">
+	<Coords>
+	<Point x="726" y="2972"/>
+	<Point x="1436" y="2972"/>
+	<Point x="1436" y="3037"/>
+	<Point x="726" y="3037"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="105" y="1494"/>
+	<Point x="351" y="1515"/>
+	<Point x="602" y="1526"/>
+	<Point x="645" y="1532"/>
+	<Point x="712" y="1527"/>
+	<Point x="754" y="1522"/>
+	<Point x="828" y="1523"/>
+	<Point x="1128" y="1531"/>
+	<Point x="1302" y="1542"/>
+	<Point x="1452" y="1569"/>
+	<Point x="1505" y="1710"/>
+	<Point x="1515" y="1765"/>
+	<Point x="1420" y="2753"/>
+	<Point x="632" y="2793"/>
+	<Point x="135" y="2774"/>
+	<Point x="157" y="1605"/>
+	<Point x="104" y="1601"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Carlomagno. Hazed alto en ee ano
+Franceſes honor del mundo
+que oy ſu defenſa es en vano
+pues me haueys de hazer ſegundo
+del Griego Alexandro magno,
+egada la ocaon es
+de mas honor y interes,
+de fama y mayor grandeza,
+pues de Eſpaña la cabeça
+he de traer a mis pies.
+Vos valeroſo Roldan
+pondreys vuera gente en horden,
+como fuerte capitan</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="118" y="1212"/>
+	<Point x="103" y="1303"/>
+	<Point x="128" y="1353"/>
+	<Point x="194" y="1349"/>
+	<Point x="183" y="1491"/>
+	<Point x="444" y="1512"/>
+	<Point x="650" y="1526"/>
+	<Point x="675" y="1526"/>
+	<Point x="704" y="1518"/>
+	<Point x="769" y="1518"/>
+	<Point x="1034" y="1524"/>
+	<Point x="1230" y="1526"/>
+	<Point x="1480" y="1557"/>
+	<Point x="1638" y="1522"/>
+	<Point x="1860" y="1507"/>
+	<Point x="1820" y="1227"/>
+	<Point x="1192" y="1236"/>
+	<Point x="1164" y="1241"/>
+	<Point x="1076" y="1240"/>
+	<Point x="1017" y="1263"/>
+	<Point x="969" y="1240"/>
+	<Point x="941" y="1238"/>
+	<Point x="678" y="1236"/>
+	<Point x="634" y="1240"/>
+	<Point x="621" y="1240"/>
+	<Point x="469" y="1225"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vaſe, y ſalen Carlos, don Beltran, Roldan, Duran-
+darte, Montenos, Dudon, Reynaldos, Oli-
+ueros, y con caxas y vanderas;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="112" y="651"/>
+	<Point x="588" y="651"/>
+	<Point x="765" y="661"/>
+	<Point x="817" y="683"/>
+	<Point x="853" y="682"/>
+	<Point x="982" y="659"/>
+	<Point x="1027" y="659"/>
+	<Point x="1419" y="664"/>
+	<Point x="1358" y="1018"/>
+	<Point x="891" y="1034"/>
+	<Point x="513" y="1038"/>
+	<Point x="475" y="1044"/>
+	<Point x="447" y="1046"/>
+	<Point x="431" y="1046"/>
+	<Point x="417" y="1044"/>
+	<Point x="375" y="1030"/>
+	<Point x="153" y="1019"/>
+	<Point x="162" y="753"/>
+	<Point x="114" y="755"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bernardo. Ya no es tiempo de aguardar
+y corre peligro aſsi,
+ſubete en ea Montaña
+a ver tu gente animoſa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="117" y="466"/>
+	<Point x="126" y="636"/>
+	<Point x="193" y="638"/>
+	<Point x="745" y="647"/>
+	<Point x="810" y="676"/>
+	<Point x="838" y="676"/>
+	<Point x="941" y="648"/>
+	<Point x="1282" y="629"/>
+	<Point x="1265" y="467"/>
+	<Point x="1033" y="487"/>
+	<Point x="922" y="492"/>
+	<Point x="867" y="462"/>
+	<Point x="846" y="464"/>
+	<Point x="776" y="487"/>
+	<Point x="573" y="475"/>
+	<Point x="523" y="460"/>
+	<Point x="432" y="453"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Brauonel. Las caxas ſe oyen aqui
+Carlos deue de egar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="178" y="164"/>
+	<Point x="416" y="153"/>
+	<Point x="526" y="156"/>
+	<Point x="581" y="155"/>
+	<Point x="630" y="169"/>
+	<Point x="655" y="180"/>
+	<Point x="1567" y="253"/>
+	<Point x="1818" y="290"/>
+	<Point x="1814" y="507"/>
+	<Point x="1340" y="468"/>
+	<Point x="1278" y="449"/>
+	<Point x="1266" y="452"/>
+	<Point x="992" y="481"/>
+	<Point x="938" y="484"/>
+	<Point x="926" y="482"/>
+	<Point x="882" y="460"/>
+	<Point x="869" y="458"/>
+	<Point x="846" y="459"/>
+	<Point x="775" y="481"/>
+	<Point x="600" y="471"/>
+	<Point x="537" y="451"/>
+	<Point x="474" y="446"/>
+	<Point x="421" y="446"/>
+	<Point x="288" y="453"/>
+	<Point x="176" y="458"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſegun eo cierto es
+que tras vencer al Frances
+me da el Rey mi padre preſo. Suenan caxas;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="catch-word">
+	<Coords>
+	<Point x="1426" y="2793"/>
+	<Point x="1426" y="2887"/>
+	<Point x="1668" y="2887"/>
+	<Point x="1668" y="2793"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que no</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="page-number">
+	<Coords>
+	<Point x="1876" y="46"/>
+	<Point x="1876" y="261"/>
+	<Point x="2116" y="238"/>
+	<Point x="2109" y="54"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>55</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r12" type="handwritten-annotation">
+	<Coords>
+	<Point x="866" y="2795"/>
+	<Point x="866" y="2919"/>
+	<Point x="1083" y="2919"/>
+	<Point x="1083" y="2795"/></Coords></GraphicRegion></Page></PcGts>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440549">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T07:51:13</Created>
+	<LastChange>2011-07-05T14:26:05</LastChange></Metadata>
+	<Page imageFilename="00440549.tif" imageWidth="839" imageHeight="1599">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="34" y="42"/>
+	<Point x="698" y="58"/>
+	<Point x="738" y="59"/>
+	<Point x="763" y="73"/>
+	<Point x="785" y="80"/>
+	<Point x="792" y="99"/>
+	<Point x="798" y="429"/>
+	<Point x="28" y="429"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dexo mi pobre tercero amo, do
+acabe de conocer mi ruyn dicha,
+que armãdo ſus ﬂechas hazia que
+ai como los moços ſe vã y dexan
+a ſus amos, en mi fuee al reues,
+que mi amo me dexae y vyee.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="132" y="484"/>
+	<Point x="685" y="489"/>
+	<Point x="700" y="566"/>
+	<Point x="135" y="548"/>
+	<Point x="124" y="511"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP. QVINTO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="45" y="572"/>
+	<Point x="779" y="583"/>
+	<Point x="765" y="750"/>
+	<Point x="427" y="764"/>
+	<Point x="54" y="750"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Como Lazaro aento con vn Frayle
+de ha Merced, y con vn
+buldero.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="138" y="932"/>
+	<Point x="141" y="805"/>
+	<Point x="785" y="811"/>
+	<Point x="775" y="1490"/>
+	<Point x="21" y="1483"/>
+	<Point x="25" y="942"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>V E me forçoo buſcar el
+quarto, que fue vn frayle dela
+merced, por orden de las muger-
+cillas que dixe, ellas le llamauan
+pariente ; grãn enemigo del coro,
+y de comer enel conuento, per-
+dido por ſalir fuera, amiciimo
+de negocios ſeglares, y vitas;
+tanto que pienſo rompia el mas
+çapatos que todos los del con-
+uento. Ee me dio los primeros</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="290" y="1539"/>
+	<Point x="575" y="1542"/>
+	<Point x="575" y="1583"/>
+	<Point x="277" y="1581"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="drop-capital">
+	<Coords>
+	<Point x="36" y="814"/>
+	<Point x="130" y="823"/>
+	<Point x="133" y="843"/>
+	<Point x="129" y="887"/>
+	<Point x="119" y="926"/>
+	<Point x="90" y="932"/>
+	<Point x="21" y="932"/>
+	<Point x="27" y="834"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>F</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="65" y="3"/>
+	<Point x="127" y="1"/>
+	<Point x="169" y="0"/>
+	<Point x="536" y="0"/>
+	<Point x="666" y="1"/>
+	<Point x="667" y="44"/>
+	<Point x="665" y="48"/>
+	<Point x="659" y="50"/>
+	<Point x="385" y="41"/>
+	<Point x="228" y="43"/>
+	<Point x="147" y="38"/>
+	<Point x="110" y="38"/>
+	<Point x="74" y="36"/>
+	<Point x="60" y="8"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LAZAR. DE TORM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="708" y="11"/>
+	<Point x="777" y="9"/>
+	<Point x="774" y="58"/>
+	<Point x="767" y="66"/>
+	<Point x="744" y="57"/>
+	<Point x="724" y="54"/>
+	<Point x="705" y="54"/>
+	<Point x="699" y="19"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>95</Unicode></TextEquiv></TextRegion>
+	<LineDrawingRegion id="r9">
+	<Coords>
+	<Point x="42" y="443"/>
+	<Point x="43" y="474"/>
+	<Point x="775" y="486"/>
+	<Point x="780" y="443"/></Coords></LineDrawingRegion></Page></PcGts>

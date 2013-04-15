@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444567">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T08:36:45</Created>
+	<LastChange>2011-03-05T13:50:32</LastChange></Metadata>
+	<Page imageFilename="00444567.tif" imageWidth="2613" imageHeight="3944">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/>
+	<RegionRefIndexed regionRef="r9" index="2"/>
+	<RegionRefIndexed regionRef="r13" index="3"/>
+	<RegionRefIndexed regionRef="r14" index="4"/>
+	<RegionRefIndexed regionRef="r11" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="501" y="249"/>
+	<Point x="494" y="332"/>
+	<Point x="696" y="335"/>
+	<Point x="694" y="246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LXXX</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="828" y="3839"/>
+	<Point x="833" y="3919"/>
+	<Point x="1746" y="3930"/>
+	<Point x="1769" y="3912"/>
+	<Point x="1764" y="3846"/>
+	<Point x="1287" y="3851"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="catch-word">
+	<Coords>
+	<Point x="2325" y="3676"/>
+	<Point x="2326" y="3676"/>
+	<Point x="2342" y="3742"/>
+	<Point x="2446" y="3739"/>
+	<Point x="2458" y="3669"/>
+	<Point x="2419" y="3662"/>
+	<Point x="2339" y="3669"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="992" y="226"/>
+	<Point x="994" y="326"/>
+	<Point x="1292" y="319"/>
+	<Point x="1707" y="316"/>
+	<Point x="1933" y="314"/>
+	<Point x="1930" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DISCURSO PROEMIAL</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="433" y="346"/>
+	<Point x="449" y="760"/>
+	<Point x="450" y="926"/>
+	<Point x="456" y="933"/>
+	<Point x="475" y="982"/>
+	<Point x="607" y="986"/>
+	<Point x="623" y="967"/>
+	<Point x="908" y="962"/>
+	<Point x="948" y="982"/>
+	<Point x="978" y="962"/>
+	<Point x="1293" y="957"/>
+	<Point x="1314" y="970"/>
+	<Point x="1338" y="971"/>
+	<Point x="1353" y="953"/>
+	<Point x="1475" y="950"/>
+	<Point x="1487" y="967"/>
+	<Point x="1500" y="973"/>
+	<Point x="1522" y="956"/>
+	<Point x="2455" y="938"/>
+	<Point x="2435" y="314"/>
+	<Point x="816" y="337"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſe exprean los dos letras M P, y generalmentre en lugar de eas ſe pro-
+núncia n, diciendo Aunción, Redención, Exención, Redentór, Aunto,
+Prontitúd, &amp;c. por lo qual aſsi ſe deben eſcribir. Eo ſe entiende en las di-
+as concurréncias; pero no quando no interviene la m, y ſe haen jun-
+tas lap, y la t, como en Precepto, Concepto, Rapto, Aptitud, Aceptiſsimo,
+porque eſcribirlas n la p, diciendo Preceto, Conceto, Aceto, es contra toda
+buena regla y pronunciación: y ſolamente en la Poesía ſe Puede algluna
+vez permitir ſemejante licéncia por la preción de los conſonantes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="482" y="1031"/>
+	<Point x="452" y="1064"/>
+	<Point x="457" y="1360"/>
+	<Point x="844" y="1367"/>
+	<Point x="881" y="1371"/>
+	<Point x="902" y="1369"/>
+	<Point x="922" y="1355"/>
+	<Point x="1011" y="1362"/>
+	<Point x="1041" y="1361"/>
+	<Point x="1050" y="1352"/>
+	<Point x="1228" y="1357"/>
+	<Point x="1391" y="1353"/>
+	<Point x="1442" y="1300"/>
+	<Point x="1873" y="1291"/>
+	<Point x="2300" y="1280"/>
+	<Point x="2434" y="1278"/>
+	<Point x="2448" y="951"/>
+	<Point x="1802" y="961"/>
+	<Point x="1783" y="987"/>
+	<Point x="1514" y="977"/>
+	<Point x="1482" y="987"/>
+	<Point x="1463" y="968"/>
+	<Point x="1360" y="966"/>
+	<Point x="1341" y="992"/>
+	<Point x="1312" y="976"/>
+	<Point x="1258" y="971"/>
+	<Point x="1061" y="975"/>
+	<Point x="975" y="990"/>
+	<Point x="909" y="977"/>
+	<Point x="709" y="980"/>
+	<Point x="586" y="997"/>
+	<Point x="497" y="1016"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>49 Igual deternminación ſe debe tomar con las conſonantes N C T,
+que concurren en las voces Sano, Sanidád, Diino, Puno, Conjuno,
+Sucino, y otras, porque realmente no ſe pronúcia la c no es queriendo
+uſar de notable afeación: y aſsi ſe deben eſcribir liſamente, diciendo San-
+tidád, Santo, Diinto, Punto, &amp;c.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="466" y="1390"/>
+	<Point x="447" y="1911"/>
+	<Point x="654" y="1933"/>
+	<Point x="673" y="1918"/>
+	<Point x="716" y="1916"/>
+	<Point x="728" y="1917"/>
+	<Point x="770" y="1927"/>
+	<Point x="782" y="1926"/>
+	<Point x="793" y="1912"/>
+	<Point x="887" y="1906"/>
+	<Point x="926" y="1920"/>
+	<Point x="973" y="1926"/>
+	<Point x="1014" y="1908"/>
+	<Point x="1826" y="1897"/>
+	<Point x="1880" y="1889"/>
+	<Point x="1867" y="1844"/>
+	<Point x="1878" y="1840"/>
+	<Point x="2437" y="1832"/>
+	<Point x="2457" y="1350"/>
+	<Point x="2448" y="1336"/>
+	<Point x="2057" y="1342"/>
+	<Point x="1417" y="1358"/>
+	<Point x="1346" y="1360"/>
+	<Point x="1050" y="1367"/>
+	<Point x="987" y="1377"/>
+	<Point x="967" y="1369"/>
+	<Point x="925" y="1374"/>
+	<Point x="881" y="1379"/>
+	<Point x="732" y="1375"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>50 No es aſsi en la concurréncia de N S C, y de N S C R, que hai en
+las dicciones Tranſcendental, Inſcripción, Conſcripto, Tranſcurſo, porque
+en ſu pronunciación ſe innúan baantemente las letras de que ſe compó-
+nen; y aunque la voz Conciéncia várias veces en lo antíguo ſe hae eſcrita
+con la ſ, y no falte quien la repúte por preciſa: reſpeo de que yá no ſe
+eſpeciﬁca quando ſe pronúncia, no hai fundamento para haver de ear à
+ſu orígen, por ſer yá uniforme el eílo en contrário.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="466" y="1945"/>
+	<Point x="458" y="3102"/>
+	<Point x="977" y="3089"/>
+	<Point x="1008" y="3067"/>
+	<Point x="1022" y="3032"/>
+	<Point x="2482" y="3047"/>
+	<Point x="2439" y="1885"/>
+	<Point x="1801" y="1910"/>
+	<Point x="1029" y="1918"/>
+	<Point x="963" y="1941"/>
+	<Point x="891" y="1923"/>
+	<Point x="865" y="1923"/>
+	<Point x="769" y="1940"/>
+	<Point x="736" y="1928"/>
+	<Point x="711" y="1926"/>
+	<Point x="663" y="1953"/>
+	<Point x="626" y="1940"/>
+	<Point x="476" y="1946"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>51 Lo miſmo ſe debe hacer en la concurréncia de N S P, que ſe ha-
+a en los términos Conſpiración, Tranſparente, Tranſpoción, Tranſpor-
+tar, Tranſplantar, y en la de N S T, que hai en eos Conar, Conelación,
+Conáncia, Conitución, porque en la realidád ſe pronúcian clara y diſ-
+tintamente. Y eo miſmo ſucede en otras diverſas palabras en que las dos
+letras N S ſe juntan con otras conſonantes: como en Transferir, Transﬁ-
+guración, Transformar, Tranſgreſsión, Translación, Tranſmigración,
+Tranſmutar, Tranſverſál, en las quales no ſe debe hacer variación al-
+guna, pormas que à algunos les parezca ſupérﬂua la n, y ſe haen eſcri-
+tas n ea, no ſolo en vários libros, no en algunos Diccionarios: reſ-
+peo de que n la menor violéncia ni afeación ſe eſpeciﬁca bien clara-
+mente quando ſe proﬁeren, à diferéncia de otras, como ſon Traslado,
+Trasladar, Traslucir, Traſpao, Traſnoar, Traſpalar, Trarocar,
+Traear, en las quales es cierto que ſe omite la n, por ear aſsi comun-
+mente admitido.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="514" y="3126"/>
+	<Point x="435" y="3262"/>
+	<Point x="447" y="3446"/>
+	<Point x="447" y="3668"/>
+	<Point x="1601" y="3682"/>
+	<Point x="1659" y="3666"/>
+	<Point x="2478" y="3651"/>
+	<Point x="2476" y="3123"/>
+	<Point x="2474" y="3083"/>
+	<Point x="2220" y="3084"/>
+	<Point x="1905" y="3090"/>
+	<Point x="1437" y="3088"/>
+	<Point x="1024" y="3097"/>
+	<Point x="730" y="3105"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>52 Para el uſo de las letras N S T R, que concurren en las voces Inſ-
+truir, Conruir, Conreñir, Mónruo, Monruoád, Menruo, De-
+monración, Demonrable, &amp;c. no paréce puede haver duda en lo eſcrito,
+porque aſsi ſe pronúncian: lo que no ſucede en eas Moradór, Morar,
+Morenco, en las quales ſe omite la n conocidamente. La única diferéncia
+es ſobre el verbo Demorar, que algunos le eſcriben con n, diciendo De-
+monrar; pero no teniéndola el mple Morar, de que ſe compóne, aun-</Unicode></TextEquiv></TextRegion></Page></PcGts>

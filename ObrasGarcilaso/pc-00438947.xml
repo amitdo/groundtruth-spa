@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438947">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T21:01:02</Created>
+	<LastChange>2011-06-24T14:04:27</LastChange></Metadata>
+	<Page imageFilename="00438947.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r13" index="2"/>
+	<RegionRefIndexed regionRef="r19" index="3"/>
+	<RegionRefIndexed regionRef="r16" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="368" y="24"/>
+	<Point x="1178" y="22"/>
+	<Point x="1164" y="121"/>
+	<Point x="372" y="111"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ANOTACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="181" y="121"/>
+	<Point x="1232" y="137"/>
+	<Point x="1262" y="594"/>
+	<Point x="181" y="602"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Que ſe hizo aquel donayre?
+aquea tez hermoſa? do ſe ha y do
+del mouimiento el ayre?
+aquea, aquea do ha deſparecido,
+aquea en quien buia
+Amor, que enagenado me tenia?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="catch-word">
+	<Coords>
+	<Point x="1152" y="1952"/>
+	<Point x="1329" y="1952"/>
+	<Point x="1332" y="2026"/>
+	<Point x="1150" y="2023"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vſado</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="credit">
+	<Coords>
+	<Point x="492" y="2097"/>
+	<Point x="972" y="2097"/>
+	<Point x="972" y="2140"/>
+	<Point x="492" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="168" y="637"/>
+	<Point x="1315" y="632"/>
+	<Point x="1312" y="1128"/>
+	<Point x="168" y="1140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No huuo mas amada
+beldad, deſpues de Cynara mas clara,
+de mas gracias dotada,
+mas ay como robo la muerte auara
+a Cynara temprano,
+y con la Lyce vſo de larga mano?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="151" y="1161"/>
+	<Point x="1294" y="1167"/>
+	<Point x="1325" y="1667"/>
+	<Point x="164" y="1670"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Diole, que en la larga vida
+con la antigua corneja compitiee
+de años conſumida,
+para que con gran riſa ver pudiee
+la gente moça heruiente,
+buelta en paueſa ya la hacha ardiente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="137" y="1705"/>
+	<Point x="1350" y="1707"/>
+	<Point x="1361" y="1948"/>
+	<Point x="1164" y="1946"/>
+	<Point x="1012" y="1952"/>
+	<Point x="984" y="1967"/>
+	<Point x="935" y="1967"/>
+	<Point x="905" y="1944"/>
+	<Point x="151" y="1960"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Con clara luz la tem.) Otros leen.
+Enciende el coraçon, y lo refrena.
+Decima moradora del Parnaſo. Muchos hã</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="marginalia">
+	<Coords>
+	<Point x="31" y="1872"/>
+	<Point x="137" y="1872"/>
+	<Point x="137" y="1951"/>
+	<Point x="31" y="1951"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>27</Unicode></TextEquiv></TextRegion></Page></PcGts>

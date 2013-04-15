@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444163">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:05:54</Created>
+	<LastChange>2011-12-19T11:39:29</LastChange></Metadata>
+	<Page imageFilename="00444163.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="385" y="96"/>
+	<Point x="1531" y="104"/>
+	<Point x="1525" y="206"/>
+	<Point x="389" y="218"/>
+	<Point x="371" y="216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="182" y="225"/>
+	<Point x="1759" y="234"/>
+	<Point x="1764" y="2616"/>
+	<Point x="1437" y="2624"/>
+	<Point x="1343" y="2646"/>
+	<Point x="151" y="2688"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nada adquirida de mi, porque es muy ſobre-
+natural, por todas las que deſpues dire, no di-
+go juntas, no tomada cada vna por . Y no
+ſe dexe de tener acuerdo, que digo que eos
+impetus ſon deſpues de las mercedes que aqui
+van que me ha hecho el Señor, deſpues de to-
+do lo que va eſcrito en ee libro, y en lo que
+aora me tiene el Señor. Eando yo a los prin-
+cipios con temor (como me acaece ca en ca-
+da merced que me haze el Señor, haa  con
+yr adelante ſu Magead aegura) me dixo
+que no temiee, y que tuuiee en mas ea
+merced que todas las que me auia hecho, que
+en ea pena ſe puriﬁcaua el alma, y ſe labra o
+puriﬁca como el oro en el chriſol, para poder
+mejor poner los eſmaltes de ſus dones, y que
+ſe purgaua ai, lo que auia de ear en purga-
+torio Bien entendia yo era gran merced, mas
+quede con mucha mas ſeguridad, y mi cõfeſ-
+ſor me dize que es bueno. Y aunque yo temi
+por ſer yo tan ruyn, nũca podia creer que era
+malo, antes el muy ſobrado bien me hazia te-
+mer, acordandome quan mal lo tengo mere-
+cido, bendito ſea el Señor que tan bueno es.
+Amen. Parece que he ſalido de propoto
+porque comence a dezir de arrobamientos,
+y eo que he dicho aun es mas que arroba-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="621" y="3074"/>
+	<Point x="1564" y="3074"/>
+	<Point x="1564" y="3158"/>
+	<Point x="621" y="3158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1425" y="2633"/>
+	<Point x="1429" y="2752"/>
+	<Point x="1764" y="2752"/>
+	<Point x="1764" y="2623"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>miento</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1575" y="118"/>
+	<Point x="1575" y="227"/>
+	<Point x="1740" y="227"/>
+	<Point x="1740" y="118"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>235</Unicode></TextEquiv></TextRegion></Page></PcGts>

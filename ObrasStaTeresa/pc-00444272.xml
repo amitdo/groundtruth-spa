@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444272">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T13:19:15</Created>
+	<LastChange>2011-12-19T11:39:35</LastChange></Metadata>
+	<Page imageFilename="00444272.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1810" y="2679"/>
+	<Point x="1959" y="2679"/>
+	<Point x="1959" y="2748"/>
+	<Point x="1935" y="2761"/>
+	<Point x="1810" y="2748"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>zer,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="625" y="3076"/>
+	<Point x="1575" y="3076"/>
+	<Point x="1575" y="3142"/>
+	<Point x="1414" y="3157"/>
+	<Point x="625" y="3142"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="433" y="248"/>
+	<Point x="1985" y="240"/>
+	<Point x="1989" y="2670"/>
+	<Point x="1684" y="2667"/>
+	<Point x="1619" y="2692"/>
+	<Point x="1604" y="2675"/>
+	<Point x="433" y="2670"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dios Ie daua a entender la verdad en todo,
+porque el miſmo Sacramento le daua luz a
+lo que yo creo. Los eruos de Dios que no ſe
+aegurauan tratauanme mucho, yo como ha
+blaua con deſcuydo algunas coſas  eos to-
+mauã por diﬀerente intencion, yo queria mu
+cho al vno de eos, porque le deuia inﬁnito
+mi alma, y era muy ſanto, yo ſentia inﬁnito
+de  via no me entendia, y el deeaua en gran
+manera mi aprouechamiento, y que el Señor
+me diee luz, y an lo que yo dezia, como di
+go, n mirar en eo, pareciales poca humil-
+dad, en viendome alguna falta, que verian mu
+chas, luego era todo condenado, preguntauã-
+me algunas coſas, yo reſpondia con aneza y
+deſcuydo, luego les parecia les queria enſeñar,
+y que me tenia por ſabia, todo yua a mi con-
+feor, porque cierto eos deeauan mi pro-
+uecho, el a reñirme, duro eo harto tiempo,
+afﬂigida por muchas partes, y con las merce-
+des  me hazia el Señor todo lo paaua. Digo
+eo para que ſe entienda el gran trabajo, que
+es no auer quien tenga eſperiencia en ee ca
+mino ſpiritual, que a no me fauorecer tanto
+el Señor, no ſe que fuera de mi, baãtes coſas
+auia para quitarme el juyzio, y algunas vezes
+me via en terminos, que no ſabia que me ha-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="940" y="112"/>
+	<Point x="1595" y="114"/>
+	<Point x="1553" y="219"/>
+	<Point x="940" y="219"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="463" y="150"/>
+	<Point x="623" y="150"/>
+	<Point x="623" y="236"/>
+	<Point x="463" y="236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>344</Unicode></TextEquiv></TextRegion></Page></PcGts>

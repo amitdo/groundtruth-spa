@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443566">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T03:31:08</Created>
+	<LastChange>2010-12-24T04:15:58</LastChange></Metadata>
+	<Page imageFilename="00443566.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r11" index="2"/>
+	<RegionRefIndexed regionRef="r13" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="518" y="109"/>
+	<Point x="864" y="108"/>
+	<Point x="1031" y="107"/>
+	<Point x="1031" y="214"/>
+	<Point x="516" y="212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cancion Tercera.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="90" y="218"/>
+	<Point x="485" y="222"/>
+	<Point x="1625" y="240"/>
+	<Point x="1625" y="1561"/>
+	<Point x="107" y="1562"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>meo, ideò ſperabo. Con memoria me acordarè (eo es mu
+cho me acordarè) i derretirſeha mi alma en mi, rebol-
+viendo eas coſas en mi coraçon, vivirè en eſperança
+de Dios. Es pues profunda la capazidad deas caber-
+nas; porque lo que en eas puede caber que es Dios,
+es profundo i inﬁnito: i a ſera ſu capazidad en cierta
+manera inﬁnita, ſu ſed inﬁnita, ſu hambre tambien inﬁ
+nita i profunda; i ſu deshazimiento i pena en ſu mane-
+ra inﬁnita. I a cuando padece, aunque no ſe padece
+tan intenſamente como en la otra vida; pero pareceſe
+una viva imagen de aà, por ear el alma en cierta diſ-
+pocion para recebir ſu eno, que la privacion del le
+es pena grandima. Aunque ee penar es de otro tem
+ple; porque es en los ſenos del amor de la voluntad, i a-
+qui el amor no alivia la pena, pues cuanto mayor, tanto
+es mas impaciente por la poſeon de ſu Dios, a quien
+eſpera por momentos con intenſa codicia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="694" y="1592"/>
+	<Point x="1016" y="1612"/>
+	<Point x="1005" y="1690"/>
+	<Point x="831" y="1687"/>
+	<Point x="747" y="1699"/>
+	<Point x="728" y="1694"/>
+	<Point x="726" y="1690"/>
+	<Point x="726" y="1693"/>
+	<Point x="694" y="1693"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>§. III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="102" y="2529"/>
+	<Point x="804" y="2529"/>
+	<Point x="1137" y="2531"/>
+	<Point x="1346" y="2540"/>
+	<Point x="1415" y="2535"/>
+	<Point x="1600" y="2531"/>
+	<Point x="1600" y="2750"/>
+	<Point x="1394" y="2752"/>
+	<Point x="1350" y="2764"/>
+	<Point x="1327" y="2774"/>
+	<Point x="980" y="2776"/>
+	<Point x="98" y="2774"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En ea queion ſe ha de notar la diferencia que ai
+de tener a Dios por gracia ſolamente, i en tenerle tam-
+bien por union; que lo uno es quererſe bien, i lo otro</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="774" y="2930"/>
+	<Point x="1426" y="2933"/>
+	<Point x="1414" y="2994"/>
+	<Point x="780" y="3000"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1474" y="133"/>
+	<Point x="1474" y="225"/>
+	<Point x="1614" y="225"/>
+	<Point x="1614" y="133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>555</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="1427" y="2761"/>
+	<Point x="1427" y="2840"/>
+	<Point x="1612" y="2840"/>
+	<Point x="1612" y="2761"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dize</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="drop-capital">
+	<Coords>
+	<Point x="102" y="1685"/>
+	<Point x="102" y="1686"/>
+	<Point x="137" y="1686"/>
+	<Point x="137" y="1687"/>
+	<Point x="172" y="1687"/>
+	<Point x="172" y="1688"/>
+	<Point x="208" y="1688"/>
+	<Point x="208" y="1689"/>
+	<Point x="238" y="1689"/>
+	<Point x="237" y="1689"/>
+	<Point x="237" y="1699"/>
+	<Point x="236" y="1699"/>
+	<Point x="236" y="1709"/>
+	<Point x="235" y="1709"/>
+	<Point x="235" y="1719"/>
+	<Point x="234" y="1719"/>
+	<Point x="234" y="1729"/>
+	<Point x="233" y="1729"/>
+	<Point x="233" y="1739"/>
+	<Point x="232" y="1739"/>
+	<Point x="232" y="1749"/>
+	<Point x="231" y="1749"/>
+	<Point x="231" y="1759"/>
+	<Point x="230" y="1759"/>
+	<Point x="230" y="1769"/>
+	<Point x="229" y="1769"/>
+	<Point x="229" y="1779"/>
+	<Point x="228" y="1779"/>
+	<Point x="228" y="1789"/>
+	<Point x="227" y="1789"/>
+	<Point x="227" y="1799"/>
+	<Point x="226" y="1799"/>
+	<Point x="226" y="1809"/>
+	<Point x="225" y="1809"/>
+	<Point x="225" y="1819"/>
+	<Point x="224" y="1819"/>
+	<Point x="224" y="1829"/>
+	<Point x="223" y="1829"/>
+	<Point x="223" y="1839"/>
+	<Point x="222" y="1839"/>
+	<Point x="222" y="1849"/>
+	<Point x="221" y="1849"/>
+	<Point x="221" y="1859"/>
+	<Point x="201" y="1859"/>
+	<Point x="201" y="1858"/>
+	<Point x="180" y="1858"/>
+	<Point x="180" y="1857"/>
+	<Point x="160" y="1857"/>
+	<Point x="160" y="1856"/>
+	<Point x="139" y="1856"/>
+	<Point x="139" y="1855"/>
+	<Point x="119" y="1855"/>
+	<Point x="119" y="1854"/>
+	<Point x="102" y="1854"/>
+	<Point x="102" y="1686"/>
+	<Point x="101" y="1686"/>
+	<Point x="101" y="1685"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="243" y="1689"/>
+	<Point x="243" y="1690"/>
+	<Point x="279" y="1690"/>
+	<Point x="279" y="1691"/>
+	<Point x="314" y="1691"/>
+	<Point x="314" y="1692"/>
+	<Point x="350" y="1692"/>
+	<Point x="350" y="1693"/>
+	<Point x="385" y="1693"/>
+	<Point x="385" y="1694"/>
+	<Point x="421" y="1694"/>
+	<Point x="421" y="1695"/>
+	<Point x="456" y="1695"/>
+	<Point x="456" y="1696"/>
+	<Point x="492" y="1696"/>
+	<Point x="492" y="1697"/>
+	<Point x="527" y="1697"/>
+	<Point x="527" y="1698"/>
+	<Point x="563" y="1698"/>
+	<Point x="563" y="1699"/>
+	<Point x="598" y="1699"/>
+	<Point x="598" y="1700"/>
+	<Point x="627" y="1695"/>
+	<Point x="633" y="1696"/>
+	<Point x="689" y="1698"/>
+	<Point x="738" y="1711"/>
+	<Point x="792" y="1701"/>
+	<Point x="792" y="1700"/>
+	<Point x="1199" y="1700"/>
+	<Point x="1199" y="1699"/>
+	<Point x="1604" y="1699"/>
+	<Point x="1604" y="1698"/>
+	<Point x="1605" y="1698"/>
+	<Point x="1605" y="1699"/>
+	<Point x="1604" y="1699"/>
+	<Point x="1604" y="1801"/>
+	<Point x="1603" y="1801"/>
+	<Point x="1603" y="1904"/>
+	<Point x="1602" y="1904"/>
+	<Point x="1602" y="2007"/>
+	<Point x="1601" y="2007"/>
+	<Point x="1601" y="2110"/>
+	<Point x="1600" y="2110"/>
+	<Point x="1600" y="2213"/>
+	<Point x="1599" y="2213"/>
+	<Point x="1599" y="2316"/>
+	<Point x="1598" y="2316"/>
+	<Point x="1598" y="2419"/>
+	<Point x="1597" y="2419"/>
+	<Point x="1597" y="2522"/>
+	<Point x="1572" y="2522"/>
+	<Point x="1572" y="2523"/>
+	<Point x="1547" y="2523"/>
+	<Point x="1547" y="2524"/>
+	<Point x="1522" y="2524"/>
+	<Point x="1522" y="2525"/>
+	<Point x="1497" y="2525"/>
+	<Point x="1497" y="2526"/>
+	<Point x="1472" y="2526"/>
+	<Point x="1472" y="2527"/>
+	<Point x="1447" y="2527"/>
+	<Point x="1447" y="2528"/>
+	<Point x="1422" y="2528"/>
+	<Point x="1422" y="2529"/>
+	<Point x="1398" y="2529"/>
+	<Point x="1398" y="2530"/>
+	<Point x="1392" y="2530"/>
+	<Point x="1392" y="2531"/>
+	<Point x="1386" y="2531"/>
+	<Point x="1386" y="2532"/>
+	<Point x="1380" y="2532"/>
+	<Point x="1380" y="2533"/>
+	<Point x="1374" y="2533"/>
+	<Point x="1374" y="2534"/>
+	<Point x="1368" y="2534"/>
+	<Point x="1368" y="2535"/>
+	<Point x="1355" y="2535"/>
+	<Point x="1355" y="2536"/>
+	<Point x="1343" y="2536"/>
+	<Point x="1343" y="2537"/>
+	<Point x="1343" y="2536"/>
+	<Point x="1341" y="2536"/>
+	<Point x="1341" y="2535"/>
+	<Point x="1339" y="2535"/>
+	<Point x="1339" y="2534"/>
+	<Point x="1337" y="2534"/>
+	<Point x="1337" y="2533"/>
+	<Point x="1335" y="2533"/>
+	<Point x="1335" y="2532"/>
+	<Point x="1333" y="2532"/>
+	<Point x="1333" y="2531"/>
+	<Point x="1331" y="2531"/>
+	<Point x="1331" y="2530"/>
+	<Point x="1329" y="2530"/>
+	<Point x="1329" y="2529"/>
+	<Point x="1327" y="2529"/>
+	<Point x="1327" y="2528"/>
+	<Point x="1326" y="2528"/>
+	<Point x="1326" y="2527"/>
+	<Point x="1151" y="2527"/>
+	<Point x="1151" y="2526"/>
+	<Point x="976" y="2526"/>
+	<Point x="976" y="2525"/>
+	<Point x="801" y="2525"/>
+	<Point x="801" y="2524"/>
+	<Point x="626" y="2524"/>
+	<Point x="626" y="2523"/>
+	<Point x="451" y="2523"/>
+	<Point x="451" y="2522"/>
+	<Point x="276" y="2522"/>
+	<Point x="276" y="2521"/>
+	<Point x="102" y="2521"/>
+	<Point x="102" y="1856"/>
+	<Point x="117" y="1856"/>
+	<Point x="117" y="1857"/>
+	<Point x="137" y="1857"/>
+	<Point x="137" y="1858"/>
+	<Point x="158" y="1858"/>
+	<Point x="158" y="1859"/>
+	<Point x="178" y="1859"/>
+	<Point x="178" y="1860"/>
+	<Point x="199" y="1860"/>
+	<Point x="199" y="1861"/>
+	<Point x="219" y="1861"/>
+	<Point x="219" y="1862"/>
+	<Point x="222" y="1862"/>
+	<Point x="222" y="1861"/>
+	<Point x="223" y="1861"/>
+	<Point x="223" y="1851"/>
+	<Point x="224" y="1851"/>
+	<Point x="224" y="1841"/>
+	<Point x="225" y="1841"/>
+	<Point x="225" y="1831"/>
+	<Point x="226" y="1831"/>
+	<Point x="226" y="1821"/>
+	<Point x="227" y="1821"/>
+	<Point x="227" y="1811"/>
+	<Point x="228" y="1811"/>
+	<Point x="228" y="1801"/>
+	<Point x="229" y="1801"/>
+	<Point x="229" y="1791"/>
+	<Point x="230" y="1791"/>
+	<Point x="230" y="1781"/>
+	<Point x="231" y="1781"/>
+	<Point x="231" y="1771"/>
+	<Point x="232" y="1771"/>
+	<Point x="232" y="1761"/>
+	<Point x="233" y="1761"/>
+	<Point x="233" y="1751"/>
+	<Point x="234" y="1751"/>
+	<Point x="234" y="1741"/>
+	<Point x="235" y="1741"/>
+	<Point x="235" y="1731"/>
+	<Point x="236" y="1731"/>
+	<Point x="236" y="1721"/>
+	<Point x="237" y="1721"/>
+	<Point x="237" y="1711"/>
+	<Point x="238" y="1711"/>
+	<Point x="238" y="1701"/>
+	<Point x="239" y="1701"/>
+	<Point x="239" y="1691"/>
+	<Point x="240" y="1691"/>
+	<Point x="240" y="1689"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ero valgame Dios! pues que es cierto, que cuan-
+do el alma deſea a Dios con entera verdad, tiene
+ya al que alma, como dize S. Gregorio, como pena por-
+lo que ya tiene? I  en el deſeo que dize San Pedro que
+tienen los Angeles de ver al Hĳo de Dios, no ai algu-
+na pena ni ana, porque ya le poſeen, parece que  el
+alma cuanto mas deſea a Dios, mas le poſee, i la poſe-
+on de Dios dà deleite i hartura; tanto mas de hartu-
+ra i deleite avia el alma de ſentir aqui en ee deſeo,
+cuanto mayor es eldeſeo, pues tanto mas tiene de
+Dios? i a derazon no avia de ſentir dolor ni pena.</Unicode></TextEquiv></TextRegion></Page></PcGts>

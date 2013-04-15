@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440324">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T20:48:02</Created>
+	<LastChange>2011-12-19T11:39:00</LastChange></Metadata>
+	<Page imageFilename="00440324.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="725" y="495"/>
+	<Point x="1019" y="495"/>
+	<Point x="1161" y="489"/>
+	<Point x="2635" y="487"/>
+	<Point x="2635" y="3429"/>
+	<Point x="2425" y="3437"/>
+	<Point x="727" y="3429"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>miſmo que Mia cona de 1000 paos. En la ley 4 tit. 13
+part. 1 hablando de los Cementerios, que debe haver en
+las Igleas; y eableciendo que eos los deine el Obiſpo
+en las Cathedrales, y Conventos de 40 paadas, y en las
+Parroquiales de 30, concluye: E porque algunos dudaban
+en como ſe deben medir los paos para amojonar el Cemente‐
+rio, departelo la Santa Iglea en ea manera; que la paada
+aya cinco pies de ome meſurado, è en el piè quinze dedos de
+travieo. Con que ſegun eo, la Legua cona de tres Mi‐
+geros, ò tres mil paos, cada pao de cinco pies, y cada
+piè de quince dedos; y aſsi con razon dixo Ceſpedes, que
+la Legua Eſpañola debe conar de 15000 pies. Ahora que
+el piè ſea la tercia de la Vara, ſe debe creer aſsì; lo primero,
+porque previene la ley, que ſea de un ome meſurado, y ſerà
+raro el hombre, que tenga el piè mas largo que una ter‐
+cia; y lo ſegundo, porque el comun eilo, y praica de
+Madrid oy dia es de contarſe la tercia de la Vara por piè.
+No obante no dexarèmos de advertir que Don Antonio de
+Gaañeta en ſus Proporciones de las medidas de Navìos, que
+diò de orden del Rey, dice en la pag. 14, que el Codo real
+ſe compone de dos tercias de la Vara de Caia medida de
+Avila, y una de las treinta y dos partes de las dos tercias mas:
+eo es, de � de la Vara; y en la pag. 27 buelta, hablando
+de la Quia del Navìo, ſe formarà de 4 piezas, y de 8 pies
+de largo ſus juntas, que ſon 4 Codos: Luego ſegun ee Author
+el piè es la mitad del Codo, ò � de la Vara, y mayor que
+la tercia de � de Vara; pero haviendoſe dicho, que el uſo,
+y praica de Madrid es de tomar la tercia de la Vara por
+el piè, lo qual guen ca todos los Authores, tanto anti‐
+guos, como modernos, debemos prudentemente creer,
+que Don Antonio de Gaañeta ſe equivicò en hacer el piè la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="catch-word">
+	<Coords>
+	<Point x="2472" y="3443"/>
+	<Point x="2655" y="3436"/>
+	<Point x="2655" y="3526"/>
+	<Point x="2476" y="3526"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mi‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="991" y="4011"/>
+	<Point x="1957" y="4011"/>
+	<Point x="1957" y="4096"/>
+	<Point x="991" y="4096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="1286" y="392"/>
+	<Point x="1286" y="475"/>
+	<Point x="2102" y="475"/>
+	<Point x="2102" y="392"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="791" y="425"/>
+	<Point x="791" y="489"/>
+	<Point x="927" y="489"/>
+	<Point x="927" y="425"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>302</Unicode></TextEquiv></TextRegion></Page></PcGts>

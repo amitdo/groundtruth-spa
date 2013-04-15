@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444082">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:25:53</Created>
+	<LastChange>2011-12-19T11:39:24</LastChange></Metadata>
+	<Page imageFilename="00444082.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="978" y="91"/>
+	<Point x="1619" y="87"/>
+	<Point x="1612" y="198"/>
+	<Point x="971" y="201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="612" y="3057"/>
+	<Point x="1583" y="3057"/>
+	<Point x="1583" y="3154"/>
+	<Point x="612" y="3154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="484" y="226"/>
+	<Point x="2047" y="215"/>
+	<Point x="2053" y="2602"/>
+	<Point x="1620" y="2608"/>
+	<Point x="1576" y="2628"/>
+	<Point x="1490" y="2627"/>
+	<Point x="1330" y="2630"/>
+	<Point x="472" y="2635"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>conuiene comer. An que importa mu-
+cho ſer el maero auiſado, digo de
+buen entendimiento, y que tenga eſ-
+periencia,  con eo tiene letras es
+de grandiſsimo negocio, mas no ſe
+pueden haar eas tres coſas juntas,
+las dos primeras importan mas, por-
+que letrados pueden procurar para com-
+municarſe con eos quando tuuieren
+neceſsidad. Digo que a los princi-
+pios, no tienen oracion aprouechan
+poco letras, no digo que no traten
+con letrados porque ſpiritu que no
+vaya començado en verdad, yo mas
+le querria n oracion, y es gran co-
+ſa letras, porque eas nos enſeñan a
+los que poco ſabemos, y nos dan luz,
+y egados a verdades de la ſagrada eſ-
+criptura hazemos lo que deuemos, de
+deuociones a bouas nos libre Dios. Quie-
+rome declarar mas, que creo me me-
+to en muchas coſas. Siempre tu-
+ue ea falta de no me ſaber dar a
+entender, como he dicho, no a co-
+a de muchas palabras. Comiença vna
+monja a tener oracion,  vn mple
+la gouierna y ſe le antoja, harale en-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="502" y="108"/>
+	<Point x="502" y="206"/>
+	<Point x="671" y="206"/>
+	<Point x="671" y="108"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>154</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1752" y="2620"/>
+	<Point x="1752" y="2712"/>
+	<Point x="2013" y="2712"/>
+	<Point x="2017" y="2617"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tender</Unicode></TextEquiv></TextRegion></Page></PcGts>

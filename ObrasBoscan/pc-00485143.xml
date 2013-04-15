@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485143">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T05:48:00</Created>
+	<LastChange>2011-05-12T13:40:57</LastChange></Metadata>
+	<Page imageFilename="00485143.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="464" y="81"/>
+	<Point x="988" y="90"/>
+	<Point x="986" y="168"/>
+	<Point x="837" y="172"/>
+	<Point x="492" y="177"/>
+	<Point x="466" y="172"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="598" y="3010"/>
+	<Point x="1400" y="3010"/>
+	<Point x="1400" y="3096"/>
+	<Point x="598" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="344" y="183"/>
+	<Point x="462" y="188"/>
+	<Point x="1100" y="181"/>
+	<Point x="1627" y="187"/>
+	<Point x="1631" y="2866"/>
+	<Point x="316" y="2855"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y endo el euador, ſere'l euado.
+Yo rompere las ondas de Neptuno:
+Y mi proa porne, contra los vientos
+D'Eolo, y no me turbaran los Phocas:
+Ni me ternã las muy peynadas Nymphas:
+Aun que Thetis ai venga con eas,
+Morando los ſus pechos ſobre'l agua.
+Ni aqueos con ſus roros monruoſos,
+Ni aqueas con ſus hermoſuras blandas,
+Diuertir me podran de mi camino.
+No temere los montes delas aguas:
+Ni el bramido del mar embrauecido:
+Viendo que voy adonde'as, ire
+Por camino muy ano, y muy ſeguro.
+Solamente vna coſa t'encomiendo,
+Que quando acordaras, que yo ati vaya,
+En la noche me pongas vna lumbre:
+Muy iunto ala ventana donde duermes:
+Por que mejor ſaber yo pueda el punto,
+De quando e d'ir, y al tiempo que ya fuere.
+En lo eſcuro atinar ſea mas facil.
+Tu lumbre me ſera la cierta guia,
+Con que ſera guiado mi viage:
+Haa tomar derechamente'l puerto.
+No ſera meneer alçar los ajos:
+Canſados, y adormidos para'l norte
+Como el piloto en medio del gran golſo:
+Paado lo peor ya dea noche.
+No curare del reluziente carro:
+Ni de ſu carretero que le buelue:
+Ni las ereas, que fortuna mueuen</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1031" y="86"/>
+	<Point x="1035" y="164"/>
+	<Point x="1087" y="165"/>
+	<Point x="1570" y="175"/>
+	<Point x="1570" y="90"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. LXXXVIII.</Unicode></TextEquiv></TextRegion></Page></PcGts>

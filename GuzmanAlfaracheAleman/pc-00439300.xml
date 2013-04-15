@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439300">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T01:25:59</Created>
+	<LastChange>2011-05-12T13:39:57</LastChange></Metadata>
+	<Page imageFilename="00439300.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="155" y="88"/>
+	<Point x="946" y="82"/>
+	<Point x="1235" y="75"/>
+	<Point x="1231" y="106"/>
+	<Point x="1237" y="171"/>
+	<Point x="178" y="172"/>
+	<Point x="162" y="162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PARTE II. LIBRO III. CAP. II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="6" y="175"/>
+	<Point x="1086" y="188"/>
+	<Point x="1151" y="186"/>
+	<Point x="1395" y="193"/>
+	<Point x="1398" y="2590"/>
+	<Point x="1386" y="2590"/>
+	<Point x="1371" y="2591"/>
+	<Point x="1361" y="2590"/>
+	<Point x="1003" y="2608"/>
+	<Point x="23" y="2611"/>
+	<Point x="23" y="2608"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>joyas y dineros ya los teniamos pueos en cobro. Quan-
+do me vieron mis acreedores preo, acudiò cada uno,
+embargandome por lo que le tocava, preſentando ſus
+eſcrituras y contratos, ante diferentes eſcrivanos: em-
+pero ſaliendo à eo el nuero, pidiò que como à ori-
+ginario ſe avian todos de acomular al que paava en
+lu oﬁcio, por ſer el mas antiguo, y donde primero ſe
+pidiò. Aſ lo mandaron los Alcaldes, viendo ſer
+coſa juiﬁcada. Como vieron el mal remedio que
+con mis bienes tenian, acudieron luego à embargar
+los quinientos ducados de renta, ſaliò ſu dueño, y
+defendiolos, dixo el to de mi muger ſer ſuyos.
+Començoſe à trabar ſobre todo un pleytezio que
+paava de mil y quinientas hojas, ai eſcrituras de
+obligaciones, como teamentos, particiones, po-
+deres, y otra multitud grande que ſe vino à juntar
+de papeles. Cada uno que lo pedia para evarlo à
+ſu Letrado, como avia de pagar al eſcrivano tantos
+derechos, temblava; pagavanle unos, empero avia
+otros que viendo el pleyto mal parado, y metido à
+la venta la çarça, no lo querian, y deeavan que
+ſe dieen medios en la paga, por no hazer mas co-
+as, y hechar la ſoga tras el caldero. Vian que ya
+una vez pueo en aqueo, no avian de ſalir con
+eo, antes me ayudavan à negociar, por ſer el daño
+inremediable de otra manera. Pedì eſperanças por
+diez años, fueronmelas concediendo algunos: jun-
+tòſeles luego mi ſuegro, y como cayò à ſu parte la
+mayor, hizieron à los menos paar por lo que los
+mas: con que ſalì de la carcel, quedando el eſcri-
+vano el mejor librado. Dee bordo, aunque me pu-
+ſe braguero, fue de plata, quedème con mucha
+hazienda de los pobres que me la ﬁaron, engañados
+en mi credito; hize aquea voz, lo que ſolia ha-
+zerſe empre, mas con mucha honra y mejor nom-
+bre, que aun que verdaderamente aqueo es hurtar,
+quedaſenos el nombre de mercaderes y, no de ladro-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="533" y="2863"/>
+	<Point x="1303" y="2870"/>
+	<Point x="1302" y="2882"/>
+	<Point x="1296" y="2926"/>
+	<Point x="1200" y="2933"/>
+	<Point x="533" y="2927"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1275" y="2666"/>
+	<Point x="1276" y="2610"/>
+	<Point x="1335" y="2611"/>
+	<Point x="1380" y="2603"/>
+	<Point x="1405" y="2635"/>
+	<Point x="1393" y="2668"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1271" y="170"/>
+	<Point x="1281" y="95"/>
+	<Point x="1398" y="96"/>
+	<Point x="1418" y="147"/>
+	<Point x="1425" y="165"/>
+	<Point x="1408" y="186"/>
+	<Point x="1311" y="181"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>269</Unicode></TextEquiv></TextRegion></Page></PcGts>

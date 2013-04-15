@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485180">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T02:22:18</Created>
+	<LastChange>2011-05-12T13:41:01</LastChange></Metadata>
+	<Page imageFilename="00485180.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="630" y="3025"/>
+	<Point x="1395" y="3025"/>
+	<Point x="1395" y="3091"/>
+	<Point x="630" y="3091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="482" y="195"/>
+	<Point x="1609" y="192"/>
+	<Point x="1607" y="582"/>
+	<Point x="1677" y="583"/>
+	<Point x="1671" y="2807"/>
+	<Point x="472" y="2845"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y fuera, dilatar, hazerſe agrauio.
+Temblando, como tiembla el azogado,
+Tomo ſu lumbre, y fuee ala ventana,
+Aentandola ai diſcretamente,
+Porque del viento defendida fuee.
+No fue tan preo ai puea la lumbre,
+Que, Leandro tan preo no la viee,
+Con los ojos que Amor, le daua empre.
+Con eos recibio la luz, y el fuego,
+De la ſeña encendida: y ai ardiendo,
+S' aparejo, par' al camino 'raño.
+Pueo ya junto, do 'l erecho brauo
+Daua ſus golpes, n jamas canſarſe:
+Euuo ai, mirando la tiniebla,
+Tendida en ſu color por todo l ayre.
+Su frente alço, tras eo a ver el cielo,
+Y ai con cada 'rea s' alegraua,
+Penſando recebir fauor de todas.
+Deſpues deo, 'ſcucho con diligencia
+Por todo al derredor,  ſe oyria
+Coſa, de que guardarſe conuiniee.
+Y nunca ſus oy dos alcançaron,
+En que topar pudieen, no ſolo
+En el contino ſon del mar, dond' Hee,
+Dexo con ſu cayda y ſu renombre.
+La 'ſcuridad, embuelta en el eruendo,
+Daua temor al pecho del amante:
+Mas no, porque pudiee ſer mouido
+Su coraçon, a mas d' vn ſentimiento.
+Que no era mas ſu eﬀeo de ſentirſe.
+La verdad ſuya, y ſu voluntad cierta</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="821" y="94"/>
+	<Point x="1288" y="94"/>
+	<Point x="1288" y="185"/>
+	<Point x="821" y="185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r12" type="other">
+	<Coords>
+	<Point x="1292" y="100"/>
+	<Point x="1418" y="100"/>
+	<Point x="1418" y="176"/>
+	<Point x="1292" y="176"/></Coords></GraphicRegion></Page></PcGts>

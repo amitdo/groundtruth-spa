@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485063">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T05:38:51</Created>
+	<LastChange>2011-05-12T13:40:50</LastChange></Metadata>
+	<Page imageFilename="00485063.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="664" y="96"/>
+	<Point x="1379" y="101"/>
+	<Point x="1381" y="188"/>
+	<Point x="664" y="190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ CANCION.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="464" y="201"/>
+	<Point x="1752" y="201"/>
+	<Point x="1752" y="1515"/>
+	<Point x="464" y="1515"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tienta me Amor con peligroſas prueuas.
+Quiça el tentar no ſea derrocarme:
+Ya tanto fatigarme
+Bae en vn coraçon tan fatigado.
+No es tiẽpo Amor đ mas querer ꝓuarme:
+Eſcuſado es andar trayendo nueuas,
+Para que mas me mueuas.
+Tienes me pueo en vn tan baxo'ado,
+Que ni puedes quitar, ni dar cuydado.
+Perdido e la verguença y el temor:
+Quien empre tiene todo'l mal preſente,
+El por venir no ente.
+Tus amenazas ya no dan doIor.
+Vanidad es, y tiempo muy perdido,
+Amenazar deſpues d'hauer herido.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="419" y="1535"/>
+	<Point x="1692" y="1535"/>
+	<Point x="1692" y="2880"/>
+	<Point x="419" y="2880"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Gran plazer es ear determinado,
+Y penſar lo peor el penſamiento.
+Gran parte del tormento
+Ahorra el coraçon, quando le traga:
+Arma ſe a cada pao el penſamiento
+Del que empre en deſdichas fue criado.
+De'arte yo cuytado
+Conuiene por mi dicha que lo haga,
+Si quiero endurecerme en ea aga.
+Tengo por bien adelantar la pena,
+De miedo de ſuﬀria toda iunta.
+En ver que'I mal m'apunta,
+Adrede pienſo lo que mas me pena.
+No me tomara Amor no apercebido:
+Que'n los oidos traygo ſu ruido.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="627" y="3027"/>
+	<Point x="1398" y="3027"/>
+	<Point x="1396" y="3090"/>
+	<Point x="627" y="3092"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r5">
+	<Coords>
+	<Point x="1386" y="109"/>
+	<Point x="1386" y="192"/>
+	<Point x="1528" y="192"/>
+	<Point x="1528" y="109"/></Coords></GraphicRegion></Page></PcGts>

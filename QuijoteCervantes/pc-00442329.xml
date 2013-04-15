@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442329">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T22:35:36</Created>
+	<LastChange>2012-03-12T14:11:52</LastChange></Metadata>
+	<Page imageFilename="00442329.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="150" y="147"/>
+	<Point x="557" y="154"/>
+	<Point x="838" y="144"/>
+	<Point x="1425" y="152"/>
+	<Point x="1397" y="2111"/>
+	<Point x="1145" y="2114"/>
+	<Point x="1114" y="2138"/>
+	<Point x="1064" y="2115"/>
+	<Point x="932" y="2106"/>
+	<Point x="808" y="2112"/>
+	<Point x="698" y="2132"/>
+	<Point x="160" y="2115"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>en vna bataa rota la eſpada, deſgajò de vna enzina
+vn peſado ramo, o tronco, y con el hizo tales co-
+ſas aquel dia, y machacò tantos Moros, que le que-
+dò por ſobrenombre Machuca, y aſsi el como ſus
+decendientes, ſe amaron deſde aquel dia en adelã-
+te, Vargas, y Machuca. Hete dicho eo, porque de
+la primera enzina, o roble que ſe me depare, pienſo
+deſgajar otro tronco, tal y tã buenocomo aquel, que
+me imagino y pienſo hazer con el tales hazañas, 
+tu te tengas por bien afortunado, de auer merecido
+venir aveas, y aſer teigo de coſas  apenas podrã
+ſer creydas. A la mano de Dios, dixo Sancho, yo lo
+creo todo aſsi como vuera merced lo dize, pero
+endereceſe vn poco, que parece que va de medio la
+do, y deue de ſer del molimiento de la cayda. Aſsi es
+la verdad, reſpondio don Quixote, y no me que-
+xo del dolor, es porque no es dado a los cauaeros
+andantes, quexarſe de herida alguna, aũque ſe le ſal
+gan las tripas por ea. Si eo es aſsi, no tengo yo 
+replicar, reſpondio Sancho, pero ſabe Dios  yo me
+holgara que vuera merced ſe quexara quãdo algu
+na coſa le doliera. De mi ſe dezir, que me he de que-
+xar del mas pequeño dolor que tẽga,  ya no ſe en-
+tiende tambien, con los eſcuderos de los cauaeros
+andantes eo del no quexarſe. No ſe dexò de reyr
+don Quixote, de la mplicidad de ſu eſcudero, y aſ-
+ le declarò que podia muy bien quexarſe, como y
+quando quiee n gana, o con ea, que haa entõ-
+ces no auia leydo coſa en contrario en la orden de
+cauaeria. Dixole Sancho, que mirae que era ho-
+ra de comer, reſpondiole ſu amo, que por entonces
+no le hazia meneer, que comiee el quando ſe le</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="credit">
+	<Coords>
+	<Point x="462" y="2305"/>
+	<Point x="1128" y="2305"/>
+	<Point x="1120" y="2350"/>
+	<Point x="1025" y="2348"/>
+	<Point x="1023" y="2358"/>
+	<Point x="1013" y="2358"/>
+	<Point x="1011" y="2350"/>
+	<Point x="464" y="2348"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1234" y="2122"/>
+	<Point x="1234" y="2192"/>
+	<Point x="1392" y="2192"/>
+	<Point x="1392" y="2122"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>anto-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="signature-mark">
+	<Coords>
+	<Point x="880" y="2112"/>
+	<Point x="881" y="2186"/>
+	<Point x="976" y="2187"/>
+	<Point x="978" y="2118"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1277" y="83"/>
+	<Point x="1277" y="145"/>
+	<Point x="1376" y="145"/>
+	<Point x="1376" y="83"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>27</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="517" y="66"/>
+	<Point x="510" y="141"/>
+	<Point x="577" y="148"/>
+	<Point x="639" y="131"/>
+	<Point x="907" y="127"/>
+	<Point x="1065" y="131"/>
+	<Point x="1053" y="53"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443170">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T01:44:24</Created>
+	<LastChange>2011-03-15T16:51:40</LastChange></Metadata>
+	<Page imageFilename="00443170.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r10" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r9" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="544" y="82"/>
+	<Point x="1017" y="82"/>
+	<Point x="1017" y="210"/>
+	<Point x="544" y="210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro ſegundo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="89" y="227"/>
+	<Point x="1624" y="224"/>
+	<Point x="1599" y="1704"/>
+	<Point x="1606" y="1717"/>
+	<Point x="82" y="1713"/>
+	<Point x="82" y="727"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no profetizar, i a ſe euvo eſperando todos los quaren
+ta dias faera de la ciudad à ver  ſe cumplia; i como no
+ſe cumplieſe, ſe afligio grandemente, tanto, que dixo a
+Dios: Obſecro Domine, nunquid non hoc e verbum meum,
+cum adhùc eem in terra mea? propter hoc procupavi vt
+fugerem in Thars. Ruegote Señor, por ventura, no es
+eo lo que yo dezia eando en mi tierra? por eſo con-
+tradixe, i me fui huyendo a Tars: i enojòſe el Santo, i
+rogò a Dios que le quitaſe la vida. Que ai pues que ma
+raviarnos, de que algunas coſas que Dios hable, i reve
+le a las almas, no ſalgã a como eos lo entienden? Por
+que dado caſo, que Dios aﬁrme al alma, ò la repreſente
+tal, ò tal coſa de biẽ, ò de mal para , ò para otra,  aque
+o va fundado en cierto efeto, o ſervicio, o ofenſa, que
+aquea alma, o la otra entonces hazen a Dios; i dema-
+nera, que  perſeveran en aqueo (como avemos dicho)
+ſe cumplira, no por eo es cierto cumplirſe como ſue-
+na, pues no es cierto el perſeverar. Por tanto no ai que
+aſegurarſe, ni aﬁrmarſe en ſu inteligencia, no en Fè.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="96" y="1910"/>
+	<Point x="94" y="1842"/>
+	<Point x="202" y="1838"/>
+	<Point x="218" y="1836"/>
+	<Point x="776" y="1846"/>
+	<Point x="1042" y="1850"/>
+	<Point x="1608" y="1868"/>
+	<Point x="1600" y="2056"/>
+	<Point x="1556" y="2248"/>
+	<Point x="82" y="2228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Declara como aunque Dios reſponde a lo que ſe le pi-
+de algunas vezes, no gua de que uſen de tal termino.
+Iprueva como aunque condeſciende, i reſ-
+ponde, muchas vezes ſe enoja.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="261" y="2279"/>
+	<Point x="1606" y="2297"/>
+	<Point x="1583" y="2781"/>
+	<Point x="1536" y="2783"/>
+	<Point x="1408" y="2797"/>
+	<Point x="79" y="2759"/>
+	<Point x="87" y="2520"/>
+	<Point x="246" y="2522"/>
+	<Point x="256" y="2445"/>
+	<Point x="256" y="2380"/>
+	<Point x="259" y="2363"/>
+	<Point x="256" y="2347"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Segutandoſe (como avemos dicho) algunos Efpi-
+rituales; i no reparando mucho en la curiodad
+de que algunas vezes uſan, en procurar ſaber algu
+nas coſas por via ſobrenatural, penſando que pues Dios
+algunas vezes reſponde a inancia deos, que es aquel
+buen termino, i que Dios gua del, como quiera</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="787" y="2936"/>
+	<Point x="1413" y="2930"/>
+	<Point x="1413" y="2990"/>
+	<Point x="775" y="2989"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1434" y="106"/>
+	<Point x="1434" y="203"/>
+	<Point x="1582" y="203"/>
+	<Point x="1582" y="106"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>159</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="384" y="1744"/>
+	<Point x="362" y="1832"/>
+	<Point x="1226" y="1846"/>
+	<Point x="1198" y="1768"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITVLO XXI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1455" y="2802"/>
+	<Point x="1455" y="2867"/>
+	<Point x="1501" y="2869"/>
+	<Point x="1587" y="2867"/>
+	<Point x="1589" y="2795"/>
+	<Point x="1507" y="2795"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="drop-capital">
+	<Coords>
+	<Point x="87" y="2276"/>
+	<Point x="87" y="2470"/>
+	<Point x="243" y="2470"/>
+	<Point x="243" y="2276"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion></Page></PcGts>

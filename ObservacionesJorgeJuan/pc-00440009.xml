@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440009">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T11:53:39</Created>
+	<LastChange>2011-12-19T11:38:34</LastChange></Metadata>
+	<Page imageFilename="00440009.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="2121" y="358"/>
+	<Point x="2263" y="358"/>
+	<Point x="2263" y="458"/>
+	<Point x="2121" y="458"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>xxj</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="364" y="458"/>
+	<Point x="1556" y="436"/>
+	<Point x="2025" y="441"/>
+	<Point x="2092" y="470"/>
+	<Point x="2346" y="470"/>
+	<Point x="2349" y="971"/>
+	<Point x="1289" y="993"/>
+	<Point x="758" y="1015"/>
+	<Point x="682" y="1014"/>
+	<Point x="373" y="1021"/>
+	<Point x="367" y="478"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ee principio,  la Tierra no es igualmente curva en to‐
+das partes, lo ſerà mas en aqueas, donde ſe perciba
+igual mutacion en la altura Meridiana de las Ereas,
+que ſe ama amplitud de un arco, haviendoſe caminado
+menor diancia baxo del miſmo Meridiano; y al con‐
+trario.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="371" y="1031"/>
+	<Point x="551" y="1031"/>
+	<Point x="1163" y="1009"/>
+	<Point x="1317" y="1004"/>
+	<Point x="1412" y="1004"/>
+	<Point x="2325" y="1003"/>
+	<Point x="2346" y="1001"/>
+	<Point x="2365" y="1003"/>
+	<Point x="2366" y="1032"/>
+	<Point x="2363" y="1062"/>
+	<Point x="2351" y="1702"/>
+	<Point x="903" y="1767"/>
+	<Point x="795" y="1776"/>
+	<Point x="739" y="1778"/>
+	<Point x="373" y="1782"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El haver haado M. Caſsini los grados Septentriona‐
+les de la Francia menores que los Meridionales, no es
+otra coſa, que el haver haado igual mutacion en la
+altura Meridiana de las Ereas en la parte Septentrio‐
+nal, que en la Meridional, haviendo hecho, n embar‐
+go, menos camino en la del Septentrion; luego la Tier‐
+ra, por lo dicho, debe ſer mas curva en ea parte, que
+en la otra.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="374" y="1794"/>
+	<Point x="465" y="1792"/>
+	<Point x="500" y="1793"/>
+	<Point x="536" y="1792"/>
+	<Point x="841" y="1787"/>
+	<Point x="958" y="1778"/>
+	<Point x="1058" y="1770"/>
+	<Point x="2331" y="1724"/>
+	<Point x="2336" y="2203"/>
+	<Point x="2312" y="2204"/>
+	<Point x="1020" y="2242"/>
+	<Point x="919" y="2241"/>
+	<Point x="575" y="2248"/>
+	<Point x="556" y="2248"/>
+	<Point x="426" y="2251"/>
+	<Point x="375" y="2248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Por el miſmo argumento ſe debe inferir, que  los
+grados de Meridiano Septentrionales fueen por el contra‐
+rio mayores que los Meridionales, la Tierra debe ſer me‐
+nos curva en las partes mas cercanas à los Polos, que en las
+mas remotas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="377" y="2262"/>
+	<Point x="521" y="2263"/>
+	<Point x="885" y="2253"/>
+	<Point x="2349" y="2234"/>
+	<Point x="2354" y="3355"/>
+	<Point x="2321" y="3353"/>
+	<Point x="2151" y="3368"/>
+	<Point x="2127" y="3369"/>
+	<Point x="2075" y="3373"/>
+	<Point x="2032" y="3373"/>
+	<Point x="2002" y="3375"/>
+	<Point x="860" y="3431"/>
+	<Point x="434" y="3429"/>
+	<Point x="375" y="3426"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Teniendo ſegun eo por exaa la medida de M. Caſsi‐
+ni, no havìa duda en que la Tierra fuee mas curva àcia
+las partes Septentrionales, que àcia las Meridionales, y
+por eo le aplicò la ﬁgura de una Eſpheroide longa, pro‐
+ducida por la revolucion de un Ovalo como BECQ a, que
+ſe ſupone rodar ſobre ſu Exe EQ; pues en ee Cuerpo,
+ò lo que es lo proprio, en el Ovalo todas las partecias
+de ſu circunferencia, mas inmediatas à los Polos E, y Q,
+tienen mayor curvidad, que las que eàn mas inmediatas
+al Equador BC: determinacion totalmente opuea à la
+de M. Huygens, y el Cavaero Newton, que hacìan la
+Tierra una Eſpheroide chata, ſemejante à la de la miſma</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="981" y="3996"/>
+	<Point x="1949" y="3996"/>
+	<Point x="1949" y="4098"/>
+	<Point x="981" y="4098"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="2205" y="3370"/>
+	<Point x="2339" y="3369"/>
+	<Point x="2344" y="3457"/>
+	<Point x="2207" y="3457"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="2358" y="2591"/>
+	<Point x="2358" y="2750"/>
+	<Point x="2612" y="2750"/>
+	<Point x="2612" y="2591"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a ﬁg. 14.
+Lam. 7.</Unicode></TextEquiv></TextRegion></Page></PcGts>

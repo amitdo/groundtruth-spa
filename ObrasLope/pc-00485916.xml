@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485916">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T04:33:25</Created>
+	<LastChange>2011-07-28T11:29:12</LastChange></Metadata>
+	<Page imageFilename="00485916.tif" imageWidth="2250" imageHeight="3124">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r12" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r14" index="2"/>
+	<RegionRefIndexed regionRef="r8" index="3"/>
+	<RegionRefIndexed regionRef="r15" index="4"/>
+	<RegionRefIndexed regionRef="r9" index="5"/>
+	<RegionRefIndexed regionRef="r10" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="737" y="85"/>
+	<Point x="1670" y="105"/>
+	<Point x="1879" y="110"/>
+	<Point x="1888" y="108"/>
+	<Point x="1886" y="218"/>
+	<Point x="1669" y="230"/>
+	<Point x="1475" y="203"/>
+	<Point x="1350" y="221"/>
+	<Point x="1173" y="196"/>
+	<Point x="759" y="179"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comedia de Lope de Vega.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="379" y="284"/>
+	<Point x="1350" y="318"/>
+	<Point x="1404" y="310"/>
+	<Point x="1550" y="310"/>
+	<Point x="1591" y="332"/>
+	<Point x="1616" y="332"/>
+	<Point x="1699" y="307"/>
+	<Point x="1912" y="306"/>
+	<Point x="1914" y="565"/>
+	<Point x="1145" y="521"/>
+	<Point x="1063" y="495"/>
+	<Point x="961" y="470"/>
+	<Point x="740" y="478"/>
+	<Point x="548" y="471"/>
+	<Point x="473" y="485"/>
+	<Point x="413" y="470"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bern. Eame vn poco atento inuio Carlos
+y ſabras de mi Rey a lo que vengo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="313" y="2300"/>
+	<Point x="386" y="2281"/>
+	<Point x="502" y="2317"/>
+	<Point x="549" y="2314"/>
+	<Point x="581" y="2310"/>
+	<Point x="600" y="2297"/>
+	<Point x="668" y="2311"/>
+	<Point x="685" y="2304"/>
+	<Point x="720" y="2311"/>
+	<Point x="748" y="2323"/>
+	<Point x="860" y="2314"/>
+	<Point x="933" y="2325"/>
+	<Point x="980" y="2295"/>
+	<Point x="1012" y="2275"/>
+	<Point x="1072" y="2270"/>
+	<Point x="1160" y="2245"/>
+	<Point x="1783" y="2241"/>
+	<Point x="1792" y="2571"/>
+	<Point x="1803" y="2763"/>
+	<Point x="345" y="2787"/>
+	<Point x="341" y="2647"/>
+	<Point x="320" y="2376"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bernardo. Lo que eſcuchas, y  a caſo
+jornada tienes preuenida a Eſpaña,
+ya el Moro y el Chriiano ean amigos,
+y pienſo que le quiere rendir parias.
+Carlos. Leuantate.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="catch-word">
+	<Coords>
+	<Point x="1486" y="2791"/>
+	<Point x="1825" y="2791"/>
+	<Point x="1825" y="2871"/>
+	<Point x="1486" y="2871"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bernardo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="credit">
+	<Coords>
+	<Point x="672" y="3058"/>
+	<Point x="1423" y="3061"/>
+	<Point x="1423" y="3105"/>
+	<Point x="1304" y="3115"/>
+	<Point x="1299" y="3104"/>
+	<Point x="940" y="3105"/>
+	<Point x="673" y="3102"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="503" y="185"/>
+	<Point x="490" y="220"/>
+	<Point x="494" y="280"/>
+	<Point x="1371" y="311"/>
+	<Point x="1438" y="301"/>
+	<Point x="1539" y="300"/>
+	<Point x="1583" y="323"/>
+	<Point x="1608" y="322"/>
+	<Point x="1712" y="294"/>
+	<Point x="1711" y="237"/>
+	<Point x="1652" y="236"/>
+	<Point x="1466" y="209"/>
+	<Point x="1355" y="231"/>
+	<Point x="1201" y="207"/>
+	<Point x="1105" y="200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no le faltara atreuimiento y fuerças.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="337" y="571"/>
+	<Point x="1886" y="582"/>
+	<Point x="1830" y="2216"/>
+	<Point x="1151" y="2228"/>
+	<Point x="876" y="2220"/>
+	<Point x="849" y="2200"/>
+	<Point x="831" y="2192"/>
+	<Point x="782" y="2193"/>
+	<Point x="617" y="2194"/>
+	<Point x="612" y="2208"/>
+	<Point x="593" y="2219"/>
+	<Point x="558" y="2211"/>
+	<Point x="523" y="2197"/>
+	<Point x="379" y="2184"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bernardo. En la lengua remitidas,
+ﬁrmadas con la ſangre y con las armas
+del ſeo de Leon y de Caia,
+en ﬁn Carlos yo ſoy poco retorico,
+que no me crio el cielo para Vlies,
+y an n mucho prologo, de parte
+de Caia Leon y las Aurias.
+Digo que a ſu peſar de Alfonſo el Cao,
+no ſe te quieren dar, ni lo imaginan,
+antes toman contra el las armas,
+que pueo que tu ſeas claro Principe,
+famoſo en guerra y paz, y que te ha dado
+nombre de Chriianiſsimo la Iglea:
+Eos dizen que tienen Rey legitimo
+Chriiano y natural, y al ﬁn Alfonſo
+dize que le perdones que no puede
+cumplirte la palabra prometida.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r13" type="handwritten-annotation">
+	<Coords>
+	<Point x="1102" y="2809"/>
+	<Point x="1237" y="2809"/>
+	<Point x="1237" y="2930"/>
+	<Point x="1102" y="2930"/></Coords></GraphicRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="376" y="493"/>
+	<Point x="376" y="561"/>
+	<Point x="1082" y="570"/>
+	<Point x="1117" y="573"/>
+	<Point x="1136" y="563"/>
+	<Point x="1114" y="520"/>
+	<Point x="1053" y="504"/>
+	<Point x="720" y="484"/>
+	<Point x="551" y="480"/>
+	<Point x="475" y="490"/>
+	<Point x="417" y="478"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Carlos. Traes cartas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="575" y="2227"/>
+	<Point x="500" y="2203"/>
+	<Point x="345" y="2192"/>
+	<Point x="317" y="2270"/>
+	<Point x="496" y="2282"/>
+	<Point x="575" y="2287"/>
+	<Point x="682" y="2300"/>
+	<Point x="725" y="2311"/>
+	<Point x="732" y="2315"/>
+	<Point x="939" y="2301"/>
+	<Point x="953" y="2287"/>
+	<Point x="969" y="2289"/>
+	<Point x="983" y="2259"/>
+	<Point x="953" y="2227"/>
+	<Point x="880" y="2231"/>
+	<Point x="812" y="2202"/>
+	<Point x="631" y="2204"/>
+	<Point x="607" y="2223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Carlos. Que dizes.</Unicode></TextEquiv></TextRegion></Page></PcGts>

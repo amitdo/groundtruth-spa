@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442465">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T04:33:17</Created>
+	<LastChange>2012-03-12T14:12:03</LastChange></Metadata>
+	<Page imageFilename="00442465.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="389" y="54"/>
+	<Point x="1110" y="55"/>
+	<Point x="1113" y="140"/>
+	<Point x="522" y="143"/>
+	<Point x="532" y="169"/>
+	<Point x="503" y="170"/>
+	<Point x="386" y="153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="148" y="170"/>
+	<Point x="419" y="173"/>
+	<Point x="563" y="177"/>
+	<Point x="1218" y="166"/>
+	<Point x="1406" y="166"/>
+	<Point x="1409" y="2133"/>
+	<Point x="1207" y="2133"/>
+	<Point x="1200" y="2148"/>
+	<Point x="142" y="2143"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>to natural ſabe, que es perſeguido. Mandò a Sancho,
+que alçae el yelmo, el qual tomãdola en las manos,
+dixo: Por Dios que la bazia es buena, y que vale vn
+real de a ocho, coma vn marauedi. Y dandoſela a ſu
+amo, ſe la puſo luego en la cabeça, rodeandola a vna
+parte y a otra, buſcandole el encaxe, y como no ſe le
+haaua, dixo: Sin duda que el pagano, a cuya medida
+ſe forjò primero ea famoſa celada, deuia de tener
+grandiſsima cabeça, y lo peor deo es, que le falta la
+mitad. Quando Sancho oyò amar ala bazia, cela-
+da, no pudo tener la riſa, mas vinoſele a las mientes,
+la colera de ſu amo, y caô en la mitad dea. De 
+te ries Sancho, dixo don Quixote? Riome, reſpõdio
+el, de conderar la gran cabeça que tenia el pagano,
+dueño dee almete, que no ſemeja  vna bazia de
+barbero, pintiparada. Sabes que ymagino Sancho,
+que ea famoſa pieça, dee encantado yelmo, por
+algun eraño acidente deuio de venir a manos de
+quien no ſupo conocer, ni eimar ſu valor, y n ſa‐
+ber lo que hàzia, viendola de oro puriſsimo, deuio
+de fundir la otra mitad, para aprouecharſe del pre‐
+cio, y de la otra mitad, hizo ea que parece bazia
+de barbero, como tu dizes, pero ſea lo  fuere, que
+para mi que la conozco, no haze al caſo ſu traſmuta
+cion, que yo la adereçare en el primer lugar, donde
+aya herrero, y de ſuerte que no le haga ventaja, ni
+aun le egue, la que hizo y forjò el Dios de las he-
+rrerias, para el Dios de las bataas, y en ee entretã
+to la traere como pudiere, que mas vale algo que no
+nada, quanto mas, que bien ſera baante para defen‐
+derme de alguna pedrada. Eo ſera, dixo Sancho, ‐
+no ſe tira con honda, como ſe tiraronen la pelea de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="456" y="2302"/>
+	<Point x="1138" y="2302"/>
+	<Point x="1138" y="2355"/>
+	<Point x="456" y="2355"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1277" y="56"/>
+	<Point x="1277" y="151"/>
+	<Point x="1381" y="151"/>
+	<Point x="1381" y="56"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>95</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1287" y="2140"/>
+	<Point x="1287" y="2209"/>
+	<Point x="1383" y="2209"/>
+	<Point x="1383" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>los</Unicode></TextEquiv></TextRegion></Page></PcGts>

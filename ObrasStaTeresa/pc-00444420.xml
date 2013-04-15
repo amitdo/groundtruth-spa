@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444420">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:08:02</Created>
+	<LastChange>2011-12-19T11:39:44</LastChange></Metadata>
+	<Page imageFilename="00444420.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="966" y="94"/>
+	<Point x="1629" y="94"/>
+	<Point x="1629" y="211"/>
+	<Point x="966" y="211"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="407" y="240"/>
+	<Point x="2044" y="222"/>
+	<Point x="2087" y="2648"/>
+	<Point x="1922" y="2638"/>
+	<Point x="1855" y="2659"/>
+	<Point x="1813" y="2674"/>
+	<Point x="1803" y="2675"/>
+	<Point x="1783" y="2677"/>
+	<Point x="416" y="2672"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>caeria en peccado mortal. Yo tengo cierto
+que aſsi fue, porque deſde a pocos años mu-
+rio, y ſu muerte, y lo que viuio fue con tan-
+ta penitencia, la vida y la muerte con tanta
+ſantidad, que a quanto ſe puede entender no
+ay que poner duda. Dixome vn frayle que
+auia eado a ſu muerte que antes que eſpi-
+rae, le dixo como eaua con el Santo Tho-
+mas, murio con gran gozo, y deeo de ſalir
+de ee deierro. Deſpues me ha aparecido al
+gunas vezes con muy grã gloria, y dichome
+algunas coſas: tenia tanta oracion, que quan-
+do murio, que con la gran ﬂaqueza la quie-
+ra eſcuſar, no podia; porque tenia muchos ar-
+robamientos. Eſcriuiome poco antes que mu
+riee: que, que medio ternia, porque como
+acabaua de dezir Mia ſe quedaua cõ arroba
+miẽto mucho rato n poderlo eſcuſar, diole
+Dios al ﬁn el premio de lo mucho que auia
+ſeruido en toda ſu vida, del reor de la com-
+pañia de Ieſus, que algunas vezes he hecho
+mencion, he vio algunas coſas de grandes
+mercedes que el Señor le hazia, que por no
+alargar no las pongo aqui. Acaeciole vna vez
+vn gran trabajo en que fue muy perſeguido,
+y ſe vio muy afﬂigido. Eando yo vn dia
+oyendo Mia, vi a Chrio en la Cruz quan-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1927" y="2646"/>
+	<Point x="2007" y="2654"/>
+	<Point x="2004" y="2731"/>
+	<Point x="1892" y="2727"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>do</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="624" y="3069"/>
+	<Point x="1573" y="3069"/>
+	<Point x="1573" y="3156"/>
+	<Point x="624" y="3156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="509" y="140"/>
+	<Point x="659" y="140"/>
+	<Point x="659" y="229"/>
+	<Point x="509" y="229"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>494</Unicode></TextEquiv></TextRegion></Page></PcGts>

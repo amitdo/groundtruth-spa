@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439218">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T01:15:09</Created>
+	<LastChange>2011-05-12T13:39:52</LastChange></Metadata>
+	<Page imageFilename="00439218.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="543" y="77"/>
+	<Point x="1518" y="77"/>
+	<Point x="1520" y="163"/>
+	<Point x="527" y="159"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="303" y="173"/>
+	<Point x="1698" y="169"/>
+	<Point x="1715" y="2436"/>
+	<Point x="1709" y="2498"/>
+	<Point x="1717" y="2582"/>
+	<Point x="1068" y="2606"/>
+	<Point x="490" y="2613"/>
+	<Point x="330" y="2592"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Romana, y à otras de otros Principes, acoumbran
+ſer como los que van à la guerra, que todo les parece
+evarlo negociado y hecho, con lo qual ſuelen alar-
+garſe à gaar por los caminos, y en la Corte miſma,
+haa que la Corte les dexa de tal corte, que todo ſu
+veido lo parece de calças viejas. Deſpues buelven
+canſados, deſguados, y neceitados, ca pidiendo
+limoſna. Paan gaardos, y como los atunes gordos,
+muchos, y enos; mas deſpues que deovan, buelven
+pocos, ﬂacos, y de poco provecho. Preguntavanle tam-
+bien,  avia de redir ai algunos dias, ò  venia de
+pao: à todo reſpondia, que era hijo de una ſeñora
+viuda rica, muger que avia do de cierto Ginoves, y
+que avia venido ai à eſperar unas letras y deſpachos pa-
+ra bolverſe otra vez à Roma, y en el interin guava de
+ver à Genova, porque no ſabia quando ſeria ſu buelta, ò
+por donde, ni  tendria tiempo de poderla bolver à ver.
+Era la poſada de las mejores de la ciudad, y à donde
+acudian de ordinario gente principal y noble, ai eu-
+vimos holgando y gaando, n beſar ni tocar en coſa
+de provecho, empero con ear parados ganavamos
+mucha tierra, no eà empre dando el relox, que ſu
+hora haze, y poco à poco aguarda ſu tiempo, Algu-
+nas vezes los hueſpedes y yo jugavamos de poco, n va-
+lerme de mas que de mi fortuna y ciencia, n ſer neceſ-
+ſario la terceria de Sayabedra, que aqueo no ſolia ſalir
+no con el terno rico, à ﬁeas dobles: que quando la
+perdida ò ganancia, no avia de ſer de mucha condera-
+cion, era muy acertado andar cenzio: empero dee
+modo, yva continuamente con pie de plomo, cono-
+ciendo el naype, no me dava y acudia mal, dexavalo
+con paca perdida: mas quando venia con viento favo-
+rable, nunca dexè de ſeguir la ganancia haa barrer-
+lo todo. Como ganae un dia poco mas de cien eſcu-
+dos, y huviee haadoſe à mi lado un Capitan de ga-
+lera, de quien ſentia averſe aﬁcionado à mi juego, y
+holgadoſe de la ganancia, y que no andava tan ſobra-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="520" y="2871"/>
+	<Point x="824" y="2855"/>
+	<Point x="1315" y="2860"/>
+	<Point x="1328" y="2933"/>
+	<Point x="542" y="2931"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="305" y="56"/>
+	<Point x="305" y="164"/>
+	<Point x="459" y="164"/>
+	<Point x="459" y="56"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>186</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1613" y="2604"/>
+	<Point x="1610" y="2664"/>
+	<Point x="1713" y="2664"/>
+	<Point x="1709" y="2603"/>
+	<Point x="1659" y="2587"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>do</Unicode></TextEquiv></TextRegion></Page></PcGts>

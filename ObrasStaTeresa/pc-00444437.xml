@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444437">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:40:02</Created>
+	<LastChange>2011-12-19T11:39:45</LastChange></Metadata>
+	<Page imageFilename="00444437.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="377" y="120"/>
+	<Point x="1534" y="111"/>
+	<Point x="1537" y="224"/>
+	<Point x="371" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="169" y="241"/>
+	<Point x="1760" y="246"/>
+	<Point x="1793" y="2634"/>
+	<Point x="1183" y="2638"/>
+	<Point x="1133" y="2647"/>
+	<Point x="171" y="2666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>yo aqui la ventaja, y auia de andar auergon-
+çada delante de Dios, porque lo que ſu Ma-
+gead no acabo conmigo en tanta multi-
+tud de años, como ha que comence a tener
+oracion, y me començo a hazer mercedes,
+acaba con eas en tres meſes, y aun con
+alguna en tres dias, con hazerlas muchas
+menos que a mi, aunque bien las paga ſu
+Magead, a buen ſeguro que no ean deſ-
+contentas, por lo que por el han hecho. Pa-
+ra eo querria yo ſe nos acordae de los
+muchos años, a los que los tenemos de pro-
+feſsion, y las perſonas que los tienen de ora-
+cion, y no para fatigar a los que en poco tiem
+po van mas adelante, con hazerlos tornar
+atras, para que anden a nuero pao, y a
+los que buelan como aguilas con las merce-
+des que les haze Dios, quererlos hazer an-
+dar como poo trauado, no que pongamos
+los ojos en ſu Magead, y  los vieremos
+con humildad darles la rienda, que el Señor
+que los haze tantas mercedes no los dexa-
+ra deſpeñar. Fianſe eos miſmos de Dios,
+que eo les aprouecha la verdad que cono-
+cen de la fe, y no los ﬁaremos noſotros? -
+no que queremos medirlos por nuera me-
+dida conforme a nueros baxos animos? no</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1566" y="2648"/>
+	<Point x="1747" y="2641"/>
+	<Point x="1754" y="2739"/>
+	<Point x="1564" y="2744"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>an,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="615" y="3064"/>
+	<Point x="1573" y="3066"/>
+	<Point x="1568" y="3149"/>
+	<Point x="617" y="3150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1570" y="137"/>
+	<Point x="1570" y="238"/>
+	<Point x="1738" y="238"/>
+	<Point x="1738" y="137"/>
+	<Point x="1680" y="146"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>515</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1205" y="2649"/>
+	<Point x="1205" y="2736"/>
+	<Point x="1433" y="2736"/>
+	<Point x="1433" y="2649"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Kk 2</Unicode></TextEquiv></TextRegion></Page></PcGts>

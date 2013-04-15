@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442903">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:51:49</Created>
+	<LastChange>2012-03-12T14:12:34</LastChange></Metadata>
+	<Page imageFilename="00442903.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="455" y="72"/>
+	<Point x="1163" y="76"/>
+	<Point x="1164" y="170"/>
+	<Point x="454" y="182"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="198" y="184"/>
+	<Point x="446" y="187"/>
+	<Point x="506" y="184"/>
+	<Point x="1483" y="173"/>
+	<Point x="1483" y="1755"/>
+	<Point x="580" y="1762"/>
+	<Point x="209" y="1777"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>alguna, ni la alcançara, ni ſupiera,  la buena ſuerte
+no le depararà vn antiguo medico, que tenia en
+ſu poder vna caxa de plomo, que ſegun el dixo, ſe
+au¡a haado en los cimientos derribados, de vna
+antigua ermita, que ſe renouaua. En la qual caxa,
+ſe auian haado vnos pergaminos eſcritos con le-
+tras Goticas, pero en verſos Caeanos, que con-
+tenian muchas de ſus hazañas, y dauan noticia de la
+hermoſura de Dulzinea del Toboſo, de la ﬁgura de
+Rozinante, de la ﬁdelidad de Sancho Pança, y de
+la ſepultura del meſmo don Quixote, con diferen-
+tes epitaﬁos, y elogios de fu vida, y coumbres. Y
+los que ſe pudieron leer, y ſacar en limpio, fueron
+los que aqui pone el ﬁdedigno autor, dea nueua,
+y jamas via hioria. El qual autor no pide a los
+que la leyeren, en premio del inmenſo trabajo, que
+le coo inquerir, y buſcar todos los archiuos Man-
+chegos, por ſacarla a luz: no que le den el meſmo
+credito que ſuelen dar los diſcretos, a los libros de
+cauaerias, que tan validos andan en el mundo, que
+con eo ſe tendra por bien pagado, y ſatisfecho. Y
+ſe animarà a ſacar, y buſcar otras, no tan ver dade-
+ras, alomenos de tanta inuencion, y paatiempo.
+Las palabras primeras que eauan eſcritas en el per
+gamino que ſe haò en la caxa de plomo, eran
+eas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1384" y="2128"/>
+	<Point x="1486" y="2128"/>
+	<Point x="1486" y="2226"/>
+	<Point x="1384" y="2226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="233" y="1785"/>
+	<Point x="362" y="1778"/>
+	<Point x="572" y="1772"/>
+	<Point x="1475" y="1768"/>
+	<Point x="1466" y="2100"/>
+	<Point x="1004" y="2102"/>
+	<Point x="827" y="2106"/>
+	<Point x="748" y="2102"/>
+	<Point x="233" y="2091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Los Academicos de la Argamaa, lugar de
+la Mancha, en vida, y muerte, del valero�
+ſo don Quixote de Ia Mancha.
+Hoc ſcripſerunt.
+(.?.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="1111" y="2130"/>
+	<Point x="1267" y="2130"/>
+	<Point x="1267" y="2233"/>
+	<Point x="1111" y="2233"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>*2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="474" y="2303"/>
+	<Point x="463" y="2349"/>
+	<Point x="1015" y="2350"/>
+	<Point x="1013" y="2359"/>
+	<Point x="1025" y="2360"/>
+	<Point x="1027" y="2351"/>
+	<Point x="1119" y="2351"/>
+	<Point x="1139" y="2305"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

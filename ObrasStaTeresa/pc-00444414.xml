@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444414">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T11:37:16</Created>
+	<LastChange>2011-12-19T11:39:44</LastChange></Metadata>
+	<Page imageFilename="00444414.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="898" y="80"/>
+	<Point x="1492" y="80"/>
+	<Point x="1492" y="183"/>
+	<Point x="898" y="183"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="433" y="210"/>
+	<Point x="1996" y="204"/>
+	<Point x="2023" y="2618"/>
+	<Point x="1742" y="2620"/>
+	<Point x="1586" y="2656"/>
+	<Point x="410" y="2652"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>miſerable que tengo yo en mucho que aya
+auido nadie que me crea, bendito ſea vuero
+nombre y miſericordia, que alomenos a mi
+conocida mejoria he vio en mi alma, deſ-
+pues quiera ea earſe empre ai, y no
+tornar a biuir, porque fue grande el deſpre-
+cio que me quedo de todo lo de aca, parecia-
+me vaſura, y veo yo quã baxamente nos ocu-
+pamos, los que nos detenemos en eo. Quã-
+do eaua con aquea ſeñora que he dicho,
+me acaecio vna vez eando yo mala del co-
+raçon, porque como he dicho, le he tenido
+rezio, aunque ya no lo es. Como era de mu-
+cha charidad, hizome ſacar joyas de oro y
+piedras que las tenia de gran valor, en eſpe-
+cial vna de diamantes que apreciauan en mu
+cho, ea penſo que me alegraran, yo eaua
+me riendo entre mi, y auiendo laima de ver
+lo que eiman los hombres, acordãdome de
+lo que nos tiene guardado el Señor, y penſa-
+ua quan impoſsible me ſeria, aunque yo con
+migo miſma lo quiee procurar, tener en
+algo aqueas coſas  el Señor no me quitaua
+la memoria de otras. Eo es vn gran ſeñorio
+para el alma, tan grande, que no ſe  lo entẽ-
+dera, no quien le poee, porque es el pro-
+pio y natural deſamiento, porque es n tra</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="624" y="3069"/>
+	<Point x="1572" y="3069"/>
+	<Point x="1572" y="3153"/>
+	<Point x="624" y="3153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1777" y="2625"/>
+	<Point x="1773" y="2721"/>
+	<Point x="1978" y="2721"/>
+	<Point x="1983" y="2626"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bajo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="404" y="92"/>
+	<Point x="404" y="202"/>
+	<Point x="580" y="202"/>
+	<Point x="580" y="92"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>488</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444158">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:05:08</Created>
+	<LastChange>2011-12-19T11:39:28</LastChange></Metadata>
+	<Page imageFilename="00444158.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="937" y="100"/>
+	<Point x="1528" y="93"/>
+	<Point x="1542" y="227"/>
+	<Point x="930" y="216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1780" y="2644"/>
+	<Point x="1986" y="2642"/>
+	<Point x="1998" y="2735"/>
+	<Point x="1775" y="2733"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſentir</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="625" y="3072"/>
+	<Point x="1562" y="3072"/>
+	<Point x="1562" y="3156"/>
+	<Point x="625" y="3156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="443" y="233"/>
+	<Point x="2062" y="234"/>
+	<Point x="2036" y="2637"/>
+	<Point x="1802" y="2640"/>
+	<Point x="446" y="2687"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>deshora viene vn deeo, que no ſe como ſe
+mueue, y dee deeo que penetra toda el al-
+ma en vn punto ſe comiença tanto a fatigar 
+ſube muy ſobre , y de todo lo criado, y pone
+la Dios tã deerta de todas las coſas, que por
+mucho que ea trabage ninguna que la acõ-
+pañe, parece ay en la tierra ni ea la querria,
+no morir en aquea ſoledad. Que la hablen,
+y ea ſe quiera hazer toda la fuerça poſsible
+a hablar aprouecha poco, que ſu ſpiritu aun-
+que ea mas haga no ſe quita de aquea ſole
+dad, y con parecerme que ea eonces lexiſ-
+mo Dios, a vezes comunica ſus grandezas
+por vn modo el mas eraño que ſe puede pẽ
+ſar, y an no ſe ſabe dezir, ni creo lo creera, ni
+entendera no quien vuiere paado por eo,
+porque no es la comunicacion para conſolar,
+no para morar la razon que tiene de fati-
+garſe de ear auſente de bien, que en tiene
+todos los bienes. Con ea comunicaciõ crece
+el deeo, y el eremo de ſoledad en  ſe vee
+con vna pena tan delgada y penetratiua, que
+aunque el alma ſe eaua puea en aquel de-
+erto, que al pie de la letra me parece ſe pue-
+de entonces dezir, y por ventura lo dixo el
+Real propheta, eando en la miſma ſoledad,
+no que como a ſano ſe la daria el Señor a</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="440" y="137"/>
+	<Point x="440" y="230"/>
+	<Point x="619" y="230"/>
+	<Point x="619" y="137"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>230</Unicode></TextEquiv></TextRegion></Page></PcGts>

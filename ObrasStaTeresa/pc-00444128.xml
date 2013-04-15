@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444128">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:01:20</Created>
+	<LastChange>2011-12-19T11:39:27</LastChange></Metadata>
+	<Page imageFilename="00444128.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="422" y="120"/>
+	<Point x="616" y="114"/>
+	<Point x="618" y="205"/>
+	<Point x="428" y="207"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>200</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="930" y="89"/>
+	<Point x="1560" y="99"/>
+	<Point x="1549" y="214"/>
+	<Point x="923" y="207"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="412" y="222"/>
+	<Point x="1372" y="225"/>
+	<Point x="1604" y="220"/>
+	<Point x="2069" y="218"/>
+	<Point x="2072" y="2626"/>
+	<Point x="1884" y="2636"/>
+	<Point x="1626" y="2663"/>
+	<Point x="393" y="2666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y tormento, y eoruo de ſu deſcanſo, y digo
+que  es vnion de todas las potencias, que
+aunque quiera, eando en ea, digo no pue-
+de, y  puede, ya no es vnion. El como es
+ea que aman vnion, y lo que es yo no lo
+ſe dar a entender, en la myica theologia ſe
+declara, que yo los vocablos no ſabre nom-
+brarlos, ni ſe entender que es, mente, ni que
+diﬀerencia tenga del alma, o ſpiritu tampo-
+co, todo me parece vna coſa, bien que el al-
+ma alguna vez ſale de  meſma a manera de
+vn fuego, que eà ardiendo y hecho ama,
+y algunas vezes crece ee fuego con impe-
+tu, ea ama ſube muy arriba del fuego, mas
+no por eo es coſa diﬀerente, no la meſ-
+ma ama que ea en el fuego. Eo vueſas
+mercedes lo entenderan con ſus letras, que
+yo no lo ſe mas dezir. Lo que yo pretendo
+declarar es, que ente el alma quando ea
+en ea diuina vnion. Lo que es vnion, ya
+ſe ea entendido, que es dos coſas diuiſas
+hazerſe vna. O Señor mio que bueno ſoys,
+bendito ſeays para empre, alaben os Dios
+mio todas las coſas, que an nos amaes,
+de manera, que con verdad podamos ha-
+blar dea comunicacion, que, aun en ee
+deierro, teneys con las almas, y aun con</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1878" y="2647"/>
+	<Point x="1880" y="2638"/>
+	<Point x="1993" y="2635"/>
+	<Point x="1996" y="2723"/>
+	<Point x="1865" y="2723"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>las</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="594" y="3067"/>
+	<Point x="1582" y="3069"/>
+	<Point x="1584" y="3150"/>
+	<Point x="600" y="3152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

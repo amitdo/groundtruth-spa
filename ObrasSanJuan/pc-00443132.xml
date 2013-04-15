@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443132">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T12:32:48</Created>
+	<LastChange>2011-03-15T16:51:38</LastChange></Metadata>
+	<Page imageFilename="00443132.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="98" y="246"/>
+	<Point x="1673" y="205"/>
+	<Point x="1677" y="1005"/>
+	<Point x="324" y="1027"/>
+	<Point x="327" y="1081"/>
+	<Point x="128" y="1087"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>los ſenti dos, crea que no ſe eà perdiendo, ni por de-
+mas. Porque, aunque ceſe la armonia de las Potencias
+del alma, la inteligencia dea eà dela manera que ave
+mos dicho. Que por eſo la Eſpoſa que era ſabia, ſe reſ-
+pondio a  meſma en ea duda, diziendo: Aunque
+duermo yo, ſegun lo que yo ſoi naturalmente, ceſando
+de obrar, mi coraçon vela ſobrenaturalmente elevado
+en noticia ſobrenatural: el indicio que ai para conocer
+ el alma eà empleada en ea inteligencia ſecreta,
+es,  vè, que no guà de penſar en coſa alguna alta ni
+baxa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="222" y="1183"/>
+	<Point x="228" y="1094"/>
+	<Point x="341" y="1093"/>
+	<Point x="368" y="1073"/>
+	<Point x="1697" y="1056"/>
+	<Point x="1705" y="2745"/>
+	<Point x="1347" y="2750"/>
+	<Point x="1340" y="2776"/>
+	<Point x="139" y="2783"/>
+	<Point x="133" y="1185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pero es de ſaber, que no ſe ha de en tender; que ea
+noticia ha de cauſar por ſuerça ee olvido, para ſer, co-
+mo aqui dezimos, que eſo ſolo acaece, cuando Dios con
+particularidad abrae al alma. I eo ſucede las menos
+vezes; porque no empre ea noticia ocupa toda el al-
+ma. I para que ſea la que baa en el caſo que vamos tra
+tando, baa que el Entendimiento eè abraido de
+cualquiera noticia particular, aora ſea tẽporal, aora eſpi-
+ritual; i que no tenga gana la Voluntad de penſar acer-
+ca de unas, ni de otras coſas, como avemos dicho. I eſ-
+te indicio ſe ha de tener, para entender, que eà el al-
+ma en ee olvido, cuando ea noticia ſe aplica ſolo al
+Entendimiento, i ſe le comunica. Por cuando juntamẽ
+te ſe comunica a la Volūtad,  es ca ẽpre, poco, o mu-
+cho, no dexa el alma de entẽder, quiere mirar en eo,
+que eà empleada i ocupada en ea noticia; por cuan-
+to ſe ente con ſabor de amor en ea, n ſaber, ni enten
+der particularmente lo que ama. I por eſo la ama noti
+cia amoroſa i general; porque a como lo es en el Enten
+dimiento comunicandoſe a el eſcuramente, a tambien
+lo es en la Voluntad, comunicandola amor i ſabor con-
+fuſamente, n que ſepa diintamente lo que ama. Eo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1528" y="2755"/>
+	<Point x="1695" y="2755"/>
+	<Point x="1695" y="2826"/>
+	<Point x="1528" y="2826"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bae</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="769" y="2930"/>
+	<Point x="1421" y="2930"/>
+	<Point x="1421" y="3000"/>
+	<Point x="769" y="3000"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="594" y="83"/>
+	<Point x="1051" y="83"/>
+	<Point x="1051" y="207"/>
+	<Point x="594" y="207"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro ſegundo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1514" y="87"/>
+	<Point x="1514" y="185"/>
+	<Point x="1667" y="185"/>
+	<Point x="1667" y="87"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>121</Unicode></TextEquiv></TextRegion></Page></PcGts>

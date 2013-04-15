@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438806">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T07:39:14</Created>
+	<LastChange>2011-06-24T14:04:18</LastChange></Metadata>
+	<Page imageFilename="00438806.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="160" y="81"/>
+	<Point x="1060" y="75"/>
+	<Point x="1056" y="179"/>
+	<Point x="160" y="181"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GARCILASSO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="27" y="192"/>
+	<Point x="1109" y="188"/>
+	<Point x="1183" y="871"/>
+	<Point x="1267" y="1092"/>
+	<Point x="487" y="1089"/>
+	<Point x="277" y="1086"/>
+	<Point x="158" y="1109"/>
+	<Point x="37" y="1088"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>he de cantar, ſus quexas imitando,
+cuy as ouejas, al cantar ſabroſo,
+eauan muy atentas, los amores
+(de pacer oluidadas) eſcuchando.
+Tu, que ganae obrando
+vn nombre en todo el mundo,
+y vn grado n ſegundo:
+agora ees atento, ſolo, y dado
+al inclito gouierno del eado
+Albano, agora buelto a la otra parte
+reſplandeciente armado,
+repreſentãdo en tierra el ﬁero Marte:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1123" y="2014"/>
+	<Point x="1301" y="2015"/>
+	<Point x="1304" y="2083"/>
+	<Point x="1287" y="2085"/>
+	<Point x="1124" y="2080"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>antes</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="496" y="2097"/>
+	<Point x="973" y="2096"/>
+	<Point x="975" y="2140"/>
+	<Point x="496" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="25" y="1092"/>
+	<Point x="19" y="1106"/>
+	<Point x="30" y="2003"/>
+	<Point x="587" y="2022"/>
+	<Point x="651" y="2003"/>
+	<Point x="909" y="1998"/>
+	<Point x="1058" y="2008"/>
+	<Point x="1066" y="2011"/>
+	<Point x="1139" y="2003"/>
+	<Point x="1202" y="1495"/>
+	<Point x="1139" y="1107"/>
+	<Point x="845" y="1099"/>
+	<Point x="254" y="1096"/>
+	<Point x="185" y="1119"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Agora de cuy dados enojoſos,
+y de negocios libre, por ventura
+andes a caça el monte fatigando
+en ardiente ginete, que apreura
+el curſo tras los cieruos temeroſos,
+que en vano ſu morir van dilatando,
+eſpera que en tornando
+a ſer reituydo
+alocio ya perdido,
+luego veràs exercitar mi pluma,
+por la inﬁnita inumerable ſuma.
+de tus virtudes, y famoſas obras,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="806" y="2016"/>
+	<Point x="806" y="2089"/>
+	<Point x="969" y="2089"/>
+	<Point x="969" y="2016"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="marginalia">
+	<Coords>
+	<Point x="1248" y="1235"/>
+	<Point x="1361" y="1235"/>
+	<Point x="1361" y="1324"/>
+	<Point x="1248" y="1324"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>80</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1152" y="200"/>
+	<Point x="1152" y="113"/>
+	<Point x="1264" y="113"/>
+	<Point x="1264" y="200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>34</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="marginalia">
+	<Coords>
+	<Point x="1219" y="378"/>
+	<Point x="1219" y="250"/>
+	<Point x="1335" y="250"/>
+	<Point x="1335" y="378"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>78</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="marginalia">
+	<Coords>
+	<Point x="1237" y="809"/>
+	<Point x="1237" y="707"/>
+	<Point x="1372" y="707"/>
+	<Point x="1372" y="809"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>79</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442641">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T12:34:23</Created>
+	<LastChange>2012-03-12T14:12:13</LastChange></Metadata>
+	<Page imageFilename="00442641.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="436" y="68"/>
+	<Point x="1174" y="58"/>
+	<Point x="1164" y="148"/>
+	<Point x="674" y="148"/>
+	<Point x="602" y="158"/>
+	<Point x="531" y="163"/>
+	<Point x="517" y="165"/>
+	<Point x="463" y="158"/>
+	<Point x="419" y="156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="151" y="158"/>
+	<Point x="451" y="162"/>
+	<Point x="476" y="161"/>
+	<Point x="513" y="166"/>
+	<Point x="540" y="163"/>
+	<Point x="548" y="163"/>
+	<Point x="556" y="164"/>
+	<Point x="673" y="154"/>
+	<Point x="938" y="154"/>
+	<Point x="1289" y="149"/>
+	<Point x="1443" y="161"/>
+	<Point x="1441" y="2122"/>
+	<Point x="1400" y="2115"/>
+	<Point x="1145" y="2144"/>
+	<Point x="179" y="2171"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>frequencia de las vitas, y parabienes, començò Lo-
+tario a deſcuy darſe con cuydado de las y das en caſa
+de Anſelmo, por parecerle a el (como es razon que
+parezca a todos los que fueren diſcretos) que no
+ſe hã de vitar ni continuar las caſas de los amigos
+caſados, de la miſma manera que quañdo eran ſolte
+ros. Porque aunque la buena, y verdadera amiad
+no puede, ni deue de ſer ſoſpechoſa en nada, con to-
+to eo es tan delicada la honra del caſado,  parece
+que ſe puede ofender, aũ de los meſmos hermanos,
+quanto mas de los amigos. Notò Anſelmo la remiſ-
+on de Lotario, y formò del que xas grandes, diziẽ
+dole, que  el ſupiera, que el caſarſeauia de ſer par-
+te para no comunicae como ſolia, que jamas lo hu
+uiera hecho: y que  por la buena correſpondencia
+que los dos tenian mientras el fue ſoltero auian
+alcançado tan dulce nombre como el de ſer ama-
+dos los dos amigos, que no permitiee por querer
+hazer del circunpeo, n otra ocaon alguna, que
+tan famoſo, y tan agradablé nombre ſe perdiee: y
+ aſsi le ſu publicaua,  era licito, que tal termino de
+hablar ſe vſae entre eos, que boluiee a ſer ſe-
+ñor de ſu caſa, y a entrar, y ſalir en ea, como de an-
+tes, a ſegurãdole que ſu eſpoſa Camila no tenia otro
+guo, ni otra voluntad que la que el queria que tu-
+uiee: y que por auer ſabido ea con quantas veras
+los dos ſe amauan, eaua confuſa de ver en el tanta
+eſquiueza. A todas eas y otras muchas razones, 
+Anſelmo dixoa Lotario, para perſuadie boluiee
+como ſolia a ſu caſa. Reſpõdio Lotario cõ tãta pru-
+dẽcia, diſcrecion, y auiſo,  Anſelmo quedó ſatisfe-
+cho de la buena intencion de ſu amigo: y quedaron</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="459" y="2308"/>
+	<Point x="1127" y="2308"/>
+	<Point x="1119" y="2348"/>
+	<Point x="1067" y="2348"/>
+	<Point x="1028" y="2351"/>
+	<Point x="1022" y="2361"/>
+	<Point x="1013" y="2361"/>
+	<Point x="1015" y="2350"/>
+	<Point x="963" y="2351"/>
+	<Point x="468" y="2348"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1280" y="58"/>
+	<Point x="1286" y="138"/>
+	<Point x="1305" y="142"/>
+	<Point x="1434" y="146"/>
+	<Point x="1441" y="58"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>182</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1348" y="2129"/>
+	<Point x="1348" y="2187"/>
+	<Point x="1416" y="2187"/>
+	<Point x="1426" y="2159"/>
+	<Point x="1416" y="2129"/>
+	<Point x="1393" y="2120"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444227">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:43:53</Created>
+	<LastChange>2011-12-19T11:39:32</LastChange></Metadata>
+	<Page imageFilename="00444227.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="291" y="121"/>
+	<Point x="1465" y="127"/>
+	<Point x="1469" y="226"/>
+	<Point x="292" y="232"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="127" y="254"/>
+	<Point x="1712" y="254"/>
+	<Point x="1742" y="2674"/>
+	<Point x="1366" y="2679"/>
+	<Point x="1153" y="2694"/>
+	<Point x="165" y="2687"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>den eas ﬂorezicas no las amo deuociones,
+aunque ſon buenos principios, y ſantos ſen-
+timientos, mas no para determinar eos ef-
+fetos de buen eſpiritu, o malo. Y an es me-
+neer andar empre con gran auiſo. Porque
+las perſonas que no ean mas adelante en la
+oracion, que haa eo facilmente podrian
+ſer engañados,  tuuieen viones o reuela-
+ciones, yo nunca tuue coſas deas poreras,
+haa auerme Dios dado por ſola ſu bondad
+oracion de vnion,  no fue la primera vez
+que dixe, que ha muchos años, que vi a Chri-
+o, que pluguiera a ſu Magead entendiera
+yo era verdadera vion, como deſpues he en
+tendido, que no me fuera poco bien. Ningu-
+na blandura queda en el alma, no como eſ-
+pantada, y con gran deſguo. Tengo por cier
+to, que el demonio no engañara ni lo permi-
+tira Dios a alma, que de ninguna coſa ſe ﬁa de
+, y eà fortalecida en la fe, que entienda ea
+de , que por vn punto dea morira mil muer
+tes, y con ee amor a la fe que infunde luego
+Dios,  es vna fe viua, fuerte, empre procura
+yr conforme a lo que tiene la yglea, pregun-
+tando a vnos y a otros, como quiẽ tiene ya he
+cho aſsiẽto fuerte en eas verdades que no la
+moueriã quãtas reuelaciones pueda imaginar</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1436" y="2687"/>
+	<Point x="1707" y="2681"/>
+	<Point x="1714" y="2769"/>
+	<Point x="1425" y="2772"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aunque</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="614" y="3070"/>
+	<Point x="1563" y="3070"/>
+	<Point x="1563" y="3153"/>
+	<Point x="614" y="3153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1525" y="125"/>
+	<Point x="1522" y="246"/>
+	<Point x="1717" y="244"/>
+	<Point x="1709" y="125"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>299</Unicode></TextEquiv></TextRegion></Page></PcGts>

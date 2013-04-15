@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444228">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:44:00</Created>
+	<LastChange>2011-12-19T11:39:32</LastChange></Metadata>
+	<Page imageFilename="00444228.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="960" y="101"/>
+	<Point x="1590" y="98"/>
+	<Point x="1586" y="231"/>
+	<Point x="948" y="233"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="472" y="245"/>
+	<Point x="2078" y="247"/>
+	<Point x="2063" y="2666"/>
+	<Point x="1460" y="2697"/>
+	<Point x="955" y="2701"/>
+	<Point x="475" y="2681"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aunque viee abiertos los cielos, vn punto de
+lo que tiene la yglea. Si alguna vez ſe viee
+vacilar en ſu penſamiento contra eo, o de-
+tenerſe en dezir, pues  Dios me dize eo tã-
+bien puede ſer verdad, como lo que dezia a
+los ſantos, no digo que lo crea, no que el de-
+monio la comiẽce a tentar por primer moui-
+miento, que detenerſe en eo, ya ſe vee que es
+maliſsimo, mas aun primeros mouimientos
+muchas vezes en ee caſo creo no vernã  el
+alma ea en eo tan fuerte, como la haze el
+Señor a quien da eas coſas,  le parece deſ-
+menuzaria los demonios ſobre vna verdad de
+lo  tiene la yglea muy pequeña, digo  
+no viere en  ea fortaleza grande, y  ayude
+a ea la deuocion o vion, que no la tẽga por
+ſegura, porque aun no ſe entienda luego el
+daño, poco a poco podria hazerſe grãde, que
+a lo  yo veo, y ſe de eſperiencia de tal mane-
+ra queda el credito de que es de Dios,  vaya
+conforme a la ſagrada ſcritura, y como vn tã-
+tico torciee de eo, mucha mas ﬁrmeza n
+cõparacion me parece tendria en  es demo-
+nio, que aora tengo, de  es Dios por grãde 
+la tenga, porque entonces no es meneer an-
+dar a buſcar ſeñales, ni que ſpiritu es, pues es
+tã clara ea ſeñal para creer que es demonio,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1879" y="2683"/>
+	<Point x="2021" y="2683"/>
+	<Point x="2033" y="2770"/>
+	<Point x="1882" y="2777"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="600" y="3062"/>
+	<Point x="1581" y="3062"/>
+	<Point x="1581" y="3170"/>
+	<Point x="600" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="510" y="141"/>
+	<Point x="507" y="239"/>
+	<Point x="683" y="233"/>
+	<Point x="683" y="141"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>300</Unicode></TextEquiv></TextRegion></Page></PcGts>

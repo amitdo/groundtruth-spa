@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442479">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T10:05:53</Created>
+	<LastChange>2012-03-12T14:12:04</LastChange></Metadata>
+	<Page imageFilename="00442479.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="366" y="106"/>
+	<Point x="1123" y="95"/>
+	<Point x="1117" y="185"/>
+	<Point x="517" y="207"/>
+	<Point x="505" y="216"/>
+	<Point x="365" y="210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="119" y="218"/>
+	<Point x="520" y="222"/>
+	<Point x="764" y="211"/>
+	<Point x="805" y="206"/>
+	<Point x="1123" y="198"/>
+	<Point x="1401" y="200"/>
+	<Point x="1398" y="2168"/>
+	<Point x="991" y="2171"/>
+	<Point x="969" y="2187"/>
+	<Point x="116" y="2187"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>xo don Quixote, mas vna de las guardas le dixo. Se‐
+ñor cauaero, cantar en el ana, ſe dize entre ea
+gente non ſanta, confear en el tormento. A ee pe
+cador le dieron tormento, y confeò ſu delito, que
+era ſer quatrero, que es ſer ladron de beias, y por
+auer confeado, le condenaron por ſeys años a ga‐
+leras, amen de dozientos açotes, que y a eua en las
+eſpaldas. Y va empre penſatiuo y trie, porque los
+demas ladrones que aa quedan, y aqui van, le mal‐
+tratan y aniquilan, y eſcarnecen, y tienen en poco,
+porque confeò, y no tuuo animo de dezir nones.
+Porque dizen eos, que tantas letras tiene vn no,
+como vn . Y que harta ventura tiene vn delinquen
+te, que ea en ſu lengua ſu vida, o ſu muerte, y no
+en la de los teigos, y prouanças, y para mi ten‐
+go, que no van muy fuera de camino. Y yo lo en-
+tiendo aſsi, reſpondio don Quixote, el qual paan‐
+do al tercero, preguntò lo que a los otros. El qual de
+preo, y con mucho deſenfado, reſpondio, y dixo‐
+Yo voy por cinco años, a las ſonoras gurapas, por
+faltarme diez ducados. Yo dare veynte, de muy bue
+na gana, dixo don Quixote, por libraros dea peſa‐
+dumbre. Eo me parece, reſpondio el galeote, co-
+mo quien tiene dineros en mitad del golfo, y ſe eſ‐
+ta muriendo de hambre, n tener adonde comprar
+lo que ha meneer. Digolo, por  a ſu tiẽpo tuuie-
+ra yo eos veynte ducados,  vuera merced aora
+me ofrece, vuiera vntado con eos la pẽdola del eſ-
+criuano, y auiuado el ingenio del procurador. Dema
+nera  oy me viera en mitad de la plaça de Çocodo.
+uer, de Toledo, y no en ee camino atraiado como
+galgo, pero Dios es gtãde, paciẽcia, y baa. Paò dõ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="455" y="2289"/>
+	<Point x="1140" y="2289"/>
+	<Point x="1131" y="2360"/>
+	<Point x="456" y="2353"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1247" y="97"/>
+	<Point x="1247" y="182"/>
+	<Point x="1384" y="182"/>
+	<Point x="1384" y="97"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>102</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1138" y="2176"/>
+	<Point x="1138" y="2261"/>
+	<Point x="1336" y="2261"/>
+	<Point x="1336" y="2176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixo‐</Unicode></TextEquiv></TextRegion></Page></PcGts>

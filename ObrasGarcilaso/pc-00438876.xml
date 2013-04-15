@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438876">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T20:49:41</Created>
+	<LastChange>2011-06-24T14:04:22</LastChange></Metadata>
+	<Page imageFilename="00438876.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r9" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="233" y="50"/>
+	<Point x="918" y="35"/>
+	<Point x="924" y="111"/>
+	<Point x="237" y="137"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GARCILASSO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="27" y="161"/>
+	<Point x="664" y="135"/>
+	<Point x="998" y="124"/>
+	<Point x="1011" y="496"/>
+	<Point x="698" y="507"/>
+	<Point x="686" y="526"/>
+	<Point x="652" y="530"/>
+	<Point x="645" y="516"/>
+	<Point x="120" y="528"/>
+	<Point x="106" y="547"/>
+	<Point x="86" y="543"/>
+	<Point x="80" y="529"/>
+	<Point x="70" y="241"/>
+	<Point x="27" y="240"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El arena quemaua, el Sol ardia,
+la gente ſe caía medio muerta:
+el ſolo con deſpierta vigilança
+daña ua la tardança, ﬂoxa, inerte,
+y alabaua la muerte glorioſa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="31" y="531"/>
+	<Point x="95" y="555"/>
+	<Point x="215" y="533"/>
+	<Point x="311" y="543"/>
+	<Point x="341" y="530"/>
+	<Point x="462" y="541"/>
+	<Point x="516" y="526"/>
+	<Point x="536" y="525"/>
+	<Point x="561" y="535"/>
+	<Point x="691" y="536"/>
+	<Point x="705" y="513"/>
+	<Point x="1183" y="501"/>
+	<Point x="1194" y="886"/>
+	<Point x="943" y="895"/>
+	<Point x="934" y="883"/>
+	<Point x="819" y="883"/>
+	<Point x="793" y="902"/>
+	<Point x="780" y="885"/>
+	<Point x="79" y="913"/>
+	<Point x="81" y="613"/>
+	<Point x="29" y="612"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Luego la poluoroſa muchedumbre,
+gritando, a ſu coumbre, le cercaua:
+mas el que ſe egaua al ﬁero moço,
+euaua con deroço, y con tormento,
+del loco atreuimiento el juo pago.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="30" y="922"/>
+	<Point x="277" y="914"/>
+	<Point x="287" y="920"/>
+	<Point x="422" y="917"/>
+	<Point x="447" y="905"/>
+	<Point x="722" y="898"/>
+	<Point x="771" y="900"/>
+	<Point x="787" y="911"/>
+	<Point x="831" y="903"/>
+	<Point x="1117" y="915"/>
+	<Point x="1165" y="1957"/>
+	<Point x="765" y="1964"/>
+	<Point x="358" y="1985"/>
+	<Point x="325" y="1997"/>
+	<Point x="314" y="1978"/>
+	<Point x="147" y="1978"/>
+	<Point x="131" y="1997"/>
+	<Point x="77" y="1984"/>
+	<Point x="75" y="1984"/>
+	<Point x="78" y="1017"/>
+	<Point x="37" y="998"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vnos en bruto lago de ſu ſangre,
+cortado ya el eambre de la vida,
+la cabeça partida rebolcauan:
+otros claro morauan, eſpirando,
+de fuera palpitando las entrañas
+por las ﬁeras, y erañas cuchiadas,
+de aquea mano dadas; mas el hado
+acerbo, trie, ayrado, fue venido:
+y al ﬁn el, confundido de alboroto,
+atraueado, y roto de mil hierros,
+pidiendo de ſus yerros venia al cielo,
+puſo en el duro ſuelo la hermoſa
+cara, como la roſa matutina,
+quando ya el Sol declina a medio dia,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="752" y="1971"/>
+	<Point x="904" y="1971"/>
+	<Point x="904" y="2055"/>
+	<Point x="752" y="2055"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I 5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="490" y="2090"/>
+	<Point x="984" y="2090"/>
+	<Point x="985" y="2140"/>
+	<Point x="490" y="2138"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1079" y="38"/>
+	<Point x="1077" y="114"/>
+	<Point x="1190" y="116"/>
+	<Point x="1190" y="37"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>69</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="marginalia">
+	<Coords>
+	<Point x="1178" y="1731"/>
+	<Point x="1177" y="1810"/>
+	<Point x="1292" y="1807"/>
+	<Point x="1285" y="1727"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>170</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1058" y="1977"/>
+	<Point x="1058" y="2061"/>
+	<Point x="1217" y="2061"/>
+	<Point x="1217" y="1977"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion></Page></PcGts>

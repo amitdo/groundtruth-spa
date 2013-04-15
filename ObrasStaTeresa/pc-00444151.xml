@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444151">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:04:09</Created>
+	<LastChange>2011-12-19T11:39:28</LastChange></Metadata>
+	<Page imageFilename="00444151.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="308" y="93"/>
+	<Point x="1478" y="87"/>
+	<Point x="1475" y="195"/>
+	<Point x="310" y="196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="158" y="214"/>
+	<Point x="1781" y="215"/>
+	<Point x="1764" y="2612"/>
+	<Point x="1500" y="2611"/>
+	<Point x="1000" y="2650"/>
+	<Point x="144" y="2648"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>puede de  nada, no de mucha conﬁança de
+Dios n diſcrecion, porque no mira que aun
+tiene pelo malo. Puede ſalir del nido y ſa-
+cala Dios, mas aun no ea para bolar, porque
+las virtudes aun no ean fuertes ni tiene eſ-
+periencia, para conocer los peligros, ni ſa-
+be el daño que haze en conﬁar de . Eo
+fue lo que a mi me deruyo y para eo y
+para todo ay gran neceſsidad de maero y
+trato con perſonas ſpirituales. Bien creo que
+alma que ega Dios a ee eado  muy del
+todo no dexa ſu magead  no la dexara de
+fauorecer ni la dexara perder, mas quando, co
+mo he dicho cayere, mire mire por amor de el
+Señor no la engañen en  dexe la oracion, co-
+mo hazia a mi cõ humildad falſa, como ya he
+dicho, y muchas vezes lo querria dezir: ﬁe de
+la bondad de Dios que es mayor que todos
+los males que podemos hazer, y no ſe
+acuerda de nuera ingratitud, quando no-
+ſotros conociendonos queremos tornar a
+fu amiad, ni de las mercedes que nos
+ha hecho para caigarnos por eas, an-
+tes ayudan a perdonarnos mas preo,
+como a gente que ya era de caſa, y ha
+comido, como dizen ſu pan: acuerdenſe de
+ſus palabras, y miren lo que ha hecho con</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1470" y="2624"/>
+	<Point x="1694" y="2620"/>
+	<Point x="1711" y="2724"/>
+	<Point x="1479" y="2724"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>migo,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="620" y="3062"/>
+	<Point x="1574" y="3062"/>
+	<Point x="1574" y="3158"/>
+	<Point x="620" y="3158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1529" y="115"/>
+	<Point x="1529" y="206"/>
+	<Point x="1700" y="209"/>
+	<Point x="1696" y="115"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>223</Unicode></TextEquiv></TextRegion></Page></PcGts>

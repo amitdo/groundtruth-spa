@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485260">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T13:31:32</Created>
+	<LastChange>2011-05-12T13:41:10</LastChange></Metadata>
+	<Page imageFilename="00485260.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r4" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="r9" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="794" y="80"/>
+	<Point x="1246" y="80"/>
+	<Point x="1246" y="165"/>
+	<Point x="794" y="165"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="394" y="967"/>
+	<Point x="1660" y="967"/>
+	<Point x="1660" y="1716"/>
+	<Point x="394" y="1716"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Salio, con ſus cabeos eſparzidos:
+Ea Reyna, d'Amor, y d'hermoſora:
+Su roro blanco y blancos ſus veidos:
+Con grauedad, mezclada con dulcura.
+Los ojos, entrebiuos y caidos.
+Diuino el ademan y la ﬁgura.
+Como aquea, que Zeus traſlado,
+Delas cinco donzeas de Croto</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="credit">
+	<Coords>
+	<Point x="630" y="3024"/>
+	<Point x="1388" y="3024"/>
+	<Point x="1388" y="3090"/>
+	<Point x="630" y="3090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="452" y="173"/>
+	<Point x="1255" y="174"/>
+	<Point x="1280" y="187"/>
+	<Point x="1366" y="182"/>
+	<Point x="1399" y="188"/>
+	<Point x="1643" y="173"/>
+	<Point x="1643" y="901"/>
+	<Point x="452" y="901"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Moraua ya, ſu reſplandor la erea
+Que barre dela ſombra, nuero ſuelo:
+Y al ſu venir, toda otra coſa bea
+Dexaua, ſu lugar aa en el cielo.
+Quando, Venus ſalio, y al ſalir dea,
+Salio, el Amor y junto ſalio el zelo:
+El zelo, que d'Amor nace en las coſas,
+Y mas en las que nacen mas hermoſas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="400" y="1767"/>
+	<Point x="1694" y="1767"/>
+	<Point x="1694" y="2524"/>
+	<Point x="400" y="2524"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Deſpues, que 'uuo en medio de ſu gente,
+A todos començo de rodeaos:
+Y con ojos, de luz reſplan deciente,
+Euuo, ſobre  puea en miraos
+Y a ſu hijo, que ai eaua preſente:
+Cargo le dio que vuyee de ordenaos.
+Y ai fueron por el luego ordenados:
+Segun, la calidad de ſus cuydados.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r12" type="other">
+	<Coords>
+	<Point x="1250" y="80"/>
+	<Point x="1254" y="166"/>
+	<Point x="1270" y="167"/>
+	<Point x="1292" y="168"/>
+	<Point x="1298" y="174"/>
+	<Point x="1310" y="177"/>
+	<Point x="1334" y="179"/>
+	<Point x="1358" y="171"/>
+	<Point x="1389" y="178"/>
+	<Point x="1383" y="102"/>
+	<Point x="1300" y="80"/></Coords></GraphicRegion></Page></PcGts>

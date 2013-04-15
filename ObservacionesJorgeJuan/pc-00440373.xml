@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440373">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:27:04</Created>
+	<LastChange>2011-12-19T11:39:07</LastChange></Metadata>
+	<Page imageFilename="00440373.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r16" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="674" y="2483"/>
+	<Point x="2643" y="2483"/>
+	<Point x="2643" y="3449"/>
+	<Point x="674" y="3449"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Los grados de los Meridianos en ea proyeccion ſo‐
+bre la Eſphera, endo mayores que los del Equador, con‐
+tienen mayor numero de partes iguales, en que ſe dividen
+èos, que ſon las que amamos Meridionales. La can‐
+tidad de èas, que encierra qualquier arco de Meridiano,
+M. Eduardo Wright la dedùxo ſumando todas las Secantes
+contenidas en el miſmo arco; y como cada parte la tomò
+por un minuto del Equador, ſe reduxo eo à ſumar todas
+las Secantes de 1', 2', 3', &amp;c minutos, que comprehen-
+dìa el arco; con lo qual formò la Tabla, que haa hoy a‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="1002" y="4009"/>
+	<Point x="1944" y="4009"/>
+	<Point x="1944" y="4093"/>
+	<Point x="1002" y="4093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="678" y="514"/>
+	<Point x="2683" y="505"/>
+	<Point x="2683" y="2470"/>
+	<Point x="677" y="2470"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>gacion; y ſobre eos podrà el Piloto hacer ſus operacio‐
+nes en adelante, de igual forma, que antes, con ſolo
+atender à ea desigualdad, alterar la magnitud de los gra‐
+dos en la Carta Eſphérica, y Tabla de partes Meridionales,
+que ſon las unicas guias por las quales ſe eva exaamente
+un diario en la navegacion. Debemos ſu invencion à M.
+Eduardo Wright, quien por ea repreſentò con toda jui-
+cacion la Eſphera en plano: cone en eablecer los Me‐
+ridianos paralelos los unos à los otros, y por conguien‐
+te todos los grados de Longitud iguales; y como la pro-
+priedad de las lineas de Rumbos ſea la de formar iguales
+angulos con todos los Meridianos, eas lineas que en la
+Eſphera ſon Eſpirales, vienen en la proyeccion reas; lo
+que facilita à los Pilotos, el modo de haar, à què
+Rumbo quedan unos lugares de otros; pero para conſer‐
+var M. Eduardo Wright la razon, que tienen entre sì los
+grados de Longitud con los de Latitud, aumentò èos en
+la miſma razon, que havìa aumentado los de los parale‐
+los: eo es, como los Senos de los complementos de La‐
+titud ſon al Radio, ò como el Radio es à las Secantes de
+las Latitudes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="756" y="380"/>
+	<Point x="937" y="380"/>
+	<Point x="937" y="506"/>
+	<Point x="757" y="507"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>350</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="1272" y="380"/>
+	<Point x="2100" y="380"/>
+	<Point x="2100" y="502"/>
+	<Point x="1272" y="502"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="catch-word">
+	<Coords>
+	<Point x="2455" y="3460"/>
+	<Point x="2455" y="3536"/>
+	<Point x="2627" y="3536"/>
+	<Point x="2627" y="3460"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ma‐</Unicode></TextEquiv></TextRegion></Page></PcGts>

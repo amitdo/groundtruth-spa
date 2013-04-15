@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444442">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:40:46</Created>
+	<LastChange>2011-12-19T11:39:45</LastChange></Metadata>
+	<Page imageFilename="00444442.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="864" y="81"/>
+	<Point x="1485" y="87"/>
+	<Point x="1479" y="213"/>
+	<Point x="850" y="218"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="386" y="222"/>
+	<Point x="1990" y="224"/>
+	<Point x="1977" y="2633"/>
+	<Point x="1773" y="2646"/>
+	<Point x="1641" y="2665"/>
+	<Point x="384" y="2699"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>oﬀenderme, vnas lanças, otras eſpadas, otras
+dagas, y otras eoques muy largos, en ﬁn
+yo no podia ſalir por ninguna parte n que
+me puee a peligro de muerte, y ſola n
+perſona que haae de mi parte, eando
+mi eſpiritu en ea afﬂicion, que no ſabia
+que me hazer, alce los ojos al cielo, y vi
+a Chrio, no en el cielo, no bien alto de
+mi en el ayre que tendia la mano hazia mi,
+y deſde ai me fauorecia, de manera que
+ya no temia toda la otra gente, ni eos aun-
+que querian me podian hazer daño. Pare-
+ce n fruto ea vion, y hame hecho gran-
+diſsimo prouecho, porque ſe me dio a en-
+tender lo que gniﬁcaua, y poco deſpues me
+vi ca en aquea bateria, y conoci ſer aque-
+a vion vn retrato del mundo, que quanto
+ay en el parece tiene armas, para oﬀender a
+la trie alma, dexemos los que no ruen mu
+cho al Señor, y honras, y haziendas, y deleytes,
+y otras coſas ſemejantes, que ea claro que
+quando no ſe cara ſe vee enredada, almenos
+procuran todas eas coſas enredar, mas ami-
+gos, parientes, y lo que mas me eſpanta perſo-
+nas muy buenas, de todo me vi deſpues tan
+apretada, penſando eos que hazian bien, que
+yo no ſabia como me defender, ni que hazer.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1832" y="2655"/>
+	<Point x="1944" y="2648"/>
+	<Point x="1953" y="2740"/>
+	<Point x="1838" y="2752"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="622" y="3068"/>
+	<Point x="1581" y="3068"/>
+	<Point x="1581" y="3159"/>
+	<Point x="622" y="3159"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="406" y="118"/>
+	<Point x="406" y="216"/>
+	<Point x="589" y="216"/>
+	<Point x="589" y="118"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>520</Unicode></TextEquiv></TextRegion></Page></PcGts>

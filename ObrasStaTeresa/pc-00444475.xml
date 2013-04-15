@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444475">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:45:18</Created>
+	<LastChange>2011-12-19T11:39:47</LastChange></Metadata>
+	<Page imageFilename="00444475.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="343" y="66"/>
+	<Point x="1478" y="54"/>
+	<Point x="1521" y="58"/>
+	<Point x="1523" y="197"/>
+	<Point x="330" y="194"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="176" y="203"/>
+	<Point x="1341" y="207"/>
+	<Point x="1768" y="209"/>
+	<Point x="1762" y="2325"/>
+	<Point x="1719" y="2323"/>
+	<Point x="876" y="2338"/>
+	<Point x="742" y="2362"/>
+	<Point x="169" y="2343"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>decer con contento, en ſentir ea charidad,
+con encendimiento en el alma. Entendi aque
+as palabras que dize el Señor que earan cõ
+el alma que ea en gracia las tres diuinas per
+ſonas. Eando yo deſpues agradeciendo al Se
+ñor tan gran merced, haandome indigniſ-
+ma de ea, dezia a ſu Magead con harto
+ſentimiento, que pues me auia de hazer ſeme
+jantes mercedes que por auia dexadome de
+ſu mano para que fuee tan ruyn. Porque el
+dia antes auia tenido grã pena por mis pecca-
+dos teniẽdolos preſentes, vi aqui claro lo mu
+cho que el Señor auia pueo de ſu parte deſ-
+de que era muy niña para egarme a , con
+medios harto efﬁcaces, y como todos no me
+aprouecharon. Por donde claro ſe me re-
+preſento el exceſsiuo amor que Dios nos tie-
+ne en perdonar todo eo quando nos quere-
+mos tornar a el, y mas cõmigo que con nadie
+por muchas cauſas parece quedaron en mi al
+ma tã imprimidas aqueas tres perſonas que
+vi endo vn ſolo Dios, que a durar an im-
+poſsible ſeria dexar de ear recogida con
+tan diuina compañia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="170" y="2347"/>
+	<Point x="743" y="2366"/>
+	<Point x="880" y="2343"/>
+	<Point x="1764" y="2330"/>
+	<Point x="1729" y="2608"/>
+	<Point x="1588" y="2607"/>
+	<Point x="1123" y="2624"/>
+	<Point x="309" y="2625"/>
+	<Point x="178" y="2624"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vna vez poco antes de eo, yendo a co-
+mulgar eando la forma en el relicario, que
+aun no ſe me auia dado, vi vna manera</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1491" y="2614"/>
+	<Point x="1593" y="2609"/>
+	<Point x="1710" y="2610"/>
+	<Point x="1722" y="2702"/>
+	<Point x="1486" y="2708"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de Pa-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="592" y="3056"/>
+	<Point x="1595" y="3052"/>
+	<Point x="1598" y="3153"/>
+	<Point x="623" y="3157"/>
+	<Point x="584" y="3156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1559" y="104"/>
+	<Point x="1562" y="205"/>
+	<Point x="1748" y="203"/>
+	<Point x="1747" y="104"/>
+	<Point x="1654" y="100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>555</Unicode></TextEquiv></TextRegion></Page></PcGts>

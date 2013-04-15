@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440156">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T04:49:15</Created>
+	<LastChange>2011-12-19T11:38:46</LastChange></Metadata>
+	<Page imageFilename="00440156.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r8" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="796" y="361"/>
+	<Point x="1835" y="364"/>
+	<Point x="1835" y="454"/>
+	<Point x="796" y="452"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="334" y="464"/>
+	<Point x="2217" y="470"/>
+	<Point x="2221" y="1225"/>
+	<Point x="1629" y="1229"/>
+	<Point x="322" y="1224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>maradas, no percebimos tiro alguno. Como el Viento
+que corrìa era ſuave, atribuìmos ee defeo à las muchas
+eminencias, y profundidades, que entre uno, y otro Mon‐
+te tiene aquel terreno, en donde ſe perdìa n duda el So‐
+nido, reﬂeando en las Quebradas, que ſe haan de mas
+de 100 toeſas de hondo, y en los Montes eminentes; pues
+el de Pambamarca donde nos haabamos tiene 883½ toeſas
+de altura, contadas deſde el ano ſobre que ſe eleva.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="330" y="1236"/>
+	<Point x="1424" y="1233"/>
+	<Point x="2222" y="1232"/>
+	<Point x="2221" y="2253"/>
+	<Point x="317" y="2258"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No haviendo podìdo lograr la experiencia en dian‐
+cia tan grande, ſe reſolviò hacerla en otra menor: y el
+dia 10 de Julio de 1738 M. Godin, y yo paamos à una
+Hacienda, de los Padres Aguinos, que eà en el extre‐
+mo Septentrional del ano de Añaquito, cercana à el cami‐
+no Real de Guayabamba, de donde pretendiamos hacer la
+obſervacion; mientras Don Antonio de Uoa, y M. Bouguer
+fueron à la Hacienda de Saguanche, que eà à el lado
+opueo del Panecio, con el miſmo degnio; quedando
+unos, y otros con corta diferencia igualmente diantes del
+Cañon.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="321" y="2268"/>
+	<Point x="1603" y="2268"/>
+	<Point x="2220" y="2267"/>
+	<Point x="2221" y="3395"/>
+	<Point x="1137" y="3401"/>
+	<Point x="317" y="3406"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pumos un Pendulo de medios ſegundos en movi‐
+miento, à el abrigo del Viento, para que no le impidiee
+èe hacer las oſcilaciones iguales: eabamos al miſmo
+tiempo en parage, que pueos debaxo de èl, de ſuerte,
+que oìamos perfeamente los golpes de los medios ſegun‐
+dos, veìamos tambien claramente el Panecio, y tio don‐
+de eaba en èl el Cañon. Nos colocamos inmediatos,
+atendiendo, para empezar à contar cada uno para sì, deſ‐
+de el inante de la inﬂamacion de la Polvora, haa oìr el
+Sonido: y deſpues comunicandonos las Obſervaciones,
+que no ſe diferenciaron jamàs de medio ſegundo, toma‐
+mos un medio entre las dos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="1400" y="3413"/>
+	<Point x="1485" y="3413"/>
+	<Point x="1485" y="3492"/>
+	<Point x="1400" y="3492"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>S</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="1009" y="4017"/>
+	<Point x="1939" y="4017"/>
+	<Point x="1939" y="4093"/>
+	<Point x="1009" y="4093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1992" y="371"/>
+	<Point x="1992" y="457"/>
+	<Point x="2220" y="460"/>
+	<Point x="2217" y="371"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>137</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="2142" y="3414"/>
+	<Point x="2252" y="3414"/>
+	<Point x="2252" y="3493"/>
+	<Point x="2142" y="3493"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Se</Unicode></TextEquiv></TextRegion></Page></PcGts>

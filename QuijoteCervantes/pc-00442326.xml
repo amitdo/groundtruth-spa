@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442326">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T22:34:47</Created>
+	<LastChange>2012-03-12T14:11:52</LastChange></Metadata>
+	<Page imageFilename="00442326.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="172" y="178"/>
+	<Point x="555" y="170"/>
+	<Point x="757" y="182"/>
+	<Point x="858" y="174"/>
+	<Point x="1397" y="174"/>
+	<Point x="1425" y="181"/>
+	<Point x="1435" y="207"/>
+	<Point x="1432" y="1128"/>
+	<Point x="675" y="1124"/>
+	<Point x="674" y="1175"/>
+	<Point x="175" y="1177"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de los que vuera merced dize, por lo menos Iua-
+na Gutierrez, mi oislo, vendria a ſer Reyna, y mis
+hĳos Infantes. Pues quien lo duda, reſpondio don
+Quixote. Yo lo dudo, replicò Sancho Pança, por-
+que tengo para mi, que aunque ouiee Dios Rey-
+nos ſobre la tierra, ninguno aentaria bien ſobre la
+cabeça de Mari Gutierrez. Sepa ſeñor que no vale
+dos marauedis para Reyna, Condeſa le caera me-
+jor, y aun Dios, y ayuda. Encomiendalo tu a Dios
+Sancho, reſpondio don Quixote, que el darà lo que
+mas le conuenga: pero no apoques tu animo tanto
+que te vengas a contentar cõ menos  con ſer Ade-
+lantado. No hare ſeñor mio, reſpondio Sancho,
+y mas teniendo tan principal amo en vuera mer-
+ced, que me ſabra dar todo aqueo que me eè biẽ,
+y yo pueda euar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="186" y="1212"/>
+	<Point x="1432" y="1204"/>
+	<Point x="1430" y="1509"/>
+	<Point x="195" y="1529"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cap. VIII. Del buen ſuceo que el valeroſo don Quixo-
+te tuuo en la eſpantable, y jamas imaginada auen-
+tura de los molinos de viento, con otros ſuceos dig
+nos de felice recordacion.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="457" y="1579"/>
+	<Point x="795" y="1578"/>
+	<Point x="1443" y="1586"/>
+	<Point x="1434" y="2136"/>
+	<Point x="1261" y="2136"/>
+	<Point x="1238" y="2154"/>
+	<Point x="1208" y="2155"/>
+	<Point x="187" y="2175"/>
+	<Point x="186" y="1826"/>
+	<Point x="441" y="1826"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N eo deſcubrieron treinta, o quarenta
+molinos de viento que ay en aquel cam-
+po: y aſsi como don Quixote los vio, di-
+xo a ſu eſcudero: La ventura va guiando
+nras coſas mejor delo  acertaramos a deear. Por-
+que ves ai amigo Sancho Pança, donde ſe deſ-
+cubren treynta, o pocos mas deſaforados Gigan-
+tes con quien pienſo hazer bataa, y quitar les a to-
+dos las vidas, con cuyos deſpojos començaremos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="448" y="2308"/>
+	<Point x="1133" y="2308"/>
+	<Point x="1133" y="2373"/>
+	<Point x="448" y="2373"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="drop-capital">
+	<Coords>
+	<Point x="199" y="1571"/>
+	<Point x="450" y="1585"/>
+	<Point x="436" y="1807"/>
+	<Point x="191" y="1807"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="547" y="84"/>
+	<Point x="546" y="150"/>
+	<Point x="740" y="151"/>
+	<Point x="747" y="172"/>
+	<Point x="779" y="173"/>
+	<Point x="784" y="151"/>
+	<Point x="1035" y="154"/>
+	<Point x="1042" y="87"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Primera parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1254" y="2153"/>
+	<Point x="1252" y="2194"/>
+	<Point x="1427" y="2192"/>
+	<Point x="1431" y="2154"/>
+	<Point x="1392" y="2139"/>
+	<Point x="1374" y="2140"/>
+	<Point x="1360" y="2151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a enri-</Unicode></TextEquiv></TextRegion></Page></PcGts>

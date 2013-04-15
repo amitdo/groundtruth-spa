@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442110">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T17:48:21</Created>
+	<LastChange>2011-07-05T14:26:52</LastChange></Metadata>
+	<Page imageFilename="00442110.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r68" index="2"/>
+	<RegionRefIndexed regionRef="r29" index="3"/>
+	<RegionRefIndexed regionRef="r31" index="4"/>
+	<RegionRefIndexed regionRef="r33" index="5"/>
+	<RegionRefIndexed regionRef="r37" index="6"/>
+	<RegionRefIndexed regionRef="r34" index="7"/>
+	<RegionRefIndexed regionRef="r36" index="8"/>
+	<RegionRefIndexed regionRef="r45" index="9"/>
+	<RegionRefIndexed regionRef="r47" index="10"/>
+	<RegionRefIndexed regionRef="r49" index="11"/>
+	<RegionRefIndexed regionRef="r53" index="12"/>
+	<RegionRefIndexed regionRef="r55" index="13"/>
+	<RegionRefIndexed regionRef="r18" index="14"/>
+	<RegionRefIndexed regionRef="r20" index="15"/>
+	<RegionRefIndexed regionRef="r22" index="16"/>
+	<RegionRefIndexed regionRef="r24" index="17"/>
+	<RegionRefIndexed regionRef="r67" index="18"/>
+	<RegionRefIndexed regionRef="r26" index="19"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="200" y="176"/>
+	<Point x="372" y="176"/>
+	<Point x="372" y="267"/>
+	<Point x="200" y="267"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>540</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="887" y="189"/>
+	<Point x="1342" y="190"/>
+	<Point x="1341" y="260"/>
+	<Point x="1185" y="263"/>
+	<Point x="883" y="269"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THALIA,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="421" y="350"/>
+	<Point x="1823" y="361"/>
+	<Point x="1812" y="524"/>
+	<Point x="427" y="540"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Marido que buſca comodo, i hace relacion de ſus
+propriedades.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="818" y="566"/>
+	<Point x="1468" y="565"/>
+	<Point x="1465" y="636"/>
+	<Point x="815" y="638"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ROMANCE XL.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords>
+	<Point x="396" y="2974"/>
+	<Point x="841" y="2974"/>
+	<Point x="841" y="3034"/>
+	<Point x="396" y="3034"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* Alude al caracol.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="catch-word">
+	<Coords>
+	<Point x="1929" y="2967"/>
+	<Point x="1993" y="2961"/>
+	<Point x="1997" y="2983"/>
+	<Point x="2035" y="2978"/>
+	<Point x="2035" y="3025"/>
+	<Point x="1933" y="3027"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="credit">
+	<Coords>
+	<Point x="712" y="3135"/>
+	<Point x="1457" y="3129"/>
+	<Point x="1456" y="3189"/>
+	<Point x="1237" y="3190"/>
+	<Point x="1154" y="3191"/>
+	<Point x="710" y="3194"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="202" y="1368"/>
+	<Point x="680" y="1368"/>
+	<Point x="743" y="1394"/>
+	<Point x="914" y="1375"/>
+	<Point x="1101" y="1377"/>
+	<Point x="1100" y="1665"/>
+	<Point x="651" y="1663"/>
+	<Point x="584" y="1675"/>
+	<Point x="466" y="1655"/>
+	<Point x="319" y="1658"/>
+	<Point x="202" y="1639"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Muchachas, todo me caſo,
+Niñas, todo me deſpoſo,
+Marido de quita, i pon,
+Entre ciego, i entre ſordo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords>
+	<Point x="206" y="1668"/>
+	<Point x="490" y="1671"/>
+	<Point x="586" y="1691"/>
+	<Point x="630" y="1673"/>
+	<Point x="1101" y="1682"/>
+	<Point x="1107" y="1963"/>
+	<Point x="896" y="1973"/>
+	<Point x="858" y="1980"/>
+	<Point x="837" y="1966"/>
+	<Point x="633" y="1964"/>
+	<Point x="589" y="1964"/>
+	<Point x="562" y="1972"/>
+	<Point x="545" y="1981"/>
+	<Point x="461" y="1956"/>
+	<Point x="320" y="1960"/>
+	<Point x="258" y="1938"/>
+	<Point x="226" y="1938"/>
+	<Point x="216" y="1927"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Perſona de tan buen tae,
+Que tengo el tae de todos;
+Vieneme lo que me dan
+Los delgados, i los gordos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords>
+	<Point x="204" y="2569"/>
+	<Point x="451" y="2572"/>
+	<Point x="473" y="2588"/>
+	<Point x="486" y="2589"/>
+	<Point x="580" y="2576"/>
+	<Point x="636" y="2611"/>
+	<Point x="673" y="2593"/>
+	<Point x="936" y="2593"/>
+	<Point x="1114" y="2622"/>
+	<Point x="1116" y="2868"/>
+	<Point x="1098" y="2870"/>
+	<Point x="1044" y="2870"/>
+	<Point x="989" y="2885"/>
+	<Point x="945" y="2895"/>
+	<Point x="921" y="2889"/>
+	<Point x="900" y="2869"/>
+	<Point x="878" y="2885"/>
+	<Point x="827" y="2894"/>
+	<Point x="816" y="2886"/>
+	<Point x="800" y="2868"/>
+	<Point x="785" y="2867"/>
+	<Point x="710" y="2873"/>
+	<Point x="546" y="2889"/>
+	<Point x="521" y="2886"/>
+	<Point x="236" y="2867"/>
+	<Point x="235" y="2834"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I con eo aûn es tan vano
+De mi cabeça el entono,
+Que a quiẽ me los pone a mi,
+Parece, que ſe los pongo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords>
+	<Point x="202" y="2879"/>
+	<Point x="252" y="2882"/>
+	<Point x="427" y="2906"/>
+	<Point x="484" y="2901"/>
+	<Point x="709" y="2885"/>
+	<Point x="802" y="2881"/>
+	<Point x="824" y="2901"/>
+	<Point x="889" y="2892"/>
+	<Point x="896" y="2885"/>
+	<Point x="903" y="2885"/>
+	<Point x="930" y="2902"/>
+	<Point x="942" y="2901"/>
+	<Point x="953" y="2901"/>
+	<Point x="1001" y="2899"/>
+	<Point x="1038" y="2887"/>
+	<Point x="1107" y="2881"/>
+	<Point x="1104" y="2962"/>
+	<Point x="204" y="2962"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T engo, en queriendo dormir,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords>
+	<Point x="1164" y="685"/>
+	<Point x="2033" y="685"/>
+	<Point x="2027" y="916"/>
+	<Point x="1162" y="910"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sueño de pluma, i de plomo;
+Con prometimientos velo,
+I con las dadivas ronco.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="paragraph">
+	<Coords>
+	<Point x="1161" y="923"/>
+	<Point x="2026" y="924"/>
+	<Point x="2035" y="1233"/>
+	<Point x="1766" y="1216"/>
+	<Point x="1707" y="1216"/>
+	<Point x="1684" y="1239"/>
+	<Point x="1619" y="1226"/>
+	<Point x="1483" y="1216"/>
+	<Point x="1459" y="1237"/>
+	<Point x="1156" y="1211"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sabe a azibar la perdiz,
+Que para comerla compro;
+Pero  me lo preſentan,
+Sabe a perdiz, quanto como.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r55" type="paragraph">
+	<Coords>
+	<Point x="1157" y="1224"/>
+	<Point x="1163" y="1222"/>
+	<Point x="1419" y="1247"/>
+	<Point x="1614" y="1230"/>
+	<Point x="1632" y="1234"/>
+	<Point x="1683" y="1254"/>
+	<Point x="1772" y="1228"/>
+	<Point x="1833" y="1233"/>
+	<Point x="2040" y="1280"/>
+	<Point x="2038" y="1533"/>
+	<Point x="1616" y="1520"/>
+	<Point x="1601" y="1527"/>
+	<Point x="1579" y="1539"/>
+	<Point x="1543" y="1540"/>
+	<Point x="1539" y="1516"/>
+	<Point x="1399" y="1516"/>
+	<Point x="1396" y="1533"/>
+	<Point x="1383" y="1539"/>
+	<Point x="1369" y="1535"/>
+	<Point x="1337" y="1515"/>
+	<Point x="1317" y="1533"/>
+	<Point x="1300" y="1533"/>
+	<Point x="1165" y="1515"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Siete vezes me he caſado,
+Siete capuzes he roto;
+I me ento tan marido,
+Que pienſo ponerme el ocho.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1153" y="1524"/>
+	<Point x="1179" y="1525"/>
+	<Point x="1308" y="1538"/>
+	<Point x="1339" y="1533"/>
+	<Point x="1385" y="1547"/>
+	<Point x="1510" y="1528"/>
+	<Point x="1573" y="1555"/>
+	<Point x="1620" y="1533"/>
+	<Point x="1800" y="1535"/>
+	<Point x="2043" y="1539"/>
+	<Point x="2040" y="1838"/>
+	<Point x="1901" y="1828"/>
+	<Point x="1554" y="1829"/>
+	<Point x="1500" y="1826"/>
+	<Point x="1435" y="1824"/>
+	<Point x="1419" y="1840"/>
+	<Point x="1352" y="1824"/>
+	<Point x="1151" y="1818"/>
+	<Point x="1153" y="1551"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La primera fue doncea,
+Deſpues de mi deſpoſorio;
+Recatada, ia ſe entiende;
+Recogida, en caſas de otros.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="1164" y="1838"/>
+	<Point x="1168" y="1833"/>
+	<Point x="1175" y="1828"/>
+	<Point x="1278" y="1835"/>
+	<Point x="1294" y="1829"/>
+	<Point x="1342" y="1852"/>
+	<Point x="1414" y="1852"/>
+	<Point x="1442" y="1833"/>
+	<Point x="1531" y="1833"/>
+	<Point x="1910" y="1840"/>
+	<Point x="2042" y="1847"/>
+	<Point x="2045" y="1915"/>
+	<Point x="2043" y="2201"/>
+	<Point x="1700" y="2194"/>
+	<Point x="1661" y="2201"/>
+	<Point x="1621" y="2194"/>
+	<Point x="1387" y="2192"/>
+	<Point x="1368" y="2214"/>
+	<Point x="1354" y="2194"/>
+	<Point x="1170" y="2185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La ſegunda hiço un enredo,
+Que no le hiciera el demo-
+nio;
+Iũtò un Virgo, i un Preñado,
+Trujo el uno ſobre el otro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="1168" y="2201"/>
+	<Point x="1345" y="2205"/>
+	<Point x="1364" y="2221"/>
+	<Point x="1398" y="2228"/>
+	<Point x="1415" y="2205"/>
+	<Point x="1435" y="2210"/>
+	<Point x="1747" y="2205"/>
+	<Point x="2040" y="2222"/>
+	<Point x="2045" y="2491"/>
+	<Point x="1964" y="2508"/>
+	<Point x="1950" y="2503"/>
+	<Point x="1937" y="2514"/>
+	<Point x="1918" y="2515"/>
+	<Point x="1907" y="2503"/>
+	<Point x="1549" y="2498"/>
+	<Point x="1503" y="2501"/>
+	<Point x="1354" y="2494"/>
+	<Point x="1322" y="2500"/>
+	<Point x="1301" y="2508"/>
+	<Point x="1166" y="2487"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eiraba io los mees,
+Porque vinieen al proprio;
+I achaqueme una barriga,
+Que no la vi de mis ojos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r67" type="paragraph">
+	<Coords>
+	<Point x="1167" y="2884"/>
+	<Point x="1378" y="2892"/>
+	<Point x="1482" y="2889"/>
+	<Point x="1719" y="2892"/>
+	<Point x="1763" y="2912"/>
+	<Point x="1838" y="2887"/>
+	<Point x="1964" y="2901"/>
+	<Point x="1971" y="2938"/>
+	<Point x="1970" y="2959"/>
+	<Point x="1407" y="2977"/>
+	<Point x="1166" y="2966"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Las dos pueron virtudes</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="1167" y="2512"/>
+	<Point x="1168" y="2510"/>
+	<Point x="1328" y="2512"/>
+	<Point x="1852" y="2512"/>
+	<Point x="2012" y="2528"/>
+	<Point x="2031" y="2533"/>
+	<Point x="2042" y="2536"/>
+	<Point x="2035" y="2878"/>
+	<Point x="1868" y="2882"/>
+	<Point x="1815" y="2878"/>
+	<Point x="1775" y="2885"/>
+	<Point x="1770" y="2907"/>
+	<Point x="1743" y="2889"/>
+	<Point x="1742" y="2882"/>
+	<Point x="1392" y="2885"/>
+	<Point x="1159" y="2873"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Las demas a puto el pore
+Honraron mis Matrimonios,
+Las tres, tres Signos me hicie-
+ron,
+Aries, Tauro, i Capricornio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r68" type="drop-capital">
+	<Coords>
+	<Point x="225" y="811"/>
+	<Point x="224" y="681"/>
+	<Point x="312" y="685"/>
+	<Point x="287" y="720"/>
+	<Point x="310" y="752"/>
+	<Point x="310" y="777"/>
+	<Point x="301" y="797"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="339" y="670"/>
+	<Point x="1104" y="675"/>
+	<Point x="1108" y="987"/>
+	<Point x="1100" y="1008"/>
+	<Point x="744" y="997"/>
+	<Point x="714" y="997"/>
+	<Point x="700" y="994"/>
+	<Point x="614" y="972"/>
+	<Point x="354" y="981"/>
+	<Point x="279" y="968"/>
+	<Point x="263" y="956"/>
+	<Point x="322" y="763"/>
+	<Point x="306" y="733"/>
+	<Point x="324" y="709"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A que huviere meneer
+Vn Marido de retorno,
+Que viene a caſarſe en vago,
+I haa ſu muger con otro;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="192" y="977"/>
+	<Point x="521" y="1001"/>
+	<Point x="577" y="990"/>
+	<Point x="670" y="990"/>
+	<Point x="686" y="997"/>
+	<Point x="745" y="1017"/>
+	<Point x="786" y="1012"/>
+	<Point x="1113" y="1056"/>
+	<Point x="1120" y="1370"/>
+	<Point x="1113" y="1366"/>
+	<Point x="764" y="1370"/>
+	<Point x="655" y="1358"/>
+	<Point x="341" y="1355"/>
+	<Point x="217" y="1344"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Acudira a mi cabeça,
+Mas arriba de mi roro;
+Como entramos por las e-
+nes,
+Entre Cervantes, i Toro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords>
+	<Point x="198" y="1971"/>
+	<Point x="526" y="1987"/>
+	<Point x="608" y="1975"/>
+	<Point x="836" y="1977"/>
+	<Point x="851" y="1984"/>
+	<Point x="884" y="1978"/>
+	<Point x="1108" y="1971"/>
+	<Point x="1116" y="2173"/>
+	<Point x="1106" y="2206"/>
+	<Point x="1115" y="2269"/>
+	<Point x="869" y="2265"/>
+	<Point x="318" y="2268"/>
+	<Point x="272" y="2220"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Doime por deſentendido
+De quantas viſsiones topo,
+No ocupo lugar en caſa, (mo.
+I al * raio de el Sol me ao-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords>
+	<Point x="205" y="2252"/>
+	<Point x="336" y="2277"/>
+	<Point x="713" y="2273"/>
+	<Point x="736" y="2279"/>
+	<Point x="1095" y="2298"/>
+	<Point x="1104" y="2585"/>
+	<Point x="664" y="2576"/>
+	<Point x="623" y="2593"/>
+	<Point x="587" y="2559"/>
+	<Point x="476" y="2586"/>
+	<Point x="454" y="2565"/>
+	<Point x="223" y="2560"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Si eando con mi muger,
+Columbro brujula de oros,
+Hago como que me fui,
+I aun me quedo, no eorbo.</Unicode></TextEquiv></TextRegion></Page></PcGts>

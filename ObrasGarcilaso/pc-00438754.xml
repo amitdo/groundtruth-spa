@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438754">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T20:32:02</Created>
+	<LastChange>2011-06-24T14:04:15</LastChange></Metadata>
+	<Page imageFilename="00438754.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r12" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r16" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="256" y="1200"/>
+	<Point x="974" y="1200"/>
+	<Point x="974" y="1305"/>
+	<Point x="256" y="1305"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SONETO XVII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="112" y="1442"/>
+	<Point x="78" y="1419"/>
+	<Point x="78" y="1370"/>
+	<Point x="82" y="1342"/>
+	<Point x="85" y="1340"/>
+	<Point x="88" y="1341"/>
+	<Point x="109" y="1341"/>
+	<Point x="1204" y="1361"/>
+	<Point x="1209" y="1585"/>
+	<Point x="1204" y="1662"/>
+	<Point x="1112" y="1668"/>
+	<Point x="339" y="1665"/>
+	<Point x="201" y="1649"/>
+	<Point x="162" y="1665"/>
+	<Point x="140" y="1667"/>
+	<Point x="110" y="1644"/>
+	<Point x="7" y="1643"/>
+	<Point x="78" y="1491"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Enſando que el camino yua derecho,
+vine á parar en tanta deſuentura,
+que imaginar no puedo, aũ con locura,
+algo de que eè vn rato ſatisfecho.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="3" y="1648"/>
+	<Point x="45" y="1648"/>
+	<Point x="67" y="1651"/>
+	<Point x="150" y="1675"/>
+	<Point x="198" y="1657"/>
+	<Point x="341" y="1672"/>
+	<Point x="982" y="1675"/>
+	<Point x="1078" y="1679"/>
+	<Point x="1089" y="1840"/>
+	<Point x="1075" y="1969"/>
+	<Point x="745" y="1993"/>
+	<Point x="396" y="1979"/>
+	<Point x="11" y="1969"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EI ancho campo me parece erecho,
+la noche clara para mi es eſcura;
+la dulce compañia amarga, y dura,
+y duro campo de bataa el lecho.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1073" y="1978"/>
+	<Point x="1110" y="1979"/>
+	<Point x="1196" y="1980"/>
+	<Point x="1212" y="2049"/>
+	<Point x="1076" y="2061"/>
+	<Point x="1054" y="2050"/>
+	<Point x="1056" y="2014"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Del</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="497" y="2096"/>
+	<Point x="974" y="2097"/>
+	<Point x="976" y="2137"/>
+	<Point x="904" y="2139"/>
+	<Point x="493" y="2135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="230" y="55"/>
+	<Point x="386" y="58"/>
+	<Point x="992" y="52"/>
+	<Point x="990" y="98"/>
+	<Point x="987" y="152"/>
+	<Point x="230" y="149"/>
+	<Point x="231" y="104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GARCILASSO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="1156" y="75"/>
+	<Point x="1156" y="164"/>
+	<Point x="1239" y="164"/>
+	<Point x="1239" y="75"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>8</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="34" y="167"/>
+	<Point x="1084" y="159"/>
+	<Point x="1094" y="163"/>
+	<Point x="1174" y="177"/>
+	<Point x="1207" y="193"/>
+	<Point x="1220" y="398"/>
+	<Point x="1220" y="443"/>
+	<Point x="1241" y="590"/>
+	<Point x="1096" y="613"/>
+	<Point x="1031" y="612"/>
+	<Point x="550" y="624"/>
+	<Point x="507" y="607"/>
+	<Point x="396" y="606"/>
+	<Point x="233" y="616"/>
+	<Point x="181" y="597"/>
+	<Point x="97" y="595"/>
+	<Point x="37" y="573"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tanto tiempo, à peſar de lo que bao,
+que à mi miſmo contrao,
+dandome a entender, que mi ﬂaqueza
+me tienecen la erecheza (do,
+en  eoy pueo, y no lo  yo entien-
+aſsi que con ﬂaqueza me deﬁendo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="24" y="601"/>
+	<Point x="24" y="1160"/>
+	<Point x="1266" y="1160"/>
+	<Point x="1262" y="621"/>
+	<Point x="1036" y="626"/>
+	<Point x="559" y="629"/>
+	<Point x="501" y="616"/>
+	<Point x="387" y="613"/>
+	<Point x="222" y="620"/>
+	<Point x="180" y="607"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cancion no has de tener no;
+cõmigo mas que ver en malo, ò en bue
+tratame como ageno,
+que no re faltarà de quien lo aprendas,
+ has miedo que me ofendas,
+no quieras hazer mas por mi derecho,
+de lo  hize yo,  el mal me ha hecho.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="marginalia">
+	<Coords>
+	<Point x="1186" y="1913"/>
+	<Point x="1186" y="1971"/>
+	<Point x="1272" y="1981"/>
+	<Point x="1298" y="1968"/>
+	<Point x="1290" y="1913"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>21</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="marginalia">
+	<Coords>
+	<Point x="1236" y="395"/>
+	<Point x="1227" y="451"/>
+	<Point x="1236" y="471"/>
+	<Point x="1320" y="471"/>
+	<Point x="1320" y="395"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>20</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="drop-capital">
+	<Coords>
+	<Point x="7" y="1357"/>
+	<Point x="7" y="1471"/>
+	<Point x="74" y="1471"/>
+	<Point x="74" y="1452"/>
+	<Point x="77" y="1354"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P</Unicode></TextEquiv></TextRegion></Page></PcGts>

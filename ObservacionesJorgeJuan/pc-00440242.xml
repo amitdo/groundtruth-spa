@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440242">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T23:33:53</Created>
+	<LastChange>2011-12-19T11:38:52</LastChange></Metadata>
+	<Page imageFilename="00440242.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r47" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="742" y="359"/>
+	<Point x="1683" y="359"/>
+	<Point x="1683" y="476"/>
+	<Point x="742" y="476"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="credit">
+	<Coords>
+	<Point x="983" y="4007"/>
+	<Point x="1966" y="4007"/>
+	<Point x="1966" y="4100"/>
+	<Point x="983" y="4100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="page-number">
+	<Coords>
+	<Point x="1945" y="366"/>
+	<Point x="2121" y="366"/>
+	<Point x="2121" y="476"/>
+	<Point x="1945" y="476"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>223</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r29">
+	<Coords>
+	<Point x="257" y="514"/>
+	<Point x="2178" y="514"/>
+	<Point x="2178" y="1064"/>
+	<Point x="257" y="1064"/></Coords></TableRegion>
+	<TableRegion id="r32">
+	<Coords>
+	<Point x="257" y="1128"/>
+	<Point x="2159" y="1128"/>
+	<Point x="2159" y="1645"/>
+	<Point x="257" y="1645"/></Coords></TableRegion>
+	<TableRegion id="r37">
+	<Coords>
+	<Point x="261" y="1692"/>
+	<Point x="2169" y="1692"/>
+	<Point x="2169" y="2180"/>
+	<Point x="261" y="2180"/></Coords></TableRegion>
+	<TableRegion id="r17">
+	<Coords>
+	<Point x="271" y="2240"/>
+	<Point x="2195" y="2240"/>
+	<Point x="2195" y="2757"/>
+	<Point x="271" y="2757"/></Coords></TableRegion>
+	<TableRegion id="r24">
+	<Coords>
+	<Point x="280" y="2821"/>
+	<Point x="2178" y="2821"/>
+	<Point x="2178" y="3304"/>
+	<Point x="280" y="3304"/></Coords></TableRegion>
+	<TextRegion id="r47" type="catch-word">
+	<Coords>
+	<Point x="2069" y="3359"/>
+	<Point x="2069" y="3473"/>
+	<Point x="2219" y="3473"/>
+	<Point x="2219" y="3359"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Su‐</Unicode></TextEquiv></TextRegion></Page></PcGts>

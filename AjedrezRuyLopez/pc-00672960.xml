@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672960">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 10.0</Creator>
+	<Created>2012-02-01T15:11:00</Created>
+	<LastChange>2012-03-02T12:10:42</LastChange></Metadata>
+	<Page imageFilename="00672960.tif" imageWidth="1922" imageHeight="2614">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="424" y="2233"/>
+	<Point x="415" y="311"/>
+	<Point x="570" y="296"/>
+	<Point x="770" y="301"/>
+	<Point x="1620" y="298"/>
+	<Point x="1613" y="2215"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>notãdo la coũbre antigua delos reyes de Pera:
+que era  quando ſu rey yua ala guerra lleuaua cõ
+go ſu muger y cõcubinas. Como ſe lee de Dario
+rey de aquellas partes, y de otros muchos. Y eo
+hazian lo en ſolacio del rey, y para demoracion
+del amor. Y porque el reyno tenia gran cuydado
+y ſolicitud del rey ſucceor, quieron que ſu rey
+no ſolamente en la ciudad:pero tambiẽ enel real
+la tuuiee congo. Y aſsi al principio dela inuen
+ciõ dee juego la reyna no andaua no caſa à ca
+ſa. Y quanto para hazer guerra en ee juego era
+la mas ruyn pieça del tablero. La qual vſança oy
+dia ſe dize guardar los moros,dando a entender,
+que ala muger de honor no le es decente el andar
+mucho vagando:y mas por los terminos agenos,
+donde ſe viene facilmente a perder el honor. Co-
+mo acaeſcio a Dina hija de Iacob: y à otras mu-
+chas,  por no me alargar dexo. Pero los jugado-
+res deſpues,como è dicho, viẽdo la puea en cã-
+po à vſança de guerra, quieron  fuee la prin-
+cipal pieça del tablero deſpues del rey. Por aſsi
+conuiene mirar por no perdella: porque perdida
+pocas vezes fe gana el juego, y muchas vezes ella
+ſola baa para reaurar el juego perdido: lo que
+muchas pieças no puedẽ hazer. Y a ſu parte pue
+ron tãtas pieças y peones como ala parte del rey.
+Y aſsi quieron  ſe llamaen y nõbraen della,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="header">
+	<Coords>
+	<Point x="663" y="230"/>
+	<Point x="663" y="296"/>
+	<Point x="1356" y="296"/>
+	<Point x="1356" y="230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro dela inuencion liberal</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1470" y="2225"/>
+	<Point x="1470" y="2295"/>
+	<Point x="1611" y="2295"/>
+	<Point x="1611" y="2225"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>para</Unicode></TextEquiv></TextRegion></Page></PcGts>

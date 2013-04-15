@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442457">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T12:01:41</Created>
+	<LastChange>2012-03-12T14:12:02</LastChange></Metadata>
+	<Page imageFilename="00442457.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="436" y="77"/>
+	<Point x="1154" y="83"/>
+	<Point x="1150" y="188"/>
+	<Point x="537" y="193"/>
+	<Point x="431" y="188"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="440" y="2298"/>
+	<Point x="1125" y="2298"/>
+	<Point x="1125" y="2362"/>
+	<Point x="442" y="2354"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1323" y="101"/>
+	<Point x="1323" y="186"/>
+	<Point x="1432" y="186"/>
+	<Point x="1432" y="101"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>91</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="197" y="196"/>
+	<Point x="1443" y="196"/>
+	<Point x="1436" y="2184"/>
+	<Point x="1177" y="2175"/>
+	<Point x="1042" y="2168"/>
+	<Point x="999" y="2168"/>
+	<Point x="981" y="2166"/>
+	<Point x="952" y="2168"/>
+	<Point x="930" y="2171"/>
+	<Point x="169" y="2156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>la prometida Inſula. De nueuo tornò a orar Sãcho,
+oyendo de nueuo las laimeras razones de ſu buen
+ſeñor, y determinò de no dexarle, haa el vltimo
+tranto y ﬁn de aquel negocio. Deas lagrimas, y
+determinacion tan honrada, de Sancho Pança, ſaca
+el autor dea hioria, que deuia de ſer bien nacido,
+y por lo menos Chriiano viejo. Cuyo ſentimien‐
+to enternecio algo a ſu amo, pero no tanto, que moſ
+trae ﬂaqueza alguna, antes diſsimulãdo lo mejor 
+pudo, començo a caminar hàzia la parte por donde
+le parecio, que el ruydo del agua, y del golpear ve‐
+nia. Seguiale Sancho apie, euando como tenia de
+coumbre, del cabero a ſu jumento, perpetuo cõ-
+pañero de ſus proſperas y aduerſas fortunas. Y auiẽ
+do andado vna buena pieça, por entre aqueos caſ‐
+taños y arboles ſombrios, dieron en vn pradezio,
+que al pie de v nas altas peñas ſe hazia, de las quales
+ſe precipitaua vn grandiſsimo golpe de agua. Al pie
+de las peñas, eauan vnas caſas mal hechas, que mas
+parecian ruynas de ediﬁcios, que caſas, de entre las
+quales aduirtieron, que ſalia el ruydo y eruendo,
+de aquel golpear, que aun no ceaua. Alborotoſe
+Rozinante, con el etuendo del agua, y de los gol-
+pes, y ſoegandole don Quixote, ſe fue egando
+poco a poco a las caſas, encomendandoſe de todo
+coraçon a ſu ſeñora, ſuplicandole que en aque‐
+a temeroſa jornada, y empreſa, le fauore-
+ciee, y de camino ſe encomendaua tambien
+a Dios, que no le oluidae. No ſe le quita-
+ua Sancho del lado, el qual alargaua quanto po‐
+dia el cueo, y la via, por entre las pier nas de Ro‐
+zinante, por ver  veria ya, lo que tan ſuſpenſo,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="980" y="2169"/>
+	<Point x="980" y="2237"/>
+	<Point x="1078" y="2237"/>
+	<Point x="1078" y="2172"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1250" y="2183"/>
+	<Point x="1250" y="2249"/>
+	<Point x="1400" y="2249"/>
+	<Point x="1398" y="2186"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y me‐</Unicode></TextEquiv></TextRegion></Page></PcGts>

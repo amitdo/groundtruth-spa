@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442459">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T12:02:05</Created>
+	<LastChange>2012-03-12T14:12:03</LastChange></Metadata>
+	<Page imageFilename="00442459.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="436" y="67"/>
+	<Point x="1146" y="67"/>
+	<Point x="1145" y="149"/>
+	<Point x="536" y="149"/>
+	<Point x="527" y="174"/>
+	<Point x="432" y="159"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="173" y="177"/>
+	<Point x="643" y="183"/>
+	<Point x="881" y="175"/>
+	<Point x="1425" y="171"/>
+	<Point x="1411" y="2124"/>
+	<Point x="1335" y="2123"/>
+	<Point x="1330" y="2135"/>
+	<Point x="1316" y="2135"/>
+	<Point x="1306" y="2129"/>
+	<Point x="956" y="2123"/>
+	<Point x="943" y="2136"/>
+	<Point x="679" y="2136"/>
+	<Point x="168" y="2135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>çon y le aento dos palos, tales, que  como los re‐
+cibio en las eſpaldas, los recibiera en la cabeça, que-
+dara libre de pagarle el ſalario, no fuera a ſus here‐
+deros. Viendo Sancho que ſacaua tan malas veras
+de ſus burlas, con temor de que ſu amo no paae
+adelante en eas, cõ mucha vmildad le dixo: Soſsie-
+gueſe vuera merced, que por Dios que me burlo.
+Pues porque os burlays, no me burlo yo, reſpondio
+don Quixote. Venid aca ſeñor alegre, pareceos a
+vos que  como eos fueron maços de batan, fuerã
+otra peligroſa auentura, no auia yo morado el ani‐
+mo que conuenia, para emprẽdea y acabaa? Eoy
+yo obligado a dicha (endo como ſoy cauaero) a
+conocer y deinguir los ſones, y ſaber quales ſon de
+batan o no? Y mas que podria ſer (como es verdad)
+ no los he vio en mi vida, como vos los aureys viſ
+to, como viano ruyn, que ſoys criado y nacido en‐
+tre eos. Sino hazed vos que eos ſeys maços, ſe
+bueluan en ſeys Iayanes, y echadmelos a las barbas
+vno a vno, o todos juntos, y quando yo no diere con
+todos patas arriba, hazed de mi Ia burla que quie-
+redes. No aya mas ſeñor mio, replicò Sancho, que
+yo conﬁeo que he andado algo riſueño, en dema-
+a. Pero digame vuera merced, aora que eamos
+en paz, aſsi Dios le ſaque de todas las auenturas que
+le ſucedierẽ, tan ſano y ſaluo como le ha ſacado deſ‐
+ta, no ha do coſa de reyr, y lo es de contar, el gran
+miedo que hemos tenido, alomenos el que yo tuue,
+que de vuera merced, ya yo ſe que no le conoce,
+ni ſabe que es temor, ni eſpanto? No niego yo, reſpõ
+dio don Quixote, que lo que nos ha ſucedido, no ſea
+coſa digna de riſa, pero no es digna de contarſe, que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="466" y="2311"/>
+	<Point x="1128" y="2311"/>
+	<Point x="1128" y="2357"/>
+	<Point x="1071" y="2360"/>
+	<Point x="466" y="2357"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1320" y="78"/>
+	<Point x="1320" y="160"/>
+	<Point x="1416" y="160"/>
+	<Point x="1416" y="78"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>92</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="950" y="2134"/>
+	<Point x="945" y="2200"/>
+	<Point x="1066" y="2201"/>
+	<Point x="1066" y="2133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M 4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1233" y="2139"/>
+	<Point x="1233" y="2191"/>
+	<Point x="1401" y="2191"/>
+	<Point x="1401" y="2139"/>
+	<Point x="1346" y="2136"/>
+	<Point x="1290" y="2137"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no ſon</Unicode></TextEquiv></TextRegion></Page></PcGts>

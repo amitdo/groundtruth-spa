@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444404">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T11:35:41</Created>
+	<LastChange>2011-12-19T11:39:43</LastChange></Metadata>
+	<Page imageFilename="00444404.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1005" y="90"/>
+	<Point x="1623" y="102"/>
+	<Point x="1601" y="217"/>
+	<Point x="1002" y="202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="459" y="231"/>
+	<Point x="2033" y="226"/>
+	<Point x="2053" y="2617"/>
+	<Point x="1568" y="2667"/>
+	<Point x="459" y="2666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>eruos de Dios, temianſe no me aee en al-
+guna manera, y me atae a quererlos aunque
+ſantamente, y morauanme deſgracia, eo
+era deſpues que yo eaua tan ſugeta a obe-
+decerlos que antes no les cobraua ee amor.
+Yo me reya entre mi de ver quan engañados
+eauan, aunque no todas vezes trataua tan
+claro lo poco que me ataua a nadie, como lo
+tenia en mi, mas aeguraualos, y tratandome
+mas conociã lo que deuia al Señor, que eas
+ſoſpechas que trayan de mi, empre eran a
+los principios. Començome mucho mayor
+amor y conﬁança dee Señor en viendole,
+como con quien tenia conuerſacion tan con-
+tinua. Via que aunque era Dios, que era hom
+bre, que no ſe eſpanta de las ﬂaquezas de los
+hombres, que entiende nuera miſerable
+compoura ſugeta a muchas caydas por el
+primer peccado que el auia venido a repa-
+rar. Puedo tratar como con amigo aunque
+es Señor, porque entiendo no es como los
+que aca tenemos por ſeñores, que todo el ſe-
+ñorio ponen en autoridades poizas, ha de
+auer hora de hablar, y ſeñaladas perſonas que
+les hablen. Si es algun pobrezito que tiene al-
+gun negocio, mas rodeos, y fauores, y traba-
+jos le ha de coar tratarlo, o que  es con</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="603" y="3056"/>
+	<Point x="1561" y="3056"/>
+	<Point x="1561" y="3156"/>
+	<Point x="603" y="3156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1930" y="2636"/>
+	<Point x="1928" y="2725"/>
+	<Point x="2035" y="2725"/>
+	<Point x="2032" y="2623"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>el</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="500" y="119"/>
+	<Point x="499" y="225"/>
+	<Point x="662" y="225"/>
+	<Point x="662" y="120"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>478</Unicode></TextEquiv></TextRegion></Page></PcGts>

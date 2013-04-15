@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444166">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:36:21</Created>
+	<LastChange>2011-12-19T11:39:29</LastChange></Metadata>
+	<Page imageFilename="00444166.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="881" y="73"/>
+	<Point x="1552" y="65"/>
+	<Point x="1562" y="192"/>
+	<Point x="1543" y="198"/>
+	<Point x="905" y="200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="430" y="216"/>
+	<Point x="2052" y="205"/>
+	<Point x="2066" y="2622"/>
+	<Point x="427" y="2703"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a quien el Señor diere eo, no ſe deſconſue-
+le quando ſe vea an atado el cuerpo mu-
+chas horas, y a vezes el entendimiento, y
+memoria diuertidos. Verdad es que lo or-
+dinario es ear embeuidas en alabanças de
+Dios, o en querer comprehender, o enten-
+der lo que ha paado por eas, y aun para
+eo no ean bien deſpiertas, no como
+vna perſona que ha mucho dormido y ſo-
+ñado, y aun no acaba de deſpertar. De-
+clarome tanto en eo, porque ſe que ay
+aora perſonas, aun en ee lugar a quien
+el Señor haze eas mercedes, y  los
+que las gouiernan no han paado por e-
+o, por ventura les parecera que han de
+ear como muertas en arrobamiento, en
+eſpecial  no ſon letrados, y es laima
+lo que ſe padece con los confeores que
+no lo entienden, como yo dire deſpues,
+quiça yo no ſe lo que digo, vueſa mer-
+ced lo entendera  atino en algo, pues el
+Señor le ha ya dado eſperiencia de eo,
+aunque como no es de mucho tiempo
+quiça no aura miradolo tanto como yo.
+An que aunque mucho lo procuro por
+muchos ratos, no ay fuerça en el cuerpo
+para poderſe menear, todas las euo el al-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="613" y="3057"/>
+	<Point x="1586" y="3057"/>
+	<Point x="1586" y="3151"/>
+	<Point x="613" y="3151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1871" y="2647"/>
+	<Point x="1871" y="2723"/>
+	<Point x="2031" y="2723"/>
+	<Point x="2031" y="2647"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ma</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="478" y="107"/>
+	<Point x="466" y="203"/>
+	<Point x="572" y="205"/>
+	<Point x="686" y="200"/>
+	<Point x="686" y="107"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>238</Unicode></TextEquiv></TextRegion></Page></PcGts>

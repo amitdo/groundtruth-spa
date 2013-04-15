@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442252">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:47:42</Created>
+	<LastChange>2012-03-12T14:11:47</LastChange></Metadata>
+	<Page imageFilename="00442252.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r11" index="1"/>
+	<RegionRefIndexed regionRef="r12" index="2"/>
+	<RegionRefIndexed regionRef="r17" index="3"/>
+	<RegionRefIndexed regionRef="r22" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="200" y="80"/>
+	<Point x="235" y="364"/>
+	<Point x="418" y="383"/>
+	<Point x="1180" y="375"/>
+	<Point x="1310" y="371"/>
+	<Point x="1340" y="384"/>
+	<Point x="1547" y="373"/>
+	<Point x="1552" y="80"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EL INGENIOSO
+HIDALGO DON Q VI-
+XOTE DE LA MANCHA,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="280" y="402"/>
+	<Point x="280" y="561"/>
+	<Point x="1514" y="561"/>
+	<Point x="1514" y="402"/>
+	<Point x="1100" y="387"/>
+	<Point x="1007" y="386"/>
+	<Point x="922" y="396"/>
+	<Point x="531" y="395"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Compueo por Miguel de Ceruantes
+Saauedra.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="173" y="580"/>
+	<Point x="198" y="846"/>
+	<Point x="850" y="900"/>
+	<Point x="880" y="888"/>
+	<Point x="1524" y="845"/>
+	<Point x="1564" y="580"/>
+	<Point x="1484" y="578"/>
+	<Point x="974" y="577"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DIRIGIDO AL DVQVE DE BEIAR,
+Marques de Gibraleon, Conde de Benalcaçar, y Baña-
+res, Vizconde de la Puebla de Alcozer, Señor de
+las vias de Capia, Curiel, y
+Burguios.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r13">
+	<Coords>
+	<Point x="385" y="911"/>
+	<Point x="413" y="1360"/>
+	<Point x="422" y="2020"/>
+	<Point x="1339" y="2018"/>
+	<Point x="1347" y="1972"/>
+	<Point x="1343" y="1890"/>
+	<Point x="1336" y="1837"/>
+	<Point x="1338" y="1625"/>
+	<Point x="1354" y="911"/>
+	<Point x="1315" y="895"/>
+	<Point x="980" y="904"/>
+	<Point x="587" y="905"/></Coords></ImageRegion>
+	<TextRegion id="r14" type="marginalia">
+	<Coords>
+	<Point x="1359" y="1400"/>
+	<Point x="1359" y="1492"/>
+	<Point x="1533" y="1492"/>
+	<Point x="1533" y="1400"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1605.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="marginalia">
+	<Coords>
+	<Point x="204" y="1373"/>
+	<Point x="204" y="1492"/>
+	<Point x="395" y="1492"/>
+	<Point x="404" y="1465"/>
+	<Point x="395" y="1373"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Año,</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r16" type="stamp">
+	<Coords>
+	<Point x="1354" y="1673"/>
+	<Point x="1354" y="1950"/>
+	<Point x="1579" y="1950"/>
+	<Point x="1579" y="1673"/>
+	<Point x="1463" y="1644"/></Coords></GraphicRegion>
+	<TextRegion id="r17" type="heading">
+	<Coords>
+	<Point x="283" y="2030"/>
+	<Point x="285" y="2167"/>
+	<Point x="507" y="2171"/>
+	<Point x="553" y="2181"/>
+	<Point x="588" y="2177"/>
+	<Point x="906" y="2168"/>
+	<Point x="1506" y="2169"/>
+	<Point x="1507" y="2030"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GON PRIVILEGIO,
+EN MADRID Por Iuan de la Cuea.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r19">
+	<Coords>
+	<Point x="251" y="2179"/>
+	<Point x="250" y="2211"/>
+	<Point x="353" y="2208"/>
+	<Point x="395" y="2204"/>
+	<Point x="527" y="2203"/>
+	<Point x="649" y="2205"/>
+	<Point x="764" y="2206"/>
+	<Point x="1059" y="2206"/>
+	<Point x="1178" y="2207"/>
+	<Point x="1203" y="2207"/>
+	<Point x="1443" y="2208"/>
+	<Point x="1558" y="2211"/>
+	<Point x="1545" y="2181"/>
+	<Point x="1035" y="2189"/>
+	<Point x="735" y="2191"/>
+	<Point x="648" y="2192"/>
+	<Point x="609" y="2189"/>
+	<Point x="564" y="2186"/>
+	<Point x="532" y="2186"/></Coords></SeparatorRegion>
+	<TextRegion id="r20" type="credit">
+	<Coords>
+	<Point x="447" y="2302"/>
+	<Point x="454" y="2354"/>
+	<Point x="957" y="2358"/>
+	<Point x="1109" y="2359"/>
+	<Point x="1236" y="2357"/>
+	<Point x="1238" y="2302"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="608" y="2207"/>
+	<Point x="608" y="2208"/>
+	<Point x="646" y="2208"/>
+	<Point x="646" y="2209"/>
+	<Point x="684" y="2209"/>
+	<Point x="684" y="2210"/>
+	<Point x="734" y="2210"/>
+	<Point x="734" y="2209"/>
+	<Point x="834" y="2209"/>
+	<Point x="834" y="2210"/>
+	<Point x="937" y="2210"/>
+	<Point x="937" y="2209"/>
+	<Point x="977" y="2209"/>
+	<Point x="977" y="2210"/>
+	<Point x="1001" y="2210"/>
+	<Point x="1001" y="2211"/>
+	<Point x="1031" y="2211"/>
+	<Point x="1031" y="2210"/>
+	<Point x="1038" y="2210"/>
+	<Point x="1038" y="2209"/>
+	<Point x="1077" y="2209"/>
+	<Point x="1077" y="2210"/>
+	<Point x="1082" y="2210"/>
+	<Point x="1082" y="2211"/>
+	<Point x="1091" y="2211"/>
+	<Point x="1091" y="2212"/>
+	<Point x="1100" y="2212"/>
+	<Point x="1100" y="2213"/>
+	<Point x="1109" y="2213"/>
+	<Point x="1109" y="2214"/>
+	<Point x="1118" y="2214"/>
+	<Point x="1118" y="2215"/>
+	<Point x="1127" y="2215"/>
+	<Point x="1127" y="2216"/>
+	<Point x="1136" y="2216"/>
+	<Point x="1136" y="2217"/>
+	<Point x="1145" y="2217"/>
+	<Point x="1145" y="2218"/>
+	<Point x="1154" y="2218"/>
+	<Point x="1154" y="2219"/>
+	<Point x="1169" y="2217"/>
+	<Point x="1176" y="2215"/>
+	<Point x="1183" y="2213"/>
+	<Point x="1186" y="2213"/>
+	<Point x="1186" y="2212"/>
+	<Point x="1193" y="2211"/>
+	<Point x="1193" y="2210"/>
+	<Point x="1223" y="2210"/>
+	<Point x="1225" y="2211"/>
+	<Point x="1229" y="2211"/>
+	<Point x="1229" y="2210"/>
+	<Point x="1242" y="2210"/>
+	<Point x="1242" y="2211"/>
+	<Point x="1324" y="2211"/>
+	<Point x="1324" y="2212"/>
+	<Point x="1406" y="2212"/>
+	<Point x="1406" y="2211"/>
+	<Point x="1471" y="2211"/>
+	<Point x="1471" y="2212"/>
+	<Point x="1476" y="2212"/>
+	<Point x="1476" y="2213"/>
+	<Point x="1481" y="2213"/>
+	<Point x="1481" y="2214"/>
+	<Point x="1486" y="2214"/>
+	<Point x="1486" y="2215"/>
+	<Point x="1492" y="2215"/>
+	<Point x="1492" y="2216"/>
+	<Point x="1497" y="2216"/>
+	<Point x="1497" y="2217"/>
+	<Point x="1502" y="2217"/>
+	<Point x="1502" y="2218"/>
+	<Point x="1507" y="2218"/>
+	<Point x="1507" y="2219"/>
+	<Point x="1513" y="2219"/>
+	<Point x="1513" y="2220"/>
+	<Point x="1518" y="2220"/>
+	<Point x="1518" y="2221"/>
+	<Point x="1523" y="2221"/>
+	<Point x="1523" y="2222"/>
+	<Point x="1528" y="2222"/>
+	<Point x="1528" y="2223"/>
+	<Point x="1534" y="2223"/>
+	<Point x="1534" y="2224"/>
+	<Point x="1539" y="2224"/>
+	<Point x="1539" y="2225"/>
+	<Point x="1544" y="2225"/>
+	<Point x="1544" y="2226"/>
+	<Point x="1550" y="2226"/>
+	<Point x="1550" y="2227"/>
+	<Point x="1551" y="2227"/>
+	<Point x="1551" y="2233"/>
+	<Point x="1552" y="2233"/>
+	<Point x="1552" y="2239"/>
+	<Point x="1553" y="2239"/>
+	<Point x="1553" y="2246"/>
+	<Point x="1552" y="2246"/>
+	<Point x="1552" y="2248"/>
+	<Point x="1551" y="2248"/>
+	<Point x="1551" y="2249"/>
+	<Point x="1550" y="2249"/>
+	<Point x="1550" y="2251"/>
+	<Point x="1549" y="2251"/>
+	<Point x="1549" y="2252"/>
+	<Point x="1548" y="2252"/>
+	<Point x="1548" y="2254"/>
+	<Point x="1547" y="2254"/>
+	<Point x="1547" y="2256"/>
+	<Point x="1546" y="2256"/>
+	<Point x="1546" y="2257"/>
+	<Point x="1545" y="2257"/>
+	<Point x="1545" y="2259"/>
+	<Point x="1544" y="2259"/>
+	<Point x="1544" y="2260"/>
+	<Point x="1543" y="2260"/>
+	<Point x="1543" y="2262"/>
+	<Point x="1542" y="2262"/>
+	<Point x="1542" y="2263"/>
+	<Point x="1541" y="2263"/>
+	<Point x="1541" y="2265"/>
+	<Point x="1540" y="2265"/>
+	<Point x="1540" y="2267"/>
+	<Point x="1427" y="2267"/>
+	<Point x="1427" y="2266"/>
+	<Point x="1315" y="2266"/>
+	<Point x="1315" y="2265"/>
+	<Point x="1203" y="2265"/>
+	<Point x="1203" y="2264"/>
+	<Point x="1091" y="2264"/>
+	<Point x="1091" y="2263"/>
+	<Point x="1026" y="2263"/>
+	<Point x="1026" y="2262"/>
+	<Point x="960" y="2262"/>
+	<Point x="960" y="2261"/>
+	<Point x="895" y="2261"/>
+	<Point x="895" y="2260"/>
+	<Point x="829" y="2260"/>
+	<Point x="829" y="2259"/>
+	<Point x="764" y="2259"/>
+	<Point x="764" y="2258"/>
+	<Point x="698" y="2258"/>
+	<Point x="698" y="2257"/>
+	<Point x="465" y="2257"/>
+	<Point x="465" y="2258"/>
+	<Point x="441" y="2258"/>
+	<Point x="441" y="2259"/>
+	<Point x="416" y="2259"/>
+	<Point x="416" y="2260"/>
+	<Point x="391" y="2260"/>
+	<Point x="391" y="2261"/>
+	<Point x="366" y="2261"/>
+	<Point x="366" y="2262"/>
+	<Point x="342" y="2262"/>
+	<Point x="342" y="2263"/>
+	<Point x="317" y="2263"/>
+	<Point x="317" y="2264"/>
+	<Point x="292" y="2264"/>
+	<Point x="292" y="2265"/>
+	<Point x="267" y="2265"/>
+	<Point x="267" y="2266"/>
+	<Point x="241" y="2266"/>
+	<Point x="241" y="2264"/>
+	<Point x="240" y="2264"/>
+	<Point x="240" y="2262"/>
+	<Point x="239" y="2262"/>
+	<Point x="239" y="2259"/>
+	<Point x="238" y="2259"/>
+	<Point x="238" y="2257"/>
+	<Point x="237" y="2257"/>
+	<Point x="237" y="2254"/>
+	<Point x="236" y="2254"/>
+	<Point x="236" y="2252"/>
+	<Point x="235" y="2252"/>
+	<Point x="235" y="2250"/>
+	<Point x="234" y="2250"/>
+	<Point x="234" y="2247"/>
+	<Point x="233" y="2247"/>
+	<Point x="233" y="2245"/>
+	<Point x="232" y="2245"/>
+	<Point x="232" y="2240"/>
+	<Point x="233" y="2240"/>
+	<Point x="233" y="2238"/>
+	<Point x="234" y="2238"/>
+	<Point x="234" y="2236"/>
+	<Point x="235" y="2236"/>
+	<Point x="235" y="2234"/>
+	<Point x="236" y="2234"/>
+	<Point x="236" y="2232"/>
+	<Point x="237" y="2232"/>
+	<Point x="237" y="2229"/>
+	<Point x="238" y="2229"/>
+	<Point x="238" y="2227"/>
+	<Point x="239" y="2227"/>
+	<Point x="239" y="2225"/>
+	<Point x="240" y="2225"/>
+	<Point x="240" y="2223"/>
+	<Point x="241" y="2223"/>
+	<Point x="241" y="2221"/>
+	<Point x="242" y="2221"/>
+	<Point x="242" y="2219"/>
+	<Point x="243" y="2219"/>
+	<Point x="243" y="2216"/>
+	<Point x="244" y="2216"/>
+	<Point x="244" y="2215"/>
+	<Point x="269" y="2215"/>
+	<Point x="269" y="2214"/>
+	<Point x="295" y="2214"/>
+	<Point x="295" y="2213"/>
+	<Point x="320" y="2213"/>
+	<Point x="320" y="2212"/>
+	<Point x="346" y="2212"/>
+	<Point x="346" y="2211"/>
+	<Point x="358" y="2211"/>
+	<Point x="358" y="2210"/>
+	<Point x="371" y="2210"/>
+	<Point x="371" y="2209"/>
+	<Point x="384" y="2209"/>
+	<Point x="384" y="2208"/>
+	<Point x="397" y="2208"/>
+	<Point x="397" y="2207"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vendeſe en caſe de Franciſco de Robles, librero del Rey no ſeñor.</Unicode></TextEquiv></TextRegion></Page></PcGts>

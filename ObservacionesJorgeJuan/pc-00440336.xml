@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440336">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T07:50:16</Created>
+	<LastChange>2011-12-19T11:39:02</LastChange></Metadata>
+	<Page imageFilename="00440336.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r7" index="3"/>
+	<RegionRefIndexed regionRef="r14" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1974" y="309"/>
+	<Point x="2164" y="309"/>
+	<Point x="2164" y="432"/>
+	<Point x="1974" y="432"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>313</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r2" type="other">
+	<Coords>
+	<Point x="290" y="478"/>
+	<Point x="2203" y="478"/>
+	<Point x="2203" y="664"/>
+	<Point x="290" y="664"/></Coords></GraphicRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="793" y="690"/>
+	<Point x="1677" y="690"/>
+	<Point x="1677" y="822"/>
+	<Point x="793" y="822"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIBRO VIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="306" y="883"/>
+	<Point x="2161" y="883"/>
+	<Point x="2161" y="1270"/>
+	<Point x="306" y="1270"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De las Experiencias del Pendulo mple,
+y concluon de la Figura de
+la Tierra.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="861" y="1354"/>
+	<Point x="1619" y="1354"/>
+	<Point x="1619" y="1487"/>
+	<Point x="861" y="1487"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITULO I.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="265" y="2192"/>
+	<Point x="628" y="2188"/>
+	<Point x="665" y="2186"/>
+	<Point x="659" y="2060"/>
+	<Point x="655" y="2011"/>
+	<Point x="654" y="1957"/>
+	<Point x="652" y="1923"/>
+	<Point x="650" y="1852"/>
+	<Point x="652" y="1805"/>
+	<Point x="2267" y="1793"/>
+	<Point x="2293" y="3267"/>
+	<Point x="2267" y="3270"/>
+	<Point x="2241" y="3270"/>
+	<Point x="551" y="3274"/>
+	<Point x="567" y="3358"/>
+	<Point x="264" y="3351"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L principal ﬁn que nos evò à los Reynos del
+Perù, como tengo dicho, fuè la determina‐
+cion de la ﬁgura de la Tierra y ſobre ee
+aumpto las Obſervaciones, que ſe oponían
+al diamen, de que fuee Longa, eran las del Pendulo
+pues M. Richer haviendo paado à la Isla de la Cayenna,
+que ſe haa en 4° 56' 17½'' de latitud Boreal el año 1672,
+haò, que para que vibrae el Pendulo los ſegundos de
+tiempo medio en aquel Pais, era preciſo acortarle una li‐
+nea y quarto de longitud, que neceſsitaba en Parìs para
+lo miſmo y como las longitudes de los Pendulos con que
+ſe forman de igual duracion ſus Oſcilaciones, ſegun ſe
+tiene bien ſabido, y han demonrado varios Authores,
+ſon como las peſadeces de los cuerpos ſe gue por ea
+experiencia, que la peſadèz en Cayenna es menor que en
+Parìs.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="2003" y="3312"/>
+	<Point x="2235" y="3312"/>
+	<Point x="2235" y="3441"/>
+	<Point x="2003" y="3441"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ea</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="credit">
+	<Coords>
+	<Point x="970" y="4019"/>
+	<Point x="1958" y="4019"/>
+	<Point x="1958" y="4093"/>
+	<Point x="970" y="4093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="drop-capital">
+	<Coords>
+	<Point x="310" y="1856"/>
+	<Point x="649" y="1855"/>
+	<Point x="651" y="2176"/>
+	<Point x="310" y="2176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="348" y="1548"/>
+	<Point x="2119" y="1548"/>
+	<Point x="2119" y="1745"/>
+	<Point x="348" y="1745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Motivos que obligaron à emprehender las Experiencias
+del Pendulo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="signature-mark">
+	<Coords>
+	<Point x="1356" y="3330"/>
+	<Point x="1494" y="3330"/>
+	<Point x="1494" y="3435"/>
+	<Point x="1356" y="3435"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rr</Unicode></TextEquiv></TextRegion></Page></PcGts>

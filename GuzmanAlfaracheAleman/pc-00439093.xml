@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439093">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T13:59:20</Created>
+	<LastChange>2010-12-28T05:47:32</LastChange></Metadata>
+	<Page imageFilename="00439093.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="519" y="95"/>
+	<Point x="1445" y="97"/>
+	<Point x="1459" y="169"/>
+	<Point x="519" y="171"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GVZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="252" y="183"/>
+	<Point x="1690" y="178"/>
+	<Point x="1695" y="192"/>
+	<Point x="1692" y="204"/>
+	<Point x="1702" y="2238"/>
+	<Point x="252" y="2238"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>animo para eo. Que es muy cierto los hombres viles,
+de vida infame, y mal trato, ſer pulanimes de poco pe-
+cho, como antes dixe. Que n derle tormento, ni ame-
+nazandole con el, declarò n ſerle pedido, hurtos y vea-
+querias que hizo, aſ en aquel meſon, como endo ga-
+nadero, ſalteando caminos. De donde vino à tener cau-
+dal con que ponerſe en trato. Yo à todo eo eava el oy-
+do atento,  de entre la colada ſalia mi capa: pero con el
+odio que me cobrò, la dexò entre renglones. Hize mis
+diligencias para  pareciee, ninguna fue de provecho.
+Acabadas de tomar nueras declaraciones, del harrie-
+ro y mia, por ſer foraeros, nos retiﬁcaron en eas. Y 
+por la pendencia me avian de evar preo (como dizen,
+tras paciente aporreado) huvo diverſos pareceres, holga-
+ron deo los eſcrivanos, y lo pretendieron, mas uno de
+los Alcaldes dixo, aver yo tenido razon y ninguna culpa.
+Que  me pedian, pues yva en cuerpo, y me avian quitado
+la capa. Con eo me mandaron ſoltar, evando à la car-
+cel al meſonero. Noſotros acabamos de aliñar, y ſeguimos
+nuero camino; paamos por donde los Clerigos ea-
+van eſperando: cada uno tomò ſu cavaeria; contèles el
+ſuceo, quedaron admirados deo, condoliendole de mi
+neceſdad. Mas como no la podian remediar, encomen-
+daronlo à Dios. Yo, y mi compañero, con los alborotos y
+breve partida, que ca ſalimos huyendo, nos quedamos
+n oyr Mia. Yo la ſolia oyr todos los dias por mi devo-
+cion: deſde aquel ſe me puſo en la cabeça, que tan malos
+principios, era impoſble tener buenos nes, ni podia ya
+ſucederme coſa buena, ni hazerſeme bien. Y aſ fue, co-
+mo, adelante lo veras: que quando las coſas ſe principian,
+dexando à Dios, no ſe puede eſperar menos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1533" y="2511"/>
+	<Point x="1683" y="2516"/>
+	<Point x="1690" y="2602"/>
+	<Point x="1535" y="2616"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CA-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="542" y="2861"/>
+	<Point x="1311" y="2873"/>
+	<Point x="1306" y="2940"/>
+	<Point x="533" y="2940"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="280" y="80"/>
+	<Point x="280" y="170"/>
+	<Point x="412" y="170"/>
+	<Point x="412" y="80"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>60</Unicode></TextEquiv></TextRegion></Page></PcGts>

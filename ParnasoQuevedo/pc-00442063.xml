@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442063">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T21:40:09</Created>
+	<LastChange>2011-07-05T14:26:49</LastChange></Metadata>
+	<Page imageFilename="00442063.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r27" index="0"/>
+	<RegionRefIndexed regionRef="r28" index="1"/>
+	<RegionRefIndexed regionRef="r29" index="2"/>
+	<RegionRefIndexed regionRef="r30" index="3"/>
+	<RegionRefIndexed regionRef="r31" index="4"/>
+	<RegionRefIndexed regionRef="r32" index="5"/>
+	<RegionRefIndexed regionRef="r33" index="6"/>
+	<RegionRefIndexed regionRef="r34" index="7"/>
+	<RegionRefIndexed regionRef="r35" index="8"/>
+	<RegionRefIndexed regionRef="r36" index="9"/>
+	<RegionRefIndexed regionRef="r37" index="10"/>
+	<RegionRefIndexed regionRef="r38" index="11"/>
+	<RegionRefIndexed regionRef="r39" index="12"/>
+	<RegionRefIndexed regionRef="r40" index="13"/>
+	<RegionRefIndexed regionRef="r41" index="14"/>
+	<RegionRefIndexed regionRef="r42" index="15"/>
+	<RegionRefIndexed regionRef="r43" index="16"/>
+	<RegionRefIndexed regionRef="r44" index="17"/>
+	<RegionRefIndexed regionRef="r45" index="18"/>
+	<RegionRefIndexed regionRef="r46" index="19"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r24" type="credit">
+	<Coords>
+	<Point x="707" y="3134"/>
+	<Point x="1454" y="3134"/>
+	<Point x="1454" y="3196"/>
+	<Point x="707" y="3196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="header">
+	<Coords>
+	<Point x="704" y="173"/>
+	<Point x="704" y="271"/>
+	<Point x="1188" y="271"/>
+	<Point x="1188" y="173"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MVSA VI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="page-number">
+	<Coords>
+	<Point x="1680" y="145"/>
+	<Point x="1680" y="295"/>
+	<Point x="1897" y="295"/>
+	<Point x="1897" y="145"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>487</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="145" y="306"/>
+	<Point x="157" y="295"/>
+	<Point x="166" y="291"/>
+	<Point x="192" y="284"/>
+	<Point x="246" y="281"/>
+	<Point x="419" y="280"/>
+	<Point x="582" y="281"/>
+	<Point x="673" y="284"/>
+	<Point x="712" y="288"/>
+	<Point x="762" y="317"/>
+	<Point x="812" y="353"/>
+	<Point x="856" y="389"/>
+	<Point x="871" y="413"/>
+	<Point x="873" y="431"/>
+	<Point x="830" y="448"/>
+	<Point x="746" y="444"/>
+	<Point x="745" y="455"/>
+	<Point x="732" y="467"/>
+	<Point x="716" y="462"/>
+	<Point x="700" y="444"/>
+	<Point x="628" y="440"/>
+	<Point x="528" y="443"/>
+	<Point x="502" y="452"/>
+	<Point x="470" y="442"/>
+	<Point x="260" y="442"/>
+	<Point x="204" y="443"/>
+	<Point x="165" y="443"/>
+	<Point x="140" y="408"/>
+	<Point x="139" y="347"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Preſumida, n ſer fea,
+De freſcona, i de biçarra.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="86" y="454"/>
+	<Point x="97" y="441"/>
+	<Point x="129" y="441"/>
+	<Point x="148" y="450"/>
+	<Point x="169" y="453"/>
+	<Point x="191" y="452"/>
+	<Point x="240" y="448"/>
+	<Point x="300" y="448"/>
+	<Point x="350" y="450"/>
+	<Point x="406" y="450"/>
+	<Point x="462" y="452"/>
+	<Point x="476" y="452"/>
+	<Point x="493" y="454"/>
+	<Point x="503" y="456"/>
+	<Point x="524" y="456"/>
+	<Point x="556" y="452"/>
+	<Point x="598" y="450"/>
+	<Point x="630" y="450"/>
+	<Point x="662" y="449"/>
+	<Point x="688" y="450"/>
+	<Point x="699" y="460"/>
+	<Point x="720" y="468"/>
+	<Point x="740" y="483"/>
+	<Point x="816" y="497"/>
+	<Point x="896" y="515"/>
+	<Point x="942" y="547"/>
+	<Point x="969" y="583"/>
+	<Point x="958" y="730"/>
+	<Point x="954" y="749"/>
+	<Point x="839" y="750"/>
+	<Point x="713" y="746"/>
+	<Point x="300" y="746"/>
+	<Point x="294" y="751"/>
+	<Point x="286" y="753"/>
+	<Point x="269" y="758"/>
+	<Point x="253" y="758"/>
+	<Point x="224" y="756"/>
+	<Point x="180" y="747"/>
+	<Point x="153" y="735"/>
+	<Point x="127" y="686"/>
+	<Point x="125" y="594"/>
+	<Point x="75" y="538"/>
+	<Point x="68" y="497"/>
+	<Point x="68" y="495"/>
+	<Point x="75" y="482"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La Cebolla a lo viudo
+Vino con ſus tocas blancas,
+I ſus entreſuelos verdes,
+Que n verdura no hai canas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="78" y="786"/>
+	<Point x="101" y="743"/>
+	<Point x="120" y="747"/>
+	<Point x="161" y="767"/>
+	<Point x="207" y="767"/>
+	<Point x="226" y="766"/>
+	<Point x="244" y="761"/>
+	<Point x="265" y="764"/>
+	<Point x="284" y="764"/>
+	<Point x="303" y="765"/>
+	<Point x="326" y="759"/>
+	<Point x="350" y="756"/>
+	<Point x="395" y="756"/>
+	<Point x="473" y="758"/>
+	<Point x="557" y="760"/>
+	<Point x="621" y="757"/>
+	<Point x="658" y="757"/>
+	<Point x="730" y="759"/>
+	<Point x="759" y="759"/>
+	<Point x="811" y="766"/>
+	<Point x="848" y="785"/>
+	<Point x="841" y="835"/>
+	<Point x="843" y="865"/>
+	<Point x="867" y="879"/>
+	<Point x="908" y="891"/>
+	<Point x="939" y="904"/>
+	<Point x="956" y="940"/>
+	<Point x="976" y="977"/>
+	<Point x="975" y="1030"/>
+	<Point x="968" y="1059"/>
+	<Point x="911" y="1063"/>
+	<Point x="833" y="1054"/>
+	<Point x="720" y="1054"/>
+	<Point x="589" y="1050"/>
+	<Point x="470" y="1052"/>
+	<Point x="433" y="1055"/>
+	<Point x="433" y="1066"/>
+	<Point x="421" y="1075"/>
+	<Point x="390" y="1056"/>
+	<Point x="327" y="1056"/>
+	<Point x="319" y="1066"/>
+	<Point x="303" y="1068"/>
+	<Point x="280" y="1064"/>
+	<Point x="267" y="1050"/>
+	<Point x="170" y="1050"/>
+	<Point x="162" y="1032"/>
+	<Point x="139" y="968"/>
+	<Point x="134" y="903"/>
+	<Point x="66" y="837"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Para ſer Dama, mui dulce
+Vino la Lima gallarda
+Al principio, que no es bueno
+Ningun pore de las damas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords>
+	<Point x="75" y="1082"/>
+	<Point x="84" y="1051"/>
+	<Point x="117" y="1042"/>
+	<Point x="162" y="1064"/>
+	<Point x="192" y="1064"/>
+	<Point x="204" y="1060"/>
+	<Point x="236" y="1060"/>
+	<Point x="259" y="1061"/>
+	<Point x="270" y="1072"/>
+	<Point x="288" y="1077"/>
+	<Point x="323" y="1072"/>
+	<Point x="347" y="1068"/>
+	<Point x="373" y="1069"/>
+	<Point x="392" y="1075"/>
+	<Point x="412" y="1081"/>
+	<Point x="437" y="1083"/>
+	<Point x="466" y="1070"/>
+	<Point x="486" y="1057"/>
+	<Point x="530" y="1060"/>
+	<Point x="586" y="1063"/>
+	<Point x="629" y="1064"/>
+	<Point x="677" y="1061"/>
+	<Point x="736" y="1061"/>
+	<Point x="769" y="1068"/>
+	<Point x="821" y="1075"/>
+	<Point x="846" y="1096"/>
+	<Point x="840" y="1118"/>
+	<Point x="894" y="1123"/>
+	<Point x="936" y="1148"/>
+	<Point x="989" y="1225"/>
+	<Point x="971" y="1271"/>
+	<Point x="969" y="1312"/>
+	<Point x="897" y="1356"/>
+	<Point x="793" y="1357"/>
+	<Point x="788" y="1368"/>
+	<Point x="779" y="1372"/>
+	<Point x="743" y="1362"/>
+	<Point x="722" y="1358"/>
+	<Point x="413" y="1348"/>
+	<Point x="233" y="1348"/>
+	<Point x="187" y="1357"/>
+	<Point x="139" y="1334"/>
+	<Point x="131" y="1220"/>
+	<Point x="93" y="1167"/>
+	<Point x="88" y="1154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La Naranja a lo miniro
+Llegò mui tiea, i cerrada,
+Con ſu appariencia mui liſa,
+Ii ſu condicion mui agria.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="76" y="1373"/>
+	<Point x="97" y="1355"/>
+	<Point x="127" y="1355"/>
+	<Point x="151" y="1360"/>
+	<Point x="176" y="1360"/>
+	<Point x="190" y="1362"/>
+	<Point x="239" y="1361"/>
+	<Point x="262" y="1361"/>
+	<Point x="314" y="1359"/>
+	<Point x="366" y="1360"/>
+	<Point x="422" y="1362"/>
+	<Point x="471" y="1360"/>
+	<Point x="522" y="1366"/>
+	<Point x="677" y="1366"/>
+	<Point x="713" y="1367"/>
+	<Point x="747" y="1367"/>
+	<Point x="758" y="1370"/>
+	<Point x="767" y="1376"/>
+	<Point x="790" y="1384"/>
+	<Point x="905" y="1409"/>
+	<Point x="939" y="1481"/>
+	<Point x="959" y="1505"/>
+	<Point x="967" y="1553"/>
+	<Point x="969" y="1609"/>
+	<Point x="939" y="1643"/>
+	<Point x="902" y="1649"/>
+	<Point x="838" y="1652"/>
+	<Point x="509" y="1652"/>
+	<Point x="504" y="1666"/>
+	<Point x="504" y="1671"/>
+	<Point x="483" y="1666"/>
+	<Point x="464" y="1654"/>
+	<Point x="407" y="1650"/>
+	<Point x="390" y="1656"/>
+	<Point x="390" y="1663"/>
+	<Point x="384" y="1667"/>
+	<Point x="367" y="1667"/>
+	<Point x="365" y="1666"/>
+	<Point x="359" y="1655"/>
+	<Point x="346" y="1646"/>
+	<Point x="309" y="1653"/>
+	<Point x="276" y="1652"/>
+	<Point x="209" y="1653"/>
+	<Point x="166" y="1653"/>
+	<Point x="123" y="1486"/>
+	<Point x="105" y="1456"/>
+	<Point x="65" y="1434"/>
+	<Point x="60" y="1404"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A lo rico, i lo trampoſo
+En ſu eriço la caaña,
+Que la hã de ſacar la haciẽda
+Todos por punta de lanza.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords>
+	<Point x="37" y="1666"/>
+	<Point x="75" y="1647"/>
+	<Point x="98" y="1642"/>
+	<Point x="126" y="1647"/>
+	<Point x="137" y="1656"/>
+	<Point x="157" y="1665"/>
+	<Point x="211" y="1665"/>
+	<Point x="259" y="1666"/>
+	<Point x="294" y="1671"/>
+	<Point x="346" y="1678"/>
+	<Point x="367" y="1671"/>
+	<Point x="377" y="1669"/>
+	<Point x="388" y="1671"/>
+	<Point x="404" y="1670"/>
+	<Point x="437" y="1664"/>
+	<Point x="453" y="1662"/>
+	<Point x="473" y="1668"/>
+	<Point x="485" y="1673"/>
+	<Point x="506" y="1678"/>
+	<Point x="513" y="1666"/>
+	<Point x="534" y="1658"/>
+	<Point x="565" y="1658"/>
+	<Point x="672" y="1659"/>
+	<Point x="704" y="1668"/>
+	<Point x="745" y="1688"/>
+	<Point x="777" y="1732"/>
+	<Point x="827" y="1761"/>
+	<Point x="887" y="1792"/>
+	<Point x="924" y="1820"/>
+	<Point x="952" y="1872"/>
+	<Point x="953" y="1930"/>
+	<Point x="918" y="1956"/>
+	<Point x="867" y="1959"/>
+	<Point x="757" y="1955"/>
+	<Point x="756" y="1965"/>
+	<Point x="748" y="1975"/>
+	<Point x="725" y="1975"/>
+	<Point x="700" y="1960"/>
+	<Point x="682" y="1957"/>
+	<Point x="428" y="1957"/>
+	<Point x="198" y="1956"/>
+	<Point x="175" y="1957"/>
+	<Point x="141" y="1945"/>
+	<Point x="127" y="1804"/>
+	<Point x="132" y="1751"/>
+	<Point x="72" y="1740"/>
+	<Point x="27" y="1690"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La Granda deshonea
+A lo moça Corteſana,
+Deſemboçò en la hermoſura,
+Deſcaramiento en la gracia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="58" y="1960"/>
+	<Point x="82" y="1951"/>
+	<Point x="117" y="1951"/>
+	<Point x="142" y="1962"/>
+	<Point x="174" y="1964"/>
+	<Point x="341" y="1964"/>
+	<Point x="502" y="1965"/>
+	<Point x="606" y="1966"/>
+	<Point x="668" y="1966"/>
+	<Point x="698" y="1968"/>
+	<Point x="719" y="1989"/>
+	<Point x="758" y="2008"/>
+	<Point x="782" y="2038"/>
+	<Point x="796" y="2100"/>
+	<Point x="822" y="2130"/>
+	<Point x="846" y="2168"/>
+	<Point x="882" y="2187"/>
+	<Point x="914" y="2267"/>
+	<Point x="856" y="2254"/>
+	<Point x="859" y="2267"/>
+	<Point x="837" y="2272"/>
+	<Point x="814" y="2260"/>
+	<Point x="788" y="2251"/>
+	<Point x="550" y="2248"/>
+	<Point x="541" y="2258"/>
+	<Point x="534" y="2262"/>
+	<Point x="515" y="2263"/>
+	<Point x="503" y="2255"/>
+	<Point x="487" y="2245"/>
+	<Point x="385" y="2246"/>
+	<Point x="277" y="2246"/>
+	<Point x="276" y="2257"/>
+	<Point x="266" y="2262"/>
+	<Point x="251" y="2265"/>
+	<Point x="235" y="2258"/>
+	<Point x="212" y="2249"/>
+	<Point x="177" y="2249"/>
+	<Point x="140" y="2246"/>
+	<Point x="96" y="2167"/>
+	<Point x="113" y="2049"/>
+	<Point x="79" y="2042"/>
+	<Point x="51" y="2010"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Doña Moaça menuda,
+Mui brioſa, i atufada,
+Que toda chica perſona
+Es gente de gran Moaça.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords>
+	<Point x="72" y="2272"/>
+	<Point x="91" y="2255"/>
+	<Point x="117" y="2257"/>
+	<Point x="131" y="2263"/>
+	<Point x="158" y="2259"/>
+	<Point x="168" y="2257"/>
+	<Point x="188" y="2262"/>
+	<Point x="223" y="2274"/>
+	<Point x="245" y="2275"/>
+	<Point x="256" y="2274"/>
+	<Point x="269" y="2266"/>
+	<Point x="284" y="2259"/>
+	<Point x="290" y="2256"/>
+	<Point x="308" y="2256"/>
+	<Point x="446" y="2255"/>
+	<Point x="477" y="2257"/>
+	<Point x="496" y="2258"/>
+	<Point x="510" y="2263"/>
+	<Point x="517" y="2270"/>
+	<Point x="538" y="2270"/>
+	<Point x="561" y="2261"/>
+	<Point x="578" y="2259"/>
+	<Point x="630" y="2256"/>
+	<Point x="691" y="2257"/>
+	<Point x="725" y="2259"/>
+	<Point x="757" y="2261"/>
+	<Point x="806" y="2284"/>
+	<Point x="824" y="2318"/>
+	<Point x="872" y="2324"/>
+	<Point x="919" y="2346"/>
+	<Point x="940" y="2374"/>
+	<Point x="941" y="2449"/>
+	<Point x="875" y="2466"/>
+	<Point x="951" y="2534"/>
+	<Point x="943" y="2554"/>
+	<Point x="830" y="2558"/>
+	<Point x="738" y="2556"/>
+	<Point x="667" y="2554"/>
+	<Point x="552" y="2551"/>
+	<Point x="529" y="2556"/>
+	<Point x="518" y="2556"/>
+	<Point x="495" y="2546"/>
+	<Point x="465" y="2546"/>
+	<Point x="380" y="2552"/>
+	<Point x="170" y="2552"/>
+	<Point x="154" y="2550"/>
+	<Point x="140" y="2528"/>
+	<Point x="135" y="2430"/>
+	<Point x="133" y="2358"/>
+	<Point x="73" y="2345"/>
+	<Point x="67" y="2280"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A lo alindado la Guinda,
+Mui agria quãdo muchacha,
+Pero ia entrada en edad,
+Mas tratable, dulce, i blãda.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="69" y="2570"/>
+	<Point x="83" y="2553"/>
+	<Point x="117" y="2553"/>
+	<Point x="140" y="2562"/>
+	<Point x="161" y="2561"/>
+	<Point x="248" y="2561"/>
+	<Point x="297" y="2569"/>
+	<Point x="376" y="2570"/>
+	<Point x="432" y="2570"/>
+	<Point x="461" y="2562"/>
+	<Point x="477" y="2558"/>
+	<Point x="496" y="2558"/>
+	<Point x="519" y="2574"/>
+	<Point x="548" y="2562"/>
+	<Point x="567" y="2558"/>
+	<Point x="588" y="2566"/>
+	<Point x="603" y="2574"/>
+	<Point x="666" y="2576"/>
+	<Point x="710" y="2577"/>
+	<Point x="730" y="2562"/>
+	<Point x="762" y="2563"/>
+	<Point x="772" y="2573"/>
+	<Point x="814" y="2569"/>
+	<Point x="853" y="2586"/>
+	<Point x="879" y="2611"/>
+	<Point x="866" y="2648"/>
+	<Point x="852" y="2680"/>
+	<Point x="848" y="2700"/>
+	<Point x="880" y="2733"/>
+	<Point x="892" y="2775"/>
+	<Point x="855" y="2820"/>
+	<Point x="851" y="2851"/>
+	<Point x="840" y="2858"/>
+	<Point x="689" y="2856"/>
+	<Point x="572" y="2856"/>
+	<Point x="568" y="2867"/>
+	<Point x="560" y="2872"/>
+	<Point x="547" y="2875"/>
+	<Point x="525" y="2870"/>
+	<Point x="493" y="2854"/>
+	<Point x="452" y="2854"/>
+	<Point x="311" y="2858"/>
+	<Point x="197" y="2861"/>
+	<Point x="158" y="2859"/>
+	<Point x="127" y="2846"/>
+	<Point x="128" y="2801"/>
+	<Point x="129" y="2724"/>
+	<Point x="133" y="2659"/>
+	<Point x="111" y="2638"/>
+	<Point x="79" y="2634"/>
+	<Point x="58" y="2617"/>
+	<Point x="58" y="2598"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La Cereça, a lo hermoſura,
+Recien venida mui cara,
+Pero con el tiempo todos
+Se le attreben por barata.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords>
+	<Point x="58" y="2890"/>
+	<Point x="73" y="2868"/>
+	<Point x="108" y="2862"/>
+	<Point x="140" y="2868"/>
+	<Point x="180" y="2869"/>
+	<Point x="281" y="2869"/>
+	<Point x="367" y="2866"/>
+	<Point x="403" y="2866"/>
+	<Point x="461" y="2865"/>
+	<Point x="487" y="2865"/>
+	<Point x="514" y="2875"/>
+	<Point x="530" y="2885"/>
+	<Point x="558" y="2885"/>
+	<Point x="587" y="2869"/>
+	<Point x="680" y="2868"/>
+	<Point x="774" y="2867"/>
+	<Point x="804" y="2866"/>
+	<Point x="855" y="2871"/>
+	<Point x="880" y="2917"/>
+	<Point x="872" y="2964"/>
+	<Point x="653" y="2970"/>
+	<Point x="485" y="2970"/>
+	<Point x="183" y="2953"/>
+	<Point x="137" y="2951"/>
+	<Point x="89" y="2953"/>
+	<Point x="59" y="2943"/>
+	<Point x="55" y="2930"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Doña Alcachofa, compuea</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords>
+	<Point x="1062" y="331"/>
+	<Point x="1083" y="307"/>
+	<Point x="1128" y="289"/>
+	<Point x="1194" y="289"/>
+	<Point x="1295" y="285"/>
+	<Point x="1426" y="279"/>
+	<Point x="1576" y="274"/>
+	<Point x="1652" y="279"/>
+	<Point x="1679" y="307"/>
+	<Point x="1731" y="311"/>
+	<Point x="1789" y="320"/>
+	<Point x="1841" y="350"/>
+	<Point x="1892" y="401"/>
+	<Point x="1917" y="471"/>
+	<Point x="1895" y="520"/>
+	<Point x="1841" y="531"/>
+	<Point x="1395" y="531"/>
+	<Point x="1328" y="529"/>
+	<Point x="1323" y="535"/>
+	<Point x="1304" y="538"/>
+	<Point x="1291" y="529"/>
+	<Point x="1274" y="519"/>
+	<Point x="1171" y="516"/>
+	<Point x="1116" y="516"/>
+	<Point x="1076" y="500"/>
+	<Point x="1058" y="426"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A imitacion de las ﬂacas,
+Baſquiñas, i mas baſquiñas,
+Carne poca, i muchas faldas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords>
+	<Point x="1001" y="529"/>
+	<Point x="1032" y="528"/>
+	<Point x="1092" y="528"/>
+	<Point x="1131" y="529"/>
+	<Point x="1249" y="529"/>
+	<Point x="1268" y="526"/>
+	<Point x="1274" y="528"/>
+	<Point x="1289" y="535"/>
+	<Point x="1294" y="542"/>
+	<Point x="1305" y="545"/>
+	<Point x="1333" y="545"/>
+	<Point x="1375" y="543"/>
+	<Point x="1493" y="542"/>
+	<Point x="1576" y="538"/>
+	<Point x="1656" y="534"/>
+	<Point x="1738" y="536"/>
+	<Point x="1798" y="538"/>
+	<Point x="1859" y="546"/>
+	<Point x="1886" y="555"/>
+	<Point x="1900" y="668"/>
+	<Point x="1862" y="703"/>
+	<Point x="1834" y="748"/>
+	<Point x="1887" y="765"/>
+	<Point x="1901" y="805"/>
+	<Point x="1897" y="839"/>
+	<Point x="1866" y="846"/>
+	<Point x="1782" y="838"/>
+	<Point x="1777" y="846"/>
+	<Point x="1772" y="852"/>
+	<Point x="1756" y="854"/>
+	<Point x="1739" y="854"/>
+	<Point x="1710" y="836"/>
+	<Point x="1582" y="827"/>
+	<Point x="1545" y="828"/>
+	<Point x="1541" y="841"/>
+	<Point x="1536" y="844"/>
+	<Point x="1523" y="848"/>
+	<Point x="1511" y="847"/>
+	<Point x="1490" y="834"/>
+	<Point x="1467" y="830"/>
+	<Point x="1315" y="829"/>
+	<Point x="1160" y="822"/>
+	<Point x="1157" y="832"/>
+	<Point x="1151" y="833"/>
+	<Point x="1144" y="833"/>
+	<Point x="1129" y="828"/>
+	<Point x="1106" y="819"/>
+	<Point x="1093" y="803"/>
+	<Point x="1073" y="748"/>
+	<Point x="1078" y="673"/>
+	<Point x="1070" y="601"/>
+	<Point x="1045" y="606"/>
+	<Point x="1023" y="599"/>
+	<Point x="1005" y="587"/>
+	<Point x="1005" y="563"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Don Melon, que es el retrato
+De todos los que ſe caſan,
+Dios te la depare buena,
+Que la via al guo engaña.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="1004" y="822"/>
+	<Point x="1036" y="812"/>
+	<Point x="1059" y="812"/>
+	<Point x="1114" y="829"/>
+	<Point x="1128" y="836"/>
+	<Point x="1147" y="842"/>
+	<Point x="1190" y="842"/>
+	<Point x="1221" y="840"/>
+	<Point x="1352" y="847"/>
+	<Point x="1477" y="848"/>
+	<Point x="1500" y="855"/>
+	<Point x="1526" y="857"/>
+	<Point x="1550" y="847"/>
+	<Point x="1555" y="840"/>
+	<Point x="1586" y="840"/>
+	<Point x="1624" y="841"/>
+	<Point x="1664" y="842"/>
+	<Point x="1708" y="845"/>
+	<Point x="1733" y="862"/>
+	<Point x="1771" y="891"/>
+	<Point x="1748" y="959"/>
+	<Point x="1756" y="977"/>
+	<Point x="1836" y="995"/>
+	<Point x="1893" y="1006"/>
+	<Point x="1928" y="1041"/>
+	<Point x="1928" y="1082"/>
+	<Point x="1922" y="1121"/>
+	<Point x="1847" y="1148"/>
+	<Point x="1749" y="1144"/>
+	<Point x="1612" y="1133"/>
+	<Point x="1541" y="1137"/>
+	<Point x="1306" y="1128"/>
+	<Point x="1090" y="1128"/>
+	<Point x="1063" y="1100"/>
+	<Point x="1066" y="932"/>
+	<Point x="1016" y="912"/>
+	<Point x="991" y="878"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La Berengena, morando
+Su calavera morada,
+Porque no llegò en el tiẽpo
+De el ſocorro de las calvas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords>
+	<Point x="1002" y="1152"/>
+	<Point x="1006" y="1136"/>
+	<Point x="1020" y="1131"/>
+	<Point x="1052" y="1131"/>
+	<Point x="1094" y="1141"/>
+	<Point x="1156" y="1141"/>
+	<Point x="1209" y="1140"/>
+	<Point x="1383" y="1140"/>
+	<Point x="1480" y="1141"/>
+	<Point x="1549" y="1145"/>
+	<Point x="1613" y="1144"/>
+	<Point x="1673" y="1147"/>
+	<Point x="1714" y="1149"/>
+	<Point x="1785" y="1177"/>
+	<Point x="1816" y="1206"/>
+	<Point x="1857" y="1245"/>
+	<Point x="1889" y="1306"/>
+	<Point x="1929" y="1396"/>
+	<Point x="1880" y="1455"/>
+	<Point x="1717" y="1450"/>
+	<Point x="1680" y="1440"/>
+	<Point x="1680" y="1454"/>
+	<Point x="1664" y="1456"/>
+	<Point x="1648" y="1452"/>
+	<Point x="1621" y="1439"/>
+	<Point x="1412" y="1437"/>
+	<Point x="1405" y="1448"/>
+	<Point x="1388" y="1452"/>
+	<Point x="1372" y="1443"/>
+	<Point x="1356" y="1435"/>
+	<Point x="1270" y="1426"/>
+	<Point x="1172" y="1427"/>
+	<Point x="1114" y="1427"/>
+	<Point x="1086" y="1426"/>
+	<Point x="1071" y="1396"/>
+	<Point x="1078" y="1313"/>
+	<Point x="1078" y="1213"/>
+	<Point x="1018" y="1226"/>
+	<Point x="1003" y="1181"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Don Cohombro deſvaido,
+Largo de verde Eſperança,
+Mui pueo en ſer gẽtilhõbre,
+Siendo cargado de eſpaldas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords>
+	<Point x="991" y="1448"/>
+	<Point x="1014" y="1426"/>
+	<Point x="1032" y="1427"/>
+	<Point x="1070" y="1441"/>
+	<Point x="1150" y="1441"/>
+	<Point x="1189" y="1439"/>
+	<Point x="1237" y="1439"/>
+	<Point x="1290" y="1436"/>
+	<Point x="1334" y="1452"/>
+	<Point x="1382" y="1465"/>
+	<Point x="1408" y="1463"/>
+	<Point x="1439" y="1447"/>
+	<Point x="1577" y="1447"/>
+	<Point x="1602" y="1454"/>
+	<Point x="1634" y="1465"/>
+	<Point x="1673" y="1459"/>
+	<Point x="1705" y="1460"/>
+	<Point x="1747" y="1460"/>
+	<Point x="1812" y="1494"/>
+	<Point x="1863" y="1511"/>
+	<Point x="1885" y="1527"/>
+	<Point x="1910" y="1631"/>
+	<Point x="1910" y="1700"/>
+	<Point x="1900" y="1745"/>
+	<Point x="1878" y="1754"/>
+	<Point x="1839" y="1745"/>
+	<Point x="1773" y="1741"/>
+	<Point x="1588" y="1737"/>
+	<Point x="1432" y="1735"/>
+	<Point x="1265" y="1732"/>
+	<Point x="1182" y="1732"/>
+	<Point x="1133" y="1734"/>
+	<Point x="1096" y="1736"/>
+	<Point x="1087" y="1728"/>
+	<Point x="1078" y="1708"/>
+	<Point x="1052" y="1550"/>
+	<Point x="1014" y="1518"/>
+	<Point x="995" y="1494"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Don Pepino, mui picado
+De amor de Doña Enſalada,
+Gran compadre de Do: ores,
+Penſando en unas tercianas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords>
+	<Point x="1001" y="1759"/>
+	<Point x="1019" y="1741"/>
+	<Point x="1044" y="1728"/>
+	<Point x="1064" y="1733"/>
+	<Point x="1102" y="1758"/>
+	<Point x="1164" y="1741"/>
+	<Point x="1197" y="1743"/>
+	<Point x="1441" y="1743"/>
+	<Point x="1533" y="1742"/>
+	<Point x="1665" y="1744"/>
+	<Point x="1740" y="1748"/>
+	<Point x="1797" y="1750"/>
+	<Point x="1834" y="1765"/>
+	<Point x="1866" y="1814"/>
+	<Point x="1871" y="1932"/>
+	<Point x="1848" y="2005"/>
+	<Point x="1789" y="2039"/>
+	<Point x="1767" y="2048"/>
+	<Point x="1689" y="2044"/>
+	<Point x="1533" y="2040"/>
+	<Point x="1444" y="2037"/>
+	<Point x="1298" y="2037"/>
+	<Point x="1283" y="2042"/>
+	<Point x="1254" y="2042"/>
+	<Point x="1218" y="2035"/>
+	<Point x="1141" y="2034"/>
+	<Point x="1087" y="2031"/>
+	<Point x="1056" y="1974"/>
+	<Point x="1054" y="1857"/>
+	<Point x="1041" y="1833"/>
+	<Point x="1002" y="1816"/>
+	<Point x="997" y="1806"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Don Durazno a lo invidioſo,
+Morando agradable cara,
+Deſcubriendo con el tratao
+Malas, i duras entrañas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="1004" y="2062"/>
+	<Point x="1020" y="2044"/>
+	<Point x="1040" y="2044"/>
+	<Point x="1062" y="2047"/>
+	<Point x="1101" y="2048"/>
+	<Point x="1113" y="2044"/>
+	<Point x="1145" y="2045"/>
+	<Point x="1186" y="2051"/>
+	<Point x="1209" y="2051"/>
+	<Point x="1245" y="2052"/>
+	<Point x="1275" y="2049"/>
+	<Point x="1300" y="2049"/>
+	<Point x="1355" y="2062"/>
+	<Point x="1387" y="2047"/>
+	<Point x="1475" y="2047"/>
+	<Point x="1500" y="2048"/>
+	<Point x="1540" y="2060"/>
+	<Point x="1631" y="2060"/>
+	<Point x="1674" y="2057"/>
+	<Point x="1714" y="2052"/>
+	<Point x="1773" y="2057"/>
+	<Point x="1805" y="2075"/>
+	<Point x="1893" y="2117"/>
+	<Point x="1905" y="2151"/>
+	<Point x="1913" y="2255"/>
+	<Point x="1911" y="2319"/>
+	<Point x="1889" y="2354"/>
+	<Point x="1873" y="2363"/>
+	<Point x="1760" y="2362"/>
+	<Point x="1727" y="2364"/>
+	<Point x="1712" y="2353"/>
+	<Point x="1679" y="2351"/>
+	<Point x="1589" y="2349"/>
+	<Point x="1411" y="2341"/>
+	<Point x="1265" y="2332"/>
+	<Point x="1213" y="2329"/>
+	<Point x="1201" y="2335"/>
+	<Point x="1192" y="2339"/>
+	<Point x="1151" y="2342"/>
+	<Point x="1129" y="2340"/>
+	<Point x="1089" y="2330"/>
+	<Point x="1062" y="2301"/>
+	<Point x="1040" y="2227"/>
+	<Point x="1046" y="2185"/>
+	<Point x="1038" y="2120"/>
+	<Point x="1003" y="2118"/>
+	<Point x="995" y="2097"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Perſona de mui buen guo
+Don Limon, de quiẽ eſpãta
+Lo ſaçonado, i panzudo,
+Qne no hai diſcreto cẽ pãza.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords>
+	<Point x="985" y="2354"/>
+	<Point x="1014" y="2320"/>
+	<Point x="1039" y="2318"/>
+	<Point x="1075" y="2342"/>
+	<Point x="1095" y="2343"/>
+	<Point x="1122" y="2344"/>
+	<Point x="1132" y="2345"/>
+	<Point x="1156" y="2347"/>
+	<Point x="1196" y="2347"/>
+	<Point x="1226" y="2344"/>
+	<Point x="1358" y="2344"/>
+	<Point x="1458" y="2353"/>
+	<Point x="1518" y="2352"/>
+	<Point x="1532" y="2352"/>
+	<Point x="1607" y="2354"/>
+	<Point x="1697" y="2370"/>
+	<Point x="1720" y="2370"/>
+	<Point x="1731" y="2366"/>
+	<Point x="1741" y="2365"/>
+	<Point x="1744" y="2368"/>
+	<Point x="1761" y="2374"/>
+	<Point x="1790" y="2381"/>
+	<Point x="1810" y="2388"/>
+	<Point x="1834" y="2426"/>
+	<Point x="1834" y="2554"/>
+	<Point x="1829" y="2615"/>
+	<Point x="1818" y="2646"/>
+	<Point x="1779" y="2661"/>
+	<Point x="1672" y="2656"/>
+	<Point x="1578" y="2654"/>
+	<Point x="1487" y="2652"/>
+	<Point x="1476" y="2659"/>
+	<Point x="1462" y="2664"/>
+	<Point x="1444" y="2664"/>
+	<Point x="1410" y="2649"/>
+	<Point x="1372" y="2649"/>
+	<Point x="1366" y="2658"/>
+	<Point x="1356" y="2664"/>
+	<Point x="1342" y="2658"/>
+	<Point x="1316" y="2642"/>
+	<Point x="1286" y="2640"/>
+	<Point x="1194" y="2636"/>
+	<Point x="1144" y="2635"/>
+	<Point x="1094" y="2633"/>
+	<Point x="1058" y="2629"/>
+	<Point x="1038" y="2590"/>
+	<Point x="1040" y="2504"/>
+	<Point x="1048" y="2466"/>
+	<Point x="1042" y="2414"/>
+	<Point x="997" y="2414"/>
+	<Point x="989" y="2401"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De blanco, morado, i verde,
+Corta crin, i cola larga,
+Don Rabano, pareciendo
+Moro de juego de Cañas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords>
+	<Point x="987" y="2648"/>
+	<Point x="1004" y="2634"/>
+	<Point x="1046" y="2636"/>
+	<Point x="1073" y="2647"/>
+	<Point x="1104" y="2646"/>
+	<Point x="1186" y="2646"/>
+	<Point x="1224" y="2648"/>
+	<Point x="1260" y="2648"/>
+	<Point x="1292" y="2649"/>
+	<Point x="1310" y="2652"/>
+	<Point x="1325" y="2663"/>
+	<Point x="1342" y="2669"/>
+	<Point x="1366" y="2670"/>
+	<Point x="1384" y="2666"/>
+	<Point x="1406" y="2664"/>
+	<Point x="1454" y="2674"/>
+	<Point x="1495" y="2660"/>
+	<Point x="1516" y="2661"/>
+	<Point x="1571" y="2661"/>
+	<Point x="1607" y="2662"/>
+	<Point x="1647" y="2678"/>
+	<Point x="1682" y="2702"/>
+	<Point x="1706" y="2737"/>
+	<Point x="1742" y="2771"/>
+	<Point x="1862" y="2844"/>
+	<Point x="1886" y="2883"/>
+	<Point x="1877" y="2912"/>
+	<Point x="1670" y="2956"/>
+	<Point x="1626" y="2982"/>
+	<Point x="1562" y="2978"/>
+	<Point x="1464" y="2972"/>
+	<Point x="1404" y="2957"/>
+	<Point x="1264" y="2957"/>
+	<Point x="1100" y="2953"/>
+	<Point x="1073" y="2944"/>
+	<Point x="1047" y="2885"/>
+	<Point x="1039" y="2828"/>
+	<Point x="1039" y="2799"/>
+	<Point x="1026" y="2740"/>
+	<Point x="997" y="2710"/>
+	<Point x="983" y="2695"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Todo fanfarrones brios,
+Todo picantes brabatas,
+Llegò el Señor Dõ Pimiẽto,
+Veidito de botarga.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="catch-word">
+	<Coords>
+	<Point x="1697" y="2994"/>
+	<Point x="1731" y="2960"/>
+	<Point x="1805" y="2954"/>
+	<Point x="1902" y="2957"/>
+	<Point x="1925" y="3005"/>
+	<Point x="1902" y="3051"/>
+	<Point x="1794" y="3062"/>
+	<Point x="1737" y="3062"/>
+	<Point x="1711" y="3037"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Don</Unicode></TextEquiv></TextRegion></Page></PcGts>

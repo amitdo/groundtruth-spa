@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442287">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T11:25:26</Created>
+	<LastChange>2012-03-12T14:11:49</LastChange></Metadata>
+	<Page imageFilename="00442287.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r5" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="header">
+	<Coords>
+	<Point x="443" y="34"/>
+	<Point x="443" y="123"/>
+	<Point x="545" y="127"/>
+	<Point x="786" y="108"/>
+	<Point x="1044" y="112"/>
+	<Point x="1043" y="34"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1304" y="43"/>
+	<Point x="1307" y="112"/>
+	<Point x="1397" y="110"/>
+	<Point x="1404" y="43"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>6</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="100" y="121"/>
+	<Point x="113" y="2158"/>
+	<Point x="427" y="2169"/>
+	<Point x="629" y="2166"/>
+	<Point x="1177" y="2169"/>
+	<Point x="1346" y="2163"/>
+	<Point x="1398" y="2170"/>
+	<Point x="1434" y="2104"/>
+	<Point x="1434" y="121"/>
+	<Point x="700" y="126"/>
+	<Point x="498" y="137"/>
+	<Point x="462" y="149"/>
+	<Point x="348" y="125"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>deraydas moças que ai eauan,  a el le parecierõ
+dos hermoſas donzeas, o dos gracioſas damas,  de-
+lãte de la puerta del caio ſe eauan ſolazando. En
+eo ſucedio a caſo,  vn porquero que andaua reco-
+giendo de vnos rarojos vna manada de puercos
+(que n perdon aſsi ſe aman) tocó vn cuerno, a cuya
+ſeñal eos ſe recogen:y al inante ſe le repreſentò a
+don Quixote lo que deeaua, que era que algun
+Enano hazia ſeñal de ſu venida:y aſsi con eraño con
+tento egò a la venta y a las damas. Las quales como
+vieron venir vn hombre de aquea ſuerte, armado, y
+con lãça y adarga, enas de miedo ſe yuan a entrar en
+la venta: pero don Quixote, coligiendo por ſu huy-
+da ſu miedo, alçandoſe la viſera de papelon, y deſcu-
+briendo ſu ſeco y poluoroſo roro, cõ gentil talãte, y
+voz repoſada les dixo:No fuyan las vas mercedes, ni
+teman deſaguiſado alguno, ca a la orden de cauaeria
+ profeo, nõ toca, ni atañe fazerle a ninguno, quãto
+mas a tan altas dõzeas, comovas preſencias demueſ
+tran. Mirauanle las moças, y andauan con los ojos buſ
+candole el roro, que la mala viſer a le encubria. Mas
+como ſe oyeron amar dõzeas, coſa tan fuera de ſu
+profeſsion, no pudieron tener la riſa, y fue de manera,
+que don Quixote vino a correrſe, y a dezirles:B¡ẽ pa-
+rece la meſura en las fermoſas, yes mucha ſandez a de
+mas la riſa  de leue cauſa procede: pero nõ vos lo di-
+go porque os acuyredes, ni moredes mal talante, 
+el mio non es de al que de ſeruiros. El lenguaje no en-
+tendido de las ſeñoras, y el mal tae de no cauaero,
+acrecentaua en eas la riſa, y en el el enojo, y paara
+muy adelante  a aquel punto no ſal¡era el ventero, hõ
+bre, que por ſer muy gordo, era muy paciﬁco, el qual
+viendo aquea ﬁgura contrahecha, armada de ar mas</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1294" y="2181"/>
+	<Point x="1286" y="2239"/>
+	<Point x="1432" y="2243"/>
+	<Point x="1416" y="2176"/>
+	<Point x="1360" y="2180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tan</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="456" y="2269"/>
+	<Point x="459" y="2353"/>
+	<Point x="1145" y="2359"/>
+	<Point x="1154" y="2356"/>
+	<Point x="1160" y="2269"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440550">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T15:21:17</Created>
+	<LastChange>2011-07-05T14:26:05</LastChange></Metadata>
+	<Page imageFilename="00440550.tif" imageWidth="876" imageHeight="1640">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="107" y="77"/>
+	<Point x="570" y="78"/>
+	<Point x="859" y="80"/>
+	<Point x="853" y="1498"/>
+	<Point x="93" y="1497"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que rompi en mi vida, mas no me
+duraron ocho dias, ni yo tampo-
+co, porque me hazia caminar mas
+que vna poa, por eo, y por
+otras coas que no digo, ſali
+de ſu compania, y ſeruicio. El
+quinto amo encontte por mi ven-
+tura, y fue vn Buldero, el mas
+deſembuelto, y deſuergonçado, y
+el mayor echador deas, que ja-
+mas ſe vio, porque tenia, y buſca-
+ua modos, maneras y tracas muy
+ſutiles para eo. Quando entraua
+en los lugares donde auian de dar
+las bulas, primero preſentaua a los
+lcerigos, o curas algunas coas
+de poco valor y precio como era:
+Vna lechuga Murciana,  era el
+tiempo, vn par de limas, o nara-
+jas, vn melocoton, vn par de
+duraznos, cadaſendas peras ver-
+deñales. Ai procuraua tenerlos
+propicios, porque fauorecieen-
+ſu negocio, y amaen, ſus feli-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="771" y="1512"/>
+	<Point x="846" y="1504"/>
+	<Point x="847" y="1554"/>
+	<Point x="774" y="1559"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>gre</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="276" y="1576"/>
+	<Point x="575" y="1576"/>
+	<Point x="575" y="1613"/>
+	<Point x="276" y="1613"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="380" y="22"/>
+	<Point x="616" y="22"/>
+	<Point x="617" y="70"/>
+	<Point x="379" y="70"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="125" y="21"/>
+	<Point x="194" y="24"/>
+	<Point x="190" y="71"/>
+	<Point x="121" y="75"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>96</Unicode></TextEquiv></TextRegion></Page></PcGts>

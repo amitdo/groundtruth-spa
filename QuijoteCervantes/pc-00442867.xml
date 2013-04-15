@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442867">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T02:15:44</Created>
+	<LastChange>2012-03-12T14:12:32</LastChange></Metadata>
+	<Page imageFilename="00442867.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="434" y="69"/>
+	<Point x="1163" y="81"/>
+	<Point x="1181" y="125"/>
+	<Point x="1185" y="167"/>
+	<Point x="775" y="169"/>
+	<Point x="505" y="180"/>
+	<Point x="494" y="180"/>
+	<Point x="432" y="174"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1219" y="2138"/>
+	<Point x="1273" y="2125"/>
+	<Point x="1369" y="2127"/>
+	<Point x="1371" y="2156"/>
+	<Point x="1373" y="2186"/>
+	<Point x="1223" y="2190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>gana</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="154" y="166"/>
+	<Point x="379" y="172"/>
+	<Point x="442" y="182"/>
+	<Point x="497" y="182"/>
+	<Point x="725" y="175"/>
+	<Point x="1228" y="175"/>
+	<Point x="1305" y="173"/>
+	<Point x="1414" y="174"/>
+	<Point x="1410" y="2128"/>
+	<Point x="1384" y="2119"/>
+	<Point x="1270" y="2119"/>
+	<Point x="1174" y="2136"/>
+	<Point x="1006" y="2135"/>
+	<Point x="642" y="2135"/>
+	<Point x="561" y="2123"/>
+	<Point x="136" y="2149"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>do eo, replicò Sancho, digo, que para mayor abũ-
+dancia y ſatisfacion, ſeria bien que vuera merced
+prouae a ſalir dea carcel, que yo me obligo con
+todo mi poder a facilitarlo, y aun a ſacarle dea, y
+prouae de nueuo a ſubir ſobre ſu buen rozinante,
+que tambien parece que va encantado, ſegun va de
+malẽcolico y trie. Y echo eo, prouaemos otra
+vez la ſuerte de buſcar mas auenturas: y no nos
+ſucediee bien, tiempo nos queda para boluernos
+a la xaula: en la qual prometo a ley de buen y leal
+eſcudero de encerrarme juntamente con vuera
+merced,  acaſo fuere vuera merced tã deſdicha-
+do, o yo tan mple, que no acierte a ſalir con lo que
+digo. Yo ſoy contento de hazer lo que dizes, San-
+cho hermano, replicô don Quixote: y quando tu
+veas coyuntura de poner en obra mi libertad, yo
+te obedecere en todo y por todo: pero tu, Sancho
+veras como te engañas en el conocimiento de mi
+deſgracia. En eas platicas ſe entretuuieron el ca-
+uaero andante, y el mal andante eſcudero, haa
+que egaron, donde ya apeados los aguardauan el
+Cura, el Canonigo, y el baruero. Deshuncio luego
+los bueyes de la carreta el boyero, y dexolos andar
+a ſus anchuras por aquel verde y apazible tio, cu-
+ya freſcura cõbidaua a quererla gozar, no a las per-
+ſonas tan encantadas como don Quixote, no a los
+tã aduertidos y diſcretos como ſu eſcudero: el qual
+rogò al Cura, que permitiee que ſu ſeñor ſaliee
+por vn rato de la xaula: porque no le dexauan ſa-
+lir, no yria tan limpia aquea prion, como requi-
+ria la decencia de vn tal cauaero, como ſu amo.
+Entendiole el Cura, y dixo, que de muy buena</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="449" y="2304"/>
+	<Point x="453" y="2354"/>
+	<Point x="1013" y="2349"/>
+	<Point x="1012" y="2360"/>
+	<Point x="1024" y="2361"/>
+	<Point x="1028" y="2351"/>
+	<Point x="1125" y="2349"/>
+	<Point x="1141" y="2304"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1242" y="92"/>
+	<Point x="1242" y="171"/>
+	<Point x="1395" y="171"/>
+	<Point x="1395" y="92"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>296</Unicode></TextEquiv></TextRegion></Page></PcGts>

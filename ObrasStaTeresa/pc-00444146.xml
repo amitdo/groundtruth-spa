@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444146">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:03:31</Created>
+	<LastChange>2011-12-19T11:39:28</LastChange></Metadata>
+	<Page imageFilename="00444146.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="887" y="84"/>
+	<Point x="1606" y="83"/>
+	<Point x="1600" y="200"/>
+	<Point x="889" y="210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="410" y="225"/>
+	<Point x="1362" y="216"/>
+	<Point x="2071" y="201"/>
+	<Point x="2098" y="2631"/>
+	<Point x="1917" y="2623"/>
+	<Point x="1383" y="2668"/>
+	<Point x="384" y="2677"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>uocion grãde, en ſer todo poderoſo, dauan
+cõcluſas en mi todas las grandezas  hiziera
+des vos, y en eo como digo jamas tenia du-
+da) pues pẽſando como cõ juicia permitia-
+des a muchas  auia, como tengo dicho, muy
+vueras eruas, y que no tenian los regalos y
+mercedes, que me haziades a mi endo la 
+era, reſpondies me Señor, rue me tu a mi, y
+no te metas en eo. Fue la primera pala-
+bra que entendi hablarme vos, y an me
+eſpanto mucho, porque deſpues declarare
+ea manera de entender, con otras coſas,
+no lo digo aqui, que es ſalir de propo-
+to, y creo harto he ſalido del, ca no
+ſe lo que me he dicho, no puede ſer me-
+nos no que ha v. m. de ſuﬀrir eos in-
+terualos, porque quando veo lo que Dios
+me ha ſuﬀrido, y me veo en ee eado,
+no es mucho pierda el tino de lo que digo,
+y he de dezir, plega al Señor que em-
+pre ſean eos mis deſatinos, y que no
+permita ya ſu magead, tenga yo poder
+para ſer contra el vn punto, antes en
+ee que eoy me conſuma. Baa ya pa-
+ra ver ſus grandes miſericordias, no vna
+no muchas vezes, que ha perdonado
+tanta ingratitud. A ſant Pedro vna vez</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1847" y="2635"/>
+	<Point x="2038" y="2637"/>
+	<Point x="2043" y="2738"/>
+	<Point x="1844" y="2744"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="590" y="3050"/>
+	<Point x="1606" y="3046"/>
+	<Point x="1598" y="3170"/>
+	<Point x="595" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="475" y="106"/>
+	<Point x="475" y="203"/>
+	<Point x="678" y="203"/>
+	<Point x="678" y="106"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>218</Unicode></TextEquiv></TextRegion></Page></PcGts>

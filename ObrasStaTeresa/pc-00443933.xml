@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443933">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T00:07:01</Created>
+	<LastChange>2011-12-19T11:39:15</LastChange></Metadata>
+	<Page imageFilename="00443933.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="150" y="233"/>
+	<Point x="1721" y="233"/>
+	<Point x="1716" y="2592"/>
+	<Point x="1214" y="2588"/>
+	<Point x="1202" y="2614"/>
+	<Point x="150" y="2614"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſus compañeras. Que deſadas de todo lo que
+no es. Dios, y oﬀrecidas en ſolos los braços de ſu
+eſpoſo diuino, y abraçadas con el, con animos de
+varones fuertes en miembros de mugeres tier‐
+nos y ﬂacos ponen en execucion la mas alta y
+mas generoſa philoſophia que jamas los hom‐
+bres imaginaron: y egan con las obras adonde
+en razon de perfea vida, y de heroica virtud
+apenas egaron con la imaginacion los inge‐
+nios. Porque huean la riqueza: y tienen en
+odio la libertad: y deſprecian la honra: y amã
+la humildad y el trabajo: y todo ſu eudio es
+con vna ſana competencia procurar adelan‐
+tarſe en la virtud de contino: a que ſu eſpoſo
+les reſponde con vna fuerça de gozo, que les
+infunde en el alma, tan grande, que en el deſ‐
+amparo y deſnudez de todo lo que da conten‐
+to en la vida, poeen vn theſoro de verdader a
+alegria, y huean generoſamente ſobre la na‐
+turaleza toda como eſentas de ſus leyes, o
+verdader amente como ſuperiores a eas. Que
+ni el trabajo las canſa: ni el encerramiento las
+fatiga: ni la enfermedadlas deſcae: ni la muer</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="569" y="3066"/>
+	<Point x="1595" y="3066"/>
+	<Point x="1595" y="3157"/>
+	<Point x="569" y="3157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1638" y="111"/>
+	<Point x="1638" y="228"/>
+	<Point x="1714" y="228"/>
+	<Point x="1714" y="111"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1288" y="2600"/>
+	<Point x="1288" y="2716"/>
+	<Point x="1516" y="2716"/>
+	<Point x="1516" y="2600"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1595" y="2611"/>
+	<Point x="1595" y="2709"/>
+	<Point x="1738" y="2709"/>
+	<Point x="1738" y="2611"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>te</Unicode></TextEquiv></TextRegion></Page></PcGts>

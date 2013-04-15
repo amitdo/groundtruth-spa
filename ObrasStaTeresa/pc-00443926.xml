@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443926">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T05:36:00</Created>
+	<LastChange>2011-12-19T11:39:15</LastChange></Metadata>
+	<Page imageFilename="00443926.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="r2" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="r8" index="4"/>
+	<RegionRefIndexed regionRef="r4" index="5"/>
+	<RegionRefIndexed regionRef="r5" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="704" y="238"/>
+	<Point x="1792" y="238"/>
+	<Point x="1792" y="426"/>
+	<Point x="704" y="426"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Suma del priuilegio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="923" y="950"/>
+	<Point x="921" y="445"/>
+	<Point x="2019" y="442"/>
+	<Point x="2019" y="1719"/>
+	<Point x="447" y="1719"/>
+	<Point x="447" y="950"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>V Magead concede por ſu
+priuilegio al prouincial, y or‐
+den de los Carmelitas deſcal‐
+ços que por eſpacio de diez
+años que ſe cuentan deſde el
+dia dela fecha, nadie pueda n ſu licencia
+imprimir los libros de la madre Tereſa de
+Ieſus, que ſe intitulã, de ſu Vida, y Camino
+de perfecion, y las Moradas, ni traerlos a eos
+reynos de otra parte impreos, ſo las penas
+en el contenidas. Dado en el boſque de Se-
+gouia a 24. de Oubre de 1587.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="1078" y="1890"/>
+	<Point x="1450" y="1890"/>
+	<Point x="1450" y="1955"/>
+	<Point x="1078" y="1955"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TASSA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="605" y="2066"/>
+	<Point x="604" y="1960"/>
+	<Point x="2022" y="1959"/>
+	<Point x="2022" y="2639"/>
+	<Point x="467" y="2639"/>
+	<Point x="472" y="2066"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O Pedro çapata del Marmol eſcriuano de camara del Rey nuero
+ſeñor, doy fe que los ſeñores del Conſejo de pedimiento y ſuppli-
+cacion de Fray Nicolas de Ieſus Maria, Prouincial de la orden de los
+Carmelitas Deſcalços, taaron vn libro intitulado, la Vida de la Madre
+Tereſa de IESVS, y Camino de perfecion, y las Moradas, que con licencia
+de ſu Magead ſe imprimio a tres marauedis y medio cada pliego en
+papel, y al dicho precio y no mas mandaron que ſe venda,y que prime-
+ro que ſe venda ningun libro, ſe imprima ea taa en la primera hoja
+de cada volumen, y para que deo cone de pedimiento del dicho Pro-
+uincial, y mandamiento de los ſeñores del Conſejo di la preſente ﬁrma
+da de mi nombre, que es fecha en la Via de Madrid, a veynte y ocho
+dias del mes de Abril, de mil y quinientos y ochenta y ocho años.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="1371" y="2648"/>
+	<Point x="1648" y="2648"/>
+	<Point x="1648" y="2779"/>
+	<Point x="1371" y="2779"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pedro çapata
+del Marmol.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="drop-capital">
+	<Coords>
+	<Point x="445" y="457"/>
+	<Point x="914" y="457"/>
+	<Point x="914" y="911"/>
+	<Point x="445" y="911"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>S</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="617" y="3070"/>
+	<Point x="1581" y="3070"/>
+	<Point x="1581" y="3150"/>
+	<Point x="617" y="3150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="drop-capital">
+	<Coords>
+	<Point x="487" y="1952"/>
+	<Point x="487" y="2063"/>
+	<Point x="600" y="2063"/>
+	<Point x="600" y="1952"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y</Unicode></TextEquiv></TextRegion></Page></PcGts>

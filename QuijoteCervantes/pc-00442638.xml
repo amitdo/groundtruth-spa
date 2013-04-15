@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442638">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:03:47</Created>
+	<LastChange>2012-03-12T14:12:13</LastChange></Metadata>
+	<Page imageFilename="00442638.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="456" y="78"/>
+	<Point x="1089" y="76"/>
+	<Point x="1101" y="172"/>
+	<Point x="886" y="166"/>
+	<Point x="718" y="188"/>
+	<Point x="556" y="188"/>
+	<Point x="441" y="181"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quarta parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="111" y="168"/>
+	<Point x="341" y="170"/>
+	<Point x="482" y="192"/>
+	<Point x="790" y="190"/>
+	<Point x="885" y="176"/>
+	<Point x="1086" y="176"/>
+	<Point x="1120" y="184"/>
+	<Point x="1410" y="171"/>
+	<Point x="1425" y="2122"/>
+	<Point x="1308" y="2134"/>
+	<Point x="1201" y="2135"/>
+	<Point x="126" y="2169"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>quiera Dios, que no coxeeys del pie  coxea vueſ-
+tro hueſped don Quixote. Eo no, reſpondio el vẽ
+tero, que no ſerè yo tan loco, que me haga caua-
+ero andante, que bien veo que aora no ſe vſa lo
+ ſe vſaua en aquel tiempo, quando ſe dize, que an-
+dauan por el mundo eos famoſos cauaeros. A
+la mitad dea platica ſe haò Sancho preſente, y
+quedò muy confuſo, y penſatiuo de lo que auia oy-
+do dezir, que aora no ſe vſauan cauaeros andan-
+tes, y que todos los libros de cauaerias eran ne-
+cedades, y mentiras: y propuſo en ſu coraçon de eſ-
+perar en lo que paraua aquel viaje de ſu amo, y que
+no ſalia con la felicidad, que el penſaua, determi-
+naua de dexae, y boluerſe con ſu muger, y ſus hi-
+jos a ſu acoumbrado trabajo. Lleuauaſe la male-
+ta, y los libros el vẽtero, mas el cura le dixo: Eſpe-
+rad que quiero ver que papeles ſon eos, que de tã
+buena letra eã eſcritos: ſacolos el hueſped, y dãdo
+ſelos a leer vio haa obra de ocho pliegos eſcritos
+de mano, y al principio tenian vn titulo grande que
+dezia: Nouela del curioſo impertinente: leyò el cu-
+ra para  tres, o quatro renglones, y dixo: Cierto
+que no me parece mal el titulo dea nouela, y que
+me viene voluntad de leea toda. A lo que reſpõ-
+dio el ventero: Pues bien puede leea ſu reueren-
+cia, porque le hago ſaber, que algunos hueſpedes
+que aqui la han leydo les ha contentado mucho, y
+me la han pedido con muchas veras, mas yo no ſe
+la he querido dar, pẽſando boluerſela aquiẽ aqui de
+xò ea maleta oluidada con eos libros, y eos pa
+peles, que bien puede ſer que buelua ſu dueño por</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1261" y="2141"/>
+	<Point x="1385" y="2128"/>
+	<Point x="1384" y="2195"/>
+	<Point x="1338" y="2205"/>
+	<Point x="1276" y="2195"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aqui</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="462" y="2311"/>
+	<Point x="1128" y="2311"/>
+	<Point x="1128" y="2367"/>
+	<Point x="462" y="2367"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442266">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T19:20:32</Created>
+	<LastChange>2012-03-12T14:11:48</LastChange></Metadata>
+	<Page imageFilename="00442266.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r11" index="0"/>
+	<RegionRefIndexed regionRef="r12" index="1"/>
+	<RegionRefIndexed regionRef="r13" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="438" y="80"/>
+	<Point x="444" y="164"/>
+	<Point x="946" y="163"/>
+	<Point x="947" y="80"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PROLOGO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="23" y="157"/>
+	<Point x="23" y="1269"/>
+	<Point x="111" y="1268"/>
+	<Point x="568" y="1264"/>
+	<Point x="635" y="1265"/>
+	<Point x="1364" y="1233"/>
+	<Point x="1380" y="176"/>
+	<Point x="591" y="179"/>
+	<Point x="421" y="172"/>
+	<Point x="357" y="183"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>geres rameras, ahi eà el Obiſpo de Mondoñedo, que os
+prearà a Lamia, Layda, y Flora, cuya anotacion os dara
+gran credito. Si de crueles, Ouidio os entregarà a Me-
+dea. Si de encantadores, y hechizeras, Homero tiene a
+Calipſo, y Virgilio a Circe. Si de capitanes valeroſos, el
+meſmo Iulio Ceſar os preara a  miſmo, en ſus Comen
+tarios, y Plutarco os dara mil Alexandros. Si trataredes
+de amores, con dos onças que ſepays de la lengua Toſ-
+cana, topareys con Leon Hebreo, que os hincha las me-
+didas. Y no quereys andaros por tierras erañas, en
+vuera caſa teneys a Fonſeca, del amor de Dios, donde
+ſe cifra todo lo  vos, y el mas ingenioſo acertare a deſ-
+ſear en tal materia. En reſoluciõ no ay mas, no que v os
+procureys nombrar eos nombres. o tocar eas hio-
+rias en la vuera, que aqui he dicho, y dexadme a mi el
+cargo de poner las anotaciones, y acotaciones, que yo
+os voto a tal de enaros las margenes, y de gaar quatro
+pliegos en el ﬁn del libro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="9" y="1298"/>
+	<Point x="0" y="1947"/>
+	<Point x="0" y="2170"/>
+	<Point x="14" y="2202"/>
+	<Point x="971" y="2207"/>
+	<Point x="1012" y="2195"/>
+	<Point x="1380" y="2202"/>
+	<Point x="1380" y="1271"/>
+	<Point x="123" y="1270"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vengamos aora a la citacion de los autores, que los
+otros libros tienen, que en el vuero os faltan. El reme-
+dio que eo tiene es muy facil, porque no aueys de ha-
+zer otra coſa, que buſcar vn libro que los acote todos,
+deſde la A. haa la Z. como vos dezis. Pues ee miſ-
+mo abecedario pondreys vos en vuero libro. Que pueſ
+to que a la clara ſe vea la mentira por la poca neceſsidad
+que vos teniades de aprouecharos deos, no importa na
+da, y quiça alguno aura tan mple, que crea que de todos
+os aueys aprouechado, en la mple, y ſenzia hioria
+vuera. Y quando no rua de otra coſa, por lo menos ſer
+uirà aquel largo Catalago de autores, a dar de improuiſo
+autoridad al libro. Y mas, que no aura quien ſe ponga a
+aueciguar,  los ſeguies, o no los ſeguies, no yendole
+nada en eo. Quanto mas, que  bien cay go en la cuenta,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="catch-word">
+	<Coords>
+	<Point x="1197" y="2209"/>
+	<Point x="1197" y="2266"/>
+	<Point x="1321" y="2266"/>
+	<Point x="1321" y="2209"/>
+	<Point x="1269" y="2205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ee</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="credit">
+	<Coords>
+	<Point x="445" y="2304"/>
+	<Point x="445" y="2364"/>
+	<Point x="1138" y="2364"/>
+	<Point x="1138" y="2304"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

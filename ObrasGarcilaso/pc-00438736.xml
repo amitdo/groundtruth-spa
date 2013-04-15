@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438736">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:29:31</Created>
+	<LastChange>2011-06-24T14:04:14</LastChange></Metadata>
+	<Page imageFilename="00438736.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="0" y="140"/>
+	<Point x="1354" y="140"/>
+	<Point x="1351" y="2022"/>
+	<Point x="1345" y="2021"/>
+	<Point x="1061" y="2038"/>
+	<Point x="0" y="2047"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Seneca a Euripides: y Virgilio no ſe contentò con
+caminar empre por la huea de Homero, no tam-
+bien ſe haa auer ſeguido a Heodo, Theocrito,
+Euripides: y entre los Latinos a Ennio, Pacuuio, Lu
+crecio, Catuo, y Sereno, y agora Fuluio Vrno ha
+compueo vn gran volumen de los hurtos de Vir-
+gilio, y digo hurtos, no porque merezcan ee nom
+bre, no porque en ee caſo es mas honra que vitu-
+perio, y Virgilio (ſegun dize ſan Geronimo en vn
+prologo de las queiones de Genes) ſe honraua
+dee nombre. Porque dizien dole ſus emulos, y de-
+traores, que todo quanto tenia era hurtado de
+Homero, reſpondío: Magnarum ee virium Herculi
+clauam extorquere de manu. Como  dixera: Aſsi
+como es muera de grandes fuerças ſacar de las ma
+nos de Hercules la maça, y quedarſe con ea, aſsi to
+tomar a Homero ſus verſos, y hazer los propios, es
+erudicion que a pocos ſe comunica. Lo miſmo ſe
+puede dezir de nuero Poeta, que aplica, y traslada
+los verſos, y ſentencias de otros Poetas, tan a ſu pro
+poto, y con tanta dereza, que ya no ſe aman
+agenos no ſuyos, y mas gloria merece por eo, que
+no  de ſu cabeça lo compuera, como lo aﬁrma Ho
+racio en ſu arte poetica. Sirue tambien ea mi dili-
+gencia de emendar muchos lugares que ſe auian co-
+rrompido. Porque en la Oda ad Florem Gnidi, de-
+zia: Huye la poluoroſa palera como erpe ponço-
+ñoſa, yo emende, como empre, porque ea tomado
+de Horacio: y en otra parte dezia: Yo pondre ﬁn a
+mis enojos, emende, a tus ojos, porque es tomado de
+Quidio. Y otros muchos lugares ay dea ſuerte, co-
+mo parecera por las anotaciones. Y tampoco ſoy</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="catch-word">
+	<Coords>
+	<Point x="1228" y="2035"/>
+	<Point x="1321" y="2035"/>
+	<Point x="1321" y="2090"/>
+	<Point x="1228" y="2090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>yo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="488" y="2095"/>
+	<Point x="988" y="2095"/>
+	<Point x="988" y="2140"/>
+	<Point x="488" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

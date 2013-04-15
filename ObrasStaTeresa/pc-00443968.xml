@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443968">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:42:15</Created>
+	<LastChange>2011-12-19T11:39:18</LastChange></Metadata>
+	<Page imageFilename="00443968.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="437" y="77"/>
+	<Point x="742" y="77"/>
+	<Point x="742" y="225"/>
+	<Point x="437" y="225"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>40</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="393" y="250"/>
+	<Point x="1990" y="243"/>
+	<Point x="1973" y="2623"/>
+	<Point x="1846" y="2615"/>
+	<Point x="1064" y="2636"/>
+	<Point x="1044" y="2625"/>
+	<Point x="396" y="2626"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>penſamiento y deeos de las coſas eternas, y
+a quitar algo la gran enemiad que te‐
+nia con ſer monja, que ſe me auia pueo
+grandiſsima: y  via alguna tener lagrimas
+quando rezaua o otras virtudes, auia la mu
+cha inuidia, porque era tan rezio mi cora‐
+çon en ee caſo, que  leyera toda la paſ-
+on no orara vna lagrima, eo me cau‐
+ſaua pena. Euue año y medio en ee mo-
+neerio harto mejorada, comence a rezar
+muchas oraciones vocales, y a procurar con
+todas me encomendaen a Dios, que me
+diee el eado en que le auia de ſeruir,
+mas toda via deeaua no fuee monja, que
+ee no fuee Dios ſeruido de darmele aun
+que tambiem temia el caſarme. A cabo de-
+e tiempo, que euue aqui, ya tenia mas
+amiad de ſer monja, aunque no en
+aquea caſa, por las coſas mas virtuoſas,
+que deſpues entendi tenian, que me pare‐
+cian eremos demaados, y auia algunas
+de las mas moças que me ayudauan a eo,
+que  todas fueran de vn parecer mucho
+me aprouechara: tambien tenia yo vna
+grande amiga en otro moneerio, y
+eo me era parte para no ſer monja, 
+Io vuiee de ſer,  no adonde ea eaua.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1672" y="2626"/>
+	<Point x="1965" y="2629"/>
+	<Point x="1965" y="2705"/>
+	<Point x="1676" y="2712"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Miraua.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="625" y="3053"/>
+	<Point x="1565" y="3065"/>
+	<Point x="1569" y="3150"/>
+	<Point x="627" y="3144"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="857" y="77"/>
+	<Point x="857" y="203"/>
+	<Point x="1524" y="203"/>
+	<Point x="1524" y="77"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

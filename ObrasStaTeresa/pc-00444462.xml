@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444462">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:43:14</Created>
+	<LastChange>2011-12-19T11:39:46</LastChange></Metadata>
+	<Page imageFilename="00444462.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r5" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="833" y="94"/>
+	<Point x="1603" y="94"/>
+	<Point x="1603" y="214"/>
+	<Point x="833" y="214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="607" y="3050"/>
+	<Point x="1588" y="3050"/>
+	<Point x="1588" y="3155"/>
+	<Point x="607" y="3155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="379" y="248"/>
+	<Point x="431" y="248"/>
+	<Point x="2016" y="238"/>
+	<Point x="2016" y="257"/>
+	<Point x="1998" y="2642"/>
+	<Point x="1824" y="2642"/>
+	<Point x="1803" y="2638"/>
+	<Point x="1799" y="2642"/>
+	<Point x="1781" y="2640"/>
+	<Point x="1761" y="2646"/>
+	<Point x="1700" y="2674"/>
+	<Point x="1677" y="2675"/>
+	<Point x="1664" y="2672"/>
+	<Point x="383" y="2679"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>lo que veo, ni contento ni pena que ſea mu-
+cha no la veo en mi. Si alguna me dan algu-
+nas coſas paa con tãta breuedad que yo me
+marauio, y dexa el ſentimiento como vna
+coſa que ſoña y eo es entera verdad,  aun-
+que deſpues yo quiera holgarme de aquel
+contento, o peſarme de aqueas penas, no es
+en mi mano, no como lo ſeria a vna perſo-
+na diſcreta tener pena, o gloria de vn ſueño
+que ſoño, porque ya mi alma la deſperto el
+Señor de aqueo, que por no ear yo morti-
+ﬁcada ni muerta a las coſas del mundo me
+auia hecho ſentimiento. Y no quiere ſu Ma-
+gead que ſe torne a cegar. De ea manera
+biuo agora ſeñor y padre mio, ſuplique v.m.
+a Dios, o me eue congo, o me de como le
+rua, plega a ſu Magead. Eo que aqui va
+eſcrito haga a v.m. algun prouecho, que por
+el poco lugar ha do con trabajo, mas dicho-
+ſo ſeria el trabajo,  he acertado a dezir algo,
+que ſola vna vez ſe alabe por eo el Señor,
+que con eo me daria por pagada, aun v.m.
+luego lo queme. No querria fuee n que lo
+vieen las tres perſonas que v.m. ſabe, pues
+ſon, y han do confeores mios, porque  va
+mal, es bien que pierdan la buena opiniõ que
+tienen de mi: y  va bien, ſon buenos y letra-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1774" y="2650"/>
+	<Point x="1938" y="2650"/>
+	<Point x="1938" y="2766"/>
+	<Point x="1774" y="2766"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dos,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="448" y="127"/>
+	<Point x="600" y="127"/>
+	<Point x="600" y="238"/>
+	<Point x="448" y="238"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>542</Unicode></TextEquiv></TextRegion></Page></PcGts>

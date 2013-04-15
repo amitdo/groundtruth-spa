@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441722">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T15:08:02</Created>
+	<LastChange>2011-07-05T14:26:23</LastChange></Metadata>
+	<Page imageFilename="00441722.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r11" index="0"/>
+	<RegionRefIndexed regionRef="r13" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1781" y="2669"/>
+	<Point x="2050" y="2669"/>
+	<Point x="2050" y="2788"/>
+	<Point x="1781" y="2788"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SER-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="688" y="3126"/>
+	<Point x="1488" y="3126"/>
+	<Point x="1488" y="3203"/>
+	<Point x="688" y="3203"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="503" y="133"/>
+	<Point x="730" y="133"/>
+	<Point x="730" y="235"/>
+	<Point x="503" y="235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>126</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="984" y="143"/>
+	<Point x="1613" y="143"/>
+	<Point x="1613" y="235"/>
+	<Point x="984" y="235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>POLYMNIA,</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r9" type="other">
+	<Coords>
+	<Point x="1105" y="2009"/>
+	<Point x="1105" y="2107"/>
+	<Point x="1362" y="2107"/>
+	<Point x="1362" y="2009"/></Coords></GraphicRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="2075" y="247"/>
+	<Point x="2075" y="1122"/>
+	<Point x="1645" y="1122"/>
+	<Point x="1645" y="1123"/>
+	<Point x="1189" y="1123"/>
+	<Point x="1189" y="1124"/>
+	<Point x="732" y="1124"/>
+	<Point x="732" y="1125"/>
+	<Point x="731" y="1125"/>
+	<Point x="731" y="1126"/>
+	<Point x="729" y="1126"/>
+	<Point x="729" y="1127"/>
+	<Point x="727" y="1127"/>
+	<Point x="727" y="1128"/>
+	<Point x="725" y="1128"/>
+	<Point x="725" y="1129"/>
+	<Point x="723" y="1129"/>
+	<Point x="723" y="1130"/>
+	<Point x="721" y="1130"/>
+	<Point x="721" y="1131"/>
+	<Point x="719" y="1131"/>
+	<Point x="719" y="1132"/>
+	<Point x="717" y="1132"/>
+	<Point x="717" y="1133"/>
+	<Point x="715" y="1133"/>
+	<Point x="715" y="1134"/>
+	<Point x="713" y="1134"/>
+	<Point x="713" y="1135"/>
+	<Point x="711" y="1135"/>
+	<Point x="711" y="1136"/>
+	<Point x="709" y="1136"/>
+	<Point x="709" y="1137"/>
+	<Point x="707" y="1137"/>
+	<Point x="707" y="1138"/>
+	<Point x="705" y="1138"/>
+	<Point x="705" y="1139"/>
+	<Point x="703" y="1139"/>
+	<Point x="703" y="1140"/>
+	<Point x="701" y="1140"/>
+	<Point x="701" y="1141"/>
+	<Point x="699" y="1141"/>
+	<Point x="699" y="1142"/>
+	<Point x="697" y="1142"/>
+	<Point x="697" y="1143"/>
+	<Point x="695" y="1143"/>
+	<Point x="695" y="1144"/>
+	<Point x="694" y="1144"/>
+	<Point x="694" y="1145"/>
+	<Point x="692" y="1145"/>
+	<Point x="692" y="1146"/>
+	<Point x="690" y="1146"/>
+	<Point x="690" y="1147"/>
+	<Point x="688" y="1147"/>
+	<Point x="688" y="1148"/>
+	<Point x="686" y="1148"/>
+	<Point x="686" y="1149"/>
+	<Point x="684" y="1149"/>
+	<Point x="684" y="1150"/>
+	<Point x="682" y="1150"/>
+	<Point x="682" y="1151"/>
+	<Point x="680" y="1151"/>
+	<Point x="680" y="1152"/>
+	<Point x="678" y="1152"/>
+	<Point x="678" y="1153"/>
+	<Point x="676" y="1153"/>
+	<Point x="676" y="1154"/>
+	<Point x="674" y="1154"/>
+	<Point x="674" y="1155"/>
+	<Point x="672" y="1155"/>
+	<Point x="672" y="1156"/>
+	<Point x="670" y="1156"/>
+	<Point x="670" y="1157"/>
+	<Point x="668" y="1157"/>
+	<Point x="668" y="1158"/>
+	<Point x="666" y="1158"/>
+	<Point x="666" y="1159"/>
+	<Point x="664" y="1159"/>
+	<Point x="664" y="1160"/>
+	<Point x="662" y="1160"/>
+	<Point x="662" y="1161"/>
+	<Point x="660" y="1161"/>
+	<Point x="660" y="1162"/>
+	<Point x="660" y="1161"/>
+	<Point x="477" y="1161"/>
+	<Point x="477" y="247"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vno, i lo Otro he pretendido tambien, quede aqui
+caliﬁcado con el ilure Nombre de V. S. miſmo, que
+en cierto modo habia dado motivo a ſu obſervacion:
+pues habiendo ia paado por ſus eruditas orejas, po-
+dra eſperar la approbacion de las que fueren difﬁciles,
+i riguroſas. I lograrè io juntamente, que ſepan todos,
+tiene V. S. entre otras maiores, ſuperior facultad aûn
+en ea Profeſsion para legitimo Iuez. pues empre
+ſenti por importuna aquea gniﬁcacion de obſequio,
+que diuena, o excede al Ingenio, i Dorina de aquel,
+a quien ſe dirige alguna Inſpeccion, Cenſura, o Dedica-
+cion.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="2075" y="1124"/>
+	<Point x="2075" y="1818"/>
+	<Point x="477" y="1818"/>
+	<Point x="477" y="1163"/>
+	<Point x="658" y="1163"/>
+	<Point x="658" y="1164"/>
+	<Point x="662" y="1164"/>
+	<Point x="662" y="1163"/>
+	<Point x="664" y="1163"/>
+	<Point x="664" y="1162"/>
+	<Point x="666" y="1162"/>
+	<Point x="666" y="1161"/>
+	<Point x="668" y="1161"/>
+	<Point x="668" y="1160"/>
+	<Point x="670" y="1160"/>
+	<Point x="670" y="1159"/>
+	<Point x="672" y="1159"/>
+	<Point x="672" y="1158"/>
+	<Point x="674" y="1158"/>
+	<Point x="674" y="1157"/>
+	<Point x="676" y="1157"/>
+	<Point x="676" y="1156"/>
+	<Point x="678" y="1156"/>
+	<Point x="678" y="1155"/>
+	<Point x="680" y="1155"/>
+	<Point x="680" y="1154"/>
+	<Point x="682" y="1154"/>
+	<Point x="682" y="1153"/>
+	<Point x="684" y="1153"/>
+	<Point x="684" y="1152"/>
+	<Point x="686" y="1152"/>
+	<Point x="686" y="1151"/>
+	<Point x="688" y="1151"/>
+	<Point x="688" y="1150"/>
+	<Point x="690" y="1150"/>
+	<Point x="690" y="1149"/>
+	<Point x="692" y="1149"/>
+	<Point x="692" y="1148"/>
+	<Point x="694" y="1148"/>
+	<Point x="694" y="1147"/>
+	<Point x="696" y="1147"/>
+	<Point x="696" y="1146"/>
+	<Point x="697" y="1146"/>
+	<Point x="697" y="1145"/>
+	<Point x="699" y="1145"/>
+	<Point x="699" y="1144"/>
+	<Point x="701" y="1144"/>
+	<Point x="701" y="1143"/>
+	<Point x="703" y="1143"/>
+	<Point x="703" y="1142"/>
+	<Point x="705" y="1142"/>
+	<Point x="705" y="1141"/>
+	<Point x="707" y="1141"/>
+	<Point x="707" y="1140"/>
+	<Point x="709" y="1140"/>
+	<Point x="709" y="1139"/>
+	<Point x="711" y="1139"/>
+	<Point x="711" y="1138"/>
+	<Point x="713" y="1138"/>
+	<Point x="713" y="1137"/>
+	<Point x="715" y="1137"/>
+	<Point x="715" y="1136"/>
+	<Point x="717" y="1136"/>
+	<Point x="717" y="1135"/>
+	<Point x="719" y="1135"/>
+	<Point x="719" y="1134"/>
+	<Point x="721" y="1134"/>
+	<Point x="721" y="1133"/>
+	<Point x="723" y="1133"/>
+	<Point x="723" y="1132"/>
+	<Point x="725" y="1132"/>
+	<Point x="725" y="1131"/>
+	<Point x="727" y="1131"/>
+	<Point x="727" y="1130"/>
+	<Point x="729" y="1130"/>
+	<Point x="729" y="1129"/>
+	<Point x="731" y="1129"/>
+	<Point x="731" y="1128"/>
+	<Point x="733" y="1128"/>
+	<Point x="733" y="1127"/>
+	<Point x="734" y="1127"/>
+	<Point x="734" y="1126"/>
+	<Point x="1191" y="1126"/>
+	<Point x="1191" y="1125"/>
+	<Point x="1647" y="1125"/>
+	<Point x="1647" y="1124"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Empieça pues ia an a fulminar ſu Stilo nuero Poe-
+ta, en el SERMON univerſalmente, contra toda la
+Humana Nacion, parece,  cada dia pervertida mas, i de-
+generada: I en la EPISTOLA con ngularidad, con-
+tra las Coumbres de ſu Patria; renovando con ala-
+bança las que fueron ſeveras, i valeroſas de los Anti-
+guos Eſpañoles, para afear mas, con la comparacion,
+las delicioſas de los Preſentes.</Unicode></TextEquiv></TextRegion></Page></PcGts>

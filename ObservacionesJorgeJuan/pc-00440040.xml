@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440040">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T22:58:42</Created>
+	<LastChange>2011-12-19T11:38:37</LastChange></Metadata>
+	<Page imageFilename="00440040.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r80" index="0"/></OrderedGroup></ReadingOrder>
+	<TableRegion id="r1">
+	<Coords>
+	<Point x="165" y="372"/>
+	<Point x="665" y="372"/>
+	<Point x="665" y="1951"/>
+	<Point x="165" y="1951"/></Coords></TableRegion>
+	<TextRegion id="r78" type="credit">
+	<Coords>
+	<Point x="986" y="4005"/>
+	<Point x="1944" y="4005"/>
+	<Point x="1944" y="4086"/>
+	<Point x="986" y="4086"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r5">
+	<Coords>
+	<Point x="682" y="341"/>
+	<Point x="2015" y="339"/>
+	<Point x="2019" y="759"/>
+	<Point x="2022" y="1269"/>
+	<Point x="2081" y="3459"/>
+	<Point x="720" y="3482"/></Coords></TableRegion>
+	<TableRegion id="r76">
+	<Coords>
+	<Point x="2042" y="372"/>
+	<Point x="2551" y="375"/>
+	<Point x="2585" y="3412"/>
+	<Point x="2444" y="3408"/>
+	<Point x="2166" y="3419"/>
+	<Point x="2121" y="3410"/>
+	<Point x="2113" y="3354"/>
+	<Point x="2092" y="2837"/>
+	<Point x="2046" y="1257"/>
+	<Point x="2046" y="672"/></Coords></TableRegion>
+	<TextRegion id="r79" type="page-number">
+	<Coords>
+	<Point x="2377" y="309"/>
+	<Point x="2378" y="367"/>
+	<Point x="2455" y="367"/>
+	<Point x="2454" y="309"/>
+	<Point x="2414" y="307"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>23</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r80" type="catch-word">
+	<Coords>
+	<Point x="2425" y="3416"/>
+	<Point x="2424" y="3489"/>
+	<Point x="2543" y="3492"/>
+	<Point x="2544" y="3417"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LI‑</Unicode></TextEquiv></TextRegion></Page></PcGts>

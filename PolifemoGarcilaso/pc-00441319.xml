@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441319">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:25:57</Created>
+	<LastChange>2011-05-12T13:40:12</LastChange></Metadata>
+	<Page imageFilename="00441319.tif" imageWidth="1495" imageHeight="2328">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r10" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/>
+	<RegionRefIndexed regionRef="r8" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="130" y="808"/>
+	<Point x="153" y="804"/>
+	<Point x="1173" y="833"/>
+	<Point x="1173" y="1391"/>
+	<Point x="1004" y="1395"/>
+	<Point x="982" y="1401"/>
+	<Point x="534" y="1406"/>
+	<Point x="124" y="1391"/>
+	<Point x="102" y="887"/>
+	<Point x="100" y="814"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aquel primero Adelantado digo
+Perafan de Ribera, cuya mano
+Pudo enfrenar con aſpero caigo
+La ſoberuia inﬁel del Africano:
+De tantas muertes el Genilteigo
+Sangriento quiſo detenerſe en vano,
+Porque ayudada ſu corriente fria
+Corriò mas preſuroſa que ſolia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="1006" y="2022"/>
+	<Point x="1009" y="2019"/>
+	<Point x="1014" y="2012"/>
+	<Point x="1025" y="2008"/>
+	<Point x="1043" y="2006"/>
+	<Point x="1075" y="2014"/>
+	<Point x="1139" y="2014"/>
+	<Point x="1167" y="1994"/>
+	<Point x="1195" y="2006"/>
+	<Point x="1202" y="2084"/>
+	<Point x="1122" y="2093"/>
+	<Point x="1052" y="2083"/>
+	<Point x="1052" y="2081"/>
+	<Point x="1020" y="2077"/>
+	<Point x="997" y="2075"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Funeſ-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="85" y="146"/>
+	<Point x="85" y="777"/>
+	<Point x="902" y="789"/>
+	<Point x="1135" y="770"/>
+	<Point x="1154" y="750"/>
+	<Point x="1225" y="185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Origen ya de inextinguible IIama
+Venerò el mundo ſu inmortal memoria,
+Y en claros ſuceores dio a ſu fama
+Luziente honor, agradecida hioria:
+Digalo aquel, aquien feliz aclama
+El Betis ambicioſo de ſu gloria,
+Y el Nilo donde vierte mal ſeguros
+Porete bocas ſus criales puros.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="113" y="1450"/>
+	<Point x="124" y="1434"/>
+	<Point x="193" y="1431"/>
+	<Point x="1012" y="1454"/>
+	<Point x="1031" y="1484"/>
+	<Point x="1046" y="1568"/>
+	<Point x="1050" y="1569"/>
+	<Point x="1109" y="1594"/>
+	<Point x="1117" y="1632"/>
+	<Point x="1109" y="2007"/>
+	<Point x="1037" y="1996"/>
+	<Point x="1022" y="2000"/>
+	<Point x="996" y="2004"/>
+	<Point x="983" y="2002"/>
+	<Point x="902" y="2026"/>
+	<Point x="541" y="2036"/>
+	<Point x="281" y="2044"/>
+	<Point x="190" y="2007"/>
+	<Point x="155" y="1618"/>
+	<Point x="125" y="1597"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hijo fue Diego Gomez y heredero
+Del inuencible Marte generoſo,
+Y en cuya diera el Granadino ﬁero
+Leyò futuros daños temeroſo:
+Viera ſu execucion,  alado azero
+No ﬂechara el contrario cauteloſo,
+Mientras al muro apenas defendido
+Llegò piadoſo a conceder partido.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="credit">
+	<Coords>
+	<Point x="431" y="2226"/>
+	<Point x="431" y="2318"/>
+	<Point x="1038" y="2318"/>
+	<Point x="1038" y="2226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

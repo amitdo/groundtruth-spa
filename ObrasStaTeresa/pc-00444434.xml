@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444434">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:09:42</Created>
+	<LastChange>2011-12-19T11:39:45</LastChange></Metadata>
+	<Page imageFilename="00444434.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="916" y="85"/>
+	<Point x="1537" y="78"/>
+	<Point x="1560" y="200"/>
+	<Point x="912" y="205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="424" y="225"/>
+	<Point x="2023" y="211"/>
+	<Point x="2042" y="1806"/>
+	<Point x="1238" y="1814"/>
+	<Point x="956" y="1837"/>
+	<Point x="562" y="1825"/>
+	<Point x="489" y="1863"/>
+	<Point x="406" y="1849"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de buena gana le ea oyendo. Lo vno ſe pi-
+de, digamos aora, como oracion vocal: y lo
+otro en contemplacion tan ſubida que ſe re-
+preſenta el Señor de manera que ſe entiende
+que nos entiende, y que ſe huelga ſu Mage-
+ad de que ſe lo pidamos, y de hazernos mer
+ced, ſea bendito por empre que tanto da, y
+tan poco le doy yo. Porque, que haze Señor
+mio, quien no ſe deshaze todo por vos? y que
+de eo, que de eo, que de eo, y otras mil
+vezes lo puedo dezir, me falta para eo? Por
+eo no auia de querer biuir, aunque ay otras
+cauſas, porque no biuo conforme a lo que
+os deuo, con que de imperfeciones me veo,
+con que ﬂoxedad en ſeruiros: es cierto que
+algunas vezes me parece querria ear n ſen
+tido, por no entender tanto mal de mi, el que
+puede lo remedie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="415" y="1912"/>
+	<Point x="563" y="1832"/>
+	<Point x="963" y="1843"/>
+	<Point x="1019" y="1837"/>
+	<Point x="1236" y="1823"/>
+	<Point x="2032" y="1821"/>
+	<Point x="2042" y="2647"/>
+	<Point x="406" y="2663"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eando en caſa de aquea Señora que he
+dicho, adonde auia meneer ear con cuy-
+dado, y conderar empre la vanidad que
+traen congo todas las coſas de la vida, por-
+que eaua muy eimada, y era muy loada, y
+oﬀrecianſe hartas coſas a que me pudiera biẽ
+apegar  mirara a mi, mas miraua el que tie-
+ne verdadera via a no me dexar de ſu ma-
+no: agora que digo de verdadera via, me</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1741" y="2661"/>
+	<Point x="1987" y="2657"/>
+	<Point x="1985" y="2718"/>
+	<Point x="1816" y="2722"/>
+	<Point x="1742" y="2724"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>acuer-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="613" y="3064"/>
+	<Point x="1570" y="3066"/>
+	<Point x="1575" y="3155"/>
+	<Point x="613" y="3158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="449" y="124"/>
+	<Point x="449" y="218"/>
+	<Point x="590" y="218"/>
+	<Point x="590" y="124"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>512</Unicode></TextEquiv></TextRegion></Page></PcGts>

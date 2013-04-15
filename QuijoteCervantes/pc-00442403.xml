@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442403">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T22:51:17</Created>
+	<LastChange>2012-03-12T14:11:59</LastChange></Metadata>
+	<Page imageFilename="00442403.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="377" y="57"/>
+	<Point x="1128" y="57"/>
+	<Point x="1128" y="165"/>
+	<Point x="377" y="165"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="462" y="2309"/>
+	<Point x="1124" y="2309"/>
+	<Point x="1124" y="2356"/>
+	<Point x="1037" y="2359"/>
+	<Point x="462" y="2351"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1273" y="74"/>
+	<Point x="1273" y="164"/>
+	<Point x="1396" y="164"/>
+	<Point x="1396" y="74"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>64</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="162" y="170"/>
+	<Point x="1406" y="170"/>
+	<Point x="1406" y="2153"/>
+	<Point x="162" y="2153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>plaaron de arriba abajo, alumbrandoles Maritor-
+nes, que aſsi ſe amaua la Auriana. Y como al biz-
+mae viee la ventera tan acardenalado a partes a
+don Quixote, dixo, que aqueo mas parecian gol-
+pes que cayda. No fueron golpes, dixo Sancho, no
+que la peña tenia muchos picos, y tropeçones, y
+que cada vno auia hecho ſu cardenal. Y tambien le
+dixo, haga vuera merced ſeñora de manera que
+queden algunas eopas, que no faltara quien las
+aya meneer, que tambien, me duelen a mi vn po‐
+co los lomos. Dea manera, reſpondio la vente‐
+ra, tambien deuies vos de caer. No cay, dixo San‐
+cho Pança, no que del ſobreſalto que tomè de ver
+caer a mi amo, de tal manera me duele a mi el cuer‐
+po, que me parece que me han dado mil palos.
+Bien podra ſer eo, dixo la donzea, que a mi me
+ha acontecido muchas vezes, ſoñar que caya de
+vna torre abaxo, y que nunca acabaua de egar al
+ſuelo, y quando deſpertaua del ſueño, haarme tan
+molida y quebrantada, como  verdaderamen‐
+te huuiera caydo. Ay eà el toque ſeñora, reſ‐
+pondio Sancho Pança, que yo n ſoñar nada, ‐
+no eando mas deſpierto que aora eoy, me hao
+con pocos menos cardenales que mi ſeñor don
+Quixote. Como ſe ama ee cauaero, pregun‐
+tò la Auriana Maritornes? Don Quixote de la
+Mancha, reſpondio Sancho Pança, y es cauae‐
+ro auenturero, y de los mejores, y mas fuertes, que
+de luengos tiempos aca ſe han vio en el mundo.
+Que es cauaero auenturero replicò la moça? Tan
+nueua ſois en el mundo que no lo ſabeis vos, reſ‐
+pondio Sancho Pança: Pues ſabed hermana mia,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1288" y="2161"/>
+	<Point x="1288" y="2225"/>
+	<Point x="1406" y="2225"/>
+	<Point x="1406" y="2161"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion></Page></PcGts>

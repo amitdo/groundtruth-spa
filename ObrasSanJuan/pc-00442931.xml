@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442931">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:59:25</Created>
+	<LastChange>2011-03-15T16:51:28</LastChange></Metadata>
+	<Page imageFilename="00442931.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r5" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="770" y="32"/>
+	<Point x="770" y="145"/>
+	<Point x="1509" y="145"/>
+	<Point x="1509" y="32"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>INTRODVCION.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="370" y="187"/>
+	<Point x="1883" y="177"/>
+	<Point x="1893" y="2729"/>
+	<Point x="1750" y="2727"/>
+	<Point x="1295" y="2751"/>
+	<Point x="377" y="2764"/>
+	<Point x="367" y="200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>grandemente de ſu letura, para el trato interior de la
+Oracion: reſumiò en Latin el primero deos Tratados
+llamado la Subida del Monte, haziendo un Epitome de
+toda la ſuancia de ſu dotrina, con tanta cõprehenon,
+precion, propiedad, eſpiritu, i elegãcia, que parece una
+quinta i delicadima eſencia de cuanto el Autor enſe-
+na i eſcribe en aquellibro: trabajo digno por ciertode
+tan grande ingenio, i propio de un tan ilure i eſpiritual
+Varon . Muchos otros pudieramos alegar, nſalir de
+nuera Eſpaña, que no con ea manera de demoſ-
+tracion, alomenos con el miſmo afeo i eima leen i re
+verencian eos libros; i entre las gravimas i publicas
+ocupaciones de grandes minierios, procuran algun o-
+cio para vacar a ea lecion, con ſingular i conocido a-
+provechamiento de ſus almas; pero dexanſe de refe-
+rir; porque, demas de ſer inumerables en todo eado i
+condicion de gentes, fuera detener mucho al Letor, i
+alargar prolixamente ee Diſcurſo. Reanos para fe-
+liz remate del i de toda ea Introducion, agregar a las
+dichas, la autoridad i ſuprema calificacion de Roma;
+donde con aprobacion del Maero del ſacro Palacio, i
+por orden del Ilurimo Cardenal Roberto Vvaldino
+aquien ſe dedicaron, i a cuya coa ſe hizo la impreon,
+deas Obras, ſe eãparõ todas en lẽgua Italiana en un
+volumẽ como ee, año de mil i ſeiſciẽtos i veinte i ete;
+i fue tan general el aplauſo, cõ  fuerõ recebidas ¡leìdas
+de muchos de los Ilurimos ſeñores Cardena les, i o-
+trosvarones ingnes de alla grã Curia,  parecia aver
+ſe deſcubierto a la Iglea un ſegundo Dionio Areopa
+gita de tan alto eſpiritu, i no menos admirable dotrina
+que el primero. Aſegura el credito dea verdad la gra-
+ve teificacion della, contenida en la Relacion ſuma-
+ria que llaman Fumo, preſentada por el Ilurimo Car</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1695" y="2734"/>
+	<Point x="1694" y="2809"/>
+	<Point x="1872" y="2809"/>
+	<Point x="1874" y="2734"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>denal</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="775" y="2930"/>
+	<Point x="775" y="2995"/>
+	<Point x="1415" y="2995"/>
+	<Point x="1415" y="2930"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

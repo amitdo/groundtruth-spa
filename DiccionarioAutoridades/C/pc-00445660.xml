@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00445660">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T05:47:31</Created>
+	<LastChange>2011-10-12T11:02:45</LastChange></Metadata>
+	<Page imageFilename="00445660.tif" imageWidth="2783" imageHeight="4005">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r39" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/>
+	<RegionRefIndexed regionRef="r41" index="2"/>
+	<RegionRefIndexed regionRef="r43" index="3"/>
+	<RegionRefIndexed regionRef="r47" index="4"/>
+	<RegionRefIndexed regionRef="r51" index="5"/>
+	<RegionRefIndexed regionRef="r55" index="6"/>
+	<RegionRefIndexed regionRef="r57" index="7"/>
+	<RegionRefIndexed regionRef="r75" index="8"/>
+	<RegionRefIndexed regionRef="r77" index="9"/>
+	<RegionRefIndexed regionRef="r71" index="10"/>
+	<RegionRefIndexed regionRef="r73" index="11"/>
+	<RegionRefIndexed regionRef="r22" index="12"/>
+	<RegionRefIndexed regionRef="r69" index="13"/>
+	<RegionRefIndexed regionRef="r26" index="14"/>
+	<RegionRefIndexed regionRef="r65" index="15"/>
+	<RegionRefIndexed regionRef="r29" index="16"/>
+	<RegionRefIndexed regionRef="r61" index="17"/>
+	<RegionRefIndexed regionRef="r32" index="18"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="503" y="256"/>
+	<Point x="527" y="256"/>
+	<Point x="671" y="260"/>
+	<Point x="667" y="322"/>
+	<Point x="504" y="318"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CID</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="catch-word">
+	<Coords>
+	<Point x="2194" y="3719"/>
+	<Point x="2226" y="3722"/>
+	<Point x="2252" y="3722"/>
+	<Point x="2296" y="3715"/>
+	<Point x="2303" y="3769"/>
+	<Point x="2220" y="3784"/>
+	<Point x="2181" y="3773"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quid</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="credit">
+	<Coords>
+	<Point x="1010" y="3910"/>
+	<Point x="1194" y="3906"/>
+	<Point x="1194" y="3919"/>
+	<Point x="1225" y="3919"/>
+	<Point x="1230" y="3910"/>
+	<Point x="1246" y="3910"/>
+	<Point x="1247" y="3919"/>
+	<Point x="1343" y="3919"/>
+	<Point x="1374" y="3908"/>
+	<Point x="1409" y="3906"/>
+	<Point x="1416" y="3916"/>
+	<Point x="1477" y="3919"/>
+	<Point x="1478" y="3907"/>
+	<Point x="1495" y="3907"/>
+	<Point x="1493" y="3919"/>
+	<Point x="1593" y="3919"/>
+	<Point x="1597" y="3910"/>
+	<Point x="1612" y="3907"/>
+	<Point x="1665" y="3907"/>
+	<Point x="1666" y="3919"/>
+	<Point x="1696" y="3919"/>
+	<Point x="1718" y="3910"/>
+	<Point x="1729" y="3907"/>
+	<Point x="1762" y="3906"/>
+	<Point x="1760" y="3919"/>
+	<Point x="1857" y="3919"/>
+	<Point x="1862" y="3910"/>
+	<Point x="1893" y="3910"/>
+	<Point x="1898" y="3919"/>
+	<Point x="1930" y="3919"/>
+	<Point x="1930" y="3959"/>
+	<Point x="1898" y="3959"/>
+	<Point x="1893" y="3958"/>
+	<Point x="1862" y="3958"/>
+	<Point x="1857" y="3959"/>
+	<Point x="1827" y="3959"/>
+	<Point x="1822" y="3967"/>
+	<Point x="1788" y="3970"/>
+	<Point x="1785" y="3963"/>
+	<Point x="1760" y="3958"/>
+	<Point x="1718" y="3958"/>
+	<Point x="1696" y="3959"/>
+	<Point x="1631" y="3959"/>
+	<Point x="1611" y="3958"/>
+	<Point x="1597" y="3958"/>
+	<Point x="1593" y="3959"/>
+	<Point x="1563" y="3959"/>
+	<Point x="1558" y="3958"/>
+	<Point x="1527" y="3958"/>
+	<Point x="1524" y="3959"/>
+	<Point x="1493" y="3959"/>
+	<Point x="1492" y="3958"/>
+	<Point x="1478" y="3958"/>
+	<Point x="1477" y="3959"/>
+	<Point x="1412" y="3959"/>
+	<Point x="1411" y="3958"/>
+	<Point x="1367" y="3958"/>
+	<Point x="1343" y="3959"/>
+	<Point x="1194" y="3959"/>
+	<Point x="1193" y="3958"/>
+	<Point x="1165" y="3958"/>
+	<Point x="1161" y="3959"/>
+	<Point x="1130" y="3959"/>
+	<Point x="1130" y="3958"/>
+	<Point x="1074" y="3958"/>
+	<Point x="1054" y="3960"/>
+	<Point x="1006" y="3961"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="918" y="950"/>
+	<Point x="915" y="1196"/>
+	<Point x="474" y="1202"/>
+	<Point x="453" y="1216"/>
+	<Point x="435" y="1214"/>
+	<Point x="422" y="1209"/>
+	<Point x="425" y="1006"/>
+	<Point x="434" y="955"/>
+	<Point x="675" y="939"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vés aquea toſca gruta,
+que ai à la via ſe ofrece,
+tan lóbrega que parece
+que el beleño y la cicúta,
+que la cerca la adormece?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="264" y="335"/>
+	<Point x="445" y="334"/>
+	<Point x="665" y="333"/>
+	<Point x="980" y="308"/>
+	<Point x="1198" y="308"/>
+	<Point x="1212" y="901"/>
+	<Point x="522" y="902"/>
+	<Point x="454" y="898"/>
+	<Point x="450" y="945"/>
+	<Point x="418" y="960"/>
+	<Point x="404" y="962"/>
+	<Point x="265" y="966"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dios. Es voz Latina. Cicúta, . LAG. Dioſc. lib.
+6. cap. 11. La cicúta bebida, congelando la ſan-
+gre, y mortiﬁcando el calór naturál, con ſu
+frialdad intenſa deſpacha. COMEND. ſob. las
+300. fol. 44. Y en la Prion le dieron à beber
+un vaſo de cicúta, que es ponzoña mortál: la
+qual Sócrates bebió, y aſsi murió. COLMEN.
+Hi. de Segov. cap. 44. §. 9. La caidad, que
+moraba en una mano un manojo de ruda, y
+otro de cicúta, y en otra un panál de miel con
+abejas. SOLIS, Com. Euridice y Orpheo,
+Jorn. 3.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords>
+	<Point x="232" y="1217"/>
+	<Point x="371" y="1217"/>
+	<Point x="423" y="1214"/>
+	<Point x="445" y="1218"/>
+	<Point x="455" y="1223"/>
+	<Point x="470" y="1214"/>
+	<Point x="1211" y="1198"/>
+	<Point x="1218" y="2022"/>
+	<Point x="401" y="2042"/>
+	<Point x="389" y="2088"/>
+	<Point x="282" y="2088"/>
+	<Point x="276" y="1271"/>
+	<Point x="226" y="1270"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CIDRA. ſ. f. Fruto que prodúce el arbol ama-
+do Cidro, parecido en la formacion al huevo
+de Aberúz. Tiene la corteza amaria por de-
+fuera, y blanca por adentro; pero tan gruea,
+que el corazón ò zumo, empre es pequeño.
+El tamáño es correſpondiente à los Paíſes
+donde ſe cria: en Andalucía y Valencia es
+grande, y mayór en Génova. Lat. Citreum, ei.
+vel Citrium, ii. Pomum medicum. LAG. Dioſc.
+lib. 1. cap. 131. Debaxo de las manzánas a-
+madas Médicas, porque nacen mui excelen-
+tes en la Región de Media, ſe comprehenden
+las cidras, los limónes, las limas, las toron-
+jas y las naranjas. CLAVIJ. Embax fol. 6. E
+de fuera de la Ciudad há muchas caſas, y
+huertas mui hermóſas, è muchas cidras è li-
+mas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="242" y="2095"/>
+	<Point x="348" y="2095"/>
+	<Point x="412" y="2092"/>
+	<Point x="1221" y="2075"/>
+	<Point x="1227" y="2342"/>
+	<Point x="1024" y="2348"/>
+	<Point x="891" y="2353"/>
+	<Point x="588" y="2344"/>
+	<Point x="567" y="2393"/>
+	<Point x="296" y="2399"/>
+	<Point x="280" y="2391"/>
+	<Point x="268" y="2190"/>
+	<Point x="297" y="2141"/>
+	<Point x="238" y="2144"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CIDRAL. ſ. m. El tio ò paráge donde ſe plan-
+tan los cidros. Lat. Locus malis medicis contus.
+CLAVIJ. Embax. fol. 3. E dentro de ea cerca
+es poblada de muchas fermóſas huertas, è ca-
+ſas, è azotéas de muchos naranjáles, limoná-
+tes è cidráles.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords>
+	<Point x="244" y="2408"/>
+	<Point x="256" y="2403"/>
+	<Point x="1229" y="2390"/>
+	<Point x="1234" y="3118"/>
+	<Point x="844" y="3128"/>
+	<Point x="688" y="3110"/>
+	<Point x="676" y="3166"/>
+	<Point x="500" y="3168"/>
+	<Point x="481" y="3178"/>
+	<Point x="440" y="3180"/>
+	<Point x="408" y="3170"/>
+	<Point x="302" y="3174"/>
+	<Point x="287" y="2453"/>
+	<Point x="238" y="2453"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CIDRO. ſ. m. Arbol, que ſe conſerva empre
+verde. Tiene las varas blandas y correoſas,
+con unas puas ſutíles: las hojas ſemejantes à
+las del limón; pero mas anchas: la ﬂor (que
+tambien ſe ama azahár) es como la del li-
+món, aunque mayór, y no tan oloroſa. Su fru-
+to es la cidra. Lat. Citrus, i. Malus medica. FR.
+L. DE GRAN. Symb. part. 1. cap. 10. §. 3. Y por-
+que algunos evan fruta notablemente gran-
+de y peſada (como ſon los membrios, y los
+cidros) proveyó el Autór, que las ramas ò va-
+ras de que ea fruta pende, fueen mui recias.
+ARGENS. Maluc. lib. 8. fol. 291. En lo baxo hai
+muchas plantas de naranjos, eſpínos, limónes,
+cidros, y zambóas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="paragraph">
+	<Coords>
+	<Point x="261" y="3185"/>
+	<Point x="388" y="3180"/>
+	<Point x="441" y="3183"/>
+	<Point x="619" y="3173"/>
+	<Point x="1237" y="3166"/>
+	<Point x="1237" y="3323"/>
+	<Point x="970" y="3317"/>
+	<Point x="982" y="3364"/>
+	<Point x="824" y="3369"/>
+	<Point x="596" y="3376"/>
+	<Point x="485" y="3384"/>
+	<Point x="470" y="3375"/>
+	<Point x="372" y="3377"/>
+	<Point x="306" y="3389"/>
+	<Point x="306" y="3228"/>
+	<Point x="262" y="3230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CIDRONELA. ſ. f. Hierba, que tiene el ſabor
+ſemejante al de la cidra, de que ſe uſa para las
+enſaladas, mezclada entre otras hierbas. Lat.
+Melinum, i. LOP. Philom. fol. 80.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r55" type="paragraph">
+	<Coords>
+	<Point x="358" y="3392"/>
+	<Point x="460" y="3386"/>
+	<Point x="592" y="3383"/>
+	<Point x="774" y="3377"/>
+	<Point x="1046" y="3370"/>
+	<Point x="1050" y="3454"/>
+	<Point x="1011" y="3460"/>
+	<Point x="1014" y="3527"/>
+	<Point x="1108" y="3541"/>
+	<Point x="1114" y="3575"/>
+	<Point x="970" y="3571"/>
+	<Point x="605" y="3585"/>
+	<Point x="589" y="3593"/>
+	<Point x="536" y="3587"/>
+	<Point x="433" y="3592"/>
+	<Point x="436" y="3577"/>
+	<Point x="391" y="3578"/>
+	<Point x="371" y="3593"/>
+	<Point x="358" y="3592"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aqui la Ereamár, la cidronéla,
+el Facintho Oriental de dos colóres,
+pálida Filopendola, y Bruſela,
+y el Foven, que à ſu ſombra dixo amóres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r57" type="paragraph">
+	<Coords>
+	<Point x="267" y="3592"/>
+	<Point x="314" y="3594"/>
+	<Point x="409" y="3594"/>
+	<Point x="511" y="3593"/>
+	<Point x="595" y="3595"/>
+	<Point x="702" y="3586"/>
+	<Point x="954" y="3581"/>
+	<Point x="1122" y="3595"/>
+	<Point x="1132" y="3578"/>
+	<Point x="1245" y="3577"/>
+	<Point x="1236" y="3738"/>
+	<Point x="518" y="3746"/>
+	<Point x="500" y="3743"/>
+	<Point x="321" y="3743"/>
+	<Point x="318" y="3637"/>
+	<Point x="266" y="3635"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CIEGAMENTE. adv. Con total ignorancia, n
+conocimiento, n noticia, n experiencia, n
+reexión, n razón, à bulto. Lat. Cco modo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r61" type="paragraph">
+	<Coords>
+	<Point x="2290" y="3511"/>
+	<Point x="2300" y="3678"/>
+	<Point x="1916" y="3677"/>
+	<Point x="1776" y="3669"/>
+	<Point x="1778" y="3728"/>
+	<Point x="1759" y="3731"/>
+	<Point x="1365" y="3730"/>
+	<Point x="1366" y="3591"/>
+	<Point x="1366" y="3569"/>
+	<Point x="1311" y="3567"/>
+	<Point x="1307" y="3513"/>
+	<Point x="1421" y="3520"/>
+	<Point x="1435" y="3533"/>
+	<Point x="1521" y="3537"/>
+	<Point x="1558" y="3523"/>
+	<Point x="1580" y="3518"/>
+	<Point x="1769" y="3513"/>
+	<Point x="1815" y="3534"/>
+	<Point x="1878" y="3514"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El ciego no diingue de colóres. Phraſe adver-
+bial, que reprehende à los que ſe introdu-
+cen à dar ſu parecer en lo que abſolutamente
+no entienden. Lat.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="1457" y="3343"/>
+	<Point x="1467" y="3316"/>
+	<Point x="1554" y="3319"/>
+	<Point x="1626" y="3327"/>
+	<Point x="1651" y="3325"/>
+	<Point x="1667" y="3317"/>
+	<Point x="1768" y="3307"/>
+	<Point x="1976" y="3322"/>
+	<Point x="2000" y="3377"/>
+	<Point x="2007" y="3453"/>
+	<Point x="1896" y="3463"/>
+	<Point x="1891" y="3507"/>
+	<Point x="1838" y="3509"/>
+	<Point x="1819" y="3525"/>
+	<Point x="1767" y="3507"/>
+	<Point x="1599" y="3507"/>
+	<Point x="1511" y="3529"/>
+	<Point x="1456" y="3519"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aqui yace Don Quixote,
+el que en Provincias diverſas
+los tuertos vengó y los bizcos
+à puro vivir à ciegas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r65" type="paragraph">
+	<Coords>
+	<Point x="1308" y="2903"/>
+	<Point x="1388" y="2896"/>
+	<Point x="1416" y="2909"/>
+	<Point x="1434" y="2911"/>
+	<Point x="1536" y="2901"/>
+	<Point x="1723" y="2898"/>
+	<Point x="1737" y="2898"/>
+	<Point x="1795" y="2905"/>
+	<Point x="1867" y="2907"/>
+	<Point x="1924" y="2890"/>
+	<Point x="2295" y="2892"/>
+	<Point x="2292" y="3255"/>
+	<Point x="2055" y="3254"/>
+	<Point x="2042" y="3315"/>
+	<Point x="2004" y="3314"/>
+	<Point x="1967" y="3312"/>
+	<Point x="1809" y="3300"/>
+	<Point x="1641" y="3305"/>
+	<Point x="1636" y="3322"/>
+	<Point x="1595" y="3322"/>
+	<Point x="1572" y="3308"/>
+	<Point x="1420" y="3308"/>
+	<Point x="1391" y="3325"/>
+	<Point x="1365" y="3323"/>
+	<Point x="1354" y="3265"/>
+	<Point x="1348" y="2951"/>
+	<Point x="1305" y="2955"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A ciegas. adv. Lo miſmo que Ciegamente. Lat.
+Cco impetu. Temerè. Inconſultè. COLOM. Guerr.
+de Fland. lib. 8. No es nuevo hablar tan à cie-
+gas la envídia, ni poco deſcuento de eo ſa-
+ber quanto mejor es ſufrirla, que tenerla.
+SAAV. Empr. 51. Porque la maldad obra à cie-
+gas, y fuera de la prudencia, y aun de la ima-
+ginación. QUEV. Muſ. 6. Rom. 57.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="1449" y="2697"/>
+	<Point x="1694" y="2690"/>
+	<Point x="1913" y="2683"/>
+	<Point x="1989" y="2692"/>
+	<Point x="2000" y="2847"/>
+	<Point x="1867" y="2836"/>
+	<Point x="1876" y="2889"/>
+	<Point x="1827" y="2903"/>
+	<Point x="1791" y="2902"/>
+	<Point x="1725" y="2888"/>
+	<Point x="1498" y="2889"/>
+	<Point x="1479" y="2901"/>
+	<Point x="1460" y="2904"/>
+	<Point x="1448" y="2903"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No quiero alabar tus caes,
+pues ſon, hablando de veras,
+unas tuertas, y otras bizcas,
+y todas de lodo ciegas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r69" type="paragraph">
+	<Coords>
+	<Point x="1306" y="2428"/>
+	<Point x="1422" y="2443"/>
+	<Point x="1484" y="2433"/>
+	<Point x="1495" y="2442"/>
+	<Point x="1661" y="2429"/>
+	<Point x="1676" y="2439"/>
+	<Point x="1764" y="2438"/>
+	<Point x="1776" y="2423"/>
+	<Point x="1924" y="2435"/>
+	<Point x="2273" y="2428"/>
+	<Point x="2281" y="2648"/>
+	<Point x="1954" y="2642"/>
+	<Point x="1696" y="2638"/>
+	<Point x="1700" y="2683"/>
+	<Point x="1341" y="2688"/>
+	<Point x="1355" y="2479"/>
+	<Point x="1297" y="2483"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CIEGO. Se toma ﬁguradamente por cegado, en
+gniﬁcacion de cerrado, y eno de propóto
+de tierra y broza para impedir el pao. Lat.
+Locus ccus, vel ruderibus impervius. QUEV.
+Muſ. 6. Rom. 61.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="1442" y="2224"/>
+	<Point x="1752" y="2213"/>
+	<Point x="1967" y="2224"/>
+	<Point x="1970" y="2379"/>
+	<Point x="1907" y="2420"/>
+	<Point x="1757" y="2419"/>
+	<Point x="1749" y="2433"/>
+	<Point x="1708" y="2435"/>
+	<Point x="1689" y="2422"/>
+	<Point x="1553" y="2434"/>
+	<Point x="1495" y="2435"/>
+	<Point x="1494" y="2421"/>
+	<Point x="1456" y="2433"/>
+	<Point x="1433" y="2430"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ciega ﬁngen à la envídia,
+ciego tambien al enójo:
+pues no ſe pinte amór ciego,
+ ſe pinta ciego el odio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r73" type="paragraph">
+	<Coords>
+	<Point x="1296" y="1970"/>
+	<Point x="1344" y="1970"/>
+	<Point x="1357" y="1983"/>
+	<Point x="1440" y="1982"/>
+	<Point x="1471" y="1967"/>
+	<Point x="1713" y="1969"/>
+	<Point x="1853" y="1968"/>
+	<Point x="1882" y="1961"/>
+	<Point x="2280" y="1963"/>
+	<Point x="2274" y="2180"/>
+	<Point x="1883" y="2175"/>
+	<Point x="1498" y="2172"/>
+	<Point x="1497" y="2218"/>
+	<Point x="1407" y="2218"/>
+	<Point x="1353" y="2233"/>
+	<Point x="1343" y="2211"/>
+	<Point x="1342" y="2018"/>
+	<Point x="1302" y="2022"/>
+	<Point x="1298" y="2002"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CIEGO. Metaphoricamente ſe ſuele amar tam-
+bien al amór, al odio, à la envídia, y à las de-
+más paſsiones del animo, que ofuſcan la ra-
+zon. Lat. Ccus, a, um. SALAZ. Obr. Pohum.
+pl. 16.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r71" type="paragraph">
+	<Coords>
+	<Point x="1295" y="1394"/>
+	<Point x="1311" y="1390"/>
+	<Point x="1333" y="1404"/>
+	<Point x="1385" y="1408"/>
+	<Point x="1441" y="1397"/>
+	<Point x="1633" y="1386"/>
+	<Point x="2276" y="1394"/>
+	<Point x="2275" y="1914"/>
+	<Point x="1950" y="1915"/>
+	<Point x="1885" y="1947"/>
+	<Point x="1745" y="1962"/>
+	<Point x="1694" y="1958"/>
+	<Point x="1636" y="1956"/>
+	<Point x="1439" y="1961"/>
+	<Point x="1399" y="1976"/>
+	<Point x="1381" y="1956"/>
+	<Point x="1345" y="1959"/>
+	<Point x="1337" y="1443"/>
+	<Point x="1294" y="1441"/>
+	<Point x="1292" y="1420"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CIEGO. Metaphoricamente ſe ama à quien obra
+n la debida reﬂexion, y conocimiento prac-
+tico de las coſas. Lat. Exccatus. Obccatus.
+ILLESC. Hi. Pontif. lib. 6. cap. 26. §. 13. Como
+eaba ciego de paſsión, creía mas à ſolo el Car-
+denál, que le hablaba lo que él deſeaba oir,
+que à todos juntos quantos Letrados havia en
+el mundo. SAAV. Empr. 5. Para que entienda lo
+práico de la Geographía, y Coſmographía,
+ciencias tan importantes, que n eas ſerá
+ciega la razon de eádo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r75" type="paragraph">
+	<Coords>
+	<Point x="1327" y="311"/>
+	<Point x="1363" y="305"/>
+	<Point x="1364" y="321"/>
+	<Point x="1429" y="310"/>
+	<Point x="1464" y="320"/>
+	<Point x="1461" y="308"/>
+	<Point x="1475" y="298"/>
+	<Point x="1482" y="296"/>
+	<Point x="1523" y="304"/>
+	<Point x="1991" y="303"/>
+	<Point x="1994" y="311"/>
+	<Point x="2075" y="309"/>
+	<Point x="2254" y="314"/>
+	<Point x="2262" y="582"/>
+	<Point x="2017" y="571"/>
+	<Point x="1885" y="571"/>
+	<Point x="1615" y="558"/>
+	<Point x="1606" y="604"/>
+	<Point x="1327" y="609"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SAAV. Empr. 52. Porque quando ciegamente
+aprueba el Príncipe todas las conſultas, eán
+ſujetas à ee inconveniente. BAREN, Guerr.
+de Fland. pl. 72. Porque no pudiendo huir de
+la rabia del hierro, ſe entregaban ciegamente al
+furór del rio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r77" type="paragraph">
+	<Coords>
+	<Point x="1725" y="613"/>
+	<Point x="1725" y="612"/>
+	<Point x="1809" y="612"/>
+	<Point x="1809" y="613"/>
+	<Point x="1944" y="607"/>
+	<Point x="2264" y="608"/>
+	<Point x="2257" y="700"/>
+	<Point x="2258" y="700"/>
+	<Point x="2258" y="860"/>
+	<Point x="2259" y="860"/>
+	<Point x="2259" y="896"/>
+	<Point x="2260" y="896"/>
+	<Point x="2260" y="997"/>
+	<Point x="2261" y="997"/>
+	<Point x="2261" y="998"/>
+	<Point x="2262" y="998"/>
+	<Point x="2267" y="1344"/>
+	<Point x="2138" y="1340"/>
+	<Point x="2138" y="1339"/>
+	<Point x="2094" y="1339"/>
+	<Point x="2094" y="1338"/>
+	<Point x="2092" y="1338"/>
+	<Point x="2092" y="1337"/>
+	<Point x="2071" y="1337"/>
+	<Point x="2071" y="1336"/>
+	<Point x="1953" y="1332"/>
+	<Point x="1820" y="1332"/>
+	<Point x="1820" y="1335"/>
+	<Point x="1819" y="1335"/>
+	<Point x="1819" y="1338"/>
+	<Point x="1818" y="1338"/>
+	<Point x="1818" y="1347"/>
+	<Point x="1791" y="1345"/>
+	<Point x="1774" y="1332"/>
+	<Point x="1650" y="1332"/>
+	<Point x="1650" y="1335"/>
+	<Point x="1627" y="1348"/>
+	<Point x="1458" y="1338"/>
+	<Point x="1471" y="1387"/>
+	<Point x="1419" y="1390"/>
+	<Point x="1388" y="1390"/>
+	<Point x="1375" y="1404"/>
+	<Point x="1340" y="1402"/>
+	<Point x="1341" y="1177"/>
+	<Point x="1340" y="1177"/>
+	<Point x="1335" y="1087"/>
+	<Point x="1339" y="975"/>
+	<Point x="1338" y="975"/>
+	<Point x="1338" y="974"/>
+	<Point x="1337" y="974"/>
+	<Point x="1337" y="973"/>
+	<Point x="1336" y="973"/>
+	<Point x="1336" y="922"/>
+	<Point x="1335" y="922"/>
+	<Point x="1335" y="883"/>
+	<Point x="1336" y="883"/>
+	<Point x="1336" y="779"/>
+	<Point x="1335" y="779"/>
+	<Point x="1335" y="778"/>
+	<Point x="1334" y="778"/>
+	<Point x="1334" y="777"/>
+	<Point x="1333" y="777"/>
+	<Point x="1333" y="665"/>
+	<Point x="1286" y="665"/>
+	<Point x="1280" y="643"/>
+	<Point x="1286" y="619"/>
+	<Point x="1312" y="619"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CIEGO, GA. adj. Privado de via, como el
+hombre, que nació n ea, ò la perdió deſ-
+pues, por accidente ò enfermedad: lo que
+tambien ſe extiende à los irracionales. Viene
+del Latino Ccus, que gniﬁca eo miſmo.
+PART. 1. tit. 4. l. 67. E puede facer del muerto
+vivo, è del que nunca vido, que vea: aſsi como
+quando reſucitó à Lázaro, è ﬁzo vér al que
+naſció ciego. SOLIS, Hi. Nuev. Eſp. lib. 5. cap. 1.
+Vinieron à vitarle por la República ſu gran-
+de amigo Magiſcacin, el ciego Xicotencal, ſu
+hijo, y otros. VALVERD. Vid. de Chri. lib. 5.
+cap. 6. Aſsi como el ciego tuvo noticia que Je-
+ſus Nazaréno paaba por ai....... levantó el
+grito.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r79" type="header">
+	<Coords>
+	<Point x="1860" y="290"/>
+	<Point x="1715" y="285"/>
+	<Point x="1715" y="231"/>
+	<Point x="1748" y="229"/>
+	<Point x="1859" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C I E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r81" type="page-number">
+	<Coords>
+	<Point x="2205" y="309"/>
+	<Point x="2087" y="304"/>
+	<Point x="2083" y="245"/>
+	<Point x="2214" y="247"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>343</Unicode></TextEquiv></TextRegion></Page></PcGts>

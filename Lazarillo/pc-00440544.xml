@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440544">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T13:20:47</Created>
+	<LastChange>2011-07-05T14:26:05</LastChange></Metadata>
+	<Page imageFilename="00440544.tif" imageWidth="876" imageHeight="1640">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="63" y="105"/>
+	<Point x="347" y="107"/>
+	<Point x="364" y="109"/>
+	<Point x="425" y="108"/>
+	<Point x="584" y="108"/>
+	<Point x="850" y="103"/>
+	<Point x="838" y="1519"/>
+	<Point x="55" y="1534"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſeria malicioſo mofador, mal n
+para con los de caſa, y procuraria
+ſaber vidas agenas, para contarſe-
+las, y otros mil modos de adula-
+ciones que oy dia ſe vſan en pala-
+cio, y agradan a los grandes. Tie-
+nen por diſcretos a los liſogeros
+y alos virtuoſo por necios, y de
+nengun prouecho de quien no ſe
+puede ﬁar vn negocio de impor-
+tancia, por eo los autos vſan
+como digo el dia de oy, delo que
+yo vſaria, mas no quiere mi ven-
+tura que halle. Dea manera la-
+mentaua ſu aduerſa fortuna mi a-
+mo, dando me relacion de ſu per-
+ſona. Valeroſa eando en eo,
+entro por la puerta vn hombre, y
+vna vieja, el hombre le pidia el al-
+quiler dela caſa ; y la vieja el dela
+cama ; hizieron cuenta, y de dos
+meſes le alcançaron doze o treze
+reales, que el en vn año no alcan-
+çara para pagar : el les dio muy</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="287" y="1570"/>
+	<Point x="566" y="1574"/>
+	<Point x="569" y="1617"/>
+	<Point x="278" y="1609"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="330" y="46"/>
+	<Point x="330" y="100"/>
+	<Point x="600" y="100"/>
+	<Point x="600" y="46"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="101" y="56"/>
+	<Point x="101" y="102"/>
+	<Point x="167" y="102"/>
+	<Point x="167" y="56"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>90</Unicode></TextEquiv></TextRegion></Page></PcGts>

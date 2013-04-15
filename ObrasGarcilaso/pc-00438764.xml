@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438764">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T13:03:15</Created>
+	<LastChange>2011-06-24T14:04:16</LastChange></Metadata>
+	<Page imageFilename="00438764.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r15" index="1"/>
+	<RegionRefIndexed regionRef="r35" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r26" type="credit">
+	<Coords>
+	<Point x="485" y="2094"/>
+	<Point x="982" y="2094"/>
+	<Point x="982" y="2140"/>
+	<Point x="485" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="header">
+	<Coords>
+	<Point x="197" y="60"/>
+	<Point x="1098" y="40"/>
+	<Point x="1096" y="145"/>
+	<Point x="175" y="150"/>
+	<Point x="174" y="81"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GARCILASSO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="page-number">
+	<Coords>
+	<Point x="1118" y="57"/>
+	<Point x="1192" y="63"/>
+	<Point x="1236" y="64"/>
+	<Point x="1215" y="144"/>
+	<Point x="1115" y="148"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>13</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="8" y="153"/>
+	<Point x="510" y="152"/>
+	<Point x="1211" y="163"/>
+	<Point x="1229" y="344"/>
+	<Point x="1232" y="1148"/>
+	<Point x="932" y="1158"/>
+	<Point x="800" y="1161"/>
+	<Point x="645" y="1140"/>
+	<Point x="566" y="1137"/>
+	<Point x="323" y="1158"/>
+	<Point x="209" y="1144"/>
+	<Point x="15" y="1140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Los arboles preſento
+entre las duras peñas
+por teigosde quãto os he encubierto:
+de lo que entre eos cuento
+podran dar buenas ſeñas
+( ſeñas pueden dar del deſconcierto)
+mas quien tendra concierto
+en contar el dolor,
+que es de orden enemigo?
+no me den pena, no, por lo que digo,
+que ya no me refrenarà el temor:
+quien pudiee hartarſe,
+de no eſperar remedio, y de quexarſe:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="14" y="1148"/>
+	<Point x="58" y="1148"/>
+	<Point x="210" y="1153"/>
+	<Point x="325" y="1166"/>
+	<Point x="570" y="1143"/>
+	<Point x="634" y="1147"/>
+	<Point x="802" y="1167"/>
+	<Point x="1241" y="1158"/>
+	<Point x="1200" y="1975"/>
+	<Point x="750" y="1986"/>
+	<Point x="422" y="2006"/>
+	<Point x="41" y="1988"/>
+	<Point x="12" y="1218"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mas eo me es ve dado
+con vnas obras tales,
+con que nunca fue a nadie defendido:
+que  otros han dexado
+de publicar ſus males,
+orando el mal eado, a  han venido,
+ſeñora, no aura do,
+no con mejoria
+y aliuio en ſu tormento:
+mas ha venido en mi a ſer lo que ento
+de tal arte, que ya en mi fantaa</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="signature-mark">
+	<Coords>
+	<Point x="798" y="1990"/>
+	<Point x="955" y="1991"/>
+	<Point x="952" y="2057"/>
+	<Point x="796" y="2066"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B 5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="catch-word">
+	<Coords>
+	<Point x="1090" y="2000"/>
+	<Point x="1214" y="1999"/>
+	<Point x="1208" y="2062"/>
+	<Point x="1098" y="2060"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no</Unicode></TextEquiv></TextRegion></Page></PcGts>

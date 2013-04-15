@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485948">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T21:07:30</Created>
+	<LastChange>2011-07-28T11:29:15</LastChange></Metadata>
+	<Page imageFilename="00485948.tif" imageWidth="2250" imageHeight="3124">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r5" index="0"/>
+	<RegionRefIndexed regionRef="r17" index="1"/>
+	<RegionRefIndexed regionRef="r15" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1093" y="88"/>
+	<Point x="2066" y="105"/>
+	<Point x="2055" y="225"/>
+	<Point x="1683" y="227"/>
+	<Point x="1565" y="192"/>
+	<Point x="1076" y="180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comedia de Lope de Vega</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="catch-word">
+	<Coords>
+	<Point x="1747" y="2782"/>
+	<Point x="1955" y="2776"/>
+	<Point x="1954" y="2868"/>
+	<Point x="1733" y="2862"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ayuda-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="credit">
+	<Coords>
+	<Point x="664" y="3063"/>
+	<Point x="1428" y="3064"/>
+	<Point x="1425" y="3116"/>
+	<Point x="1322" y="3110"/>
+	<Point x="1313" y="3117"/>
+	<Point x="1289" y="3117"/>
+	<Point x="1292" y="3108"/>
+	<Point x="661" y="3110"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="735" y="192"/>
+	<Point x="1039" y="188"/>
+	<Point x="1555" y="196"/>
+	<Point x="1694" y="241"/>
+	<Point x="1845" y="253"/>
+	<Point x="1902" y="2584"/>
+	<Point x="1610" y="2578"/>
+	<Point x="1496" y="2570"/>
+	<Point x="1444" y="2592"/>
+	<Point x="1366" y="2572"/>
+	<Point x="1075" y="2568"/>
+	<Point x="926" y="2575"/>
+	<Point x="835" y="2579"/>
+	<Point x="820" y="2579"/>
+	<Point x="648" y="2577"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que le han deſuaratado:
+al pie eaua de vna Cruz,
+por el ſuelo arrodiado,
+diziendo palabras tiernas,
+embueltas en duro anto.
+O Carlos trie dezia,
+que es de tu esfuerço paado,
+que es de tus doze famoſos
+que dieron al mundo eſpanto,
+adonde ea don Roldan,
+donde el Paladin Reynaldos,
+Danes Vrgel Brandimarte,
+Sanſoneto, Alfonſo inſano
+Montenos, Oliueros,
+y Durandarte el gaardo,
+el Almirante Guarinos,
+Gayferos, y el Conde Naymo,
+ay don Beltran valeroſo,
+viejo noble honrado y ſabio
+por no tomar tu conſejo,
+en Ronceſuaes acabo:
+vendido me ha Galalon,
+Dios por eo le de el pago
+diziendo aqueas razones,
+cayo en tierra deſmayado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="647" y="2579"/>
+	<Point x="644" y="2798"/>
+	<Point x="1740" y="2798"/>
+	<Point x="1765" y="2583"/>
+	<Point x="1595" y="2583"/>
+	<Point x="1500" y="2574"/>
+	<Point x="1446" y="2596"/>
+	<Point x="1366" y="2576"/>
+	<Point x="1294" y="2580"/>
+	<Point x="1088" y="2575"/>
+	<Point x="833" y="2581"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Roldan. Buelue ſamoſo Dudon,
+donde queda el pobre Carlos</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r18" type="handwritten-annotation">
+	<Coords>
+	<Point x="1234" y="2845"/>
+	<Point x="1234" y="2946"/>
+	<Point x="1350" y="2946"/>
+	<Point x="1350" y="2845"/></Coords></GraphicRegion></Page></PcGts>

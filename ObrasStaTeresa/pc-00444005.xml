@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444005">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:46:50</Created>
+	<LastChange>2011-12-19T11:39:20</LastChange></Metadata>
+	<Page imageFilename="00444005.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="400" y="106"/>
+	<Point x="1576" y="110"/>
+	<Point x="1574" y="236"/>
+	<Point x="390" y="241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="188" y="252"/>
+	<Point x="1210" y="254"/>
+	<Point x="1765" y="254"/>
+	<Point x="1761" y="2669"/>
+	<Point x="184" y="2676"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>yua el mal de tanto acuerdo como eo fue-
+ra, aunque era mucho. Por eo me parece a
+mi me hizo harto daño no ear en monee-
+rio encerrado, porque la libertad, que las que
+eran buenas, podian tener con bondad, por-
+que no deuian mas, que no ſe prometia clau-
+ſura, para mi que ſoy ruyn, vuiera me cierto
+euado al inﬁerno,  con tantos remedios, y
+medios el Señor, con muy particulares mer-
+cedes ſuyas, no me vuiera ſacado dee peli-
+gro, y an me parece lo es grandiſsimo, mo-
+neerio de mugeres con libertad, y que mas
+me parece, es pao para caminar al inﬁerno
+las que quieren ſer ruynes, que remedio pa-
+ra ſus ﬂaquezas. Eo no ſe tome por el mio,
+porque ay tantas que ruen muy de veras, y
+con mucha perfecion al Señor, que no pue-
+de ſu Magead dexar ( ſegun es bueno ) de fa
+uorecerlas, y no es de los muy abiertos, y en
+el ſe guarda toda religion, no de otros que
+yo ſe, y he vio, digo que me hazen gran la-
+ima, que ha meneer el Señor hazer parti-
+culares amamientos, y no vna vez, no mu-
+chas; para que ſe ſaluen, ſegun ean authori-
+zadas las honras, y recreaciones del mundo, y
+tan mal entendido, a lo que ean obligadas,
+que plega a Dios no tengã por virtud, lo que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1498" y="2676"/>
+	<Point x="1744" y="2680"/>
+	<Point x="1741" y="2761"/>
+	<Point x="1502" y="2764"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>es pec-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="600" y="3053"/>
+	<Point x="1597" y="3053"/>
+	<Point x="1597" y="3158"/>
+	<Point x="600" y="3158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1630" y="149"/>
+	<Point x="1630" y="244"/>
+	<Point x="1761" y="244"/>
+	<Point x="1761" y="149"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>77</Unicode></TextEquiv></TextRegion></Page></PcGts>

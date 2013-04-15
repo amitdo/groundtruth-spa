@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439333">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T20:00:06</Created>
+	<LastChange>2011-05-12T13:40:00</LastChange></Metadata>
+	<Page imageFilename="00439333.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="627" y="77"/>
+	<Point x="1401" y="73"/>
+	<Point x="1510" y="96"/>
+	<Point x="1540" y="130"/>
+	<Point x="1516" y="158"/>
+	<Point x="1425" y="158"/>
+	<Point x="598" y="154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="318" y="186"/>
+	<Point x="334" y="182"/>
+	<Point x="372" y="176"/>
+	<Point x="468" y="176"/>
+	<Point x="1727" y="169"/>
+	<Point x="1727" y="2594"/>
+	<Point x="672" y="2609"/>
+	<Point x="322" y="2594"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dicios, dandonos lo duro, porque comieemos menos,
+haziendo la oa con tanto gordo de tozino, que ſolo
+tenia el nombre, aſ davan un brodio mas claro que
+la luz, ò tanto, que facilmente ſe pudiera conocer un
+pequeño piojo en el ſuelo de la eſcudia, que tal qual ſe
+avia de migar ò empedrar, ſacandolo à piſon; y dea
+manera ſe avian de continuar cinquenta y quatro oas
+al mes, porque teniamos el Sabado mondongo. Si es
+tiempo de fruta quatro cerezas ò guindas, dos ò tres
+ziruelas ò albarcoques, media libra o una de higos, con-
+forme à los que avia de meſa, empero tan limitado, que
+no avia hombre tan diero que pudiee hazer ſegundo
+embite. Las uvas partidas à gajos, como las merenditas
+de los niños; y todas en un plato pequeño, donde quien
+mejor librava ſacava ſeys; y eo que digo, no entendays
+que lo dan todo cada dia, no de ſolo un genero, que
+quando davan higos, no davan uvas, y quando guindas
+no albarcoques. Dezia el pupilero, que dava la fruta
+tercianas, y que por nuera ſalud lo hazia. En tiempo
+de invierno ſacavan en un plato algunas pocas de paas,
+como  las quieran ſacar à enjugar, eendidas por todo
+el. Dava para pore u na tajadita de queſo, que mas pa-
+recia viruta ò cepiadura de Carpintero, ſegun ſalia del-
+gada, porque no entorpecieﬂe los ingenios: tan ena
+de ojos y traſparente, que juzgara quien: la viera, ſer
+pedaço de tela de entrejo ﬂaco. Medio pepino, una
+ſubtil tajadita de melon pequeño, y no mayor que la ca-
+beça. Pues ya  es dia de peſcado aquel potage de lante-
+jas como las de Iſopo: y  de garvanços, yo aeguro no
+aver buzo tan diero que ſacae uno de quatro çabui-
+das, y un caldo propio para teñir tocas. De caañas lo
+ſolian dar un dia de antipodio en la Quareſma, no con
+mucha miel, porque las caañas de ſuyo ſon dulzes, y da-
+van pocas deas, que ſon madera. Pues que dirè del
+peſcado, aquel pulpo y beo puerro, aquea beeza de
+ſardinas arencadas, que nos dexavan arrancadas las en-
+trañas, una para cada uno, y con cabeça  era dia de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1502" y="2606"/>
+	<Point x="1708" y="2606"/>
+	<Point x="1708" y="2675"/>
+	<Point x="1502" y="2675"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ayuno:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="537" y="2863"/>
+	<Point x="1341" y="2863"/>
+	<Point x="1341" y="2946"/>
+	<Point x="537" y="2946"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="337" y="93"/>
+	<Point x="337" y="169"/>
+	<Point x="459" y="169"/>
+	<Point x="459" y="93"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>304</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443735">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T22:43:44</Created>
+	<LastChange>2011-01-03T10:12:16</LastChange></Metadata>
+	<Page imageFilename="00443735.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r10" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="811" y="98"/>
+	<Point x="1350" y="109"/>
+	<Point x="1380" y="166"/>
+	<Point x="1356" y="220"/>
+	<Point x="782" y="211"/>
+	<Point x="790" y="192"/>
+	<Point x="803" y="105"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Declaracion de la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="358" y="308"/>
+	<Point x="1846" y="310"/>
+	<Point x="1853" y="457"/>
+	<Point x="1214" y="411"/>
+	<Point x="354" y="408"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CANCION VIGESIMA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="885" y="437"/>
+	<Point x="1208" y="426"/>
+	<Point x="1292" y="440"/>
+	<Point x="1302" y="438"/>
+	<Point x="1312" y="548"/>
+	<Point x="902" y="544"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Secunda.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="538" y="588"/>
+	<Point x="1574" y="620"/>
+	<Point x="1576" y="1114"/>
+	<Point x="522" y="1112"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De flores i eſmeraldas
+En las freſcas mañanas eſcogidas,
+Haremos las guirnaldas
+En tu amor florezidas,
+I en un cabeo mio ent retexidas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="462" y="1158"/>
+	<Point x="1616" y="1154"/>
+	<Point x="1622" y="1286"/>
+	<Point x="456" y="1290"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DECLARACION.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="440" y="1320"/>
+	<Point x="1850" y="1306"/>
+	<Point x="1823" y="2502"/>
+	<Point x="1628" y="2605"/>
+	<Point x="1034" y="2684"/>
+	<Point x="250" y="2652"/>
+	<Point x="314" y="1546"/>
+	<Point x="318" y="1537"/>
+	<Point x="436" y="1502"/>
+	<Point x="435" y="1448"/>
+	<Point x="435" y="1437"/>
+	<Point x="434" y="1344"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N ea Cancion buelve la Eſpoſa, a hablar con el
+Eſpoſo en comunicacion i recreacion de amor, i lo
+que en ea haze es tratar de ſolaz i deleite que el al-
+ma Eſpoſa i el Hijo de Dios tienen en la poſeõ de las
+riquezas de las virtudes i dones de entrambos, i el exer
+cicio deas que ai del uno al otro, gozandolas entre ,
+en comunicacion de union de amor: i por eſo dize ea
+hablando con el, que haran guirnaldas ricas de dones
+i virtudes adquiridas i ganadas en tiempo agradable i
+conveniente, i hermoſeadas i gracioſas en el amor del
+que a ea tiene, i ſuentadas i conſervadas en el amor
+que ea tiene a el, por eſo ama a ee gozar las virtu-
+des, hazer guirnaldas deas; porque todas juntas, como
+flores en guirnalda, las gozan entrambos
+en el amor comun, que el
+uno tiene al
+otro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="782" y="2892"/>
+	<Point x="1425" y="2925"/>
+	<Point x="1432" y="3000"/>
+	<Point x="760" y="2996"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="348" y="108"/>
+	<Point x="354" y="216"/>
+	<Point x="522" y="212"/>
+	<Point x="516" y="106"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>722</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1688" y="2636"/>
+	<Point x="1669" y="2674"/>
+	<Point x="1684" y="2724"/>
+	<Point x="1794" y="2736"/>
+	<Point x="1804" y="2644"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="drop-capital">
+	<Coords>
+	<Point x="330" y="1353"/>
+	<Point x="330" y="1478"/>
+	<Point x="431" y="1476"/>
+	<Point x="432" y="1428"/>
+	<Point x="426" y="1340"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion></Page></PcGts>

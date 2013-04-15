@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438818">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:10:54</Created>
+	<LastChange>2011-06-24T14:04:19</LastChange></Metadata>
+	<Page imageFilename="00438818.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r14" index="0"/>
+	<RegionRefIndexed regionRef="r17" index="1"/>
+	<RegionRefIndexed regionRef="r10" index="2"/>
+	<RegionRefIndexed regionRef="r15" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="142" y="25"/>
+	<Point x="555" y="20"/>
+	<Point x="1042" y="17"/>
+	<Point x="1057" y="110"/>
+	<Point x="1052" y="115"/>
+	<Point x="155" y="122"/>
+	<Point x="137" y="120"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GARCILASSO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="0" y="1731"/>
+	<Point x="40" y="1729"/>
+	<Point x="89" y="1729"/>
+	<Point x="128" y="1731"/>
+	<Point x="278" y="1730"/>
+	<Point x="333" y="1745"/>
+	<Point x="446" y="1734"/>
+	<Point x="727" y="1731"/>
+	<Point x="755" y="1733"/>
+	<Point x="932" y="1731"/>
+	<Point x="1081" y="1737"/>
+	<Point x="1246" y="1730"/>
+	<Point x="1230" y="1817"/>
+	<Point x="1238" y="1837"/>
+	<Point x="1242" y="1850"/>
+	<Point x="1285" y="1959"/>
+	<Point x="1260" y="1964"/>
+	<Point x="1241" y="1960"/>
+	<Point x="1165" y="1960"/>
+	<Point x="45" y="2010"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Como al partir del Sol la ſombra crece,
+y en cayendo ſu rayo, ſe leuanta
+la negra eſcuridad, que el mũdo cubre,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="credit">
+	<Coords>
+	<Point x="482" y="2082"/>
+	<Point x="977" y="2082"/>
+	<Point x="977" y="2140"/>
+	<Point x="482" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="1100" y="20"/>
+	<Point x="1100" y="110"/>
+	<Point x="1165" y="118"/>
+	<Point x="1250" y="110"/>
+	<Point x="1250" y="20"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>40</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="marginalia">
+	<Coords>
+	<Point x="1224" y="650"/>
+	<Point x="1224" y="683"/>
+	<Point x="1227" y="720"/>
+	<Point x="1302" y="727"/>
+	<Point x="1342" y="726"/>
+	<Point x="1344" y="650"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>105</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="47" y="135"/>
+	<Point x="0" y="653"/>
+	<Point x="198" y="679"/>
+	<Point x="539" y="661"/>
+	<Point x="564" y="664"/>
+	<Point x="609" y="675"/>
+	<Point x="660" y="656"/>
+	<Point x="1251" y="645"/>
+	<Point x="1250" y="135"/>
+	<Point x="272" y="130"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cargò la mano tanto,
+que a ſempiterno anto,
+y a trie ſoledad me ha condenado:
+y lo que ento mas, es verme atado
+a la peſada vida, y enojoſa,
+ſolo, deſamparado,
+ciego n lumbre, en carcel tenebroſa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="catch-word">
+	<Coords>
+	<Point x="1183" y="1966"/>
+	<Point x="1176" y="2038"/>
+	<Point x="1288" y="2046"/>
+	<Point x="1282" y="1969"/>
+	<Point x="1230" y="1967"/>
+	<Point x="1214" y="1964"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="marginalia">
+	<Coords>
+	<Point x="1249" y="1738"/>
+	<Point x="1250" y="1747"/>
+	<Point x="1242" y="1780"/>
+	<Point x="1250" y="1812"/>
+	<Point x="1370" y="1800"/>
+	<Point x="1375" y="1732"/>
+	<Point x="1358" y="1732"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>106</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="0" y="658"/>
+	<Point x="0" y="1725"/>
+	<Point x="105" y="1727"/>
+	<Point x="136" y="1727"/>
+	<Point x="286" y="1729"/>
+	<Point x="330" y="1740"/>
+	<Point x="448" y="1730"/>
+	<Point x="1246" y="1725"/>
+	<Point x="1271" y="1521"/>
+	<Point x="1271" y="1498"/>
+	<Point x="1243" y="925"/>
+	<Point x="1236" y="868"/>
+	<Point x="1240" y="853"/>
+	<Point x="1207" y="653"/>
+	<Point x="689" y="661"/>
+	<Point x="661" y="661"/>
+	<Point x="610" y="679"/>
+	<Point x="588" y="672"/>
+	<Point x="555" y="667"/>
+	<Point x="541" y="666"/>
+	<Point x="529" y="667"/>
+	<Point x="206" y="683"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Deſpues que nos dexae, nunca pace
+en hartura el ganado y a, ni acude
+el cãpo al labrador cõ manoena: (de,
+no ay biẽ  en mal no ſe cõuierta y mu-
+la mala yerua al trigo ahoga, y nace
+en lugar ſuyo la infelice auena:
+la tierra, que de buena
+gana nos produzia
+ﬂores, con que ſolia
+quitar, en ſolo veas, mil enojos,
+produze agora en cãbio eos abrojos,
+ya de rigor de eſpinas intratable,
+yo hago con mis ojos
+crecer, ouiendo, el fruto miſerable.</Unicode></TextEquiv></TextRegion></Page></PcGts>

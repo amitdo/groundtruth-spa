@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442978">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T19:16:17</Created>
+	<LastChange>2011-03-15T16:51:30</LastChange></Metadata>
+	<Page imageFilename="00442978.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="490" y="29"/>
+	<Point x="490" y="131"/>
+	<Point x="1102" y="131"/>
+	<Point x="1102" y="29"/>
+	<Point x="808" y="15"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>F. Ioan de la Cruz.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1492" y="41"/>
+	<Point x="1492" y="134"/>
+	<Point x="1597" y="134"/>
+	<Point x="1597" y="41"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>23</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="1590" y="168"/>
+	<Point x="90" y="175"/>
+	<Point x="92" y="2660"/>
+	<Point x="544" y="2677"/>
+	<Point x="854" y="2672"/>
+	<Point x="886" y="2678"/>
+	<Point x="898" y="2674"/>
+	<Point x="917" y="2669"/>
+	<Point x="1090" y="2673"/>
+	<Point x="1587" y="2678"/>
+	<Point x="1609" y="163"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>navajada, que causò horror a los preſentes, dixo con
+alegre roro al miniro: Que es eſo que ha hecho v. m?
+Doo en la pacicncia ſolia dezir: Que ſabe, quien no ſa-
+be padecer por Crio? De trabajos, cuanto mas, mejor.
+Oyendo cantar una coplilla en loor de los trabajos,
+quedò abſorto, a do a una reja, por no ſer llevado por
+el aire tras el afeo dellos. Su peticion i ſu eſperança
+(como en otros es verſe libre de penas) era en èl el pade
+cer; porque en el trabajo tenia ſu deſcanſo, i en la pena
+ſu gloria: i dea manera ſu paciencia daba primor i per
+fecion a ſns obras. De aqui nacia ſu inimitable Peniten
+cia, i un rigor i aſpereza de vida tal, que anìma i confun
+de la tibieza de nuero glo. Traìa una cadena de agu
+das puntas ada al cuerpo, i tan metida en las carnes,
+que aviendoſela de quitar un compañero ſuyo, por un
+acidente repentino, u vo de ſacar, al arrancarla, mucha
+ſangre, i aun pedaços de carne con ella. El cilicio ordi
+nario que traìa, era un jubon, i calçoncillos de eſpar-
+to añudado menudamente: las diciplinas que tomaba,
+tan frequentes i largas i riguroſas, que era meneer ata
+jarſelas, entrando luz a la pieça donde ſe açotaba: la
+comida, la mas parca i pobre, que le era licito, a quien
+vivia en comunidad: la cama, una arteſa con unas pa-
+jas, i otras vezes una tabla deſnuda, o el ſuelo duro: el
+ſueño, dos horas, o a lo ſumo tres. Tuvo por mucho
+tiempo coumbre de comer los Viernes unos cogollos
+de ruda, en memoria de la hiel i vinagre que dieron al
+Salvador en la Cruz. Reprehendio a ſu compañero
+yendo camino, porque en una venta comprò unas tru-
+chas que hallò baratas, diziendo: Que al Fraile Deſcal-
+ço le baa unpedaço de pan; i el regalo no le ha de tomar n
+necedad, aunque ſe lo den debalde. Iamas cuidaba de ſu
+alivio, o comida, padeciendo por ea cauſa much as in-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="signature-mark">
+	<Coords>
+	<Point x="837" y="2679"/>
+	<Point x="837" y="2755"/>
+	<Point x="977" y="2755"/>
+	<Point x="977" y="2679"/>
+	<Point x="910" y="2693"/>
+	<Point x="861" y="2676"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>b 4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="catch-word">
+	<Coords>
+	<Point x="1322" y="2750"/>
+	<Point x="1322" y="2683"/>
+	<Point x="1577" y="2683"/>
+	<Point x="1577" y="2750"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>comodi-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="credit">
+	<Coords>
+	<Point x="779" y="2994"/>
+	<Point x="779" y="2933"/>
+	<Point x="1412" y="2933"/>
+	<Point x="1412" y="2994"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

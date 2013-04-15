@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443962">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:41:31</Created>
+	<LastChange>2011-12-19T11:39:17</LastChange></Metadata>
+	<Page imageFilename="00443962.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="488" y="81"/>
+	<Point x="733" y="81"/>
+	<Point x="733" y="222"/>
+	<Point x="488" y="222"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>34</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="487" y="235"/>
+	<Point x="2047" y="235"/>
+	<Point x="2045" y="2635"/>
+	<Point x="1902" y="2647"/>
+	<Point x="1282" y="2628"/>
+	<Point x="834" y="2641"/>
+	<Point x="682" y="2637"/>
+	<Point x="532" y="2662"/>
+	<Point x="520" y="2650"/>
+	<Point x="480" y="2647"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nos tratos, que mi madre la auia mucho
+procurado deſuiar que tratae en caſa, pa‐
+rece adeuinaua el mal, que por ea me
+auia de venir, y era tanta la occaon que
+auia para entrar, que no auia podido. A
+ea que digo me afﬁcione a tratar. Con
+ea era mi conuerſacion y platicas, por‐
+que me ayudaua a todas las coſas de paſ-
+ſatiempo que yo queria, y aun me po‐
+nia en eas, y daua parte de ſus con-
+uerſaciones y vanidades. Haa que tra‐
+te con ea, que fue de edad de quator-
+ze años, y creo que mas, ( para tener a-
+miad comigo, digo darme parte de ſus
+coſas, ) no me parece auia dexado a Dios,
+por culpa mortal, ni perdido el temor de
+Dios aunque le tenia mayor de la hon‐
+ra: ee tuuo fuerça para no la perder
+del todo, ni me parece por ninguna co‐
+ſa del mundo en eo me podia mudar,
+ni auia amor de perſona del, que a eo
+me hiziee rendir. An tuuiera fortale‐
+za en no yr contra la honra de Dios, co‐
+mo me la daua mi natural, para no per‐
+der en lo que me parecia a mi eà la
+honra del mundo, y no miraua que la
+perdia, por otras muchas vias. En que‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="615" y="3030"/>
+	<Point x="1564" y="3038"/>
+	<Point x="1587" y="3153"/>
+	<Point x="620" y="3148"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="985" y="87"/>
+	<Point x="985" y="207"/>
+	<Point x="1640" y="207"/>
+	<Point x="1640" y="87"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1905" y="2655"/>
+	<Point x="1905" y="2734"/>
+	<Point x="2071" y="2734"/>
+	<Point x="2071" y="2655"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>rer</Unicode></TextEquiv></TextRegion></Page></PcGts>

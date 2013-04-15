@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438732">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T12:58:50</Created>
+	<LastChange>2011-06-24T14:04:14</LastChange></Metadata>
+	<Page imageFilename="00438732.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r11" index="0"/>
+	<RegionRefIndexed regionRef="r12" index="1"/>
+	<RegionRefIndexed regionRef="r13" index="2"/>
+	<RegionRefIndexed regionRef="r9" index="3"/></OrderedGroup></ReadingOrder>
+	<GraphicRegion id="r1" type="stamp">
+	<Coords>
+	<Point x="224" y="1016"/>
+	<Point x="239" y="1053"/>
+	<Point x="248" y="1070"/>
+	<Point x="253" y="1091"/>
+	<Point x="254" y="1112"/>
+	<Point x="265" y="1144"/>
+	<Point x="278" y="1175"/>
+	<Point x="278" y="1189"/>
+	<Point x="272" y="1231"/>
+	<Point x="259" y="1261"/>
+	<Point x="236" y="1277"/>
+	<Point x="234" y="1281"/>
+	<Point x="218" y="1301"/>
+	<Point x="177" y="1338"/>
+	<Point x="141" y="1365"/>
+	<Point x="80" y="1369"/>
+	<Point x="8" y="1332"/>
+	<Point x="8" y="1276"/>
+	<Point x="0" y="1172"/>
+	<Point x="0" y="1095"/>
+	<Point x="8" y="1070"/>
+	<Point x="8" y="1016"/></Coords></GraphicRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="132" y="1835"/>
+	<Point x="1293" y="1835"/>
+	<Point x="1293" y="1987"/>
+	<Point x="132" y="1987"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vendeseeu Paläcio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="484" y="2097"/>
+	<Point x="984" y="2097"/>
+	<Point x="984" y="2140"/>
+	<Point x="484" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="348" y="145"/>
+	<Point x="348" y="435"/>
+	<Point x="1012" y="432"/>
+	<Point x="958" y="135"/>
+	<Point x="396" y="122"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBRAS
+DE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="148" y="480"/>
+	<Point x="148" y="967"/>
+	<Point x="1251" y="967"/>
+	<Point x="1251" y="480"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Garcilaso đla Vega
+Con las Anotaciones
+Por el Mrõ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="222" y="983"/>
+	<Point x="254" y="1034"/>
+	<Point x="253" y="1066"/>
+	<Point x="260" y="1070"/>
+	<Point x="258" y="1104"/>
+	<Point x="257" y="1112"/>
+	<Point x="264" y="1125"/>
+	<Point x="314" y="1153"/>
+	<Point x="294" y="1192"/>
+	<Point x="287" y="1266"/>
+	<Point x="212" y="1313"/>
+	<Point x="134" y="1451"/>
+	<Point x="222" y="1790"/>
+	<Point x="748" y="1790"/>
+	<Point x="1224" y="1787"/>
+	<Point x="1184" y="1584"/>
+	<Point x="1175" y="1565"/>
+	<Point x="1077" y="1495"/>
+	<Point x="1001" y="1437"/>
+	<Point x="1044" y="1395"/>
+	<Point x="1127" y="1395"/>
+	<Point x="1122" y="1325"/>
+	<Point x="1037" y="1161"/>
+	<Point x="1347" y="1164"/>
+	<Point x="1280" y="983"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Franciſco Sanchez
+Brocense
+En Madrid por
+Juan otta Cuea
+Año de 1612.</Unicode></TextEquiv></TextRegion></Page></PcGts>

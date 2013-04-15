@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444290">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:51:20</Created>
+	<LastChange>2011-12-19T11:39:36</LastChange></Metadata>
+	<Page imageFilename="00444290.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1789" y="2655"/>
+	<Point x="1977" y="2655"/>
+	<Point x="1977" y="2741"/>
+	<Point x="1784" y="2750"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>hazia</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="577" y="3064"/>
+	<Point x="1419" y="3061"/>
+	<Point x="1616" y="3058"/>
+	<Point x="1585" y="3152"/>
+	<Point x="621" y="3152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="464" y="250"/>
+	<Point x="800" y="240"/>
+	<Point x="2021" y="240"/>
+	<Point x="2000" y="2647"/>
+	<Point x="1776" y="2646"/>
+	<Point x="1776" y="2656"/>
+	<Point x="1775" y="2681"/>
+	<Point x="1763" y="2683"/>
+	<Point x="453" y="2676"/>
+	<Point x="403" y="2683"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que era demonio quando me dezian que lo
+era: an que temor ni ſeguridad nadie podia,
+que yo la tuuiee, de manera que Ies pudiee
+dar mas oredito del que el Señor ponia en mi
+alma. An que aunque me conſolo y ſoe-
+go no le di tanto credito para quedar del to-
+do n temor, en eſpecial quando el Señor me
+dexaua en los trabajos de alma que aora di-
+re, con todo quede como digo muy conſola-
+da. No me hartaua de dar gracias a Dios, y al
+glorioſo padre mio ſan Ioſeph que me pare-
+cio le auia el traydo por era comiario ge-
+neral de la cuodia de ſan Ioſeph, a quien yo
+mucho me encomẽdaua, y a nuera Señora,
+acaeciame algunas vezes, y aũ aora, me acaece
+aunque no tantas, ear con tan grandiſsimos
+trabajos de alma junto con tormentos, y do-
+lores de cuerpo de males tan rezios que no
+me podia valer. Otras vezes tenia males cor-
+porales mas graues, y como no tenia los de
+el alma los paaua con mucha alegria, mas
+quando era todo junto, era tan gran trabajo
+que me apretaua muy mucho. Todas las mer
+cedes que me auia hecho el Señor ſe me ol-
+uidauan ſolo quedaua vna memoria como co
+ſa que ſe ha ſoñado para dar pena porque ſe
+entorpece el entendimiẽto, de ſuerte que me</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="496" y="135"/>
+	<Point x="643" y="135"/>
+	<Point x="643" y="232"/>
+	<Point x="516" y="240"/>
+	<Point x="496" y="232"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>362</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="938" y="118"/>
+	<Point x="1572" y="118"/>
+	<Point x="1572" y="220"/>
+	<Point x="938" y="220"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

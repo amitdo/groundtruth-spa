@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440319">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T01:47:10</Created>
+	<LastChange>2011-12-19T11:39:00</LastChange></Metadata>
+	<Page imageFilename="00440319.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r22" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="298" y="485"/>
+	<Point x="1993" y="495"/>
+	<Point x="2253" y="498"/>
+	<Point x="2264" y="1138"/>
+	<Point x="1778" y="1139"/>
+	<Point x="994" y="1141"/>
+	<Point x="925" y="1156"/>
+	<Point x="808" y="1157"/>
+	<Point x="791" y="1146"/>
+	<Point x="291" y="1138"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>determinacion de grado aqueos, que carecieren del piè.
+Para eo nos valdrèmos de la razon, que dimos en la
+pagina 101 de dicho piè à la Vara; la qual endo como
+144 à 371, las 56767. 788 toeſas, que ſe agnaron al
+grado de Meridiano contiguo à el Equador, equivaldràn
+à 132203 Varas Caeanas, que ſon las que comprehen-
+derà el miſmo grado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="276" y="1148"/>
+	<Point x="790" y="1154"/>
+	<Point x="800" y="1160"/>
+	<Point x="947" y="1160"/>
+	<Point x="1002" y="1150"/>
+	<Point x="1776" y="1148"/>
+	<Point x="2263" y="1147"/>
+	<Point x="2270" y="3300"/>
+	<Point x="436" y="3321"/>
+	<Point x="271" y="3316"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ea es la determinacion que parece ſolicitaban mu‐
+chos de nueros antiguos Eſcritores Eſpañoles, para ſaber
+las Leguas, que comprehendìa un grado terrere de cir‐
+culo maximo; à falta de lo qual, y de algunas medidas
+poco exaas, ſe puede diſcurrir, que le atribuyeron 17
+Leguas y media Eſpañolas de largo; pues ſegun eos el
+numero de Leguas ( las quales ſuponen de 5000 Varas ca‐
+da una ) que comprehende un grado, eà ſujeto à la ma‐
+yor, ò menor cantidad de eas Varas, que tuviere de lar‐
+go el dicho grado; muy al contrario de lo que pretenden
+algunos modernos, que hacen n fundamento alguno el
+grado de 17 Leguas y media Eſpañolas, y èas mayores,
+ò menores, ſegun fuere mas, ò menos eendido el grado.
+Lo cierto es, que la Legua Eſpañola no debe ſer de 5000
+Varas, ò el grado contiene mas de 17 y media de eas
+miſmas Leguas; pues partiendo las 132203 Varas, que
+arriba haamos contener el grado, por 17½, viene al quo-
+ciente 7554½, que fuera el valor de la Legua, ſuponiendo
+contener el grado 17 y media; ò al contrario, partiendo
+las miſmas 132203 Varas por 5000, viene al quociente
+26 �, ò 26 y media, que fuera el numero de Leguas Eſ‐
+pañolas, que debe contener el grado, ſuponiendo cada una
+de 5000 Varas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="456" y="3327"/>
+	<Point x="2230" y="3308"/>
+	<Point x="2235" y="3410"/>
+	<Point x="1948" y="3414"/>
+	<Point x="1896" y="3425"/>
+	<Point x="1867" y="3427"/>
+	<Point x="1842" y="3416"/>
+	<Point x="1463" y="3411"/>
+	<Point x="459" y="3421"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Para aclarar ea diferencia debemos averiguar,  la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="994" y="4020"/>
+	<Point x="1943" y="4020"/>
+	<Point x="1943" y="4097"/>
+	<Point x="994" y="4097"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="814" y="392"/>
+	<Point x="1773" y="392"/>
+	<Point x="1773" y="480"/>
+	<Point x="1543" y="478"/>
+	<Point x="815" y="472"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="page-number">
+	<Coords>
+	<Point x="2020" y="392"/>
+	<Point x="2204" y="392"/>
+	<Point x="2204" y="490"/>
+	<Point x="2166" y="493"/>
+	<Point x="2080" y="493"/>
+	<Point x="2020" y="490"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>297</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="signature-mark">
+	<Coords>
+	<Point x="1472" y="3418"/>
+	<Point x="1589" y="3418"/>
+	<Point x="1589" y="3521"/>
+	<Point x="1565" y="3521"/>
+	<Point x="1565" y="3520"/>
+	<Point x="1472" y="3520"/>
+	<Point x="1472" y="3417"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pp</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="catch-word">
+	<Coords>
+	<Point x="2082" y="3422"/>
+	<Point x="2221" y="3422"/>
+	<Point x="2221" y="3528"/>
+	<Point x="2082" y="3528"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le‐</Unicode></TextEquiv></TextRegion></Page></PcGts>

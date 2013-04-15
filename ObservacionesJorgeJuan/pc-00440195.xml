@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440195">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T20:25:42</Created>
+	<LastChange>2011-12-19T11:38:49</LastChange></Metadata>
+	<Page imageFilename="00440195.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r16" index="1"/>
+	<RegionRefIndexed regionRef="r14" index="2"/>
+	<RegionRefIndexed regionRef="r15" index="3"/>
+	<RegionRefIndexed regionRef="r28" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="786" y="1233"/>
+	<Point x="2509" y="1233"/>
+	<Point x="2509" y="1374"/>
+	<Point x="786" y="1374"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Reduccion de los lados à horizontales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="footnote">
+	<Coords>
+	<Point x="662" y="2933"/>
+	<Point x="2130" y="2960"/>
+	<Point x="2148" y="2963"/>
+	<Point x="2434" y="2970"/>
+	<Point x="2696" y="2970"/>
+	<Point x="2690" y="3461"/>
+	<Point x="672" y="3450"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a. Eas alturas debieran corregirſe de la refraccion terrere, que las altera. Por va‐
+rias obſerveciones, que ſe hicieron de alturas, y depreſsiones de las Señales en toda la
+Sèrie de triangulos, procurè deducir la refraccion, que le correſpondìa à cada Señal reſ‐
+peto de ſu altura, y diancia; pero haè tal variedad en eo, que algunas obſervaciones
+daban la refraccion negativa, ò contraria de lo que debìan: por cuyo motivo, è inducir
+poco yerro el tomar un minuto mas, ò menos grandes eos angulos para las operaciones
+que ſe guen, me pareciò omitirlas; no obante en la ocaon, que ſe obſervò altura,
+y depreſsion de Señales correſpondientes, tòmo un medio entre las dos, que es lo propio,
+que empleàr la refraccion.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="credit">
+	<Coords>
+	<Point x="954" y="3975"/>
+	<Point x="1991" y="3975"/>
+	<Point x="1991" y="4104"/>
+	<Point x="954" y="4104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r8">
+	<Coords>
+	<Point x="687" y="492"/>
+	<Point x="944" y="495"/>
+	<Point x="965" y="494"/>
+	<Point x="974" y="492"/>
+	<Point x="1003" y="493"/>
+	<Point x="1017" y="494"/>
+	<Point x="1245" y="484"/>
+	<Point x="2012" y="485"/>
+	<Point x="2610" y="469"/>
+	<Point x="2614" y="1179"/>
+	<Point x="693" y="1179"/></Coords></TableRegion>
+	<TextRegion id="r25" type="header">
+	<Coords>
+	<Point x="1228" y="378"/>
+	<Point x="2010" y="378"/>
+	<Point x="2010" y="478"/>
+	<Point x="1228" y="478"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="page-number">
+	<Coords>
+	<Point x="745" y="407"/>
+	<Point x="933" y="407"/>
+	<Point x="933" y="490"/>
+	<Point x="745" y="490"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>176</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r10">
+	<Coords>
+	<Point x="646" y="1523"/>
+	<Point x="1071" y="1538"/>
+	<Point x="2576" y="1546"/>
+	<Point x="2553" y="1657"/>
+	<Point x="2501" y="1919"/>
+	<Point x="1745" y="1913"/>
+	<Point x="667" y="1936"/></Coords></TableRegion>
+	<TableRegion id="r19">
+	<Coords>
+	<Point x="627" y="2282"/>
+	<Point x="1270" y="2297"/>
+	<Point x="1722" y="2300"/>
+	<Point x="2491" y="2300"/>
+	<Point x="2519" y="2671"/>
+	<Point x="2422" y="2689"/>
+	<Point x="2287" y="2678"/>
+	<Point x="2234" y="2669"/>
+	<Point x="2153" y="2675"/>
+	<Point x="1645" y="2656"/>
+	<Point x="969" y="2668"/>
+	<Point x="628" y="2655"/></Coords></TableRegion>
+	<TextRegion id="r28" type="catch-word">
+	<Coords>
+	<Point x="2456" y="2878"/>
+	<Point x="2593" y="2878"/>
+	<Point x="2593" y="2962"/>
+	<Point x="2456" y="2962"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="671" y="1946"/>
+	<Point x="660" y="2276"/>
+	<Point x="1485" y="2289"/>
+	<Point x="2483" y="2292"/>
+	<Point x="2484" y="1946"/>
+	<Point x="1699" y="1926"/>
+	<Point x="1464" y="1928"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Analogía.
+90° 10' 47½'': 87° 37' 20" = (ωΨ) 20721.275:
+(ωΨ horizontal) 20703.536
+Lado Ψζ = 23132.220</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="660" y="2665"/>
+	<Point x="660" y="2897"/>
+	<Point x="2328" y="2897"/>
+	<Point x="2336" y="2706"/>
+	<Point x="2321" y="2686"/>
+	<Point x="1611" y="2675"/>
+	<Point x="975" y="2673"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>90° 12' 03'': 89° 14' 15" = (ωζ) 23132.220:
+(Ψζ horizontal) 23130.299</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="1091" y="1402"/>
+	<Point x="1096" y="1533"/>
+	<Point x="1168" y="1533"/>
+	<Point x="2205" y="1535"/>
+	<Point x="2208" y="1402"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lado ωΨ = 20721.275 toeſas</Unicode></TextEquiv></TextRegion></Page></PcGts>

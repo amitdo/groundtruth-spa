@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443929">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T05:36:22</Created>
+	<LastChange>2011-12-19T11:39:15</LastChange></Metadata>
+	<Page imageFilename="00443929.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r12" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r14" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="drop-capital">
+	<Coords>
+	<Point x="147" y="871"/>
+	<Point x="639" y="866"/>
+	<Point x="630" y="1362"/>
+	<Point x="147" y="1362"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="647" y="1386"/>
+	<Point x="649" y="852"/>
+	<Point x="1720" y="850"/>
+	<Point x="1720" y="2613"/>
+	<Point x="1400" y="2613"/>
+	<Point x="1360" y="2647"/>
+	<Point x="1343" y="2615"/>
+	<Point x="1256" y="2609"/>
+	<Point x="1209" y="2643"/>
+	<Point x="94" y="2643"/>
+	<Point x="84" y="1384"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O no conoci, ni vi, a la madre
+Tereſa de Ieſus mientras eu‐
+uo en la tierra, mas agora que
+viue en elcielo la conozco y veo
+ca empre en dos imagines
+viuas que nos dexo de , que ſon ſus hijas, y
+ſus libros, que a mi juyzio ſon tãbien teﬆigos
+ﬁeles, y mayores de toda excepcion de ſu gran‐
+de virtud. Porque las ﬁguras de ſu roﬆro  las
+viera, moﬆraranme ſu cuerpo: y ſus palabras,
+ las oyera me declararan algo de la virtud
+de ſu alma: y lo primero era comun, y lo ſegun‐
+do ſugeto a engaño, de que carecen eﬆas dos
+coſas en que la veo agora. Que, como el Sabio
+dize, el hombre en ſus hijos ſe conoce. Porque
+los fruos que cada vno dexa de  quando
+falta, eos ſon el verdadero teigo de ſu vida:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="603" y="3060"/>
+	<Point x="1590" y="3060"/>
+	<Point x="1590" y="3152"/>
+	<Point x="603" y="3152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1607" y="138"/>
+	<Point x="1607" y="214"/>
+	<Point x="1683" y="214"/>
+	<Point x="1683" y="138"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="signature-mark">
+	<Coords>
+	<Point x="1215" y="2658"/>
+	<Point x="1205" y="2739"/>
+	<Point x="1333" y="2739"/>
+	<Point x="1333" y="2622"/>
+	<Point x="1266" y="2622"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="catch-word">
+	<Coords>
+	<Point x="1464" y="2632"/>
+	<Point x="1464" y="2775"/>
+	<Point x="1684" y="2775"/>
+	<Point x="1684" y="2632"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y por</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="139" y="226"/>
+	<Point x="1691" y="226"/>
+	<Point x="1691" y="561"/>
+	<Point x="1596" y="561"/>
+	<Point x="1596" y="798"/>
+	<Point x="219" y="798"/>
+	<Point x="220" y="798"/>
+	<Point x="220" y="679"/>
+	<Point x="221" y="679"/>
+	<Point x="221" y="549"/>
+	<Point x="137" y="549"/>
+	<Point x="138" y="549"/>
+	<Point x="138" y="387"/>
+	<Point x="139" y="387"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A LAS MADRES
+PRIORA ANA DE IESVS,
+Y RELIGIOSAS CARMELITAS
+deſcalças del monaerio de Madrid: El Maero
+Fray Luys de Leon, ſalud en
+Ieſu Chrio.</Unicode></TextEquiv></TextRegion></Page></PcGts>

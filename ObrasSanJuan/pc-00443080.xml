@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443080">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T12:18:39</Created>
+	<LastChange>2011-03-15T16:51:36</LastChange></Metadata>
+	<Page imageFilename="00443080.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r16" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="778" y="2922"/>
+	<Point x="1419" y="2927"/>
+	<Point x="1417" y="3000"/>
+	<Point x="778" y="2998"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="1077" y="101"/>
+	<Point x="1074" y="204"/>
+	<Point x="924" y="197"/>
+	<Point x="897" y="222"/>
+	<Point x="806" y="222"/>
+	<Point x="791" y="204"/>
+	<Point x="627" y="201"/>
+	<Point x="629" y="104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro ſegundo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="1647" y="114"/>
+	<Point x="1647" y="212"/>
+	<Point x="1544" y="213"/>
+	<Point x="1544" y="194"/>
+	<Point x="1543" y="194"/>
+	<Point x="1543" y="170"/>
+	<Point x="1542" y="170"/>
+	<Point x="1542" y="145"/>
+	<Point x="1541" y="145"/>
+	<Point x="1541" y="121"/>
+	<Point x="1540" y="121"/>
+	<Point x="1540" y="117"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>69</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="signature-mark">
+	<Coords>
+	<Point x="1209" y="2755"/>
+	<Point x="1314" y="2755"/>
+	<Point x="1314" y="2838"/>
+	<Point x="1208" y="2839"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="catch-word">
+	<Coords>
+	<Point x="1609" y="2767"/>
+	<Point x="1678" y="2766"/>
+	<Point x="1679" y="2813"/>
+	<Point x="1610" y="2814"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>te</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="113" y="227"/>
+	<Point x="114" y="227"/>
+	<Point x="114" y="228"/>
+	<Point x="277" y="228"/>
+	<Point x="277" y="229"/>
+	<Point x="441" y="229"/>
+	<Point x="441" y="230"/>
+	<Point x="605" y="230"/>
+	<Point x="605" y="231"/>
+	<Point x="769" y="231"/>
+	<Point x="769" y="232"/>
+	<Point x="938" y="232"/>
+	<Point x="938" y="231"/>
+	<Point x="943" y="231"/>
+	<Point x="943" y="230"/>
+	<Point x="949" y="230"/>
+	<Point x="949" y="229"/>
+	<Point x="954" y="229"/>
+	<Point x="954" y="228"/>
+	<Point x="959" y="228"/>
+	<Point x="959" y="227"/>
+	<Point x="1645" y="227"/>
+	<Point x="1645" y="313"/>
+	<Point x="1646" y="313"/>
+	<Point x="1646" y="399"/>
+	<Point x="1647" y="399"/>
+	<Point x="1647" y="485"/>
+	<Point x="1648" y="485"/>
+	<Point x="1648" y="570"/>
+	<Point x="1649" y="570"/>
+	<Point x="1649" y="656"/>
+	<Point x="1650" y="656"/>
+	<Point x="1650" y="742"/>
+	<Point x="1651" y="742"/>
+	<Point x="1651" y="827"/>
+	<Point x="1652" y="827"/>
+	<Point x="1652" y="913"/>
+	<Point x="1653" y="913"/>
+	<Point x="1653" y="999"/>
+	<Point x="1654" y="999"/>
+	<Point x="1654" y="1084"/>
+	<Point x="1655" y="1084"/>
+	<Point x="1655" y="1170"/>
+	<Point x="1656" y="1170"/>
+	<Point x="1656" y="1256"/>
+	<Point x="1657" y="1256"/>
+	<Point x="1657" y="1341"/>
+	<Point x="1658" y="1341"/>
+	<Point x="1658" y="1427"/>
+	<Point x="1659" y="1427"/>
+	<Point x="1659" y="1513"/>
+	<Point x="1660" y="1513"/>
+	<Point x="1660" y="1597"/>
+	<Point x="1661" y="1597"/>
+	<Point x="1661" y="1598"/>
+	<Point x="1659" y="1598"/>
+	<Point x="1659" y="1756"/>
+	<Point x="1660" y="1756"/>
+	<Point x="1660" y="1831"/>
+	<Point x="1661" y="1831"/>
+	<Point x="1661" y="1905"/>
+	<Point x="1662" y="1905"/>
+	<Point x="1662" y="1980"/>
+	<Point x="1663" y="1980"/>
+	<Point x="1663" y="2055"/>
+	<Point x="1664" y="2055"/>
+	<Point x="1664" y="2130"/>
+	<Point x="1665" y="2130"/>
+	<Point x="1665" y="2204"/>
+	<Point x="1666" y="2204"/>
+	<Point x="1666" y="2215"/>
+	<Point x="1670" y="2215"/>
+	<Point x="1670" y="2260"/>
+	<Point x="1671" y="2260"/>
+	<Point x="1671" y="2304"/>
+	<Point x="1672" y="2304"/>
+	<Point x="1672" y="2348"/>
+	<Point x="1673" y="2348"/>
+	<Point x="1673" y="2393"/>
+	<Point x="1674" y="2393"/>
+	<Point x="1674" y="2437"/>
+	<Point x="1675" y="2437"/>
+	<Point x="1675" y="2481"/>
+	<Point x="1676" y="2481"/>
+	<Point x="1676" y="2526"/>
+	<Point x="1677" y="2526"/>
+	<Point x="1677" y="2570"/>
+	<Point x="1678" y="2570"/>
+	<Point x="1678" y="2614"/>
+	<Point x="1679" y="2614"/>
+	<Point x="1679" y="2659"/>
+	<Point x="1680" y="2659"/>
+	<Point x="1680" y="2703"/>
+	<Point x="1681" y="2703"/>
+	<Point x="1681" y="2746"/>
+	<Point x="1682" y="2746"/>
+	<Point x="1682" y="2747"/>
+	<Point x="1681" y="2747"/>
+	<Point x="1681" y="2746"/>
+	<Point x="1210" y="2746"/>
+	<Point x="1210" y="2747"/>
+	<Point x="1209" y="2747"/>
+	<Point x="1209" y="2748"/>
+	<Point x="1208" y="2748"/>
+	<Point x="1208" y="2749"/>
+	<Point x="1207" y="2749"/>
+	<Point x="1207" y="2750"/>
+	<Point x="1206" y="2750"/>
+	<Point x="1206" y="2752"/>
+	<Point x="1205" y="2752"/>
+	<Point x="1205" y="2753"/>
+	<Point x="1204" y="2753"/>
+	<Point x="1204" y="2754"/>
+	<Point x="1203" y="2754"/>
+	<Point x="1203" y="2755"/>
+	<Point x="1202" y="2755"/>
+	<Point x="1202" y="2756"/>
+	<Point x="1201" y="2756"/>
+	<Point x="1201" y="2758"/>
+	<Point x="1200" y="2758"/>
+	<Point x="1200" y="2759"/>
+	<Point x="1199" y="2759"/>
+	<Point x="1199" y="2760"/>
+	<Point x="1198" y="2760"/>
+	<Point x="1198" y="2761"/>
+	<Point x="1197" y="2761"/>
+	<Point x="1197" y="2763"/>
+	<Point x="1196" y="2763"/>
+	<Point x="1196" y="2764"/>
+	<Point x="1195" y="2764"/>
+	<Point x="1195" y="2765"/>
+	<Point x="1194" y="2765"/>
+	<Point x="1194" y="2766"/>
+	<Point x="1193" y="2766"/>
+	<Point x="1193" y="2767"/>
+	<Point x="1060" y="2767"/>
+	<Point x="1060" y="2768"/>
+	<Point x="928" y="2768"/>
+	<Point x="928" y="2769"/>
+	<Point x="795" y="2769"/>
+	<Point x="795" y="2770"/>
+	<Point x="663" y="2770"/>
+	<Point x="663" y="2771"/>
+	<Point x="530" y="2771"/>
+	<Point x="530" y="2772"/>
+	<Point x="398" y="2772"/>
+	<Point x="398" y="2773"/>
+	<Point x="265" y="2773"/>
+	<Point x="265" y="2774"/>
+	<Point x="133" y="2774"/>
+	<Point x="133" y="2775"/>
+	<Point x="133" y="2510"/>
+	<Point x="132" y="2510"/>
+	<Point x="132" y="2246"/>
+	<Point x="131" y="2246"/>
+	<Point x="131" y="2234"/>
+	<Point x="128" y="2234"/>
+	<Point x="128" y="1934"/>
+	<Point x="127" y="1934"/>
+	<Point x="127" y="1635"/>
+	<Point x="126" y="1635"/>
+	<Point x="126" y="1629"/>
+	<Point x="125" y="1629"/>
+	<Point x="125" y="1512"/>
+	<Point x="124" y="1512"/>
+	<Point x="124" y="1395"/>
+	<Point x="123" y="1395"/>
+	<Point x="123" y="1278"/>
+	<Point x="122" y="1278"/>
+	<Point x="122" y="1161"/>
+	<Point x="121" y="1161"/>
+	<Point x="121" y="1044"/>
+	<Point x="120" y="1044"/>
+	<Point x="120" y="928"/>
+	<Point x="119" y="928"/>
+	<Point x="119" y="811"/>
+	<Point x="118" y="811"/>
+	<Point x="118" y="694"/>
+	<Point x="117" y="694"/>
+	<Point x="117" y="577"/>
+	<Point x="116" y="577"/>
+	<Point x="116" y="460"/>
+	<Point x="115" y="460"/>
+	<Point x="115" y="343"/>
+	<Point x="114" y="343"/>
+	<Point x="114" y="228"/>
+	<Point x="113" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>feta i volũtariamente de todo lo que puede caber en e-
+a, de aﬁcion digo, i voluntad en cuanto es de ſu parte;
+porque a Dios quien le quitarà, que no haga lo que el
+quiere en el alma regnada, deſnuda, i aniquilada?
+Pero de todo ſe ha de vaziar; demanera que aun mas
+coſas ſo brenaturales vaya teniendo, empre ſe ha de
+quedar como deſnuda deas, i a eſcuras como el ciego,
+arrimandoſe a la Eè eſcura, i tomandola por luz i guia;
+no arrimandoſe a coſa de las que entiende, gua, en-
+te, ni imagina. Porque todo aqueo es tiniebla que la ha
+ra errar, o detener, i la Eè es ſobre todo aquel entender
+guar i ſentir. I  en eo no ſe ciega, quedandoſe a eſcu
+ras deo totalmente, no viene a lo que es mas, que es lo
+que ſeñala la Eè. El ciego no es bien ciego, no ſe dexa
+bien guiar del moço de ciego, no que por un poco que
+ve, piẽſa que por cualquier parte es mejor ir, porque no
+ve otra mejor, i a puede hazer errar al que le guia;
+porque obra, como  vieſe, i puede mandar mas que ſu
+moço. I a el alma  eriva en algun ſaber ſuyo, guar,
+ò ſentir, como quiera que todo eo, aunque mas ſea, ſea
+muy poco i dimil de lo que es Dios, para ir por ee ca-
+mino, facilmẽte yerra, ò ſe detiene, por no ſe quedar biẽ
+ciega en Ee, que es ſu verdadera guia. Por eſo quiſo tã
+biẽ dezirS. Pablo, quando dixo: Credere enim oportet acce
+dentem ad Deum, quia e. Quiere dezir, al que ſe ha de ir
+aegando i uniendo a Dios, convienele que crea ſu ſer:
+como  dixera, el que ſe ha de venir a juntar en una uniõ
+con Dios, no ha de ir entendiendo, ni arrimãdoſe al guſ-
+to, ſentido, o imaginacion; no creyendo la perfecion
+del divino ſer, que no cae en entend imiento, apetito, ni
+imaginacion, ni otro algun ſentido, ni en eavida ſe pue
+de ſaber como es; antes en ea, en lo mas alto  ſe pue-
+de ſentir, entender, i guar de Dios, dia inﬁnitamen</Unicode></TextEquiv></TextRegion></Page></PcGts>

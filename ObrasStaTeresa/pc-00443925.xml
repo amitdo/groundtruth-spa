@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443925">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T11:05:52</Created>
+	<LastChange>2011-12-19T11:39:15</LastChange></Metadata>
+	<Page imageFilename="00443925.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="145" y="245"/>
+	<Point x="1776" y="245"/>
+	<Point x="1776" y="1347"/>
+	<Point x="145" y="1347"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no lo es no deee ſerlo, y ſe anime para
+eo, o alomenos no admire la piedad de
+Dios con los hombres que le buſcan, y
+quan preo le haan, y el trato dulce
+que con eos tiene, y an para el loor de
+Dios, y para el prouecho comun conuie-
+ne que eos libros ſe impriman y pu-
+bliquen. En ſan Phelippe de Ma‐
+drid a ocho de Septiembre
+de 1587.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="907" y="1421"/>
+	<Point x="1628" y="1421"/>
+	<Point x="1628" y="1564"/>
+	<Point x="907" y="1564"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fray Luys de Leon.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords>
+	<Point x="685" y="1897"/>
+	<Point x="1185" y="1897"/>
+	<Point x="1185" y="2390"/>
+	<Point x="685" y="2390"/></Coords></ImageRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="592" y="3057"/>
+	<Point x="1583" y="3057"/>
+	<Point x="1583" y="3154"/>
+	<Point x="592" y="3154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="1176" y="1628"/>
+	<Point x="1176" y="1780"/>
+	<Point x="1461" y="1780"/>
+	<Point x="1461" y="1628"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>§ 3</Unicode></TextEquiv></TextRegion></Page></PcGts>

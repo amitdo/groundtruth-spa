@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440520">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T02:18:40</Created>
+	<LastChange>2011-07-05T14:26:04</LastChange></Metadata>
+	<Page imageFilename="00440520.tif" imageWidth="876" imageHeight="1640">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="367" y="52"/>
+	<Point x="621" y="53"/>
+	<Point x="622" y="104"/>
+	<Point x="368" y="98"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="106" y="106"/>
+	<Point x="301" y="104"/>
+	<Point x="456" y="110"/>
+	<Point x="845" y="115"/>
+	<Point x="809" y="1534"/>
+	<Point x="74" y="1516"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>piar, y ſacudir ſus calças jubon,
+ſayo, y capa viioe con grande
+ſorna dile aguamanos, peynoſe,
+puſo ſe ſu eſpada en los tiros, y
+quando la ponia, me dixo : O  ſu-
+piees moço que pieça es ea, no
+la daria por vn marco de oro, nin-
+guna de quantas Antonio hizo,
+tiene los azeros tan buenos como
+ea deſenbaynola, y tentola con
+los dedos, diziendo : Ves la, yo me
+obligo a cercenar con ella vn co-
+po de lana, y yo con mis dientes
+( dixe entre mi ) aunque no ſon
+de azero ) vn pan de quatro libras.
+Torno la a enbaynar, y ciñoſela
+colgoe de la pretina vn roſario
+de grueſas cuentas, y con vn pao
+ſoegado, y cuerpo detecho, ha-
+ziendo con el, y con la cabeça-
+muy gentiles meneos, echando el
+cabo dela capa ſobre el ombro, y
+a vezes de vaxo el braço : y poniẽ-
+do la mano derecha enel coado,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="282" y="1581"/>
+	<Point x="570" y="1581"/>
+	<Point x="570" y="1612"/>
+	<Point x="282" y="1612"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="108" y="46"/>
+	<Point x="108" y="95"/>
+	<Point x="187" y="95"/>
+	<Point x="187" y="46"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>66</Unicode></TextEquiv></TextRegion></Page></PcGts>

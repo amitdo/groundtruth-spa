@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444108">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:58:52</Created>
+	<LastChange>2011-12-19T11:39:25</LastChange></Metadata>
+	<Page imageFilename="00444108.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="896" y="89"/>
+	<Point x="1602" y="89"/>
+	<Point x="1602" y="209"/>
+	<Point x="896" y="209"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="450" y="228"/>
+	<Point x="2018" y="218"/>
+	<Point x="2023" y="2632"/>
+	<Point x="1730" y="2630"/>
+	<Point x="523" y="2663"/>
+	<Point x="504" y="2644"/>
+	<Point x="452" y="2644"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bien el que ſe gana, y por eo lo auiſo tanto,
+que les ſera meneer aun a los muỹ encum‐
+brados en oracion, algunos tiempos que los
+quiere Dios prouar, y parece que ſu magead
+los dexa. Que como ya he dicho, y no querria
+eo ſe oluidae, en ea vida que viuimos no
+crece el alma como el cuerpo, aunque dezi‐
+mos que , y de verdad crece: mas vn niño
+deſpues que crece y echa gran cuerpo y ya le
+tiene de hombre no torna a deſcrecer y a te‐
+ner pequeño cuerpo, aca quiere el Señor que
+ a lo que yo he vio por mi que no lo ſe
+por mas, deue ſer por humiarnos para nue‐
+ro gran bien y para que no nos deſcuyde-
+mos mientras euuieremos en ee deier-
+ro, pues el que mas alto euuiere mas ſe ha de
+temer, y ﬁar menos de . Vienẽ vezes que es
+meneer para librarſe de oﬀender a Dios,
+eos que ya ean tan puea ſu voluntad en
+la ſuya que por no hazer vna imperfecion ſe
+dexarian atormentar y paarian mil muer-
+tes, aſsi que vienen vezes que para no hazer
+peccados ſegun ſe veen combatidos de ten‐
+taciones y perſecuciones ſe han meneer
+aprouechar de las primeras armas de la ora‑
+cion, y tornar a penſar que todo ſe acaba, y
+que ay cielo, y inﬁerno, y otras coſas dea</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1737" y="2649"/>
+	<Point x="1756" y="2643"/>
+	<Point x="1810" y="2643"/>
+	<Point x="1970" y="2649"/>
+	<Point x="2011" y="2706"/>
+	<Point x="1970" y="2727"/>
+	<Point x="1737" y="2727"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſuerte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="626" y="3033"/>
+	<Point x="1575" y="3046"/>
+	<Point x="1583" y="3152"/>
+	<Point x="596" y="3141"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="407" y="103"/>
+	<Point x="682" y="103"/>
+	<Point x="682" y="210"/>
+	<Point x="407" y="210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>180</Unicode></TextEquiv></TextRegion></Page></PcGts>

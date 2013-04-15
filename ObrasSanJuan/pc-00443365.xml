@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443365">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T23:39:40</Created>
+	<LastChange>2011-03-24T14:53:51</LastChange></Metadata>
+	<Page imageFilename="00443365.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r22" index="0"/>
+	<RegionRefIndexed regionRef="r23" index="1"/>
+	<RegionRefIndexed regionRef="r24" index="2"/>
+	<RegionRefIndexed regionRef="r25" index="3"/>
+	<RegionRefIndexed regionRef="r26" index="4"/>
+	<RegionRefIndexed regionRef="r27" index="5"/>
+	<RegionRefIndexed regionRef="r28" index="6"/>
+	<RegionRefIndexed regionRef="r29" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r21" type="page-number">
+	<Coords>
+	<Point x="330" y="138"/>
+	<Point x="330" y="216"/>
+	<Point x="469" y="216"/>
+	<Point x="469" y="138"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>354</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords>
+	<Point x="571" y="211"/>
+	<Point x="561" y="472"/>
+	<Point x="554" y="569"/>
+	<Point x="571" y="607"/>
+	<Point x="1116" y="584"/>
+	<Point x="1289" y="590"/>
+	<Point x="1362" y="607"/>
+	<Point x="1394" y="605"/>
+	<Point x="1659" y="607"/>
+	<Point x="1611" y="492"/>
+	<Point x="1221" y="513"/>
+	<Point x="1217" y="328"/>
+	<Point x="1254" y="324"/>
+	<Point x="1657" y="331"/>
+	<Point x="1659" y="211"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O Noche amable mas que el albor ada,
+O Noche, que juncaste
+Amado con Amada,
+Amada en el Amado transformada.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="heading">
+	<Coords>
+	<Point x="1145" y="602"/>
+	<Point x="1145" y="666"/>
+	<Point x="1269" y="666"/>
+	<Point x="1269" y="602"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VI</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords>
+	<Point x="552" y="664"/>
+	<Point x="552" y="1130"/>
+	<Point x="1506" y="1116"/>
+	<Point x="1483" y="1029"/>
+	<Point x="1192" y="1008"/>
+	<Point x="1214" y="881"/>
+	<Point x="1589" y="861"/>
+	<Point x="1601" y="845"/>
+	<Point x="1597" y="747"/>
+	<Point x="1338" y="768"/>
+	<Point x="1223" y="745"/>
+	<Point x="1131" y="684"/>
+	<Point x="1110" y="662"/>
+	<Point x="1039" y="659"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En mi pecho florido,
+Que entero para el ſolo ſe guardaba,
+Ai que dò dormido,
+I yo le regalaba,
+I el ventae de cedros aire daba.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="heading">
+	<Coords>
+	<Point x="1115" y="1129"/>
+	<Point x="1107" y="1192"/>
+	<Point x="1238" y="1192"/>
+	<Point x="1234" y="1132"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VII</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="550" y="1188"/>
+	<Point x="550" y="1654"/>
+	<Point x="939" y="1671"/>
+	<Point x="1078" y="1645"/>
+	<Point x="1101" y="1661"/>
+	<Point x="1106" y="1664"/>
+	<Point x="1141" y="1654"/>
+	<Point x="1169" y="1659"/>
+	<Point x="1206" y="1658"/>
+	<Point x="1239" y="1656"/>
+	<Point x="1236" y="1642"/>
+	<Point x="1437" y="1642"/>
+	<Point x="1392" y="1544"/>
+	<Point x="1130" y="1543"/>
+	<Point x="1130" y="1424"/>
+	<Point x="1168" y="1392"/>
+	<Point x="1477" y="1383"/>
+	<Point x="1465" y="1310"/>
+	<Point x="1392" y="1280"/>
+	<Point x="1304" y="1282"/>
+	<Point x="1221" y="1291"/>
+	<Point x="1154" y="1285"/>
+	<Point x="1120" y="1217"/>
+	<Point x="886" y="1185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El aire del almena,
+Cuando ya ſus cabeos eſparcia,
+Con ſu mano ſerena
+En mi cueo heria,
+I todos mis ſentidos ſuſpendia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="heading">
+	<Coords>
+	<Point x="1094" y="1676"/>
+	<Point x="1110" y="1720"/>
+	<Point x="1248" y="1719"/>
+	<Point x="1255" y="1659"/>
+	<Point x="1231" y="1658"/>
+	<Point x="1220" y="1659"/>
+	<Point x="1098" y="1666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VIII</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords>
+	<Point x="545" y="1740"/>
+	<Point x="516" y="2082"/>
+	<Point x="527" y="2190"/>
+	<Point x="545" y="2200"/>
+	<Point x="1402" y="2187"/>
+	<Point x="1368" y="2089"/>
+	<Point x="1160" y="2081"/>
+	<Point x="1164" y="1920"/>
+	<Point x="1521" y="1909"/>
+	<Point x="1540" y="1740"/>
+	<Point x="1293" y="1744"/>
+	<Point x="981" y="1720"/>
+	<Point x="674" y="1718"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quedème i olvidème,
+El rororeclinè ſobre el Amado,
+Cesò todo, i dexème,
+Dexando mi cuidado
+Entre las açucenas olvidado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="catch-word">
+	<Coords>
+	<Point x="1438" y="2502"/>
+	<Point x="1438" y="2645"/>
+	<Point x="1809" y="2645"/>
+	<Point x="1809" y="2502"/>
+	<Point x="1488" y="2481"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Decla-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="credit">
+	<Coords>
+	<Point x="771" y="2930"/>
+	<Point x="771" y="3000"/>
+	<Point x="1419" y="3000"/>
+	<Point x="1419" y="2930"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

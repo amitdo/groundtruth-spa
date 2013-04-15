@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00445507">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T19:04:57</Created>
+	<LastChange>2011-10-12T11:02:26</LastChange></Metadata>
+	<Page imageFilename="00445507.tif" imageWidth="2783" imageHeight="4005">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r19" index="0"/>
+	<RegionRefIndexed regionRef="r23" index="1"/>
+	<RegionRefIndexed regionRef="r27" index="2"/>
+	<RegionRefIndexed regionRef="r31" index="3"/>
+	<RegionRefIndexed regionRef="r35" index="4"/>
+	<RegionRefIndexed regionRef="r39" index="5"/>
+	<RegionRefIndexed regionRef="r41" index="6"/>
+	<RegionRefIndexed regionRef="r43" index="7"/>
+	<RegionRefIndexed regionRef="r45" index="8"/>
+	<RegionRefIndexed regionRef="r47" index="9"/>
+	<RegionRefIndexed regionRef="r49" index="10"/>
+	<RegionRefIndexed regionRef="r51" index="11"/>
+	<RegionRefIndexed regionRef="r55" index="12"/>
+	<RegionRefIndexed regionRef="r57" index="13"/>
+	<RegionRefIndexed regionRef="r7" index="14"/>
+	<RegionRefIndexed regionRef="r92" index="15"/>
+	<RegionRefIndexed regionRef="r94" index="16"/>
+	<RegionRefIndexed regionRef="r88" index="17"/>
+	<RegionRefIndexed regionRef="r90" index="18"/>
+	<RegionRefIndexed regionRef="r84" index="19"/>
+	<RegionRefIndexed regionRef="r86" index="20"/>
+	<RegionRefIndexed regionRef="r78" index="21"/>
+	<RegionRefIndexed regionRef="r74" index="22"/>
+	<RegionRefIndexed regionRef="r70" index="23"/>
+	<RegionRefIndexed regionRef="r66" index="24"/>
+	<RegionRefIndexed regionRef="r60" index="25"/>
+	<RegionRefIndexed regionRef="r62" index="26"/>
+	<RegionRefIndexed regionRef="r58" index="27"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="1893" y="175"/>
+	<Point x="2075" y="179"/>
+	<Point x="2076" y="245"/>
+	<Point x="1896" y="239"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAR</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="1495" y="253"/>
+	<Point x="2474" y="263"/>
+	<Point x="2477" y="474"/>
+	<Point x="2107" y="465"/>
+	<Point x="2056" y="482"/>
+	<Point x="2049" y="464"/>
+	<Point x="1947" y="463"/>
+	<Point x="1942" y="477"/>
+	<Point x="1899" y="472"/>
+	<Point x="1875" y="464"/>
+	<Point x="1652" y="461"/>
+	<Point x="1646" y="513"/>
+	<Point x="1546" y="513"/>
+	<Point x="1542" y="309"/>
+	<Point x="1490" y="316"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pán ajéno caro cuea. Refr. que aconſéja procú-
+re cada uno contentarſe con lo que tiene, y
+no valerſe de lo que no es ſuyo, que ſale mu-
+cho mas cooſo que lo que tuvo de utilidád.
+Lat.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="credit">
+	<Coords>
+	<Point x="1006" y="3901"/>
+	<Point x="1198" y="3901"/>
+	<Point x="1213" y="3903"/>
+	<Point x="1225" y="3919"/>
+	<Point x="1230" y="3910"/>
+	<Point x="1245" y="3904"/>
+	<Point x="1263" y="3909"/>
+	<Point x="1343" y="3919"/>
+	<Point x="1367" y="3910"/>
+	<Point x="1372" y="3907"/>
+	<Point x="1414" y="3903"/>
+	<Point x="1412" y="3919"/>
+	<Point x="1477" y="3919"/>
+	<Point x="1478" y="3910"/>
+	<Point x="1493" y="3905"/>
+	<Point x="1503" y="3908"/>
+	<Point x="1593" y="3919"/>
+	<Point x="1600" y="3904"/>
+	<Point x="1663" y="3903"/>
+	<Point x="1676" y="3913"/>
+	<Point x="1696" y="3919"/>
+	<Point x="1724" y="3899"/>
+	<Point x="1771" y="3906"/>
+	<Point x="1760" y="3919"/>
+	<Point x="1857" y="3919"/>
+	<Point x="1862" y="3910"/>
+	<Point x="1892" y="3897"/>
+	<Point x="1898" y="3919"/>
+	<Point x="1927" y="3919"/>
+	<Point x="1947" y="3936"/>
+	<Point x="1927" y="3959"/>
+	<Point x="1898" y="3959"/>
+	<Point x="1893" y="3958"/>
+	<Point x="1862" y="3958"/>
+	<Point x="1857" y="3959"/>
+	<Point x="1827" y="3959"/>
+	<Point x="1822" y="3967"/>
+	<Point x="1773" y="3972"/>
+	<Point x="1782" y="3957"/>
+	<Point x="1760" y="3959"/>
+	<Point x="1760" y="3958"/>
+	<Point x="1718" y="3958"/>
+	<Point x="1696" y="3959"/>
+	<Point x="1631" y="3959"/>
+	<Point x="1611" y="3958"/>
+	<Point x="1597" y="3958"/>
+	<Point x="1593" y="3959"/>
+	<Point x="1563" y="3959"/>
+	<Point x="1558" y="3958"/>
+	<Point x="1527" y="3958"/>
+	<Point x="1524" y="3959"/>
+	<Point x="1493" y="3959"/>
+	<Point x="1492" y="3958"/>
+	<Point x="1478" y="3958"/>
+	<Point x="1477" y="3959"/>
+	<Point x="1412" y="3959"/>
+	<Point x="1411" y="3958"/>
+	<Point x="1367" y="3958"/>
+	<Point x="1343" y="3959"/>
+	<Point x="1194" y="3959"/>
+	<Point x="1193" y="3958"/>
+	<Point x="1165" y="3958"/>
+	<Point x="1161" y="3959"/>
+	<Point x="1130" y="3959"/>
+	<Point x="1130" y="3958"/>
+	<Point x="1074" y="3958"/>
+	<Point x="1054" y="3960"/>
+	<Point x="1010" y="3960"/>
+	<Point x="1008" y="3938"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="1049" y="186"/>
+	<Point x="1056" y="240"/>
+	<Point x="987" y="240"/>
+	<Point x="987" y="241"/>
+	<Point x="935" y="247"/>
+	<Point x="875" y="242"/>
+	<Point x="882" y="187"/>
+	<Point x="882" y="186"/>
+	<Point x="1041" y="176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAR</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="page-number">
+	<Coords>
+	<Point x="587" y="245"/>
+	<Point x="587" y="246"/>
+	<Point x="511" y="263"/>
+	<Point x="507" y="251"/>
+	<Point x="506" y="249"/>
+	<Point x="467" y="247"/>
+	<Point x="477" y="200"/>
+	<Point x="597" y="201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>190</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="475" y="274"/>
+	<Point x="625" y="258"/>
+	<Point x="1420" y="248"/>
+	<Point x="1417" y="506"/>
+	<Point x="1221" y="512"/>
+	<Point x="1217" y="523"/>
+	<Point x="1224" y="573"/>
+	<Point x="1175" y="573"/>
+	<Point x="1170" y="563"/>
+	<Point x="1104" y="565"/>
+	<Point x="822" y="563"/>
+	<Point x="817" y="576"/>
+	<Point x="785" y="574"/>
+	<Point x="763" y="567"/>
+	<Point x="652" y="565"/>
+	<Point x="645" y="576"/>
+	<Point x="632" y="578"/>
+	<Point x="616" y="569"/>
+	<Point x="482" y="568"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nor précio, que ſe ama de lo baráto. Lat. Vi-
+num meracius, ab fœce purum, carius proans.
+CERV. Quix. tom. 2. cap. 24. Pidieron de lo caro,
+reſpondió que ſu ſeñor no lo tenía; pero que
+ querían agua baráta, que la daría de mui
+buena gana. QUEV. Muſ. 6. Rom. 17.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="579" y="579"/>
+	<Point x="620" y="576"/>
+	<Point x="628" y="583"/>
+	<Point x="636" y="586"/>
+	<Point x="655" y="572"/>
+	<Point x="780" y="578"/>
+	<Point x="827" y="580"/>
+	<Point x="851" y="572"/>
+	<Point x="1091" y="573"/>
+	<Point x="1100" y="620"/>
+	<Point x="1021" y="618"/>
+	<Point x="1066" y="731"/>
+	<Point x="1102" y="749"/>
+	<Point x="1096" y="759"/>
+	<Point x="1074" y="773"/>
+	<Point x="1045" y="780"/>
+	<Point x="1028" y="780"/>
+	<Point x="1016" y="770"/>
+	<Point x="857" y="775"/>
+	<Point x="845" y="782"/>
+	<Point x="832" y="785"/>
+	<Point x="775" y="773"/>
+	<Point x="584" y="770"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Gobernando eán el mundo
+cogidos con que ſo añéjo,
+en la trampa de lo caro,
+tres Gabachos y un Gaégo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="435" y="780"/>
+	<Point x="520" y="778"/>
+	<Point x="769" y="780"/>
+	<Point x="834" y="789"/>
+	<Point x="856" y="780"/>
+	<Point x="997" y="779"/>
+	<Point x="1048" y="787"/>
+	<Point x="1089" y="773"/>
+	<Point x="1117" y="771"/>
+	<Point x="1418" y="772"/>
+	<Point x="1430" y="800"/>
+	<Point x="1427" y="1233"/>
+	<Point x="564" y="1238"/>
+	<Point x="561" y="1252"/>
+	<Point x="528" y="1249"/>
+	<Point x="484" y="1241"/>
+	<Point x="495" y="829"/>
+	<Point x="436" y="833"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Hacer el caro. Phraſe náutica uſada en las Galé-
+ras, y otras embarcaciones ſemejantes, y es
+volver la enténa de una parte à otra: que quan-
+do ſe hace navegando, y con la vela tendida
+es tan arrieſgado, que ſuele volcarſe la galéra.
+Lat. Antennam contorquere, obvertere. SAAV.
+Empr. 59. En la navegación es peligroſo mu-
+dar las velas, haciendo el caro, porque paan de
+repente del uno al otro coádo del baxél.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords>
+	<Point x="443" y="1245"/>
+	<Point x="466" y="1245"/>
+	<Point x="512" y="1252"/>
+	<Point x="557" y="1258"/>
+	<Point x="580" y="1245"/>
+	<Point x="587" y="1246"/>
+	<Point x="1433" y="1242"/>
+	<Point x="1436" y="1810"/>
+	<Point x="1282" y="1805"/>
+	<Point x="1279" y="1821"/>
+	<Point x="1247" y="1819"/>
+	<Point x="1236" y="1804"/>
+	<Point x="1116" y="1817"/>
+	<Point x="1107" y="1802"/>
+	<Point x="1088" y="1806"/>
+	<Point x="904" y="1804"/>
+	<Point x="901" y="1816"/>
+	<Point x="884" y="1816"/>
+	<Point x="857" y="1804"/>
+	<Point x="609" y="1806"/>
+	<Point x="542" y="1807"/>
+	<Point x="535" y="1816"/>
+	<Point x="525" y="1820"/>
+	<Point x="498" y="1817"/>
+	<Point x="493" y="1295"/>
+	<Point x="436" y="1298"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Le coará caro. Phraſe que muchas veces rve
+de amenáza con que ſe pretende que alguno
+no execúte una coſa de peligro, ò que ſe guar-
+de de lo que le reſultará daño. Y tambien ſe
+pondéra con ea lo que le coó el executarlo.
+Lat. Haud impune ii cedet. Carò conabit. TORR.
+Philoſ. lib. 1. cap. 12. Ea le faltó à Chan hi-
+jo de Noé, y aſsi le coó tan cara la burla que
+de ſu Padre hizo. QUEV. Tacañ. cap. 19. Voto
+à tal que eo no ſe puede hacer conmígo, y
+que à no ſer Ums. quien ſon les podía coar caro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="454" y="1803"/>
+	<Point x="492" y="1824"/>
+	<Point x="526" y="1824"/>
+	<Point x="548" y="1812"/>
+	<Point x="549" y="1812"/>
+	<Point x="624" y="1815"/>
+	<Point x="867" y="1815"/>
+	<Point x="898" y="1821"/>
+	<Point x="925" y="1813"/>
+	<Point x="1095" y="1812"/>
+	<Point x="1113" y="1820"/>
+	<Point x="1113" y="1858"/>
+	<Point x="449" y="1862"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lo baráto es caro. Veaſe Baráto.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="449" y="1869"/>
+	<Point x="886" y="1866"/>
+	<Point x="987" y="1867"/>
+	<Point x="1066" y="1872"/>
+	<Point x="1129" y="1864"/>
+	<Point x="1160" y="1865"/>
+	<Point x="1214" y="1863"/>
+	<Point x="1272" y="1867"/>
+	<Point x="1437" y="1861"/>
+	<Point x="1442" y="2073"/>
+	<Point x="1073" y="2080"/>
+	<Point x="1079" y="2116"/>
+	<Point x="1001" y="2120"/>
+	<Point x="743" y="2123"/>
+	<Point x="688" y="2128"/>
+	<Point x="682" y="2115"/>
+	<Point x="595" y="2120"/>
+	<Point x="498" y="2115"/>
+	<Point x="500" y="1915"/>
+	<Point x="453" y="1920"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tener en caro. Phraſe antígua y n uſo, que va-
+le lo miſmo que preciar, y tener en gran eí-
+ma. Lat. Magni facere. Plurimi putare, facere, &amp;c.
+PARTID. 2. tit. 13. l. 18. Debe el pueblo hon-
+rar al Rey, è tenerle en caro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords>
+	<Point x="453" y="2125"/>
+	<Point x="479" y="2120"/>
+	<Point x="537" y="2131"/>
+	<Point x="678" y="2136"/>
+	<Point x="804" y="2137"/>
+	<Point x="1449" y="2112"/>
+	<Point x="1437" y="2394"/>
+	<Point x="1188" y="2378"/>
+	<Point x="1188" y="2427"/>
+	<Point x="873" y="2427"/>
+	<Point x="857" y="2437"/>
+	<Point x="793" y="2437"/>
+	<Point x="790" y="2426"/>
+	<Point x="724" y="2426"/>
+	<Point x="678" y="2427"/>
+	<Point x="680" y="2438"/>
+	<Point x="659" y="2438"/>
+	<Point x="622" y="2431"/>
+	<Point x="509" y="2436"/>
+	<Point x="500" y="2171"/>
+	<Point x="454" y="2175"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CARO CUESTA EL ARREPENTIR. Refr. que ſe di-
+xo por la grande diﬁcultad que tienen los
+hombres en conocer, y emendar ſus yerros:
+y enſéña que antes de cometerlos ſe advier-
+tan, porque deſpues no hai mas remédio, que
+ſentir y tener peſadumbre. Lat.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="608" y="2438"/>
+	<Point x="642" y="2440"/>
+	<Point x="669" y="2445"/>
+	<Point x="739" y="2443"/>
+	<Point x="882" y="2439"/>
+	<Point x="893" y="2434"/>
+	<Point x="1223" y="2435"/>
+	<Point x="1274" y="2437"/>
+	<Point x="1271" y="2529"/>
+	<Point x="1044" y="2531"/>
+	<Point x="1060" y="2537"/>
+	<Point x="1019" y="2538"/>
+	<Point x="991" y="2536"/>
+	<Point x="991" y="2528"/>
+	<Point x="910" y="2529"/>
+	<Point x="886" y="2540"/>
+	<Point x="858" y="2528"/>
+	<Point x="694" y="2541"/>
+	<Point x="669" y="2542"/>
+	<Point x="612" y="2537"/>
+	<Point x="601" y="2440"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Peccare gratis ſpè novit improbus;
+Iique caro conat ut pœnas luat.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords>
+	<Point x="463" y="2540"/>
+	<Point x="485" y="2534"/>
+	<Point x="695" y="2548"/>
+	<Point x="826" y="2539"/>
+	<Point x="857" y="2540"/>
+	<Point x="870" y="2536"/>
+	<Point x="891" y="2545"/>
+	<Point x="967" y="2537"/>
+	<Point x="1009" y="2539"/>
+	<Point x="1441" y="2537"/>
+	<Point x="1445" y="2686"/>
+	<Point x="1313" y="2685"/>
+	<Point x="1315" y="2699"/>
+	<Point x="1254" y="2696"/>
+	<Point x="1242" y="2696"/>
+	<Point x="1248" y="2685"/>
+	<Point x="1043" y="2686"/>
+	<Point x="1039" y="2740"/>
+	<Point x="640" y="2736"/>
+	<Point x="636" y="2744"/>
+	<Point x="622" y="2748"/>
+	<Point x="582" y="2743"/>
+	<Point x="508" y="2740"/>
+	<Point x="509" y="2589"/>
+	<Point x="464" y="2597"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comprar caro no es franquéza. Refr. que ſe dixo,
+porque el dar por una coſa todo lo que pide
+el vendedór, mas denóta bobería è ignorán-
+cia, que liberalidád. Lat.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords>
+	<Point x="551" y="2748"/>
+	<Point x="631" y="2750"/>
+	<Point x="648" y="2743"/>
+	<Point x="1308" y="2747"/>
+	<Point x="1306" y="2839"/>
+	<Point x="1102" y="2842"/>
+	<Point x="1082" y="2852"/>
+	<Point x="1080" y="2843"/>
+	<Point x="1042" y="2839"/>
+	<Point x="1022" y="2852"/>
+	<Point x="1012" y="2845"/>
+	<Point x="973" y="2839"/>
+	<Point x="963" y="2850"/>
+	<Point x="945" y="2851"/>
+	<Point x="931" y="2845"/>
+	<Point x="892" y="2837"/>
+	<Point x="843" y="2838"/>
+	<Point x="553" y="2840"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quòd caro, amice, ſemper emeris merces,
+Non liberalis audis ipſe, ſed ultus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords>
+	<Point x="463" y="2844"/>
+	<Point x="828" y="2847"/>
+	<Point x="919" y="2849"/>
+	<Point x="961" y="2860"/>
+	<Point x="984" y="2847"/>
+	<Point x="1001" y="2847"/>
+	<Point x="1020" y="2859"/>
+	<Point x="1039" y="2845"/>
+	<Point x="1059" y="2846"/>
+	<Point x="1070" y="2849"/>
+	<Point x="1090" y="2859"/>
+	<Point x="1113" y="2845"/>
+	<Point x="1442" y="2848"/>
+	<Point x="1447" y="3102"/>
+	<Point x="1226" y="3101"/>
+	<Point x="1083" y="3101"/>
+	<Point x="1093" y="3150"/>
+	<Point x="744" y="3149"/>
+	<Point x="745" y="3161"/>
+	<Point x="734" y="3165"/>
+	<Point x="721" y="3158"/>
+	<Point x="648" y="3161"/>
+	<Point x="642" y="3150"/>
+	<Point x="519" y="3153"/>
+	<Point x="516" y="2897"/>
+	<Point x="469" y="2899"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En año caro, harnéro eſpéſo y cedázo claro.
+Refr. que enſéña, que en los caſos ò tiempos
+de neceſsidád, hambre ò eerilidád, es neceſ-
+ſário uſar de toda economía, y vivir n ſuper-
+ﬂuidad, aprovechándoſe, y valiéndoſe de to-
+do lo que puede ſervir. Lat.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="paragraph">
+	<Coords>
+	<Point x="567" y="3162"/>
+	<Point x="613" y="3157"/>
+	<Point x="636" y="3166"/>
+	<Point x="642" y="3162"/>
+	<Point x="667" y="3164"/>
+	<Point x="723" y="3162"/>
+	<Point x="741" y="3172"/>
+	<Point x="868" y="3168"/>
+	<Point x="883" y="3159"/>
+	<Point x="1211" y="3153"/>
+	<Point x="1425" y="3156"/>
+	<Point x="1447" y="3254"/>
+	<Point x="1234" y="3248"/>
+	<Point x="1226" y="3256"/>
+	<Point x="1217" y="3259"/>
+	<Point x="1201" y="3262"/>
+	<Point x="1194" y="3259"/>
+	<Point x="1141" y="3254"/>
+	<Point x="1127" y="3257"/>
+	<Point x="1109" y="3266"/>
+	<Point x="1098" y="3257"/>
+	<Point x="1088" y="3249"/>
+	<Point x="1053" y="3253"/>
+	<Point x="984" y="3264"/>
+	<Point x="951" y="3264"/>
+	<Point x="924" y="3258"/>
+	<Point x="623" y="3254"/>
+	<Point x="614" y="3211"/>
+	<Point x="566" y="3209"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Multa docet prudens homines in rebus egeas:
+Pauca habet; hc ſervat: prodigit ia nihil.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r55" type="paragraph">
+	<Coords>
+	<Point x="463" y="3264"/>
+	<Point x="507" y="3261"/>
+	<Point x="526" y="3260"/>
+	<Point x="554" y="3261"/>
+	<Point x="647" y="3263"/>
+	<Point x="728" y="3269"/>
+	<Point x="776" y="3265"/>
+	<Point x="927" y="3263"/>
+	<Point x="956" y="3269"/>
+	<Point x="1089" y="3257"/>
+	<Point x="1101" y="3272"/>
+	<Point x="1135" y="3273"/>
+	<Point x="1188" y="3268"/>
+	<Point x="1239" y="3257"/>
+	<Point x="1444" y="3261"/>
+	<Point x="1450" y="3561"/>
+	<Point x="924" y="3570"/>
+	<Point x="892" y="3574"/>
+	<Point x="863" y="3566"/>
+	<Point x="775" y="3569"/>
+	<Point x="625" y="3569"/>
+	<Point x="607" y="3573"/>
+	<Point x="527" y="3571"/>
+	<Point x="516" y="3313"/>
+	<Point x="473" y="3313"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lo bueno no es caro, lo malo hace daño. Refr.
+que ſe dixo, porque aunque las coſas que ſon
+de ſuyo buenas y provechoſas cueen algo
+mas de lo que en sí valen, no ſe deben repu-
+tar por coóſas, en comparacion de las inúti-
+les y dañoſas, aunque cueen mui barátas. Lat.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r57" type="paragraph">
+	<Coords>
+	<Point x="571" y="3576"/>
+	<Point x="780" y="3577"/>
+	<Point x="790" y="3572"/>
+	<Point x="904" y="3578"/>
+	<Point x="1002" y="3575"/>
+	<Point x="1124" y="3573"/>
+	<Point x="1249" y="3574"/>
+	<Point x="1249" y="3678"/>
+	<Point x="876" y="3682"/>
+	<Point x="580" y="3673"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bonum probatum, carius ne dixeris
+Malum nocebit, proet et  vilius.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r58" type="catch-word">
+	<Coords>
+	<Point x="2377" y="3680"/>
+	<Point x="2377" y="3744"/>
+	<Point x="2500" y="3740"/>
+	<Point x="2499" y="3705"/>
+	<Point x="2491" y="3698"/>
+	<Point x="2472" y="3696"/>
+	<Point x="2426" y="3697"/>
+	<Point x="2420" y="3679"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAR-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r60" type="paragraph">
+	<Coords>
+	<Point x="1520" y="3314"/>
+	<Point x="2496" y="3324"/>
+	<Point x="2501" y="3579"/>
+	<Point x="2446" y="3585"/>
+	<Point x="2364" y="3585"/>
+	<Point x="2084" y="3586"/>
+	<Point x="2074" y="3629"/>
+	<Point x="2037" y="3632"/>
+	<Point x="2028" y="3621"/>
+	<Point x="1575" y="3621"/>
+	<Point x="1561" y="3429"/>
+	<Point x="1569" y="3361"/>
+	<Point x="1519" y="3356"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CARPA. ſ. f. Pez bien conocido que ſe cria en
+los rios y eanques, parecido à la tenca; pero
+algo mas claro de colór. Es voz Franceſa, ſe-
+gun Covarr. por haver trahído de aá ee
+pez, ù de los lagos de Sabóya. Lat. Cyprinus, i
+BRAV. Benedi. Cant. 3.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r62" type="paragraph">
+	<Coords>
+	<Point x="1622" y="3627"/>
+	<Point x="2010" y="3624"/>
+	<Point x="2037" y="3637"/>
+	<Point x="2091" y="3637"/>
+	<Point x="2137" y="3622"/>
+	<Point x="2364" y="3622"/>
+	<Point x="2367" y="3658"/>
+	<Point x="2364" y="3686"/>
+	<Point x="1823" y="3687"/>
+	<Point x="1615" y="3679"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Traxo el delphin, la phoca, atún y carpa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r66" type="paragraph">
+	<Coords>
+	<Point x="1520" y="3003"/>
+	<Point x="1778" y="3007"/>
+	<Point x="2063" y="3010"/>
+	<Point x="2282" y="3006"/>
+	<Point x="2299" y="3007"/>
+	<Point x="2496" y="3017"/>
+	<Point x="2500" y="3272"/>
+	<Point x="2392" y="3266"/>
+	<Point x="2375" y="3274"/>
+	<Point x="2356" y="3276"/>
+	<Point x="1719" y="3260"/>
+	<Point x="1722" y="3306"/>
+	<Point x="1658" y="3313"/>
+	<Point x="1572" y="3306"/>
+	<Point x="1563" y="3050"/>
+	<Point x="1522" y="3047"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAROZO. ſ. m. La telia en que eán metidos
+y encerrados los granos en la granáda, la qual
+tira à pajíza. Es voz uſada en Extremadúra. Y
+en Aurias aman aſsi à la armadúra de la
+mazorca del maíz. Lat. Ciccum, i. Diepimen-
+tum, i.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r70" type="paragraph">
+	<Coords>
+	<Point x="1513" y="2384"/>
+	<Point x="1977" y="2390"/>
+	<Point x="2343" y="2385"/>
+	<Point x="2491" y="2394"/>
+	<Point x="2507" y="2962"/>
+	<Point x="2347" y="2953"/>
+	<Point x="2321" y="2963"/>
+	<Point x="2211" y="2965"/>
+	<Point x="2198" y="3002"/>
+	<Point x="1985" y="2996"/>
+	<Point x="1797" y="2998"/>
+	<Point x="1569" y="2994"/>
+	<Point x="1563" y="2431"/>
+	<Point x="1512" y="2430"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAROTIDAS, ò CAROTIDES. ſ. f. Voz ana-
+tómica. Son dos artérias que nacen de la arté-
+ria grande aſcendiente, deſpues que ſale del
+ventrículo ò ſeno izquierdo del corazón, y
+yendo cada una por ſu lado ſuben à la cabé-
+za, donde partidas en ramos interiores y ex-
+teriores, riegan al celebro y partes de la cara.
+Llámanſe aſsi de la voz Griega Carop, que es lo
+miſmo que Sueño, porque comunmente los
+Médicos deſpues de Hipócrates, creen que la
+ſangre que eas evan, es la principal cáuſa
+del ſueño. Lat. Carotides ven.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r74" type="paragraph">
+	<Coords>
+	<Point x="1511" y="2076"/>
+	<Point x="1643" y="2075"/>
+	<Point x="1664" y="2085"/>
+	<Point x="1678" y="2076"/>
+	<Point x="1967" y="2078"/>
+	<Point x="2145" y="2079"/>
+	<Point x="2491" y="2073"/>
+	<Point x="2498" y="2341"/>
+	<Point x="2302" y="2338"/>
+	<Point x="2307" y="2381"/>
+	<Point x="2051" y="2382"/>
+	<Point x="2007" y="2388"/>
+	<Point x="1984" y="2388"/>
+	<Point x="1944" y="2375"/>
+	<Point x="1556" y="2377"/>
+	<Point x="1557" y="2124"/>
+	<Point x="1506" y="2128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAROQUERO, RA. adj. Halagüeño, caricio-
+ſo y afeadamente blando. Diceſe de la per-
+ſóna que con cariños, halágos y ademánes
+procúra atraher, ò ſuavizar à alguno para eſ-
+tar bien con él, ò conſeguir lo que deſéa. Es
+voz familiár. Lat. Palpator. Adulator.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r78" type="paragraph">
+	<Coords>
+	<Point x="1655" y="1972"/>
+	<Point x="1915" y="1976"/>
+	<Point x="1942" y="1985"/>
+	<Point x="1976" y="1971"/>
+	<Point x="2150" y="1977"/>
+	<Point x="2156" y="2061"/>
+	<Point x="2145" y="2071"/>
+	<Point x="2100" y="2070"/>
+	<Point x="1974" y="2065"/>
+	<Point x="1913" y="2067"/>
+	<Point x="1687" y="2067"/>
+	<Point x="1668" y="2079"/>
+	<Point x="1650" y="2069"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Es izquierdo y desbocado,
+y mui blando de caróna.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r86" type="paragraph">
+	<Coords>
+	<Point x="1503" y="1661"/>
+	<Point x="1616" y="1660"/>
+	<Point x="1669" y="1670"/>
+	<Point x="1682" y="1672"/>
+	<Point x="1691" y="1665"/>
+	<Point x="1707" y="1661"/>
+	<Point x="1710" y="1674"/>
+	<Point x="1755" y="1659"/>
+	<Point x="2216" y="1660"/>
+	<Point x="2498" y="1669"/>
+	<Point x="2497" y="1934"/>
+	<Point x="2402" y="1924"/>
+	<Point x="2380" y="1931"/>
+	<Point x="2396" y="1969"/>
+	<Point x="2333" y="1986"/>
+	<Point x="2320" y="1985"/>
+	<Point x="2284" y="1969"/>
+	<Point x="1971" y="1965"/>
+	<Point x="1958" y="1976"/>
+	<Point x="1942" y="1982"/>
+	<Point x="1939" y="1970"/>
+	<Point x="1930" y="1962"/>
+	<Point x="1905" y="1962"/>
+	<Point x="1624" y="1966"/>
+	<Point x="1609" y="1980"/>
+	<Point x="1555" y="1977"/>
+	<Point x="1559" y="1710"/>
+	<Point x="1508" y="1714"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ser blando de caróna. Phraſe feiva que transla-
+ticiamente ſe dice del que es mui reſentido, y
+ſe pica de quanto le dicen, y mui freqüente-
+mente del que con facilidád ſe enamóra. Lat.
+Qui animi oﬀenonem citò concipit, vel acerbius
+afﬁcitur. CASTILLEJ. Obr. Poet. fol. 158.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r84" type="paragraph">
+	<Coords>
+	<Point x="1508" y="1557"/>
+	<Point x="1542" y="1557"/>
+	<Point x="1553" y="1568"/>
+	<Point x="1704" y="1562"/>
+	<Point x="1738" y="1562"/>
+	<Point x="1812" y="1556"/>
+	<Point x="2100" y="1551"/>
+	<Point x="2484" y="1559"/>
+	<Point x="2493" y="1615"/>
+	<Point x="2387" y="1628"/>
+	<Point x="2132" y="1607"/>
+	<Point x="2142" y="1656"/>
+	<Point x="2115" y="1655"/>
+	<Point x="1715" y="1652"/>
+	<Point x="1705" y="1659"/>
+	<Point x="1683" y="1666"/>
+	<Point x="1676" y="1663"/>
+	<Point x="1674" y="1653"/>
+	<Point x="1552" y="1651"/>
+	<Point x="1551" y="1602"/>
+	<Point x="1502" y="1601"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CARONA. En Germanía gniﬁca la camíſa. Juan
+Hidalgo en ſu Vocabulario.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r88" type="paragraph">
+	<Coords>
+	<Point x="1654" y="936"/>
+	<Point x="1772" y="937"/>
+	<Point x="1797" y="948"/>
+	<Point x="1834" y="931"/>
+	<Point x="1958" y="935"/>
+	<Point x="1975" y="932"/>
+	<Point x="2307" y="936"/>
+	<Point x="2307" y="1035"/>
+	<Point x="2220" y="1037"/>
+	<Point x="2186" y="1042"/>
+	<Point x="2126" y="1042"/>
+	<Point x="2067" y="1032"/>
+	<Point x="1937" y="1031"/>
+	<Point x="1869" y="1040"/>
+	<Point x="1837" y="1039"/>
+	<Point x="1803" y="1028"/>
+	<Point x="1792" y="1042"/>
+	<Point x="1779" y="1041"/>
+	<Point x="1776" y="1035"/>
+	<Point x="1655" y="1030"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quando ſe repreſentan las carócas
+En verſos, no bárbaros, meizos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r90" type="paragraph">
+	<Coords>
+	<Point x="1511" y="1037"/>
+	<Point x="1667" y="1040"/>
+	<Point x="1774" y="1041"/>
+	<Point x="1782" y="1052"/>
+	<Point x="1802" y="1039"/>
+	<Point x="1818" y="1036"/>
+	<Point x="1826" y="1044"/>
+	<Point x="1852" y="1043"/>
+	<Point x="2079" y="1040"/>
+	<Point x="2146" y="1047"/>
+	<Point x="2212" y="1044"/>
+	<Point x="2486" y="1042"/>
+	<Point x="2489" y="1518"/>
+	<Point x="2052" y="1511"/>
+	<Point x="1944" y="1504"/>
+	<Point x="1848" y="1507"/>
+	<Point x="1844" y="1538"/>
+	<Point x="1819" y="1539"/>
+	<Point x="1808" y="1549"/>
+	<Point x="1741" y="1559"/>
+	<Point x="1711" y="1560"/>
+	<Point x="1707" y="1550"/>
+	<Point x="1606" y="1550"/>
+	<Point x="1570" y="1564"/>
+	<Point x="1548" y="1549"/>
+	<Point x="1548" y="1546"/>
+	<Point x="1545" y="1085"/>
+	<Point x="1505" y="1087"/>
+	<Point x="1499" y="1060"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CARONA. ſ. f El peéjo de qualquier cabae-
+ría quitado el pelo que le cubre por encíma
+del lomo. Lat. Equi aut ani cutis, is. CHRON.
+GEN. part. 4. fol. 308. E la a con el cuerpo
+púſola en un cabalhue, è veióle à caróna
+del cuerpo de un gambax branco, fecho de un
+randál. GUEN. M. A. lib. 3. cap. 33. Es de tan
+mala caróna nuera naturaléza, que  la tra-
+bajámos luego ſe canſa, y  la relevamos lue-
+go ſe regála.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r92" type="paragraph">
+	<Coords>
+	<Point x="1603" y="524"/>
+	<Point x="1622" y="521"/>
+	<Point x="1925" y="517"/>
+	<Point x="2473" y="525"/>
+	<Point x="2484" y="552"/>
+	<Point x="2479" y="587"/>
+	<Point x="2303" y="579"/>
+	<Point x="2302" y="619"/>
+	<Point x="2193" y="621"/>
+	<Point x="2152" y="630"/>
+	<Point x="2143" y="621"/>
+	<Point x="1992" y="618"/>
+	<Point x="1986" y="618"/>
+	<Point x="1971" y="624"/>
+	<Point x="1954" y="623"/>
+	<Point x="1940" y="620"/>
+	<Point x="1904" y="627"/>
+	<Point x="1893" y="615"/>
+	<Point x="1751" y="615"/>
+	<Point x="1740" y="628"/>
+	<Point x="1730" y="627"/>
+	<Point x="1707" y="615"/>
+	<Point x="1613" y="612"/>
+	<Point x="1597" y="565"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Et carum &amp; miſerum e aliena vivere quadra:
+Pauperior ne s, vivere diſce tua.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r94" type="paragraph">
+	<Coords>
+	<Point x="1496" y="621"/>
+	<Point x="1601" y="623"/>
+	<Point x="1700" y="622"/>
+	<Point x="1734" y="632"/>
+	<Point x="1744" y="634"/>
+	<Point x="1755" y="622"/>
+	<Point x="1867" y="625"/>
+	<Point x="1904" y="632"/>
+	<Point x="1971" y="628"/>
+	<Point x="2132" y="626"/>
+	<Point x="2156" y="635"/>
+	<Point x="2173" y="634"/>
+	<Point x="2198" y="630"/>
+	<Point x="2334" y="625"/>
+	<Point x="2484" y="627"/>
+	<Point x="2487" y="888"/>
+	<Point x="1833" y="877"/>
+	<Point x="1838" y="920"/>
+	<Point x="1812" y="934"/>
+	<Point x="1796" y="943"/>
+	<Point x="1769" y="932"/>
+	<Point x="1639" y="930"/>
+	<Point x="1548" y="929"/>
+	<Point x="1552" y="671"/>
+	<Point x="1496" y="673"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAROCA. ſ. f. La palabra aſeada, ò la accion
+cariñoſa con que ſe tira à engañar, ò liſonjear
+à alguno, para lograr dél lo que ſe quiere.
+Uſaſe mas comunmente en plural. Lat. Aea-
+mentum. Delinimentum. Lenoeinium. Lop. Phi-
+lom. fol. 113.</Unicode></TextEquiv></TextRegion></Page></PcGts>

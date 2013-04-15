@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00437940">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T11:13:24</Created>
+	<LastChange>2011-12-19T11:37:08</LastChange></Metadata>
+	<Page imageFilename="00437940.tif" imageWidth="2124" imageHeight="3165">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r17" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r18" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="755" y="48"/>
+	<Point x="1181" y="48"/>
+	<Point x="1186" y="122"/>
+	<Point x="1120" y="124"/>
+	<Point x="1066" y="108"/>
+	<Point x="752" y="108"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La Gran Cenobia,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="494" y="117"/>
+	<Point x="1044" y="116"/>
+	<Point x="1045" y="169"/>
+	<Point x="1557" y="169"/>
+	<Point x="1567" y="1224"/>
+	<Point x="1553" y="2124"/>
+	<Point x="535" y="2135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y con voz temeroſa
+me dezia en anguia tan penoſa:
+vès aqui mi Laurèl, mi Cetro toma,
+que tu ſeràs Emperador de Roma;
+cuya voz, en el viento deſatada,
+ſombra fue de mi dicha imaginada:
+Mas deſpierto, ò dormido,
+no ſoy quien tantas vezes atrevido,
+no n grande myerio,
+ſeñor me nombro del Romano Imperio?
+cuya fuerte aprehenon, cuya porﬁa
+me rinde à vna mortal melancolia,
+tanto, que por no vèr en las Ciudades
+la pompa de ſobervias Mageades,
+vengo à habitar deertos orizontes,
+y à ſer Rey de las ﬁeras en los montes?
+Pues  ee ſoy, què mucho las paſsiones,
+que me oprimen deſpierto,
+entre las ſombras del lencio muerto,
+dèn cuerpo, y voz à vanas iluones?
+Si el alma nunca duerme,
+como inmortal, y Ceſar quiſo hazerme
+ee inante pequeño?
+por què no rinde à la ambicion el ſueño?
+Pero què es lo que veo?
+ò los ojos me mienten, ò el deſeo:
+vna Corona de Laurèl ſagrado
+eà ſobre eas peñas, y el dorado
+Cetro mas adelante,
+enigmas ſon de mi diſcurſo errante.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="491" y="2171"/>
+	<Point x="1510" y="2168"/>
+	<Point x="1858" y="2178"/>
+	<Point x="1860" y="2250"/>
+	<Point x="1296" y="2251"/>
+	<Point x="1298" y="2303"/>
+	<Point x="967" y="2303"/>
+	<Point x="952" y="2263"/>
+	<Point x="491" y="2264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Deſcubreſe ſobre vn peñaſco la Corona, y el Cetro entre
+vnas ramas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="513" y="2306"/>
+	<Point x="1124" y="2313"/>
+	<Point x="1132" y="2374"/>
+	<Point x="1629" y="2368"/>
+	<Point x="1630" y="2502"/>
+	<Point x="1525" y="2525"/>
+	<Point x="1534" y="2993"/>
+	<Point x="509" y="3006"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tan declaradas ſeñas,
+no es que, en vez de troncos, eas peñas
+Cetros dàn, y eos viendo mis congoxas,
+me rinden fruto en coronadas hojas.
+Soberana Tyara,
+ſeña feliz de mi fortuna rara,
+perdona,  me atrevo
+à tu Deidad, porque vn aliento nuevo,
+vn eſpiritu altivo, que me inﬂama
+el coraçon, à tanto honor me ama:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="catch-word">
+	<Coords>
+	<Point x="1691" y="2914"/>
+	<Point x="1691" y="3057"/>
+	<Point x="1832" y="3057"/>
+	<Point x="1832" y="2914"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſa-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="credit">
+	<Coords>
+	<Point x="798" y="3091"/>
+	<Point x="799" y="3152"/>
+	<Point x="1326" y="3150"/>
+	<Point x="1333" y="3160"/>
+	<Point x="1344" y="3160"/>
+	<Point x="1345" y="3152"/>
+	<Point x="1453" y="3149"/>
+	<Point x="1460" y="3091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440291">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:42:26</Created>
+	<LastChange>2011-12-19T11:38:56</LastChange></Metadata>
+	<Page imageFilename="00440291.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="250" y="512"/>
+	<Point x="508" y="500"/>
+	<Point x="667" y="494"/>
+	<Point x="712" y="509"/>
+	<Point x="1255" y="504"/>
+	<Point x="1795" y="505"/>
+	<Point x="2233" y="512"/>
+	<Point x="2233" y="2385"/>
+	<Point x="250" y="2385"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>preciſo ideàr otro mas juiﬁcado. Dedicòſe à eo M. Go‐
+din, y conruyò uno de 20 pies de radio, que ſe ſuſpen‐
+dìa por una bola de cobre, que tenìa hecha ﬁrme mas
+arriba del centro, en la barra de hierro principal, que và
+haa el limbo; y fuè del que nos ſervimos en Cuenca en
+las Obſervaciones, que hicimos M. Godin, Don Antonio de
+Uoa, y yo à ﬁnes del año 1739; en las quales empre
+encontrabamos diferencias conderables, cuyo origen no
+pudimos averiguar en mucho tiempo; n embargo algu‐
+nas conderaciones me hicieron notar en èl, que el movi‐
+miento que ſe le daba à el limbo, por medio de tornios,
+con que eaba ſugeto por abaxo, no era igual, ò correſ‐
+pondiente, al que la bola de ſuſpenon hacìa, à cauſa de
+la gran longitud del Inrumento, que le hacìa ﬂexible; y
+como ſu ﬂexibilidad no era igual en todas las ocaones,
+que ſe movìa el Inrumento, ſe ſeguìa preciſa diferencia
+en èl; y por conguiente en las Obſervaciones, las quales
+nos fuè preciſo abandonar, igualmente que el Inrumen‐
+to, y dedicarnos à ideàr otro, que las diera mas juiﬁ‐
+cadas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="252" y="2395"/>
+	<Point x="2245" y="2395"/>
+	<Point x="2245" y="3045"/>
+	<Point x="252" y="3045"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En efeo ſe conguiò deſpues de algunos dias; pero
+ſaliò tan adequado, exao, ﬁrme, y facil ſu manejo, que
+nos hizo notar movimiento eraño en latitud en las Ere‐
+as, de que nos ſervimos en las Obſervaciones, que fue‐
+ron ε de Oriòn, θ de Antinous, y α de Aquario; pues
+mientras ea Erea diſminuìa ſu Declinacion, ε de Oriòn
+la aumentaba.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="245" y="3061"/>
+	<Point x="1111" y="3050"/>
+	<Point x="2242" y="3061"/>
+	<Point x="2245" y="3452"/>
+	<Point x="245" y="3466"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dimos aviſo de ee deſcubrimiento à M. M. Bouguer,
+y la Condamine, quienes, aunque dudaron de eo, que‐
+riendo atribuir algun defeo à nuero Inrumento, que‐
+daron ſatisfechos por varias obſervaciones, que repitieron</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="2040" y="3466"/>
+	<Point x="2190" y="3466"/>
+	<Point x="2190" y="3526"/>
+	<Point x="2040" y="3526"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>con</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="988" y="3997"/>
+	<Point x="1961" y="3997"/>
+	<Point x="1961" y="4097"/>
+	<Point x="988" y="4097"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="745" y="409"/>
+	<Point x="1726" y="409"/>
+	<Point x="1739" y="497"/>
+	<Point x="747" y="490"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="page-number">
+	<Coords>
+	<Point x="1973" y="409"/>
+	<Point x="2159" y="409"/>
+	<Point x="2159" y="502"/>
+	<Point x="1973" y="502"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>271</Unicode></TextEquiv></TextRegion></Page></PcGts>

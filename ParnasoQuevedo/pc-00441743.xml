@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441743">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T20:42:01</Created>
+	<LastChange>2011-07-05T14:26:25</LastChange></Metadata>
+	<Page imageFilename="00441743.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="475" y="500"/>
+	<Point x="1675" y="500"/>
+	<Point x="1675" y="910"/>
+	<Point x="475" y="910"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MELPOMENE,
+MVSA III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="144" y="1789"/>
+	<Point x="2013" y="1789"/>
+	<Point x="2013" y="2210"/>
+	<Point x="144" y="2210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La Parte ſuia de Accion Tragica, que tambien le
+pertenece, queda remittida a la reitucion,
+de quien hoi la uſurpa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="668" y="3096"/>
+	<Point x="1468" y="3096"/>
+	<Point x="1468" y="3203"/>
+	<Point x="668" y="3203"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="heading">
+	<Coords>
+	<Point x="162" y="948"/>
+	<Point x="2010" y="948"/>
+	<Point x="2010" y="1134"/>
+	<Point x="162" y="1134"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CANTA AORA POESIAS FVNEBRES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="110" y="1158"/>
+	<Point x="1972" y="1158"/>
+	<Point x="1972" y="1665"/>
+	<Point x="110" y="1665"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eo es,
+INSCRIPCIONES, EXEQVIAS, I FVEBRALES
+ALABANZAS DE PERSONAS
+INSIGNES.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440290">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T10:42:17</Created>
+	<LastChange>2011-12-19T11:38:56</LastChange></Metadata>
+	<Page imageFilename="00440290.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r10" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r8" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1241" y="370"/>
+	<Point x="2067" y="370"/>
+	<Point x="2067" y="480"/>
+	<Point x="1241" y="480"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="1174" y="541"/>
+	<Point x="2170" y="541"/>
+	<Point x="2170" y="693"/>
+	<Point x="1174" y="693"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SECCION III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="674" y="738"/>
+	<Point x="2635" y="738"/>
+	<Point x="2635" y="1000"/>
+	<Point x="674" y="1000"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sobre la amplitud del arco comprehendido
+entre los dos Obſervatorios.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="1270" y="1087"/>
+	<Point x="2025" y="1087"/>
+	<Point x="2025" y="1209"/>
+	<Point x="1270" y="1209"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITULO I.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="738" y="1238"/>
+	<Point x="2580" y="1238"/>
+	<Point x="2580" y="1567"/>
+	<Point x="738" y="1567"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Deſcripcion del Inrumento, que ſe ideò, propio para hacer
+las Obſervaciones Aronómicas, y uſo,
+que hicímos de èl.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="680" y="1818"/>
+	<Point x="770" y="1820"/>
+	<Point x="851" y="1819"/>
+	<Point x="916" y="1807"/>
+	<Point x="909" y="1702"/>
+	<Point x="904" y="1635"/>
+	<Point x="901" y="1586"/>
+	<Point x="945" y="1587"/>
+	<Point x="2680" y="1600"/>
+	<Point x="2682" y="3129"/>
+	<Point x="2494" y="3132"/>
+	<Point x="2336" y="3132"/>
+	<Point x="2304" y="3143"/>
+	<Point x="2283" y="3143"/>
+	<Point x="2034" y="3135"/>
+	<Point x="1921" y="3131"/>
+	<Point x="1700" y="3123"/>
+	<Point x="1128" y="3119"/>
+	<Point x="1063" y="3135"/>
+	<Point x="697" y="3133"/>
+	<Point x="702" y="2700"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Onocida yà la diancia en toeſas entre los paralelos
+de los dos extremos de la Série de triangulos, ò el
+arco de Meridiano terrere, ſolo faltaba, para determinar
+el valor del grado, deducir la diferencia en Latitud entre
+dichos dos extremos, ò la amplitud del miſmo arco. Para
+praicar ea operacion, evaron los Académicos France‐
+ſes el Inrumento de 12 pies de radio, con el qual ſe hicie‐
+ron las Obſervaciones de la Obliquidad de la Ecliptica,
+que ſe vieron en el Libro primero, donde ſe diò tambien
+la deſcripcion del miſmo Inrumento; mas como ſe le
+conociò à èe el defeo de mucha ﬂexibilidad en la barra
+principal, como quedò advertido a, ſe tuvo por conve‐
+niente, no hacer uſo de èl en eas Obſervaciones, que
+piden ſe emplée la mayor delicadeza; à cauſa, que ſegun
+el arco yà medido cinco ſegundos de yerro en eas huvie-
+ran producido el de 22 toeſas en la medida del grado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="696" y="3139"/>
+	<Point x="878" y="3138"/>
+	<Point x="1071" y="3138"/>
+	<Point x="1130" y="3126"/>
+	<Point x="1850" y="3132"/>
+	<Point x="2292" y="3144"/>
+	<Point x="2312" y="3144"/>
+	<Point x="2334" y="3138"/>
+	<Point x="2664" y="3135"/>
+	<Point x="2664" y="3429"/>
+	<Point x="696" y="3461"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Como ee Inrumento era el unico, que ſe tenía, y
+que pudiera haver do empleado en las Obſervaciones de
+ea eſpecie, haviendole abandonado por ſu defeo, fuè</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="2461" y="3441"/>
+	<Point x="2635" y="3441"/>
+	<Point x="2635" y="3538"/>
+	<Point x="2461" y="3538"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pre-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="990" y="4012"/>
+	<Point x="1958" y="4012"/>
+	<Point x="1958" y="4096"/>
+	<Point x="990" y="4096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="drop-capital">
+	<Coords>
+	<Point x="718" y="1601"/>
+	<Point x="722" y="1813"/>
+	<Point x="831" y="1811"/>
+	<Point x="860" y="1810"/>
+	<Point x="911" y="1801"/>
+	<Point x="897" y="1596"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="footer">
+	<Coords>
+	<Point x="493" y="2712"/>
+	<Point x="493" y="2790"/>
+	<Point x="693" y="2790"/>
+	<Point x="693" y="2712"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a pag. 4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="735" y="341"/>
+	<Point x="735" y="551"/>
+	<Point x="958" y="551"/>
+	<Point x="958" y="341"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>270</Unicode></TextEquiv></TextRegion></Page></PcGts>

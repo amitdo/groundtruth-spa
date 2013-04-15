@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485113">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T05:44:25</Created>
+	<LastChange>2011-05-12T13:40:55</LastChange></Metadata>
+	<Page imageFilename="00485113.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="606" y="3001"/>
+	<Point x="1413" y="3009"/>
+	<Point x="1419" y="3096"/>
+	<Point x="603" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="468" y="178"/>
+	<Point x="1710" y="177"/>
+	<Point x="1698" y="500"/>
+	<Point x="1704" y="1478"/>
+	<Point x="496" y="1489"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nunca quiſe no lo que aora tengo:
+Que's tener en muy poco, lo que's poco:
+Y poder ſoegar mi penſamiento.
+Eo ya nolo alcanço poco apoco:
+Sino que cada vez que a penſar vengo
+Enlo que'oy: ſe m'inche'l ſentimiento
+De cabo a cabo de contentamiento.
+Y ee contentamiento es tan fundado:
+Que aun andare por todos predicando:
+Que amando, o deſamando:
+Se den priea aegar do yo e egado.
+Y  el aſpera via
+Les pudiee morar, por do e paado:
+O mal o bien quiça la moraria:
+Pero morada, quien la paaria:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="454" y="1516"/>
+	<Point x="1687" y="1507"/>
+	<Point x="1690" y="2806"/>
+	<Point x="475" y="2821"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lo que puedo morar a todo el mundo
+Es, que me perdi yo en ee camino:
+Y que anduue por el empre perdido.
+Perdime al primer pao: y al ſegundo,
+Euue ya del todo tan n tino,
+Que'n lo peor quede qua tendido.
+Mi alma por ai paar no vido
+A hombre biuo, en quien ſe guareciee:
+Y  alguno pao, tiro adelante:
+Sin parar vn inante,
+Haa que yo de via le perdiee.
+Ai quede, mas vino
+Primero que del todo anocheciee:
+Quien con la gracia del poder diuino
+El error me quito, y el deſatino.</Unicode></TextEquiv></TextRegion></Page></PcGts>

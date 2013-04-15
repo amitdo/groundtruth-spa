@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442307">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T04:00:14</Created>
+	<LastChange>2012-03-12T14:11:50</LastChange></Metadata>
+	<Page imageFilename="00442307.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="130" y="128"/>
+	<Point x="562" y="164"/>
+	<Point x="883" y="147"/>
+	<Point x="1430" y="158"/>
+	<Point x="1416" y="2180"/>
+	<Point x="1406" y="2180"/>
+	<Point x="1312" y="2187"/>
+	<Point x="1197" y="2171"/>
+	<Point x="1077" y="2198"/>
+	<Point x="124" y="2177"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>guntò que quien era, y que mal ſentia, que tan trie-
+mente ſe quexaua? Don Quixote, creyo n duda, que
+aquel era el Marques de Mantua ſu tio, y aſsi no le
+reſpondio otra coſa, no ſue proſeguir en ſu roman-
+ce, donde le daua cuenta de ſu deſgracia, y de los
+amores del hĳo del Emperante con ſu eſpoſa: to-
+do de la meſma manera que el romance lo canta.
+El labrador eaua admirado, oyendo aqueos diſ-
+parates: y quitandole la viſera, que ya eaua he-
+cha pedaços de los palos, le limpio el roro, que
+le tenia cubierto de poluo. Y apenas le huuo lim-
+piado, quando le conocio, y le dixo: Señor Qui-
+xana (que aſsi ſe deuia de amar quando el tenia
+juyzio. y no auia paado de hidalgo ſoegado, a ca-
+uaero andante) quien a pueo a vuera merced
+dea ſuerte: pero el ſeguia con ſu romance a quan-
+to le preguntaua. Viendo eo el buen hombre, lo
+mejor que pudo, le quitò el peto, y eſpaldar, para ver
+ tenia alguna herida: pero no vio ſangre, ni ſe-
+ñal alguna. Procurò leuantarle del ſuelo, y no con
+poco trabajo, le ſubio ſobre ſu jumento por pare-
+cer cauaeria mas ſoegada. Recogio las armas, haſ-
+ta las aias de la lança, y liolas ſobre Rozinan-
+te, al qual tomó de la rienda, y del cabero al aſno,
+y ſe encaminò hàzia ſu pueblo, bien penſatiuo de oyr
+los diſparates que don Quixote dezia: y no menos
+yua don Quixote, que de puro molido, y quebran-
+tado no ſe podia tener ſobre el borrico, y de quan-
+do en quando daua vnos ſuſpiros que los ponia en el
+cielo, de modo que de nueuo obligò a que el labra-
+dor le preguntae, le dixee, que mal ſentia: y no pa-
+rece no que el diablo le traia a la memoria, Ios
+cuentos acomodados a ſus ſuceos: porque en aquel</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="catch-word">
+	<Coords>
+	<Point x="1220" y="2188"/>
+	<Point x="1403" y="2191"/>
+	<Point x="1395" y="2248"/>
+	<Point x="1211" y="2245"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>punto,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="461" y="2306"/>
+	<Point x="1122" y="2311"/>
+	<Point x="1119" y="2361"/>
+	<Point x="461" y="2356"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="462" y="59"/>
+	<Point x="451" y="138"/>
+	<Point x="528" y="156"/>
+	<Point x="576" y="135"/>
+	<Point x="1036" y="137"/>
+	<Point x="1026" y="63"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1297" y="78"/>
+	<Point x="1297" y="140"/>
+	<Point x="1384" y="140"/>
+	<Point x="1384" y="78"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>16</Unicode></TextEquiv></TextRegion></Page></PcGts>

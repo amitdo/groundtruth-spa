@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442463">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T17:32:53</Created>
+	<LastChange>2012-03-12T14:12:03</LastChange></Metadata>
+	<Page imageFilename="00442463.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="415" y="88"/>
+	<Point x="1119" y="85"/>
+	<Point x="1123" y="114"/>
+	<Point x="1124" y="170"/>
+	<Point x="517" y="174"/>
+	<Point x="517" y="193"/>
+	<Point x="418" y="193"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="158" y="199"/>
+	<Point x="567" y="204"/>
+	<Point x="588" y="200"/>
+	<Point x="948" y="189"/>
+	<Point x="987" y="193"/>
+	<Point x="1084" y="194"/>
+	<Point x="1414" y="199"/>
+	<Point x="1416" y="2137"/>
+	<Point x="1278" y="2137"/>
+	<Point x="1281" y="2150"/>
+	<Point x="931" y="2156"/>
+	<Point x="151" y="2158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſu cabeça pueo el yelmo de Mambrino, ſobre que
+yo hize el juramento que ſabes. Mire vuera mer‐
+ced bien lo que dize, y mejor lo que haze, dixo San‐
+cho, que no querria que fueen otros batanes, que
+nos acabaen de abatanar, y aporrear el ſentido. Va
+late el diablo por hombre, replicò don Quixote,
+que va de yelmo a batanes? No ſe nada, reſpondio
+Sancho, mas afe que  yo pudiera hablar tanto co-
+mo ſolia, que quiça diera tales razones, que vuera
+merced viera que ſe engañ aua en lo  dize. Como
+me puedo engañar en lo que digo, traydor eſcrupu-
+loſo, dixo don Quixote? Dime no ves aquel cauae
+ro que hàzia noſotros viene, ſobre vn cauao ruzio
+rodado, que trae pueo en la cabeça vn yelmo de
+oro? Lo que yo veo y columbro, reſpondio Sancho,
+no es no vn hombre ſobre vn aſno pardo, como el
+mio, que trae ſobre la cabeça vna coſa que relum‐
+bra. Pues ee es el yelmo de Mambrino, dixo don
+Quixote, apartate a vna parte, y dexame con el a ſo‐
+las, veras quan n hablar palabra, por ahorrar del
+tiempo, concluyo ea auentura, y queda por mio el
+yelmo que tanto he deeado. Yo me tengo en cuy-
+dado el apartarme, replico Sancho: mas quiera Dios
+torno a dezir, que oregano ſea, y no batanes. Ya os
+he dicho hermano, que no me menteys ni por pien‐
+ſo mas eo de los batanes, dixo don Quixote, que
+voto, y no digo mas, que os batanee el alma. Caò
+Sancho, con temor que ſu amo no cumpliee el vo-
+to que le auia echado, redondo como vna bola. Es
+pues el caſo que el yelmo, y el cauao, y cauaero,
+que don Quixote vehia, era eo, que en aquel con-
+torno auia dos lugares, el vno tan pequeño, que ni</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1260" y="2159"/>
+	<Point x="1342" y="2146"/>
+	<Point x="1356" y="2147"/>
+	<Point x="1411" y="2152"/>
+	<Point x="1412" y="2201"/>
+	<Point x="1260" y="2203"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tenia</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="447" y="2298"/>
+	<Point x="865" y="2292"/>
+	<Point x="1128" y="2298"/>
+	<Point x="1128" y="2363"/>
+	<Point x="447" y="2363"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1271" y="97"/>
+	<Point x="1271" y="191"/>
+	<Point x="1384" y="191"/>
+	<Point x="1384" y="97"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>94</Unicode></TextEquiv></TextRegion></Page></PcGts>

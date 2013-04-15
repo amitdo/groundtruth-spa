@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444276">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:49:42</Created>
+	<LastChange>2011-12-19T11:39:35</LastChange></Metadata>
+	<Page imageFilename="00444276.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="435" y="247"/>
+	<Point x="438" y="235"/>
+	<Point x="1985" y="234"/>
+	<Point x="2016" y="2648"/>
+	<Point x="452" y="2666"/>
+	<Point x="445" y="1904"/>
+	<Point x="440" y="1209"/>
+	<Point x="438" y="414"/>
+	<Point x="435" y="257"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>perſecuciones. Tan cierto les parecia que
+tenia demonio, que me querian conjurar al-
+gunas perſonas, deo poco ſe me daua a mi,
+mas ſentia quando via que temian los con-
+feores de confearme, o quando ſabia les
+dezian algo. Con todo jamas me podra pe-
+ſar de auer vio eas viones celeiales, y
+por todos los bienes y deleytes del mundo
+ſola vna vez no lo trocara, empre lo tenia
+por gran merced del Señor, y me parece vn
+grandiſsimo theſoro, y el miſmo Señor me
+aeguraua muchas vezes. Yo me via crecer
+en amarle muy mucho, yua me a quexar a el
+de todos eos trabajos, empre ſalia conſo-
+lada de la oracion, y con nueuas fuerças. A
+eos no los oſaua yo contradezir, porque
+via era todo peor que les parecia poca hu-
+mildad, con mi confeor trataua, el empre
+me conſolaua mucho quando me via fati-
+gada. Como las viones fueron creciendo,
+vno de eos que antes me ayudaua, que era
+con quien me confeaua algunas vezes, que
+no podia el miniro, comẽço a dezir que cla
+ro era demonio. Mandãme que ya  no auia
+remedio de reir, que ẽpre me ſantiguaſ-
+ſe quando alguna vion viee, y diee hi-
+gas porque tuuiee por cierto era demonio,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1783" y="2661"/>
+	<Point x="2000" y="2661"/>
+	<Point x="2000" y="2751"/>
+	<Point x="1783" y="2751"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y con</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="628" y="3067"/>
+	<Point x="1573" y="3067"/>
+	<Point x="1573" y="3151"/>
+	<Point x="628" y="3151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="954" y="104"/>
+	<Point x="1569" y="104"/>
+	<Point x="1569" y="208"/>
+	<Point x="954" y="208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="485" y="116"/>
+	<Point x="641" y="116"/>
+	<Point x="641" y="222"/>
+	<Point x="485" y="222"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>348</Unicode></TextEquiv></TextRegion></Page></PcGts>

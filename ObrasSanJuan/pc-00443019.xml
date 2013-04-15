@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443019">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:59:01</Created>
+	<LastChange>2011-03-15T16:51:33</LastChange></Metadata>
+	<Page imageFilename="00443019.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="876" y="94"/>
+	<Point x="876" y="226"/>
+	<Point x="1310" y="205"/>
+	<Point x="1405" y="215"/>
+	<Point x="1413" y="94"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PROLOCO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="400" y="150"/>
+	<Point x="400" y="236"/>
+	<Point x="465" y="236"/>
+	<Point x="465" y="150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>8</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="394" y="263"/>
+	<Point x="394" y="2018"/>
+	<Point x="1907" y="2018"/>
+	<Point x="1907" y="263"/>
+	<Point x="1847" y="223"/>
+	<Point x="1689" y="218"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>yo que ſerà al principio que la començare á leer,
+mas como paſe adelante , irà entendiendo mejor
+lo primero, porque con lo uno ſe va declarando lo otro.
+I  lo leyere la ſegunda vez, entiendo, le parecera mas
+claro, i la dotrina mas ſegura. I  algunas perſonas con
+ea letura no ſe hallaren bien, hazerloha mi poco ſa-
+ber, i baxo eilo: porque la materia de ſuyo buena es,
+i harto neceſaria. Pero pareceme, que aunque ſe eſcri-
+biera mas acabada, i perfetamente de lo que aqui irà,
+no fuera apetecida de muchos; porque aqui no ſe eſcre
+biran coſas mui morales, i ſabroſas para los eſpirituales
+que guan de ir por las que ſon dulces a Dios; no do-
+trina ſuancial i ſolida, a para los unos, como para los
+otros,  quieren paſar a la deſnudez de eſpiritu, que a-
+qui ſe eſcribe. Ni aun mi principal intento es hablar cõ
+todos, no con algunas perſonas de nuera ſagrada Re
+ligion de los Primitivos del Monte Carmelo, a Frailes
+como Monjas, por auermelo ellos pedido, a quien Dios
+haze merced de meter en la ſenda dee Monte; los cua
+les, como ya ean bien deſnudos de las coſas tempora-
+les dee glo, entenderan mejor ea dotrina de la deſ-
+nudez de eſpiritu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="1655" y="2355"/>
+	<Point x="1655" y="2571"/>
+	<Point x="1918" y="2571"/>
+	<Point x="1918" y="2355"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LI-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="767" y="2902"/>
+	<Point x="767" y="3008"/>
+	<Point x="1424" y="3008"/>
+	<Point x="1424" y="2902"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

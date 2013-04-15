@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00445480">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T20:53:31</Created>
+	<LastChange>2011-10-12T11:02:23</LastChange></Metadata>
+	<Page imageFilename="00445480.tif" imageWidth="2783" imageHeight="4005">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r19" index="1"/>
+	<RegionRefIndexed regionRef="r23" index="2"/>
+	<RegionRefIndexed regionRef="r44" index="3"/>
+	<RegionRefIndexed regionRef="r50" index="4"/>
+	<RegionRefIndexed regionRef="r33" index="5"/>
+	<RegionRefIndexed regionRef="r35" index="6"/>
+	<RegionRefIndexed regionRef="r39" index="7"/>
+	<RegionRefIndexed regionRef="r43" index="8"/>
+	<RegionRefIndexed regionRef="r53" index="9"/>
+	<RegionRefIndexed regionRef="r55" index="10"/>
+	<RegionRefIndexed regionRef="r52" index="11"/>
+	<RegionRefIndexed regionRef="r57" index="12"/>
+	<RegionRefIndexed regionRef="r56" index="13"/>
+	<RegionRefIndexed regionRef="r103" index="14"/>
+	<RegionRefIndexed regionRef="r105" index="15"/>
+	<RegionRefIndexed regionRef="r101" index="16"/>
+	<RegionRefIndexed regionRef="r97" index="17"/>
+	<RegionRefIndexed regionRef="r93" index="18"/>
+	<RegionRefIndexed regionRef="r89" index="19"/>
+	<RegionRefIndexed regionRef="r85" index="20"/>
+	<RegionRefIndexed regionRef="r81" index="21"/>
+	<RegionRefIndexed regionRef="r77" index="22"/>
+	<RegionRefIndexed regionRef="r73" index="23"/>
+	<RegionRefIndexed regionRef="r67" index="24"/>
+	<RegionRefIndexed regionRef="r69" index="25"/>
+	<RegionRefIndexed regionRef="r116" index="26"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r9" type="signature-mark">
+	<Coords>
+	<Point x="462" y="3703"/>
+	<Point x="625" y="3703"/>
+	<Point x="625" y="3751"/>
+	<Point x="503" y="3753"/>
+	<Point x="462" y="3751"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tom. II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="credit">
+	<Coords>
+	<Point x="1010" y="3910"/>
+	<Point x="1012" y="3900"/>
+	<Point x="1393" y="3901"/>
+	<Point x="1803" y="3901"/>
+	<Point x="1927" y="3910"/>
+	<Point x="1938" y="3929"/>
+	<Point x="1927" y="3967"/>
+	<Point x="1821" y="3973"/>
+	<Point x="1010" y="3967"/>
+	<Point x="1003" y="3927"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="288" y="305"/>
+	<Point x="1250" y="258"/>
+	<Point x="1259" y="743"/>
+	<Point x="1060" y="738"/>
+	<Point x="731" y="759"/>
+	<Point x="729" y="793"/>
+	<Point x="641" y="799"/>
+	<Point x="540" y="799"/>
+	<Point x="543" y="810"/>
+	<Point x="526" y="811"/>
+	<Point x="525" y="800"/>
+	<Point x="470" y="804"/>
+	<Point x="470" y="815"/>
+	<Point x="450" y="815"/>
+	<Point x="451" y="806"/>
+	<Point x="380" y="808"/>
+	<Point x="376" y="819"/>
+	<Point x="368" y="820"/>
+	<Point x="319" y="813"/>
+	<Point x="317" y="670"/>
+	<Point x="308" y="550"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ciſos para entrar en ea. Lat. Pro aliqua re adi-
+piſcenda, diligentia, udium, ſedulitas. TEJAD.
+Leon prodig. Apolog. 6. Un pobre Hidalgo co-
+mo yo, à quien ha de envidiar no à otro Hi-
+dalgo, vecino y familiar mio, que hace cara-
+vánas de cabaéro, y aſpíra à un hábito? ES-
+TEB. pl. 112. Porque deſpues de haver do Eſ-
+tudiante, Page y ſoldádo, ſolo ee grado y
+caravána me faltaba para doorarme en las
+leyes que profeo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="266" y="823"/>
+	<Point x="347" y="822"/>
+	<Point x="384" y="824"/>
+	<Point x="406" y="816"/>
+	<Point x="434" y="817"/>
+	<Point x="469" y="817"/>
+	<Point x="490" y="814"/>
+	<Point x="549" y="811"/>
+	<Point x="675" y="805"/>
+	<Point x="727" y="806"/>
+	<Point x="750" y="796"/>
+	<Point x="780" y="800"/>
+	<Point x="1251" y="785"/>
+	<Point x="1264" y="1100"/>
+	<Point x="1085" y="1105"/>
+	<Point x="1081" y="1144"/>
+	<Point x="1064" y="1150"/>
+	<Point x="875" y="1154"/>
+	<Point x="844" y="1164"/>
+	<Point x="830" y="1166"/>
+	<Point x="818" y="1161"/>
+	<Point x="781" y="1154"/>
+	<Point x="636" y="1162"/>
+	<Point x="577" y="1164"/>
+	<Point x="551" y="1164"/>
+	<Point x="551" y="1174"/>
+	<Point x="532" y="1175"/>
+	<Point x="414" y="1170"/>
+	<Point x="416" y="1180"/>
+	<Point x="397" y="1184"/>
+	<Point x="397" y="1170"/>
+	<Point x="328" y="1176"/>
+	<Point x="322" y="878"/>
+	<Point x="269" y="875"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CARAVE ſ. m. Lo miſmo que Elero, ò Am-
+bar de cuentas. Es voz de orígen Perano.
+MONTER. DEL R. DON AL. lib. 2. part. 2. cap. 17.
+E tomen una piedra qual dicen caráve, è alim-
+pienla con aquea piedra la caña. PRAGM. DE
+TASS. año 1680. fol. 17. Cada libra de caráve
+no pueda paar de diez y ſeis reales.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords>
+	<Point x="286" y="1187"/>
+	<Point x="304" y="1179"/>
+	<Point x="327" y="1188"/>
+	<Point x="339" y="1186"/>
+	<Point x="376" y="1185"/>
+	<Point x="402" y="1189"/>
+	<Point x="414" y="1182"/>
+	<Point x="426" y="1182"/>
+	<Point x="559" y="1175"/>
+	<Point x="573" y="1176"/>
+	<Point x="610" y="1168"/>
+	<Point x="679" y="1167"/>
+	<Point x="727" y="1168"/>
+	<Point x="759" y="1169"/>
+	<Point x="793" y="1165"/>
+	<Point x="809" y="1162"/>
+	<Point x="835" y="1171"/>
+	<Point x="893" y="1168"/>
+	<Point x="1148" y="1151"/>
+	<Point x="1263" y="1153"/>
+	<Point x="1267" y="1308"/>
+	<Point x="1186" y="1316"/>
+	<Point x="1110" y="1311"/>
+	<Point x="1098" y="1355"/>
+	<Point x="1029" y="1361"/>
+	<Point x="983" y="1355"/>
+	<Point x="755" y="1372"/>
+	<Point x="335" y="1381"/>
+	<Point x="334" y="1242"/>
+	<Point x="283" y="1244"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CARAVERA. ſ. f. La mala muger que anda por
+los cementérios, buſcando modos de atraher
+los hombres. Trahe ea voz Nebrixa en ſu
+Vocabulario. Lat. Buuaria mœcha, .</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords>
+	<Point x="407" y="1905"/>
+	<Point x="411" y="1901"/>
+	<Point x="441" y="1901"/>
+	<Point x="470" y="1910"/>
+	<Point x="541" y="1909"/>
+	<Point x="566" y="1896"/>
+	<Point x="1110" y="1876"/>
+	<Point x="1124" y="1878"/>
+	<Point x="1139" y="1951"/>
+	<Point x="1049" y="1974"/>
+	<Point x="1000" y="1971"/>
+	<Point x="978" y="1983"/>
+	<Point x="962" y="1985"/>
+	<Point x="930" y="1985"/>
+	<Point x="908" y="1974"/>
+	<Point x="884" y="1986"/>
+	<Point x="864" y="1988"/>
+	<Point x="836" y="1976"/>
+	<Point x="695" y="1983"/>
+	<Point x="668" y="1985"/>
+	<Point x="518" y="1990"/>
+	<Point x="490" y="2002"/>
+	<Point x="472" y="2003"/>
+	<Point x="467" y="1993"/>
+	<Point x="409" y="1992"/>
+	<Point x="400" y="1911"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Temet, bidens, curato: nam tibi, credo,
+Confabulator nimius obtigit paor.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords>
+	<Point x="306" y="2003"/>
+	<Point x="358" y="2004"/>
+	<Point x="374" y="2000"/>
+	<Point x="439" y="2005"/>
+	<Point x="490" y="2004"/>
+	<Point x="550" y="2000"/>
+	<Point x="649" y="1994"/>
+	<Point x="685" y="1989"/>
+	<Point x="790" y="1987"/>
+	<Point x="815" y="1999"/>
+	<Point x="925" y="1985"/>
+	<Point x="933" y="1987"/>
+	<Point x="953" y="1997"/>
+	<Point x="1000" y="1981"/>
+	<Point x="1025" y="1987"/>
+	<Point x="1058" y="1990"/>
+	<Point x="1125" y="1978"/>
+	<Point x="1281" y="1975"/>
+	<Point x="1293" y="2180"/>
+	<Point x="923" y="2194"/>
+	<Point x="896" y="2236"/>
+	<Point x="867" y="2238"/>
+	<Point x="625" y="2247"/>
+	<Point x="592" y="2261"/>
+	<Point x="561" y="2251"/>
+	<Point x="362" y="2254"/>
+	<Point x="359" y="2063"/>
+	<Point x="309" y="2055"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CARAY. ſ. m. Eſpécie de concha de tortúga ma-
+rína, que rve para diferentes uſos y para em-
+butídos. Lat. Teudinis crua, vel tea. PRAGM.
+DE TASS. año 1680. fol. 13. Cada ſortija de con-
+cha de caráy à medio real.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords>
+	<Point x="309" y="2263"/>
+	<Point x="455" y="2264"/>
+	<Point x="525" y="2259"/>
+	<Point x="574" y="2257"/>
+	<Point x="589" y="2266"/>
+	<Point x="612" y="2257"/>
+	<Point x="631" y="2258"/>
+	<Point x="782" y="2248"/>
+	<Point x="871" y="2242"/>
+	<Point x="1292" y="2233"/>
+	<Point x="1298" y="2540"/>
+	<Point x="465" y="2561"/>
+	<Point x="362" y="2566"/>
+	<Point x="366" y="2470"/>
+	<Point x="362" y="2320"/>
+	<Point x="310" y="2320"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CARAZA. ſ. f. aum. de Cara. La cara grande,
+redonda y abultada. Lat. Obeus &amp; corpulentior
+vultus. QUEV. Cart. del Cab. de la tenaza. Ha-
+me caído en gracia lo que dixo con un dien-
+te y media muela la ſeñora Encína: Qué cará-
+za de eudiantón. GONG. Rom. var. 28.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords>
+	<Point x="470" y="2571"/>
+	<Point x="980" y="2553"/>
+	<Point x="980" y="2754"/>
+	<Point x="565" y="2772"/>
+	<Point x="475" y="2775"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El que por tres veces quiere
+en las tres doradas bolas
+de las torres de Marruecos,
+vér ſu caráza redonda.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="paragraph">
+	<Coords>
+	<Point x="333" y="2772"/>
+	<Point x="416" y="2780"/>
+	<Point x="412" y="2779"/>
+	<Point x="932" y="2761"/>
+	<Point x="995" y="2755"/>
+	<Point x="1015" y="2758"/>
+	<Point x="1311" y="2744"/>
+	<Point x="1328" y="3109"/>
+	<Point x="580" y="3135"/>
+	<Point x="564" y="3183"/>
+	<Point x="473" y="3193"/>
+	<Point x="440" y="3193"/>
+	<Point x="433" y="3179"/>
+	<Point x="394" y="3179"/>
+	<Point x="386" y="3033"/>
+	<Point x="386" y="2840"/>
+	<Point x="329" y="2833"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CARBASO. ſ. m. Género de lino precioſo de
+que ſe hacían velas de navíos, y tambien tú-
+nicas para veirſe. Nebrixa dice fué primera-
+mente haado en Eſpaña. Es voz puramente
+Latína carbaſus. COMEND. ſob. las 300. fol.65.
+Cárbaſo. es una eſpécie de lino, que fué prime-
+ro haada en Eſpaña cabe la Ciudad de Tar-
+ragóna.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r55" type="paragraph">
+	<Coords>
+	<Point x="338" y="3190"/>
+	<Point x="385" y="3177"/>
+	<Point x="393" y="3199"/>
+	<Point x="476" y="3198"/>
+	<Point x="535" y="3197"/>
+	<Point x="581" y="3186"/>
+	<Point x="612" y="3168"/>
+	<Point x="652" y="3178"/>
+	<Point x="1323" y="3155"/>
+	<Point x="1323" y="3268"/>
+	<Point x="1209" y="3268"/>
+	<Point x="1183" y="3271"/>
+	<Point x="1044" y="3272"/>
+	<Point x="1000" y="3325"/>
+	<Point x="970" y="3327"/>
+	<Point x="945" y="3316"/>
+	<Point x="876" y="3329"/>
+	<Point x="872" y="3330"/>
+	<Point x="825" y="3334"/>
+	<Point x="745" y="3323"/>
+	<Point x="545" y="3336"/>
+	<Point x="529" y="3338"/>
+	<Point x="483" y="3340"/>
+	<Point x="395" y="3340"/>
+	<Point x="390" y="3239"/>
+	<Point x="337" y="3241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CARBASO. Se toma tambien por las miſmas ve-
+las de los navíos. Es uſado en lo Poético. Lat.
+Carboſa, orum. MEN. copl. 165.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r57" type="paragraph">
+	<Coords>
+	<Point x="497" y="3341"/>
+	<Point x="752" y="3333"/>
+	<Point x="852" y="3340"/>
+	<Point x="926" y="3326"/>
+	<Point x="980" y="3331"/>
+	<Point x="1048" y="3322"/>
+	<Point x="1174" y="3325"/>
+	<Point x="1181" y="3416"/>
+	<Point x="1070" y="3425"/>
+	<Point x="997" y="3429"/>
+	<Point x="968" y="3428"/>
+	<Point x="968" y="3418"/>
+	<Point x="838" y="3423"/>
+	<Point x="703" y="3428"/>
+	<Point x="600" y="3443"/>
+	<Point x="503" y="3441"/>
+	<Point x="499" y="3431"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y ví las anténas por medio quebrar,
+Aunque los cárbaſos no deſplegaban.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r67" type="paragraph">
+	<Coords>
+	<Point x="1389" y="3152"/>
+	<Point x="1486" y="3155"/>
+	<Point x="1500" y="3154"/>
+	<Point x="1519" y="3155"/>
+	<Point x="1705" y="3141"/>
+	<Point x="2371" y="3126"/>
+	<Point x="2383" y="3545"/>
+	<Point x="1903" y="3560"/>
+	<Point x="1882" y="3594"/>
+	<Point x="1808" y="3596"/>
+	<Point x="1753" y="3613"/>
+	<Point x="1708" y="3600"/>
+	<Point x="1653" y="3600"/>
+	<Point x="1646" y="3607"/>
+	<Point x="1633" y="3610"/>
+	<Point x="1599" y="3611"/>
+	<Point x="1443" y="3608"/>
+	<Point x="1441" y="3483"/>
+	<Point x="1440" y="3203"/>
+	<Point x="1386" y="3210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CARBONCILLO. ſ. m. El que rve para dibu-
+jar en la Pintúra, y ſe hace de palios de ro-
+méro, brezo, aveáno, ò ſáuce, quemándolos
+en un cañón de hierro, y apagándolos en ce-
+niza fria. Lat. Carbunculus, i. PALOM. Muſ. Pi.
+lib. 4. cap. 2. §. 2. El génio de la Pintúra ſe de-
+xa conocer en las traveſúras de la puerícia, yá
+con un carboncio formando con mal digeridas
+ſeñas algunas ﬁgúras.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r69" type="paragraph">
+	<Coords>
+	<Point x="1392" y="3616"/>
+	<Point x="1402" y="3615"/>
+	<Point x="1548" y="3615"/>
+	<Point x="1659" y="3610"/>
+	<Point x="1716" y="3606"/>
+	<Point x="1747" y="3627"/>
+	<Point x="1759" y="3620"/>
+	<Point x="1763" y="3612"/>
+	<Point x="1785" y="3604"/>
+	<Point x="2371" y="3582"/>
+	<Point x="2379" y="3630"/>
+	<Point x="2295" y="3635"/>
+	<Point x="2285" y="3652"/>
+	<Point x="2262" y="3647"/>
+	<Point x="2236" y="3638"/>
+	<Point x="2019" y="3660"/>
+	<Point x="2011" y="3656"/>
+	<Point x="1937" y="3647"/>
+	<Point x="1862" y="3650"/>
+	<Point x="1786" y="3659"/>
+	<Point x="1400" y="3667"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CARBONERA. ſ. f. El lugár donde ſe guar-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r73" type="paragraph">
+	<Coords>
+	<Point x="1382" y="2891"/>
+	<Point x="1720" y="2888"/>
+	<Point x="1784" y="2888"/>
+	<Point x="1818" y="2889"/>
+	<Point x="1858" y="2882"/>
+	<Point x="1900" y="2877"/>
+	<Point x="1965" y="2879"/>
+	<Point x="1984" y="2883"/>
+	<Point x="2043" y="2884"/>
+	<Point x="2066" y="2875"/>
+	<Point x="2084" y="2870"/>
+	<Point x="2359" y="2869"/>
+	<Point x="2360" y="3073"/>
+	<Point x="1747" y="3091"/>
+	<Point x="1661" y="3097"/>
+	<Point x="1633" y="3136"/>
+	<Point x="1553" y="3151"/>
+	<Point x="1515" y="3153"/>
+	<Point x="1490" y="3151"/>
+	<Point x="1433" y="3145"/>
+	<Point x="1433" y="3097"/>
+	<Point x="1434" y="2952"/>
+	<Point x="1379" y="2949"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CARBONADILLA. ſ. f. dim. de Carbonáda.
+La que es pequéña. MONTIñ. Art. de Cocin.
+fol. 221. Tomarás tres libras de ternéra de
+pierna, y cortarlas has en carbonadias mui
+delgadas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r77" type="paragraph">
+	<Coords>
+	<Point x="1369" y="2635"/>
+	<Point x="1747" y="2629"/>
+	<Point x="1760" y="2640"/>
+	<Point x="1785" y="2623"/>
+	<Point x="1800" y="2620"/>
+	<Point x="1957" y="2627"/>
+	<Point x="2051" y="2617"/>
+	<Point x="2122" y="2617"/>
+	<Point x="2355" y="2610"/>
+	<Point x="2356" y="2858"/>
+	<Point x="2056" y="2865"/>
+	<Point x="2015" y="2874"/>
+	<Point x="1997" y="2880"/>
+	<Point x="1986" y="2880"/>
+	<Point x="1964" y="2869"/>
+	<Point x="1830" y="2874"/>
+	<Point x="1803" y="2884"/>
+	<Point x="1787" y="2886"/>
+	<Point x="1767" y="2884"/>
+	<Point x="1424" y="2884"/>
+	<Point x="1422" y="2697"/>
+	<Point x="1364" y="2689"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CARBONADA. ſ. f. La carne cocída, que deſ-
+pues ſe aa en las aſcuas ò en las parrias, ha-
+ciendo unas chulétas. Lat. Toa ſuper prunas
+caro. QUEV. Fort. Plutón de ſus bizazas ſacó
+unas carbonádas, que Proſerpina le dió.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r81" type="paragraph">
+	<Coords>
+	<Point x="1464" y="2581"/>
+	<Point x="1889" y="2573"/>
+	<Point x="1958" y="2573"/>
+	<Point x="1968" y="2569"/>
+	<Point x="2003" y="2569"/>
+	<Point x="2110" y="2571"/>
+	<Point x="2113" y="2611"/>
+	<Point x="2007" y="2610"/>
+	<Point x="1963" y="2622"/>
+	<Point x="1935" y="2625"/>
+	<Point x="1815" y="2617"/>
+	<Point x="1795" y="2617"/>
+	<Point x="1761" y="2633"/>
+	<Point x="1745" y="2623"/>
+	<Point x="1623" y="2627"/>
+	<Point x="1463" y="2629"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Favia, carbo, fumus, e felicitas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r85" type="paragraph">
+	<Coords>
+	<Point x="1344" y="2220"/>
+	<Point x="1426" y="2229"/>
+	<Point x="1569" y="2223"/>
+	<Point x="1585" y="2218"/>
+	<Point x="1603" y="2227"/>
+	<Point x="1650" y="2223"/>
+	<Point x="1674" y="2221"/>
+	<Point x="1687" y="2222"/>
+	<Point x="1711" y="2225"/>
+	<Point x="1803" y="2215"/>
+	<Point x="1820" y="2217"/>
+	<Point x="1856" y="2218"/>
+	<Point x="1902" y="2214"/>
+	<Point x="1948" y="2213"/>
+	<Point x="1964" y="2214"/>
+	<Point x="2044" y="2209"/>
+	<Point x="2116" y="2219"/>
+	<Point x="2142" y="2205"/>
+	<Point x="2173" y="2214"/>
+	<Point x="2244" y="2203"/>
+	<Point x="2344" y="2197"/>
+	<Point x="2345" y="2559"/>
+	<Point x="2148" y="2561"/>
+	<Point x="1997" y="2561"/>
+	<Point x="1949" y="2572"/>
+	<Point x="1922" y="2571"/>
+	<Point x="1447" y="2573"/>
+	<Point x="1411" y="2575"/>
+	<Point x="1402" y="2281"/>
+	<Point x="1347" y="2276"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tornaronſe carbónes, dichas ſon de hombres. Refr.
+que explíca la inſubéncia de las felicidades
+y bienes de los hombres, que ſe deſaparecen
+aun antes de ſu logro. Alúde à los theſoros,
+que el vulgo dice ſe han vuelto carbónes à los
+que ván á deſcubrirlos, por haver comunica-
+do à otros el ſueño ò la ſuperición. Lat.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r89" type="paragraph">
+	<Coords>
+	<Point x="1458" y="2171"/>
+	<Point x="1755" y="2167"/>
+	<Point x="1831" y="2166"/>
+	<Point x="1914" y="2171"/>
+	<Point x="2076" y="2160"/>
+	<Point x="2258" y="2156"/>
+	<Point x="2252" y="2194"/>
+	<Point x="2124" y="2198"/>
+	<Point x="2111" y="2210"/>
+	<Point x="2088" y="2210"/>
+	<Point x="2075" y="2198"/>
+	<Point x="1871" y="2204"/>
+	<Point x="1857" y="2215"/>
+	<Point x="1833" y="2216"/>
+	<Point x="1810" y="2208"/>
+	<Point x="1792" y="2215"/>
+	<Point x="1767" y="2210"/>
+	<Point x="1753" y="2218"/>
+	<Point x="1739" y="2219"/>
+	<Point x="1695" y="2213"/>
+	<Point x="1625" y="2222"/>
+	<Point x="1612" y="2222"/>
+	<Point x="1588" y="2209"/>
+	<Point x="1569" y="2221"/>
+	<Point x="1457" y="2220"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cùm frigus urget, ligna ne emeris prudens.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r93" type="paragraph">
+	<Coords>
+	<Point x="1348" y="1967"/>
+	<Point x="1456" y="1967"/>
+	<Point x="1623" y="1965"/>
+	<Point x="1659" y="1963"/>
+	<Point x="1704" y="1971"/>
+	<Point x="2075" y="1950"/>
+	<Point x="2333" y="1939"/>
+	<Point x="2337" y="2141"/>
+	<Point x="2263" y="2148"/>
+	<Point x="1753" y="2164"/>
+	<Point x="1515" y="2168"/>
+	<Point x="1403" y="2165"/>
+	<Point x="1403" y="2022"/>
+	<Point x="1347" y="2016"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ni carbón ni leña no compres quando hiela. Refr.
+que enſéña que las coſas ſe han de hacer, y
+tratar en tiempos oportúnos, pues fuera de
+eos, ò no rven, ò ſon mas cooſas. Lat.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r97" type="paragraph">
+	<Coords>
+	<Point x="1335" y="1654"/>
+	<Point x="1477" y="1655"/>
+	<Point x="1542" y="1655"/>
+	<Point x="1559" y="1664"/>
+	<Point x="1608" y="1665"/>
+	<Point x="1669" y="1664"/>
+	<Point x="1709" y="1651"/>
+	<Point x="1736" y="1650"/>
+	<Point x="1920" y="1644"/>
+	<Point x="1927" y="1655"/>
+	<Point x="1969" y="1654"/>
+	<Point x="2033" y="1655"/>
+	<Point x="2058" y="1638"/>
+	<Point x="2320" y="1637"/>
+	<Point x="2329" y="1884"/>
+	<Point x="1821" y="1904"/>
+	<Point x="1792" y="1949"/>
+	<Point x="1763" y="1951"/>
+	<Point x="1736" y="1964"/>
+	<Point x="1706" y="1965"/>
+	<Point x="1682" y="1952"/>
+	<Point x="1647" y="1950"/>
+	<Point x="1641" y="1962"/>
+	<Point x="1614" y="1963"/>
+	<Point x="1538" y="1956"/>
+	<Point x="1526" y="1964"/>
+	<Point x="1494" y="1965"/>
+	<Point x="1489" y="1953"/>
+	<Point x="1403" y="1959"/>
+	<Point x="1392" y="1944"/>
+	<Point x="1392" y="1708"/>
+	<Point x="1336" y="1707"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ear hecho un carbón. Phraſe que ſe dice de las
+coſas que ſe han toado mucho, eando à la
+lumbre, y mas comunmente de las viandas,
+que por deſcuido ſe queman al hacerſe, por-
+que no ſe vuelven, ò menean. Lat. Velut carbo-
+nem uum quid ee.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r101" type="paragraph">
+	<Coords>
+	<Point x="1332" y="1298"/>
+	<Point x="1375" y="1297"/>
+	<Point x="1383" y="1308"/>
+	<Point x="1433" y="1308"/>
+	<Point x="1518" y="1309"/>
+	<Point x="1547" y="1295"/>
+	<Point x="1727" y="1288"/>
+	<Point x="1763" y="1288"/>
+	<Point x="1787" y="1298"/>
+	<Point x="1951" y="1284"/>
+	<Point x="2313" y="1286"/>
+	<Point x="2320" y="1581"/>
+	<Point x="2127" y="1582"/>
+	<Point x="2130" y="1632"/>
+	<Point x="1987" y="1634"/>
+	<Point x="1975" y="1649"/>
+	<Point x="1949" y="1648"/>
+	<Point x="1935" y="1637"/>
+	<Point x="1875" y="1640"/>
+	<Point x="1698" y="1642"/>
+	<Point x="1664" y="1658"/>
+	<Point x="1639" y="1657"/>
+	<Point x="1606" y="1644"/>
+	<Point x="1382" y="1647"/>
+	<Point x="1383" y="1356"/>
+	<Point x="1330" y="1350"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CARBON. Metaphoricamente ſe toma por aque-
+as coſas, que obſcurecen, ò manchan la re-
+putacion, la conciencia, la nobleza, &amp;c. Lat.
+Carbo, onis. PELLIC. Argen. part. 2. fol. 14. Pa-
+ra que aſsi conozcas qual de tus vaaos han
+de ſer honrados con alabanzas, y qual ſeñala-
+do con el negro carbón de la perfídia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r103" type="paragraph">
+	<Coords>
+	<Point x="1350" y="259"/>
+	<Point x="1982" y="245"/>
+	<Point x="2116" y="250"/>
+	<Point x="2297" y="254"/>
+	<Point x="2294" y="511"/>
+	<Point x="1548" y="525"/>
+	<Point x="1525" y="561"/>
+	<Point x="1502" y="562"/>
+	<Point x="1474" y="573"/>
+	<Point x="1450" y="574"/>
+	<Point x="1454" y="562"/>
+	<Point x="1356" y="567"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>manérá ele toneléte. F. HERR. ſob. la Eleg. 1.
+de Garcil. Coronabanlos por la mayor parte
+con guirnaldas de cañas, y cubiertos haa el
+omblígo de un cárbaſo, que es veidúra ancha
+y ﬂoxa, y deſcubiertos la parte ſuperior del
+cuerpo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r105" type="paragraph">
+	<Coords>
+	<Point x="1310" y="575"/>
+	<Point x="1410" y="575"/>
+	<Point x="1466" y="576"/>
+	<Point x="1484" y="573"/>
+	<Point x="1527" y="571"/>
+	<Point x="1544" y="569"/>
+	<Point x="2298" y="556"/>
+	<Point x="2312" y="1073"/>
+	<Point x="2308" y="1219"/>
+	<Point x="2112" y="1222"/>
+	<Point x="2116" y="1273"/>
+	<Point x="1872" y="1278"/>
+	<Point x="1848" y="1279"/>
+	<Point x="1842" y="1290"/>
+	<Point x="1804" y="1291"/>
+	<Point x="1799" y="1278"/>
+	<Point x="1530" y="1286"/>
+	<Point x="1520" y="1297"/>
+	<Point x="1512" y="1303"/>
+	<Point x="1481" y="1286"/>
+	<Point x="1380" y="1287"/>
+	<Point x="1363" y="633"/>
+	<Point x="1308" y="622"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CARBON. ſ. m. La leña de vários árboles: co-
+mo carraſco, encína y otros, la qual ſe ha he-
+cho braſa en un horno, y ſe ha apagado con
+tierra, dexándola con diſpocion de volverſe
+à encender. Viene del Latino Carbo, onis, que
+gniﬁca lo miſmo. ACOST. Hi. Ind. lib. 4.
+cap. 5. Para eo hacían unos como hornios,
+donde el viento ſoplae recio, y con leña y
+carbón hacían ſu operación. QUEV. Fort. De
+mejor gana gaaría mi carbón en quemarte
+empapelado con tus obras, que en venderle.
+ESTEB. pl. 45. Hacía de dia entierros de leños
+y carbónes, y à la noche ſacaba los tales muer-
+tos à que fueeń refrigério de vivos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r106" type="header">
+	<Coords>
+	<Point x="690" y="212"/>
+	<Point x="754" y="195"/>
+	<Point x="855" y="212"/>
+	<Point x="867" y="243"/>
+	<Point x="855" y="272"/>
+	<Point x="757" y="280"/>
+	<Point x="690" y="272"/>
+	<Point x="670" y="249"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAR</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r108" type="header">
+	<Coords>
+	<Point x="1668" y="179"/>
+	<Point x="1843" y="179"/>
+	<Point x="1843" y="241"/>
+	<Point x="1668" y="241"/>
+	<Point x="1664" y="213"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAR</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r112" type="page-number">
+	<Coords>
+	<Point x="2130" y="179"/>
+	<Point x="2196" y="177"/>
+	<Point x="2239" y="179"/>
+	<Point x="2239" y="249"/>
+	<Point x="2226" y="250"/>
+	<Point x="2130" y="249"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>163</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r115" type="signature-mark">
+	<Coords>
+	<Point x="1914" y="3650"/>
+	<Point x="1983" y="3656"/>
+	<Point x="1983" y="3705"/>
+	<Point x="1907" y="3705"/>
+	<Point x="1900" y="3662"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>X2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r116" type="catch-word">
+	<Coords>
+	<Point x="2318" y="3642"/>
+	<Point x="2378" y="3642"/>
+	<Point x="2378" y="3681"/>
+	<Point x="2347" y="3692"/>
+	<Point x="2318" y="3681"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>da</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="paragraph">
+	<Coords>
+	<Point x="291" y="1594"/>
+	<Point x="315" y="1592"/>
+	<Point x="340" y="1606"/>
+	<Point x="394" y="1592"/>
+	<Point x="910" y="1578"/>
+	<Point x="930" y="1574"/>
+	<Point x="971" y="1571"/>
+	<Point x="993" y="1577"/>
+	<Point x="1179" y="1564"/>
+	<Point x="1266" y="1566"/>
+	<Point x="1283" y="1816"/>
+	<Point x="1275" y="1829"/>
+	<Point x="1252" y="1829"/>
+	<Point x="1089" y="1826"/>
+	<Point x="1071" y="1867"/>
+	<Point x="535" y="1890"/>
+	<Point x="519" y="1902"/>
+	<Point x="501" y="1901"/>
+	<Point x="499" y="1893"/>
+	<Point x="414" y="1895"/>
+	<Point x="382" y="1890"/>
+	<Point x="373" y="1906"/>
+	<Point x="360" y="1906"/>
+	<Point x="342" y="1905"/>
+	<Point x="340" y="1647"/>
+	<Point x="295" y="1642"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Oveja cornúda requiere tu cordéro, en mala ho-
+ra topae con Paór caravéro. Refr. que acon-
+ſéja que quando ſe deſcuida aquel que tiene
+obligación de mirar por otros, deben eos
+mirar por sí y deſpertar para reparar ſu falta,
+y no experimentar ſus efeos. Lat.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords>
+	<Point x="287" y="1386"/>
+	<Point x="749" y="1374"/>
+	<Point x="961" y="1364"/>
+	<Point x="1212" y="1360"/>
+	<Point x="1267" y="1357"/>
+	<Point x="1285" y="1553"/>
+	<Point x="1202" y="1556"/>
+	<Point x="961" y="1563"/>
+	<Point x="943" y="1562"/>
+	<Point x="935" y="1572"/>
+	<Point x="920" y="1574"/>
+	<Point x="922" y="1568"/>
+	<Point x="402" y="1586"/>
+	<Point x="332" y="1598"/>
+	<Point x="342" y="1445"/>
+	<Point x="286" y="1447"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CARAVERO. ſ. m. El que aſsie mucho à la
+converſacion, deſcuidando, y Poſponiendo lo
+que es de ſu obligación. Lat. Cooquiis &amp; con-
+fabulationibus contubernalium aſsiduus comes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="paragraph">
+	<Coords>
+	<Point x="388" y="3440"/>
+	<Point x="468" y="3455"/>
+	<Point x="559" y="3452"/>
+	<Point x="650" y="3438"/>
+	<Point x="664" y="3437"/>
+	<Point x="823" y="3429"/>
+	<Point x="921" y="3431"/>
+	<Point x="944" y="3432"/>
+	<Point x="1072" y="3428"/>
+	<Point x="1338" y="3424"/>
+	<Point x="1336" y="3579"/>
+	<Point x="1036" y="3581"/>
+	<Point x="968" y="3583"/>
+	<Point x="922" y="3597"/>
+	<Point x="891" y="3588"/>
+	<Point x="688" y="3586"/>
+	<Point x="657" y="3634"/>
+	<Point x="581" y="3644"/>
+	<Point x="515" y="3645"/>
+	<Point x="401" y="3644"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BROCENS. Annot. à ea copla. Anténa es un
+largo palo, que hace cruz en el máil, y dél
+ſe cuelgan las velas: Cárbaſos ſe aman las miſ-
+mas velas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r56" type="paragraph">
+	<Coords>
+	<Point x="354" y="3652"/>
+	<Point x="1333" y="3628"/>
+	<Point x="1337" y="3686"/>
+	<Point x="954" y="3697"/>
+	<Point x="360" y="3701"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CARBASO. Se toma tambien por una veidúra à</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442523">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T01:43:09</Created>
+	<LastChange>2012-03-12T14:12:06</LastChange></Metadata>
+	<Page imageFilename="00442523.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="400" y="71"/>
+	<Point x="506" y="68"/>
+	<Point x="1005" y="63"/>
+	<Point x="1050" y="64"/>
+	<Point x="1127" y="63"/>
+	<Point x="1145" y="151"/>
+	<Point x="1122" y="172"/>
+	<Point x="497" y="187"/>
+	<Point x="487" y="183"/>
+	<Point x="404" y="177"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="163" y="189"/>
+	<Point x="1435" y="187"/>
+	<Point x="1417" y="2179"/>
+	<Point x="1313" y="2192"/>
+	<Point x="1292" y="2193"/>
+	<Point x="1285" y="2194"/>
+	<Point x="1275" y="2194"/>
+	<Point x="947" y="2179"/>
+	<Point x="571" y="2201"/>
+	<Point x="140" y="2198"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ços? pero no pudo, donde ſe puede echar de ver, la ﬁ-
+neza de ſu temple. A lo qual, reſpondio Sancho, viue
+Dios ſeñor cauaero de la trie Figura, que no pue‐
+do ſufrir, ni euar en paciencia, algunas coſas que
+vuera merced dize, y que por eas vengo a imagi-
+nar, que todo quanto me dize de cauaerias, y de al
+cançar Reynos, è Imperios, de dar Inſulas, y de ha-
+zer otras mercedes y grandezas, como es vſo de ca‐
+uaeros andantes, que todo deue de ſer coſa de viẽ-
+to y mentira, y todo paraña, o patraña, o como lo
+amaremos. Porque quien oyere dezir a vuera
+merced,  vna bazia de barbero, es eI yelmo de Mã-
+brino, y que no ſalga de ee error, en mas de qua-
+tro dias, que ha de penſar, no que quien tal dize y
+aﬁrma, deue de tener guero el juyzio. La bazia yo la
+euo en el coal, toda aboada, y euola para adere
+çarla en mi caſa, y hazerme la barba en ea,  Dios
+me diere tanta gracia, que algun dia me vea con mi
+muger y hijos. Mira Sancho, por el miſmo que denã
+tes jurae, te juro, dixo don Quixote, que tienes el
+mas corto entendimiento, que tiene, ni tuuo eſcude
+ro en el mundo: que es poſsible, que en quanto ha 
+andas conmigo, no has echado de ver, que todas las
+coſas de los cauaeros andantes, parecen quimeras,
+necedades, y deſatinos, y que ſon todas hechas al re-
+ues? Y no porque ſea eo an, no porque andan en‐
+tre noſotros empre, vna caterua de encantadores,
+que todas nueras coſas mudan y truecan, y les buel
+uen, ſegun ſu guo, y ſegun tienen la gana de fauore
+cernos o deruyrnos, y aſsi eo que a ti te parece
+bazia de barbero, me parece a mi el yelmo de Mam
+brino, y a otro le parecera otra coſa. Y fue rara pro-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="452" y="2279"/>
+	<Point x="1125" y="2291"/>
+	<Point x="1136" y="2345"/>
+	<Point x="1137" y="2364"/>
+	<Point x="445" y="2356"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1277" y="70"/>
+	<Point x="1277" y="171"/>
+	<Point x="1458" y="171"/>
+	<Point x="1458" y="70"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>124</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="900" y="2193"/>
+	<Point x="900" y="2266"/>
+	<Point x="1067" y="2266"/>
+	<Point x="1067" y="2193"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Q 4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1202" y="2200"/>
+	<Point x="1202" y="2271"/>
+	<Point x="1400" y="2271"/>
+	<Point x="1400" y="2200"/>
+	<Point x="1303" y="2194"/>
+	<Point x="1262" y="2198"/>
+	<Point x="1230" y="2205"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>uiden‐</Unicode></TextEquiv></TextRegion></Page></PcGts>

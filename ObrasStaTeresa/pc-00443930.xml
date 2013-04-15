@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443930">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T11:06:33</Created>
+	<LastChange>2011-12-19T11:39:15</LastChange></Metadata>
+	<Page imageFilename="00443930.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="507" y="254"/>
+	<Point x="2088" y="254"/>
+	<Point x="2088" y="2642"/>
+	<Point x="507" y="2642"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y por tae tiene Chriﬆo, quando en el Euan‐
+gelio para diﬀerenciar al malo del bueno, nos
+remite ſolamente a ſusfruﬆos. De ſus fru‐
+os, dize, los conocereys. An que la virtud
+yſanidad de la madre Tereſa que viendo‐
+la a ea me pudiera ſer dudoſay incierta, ea
+miſma aora no viendola, y viendo ſus libros,
+y las obras de ſus manos que ſon ſus hijas ten‐
+go por cierta y muy clara. Porque por la vir‐
+tud que en todas reſplandece ſe conoce n en‐
+gaño la mucha gracia que puſo Dios en la
+que hizo para madre dee nueuo milagro,
+que por tal deue ſer tenido, lo que en eas
+Dios aorahaze, y por eas. Que  es mila‐
+gro lo que auiene fuera de lo que por orden
+natural acontece, ay en eﬆe hecho tantas co‐
+ſas extraordinarias y nueuas que amarle mi
+lagro es poco, porque es vn ayuntamiento de
+muchos milagros. Que vn milagro es que vna
+muger, y ſola ayareduzido a perfecion vna
+orden en mugeresy en hombres. Y otro la grã‐
+de perfecion a que los reduxo: y otro y tercero
+el grãdiβimo crecimiẽto a que havenido entã</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="catch-word">
+	<Coords>
+	<Point x="1857" y="2652"/>
+	<Point x="2080" y="2652"/>
+	<Point x="2080" y="2764"/>
+	<Point x="1857" y="2764"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pocos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="602" y="3050"/>
+	<Point x="1578" y="3050"/>
+	<Point x="1578" y="3157"/>
+	<Point x="602" y="3157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="530" y="140"/>
+	<Point x="530" y="240"/>
+	<Point x="623" y="240"/>
+	<Point x="623" y="140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2</Unicode></TextEquiv></TextRegion></Page></PcGts>

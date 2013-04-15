@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485043">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T00:06:42</Created>
+	<LastChange>2011-05-12T13:40:47</LastChange></Metadata>
+	<Page imageFilename="00485043.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r12" type="credit">
+	<Coords>
+	<Point x="626" y="3015"/>
+	<Point x="1407" y="3015"/>
+	<Point x="1407" y="3094"/>
+	<Point x="626" y="3094"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="418" y="1426"/>
+	<Point x="1670" y="1426"/>
+	<Point x="1690" y="2073"/>
+	<Point x="1670" y="2558"/>
+	<Point x="418" y="2558"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quanto oyo me pone ſobreſalto.
+Las malas nueuas empre las barrunto:
+Para mi no ay palabra deſcuy dada.
+No oſo preguntar, pero pregunto:
+En iuntandoſe dos, luego ai ſalto:
+Matan me mil, que pienſan no hazer nada.
+Todo en todos m'enfada.
+quantos me hablan, piẽſo que m' engañan:
+Y ai luego m'enſañan.
+Enojome con eos, y bien ſe,
+Que no tengo de que.
+E de boluer a enojarme conmigo:
+Y ai de mi y de todos ſo enemigo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="422" y="211"/>
+	<Point x="1651" y="211"/>
+	<Point x="1677" y="1033"/>
+	<Point x="1651" y="1339"/>
+	<Point x="422" y="1339"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Todo aqueo con que me ſoenia,
+A faltado, faltando la preſencia.
+Yo ſo el cargado, y ſoy tambien la carga.
+No ſe, ni veo, ni oyo no auſencia.
+Todos los dias ſon vn miſmo dia:
+Y es ee ſolo muchos, pues s'alarga.
+Todo igualmente amarga.
+Mi cuerpo quanto el es, es ea aga.
+No ſe trie que haga:
+Que' s mucho ya lo que hazer conuiene:
+Y mi coraçon tiene
+Por muy mejor, paar con ſu triura,
+Que ſuﬀrir las fatigas dela cura.</Unicode></TextEquiv></TextRegion></Page></PcGts>

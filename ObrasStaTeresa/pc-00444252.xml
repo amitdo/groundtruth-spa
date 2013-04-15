@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444252">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:46:46</Created>
+	<LastChange>2011-12-19T11:39:34</LastChange></Metadata>
+	<Page imageFilename="00444252.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="877" y="109"/>
+	<Point x="1568" y="112"/>
+	<Point x="1569" y="236"/>
+	<Point x="1072" y="241"/>
+	<Point x="1009" y="244"/>
+	<Point x="855" y="242"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="431" y="262"/>
+	<Point x="563" y="264"/>
+	<Point x="635" y="263"/>
+	<Point x="1080" y="253"/>
+	<Point x="2040" y="242"/>
+	<Point x="2083" y="2666"/>
+	<Point x="2059" y="2671"/>
+	<Point x="1883" y="2675"/>
+	<Point x="1872" y="2675"/>
+	<Point x="1770" y="2669"/>
+	<Point x="1650" y="2693"/>
+	<Point x="425" y="2685"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dexemos lo que ſe gana para n ﬁn, que ſea
+como el menor de eos. Mira que es an
+cierto que ſe da Dios aſsi, a los que todo lo
+dexan por el. No es aceptador de perſonas, a
+todos ama, no tiene nadie eſcuſa por ruyn
+que ſea, pues an lo haze conmigo, trayendo
+me a tal eado, mira que no es cifra lo que di
+go de lo que ſe puede dezir, ſolo va dicho lo
+que es meneer para darſe a entẽder ea ma
+nera de vion, y merced que haze Dios al al-
+ma, mas no puedo dezir lo que ſe ente quã-
+do el Señor la da a entender ſecretos y gran-
+dezas ſuyas, el deleyte tan ſobre quantos aca
+ſe pueden entender, que bien con razon haze
+aborrecer los deleytes de la vida, que ſon va-
+ſura todos juntos, es aſco traerlos a ninguna
+comparacion aqui, aunque ſea para gozarlo
+n ﬁn. Y deos que da el Señor? ſola vna go-
+ta de agua del grã rio caudaloſo que nos eà
+aparejado. Verguença es, y yo cierto la he de
+mi, y  pudiera auer afrenta en el cielo con
+razon euuiera yo aa mas afrentada que na
+die, porque hemos de querer tantos bienes, y
+deleytes, y gloria para n ﬁn, todo a coa del
+buen Ieſus, no oraremos  quiera con las
+hijas de Hieruſalem, ya que no le ayudamos
+a euar la cruz con el Cirineo? Que con pla-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1804" y="2677"/>
+	<Point x="2011" y="2681"/>
+	<Point x="2003" y="2749"/>
+	<Point x="1806" y="2745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>zeres</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="603" y="3051"/>
+	<Point x="1583" y="3059"/>
+	<Point x="1579" y="3160"/>
+	<Point x="600" y="3151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="434" y="159"/>
+	<Point x="436" y="255"/>
+	<Point x="594" y="256"/>
+	<Point x="634" y="256"/>
+	<Point x="640" y="158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>324</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444277">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:19:50</Created>
+	<LastChange>2011-12-19T11:39:35</LastChange></Metadata>
+	<Page imageFilename="00444277.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1401" y="2657"/>
+	<Point x="1677" y="2657"/>
+	<Point x="1677" y="2766"/>
+	<Point x="1401" y="2766"/>
+	<Point x="1390" y="2712"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>culpae</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="609" y="3061"/>
+	<Point x="1578" y="3078"/>
+	<Point x="1578" y="3148"/>
+	<Point x="628" y="3148"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="144" y="248"/>
+	<Point x="1610" y="245"/>
+	<Point x="1690" y="247"/>
+	<Point x="1699" y="1349"/>
+	<Point x="1702" y="2478"/>
+	<Point x="1704" y="2485"/>
+	<Point x="1704" y="2502"/>
+	<Point x="1686" y="2645"/>
+	<Point x="1655" y="2649"/>
+	<Point x="1371" y="2651"/>
+	<Point x="1367" y="2682"/>
+	<Point x="1369" y="2691"/>
+	<Point x="142" y="2685"/>
+	<Point x="144" y="2158"/>
+	<Point x="144" y="2128"/>
+	<Point x="142" y="2100"/>
+	<Point x="144" y="1614"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y con eo no vernia, y que no vuiee miedo,
+que Dios me guardaria, y me lo quitaria, a mi
+me era eo gran pena, porque como yo no
+podia creer, no que era Dios, era coſa terri-
+ble para mi, y tan poco podia, como he dicho,
+deear ſe me quitae, mas en ﬁn hazia quan-
+to me mãdauan, ſuplicaua mucho a Dios me
+librae de ſer engañada, eo empre lo ha-
+zia, y con hartas lagrimas, y a ſan Pedro, y a
+ſan Pablo, que me dixo el Señor como fue la
+primera vez que me aparecio en ſu dia, que
+eos me guardarian que no fuee engañada,
+y an muchas vezes los veya al lado yzquier
+do muy claramente, aunque no con vion
+imaginaria, eran eos glorioſos ſantos muy
+mis Señores. Dauame ee dar higas grandiſ-
+ma pena quando via ea vion del Señor.
+Porque quando yo le via preſente  me hi-
+zieran pedaços, no pudiera yo creer que era
+demonio: y an era vn genero de penitencia
+grande para mi. Y por no andar tanto ſanti-
+guãdome, tomaua vna cruz en la mano. Eo
+hazia ca empre, las higas no tan contino,
+por ſentia mucho, acordauame de las inju-
+rias que le auian hecho los Iudios, y ſuplica-
+uale me perdonae, pues yo lo hazia por obe
+decer al que tenia en ſu lugar, y que no me</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="1537" y="144"/>
+	<Point x="1682" y="144"/>
+	<Point x="1704" y="176"/>
+	<Point x="1682" y="235"/>
+	<Point x="1537" y="235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>349</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="320" y="112"/>
+	<Point x="1478" y="112"/>
+	<Point x="1478" y="223"/>
+	<Point x="320" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA</Unicode></TextEquiv></TextRegion></Page></PcGts>

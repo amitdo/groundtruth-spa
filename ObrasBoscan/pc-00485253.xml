@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485253">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T08:00:45</Created>
+	<LastChange>2011-05-12T13:41:10</LastChange></Metadata>
+	<Page imageFilename="00485253.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r10" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="369" y="915"/>
+	<Point x="1676" y="915"/>
+	<Point x="1676" y="1602"/>
+	<Point x="369" y="1602"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El Dios d'Amor, armado con ſus, ﬂechas,
+Soberuio por aqui todo lo hyere.
+Trae mil muertes hechas, y derechas,
+Para tirar atodos los que quiere.
+Dos fraguas tiene, en dos cótrarios hechas
+Por las quales el mundo hiue, y muerte,
+En la vna, ſe labran los amores,
+Los odios en la otra, y deſamores.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="353" y="1707"/>
+	<Point x="1605" y="1707"/>
+	<Point x="1605" y="2428"/>
+	<Point x="353" y="2428"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vn'alta torre, puea en tierra ana,
+Tiene ee Niño, en medio dea tierra:
+Sube ſe aqui, la tarde, y la mañana,
+Para hazer con ſus ſaetas guerra.
+Alque hiere vna vez, nunca le ſana:
+No viendo lo que haze jamas yerra.
+Al principio, no duelen ſus heridas,
+Mas deſpues, guay de las cuytadas vidas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="623" y="3028"/>
+	<Point x="1401" y="3028"/>
+	<Point x="1401" y="3092"/>
+	<Point x="623" y="3092"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="374" y="182"/>
+	<Point x="1232" y="196"/>
+	<Point x="1640" y="225"/>
+	<Point x="1647" y="882"/>
+	<Point x="374" y="882"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aqui vereys mil choças naturales,
+De diferentes arbores compueas:
+Con los aientos dentro de chriales,
+Cerca, las vnas de las otras pueas:
+En eas, los que ſon d'amor iguales,
+Andan en ſus demandas, y reſpueas.
+Y conﬁeren aqui, fus penſamientos.
+Sus plazeres, y ſus contentamientos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="689" y="90"/>
+	<Point x="948" y="81"/>
+	<Point x="1243" y="105"/>
+	<Point x="1236" y="186"/>
+	<Point x="696" y="173"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="page-number">
+	<Coords>
+	<Point x="1273" y="97"/>
+	<Point x="1666" y="97"/>
+	<Point x="1661" y="195"/>
+	<Point x="1274" y="190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. CXLII.</Unicode></TextEquiv></TextRegion></Page></PcGts>

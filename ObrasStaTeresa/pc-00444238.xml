@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444238">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:45:14</Created>
+	<LastChange>2011-12-19T11:39:33</LastChange></Metadata>
+	<Page imageFilename="00444238.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="964" y="109"/>
+	<Point x="1639" y="102"/>
+	<Point x="1638" y="241"/>
+	<Point x="968" y="237"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="482" y="255"/>
+	<Point x="929" y="245"/>
+	<Point x="1246" y="246"/>
+	<Point x="1765" y="248"/>
+	<Point x="2053" y="246"/>
+	<Point x="2090" y="2656"/>
+	<Point x="1850" y="2659"/>
+	<Point x="1778" y="2675"/>
+	<Point x="456" y="2710"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>deſcanſo, y an es coſa muy clara,  como di
+go no paa en diſsimulaciõ. Acaeciome otras
+vezesverme cõ grandes tribulaciones y mur
+muraciones ſobre cierto negocio,  deſpues
+dire, de ca todo el lugar adõde eoy y de mi
+orden, y afﬂigida con muchas ocaones que
+auia para inquietarme, y dezirme el Señor
+De que temes, no ſabes que ſoy todo poderoſo? yo cũpli
+re lo que te he prometido. Y an ſe cumplio bien
+deſpues. Y quedar luego con vna fortaleza
+que de nueuo me parece me puera en em-
+prehẽder otras coſas, aun me coaen mas
+trabajos para ſeruirle, y me puera de nueuo
+a padecer. Es eo tantas vezes que no lo po-
+dria yo contar: muchas las que me hazia re-
+prehenones, y haze, quando hago imperfe-
+ciones que baan a deshazer vn alma. Alo-
+menos traen congo el enmendarſe, porque
+ſu magead como he dicho, da el conſejo y
+el remedio. Otras traerme a la memoria mis
+peccados paados, en eſpecial quando el Se-
+ñor me quiere hazer alguna ſeñalada mer-
+ced, que parece ya ſe vee el alma en el ver-
+dadero juyzio, porque le repreſentan la
+verdad con conocimiento claro, que no
+ſabe adonde ſe meter, otras auiſarme de
+algunos peligros mios y de otras perſo-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="609" y="3061"/>
+	<Point x="1581" y="3060"/>
+	<Point x="1584" y="3159"/>
+	<Point x="614" y="3151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="492" y="147"/>
+	<Point x="492" y="245"/>
+	<Point x="504" y="249"/>
+	<Point x="677" y="245"/>
+	<Point x="677" y="147"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>310</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1837" y="2670"/>
+	<Point x="1829" y="2755"/>
+	<Point x="2009" y="2760"/>
+	<Point x="2011" y="2668"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nas,</Unicode></TextEquiv></TextRegion></Page></PcGts>

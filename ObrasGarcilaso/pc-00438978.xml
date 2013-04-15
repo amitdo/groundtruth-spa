@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438978">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T02:39:17</Created>
+	<LastChange>2011-06-24T14:04:29</LastChange></Metadata>
+	<Page imageFilename="00438978.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r11" index="1"/>
+	<RegionRefIndexed regionRef="r14" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r14" type="catch-word">
+	<Coords>
+	<Point x="1098" y="1944"/>
+	<Point x="1200" y="1940"/>
+	<Point x="1216" y="1994"/>
+	<Point x="1192" y="2033"/>
+	<Point x="1111" y="2031"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="credit">
+	<Coords>
+	<Point x="485" y="2085"/>
+	<Point x="988" y="2090"/>
+	<Point x="990" y="2140"/>
+	<Point x="451" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="header">
+	<Coords>
+	<Point x="194" y="27"/>
+	<Point x="1032" y="27"/>
+	<Point x="1039" y="120"/>
+	<Point x="804" y="119"/>
+	<Point x="617" y="127"/>
+	<Point x="179" y="119"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A GARCILASSO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="page-number">
+	<Coords>
+	<Point x="1104" y="57"/>
+	<Point x="1244" y="55"/>
+	<Point x="1231" y="121"/>
+	<Point x="1128" y="114"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>121</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="signature-mark">
+	<Coords>
+	<Point x="825" y="1958"/>
+	<Point x="972" y="1958"/>
+	<Point x="972" y="2052"/>
+	<Point x="825" y="2052"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Q</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="drop-capital">
+	<Coords>
+	<Point x="1" y="130"/>
+	<Point x="1" y="131"/>
+	<Point x="27" y="131"/>
+	<Point x="27" y="132"/>
+	<Point x="54" y="132"/>
+	<Point x="54" y="133"/>
+	<Point x="81" y="133"/>
+	<Point x="81" y="134"/>
+	<Point x="105" y="134"/>
+	<Point x="105" y="136"/>
+	<Point x="106" y="136"/>
+	<Point x="106" y="141"/>
+	<Point x="107" y="141"/>
+	<Point x="107" y="147"/>
+	<Point x="108" y="147"/>
+	<Point x="108" y="152"/>
+	<Point x="109" y="152"/>
+	<Point x="109" y="158"/>
+	<Point x="110" y="158"/>
+	<Point x="110" y="163"/>
+	<Point x="111" y="163"/>
+	<Point x="111" y="169"/>
+	<Point x="112" y="169"/>
+	<Point x="112" y="174"/>
+	<Point x="113" y="174"/>
+	<Point x="113" y="180"/>
+	<Point x="114" y="180"/>
+	<Point x="114" y="185"/>
+	<Point x="115" y="185"/>
+	<Point x="115" y="191"/>
+	<Point x="116" y="191"/>
+	<Point x="116" y="196"/>
+	<Point x="117" y="196"/>
+	<Point x="117" y="202"/>
+	<Point x="118" y="202"/>
+	<Point x="118" y="207"/>
+	<Point x="119" y="207"/>
+	<Point x="119" y="212"/>
+	<Point x="120" y="212"/>
+	<Point x="120" y="223"/>
+	<Point x="119" y="223"/>
+	<Point x="119" y="236"/>
+	<Point x="118" y="236"/>
+	<Point x="118" y="249"/>
+	<Point x="117" y="249"/>
+	<Point x="117" y="261"/>
+	<Point x="88" y="261"/>
+	<Point x="88" y="260"/>
+	<Point x="59" y="260"/>
+	<Point x="59" y="259"/>
+	<Point x="30" y="259"/>
+	<Point x="30" y="258"/>
+	<Point x="1" y="258"/>
+	<Point x="1" y="131"/>
+	<Point x="0" y="131"/>
+	<Point x="0" y="130"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="1037" y="132"/>
+	<Point x="1056" y="132"/>
+	<Point x="1056" y="133"/>
+	<Point x="1075" y="133"/>
+	<Point x="1075" y="134"/>
+	<Point x="1094" y="134"/>
+	<Point x="1094" y="135"/>
+	<Point x="1113" y="135"/>
+	<Point x="1113" y="136"/>
+	<Point x="1132" y="136"/>
+	<Point x="1132" y="137"/>
+	<Point x="1151" y="137"/>
+	<Point x="1151" y="138"/>
+	<Point x="1170" y="138"/>
+	<Point x="1170" y="139"/>
+	<Point x="1189" y="139"/>
+	<Point x="1251" y="1394"/>
+	<Point x="1214" y="1905"/>
+	<Point x="838" y="1905"/>
+	<Point x="694" y="1968"/>
+	<Point x="0" y="1977"/>
+	<Point x="1" y="260"/>
+	<Point x="28" y="260"/>
+	<Point x="28" y="261"/>
+	<Point x="57" y="261"/>
+	<Point x="57" y="262"/>
+	<Point x="86" y="262"/>
+	<Point x="86" y="263"/>
+	<Point x="115" y="263"/>
+	<Point x="115" y="264"/>
+	<Point x="118" y="264"/>
+	<Point x="118" y="263"/>
+	<Point x="119" y="263"/>
+	<Point x="119" y="251"/>
+	<Point x="120" y="251"/>
+	<Point x="120" y="238"/>
+	<Point x="121" y="238"/>
+	<Point x="121" y="225"/>
+	<Point x="122" y="225"/>
+	<Point x="122" y="210"/>
+	<Point x="121" y="210"/>
+	<Point x="121" y="205"/>
+	<Point x="120" y="205"/>
+	<Point x="120" y="200"/>
+	<Point x="119" y="200"/>
+	<Point x="119" y="194"/>
+	<Point x="118" y="194"/>
+	<Point x="118" y="189"/>
+	<Point x="117" y="189"/>
+	<Point x="117" y="183"/>
+	<Point x="116" y="183"/>
+	<Point x="116" y="178"/>
+	<Point x="115" y="178"/>
+	<Point x="115" y="172"/>
+	<Point x="114" y="172"/>
+	<Point x="114" y="167"/>
+	<Point x="113" y="167"/>
+	<Point x="113" y="161"/>
+	<Point x="112" y="161"/>
+	<Point x="112" y="156"/>
+	<Point x="111" y="156"/>
+	<Point x="111" y="150"/>
+	<Point x="110" y="150"/>
+	<Point x="110" y="145"/>
+	<Point x="109" y="145"/>
+	<Point x="109" y="139"/>
+	<Point x="108" y="139"/>
+	<Point x="108" y="134"/>
+	<Point x="107" y="134"/>
+	<Point x="418" y="134"/>
+	<Point x="418" y="133"/>
+	<Point x="728" y="133"/>
+	<Point x="728" y="132"/>
+	<Point x="1037" y="132"/>
+	<Point x="1037" y="131"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ichoſo el que de pleytos alexado,
+qual los del tiempo antiguo,
+Labra ſus heredades no obligado
+al logrero enemigo:
+Ni larma en los Reales le deſpierta,
+ni tiembla en la mar braua.
+Huye la plaça, y la ſoberuia puerta
+de la ambicion eſclaua.
+Su guo es, o poner la vid crecida
+al alamo ajuntada;
+O contemplar qual pace deſparçida
+al vae ſu vacada.
+Ya poda el ramo inutil, y ya ingiere
+en ſu vez el eraño:
+O cara ſus colmenas, o  quiere
+treſquila ſu rebaño.
+Pues quãdo el padre Otoño muera fuera
+la ſu frente galana,
+Con quanto gozo coge el alta pera,
+las vuas como grana,
+Ya ti ſacro Siluano lo preſenta,
+que guardas el exido.
+Debaxo vn roble antiguo ya ſe aſsienta,
+ya en el prado ﬂorido.</Unicode></TextEquiv></TextRegion></Page></PcGts>

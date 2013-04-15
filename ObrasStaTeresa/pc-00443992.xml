@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443992">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T19:15:17</Created>
+	<LastChange>2011-12-19T11:39:19</LastChange></Metadata>
+	<Page imageFilename="00443992.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="488" y="217"/>
+	<Point x="2124" y="207"/>
+	<Point x="2151" y="2564"/>
+	<Point x="2081" y="2561"/>
+	<Point x="481" y="2590"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſu magead entre otras, que nunca deſpues
+ comence a comulgar dexe coſa por confeſ
+ſar que yo penſae era peccado, aunque fueſ-
+ſe venial, mas n duda me parece que lo yua
+harto cõ ea mi ſaluacion  entonces me mu
+riera, por ſer los confeores tan poco letra-
+dos por vna parte, y por otra, y por muchas
+ſer yo tã ruyn. Es verdad cierto, que me pare‐
+ce eoy con tan gran eſpanto egando aqui
+y viendo como parece me reſuſcito el Señor,
+que eoy ca temblando entre mi. Parece-
+me fuera bien, o anima mia que miraras del
+peligro que el Señor te auia librado, y ya que
+por amor no lo dexaras de oﬀender, lo dexa-
+ras por temor, que pudiera otras mil vezes
+matarte en eado mas peligroſo, creo no
+añido muchas en dezir otras mil, aunque me
+riña quien me mando moderae el contar
+mis peccados, y harto hermoſeados van. Por
+amor de Dios le pido, de mis culpas no
+quite nada, pues ſe vee mas aqui la magni‐
+ﬁcencia de Dios y lo que ſuﬀre a vn alma.
+Sea bendito para empre: plega a ſu ma‐
+gead que antes me conſuma
+quele dexe yo mas de
+querer.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="534" y="3038"/>
+	<Point x="1687" y="3038"/>
+	<Point x="1687" y="3170"/>
+	<Point x="534" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1825" y="2614"/>
+	<Point x="1825" y="2771"/>
+	<Point x="2131" y="2771"/>
+	<Point x="2131" y="2614"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="684" y="77"/>
+	<Point x="684" y="108"/>
+	<Point x="683" y="108"/>
+	<Point x="683" y="156"/>
+	<Point x="682" y="156"/>
+	<Point x="682" y="202"/>
+	<Point x="537" y="202"/>
+	<Point x="537" y="77"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>64</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="header">
+	<Coords>
+	<Point x="959" y="77"/>
+	<Point x="1762" y="77"/>
+	<Point x="1762" y="202"/>
+	<Point x="959" y="202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

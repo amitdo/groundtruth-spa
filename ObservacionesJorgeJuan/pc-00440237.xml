@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440237">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T23:32:57</Created>
+	<LastChange>2011-12-19T11:38:52</LastChange></Metadata>
+	<Page imageFilename="00440237.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r21" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="719" y="509"/>
+	<Point x="2641" y="509"/>
+	<Point x="2642" y="683"/>
+	<Point x="2330" y="678"/>
+	<Point x="1944" y="676"/>
+	<Point x="1602" y="679"/>
+	<Point x="1398" y="683"/>
+	<Point x="924" y="694"/>
+	<Point x="841" y="708"/>
+	<Point x="716" y="710"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pre ſe obſervaron los tres angulos de eos, para mayor
+ſeguridad.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="715" y="721"/>
+	<Point x="880" y="713"/>
+	<Point x="944" y="702"/>
+	<Point x="1356" y="692"/>
+	<Point x="1594" y="686"/>
+	<Point x="1945" y="686"/>
+	<Point x="2338" y="688"/>
+	<Point x="2648" y="693"/>
+	<Point x="2653" y="1665"/>
+	<Point x="1081" y="1675"/>
+	<Point x="715" y="1673"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A nuero arribo à Cuenca, M. Godin, y yo determina‐
+mos medir ſegunda Baſe en las inmediaciones de aquea
+Ciudad, para reiﬁcar nueras operaciones; pero la otra
+Campañia proguiò la Série de triangulos haa egar à
+Tàrqui; lo qual tambien hizo alterar la ſuya de la mia.
+Ea diferencia ſe vè mas claramente en la ﬁgura, don‐
+de los triangulos hechos de lineas enteras, repreſentan la
+Série mia, y los hechos de lineas entre cortadas los de Don
+Antonio de Uoa; cuyas Obſervaciones de angulos ſon las
+guientes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="970" y="4003"/>
+	<Point x="1977" y="4003"/>
+	<Point x="1977" y="4100"/>
+	<Point x="970" y="4100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="783" y="425"/>
+	<Point x="783" y="503"/>
+	<Point x="974" y="503"/>
+	<Point x="974" y="425"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>218</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="header">
+	<Coords>
+	<Point x="1261" y="403"/>
+	<Point x="1261" y="496"/>
+	<Point x="2067" y="496"/>
+	<Point x="2067" y="403"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r14">
+	<Coords>
+	<Point x="710" y="1700"/>
+	<Point x="1085" y="1693"/>
+	<Point x="2655" y="1699"/>
+	<Point x="2639" y="2239"/>
+	<Point x="708" y="2234"/></Coords></TableRegion>
+	<TableRegion id="r18">
+	<Coords>
+	<Point x="711" y="2259"/>
+	<Point x="1942" y="2268"/>
+	<Point x="2642" y="2256"/>
+	<Point x="2637" y="2811"/>
+	<Point x="2519" y="2810"/>
+	<Point x="2044" y="2812"/>
+	<Point x="711" y="2808"/></Coords></TableRegion>
+	<TableRegion id="r20">
+	<Coords>
+	<Point x="706" y="2827"/>
+	<Point x="2642" y="2826"/>
+	<Point x="2638" y="3352"/>
+	<Point x="704" y="3354"/></Coords></TableRegion>
+	<TextRegion id="r21" type="catch-word">
+	<Coords>
+	<Point x="2474" y="3432"/>
+	<Point x="2474" y="3541"/>
+	<Point x="2632" y="3541"/>
+	<Point x="2632" y="3432"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pi‐</Unicode></TextEquiv></TextRegion></Page></PcGts>

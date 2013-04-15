@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00486086">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T16:03:38</Created>
+	<LastChange>2011-07-28T11:29:39</LastChange></Metadata>
+	<Page imageFilename="00486086.tif" imageWidth="2250" imageHeight="3124">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r16" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/>
+	<RegionRefIndexed regionRef="r7" index="3"/>
+	<RegionRefIndexed regionRef="r8" index="4"/>
+	<RegionRefIndexed regionRef="r9" index="5"/>
+	<RegionRefIndexed regionRef="r10" index="6"/>
+	<RegionRefIndexed regionRef="r11" index="7"/>
+	<RegionRefIndexed regionRef="r12" index="8"/>
+	<RegionRefIndexed regionRef="r13" index="9"/>
+	<RegionRefIndexed regionRef="r14" index="10"/>
+	<RegionRefIndexed regionRef="r15" index="11"/>
+	<RegionRefIndexed regionRef="r18" index="12"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="762" y="36"/>
+	<Point x="1295" y="53"/>
+	<Point x="1735" y="48"/>
+	<Point x="1765" y="168"/>
+	<Point x="1641" y="191"/>
+	<Point x="1445" y="163"/>
+	<Point x="1303" y="183"/>
+	<Point x="1213" y="148"/>
+	<Point x="797" y="144"/>
+	<Point x="743" y="123"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comedia de Lope de Vega.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="261" y="695"/>
+	<Point x="537" y="708"/>
+	<Point x="662" y="709"/>
+	<Point x="715" y="747"/>
+	<Point x="817" y="745"/>
+	<Point x="878" y="718"/>
+	<Point x="1062" y="729"/>
+	<Point x="1241" y="746"/>
+	<Point x="1299" y="744"/>
+	<Point x="1318" y="745"/>
+	<Point x="1354" y="741"/>
+	<Point x="1591" y="728"/>
+	<Point x="1874" y="712"/>
+	<Point x="1857" y="1104"/>
+	<Point x="823" y="1100"/>
+	<Point x="467" y="1087"/>
+	<Point x="394" y="1114"/>
+	<Point x="373" y="1108"/>
+	<Point x="339" y="1089"/>
+	<Point x="264" y="1076"/>
+	<Point x="230" y="767"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cur. Claudia yo ſoy Curieno el que aborreces,
+tenme por tuyo que en el cielo eſpero
+en que ha de egar tiempo en que conozcas
+quien es el montañes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="254" y="1080"/>
+	<Point x="320" y="1088"/>
+	<Point x="337" y="1091"/>
+	<Point x="372" y="1111"/>
+	<Point x="394" y="1117"/>
+	<Point x="471" y="1092"/>
+	<Point x="832" y="1106"/>
+	<Point x="1191" y="1109"/>
+	<Point x="1178" y="1194"/>
+	<Point x="1103" y="1199"/>
+	<Point x="923" y="1198"/>
+	<Point x="807" y="1187"/>
+	<Point x="755" y="1216"/>
+	<Point x="723" y="1216"/>
+	<Point x="673" y="1204"/>
+	<Point x="638" y="1192"/>
+	<Point x="502" y="1186"/>
+	<Point x="251" y="1182"/>
+	<Point x="250" y="1146"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Claudia. Yo ſoy tu eſclaua.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="240" y="1189"/>
+	<Point x="469" y="1189"/>
+	<Point x="536" y="1192"/>
+	<Point x="589" y="1195"/>
+	<Point x="649" y="1200"/>
+	<Point x="722" y="1220"/>
+	<Point x="756" y="1219"/>
+	<Point x="781" y="1208"/>
+	<Point x="809" y="1191"/>
+	<Point x="910" y="1204"/>
+	<Point x="1043" y="1211"/>
+	<Point x="1099" y="1205"/>
+	<Point x="1183" y="1202"/>
+	<Point x="1766" y="1188"/>
+	<Point x="1782" y="1305"/>
+	<Point x="1292" y="1295"/>
+	<Point x="1231" y="1326"/>
+	<Point x="900" y="1294"/>
+	<Point x="653" y="1288"/>
+	<Point x="371" y="1276"/>
+	<Point x="242" y="1283"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fur. Y di Claudia es verdad que te matauan.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="240" y="1288"/>
+	<Point x="353" y="1283"/>
+	<Point x="616" y="1294"/>
+	<Point x="893" y="1301"/>
+	<Point x="1232" y="1331"/>
+	<Point x="1293" y="1300"/>
+	<Point x="1811" y="1313"/>
+	<Point x="1771" y="1683"/>
+	<Point x="523" y="1673"/>
+	<Point x="457" y="1684"/>
+	<Point x="418" y="1685"/>
+	<Point x="402" y="1685"/>
+	<Point x="246" y="1671"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Claud. Ya tuue a la garganta el hierro injuo
+y la venda en los ojos. Cur. Brauo caſo,
+y quien es ee viejo. Claud. El ſacerdote
+a quien tocaba darme aſsi la muerte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="247" y="1674"/>
+	<Point x="411" y="1687"/>
+	<Point x="471" y="1684"/>
+	<Point x="523" y="1678"/>
+	<Point x="1289" y="1685"/>
+	<Point x="1292" y="1785"/>
+	<Point x="888" y="1797"/>
+	<Point x="767" y="1773"/>
+	<Point x="714" y="1791"/>
+	<Point x="629" y="1765"/>
+	<Point x="239" y="1764"/>
+	<Point x="239" y="1689"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fur. Ee traydor pues muera.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="235" y="1769"/>
+	<Point x="627" y="1772"/>
+	<Point x="715" y="1798"/>
+	<Point x="869" y="1797"/>
+	<Point x="858" y="1863"/>
+	<Point x="236" y="1860"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fabr. Pao tente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="234" y="1864"/>
+	<Point x="1736" y="1877"/>
+	<Point x="1721" y="2145"/>
+	<Point x="1280" y="2159"/>
+	<Point x="839" y="2155"/>
+	<Point x="374" y="2146"/>
+	<Point x="227" y="2145"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cur. Si no es mas de por eo eſpera dexame
+a que con ee tronco le vite,
+hare del ſacerdote ſacriﬁcio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="219" y="2149"/>
+	<Point x="364" y="2151"/>
+	<Point x="845" y="2160"/>
+	<Point x="1404" y="2161"/>
+	<Point x="1722" y="2156"/>
+	<Point x="1652" y="2543"/>
+	<Point x="1207" y="2536"/>
+	<Point x="1138" y="2568"/>
+	<Point x="1029" y="2540"/>
+	<Point x="600" y="2541"/>
+	<Point x="432" y="2532"/>
+	<Point x="363" y="2560"/>
+	<Point x="334" y="2552"/>
+	<Point x="256" y="2524"/>
+	<Point x="217" y="2220"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fabr. Pao que enojareys al dios Apolo,
+y al cielo que ea vez os fauorece,
+mas vamos a poner a Claudia en cobro
+pues los contrarios van ya de vencida.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="238" y="2527"/>
+	<Point x="273" y="2536"/>
+	<Point x="287" y="2540"/>
+	<Point x="364" y="2564"/>
+	<Point x="432" y="2535"/>
+	<Point x="595" y="2547"/>
+	<Point x="1024" y="2545"/>
+	<Point x="1140" y="2574"/>
+	<Point x="1215" y="2540"/>
+	<Point x="1287" y="2552"/>
+	<Point x="1880" y="2548"/>
+	<Point x="1906" y="2649"/>
+	<Point x="1801" y="2667"/>
+	<Point x="1652" y="2644"/>
+	<Point x="1490" y="2638"/>
+	<Point x="1027" y="2634"/>
+	<Point x="834" y="2634"/>
+	<Point x="225" y="2629"/>
+	<Point x="235" y="2586"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fur. Vamos Curieno. Cur. Vamos Furio amigo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="222" y="2639"/>
+	<Point x="816" y="2639"/>
+	<Point x="1007" y="2640"/>
+	<Point x="1249" y="2650"/>
+	<Point x="1335" y="2645"/>
+	<Point x="1645" y="2650"/>
+	<Point x="1798" y="2675"/>
+	<Point x="1945" y="2678"/>
+	<Point x="1982" y="2734"/>
+	<Point x="1842" y="2752"/>
+	<Point x="1760" y="2733"/>
+	<Point x="213" y="2749"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fur. Dame Claudia ea mano. Cla. Claud. es tuya</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="300" y="124"/>
+	<Point x="275" y="284"/>
+	<Point x="373" y="316"/>
+	<Point x="451" y="310"/>
+	<Point x="633" y="328"/>
+	<Point x="852" y="348"/>
+	<Point x="1224" y="318"/>
+	<Point x="1482" y="320"/>
+	<Point x="1519" y="233"/>
+	<Point x="1525" y="226"/>
+	<Point x="1442" y="168"/>
+	<Point x="1303" y="188"/>
+	<Point x="1211" y="151"/>
+	<Point x="1104" y="151"/>
+	<Point x="872" y="152"/>
+	<Point x="830" y="151"/>
+	<Point x="776" y="146"/>
+	<Point x="683" y="144"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>en vn punto ſe trueca la fortuna,
+dame eos braços.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="252" y="312"/>
+	<Point x="273" y="289"/>
+	<Point x="379" y="324"/>
+	<Point x="463" y="316"/>
+	<Point x="486" y="319"/>
+	<Point x="627" y="330"/>
+	<Point x="851" y="350"/>
+	<Point x="1210" y="326"/>
+	<Point x="1748" y="319"/>
+	<Point x="1838" y="702"/>
+	<Point x="1575" y="724"/>
+	<Point x="1353" y="740"/>
+	<Point x="1317" y="744"/>
+	<Point x="877" y="715"/>
+	<Point x="816" y="739"/>
+	<Point x="713" y="741"/>
+	<Point x="663" y="706"/>
+	<Point x="507" y="700"/>
+	<Point x="259" y="688"/>
+	<Point x="246" y="362"/>
+	<Point x="249" y="328"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Claudia. Doyte los por fuerça
+y dente la vioria Apolo y Marte,
+que es lo que agora importa, que tras eo
+me has de pagar la n razon paada.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="catch-word">
+	<Coords>
+	<Point x="1759" y="2737"/>
+	<Point x="1738" y="2765"/>
+	<Point x="1759" y="2859"/>
+	<Point x="1983" y="2859"/>
+	<Point x="1983" y="2737"/>
+	<Point x="1844" y="2757"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vanſe</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="credit">
+	<Coords>
+	<Point x="674" y="3108"/>
+	<Point x="1016" y="3109"/>
+	<Point x="1165" y="3106"/>
+	<Point x="1300" y="3107"/>
+	<Point x="1302" y="3120"/>
+	<Point x="1306" y="3119"/>
+	<Point x="1316" y="3110"/>
+	<Point x="1419" y="3112"/>
+	<Point x="1421" y="3062"/>
+	<Point x="679" y="3065"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r20" type="handwritten-annotation">
+	<Coords>
+	<Point x="570" y="11"/>
+	<Point x="570" y="116"/>
+	<Point x="735" y="116"/>
+	<Point x="735" y="11"/></Coords></GraphicRegion></Page></PcGts>

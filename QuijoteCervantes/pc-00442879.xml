@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442879">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:47:46</Created>
+	<LastChange>2012-03-12T14:12:32</LastChange></Metadata>
+	<Page imageFilename="00442879.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="458" y="68"/>
+	<Point x="1181" y="85"/>
+	<Point x="1195" y="161"/>
+	<Point x="678" y="159"/>
+	<Point x="584" y="179"/>
+	<Point x="539" y="173"/>
+	<Point x="454" y="155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="211" y="162"/>
+	<Point x="474" y="164"/>
+	<Point x="554" y="178"/>
+	<Point x="585" y="182"/>
+	<Point x="677" y="162"/>
+	<Point x="754" y="164"/>
+	<Point x="1205" y="164"/>
+	<Point x="1324" y="183"/>
+	<Point x="1355" y="176"/>
+	<Point x="1371" y="169"/>
+	<Point x="1381" y="164"/>
+	<Point x="1398" y="159"/>
+	<Point x="1486" y="175"/>
+	<Point x="1457" y="2106"/>
+	<Point x="1287" y="2105"/>
+	<Point x="1101" y="2122"/>
+	<Point x="813" y="2127"/>
+	<Point x="198" y="2120"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que qualquiera parte que ſe lea, de qualquiera hiſ-
+toria de cauaero andante, ha de cauſar guo, y
+marauia a qualquiera que la leyere. Y vuera
+merced creame, y como otra vez le he dicho, lea
+eos libros, y vera como le deierran la melanco-
+lia que tuuiere, y le mejoran la condicion,  a caſo
+la tiene mala. De mi ſe dezir, que deſpues que ſoy
+cauaero andante, ſoy valiente, comedido, liberal,
+bien criado, generoſo, cortes, atreuido, blando, pa-
+ciente, ſufridor de trabajos, de priones, de en-
+cantos: y aunque ha tan poco que me vi encerra-
+do en vna jaula, como loco, pienſo por el valor de
+mi braço, fauoreciendome el cielo, y no me endo
+contraria la fortuna, en pocos dias verme Rey de
+algun Reyno, adonde pueda morar el agradeci-
+miento, y liberalidad que mi pecho encierra: que
+miafe, ſeñor, el pobre eà inabilitado de poder moſ
+trar la virtud de liberalidad con ninguno, aunque
+en ſumo grado la poea. Y el agradecimiento, que
+ſolo cone en el deeo, es coſa muerta, como es
+muerta la fe n obras. Por eo querria, que la for-
+tuna me ofreciee preo alguna ocaõ, donde me
+hiziee Emperador, por morar mi pecho, hazien
+do bien a mis amigos, eſpecialmẽte a ee pobre de
+Sancho Pança, mi eſcudero, que es el mejor hõbre
+del mundo, y querria darle vn Condado, que le ten
+go muchos dias ha prometido, no que temo, que
+no ha de tener abilidad para gouernar ſu eado.
+Ca eas vltimas palabras oyò Sancho a ſu amo, a
+quiē dixo: Trabaje V.m. ſeñor don Quixote, en dar-
+me ee Condado, tan prometido de V.m. como
+de mi eſperado, que yo le prometo, que no me falte</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1320" y="2110"/>
+	<Point x="1443" y="2109"/>
+	<Point x="1444" y="2176"/>
+	<Point x="1314" y="2172"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a mi</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="455" y="2295"/>
+	<Point x="1157" y="2299"/>
+	<Point x="1116" y="2349"/>
+	<Point x="1025" y="2349"/>
+	<Point x="1024" y="2359"/>
+	<Point x="1016" y="2359"/>
+	<Point x="1012" y="2349"/>
+	<Point x="464" y="2351"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1331" y="102"/>
+	<Point x="1331" y="168"/>
+	<Point x="1350" y="175"/>
+	<Point x="1397" y="157"/>
+	<Point x="1460" y="168"/>
+	<Point x="1460" y="102"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>302</Unicode></TextEquiv></TextRegion></Page></PcGts>

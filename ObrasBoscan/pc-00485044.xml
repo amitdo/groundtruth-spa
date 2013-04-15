@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485044">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T00:06:48</Created>
+	<LastChange>2011-05-12T13:40:47</LastChange></Metadata>
+	<Page imageFilename="00485044.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="356" y="173"/>
+	<Point x="1618" y="201"/>
+	<Point x="1613" y="1300"/>
+	<Point x="356" y="1300"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Grandes ſon los peligros, que amor trae:
+Pero mayores ſon, los que me'ſpantan.
+Matan los ciertos, enojan los vanos.
+Todos ſon ciertos, todos me quebrantan.
+Qualquier caſo acaeſcido me deſcae,
+Y luego acude al que tengo entre manos.
+Mis ſentidos mal ſanos
+Hazen torres de viento de temores
+De mil competidores,
+De tiuiezas, d'oluidos, de mudanças,
+De tries eſperanças.
+Llega ya mi temor a tanto'remo,
+Que haa los nombres delas coſas temo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="signature-mark">
+	<Coords>
+	<Point x="1239" y="2509"/>
+	<Point x="1245" y="2507"/>
+	<Point x="1264" y="2497"/>
+	<Point x="1358" y="2502"/>
+	<Point x="1368" y="2499"/>
+	<Point x="1381" y="2502"/>
+	<Point x="1398" y="2508"/>
+	<Point x="1410" y="2522"/>
+	<Point x="1418" y="2586"/>
+	<Point x="1235" y="2586"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>G ij</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="632" y="3020"/>
+	<Point x="1390" y="3020"/>
+	<Point x="1390" y="3094"/>
+	<Point x="632" y="3094"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="339" y="1379"/>
+	<Point x="1600" y="1379"/>
+	<Point x="1600" y="2522"/>
+	<Point x="1473" y="2513"/>
+	<Point x="1433" y="2496"/>
+	<Point x="1397" y="2502"/>
+	<Point x="1378" y="2494"/>
+	<Point x="1290" y="2491"/>
+	<Point x="1207" y="2498"/>
+	<Point x="1207" y="2522"/>
+	<Point x="339" y="2522"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Los deſares que preſente no via,
+Agora me parece que los veo.
+Para curaos, no les hao tomo.
+Con las ſombras de los males peleo.
+En endo dentro aa en mi fantaa,
+Verdad ſe haze todo no ſe como.
+Si duermo, o  como,
+Ai me' an taniendo mil recelos.
+Van, y vienen los celos
+Con las mudanças de' l mundo'ſpantoſas.
+Y todas eas coſas
+Me dan mayor congoxa ſoſpechadas,
+Que muy ſabidas, vias y miradas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1118" y="81"/>
+	<Point x="1118" y="179"/>
+	<Point x="1620" y="179"/>
+	<Point x="1620" y="81"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. XXXVIII.</Unicode></TextEquiv></TextRegion></Page></PcGts>

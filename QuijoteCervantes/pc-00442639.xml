@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442639">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:03:57</Created>
+	<LastChange>2012-03-12T14:12:13</LastChange></Metadata>
+	<Page imageFilename="00442639.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="440" y="32"/>
+	<Point x="1200" y="23"/>
+	<Point x="1195" y="129"/>
+	<Point x="957" y="132"/>
+	<Point x="566" y="145"/>
+	<Point x="552" y="147"/>
+	<Point x="456" y="133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="181" y="132"/>
+	<Point x="350" y="132"/>
+	<Point x="475" y="146"/>
+	<Point x="490" y="143"/>
+	<Point x="501" y="144"/>
+	<Point x="549" y="151"/>
+	<Point x="953" y="136"/>
+	<Point x="984" y="137"/>
+	<Point x="1421" y="137"/>
+	<Point x="1425" y="1508"/>
+	<Point x="192" y="1518"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aqui algun tiempo: y aun que ſe que me han de ha
+zer falta los libros, a fe que ſe los he de boluer, 
+aunque ventero toda via ſoy Chriiano. Vos te-
+neys mucha razon amigo, dixo el cura, mas con to-
+do eo  la nouela me contenta, me la aueys de de-
+xar trasladar: De muy buena gana, reſpondio el vẽ-
+tero. Mientras los dos eo deziã, auia tomado Car
+denio la nouela, y començado a leer en ea: y pa-
+reciendole lo miſmo que al cura, le rogò que la
+leyee de modo que todos la oyeen. Si leyera,
+dixo el cura, no fuera mejor gaar ee tiempo
+en dormir, que en leer. Harto repoſo ſerà para mi,
+dixo Dorotea, entretener el tiempo oyendo al-
+gun cuento, pues aun no tengo el eſpiritu tan ſoſ-
+ſegado,  me conceda dormir, quando fuera razõ.
+Pues dea manera, dixo el cura, quiero leerla por
+curiodad,  quiera quiça tendra alguna de guo.
+Acudio Maeſe Nicolas a rogarle lo meſmo, y San-
+cho tambien: lo qual vio del cura, y entendiendo
+que a todos daria guo, y el le recibiria, dixo: Pues
+aſsi es, een me todos atentos, que la nouela co-
+miença dea manera.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="195" y="1592"/>
+	<Point x="1417" y="1592"/>
+	<Point x="1417" y="1764"/>
+	<Point x="195" y="1764"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cap. XXXIII. Donde ſe cuenta la nouela del Curioſo
+impertinente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="364" y="1843"/>
+	<Point x="1422" y="1840"/>
+	<Point x="1435" y="2036"/>
+	<Point x="353" y="2077"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N Florencia, ciudad rica, y famoſa, de Ita-
+lia, en la Prouincia que aman Toſcana,
+viuian Anſelmo, y Lotario, dos cae-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="drop-capital">
+	<Coords>
+	<Point x="195" y="1842"/>
+	<Point x="359" y="1844"/>
+	<Point x="352" y="2012"/>
+	<Point x="248" y="2013"/>
+	<Point x="195" y="2015"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1281" y="55"/>
+	<Point x="1418" y="55"/>
+	<Point x="1418" y="126"/>
+	<Point x="1281" y="126"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>182</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1311" y="2051"/>
+	<Point x="1311" y="2106"/>
+	<Point x="1423" y="2106"/>
+	<Point x="1423" y="2051"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ros</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="457" y="2305"/>
+	<Point x="454" y="2350"/>
+	<Point x="1008" y="2350"/>
+	<Point x="1013" y="2355"/>
+	<Point x="1022" y="2355"/>
+	<Point x="1025" y="2354"/>
+	<Point x="1121" y="2353"/>
+	<Point x="1124" y="2312"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

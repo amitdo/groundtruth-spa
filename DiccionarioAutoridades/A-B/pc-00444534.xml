@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444534">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T13:58:47</Created>
+	<LastChange>2011-03-05T06:47:57</LastChange></Metadata>
+	<Page imageFilename="00444534.tif" imageWidth="2613" imageHeight="3944">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r11" index="1"/>
+	<RegionRefIndexed regionRef="r9" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="680" y="204"/>
+	<Point x="668" y="280"/>
+	<Point x="760" y="280"/>
+	<Point x="785" y="278"/>
+	<Point x="807" y="274"/>
+	<Point x="842" y="277"/>
+	<Point x="880" y="278"/>
+	<Point x="1960" y="282"/>
+	<Point x="1955" y="202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA LENGUA CASTELLANA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="2080" y="218"/>
+	<Point x="2080" y="285"/>
+	<Point x="2287" y="287"/>
+	<Point x="2280" y="220"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>XLVII</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="2186" y="3589"/>
+	<Point x="2186" y="3668"/>
+	<Point x="2347" y="3668"/>
+	<Point x="2347" y="3589"/>
+	<Point x="2227" y="3590"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DIS-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="815" y="3847"/>
+	<Point x="813" y="3931"/>
+	<Point x="1786" y="3928"/>
+	<Point x="1786" y="3850"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="319" y="266"/>
+	<Point x="295" y="266"/>
+	<Point x="309" y="754"/>
+	<Point x="597" y="754"/>
+	<Point x="617" y="762"/>
+	<Point x="655" y="747"/>
+	<Point x="758" y="749"/>
+	<Point x="763" y="755"/>
+	<Point x="770" y="761"/>
+	<Point x="782" y="763"/>
+	<Point x="801" y="760"/>
+	<Point x="818" y="754"/>
+	<Point x="874" y="750"/>
+	<Point x="884" y="764"/>
+	<Point x="907" y="765"/>
+	<Point x="906" y="754"/>
+	<Point x="1279" y="754"/>
+	<Point x="1284" y="766"/>
+	<Point x="1302" y="773"/>
+	<Point x="1328" y="755"/>
+	<Point x="1693" y="755"/>
+	<Point x="1725" y="703"/>
+	<Point x="2359" y="702"/>
+	<Point x="2365" y="297"/>
+	<Point x="1936" y="289"/>
+	<Point x="1912" y="292"/>
+	<Point x="1903" y="295"/>
+	<Point x="1556" y="294"/>
+	<Point x="1515" y="285"/>
+	<Point x="1489" y="288"/>
+	<Point x="1412" y="288"/>
+	<Point x="1385" y="300"/>
+	<Point x="1367" y="300"/>
+	<Point x="1343" y="289"/>
+	<Point x="1329" y="293"/>
+	<Point x="904" y="291"/>
+	<Point x="890" y="285"/>
+	<Point x="869" y="291"/>
+	<Point x="845" y="291"/>
+	<Point x="817" y="286"/>
+	<Point x="806" y="291"/>
+	<Point x="572" y="290"/>
+	<Point x="520" y="282"/>
+	<Point x="438" y="267"/>
+	<Point x="376" y="271"/>
+	<Point x="333" y="271"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſe le hayan mezclado otros granos, ò ſemias, como cebáda, centéno, y
+otras eſpécies diferentes, como la mayor y principal parte es el trigo, to-
+do él ſe dice montón de trigo: del miſmo modo, aunque en la Léngua
+Caeana ſe hayan introducido várias Palabras de las Lénguas Gótica,
+y Arábiga, como en lo morál la mayor parte trahe à sí la menor, yá todas
+eas ſe repútan por parte de la Léngua Caeana.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="344" y="765"/>
+	<Point x="302" y="773"/>
+	<Point x="303" y="781"/>
+	<Point x="307" y="2134"/>
+	<Point x="578" y="2134"/>
+	<Point x="594" y="2052"/>
+	<Point x="2344" y="2055"/>
+	<Point x="2350" y="761"/>
+	<Point x="1329" y="765"/>
+	<Point x="1306" y="783"/>
+	<Point x="1266" y="763"/>
+	<Point x="925" y="764"/>
+	<Point x="915" y="774"/>
+	<Point x="817" y="774"/>
+	<Point x="804" y="765"/>
+	<Point x="773" y="765"/>
+	<Point x="661" y="762"/>
+	<Point x="644" y="765"/>
+	<Point x="606" y="767"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>19 Eos fueron los princípios de ea: por donde ſe vé que es un
+Dialeo, que formó la corrupción de la Léngua Latina, como tambien
+lo ſon la Franceſa, y la Italiana. Reconocióſe, deſpues de algun tiempo,
+la aſperéza de algunas Voces, y procuró ſuavizarlas el cuidado, y el eſ-
+túdio: y en ee eado mandó el Rey Don Alonſo el Sábio, que todas
+las eſcrituras públicas ſe eſcribieen en Léngua Gaeana, conociendo
+que era capáz de exprear, no ſolo los conceptos de la vida civíl, y ſus
+artes meánicas, no tambien los de las artes liberales, y demás cien-
+cias. Deſde entonces ha do mayor la aplicación y eſméro en pulirla, y
+mejorarla, yá ablandando la duréza de algunos términos, mudando, ò
+quitando algunas letras: yá conformándolas mas à ſus etymologías: yá
+dándolas con alguna mudanza mejor ſonído: yá dexando algunas por
+la diſonáncia que hacían con las demás, haa que en eos dos últimos
+glos ha egado à la perfección en que oy ſe haa, y para cuya ea-
+bilidád y permanéncia ſe dedican los trabájos y eúdios de la Acadé-
+mia, en medio de que reconóce que nada es eable en las coſas hu-
+mánas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

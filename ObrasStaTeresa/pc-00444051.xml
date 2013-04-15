@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444051">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T19:22:26</Created>
+	<LastChange>2011-12-19T11:39:22</LastChange></Metadata>
+	<Page imageFilename="00444051.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="211" y="240"/>
+	<Point x="1773" y="240"/>
+	<Point x="1780" y="2635"/>
+	<Point x="1526" y="2634"/>
+	<Point x="1514" y="2653"/>
+	<Point x="430" y="2638"/>
+	<Point x="423" y="2666"/>
+	<Point x="211" y="2666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ni me parece ſe compadece eo con eotro.
+An que porque no ſe acaba de dar jũto, no
+ſe nos da por junto ee theſoro, plega al Se‐
+ñor  gota agota nos le de ſu magead aun
+ſea coandonos todos los trabajos del mũdo,
+harto grã miſericordia haze, a quiẽ da gracia
+y animo, para determinarſe a procurar cõ to‐
+das ſus fuerças ee bien, porque  perſeuera
+no ſe niega Dios a nadie, poco a poco va ha‐
+bilítando elanimo para que ſalga con ea vi
+tǫria. Digo animo, porque ſon tantas las co‐
+ſas que el demonio pone delante a Ios princi-
+pios, para que no comiencen ee camino de
+hecho, como quien ſabe el daño  de aqui le
+viene, no ſolo en perder al alma no a mu‐
+chas ( el  comiença ſe esfuerça cõ el fauor
+de Dios a egar a la cũbre de la perfeciõ: creo
+jamas va ſolo al cielo, ẽpre eua mucha gẽte
+tras , como abuẽ capitã le da Dios quiẽ vaya
+en ſu cõpañia). An  pone les tantos peligros
+y difﬁcultades delãte,  no es meneer poco
+animo, para no tornar atras, no muy mucho
+y mucho fauor de Dios. Pues hablãdo de los
+principios de los  ya vã determinados a ſe‐
+guir ee biẽ y a ſalir cõ ea empreſa ( que de
+lo demas  comẽce a dezir de miica theolo-
+gia  creo ſe ama aſsi, dire mas adelante) en</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1531" y="2640"/>
+	<Point x="1716" y="2640"/>
+	<Point x="1716" y="2721"/>
+	<Point x="1531" y="2721"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>eos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="595" y="3064"/>
+	<Point x="1585" y="3064"/>
+	<Point x="1585" y="3154"/>
+	<Point x="595" y="3154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="323" y="107"/>
+	<Point x="323" y="216"/>
+	<Point x="1535" y="216"/>
+	<Point x="1535" y="107"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1573" y="121"/>
+	<Point x="1573" y="223"/>
+	<Point x="1730" y="223"/>
+	<Point x="1730" y="121"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>123</Unicode></TextEquiv></TextRegion></Page></PcGts>

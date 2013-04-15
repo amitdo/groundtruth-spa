@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00672965">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 10.0</Creator>
+	<Created>2012-02-01T06:30:00</Created>
+	<LastChange>2012-02-29T12:33:10</LastChange></Metadata>
+	<Page imageFilename="00672965.tif" imageWidth="1851" imageHeight="2614">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r5" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/>
+	<RegionRefIndexed regionRef="r8" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1339" y="265"/>
+	<Point x="1339" y="322"/>
+	<Point x="1411" y="322"/>
+	<Point x="1411" y="265"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>22</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="header">
+	<Coords>
+	<Point x="557" y="248"/>
+	<Point x="557" y="320"/>
+	<Point x="622" y="317"/>
+	<Point x="650" y="324"/>
+	<Point x="712" y="320"/>
+	<Point x="721" y="326"/>
+	<Point x="735" y="326"/>
+	<Point x="758" y="320"/>
+	<Point x="1089" y="320"/>
+	<Point x="1092" y="254"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>del juego del axedrez.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="534" y="318"/>
+	<Point x="536" y="318"/>
+	<Point x="536" y="319"/>
+	<Point x="538" y="319"/>
+	<Point x="538" y="320"/>
+	<Point x="540" y="320"/>
+	<Point x="540" y="321"/>
+	<Point x="542" y="321"/>
+	<Point x="542" y="322"/>
+	<Point x="544" y="322"/>
+	<Point x="544" y="323"/>
+	<Point x="546" y="323"/>
+	<Point x="546" y="324"/>
+	<Point x="548" y="324"/>
+	<Point x="548" y="325"/>
+	<Point x="594" y="325"/>
+	<Point x="594" y="324"/>
+	<Point x="639" y="324"/>
+	<Point x="639" y="323"/>
+	<Point x="639" y="324"/>
+	<Point x="641" y="324"/>
+	<Point x="641" y="325"/>
+	<Point x="643" y="325"/>
+	<Point x="643" y="326"/>
+	<Point x="645" y="326"/>
+	<Point x="645" y="327"/>
+	<Point x="647" y="327"/>
+	<Point x="647" y="328"/>
+	<Point x="659" y="328"/>
+	<Point x="659" y="327"/>
+	<Point x="668" y="327"/>
+	<Point x="668" y="326"/>
+	<Point x="677" y="326"/>
+	<Point x="677" y="325"/>
+	<Point x="677" y="326"/>
+	<Point x="693" y="326"/>
+	<Point x="693" y="327"/>
+	<Point x="708" y="327"/>
+	<Point x="708" y="328"/>
+	<Point x="723" y="328"/>
+	<Point x="723" y="329"/>
+	<Point x="738" y="329"/>
+	<Point x="738" y="330"/>
+	<Point x="766" y="330"/>
+	<Point x="766" y="329"/>
+	<Point x="778" y="329"/>
+	<Point x="778" y="328"/>
+	<Point x="790" y="328"/>
+	<Point x="790" y="327"/>
+	<Point x="802" y="327"/>
+	<Point x="802" y="326"/>
+	<Point x="1153" y="326"/>
+	<Point x="1153" y="327"/>
+	<Point x="1191" y="327"/>
+	<Point x="1191" y="328"/>
+	<Point x="1229" y="328"/>
+	<Point x="1229" y="329"/>
+	<Point x="1267" y="329"/>
+	<Point x="1267" y="330"/>
+	<Point x="1305" y="330"/>
+	<Point x="1305" y="331"/>
+	<Point x="1343" y="331"/>
+	<Point x="1343" y="332"/>
+	<Point x="1381" y="332"/>
+	<Point x="1381" y="333"/>
+	<Point x="1418" y="333"/>
+	<Point x="1418" y="462"/>
+	<Point x="1419" y="462"/>
+	<Point x="1419" y="590"/>
+	<Point x="1420" y="590"/>
+	<Point x="1420" y="718"/>
+	<Point x="1421" y="718"/>
+	<Point x="1421" y="846"/>
+	<Point x="1422" y="846"/>
+	<Point x="1422" y="974"/>
+	<Point x="1423" y="974"/>
+	<Point x="1423" y="1102"/>
+	<Point x="1424" y="1102"/>
+	<Point x="1424" y="1230"/>
+	<Point x="1425" y="1230"/>
+	<Point x="1425" y="1238"/>
+	<Point x="1314" y="1238"/>
+	<Point x="1314" y="1237"/>
+	<Point x="1174" y="1237"/>
+	<Point x="1174" y="1236"/>
+	<Point x="1032" y="1236"/>
+	<Point x="1032" y="1237"/>
+	<Point x="1031" y="1237"/>
+	<Point x="1031" y="1238"/>
+	<Point x="1029" y="1238"/>
+	<Point x="1029" y="1239"/>
+	<Point x="1027" y="1239"/>
+	<Point x="1027" y="1240"/>
+	<Point x="1025" y="1240"/>
+	<Point x="1025" y="1241"/>
+	<Point x="1023" y="1241"/>
+	<Point x="1023" y="1242"/>
+	<Point x="1021" y="1242"/>
+	<Point x="1021" y="1243"/>
+	<Point x="1020" y="1243"/>
+	<Point x="1020" y="1244"/>
+	<Point x="1018" y="1244"/>
+	<Point x="1018" y="1245"/>
+	<Point x="1016" y="1245"/>
+	<Point x="1016" y="1246"/>
+	<Point x="1014" y="1246"/>
+	<Point x="1014" y="1247"/>
+	<Point x="1012" y="1247"/>
+	<Point x="1012" y="1248"/>
+	<Point x="1010" y="1248"/>
+	<Point x="1010" y="1249"/>
+	<Point x="934" y="1249"/>
+	<Point x="934" y="1250"/>
+	<Point x="857" y="1250"/>
+	<Point x="857" y="1251"/>
+	<Point x="783" y="1251"/>
+	<Point x="783" y="1250"/>
+	<Point x="782" y="1250"/>
+	<Point x="782" y="1248"/>
+	<Point x="781" y="1248"/>
+	<Point x="781" y="1246"/>
+	<Point x="780" y="1246"/>
+	<Point x="780" y="1244"/>
+	<Point x="779" y="1244"/>
+	<Point x="779" y="1242"/>
+	<Point x="778" y="1242"/>
+	<Point x="778" y="1240"/>
+	<Point x="777" y="1240"/>
+	<Point x="777" y="1238"/>
+	<Point x="776" y="1238"/>
+	<Point x="776" y="1236"/>
+	<Point x="775" y="1236"/>
+	<Point x="775" y="1234"/>
+	<Point x="774" y="1234"/>
+	<Point x="774" y="1232"/>
+	<Point x="773" y="1232"/>
+	<Point x="773" y="1231"/>
+	<Point x="772" y="1231"/>
+	<Point x="772" y="1230"/>
+	<Point x="725" y="1230"/>
+	<Point x="725" y="1229"/>
+	<Point x="678" y="1229"/>
+	<Point x="678" y="1228"/>
+	<Point x="631" y="1228"/>
+	<Point x="631" y="1227"/>
+	<Point x="584" y="1227"/>
+	<Point x="584" y="1226"/>
+	<Point x="537" y="1226"/>
+	<Point x="537" y="1225"/>
+	<Point x="490" y="1225"/>
+	<Point x="490" y="1224"/>
+	<Point x="443" y="1224"/>
+	<Point x="443" y="1223"/>
+	<Point x="394" y="1223"/>
+	<Point x="394" y="1224"/>
+	<Point x="208" y="1224"/>
+	<Point x="208" y="1092"/>
+	<Point x="209" y="1092"/>
+	<Point x="209" y="705"/>
+	<Point x="210" y="705"/>
+	<Point x="210" y="318"/>
+	<Point x="534" y="318"/>
+	<Point x="534" y="317"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>meſmo:y ala.2. del cauallo, y ala caſa de ſu roque.
+Y  ſe hallare en otra parte,cuẽta caſa,à caſa,por
+punta,o eſquina,y veras donde puede herir. Y lo
+meſmo ſe entiende delos demas, pueo que anti
+guamente no caminauan,ſegun dizen, no tres
+caſas y por cima de pieça, ò peon  queria. Pero
+por eſquina, o punta ẽpre. Y ee ſe dezia el jue
+go viejo:y aſsi ſe jugaua antiguamẽte en Eſpaña,
+y aſsi dezia el refran,Al arﬁl no le tengas por vil,
+que a tercera caſa prẽde. Pero ee era vſo que vſa
+uan los moros: y como ruyn, y no adaptado a ſu
+propria gniﬁcacion,como diremos,lo han deſ-
+echado de  los buenos jugadores.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="441" y="1225"/>
+	<Point x="441" y="1226"/>
+	<Point x="488" y="1226"/>
+	<Point x="488" y="1227"/>
+	<Point x="535" y="1227"/>
+	<Point x="535" y="1228"/>
+	<Point x="582" y="1228"/>
+	<Point x="582" y="1229"/>
+	<Point x="629" y="1229"/>
+	<Point x="629" y="1230"/>
+	<Point x="676" y="1230"/>
+	<Point x="676" y="1231"/>
+	<Point x="723" y="1231"/>
+	<Point x="723" y="1232"/>
+	<Point x="770" y="1232"/>
+	<Point x="770" y="1233"/>
+	<Point x="771" y="1233"/>
+	<Point x="771" y="1234"/>
+	<Point x="772" y="1234"/>
+	<Point x="772" y="1236"/>
+	<Point x="773" y="1236"/>
+	<Point x="773" y="1238"/>
+	<Point x="774" y="1238"/>
+	<Point x="774" y="1240"/>
+	<Point x="775" y="1240"/>
+	<Point x="775" y="1242"/>
+	<Point x="776" y="1242"/>
+	<Point x="776" y="1244"/>
+	<Point x="777" y="1244"/>
+	<Point x="777" y="1246"/>
+	<Point x="778" y="1246"/>
+	<Point x="778" y="1248"/>
+	<Point x="779" y="1248"/>
+	<Point x="779" y="1250"/>
+	<Point x="780" y="1250"/>
+	<Point x="780" y="1252"/>
+	<Point x="781" y="1252"/>
+	<Point x="781" y="1253"/>
+	<Point x="859" y="1253"/>
+	<Point x="859" y="1252"/>
+	<Point x="936" y="1252"/>
+	<Point x="936" y="1251"/>
+	<Point x="1012" y="1251"/>
+	<Point x="1012" y="1250"/>
+	<Point x="1014" y="1250"/>
+	<Point x="1014" y="1249"/>
+	<Point x="1016" y="1249"/>
+	<Point x="1016" y="1248"/>
+	<Point x="1018" y="1248"/>
+	<Point x="1018" y="1247"/>
+	<Point x="1020" y="1247"/>
+	<Point x="1020" y="1246"/>
+	<Point x="1022" y="1246"/>
+	<Point x="1022" y="1245"/>
+	<Point x="1023" y="1245"/>
+	<Point x="1023" y="1244"/>
+	<Point x="1025" y="1244"/>
+	<Point x="1025" y="1243"/>
+	<Point x="1027" y="1243"/>
+	<Point x="1027" y="1242"/>
+	<Point x="1029" y="1242"/>
+	<Point x="1029" y="1241"/>
+	<Point x="1031" y="1241"/>
+	<Point x="1031" y="1240"/>
+	<Point x="1033" y="1240"/>
+	<Point x="1033" y="1239"/>
+	<Point x="1034" y="1239"/>
+	<Point x="1034" y="1238"/>
+	<Point x="1172" y="1238"/>
+	<Point x="1172" y="1239"/>
+	<Point x="1312" y="1239"/>
+	<Point x="1312" y="1240"/>
+	<Point x="1425" y="1240"/>
+	<Point x="1425" y="1359"/>
+	<Point x="1426" y="1359"/>
+	<Point x="1426" y="1487"/>
+	<Point x="1427" y="1487"/>
+	<Point x="1427" y="1615"/>
+	<Point x="1428" y="1615"/>
+	<Point x="1428" y="1743"/>
+	<Point x="1429" y="1743"/>
+	<Point x="1429" y="1871"/>
+	<Point x="1430" y="1871"/>
+	<Point x="1430" y="1999"/>
+	<Point x="1431" y="1999"/>
+	<Point x="1431" y="2127"/>
+	<Point x="1432" y="2127"/>
+	<Point x="1432" y="2230"/>
+	<Point x="1373" y="2234"/>
+	<Point x="1344" y="2235"/>
+	<Point x="1329" y="2255"/>
+	<Point x="205" y="2255"/>
+	<Point x="206" y="2255"/>
+	<Point x="206" y="1867"/>
+	<Point x="207" y="1867"/>
+	<Point x="207" y="1480"/>
+	<Point x="208" y="1480"/>
+	<Point x="208" y="1226"/>
+	<Point x="396" y="1226"/>
+	<Point x="396" y="1225"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Suelen algunos preguntar, qual ſea mejor pie-
+ça,el arﬁl,ò el cauallo:para lo qual cõuiene ſaber,
+que cõmunmente ſe ſuelẽ tener por pieças ygua
+les.Pero ſegũ la diſpocion del juego, vnas vezes
+ſera mejor vn arﬁl,y otras vezes vn cauallo. Y mu
+chas perſonas ay  juegan mejor de arﬁl, y otras
+de cauallo.Pero cõmunmente los grandes juga-
+dores juegan mejor de arﬁl,  de cauallo. E yo pa
+ra mi la tẽgo por mejor pieça, por muchos proue
+chos  tiene mas quel cauallo. El primero, por
+con dos arﬁles ſe puede dar mate, y con arﬁl y ca-
+uallo,lo  no puede con dos cauallos.El ſegundo
+porque vn arﬁl hiere de mas lexos al enemigo. El
+tercero, por el arﬁl cubre mejor al Rey proprio</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="1311" y="2258"/>
+	<Point x="1311" y="2303"/>
+	<Point x="1385" y="2303"/>
+	<Point x="1385" y="2258"/>
+	<Point x="1375" y="2243"/>
+	<Point x="1360" y="2242"/>
+	<Point x="1352" y="2256"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ed</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444445">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:11:11</Created>
+	<LastChange>2011-12-19T11:39:45</LastChange></Metadata>
+	<Page imageFilename="00444445.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="325" y="125"/>
+	<Point x="1512" y="103"/>
+	<Point x="1505" y="231"/>
+	<Point x="316" y="235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="150" y="246"/>
+	<Point x="1203" y="246"/>
+	<Point x="1740" y="249"/>
+	<Point x="1739" y="2171"/>
+	<Point x="1593" y="2188"/>
+	<Point x="1170" y="2202"/>
+	<Point x="504" y="2207"/>
+	<Point x="435" y="2233"/>
+	<Point x="407" y="2229"/>
+	<Point x="396" y="2217"/>
+	<Point x="379" y="2209"/>
+	<Point x="352" y="2210"/>
+	<Point x="147" y="2207"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eando vna vez con la miſma duda, que
+poco ha dixe,  eran eas viones de Dios,
+me aparecio el Señor, y me dixo con rigor:
+O hijos de los hombres haa quando ſereys duros de co
+raçon? Que vna coſa examinae bien en mi, 
+del todo eaua dada por ſuya, o no, que 
+eaua y lo era, que creyee no me dexaria
+perder. Yo me fatigue mucho de aquea ex-
+clamacion, con gran ternura y regalo me tor
+no a dezir que no me fatigae, que ya ſabia,
+que por mi no faltaria de ponerme a todo lo
+que fuee ſu ſeruicio, que ſe haria todo lo 
+yo queria, y an ſe hizo lo que entõces le ſu-
+plicaua, que mirae el amor que ſe yua en mi
+aumentãdo cada dia para amarle, que ere eo
+veria no ſer demonio, que no penſae que
+conſentia Dios tuuiee tanta parte el demo-
+nio en las almas de ſus eruos, y que te pu-
+diee dar la claridad de entendimiẽto y quie-
+tud que tienes. Diome a entender que auien-
+dome dicho tantas perſonas y tales, que era
+Dios, que haria mal en no creerlo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="147" y="2212"/>
+	<Point x="365" y="2212"/>
+	<Point x="378" y="2211"/>
+	<Point x="393" y="2217"/>
+	<Point x="406" y="2232"/>
+	<Point x="437" y="2235"/>
+	<Point x="504" y="2212"/>
+	<Point x="1186" y="2207"/>
+	<Point x="1597" y="2195"/>
+	<Point x="1734" y="2179"/>
+	<Point x="1714" y="2665"/>
+	<Point x="1345" y="2672"/>
+	<Point x="464" y="2683"/>
+	<Point x="160" y="2668"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eando vna vez rezando el Pſalmo de
+Quicunque vult, ſe me dio a entender la ma
+nera como era vn ſolo Dios y tres perſonas,
+tan claro que yo me eſpãte y conſole mucho,
+hizome grandiſsimo prouecho para conocer</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1529" y="2673"/>
+	<Point x="1720" y="2674"/>
+	<Point x="1720" y="2746"/>
+	<Point x="1520" y="2745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mas</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="616" y="3063"/>
+	<Point x="1590" y="3068"/>
+	<Point x="1590" y="3159"/>
+	<Point x="608" y="3153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1570" y="123"/>
+	<Point x="1570" y="241"/>
+	<Point x="1745" y="241"/>
+	<Point x="1745" y="123"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>525</Unicode></TextEquiv></TextRegion></Page></PcGts>

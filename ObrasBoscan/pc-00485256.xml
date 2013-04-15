@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485256">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:01:03</Created>
+	<LastChange>2011-05-12T13:41:10</LastChange></Metadata>
+	<Page imageFilename="00485256.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="437" y="1755"/>
+	<Point x="1687" y="1755"/>
+	<Point x="1687" y="2508"/>
+	<Point x="437" y="2508"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D' aqui los truenos ſalen, y los rayos,
+Que'n ſana paz nos hieren, y nos matan.
+Hazenſe aqui los aſperos deſmayos,
+Que'n medio del plazer nos deſbaratan.
+De dolores aqui ſon los enſayos.
+Que nos traornan, atan, y deſatan.
+Aqui se mudan todas las blanduras,
+En otros tantos males y triuras.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="626" y="3028"/>
+	<Point x="1394" y="3028"/>
+	<Point x="1394" y="3092"/>
+	<Point x="626" y="3092"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="427" y="186"/>
+	<Point x="1642" y="181"/>
+	<Point x="1681" y="500"/>
+	<Point x="1642" y="880"/>
+	<Point x="426" y="880"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No ſe come, ni beue, en ea caſa
+Porque tienen de yeruas gran ſoſpecha.
+El fuego que ay, es vna ſola braſa,
+Tan muerta, que'a ya ceniza hecha:
+Mas  ſe'nciende alguna vez abraſa
+El monte, y la morada, y ﬂamas echa;
+Flamas, que egan haa a los vezinos,
+A daes ſobreſaltos muy continos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="423" y="969"/>
+	<Point x="1754" y="969"/>
+	<Point x="1754" y="1694"/>
+	<Point x="423" y="1694"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Su dueño, y morador, es conocido,
+Tanto, que 'oy por no dezir ſu nombre,
+Celos ſe ama, y dizen, ques nacido
+Como noſotros, de muger y hombre.
+Sobre ſer temeroſo, es tan temido,
+Que deo ſolo alcança ſu renombre.
+De ſeſo 'an ſus ojos tan agenos,
+Que empre es lo que vee, mas, o menos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="796" y="85"/>
+	<Point x="1236" y="83"/>
+	<Point x="1240" y="176"/>
+	<Point x="796" y="174"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r11" type="other">
+	<Coords>
+	<Point x="1247" y="85"/>
+	<Point x="1374" y="85"/>
+	<Point x="1374" y="174"/>
+	<Point x="1247" y="174"/></Coords></GraphicRegion></Page></PcGts>

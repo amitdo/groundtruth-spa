@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441598">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T03:40:49</Created>
+	<LastChange>2011-07-05T14:26:07</LastChange></Metadata>
+	<Page imageFilename="00441598.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r5" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="661" y="619"/>
+	<Point x="661" y="1077"/>
+	<Point x="1645" y="1077"/>
+	<Point x="1645" y="619"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EPICVRVS
+AD
+IDOMENEA,
+Ore Senec Filĳ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="180" y="1116"/>
+	<Point x="180" y="1396"/>
+	<Point x="2025" y="1396"/>
+	<Point x="2025" y="1116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>INGENIORVM CRESCIT DIGNATIO: NEC IPSIS
+TANTVM HABETVR, SED QVID QVID ILLORVM
+MEMORIAE ADHAESIT, AB OBLIVIONE EXCIPITVR.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="693" y="3112"/>
+	<Point x="693" y="3193"/>
+	<Point x="1474" y="3193"/>
+	<Point x="1474" y="3112"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

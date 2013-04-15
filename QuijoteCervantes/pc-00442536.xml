@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442536">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T23:15:43</Created>
+	<LastChange>2012-03-12T14:12:07</LastChange></Metadata>
+	<Page imageFilename="00442536.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="448" y="56"/>
+	<Point x="1082" y="60"/>
+	<Point x="1080" y="162"/>
+	<Point x="445" y="169"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tercera parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="147" y="175"/>
+	<Point x="1422" y="179"/>
+	<Point x="1406" y="2160"/>
+	<Point x="1036" y="2162"/>
+	<Point x="981" y="2173"/>
+	<Point x="134" y="2172"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aſsi Sancho, dixo don Quixote, que a lo que pare‐
+ce, que no eas tu mas cuerdo que yo. No eoy tan
+loco reſpondio Sancho, mas eoy mas colerico. Pe‐
+ro dexando eo a parte, que es lo que ha de comer
+vuera merced, en tanto que yo bueluo? Ha de ſalir
+al camino como Cardenio, a quitarſelo a los pao-
+res? No te de pena, ee cuydado, reſpõdio don Qui-
+xote, porque aunque tuuiera, no comiera otra coſa
+que las yeruas y frutos, que ee prado y eos arbo‐
+les me dieren, que la ﬁneza de mi negocio, eá en
+no comer, y en hazer otras aſperezas equiualentes
+a Dios. Pues pero ſabe vuera merced, que temo
+que no tengo de acertar a boluer a ee lugar, don‐
+de agora le dexo, ſegun eâ de eſcõdido. Toma bien
+las ſeñas, que yo procurare no apartarme deos cõ‐
+tornos, dixo don Quixote, y aun tendre cuydado de
+ſubirme por eos mas altos riſcos, por ver  te deſ‐
+cubro quãdo bueluas. Quanto mas, que lo mas a cer-
+tado ſera, para que no me yerres, y te pierdas,  cor
+tes algunas retamas, de las muchas que por aqui ay,
+y las vayas poniendo de trecho a trecho, haa ſalir
+a lo raſo, las quales te ſeruiran de mojones y ſeña‐
+les, para que me haes quando bueluas, a imita-
+cion del hilo del laberinto de Perſeo. Aſsi lo hare,
+reſpondio Sancho Pança, y cortando algunos, pi‐
+dio la bendicion a ſu ſeñor, y no n muchas lagri‐
+mas de entrambos, ſe deſpidio del. Y ſubiendo ſo‐
+bre Rozinante, a quien don Quixote encomendo
+mucho, y que mirae por el, como por ſu propria
+perſona, ſe puſo en camino del ano, eſpar‐
+ziendo de trecho a trecho, los ramos de la reta‐
+ma, como ſu amo ſe lo auia aconſejado. Y aſsi ſefue,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1178" y="2170"/>
+	<Point x="1424" y="2170"/>
+	<Point x="1424" y="2234"/>
+	<Point x="1178" y="2234"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aunque</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="449" y="2300"/>
+	<Point x="1133" y="2300"/>
+	<Point x="1133" y="2374"/>
+	<Point x="937" y="2373"/>
+	<Point x="449" y="2374"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

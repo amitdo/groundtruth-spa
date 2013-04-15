@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444133">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:01:59</Created>
+	<LastChange>2011-12-19T11:39:27</LastChange></Metadata>
+	<Page imageFilename="00444133.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="352" y="90"/>
+	<Point x="1495" y="92"/>
+	<Point x="1504" y="214"/>
+	<Point x="342" y="214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="155" y="228"/>
+	<Point x="1831" y="238"/>
+	<Point x="1829" y="2651"/>
+	<Point x="1452" y="2650"/>
+	<Point x="92" y="2685"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>deſcaminadas, que ayudaria el Señor a ſu er
+ua, para que ſaliee con ſu verdad adelante.
+Aora hablando de ea agua que viene del
+cielo para con ſu abundancia henchir, y har-
+tar todo ee huerto de agua,  nunca dexara
+quando lo vuiera meneer de darlo el Señor,
+ya ſe vee que deſcãſo tuuiera el hortelano, y a
+no auer inuierno, no ſer empre el tiempo
+templado, nunca faltaran ﬂores y frutas, ya ſe
+vee que deleyte tuuiera, mas mientras biui-
+mos es impoſsible, empre ha de auer cuyda-
+do, de quando faltare la vna agua, procurar
+la otra. Ea del cielo viene algunas vezes quã
+do mas deſcuy dado eà el hortelano. Verdad
+es que a los principios ca ẽpre es deſpues
+de larga oracion mental, que de vn grado en
+otro viene el Señor a tomar ea auezita, y po
+nerla en el nido paraque deſcanſe, como la
+ha vio bolar mucho rato, procurando con
+el entendimiento y voluntad, y con todas ſus
+fuerças buſcar a Dios, y contentarle, quiere la
+dar el premio, aun en ea vida. Y que gran
+premio, que baa vn momento para quedar
+pagados todos los trabajos que en ea puede
+auer. Eando an el alma buſcando a Dios,
+ente con vn deleyte grandiſsimo y ſuaue,
+ca defaecer toda con vna manera de deſ-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="601" y="3056"/>
+	<Point x="1592" y="3062"/>
+	<Point x="1594" y="3170"/>
+	<Point x="596" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1573" y="107"/>
+	<Point x="1573" y="228"/>
+	<Point x="1764" y="228"/>
+	<Point x="1764" y="107"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>205</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1500" y="2658"/>
+	<Point x="1493" y="2754"/>
+	<Point x="1781" y="2754"/>
+	<Point x="1779" y="2658"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mayo,</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440402">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T07:34:49</Created>
+	<LastChange>2011-12-19T11:39:09</LastChange></Metadata>
+	<Page imageFilename="00440402.tif" imageWidth="2937" imageHeight="4105">
+	<TextRegion id="r3" type="signature-mark">
+	<Coords>
+	<Point x="1441" y="3581"/>
+	<Point x="1610" y="3575"/>
+	<Point x="1610" y="3662"/>
+	<Point x="1446" y="3662"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bb2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="1000" y="4013"/>
+	<Point x="1947" y="4013"/>
+	<Point x="1947" y="4092"/>
+	<Point x="1000" y="4092"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r2">
+	<Coords>
+	<Point x="349" y="345"/>
+	<Point x="2266" y="347"/>
+	<Point x="2315" y="3573"/>
+	<Point x="2167" y="3579"/>
+	<Point x="1627" y="3570"/>
+	<Point x="1436" y="3575"/>
+	<Point x="1423" y="3575"/>
+	<Point x="1408" y="3573"/>
+	<Point x="1287" y="3583"/>
+	<Point x="334" y="3598"/></Coords></TableRegion></Page></PcGts>

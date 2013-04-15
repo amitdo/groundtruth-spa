@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485196">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T07:54:11</Created>
+	<LastChange>2011-05-12T13:41:01</LastChange></Metadata>
+	<Page imageFilename="00485196.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="632" y="3026"/>
+	<Point x="1392" y="3026"/>
+	<Point x="1392" y="3091"/>
+	<Point x="632" y="3091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="562" y="200"/>
+	<Point x="1753" y="211"/>
+	<Point x="1776" y="750"/>
+	<Point x="1748" y="2812"/>
+	<Point x="557" y="2829"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Algo menos inchadas que ſolia.
+Y'ando atento al diſcurrir del'agua;
+Vio que ſus golpes s'alargauan menos,
+Y menos ocupauan la ribera.
+Entonces con vn gozo dulce, y blando,
+Començo a echar las lagrimas, que ſuelen
+Echar los tries, quando en ſus triezas,
+Algun modo les viene d'eſperança.
+Y de  le tomo vn dolor tan tierno,
+De ver el mal en que vio s'hauia:
+Que aumentaua el orar en abundancia,
+Todauia abonaua la fortuna,
+Entrando mas el dia, y aun el cielo
+Arraſaua la parte do era el viento,
+Y ai el fuerte amador leuanto ſu alma
+A hazer ſus cuentas, y apenſar el como,
+Y el quando, la ſu luz pareceria.
+Pao aquel dia en eſperar la noche,
+Eando atento al reboluer del cielo.
+Nunca tan ﬁxo fue'l mirar de Clycia,
+Mirando'l ſol, ni quando biuio Nympha
+Ni deſpues quando, en yerua fue tornada,
+Como fue'l de Leandro en ee dia.
+Contando los momentos que faltauan
+AI punto dela noche deeada.
+Eendioe la ſombra por el mundo,
+Eſcureciendo, las mas altas erras.
+Y aun que'n ea tal ora, ſuele'l viento
+Echarſe muchas vezes, no fue entonçes:
+Antes ſe leuanto, como de nueuo,
+Y empeço arenouar ſu paroxiſmo,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="822" y="86"/>
+	<Point x="1280" y="86"/>
+	<Point x="1280" y="198"/>
+	<Point x="822" y="198"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r12" type="other">
+	<Coords>
+	<Point x="1286" y="90"/>
+	<Point x="1286" y="198"/>
+	<Point x="1426" y="198"/>
+	<Point x="1426" y="90"/></Coords></GraphicRegion></Page></PcGts>

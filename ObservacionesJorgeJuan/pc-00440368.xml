@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440368">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T10:56:11</Created>
+	<LastChange>2011-12-19T11:39:07</LastChange></Metadata>
+	<Page imageFilename="00440368.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="263" y="756"/>
+	<Point x="839" y="747"/>
+	<Point x="865" y="741"/>
+	<Point x="912" y="734"/>
+	<Point x="1457" y="724"/>
+	<Point x="2224" y="720"/>
+	<Point x="2225" y="1340"/>
+	<Point x="250" y="1346"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En la Tabla ſegunda, las Colunas 1�, 3�, y 5�
+mueran la Latitud de los Lugares deſde el Equador
+haa el Polo; y las 2�, 4�, y 6� la longitud, que de‐
+be tener el Pendulo mple, en pulgadas, lineas, y mi-
+leſsimos de eas del piè de Rey de Parìs, en dichos Lu‐
+gares, para que vibre los ſegundos de tiempo medio.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r5">
+	<Coords>
+	<Point x="620" y="1474"/>
+	<Point x="1925" y="1474"/>
+	<Point x="1925" y="2471"/>
+	<Point x="620" y="2471"/></Coords></ImageRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="2017" y="3612"/>
+	<Point x="2256" y="3612"/>
+	<Point x="2256" y="3789"/>
+	<Point x="2017" y="3789"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ta‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="984" y="3992"/>
+	<Point x="1946" y="3992"/>
+	<Point x="1946" y="4097"/>
+	<Point x="984" y="4097"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="757" y="424"/>
+	<Point x="1714" y="424"/>
+	<Point x="1714" y="531"/>
+	<Point x="757" y="531"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="page-number">
+	<Coords>
+	<Point x="1971" y="424"/>
+	<Point x="2146" y="424"/>
+	<Point x="2146" y="528"/>
+	<Point x="1971" y="528"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>345</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="285" y="536"/>
+	<Point x="2200" y="536"/>
+	<Point x="2211" y="695"/>
+	<Point x="984" y="702"/>
+	<Point x="972" y="721"/>
+	<Point x="890" y="721"/>
+	<Point x="872" y="734"/>
+	<Point x="812" y="735"/>
+	<Point x="808" y="745"/>
+	<Point x="284" y="747"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>deſde el Equador haa la Latitud, que indican las Colu‐
+nas 1�, 4�, y 7�.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="signature-mark">
+	<Coords>
+	<Point x="1379" y="3651"/>
+	<Point x="1379" y="3794"/>
+	<Point x="1587" y="3794"/>
+	<Point x="1587" y="3651"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Xx</Unicode></TextEquiv></TextRegion></Page></PcGts>

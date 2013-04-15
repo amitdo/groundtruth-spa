@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440546">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:20:57</Created>
+	<LastChange>2011-07-05T14:26:05</LastChange></Metadata>
+	<Page imageFilename="00440546.tif" imageWidth="876" imageHeight="1640">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="122" y="107"/>
+	<Point x="181" y="108"/>
+	<Point x="201" y="106"/>
+	<Point x="461" y="105"/>
+	<Point x="473" y="114"/>
+	<Point x="502" y="107"/>
+	<Point x="851" y="105"/>
+	<Point x="846" y="1520"/>
+	<Point x="549" y="1521"/>
+	<Point x="534" y="1528"/>
+	<Point x="516" y="1521"/>
+	<Point x="110" y="1529"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de mi amo haa que les pagae
+ſu deuda. Ahduuieron toda la ca-
+ſa, y hallaron la tan vazia de ajuar
+quan llena de telarañas, pregun-
+taron me don eaua la hazienda
+de mi amo? ſus arcas, tapiceria, y
+alhajas ? Reſpondiles que no ſabia.
+Sin duda dixerõ ellos, ea noche
+lo deuen de auerſacado, y lleua-
+do a alguna parte. Señor alguazil
+prenda a ee moço, que el ſabe
+donde ea, el alguazil, me echo
+mano, y trabo de los cabeçones,
+diziendo : Mochacho yo te lleua-
+re ala carzel,  no deſcubres los
+bienes dee tu amo. Yo como en
+otra tal no me vuiee vio, aun-
+que muchas vezes me hauia a-
+do del cuello, aquel dela calaba-
+cada, pero era para que lo ade-
+rae, tuue mucho miedo, y llo-
+rando prometi de dezir lo que me
+preguntauan, pues di n miedo lo
+que ſabes, y no tengas miedo. Sen-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="283" y="1583"/>
+	<Point x="566" y="1584"/>
+	<Point x="569" y="1612"/>
+	<Point x="281" y="1610"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="357" y="44"/>
+	<Point x="625" y="46"/>
+	<Point x="622" y="96"/>
+	<Point x="500" y="100"/>
+	<Point x="481" y="110"/>
+	<Point x="470" y="109"/>
+	<Point x="462" y="100"/>
+	<Point x="365" y="95"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="120" y="54"/>
+	<Point x="195" y="57"/>
+	<Point x="189" y="104"/>
+	<Point x="113" y="104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>92</Unicode></TextEquiv></TextRegion></Page></PcGts>

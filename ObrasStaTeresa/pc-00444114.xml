@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444114">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T11:29:39</Created>
+	<LastChange>2011-12-19T11:39:26</LastChange></Metadata>
+	<Page imageFilename="00444114.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="468" y="51"/>
+	<Point x="846" y="51"/>
+	<Point x="846" y="216"/>
+	<Point x="468" y="216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>186</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="455" y="231"/>
+	<Point x="1999" y="237"/>
+	<Point x="1990" y="2622"/>
+	<Point x="1924" y="2608"/>
+	<Point x="1896" y="2624"/>
+	<Point x="1876" y="2628"/>
+	<Point x="1865" y="2625"/>
+	<Point x="1756" y="2602"/>
+	<Point x="1692" y="2610"/>
+	<Point x="482" y="2625"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>gloria, para alabanças de Dios y que la ayu-
+daen a ea y darles parte de ſu gozo por‐
+que no puede tanto gozar: pareceme que
+es como lo que dize el Euangelio, que que-
+ria amar o amaua a ſus vezinas: eo me
+parece deuia ſentir el admirable ſpiritu del
+real propheta Dauid quando tañia y cantaua
+con la harpa en alabanças de Dios. Dee
+glorioſo rey ſoy yo muy deuota, y querria to
+dos lo fueen, en eſpecial los que ſomos pec
+cadores. O vala me Dios qual ea vn alma
+quando ea an, toda ea querria fuee len‐
+guas para alabar al Señor. Dize mil deſatinos
+ſantos atinando empre a contentar a quien
+la tiene an: yo ſe perſona que con no ſer poe
+ta que le acaeſcia hazer de preo coplas
+muy ſentidas declarando ſu pena bien, no he‐
+chas de ſu entendimiento, no que para go‐
+zar mas la gloria que tã ſabroſa pena le daua
+ſe quexaua de ea a ſu Dios. Todo ſu cuer‐
+po y alma querria ſe deſpedaçae para mo-
+rar el gozo que con ea pena ente. Que ſe
+le porna entonces delãte de tormẽtos  no le
+fuee ſabroſo paar los por ſu Señor? vee cla‐
+ro  no haziã ca nada los martyres de ſu par
+te en paar tormẽtos. Porque conoce biẽ el al
+ma viene de otra parte la fortaleza. Mas que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1751" y="2624"/>
+	<Point x="1768" y="2617"/>
+	<Point x="1852" y="2632"/>
+	<Point x="1871" y="2631"/>
+	<Point x="1896" y="2626"/>
+	<Point x="1911" y="2630"/>
+	<Point x="1981" y="2638"/>
+	<Point x="1981" y="2702"/>
+	<Point x="1745" y="2703"/>
+	<Point x="1741" y="2672"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſentira</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="625" y="3042"/>
+	<Point x="1565" y="3071"/>
+	<Point x="1566" y="3152"/>
+	<Point x="620" y="3141"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="931" y="64"/>
+	<Point x="931" y="203"/>
+	<Point x="1594" y="203"/>
+	<Point x="1594" y="64"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

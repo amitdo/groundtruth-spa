@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443480">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T21:38:56</Created>
+	<LastChange>2011-03-24T14:58:06</LastChange></Metadata>
+	<Page imageFilename="00443480.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r12" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="632" y="99"/>
+	<Point x="1151" y="99"/>
+	<Point x="1150" y="217"/>
+	<Point x="992" y="216"/>
+	<Point x="976" y="231"/>
+	<Point x="913" y="230"/>
+	<Point x="892" y="217"/>
+	<Point x="632" y="216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro Segundo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="126" y="239"/>
+	<Point x="1684" y="252"/>
+	<Point x="1678" y="433"/>
+	<Point x="1005" y="433"/>
+	<Point x="970" y="481"/>
+	<Point x="127" y="475"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>templacion por donde ea va ſaliendo à la union de
+amor, secreta Eſ cala, por dos propiedades que ai en ea
+las cuales iremos declarando.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="227" y="555"/>
+	<Point x="227" y="484"/>
+	<Point x="1138" y="486"/>
+	<Point x="1676" y="478"/>
+	<Point x="1681" y="2767"/>
+	<Point x="1137" y="2763"/>
+	<Point x="1092" y="2789"/>
+	<Point x="123" y="2786"/>
+	<Point x="132" y="553"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Primeramente ama ſecreta a ea Contemplacion
+tenebroſa. Por cuanto, ſegun avemos tocado arriba, eſ-
+ta es la Teologia Miica que aman los Teologos Sa-
+biduria ſecreta; la cual dize ſanto Tomas,  ſe comuni
+ca i infunde en el alma mas particularmẽte por amor.
+I eo acaece ſecretamente a eſcuras de la obra natural
+del Entendimiento i de las demas Potencias. De donde
+por cuanto las dichas Potencias no lo alcançan, no
+que el Eſpiritu Santo la infunde en el alma, como dize
+la Eſpoſa en los Cantares, n entender ea como ſea,
+ſe ama ſecreta. Ya la verdad no ſolo ea no lo entien
+de, pero nadie, ni el meſmo demonio. Por cuãto el Maeſ
+tro que la enſeña eà dentro del alma ſuancialmen-
+te. I no ſolo por eſo ſe puede amar ſecreta, no tambiẽ
+por los efetos que cauſa en el alma. Porque no ſolamen
+te en las tinieblas i aprietos de la purgacion, cuando
+ea Sabiduria ſecreta purga al alma, es ſecreta para no
+ſaber dezir dea el alma nada; mas tambien deſpues
+en la iluminacion, cuando mas à las claras ſe le comu-
+nica ea Sabiduria, le es al alma tan ſecreta para diſ-
+cernir i ponerle nombre para dezirlo, que demas que
+ninguna gana le dà al alma de dezirla, no haa modo
+ni manera, ni mil que le cuadre, para poder gniﬁcar
+inteligencia tan ſubida i ſentimiento eſpiritual tan de-
+licado i infuſo. I a aunque mas gana tuvieſe de dezir
+lo, i mas gniﬁcaciones truxeſe, empre ſe quedaria
+ſecreto. Porque como aquea Sabiduria interior es tan
+ſencia, tan general i eſpiritual, que no entrò al en-
+tendimiento embuelta ni paliada con alguna eſpecie, o
+imagen ſujeta al ſentido, ſegun algunas vezes ſucede;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="771" y="2933"/>
+	<Point x="1421" y="2933"/>
+	<Point x="1421" y="2998"/>
+	<Point x="771" y="2998"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1508" y="132"/>
+	<Point x="1669" y="132"/>
+	<Point x="1669" y="241"/>
+	<Point x="1508" y="241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>469</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="1160" y="2770"/>
+	<Point x="1301" y="2770"/>
+	<Point x="1301" y="2858"/>
+	<Point x="1160" y="2858"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Gg 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="catch-word">
+	<Coords>
+	<Point x="1546" y="2770"/>
+	<Point x="1652" y="2770"/>
+	<Point x="1652" y="2850"/>
+	<Point x="1546" y="2850"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de</Unicode></TextEquiv></TextRegion></Page></PcGts>

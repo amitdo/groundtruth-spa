@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485425">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T00:51:06</Created>
+	<LastChange>2011-05-12T13:41:31</LastChange></Metadata>
+	<Page imageFilename="00485425.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="628" y="3024"/>
+	<Point x="1396" y="3024"/>
+	<Point x="1396" y="3096"/>
+	<Point x="628" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="427" y="190"/>
+	<Point x="1588" y="193"/>
+	<Point x="1609" y="200"/>
+	<Point x="1628" y="1613"/>
+	<Point x="1610" y="2756"/>
+	<Point x="381" y="2757"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Es lo que aquea diera, mano oſada:
+Y virtud ſublimada; de Fernando:
+Acabaron, entrando: mas los dias.
+Lo qual: con lo que vias comparado:
+Es como con nublado: muy eſcuro
+El Sol ardiente puro: y relumbrante.
+Tu via no es baante, a tanta lumbre:
+Haa que la coumbre, de miraa:
+Tu ver al contempIaa: no confundo:
+Como en carcel profunda, el encerrado:
+Que ſupito ſacado, le atormenta
+El ſol que ſe preſenta: a ſus tinieblas:
+Ai tu: que las nieblas, y hondura:
+Metido en erechura: contemplauas:
+Que era quando mirauas otra gente:
+Viendo tan diﬀerente, ſuerte d'hombre:
+No es mucho que t'aombre, luz tamaña.
+Pero vete que baña, el Sol hermoſo
+Su carro preſuroſo, ya en las ondas:
+Y antes queme reſpondas: ſera pueo.
+Diziendo ai, con geo: muy humano
+Tomole por la mano. O admirable
+Caſo, y cierto eſpantable, que'n ſaliendo,
+Se fueron eriñendo, d'vna parte
+Y d'otra, de tal arte: aquees ondas:
+Que las aguas que hondas, ſer ſolian
+El ſuelo deſcubrian, y dexauan
+Seca, por do paauan: la carrera:
+Haa que'n la ribera, ſe haaron.
+Y como ſe pararon, en vn alto:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="562" y="75"/>
+	<Point x="1032" y="70"/>
+	<Point x="1028" y="175"/>
+	<Point x="562" y="185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>QVARTO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="1068" y="71"/>
+	<Point x="1638" y="75"/>
+	<Point x="1638" y="185"/>
+	<Point x="1073" y="180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. CCXXVIII.</Unicode></TextEquiv></TextRegion></Page></PcGts>

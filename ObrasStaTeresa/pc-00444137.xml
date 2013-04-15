@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444137">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T11:02:26</Created>
+	<LastChange>2011-12-19T11:39:27</LastChange></Metadata>
+	<Page imageFilename="00444137.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="347" y="64"/>
+	<Point x="972" y="68"/>
+	<Point x="1511" y="67"/>
+	<Point x="1511" y="141"/>
+	<Point x="1507" y="190"/>
+	<Point x="908" y="191"/>
+	<Point x="347" y="184"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="608" y="3058"/>
+	<Point x="1568" y="3058"/>
+	<Point x="1570" y="3161"/>
+	<Point x="603" y="3158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="152" y="194"/>
+	<Point x="600" y="196"/>
+	<Point x="617" y="194"/>
+	<Point x="652" y="195"/>
+	<Point x="676" y="196"/>
+	<Point x="729" y="197"/>
+	<Point x="804" y="199"/>
+	<Point x="1729" y="200"/>
+	<Point x="1755" y="2522"/>
+	<Point x="696" y="2539"/>
+	<Point x="146" y="2547"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>parar,  rezar, tã poco. An  a ea maripo-
+a importuna de la memoria, aqui ſe le que-
+man las alas, ya no puede mas buir, la volũ-
+tad deue ear bien occupada en amar, mas
+no entiende como ama. El entendimiento 
+entiende, no ſe entiende como entiende, alo-
+menos no puede cõprehender nada de lo que
+entiẽde. A mi no me parece que entiẽde, por-
+que como digo no ſe entiende, yo no acabo
+de entender eo. Acaeciome a mi vna igno
+rancia al principio, que no ſabia que eaua
+Dios en todas las coſas, y como me parecia
+ear tan preſente, pareciame impoſsible: de-
+xar de creer que eaua ai no podia, por pa-
+recerme ca claro, auia entendido ear ai ſu
+miſma preſencia: los que no tenian letras me
+dezian que eaua ſolo por gracia, yo no lo
+podia creer, porque como digo pareciame
+ear preſente, y an andaua con pena. Vn
+gran letrado de la orden del glorioſo ſanto
+Domingo me quito dea duda, que me di-
+xo ear preſente, y como ſe cõmunicaua con
+noſotros  me cõſolo harto. Es de notar y en-
+tender que empre ea agua del cielo, ee
+grandiſsimo fauor del Señor, dexa el alma cõ
+grandiſsimas ganancias como aora dire.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1210" y="2573"/>
+	<Point x="1210" y="2694"/>
+	<Point x="1352" y="2694"/>
+	<Point x="1352" y="2573"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1463" y="2584"/>
+	<Point x="1463" y="2697"/>
+	<Point x="1742" y="2697"/>
+	<Point x="1742" y="2584"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1529" y="105"/>
+	<Point x="1529" y="192"/>
+	<Point x="1705" y="192"/>
+	<Point x="1705" y="105"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>209</Unicode></TextEquiv></TextRegion></Page></PcGts>

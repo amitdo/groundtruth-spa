@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444380">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:02:40</Created>
+	<LastChange>2011-12-19T11:39:42</LastChange></Metadata>
+	<Page imageFilename="00444380.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="880" y="106"/>
+	<Point x="1581" y="103"/>
+	<Point x="1587" y="215"/>
+	<Point x="881" y="224"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="409" y="243"/>
+	<Point x="695" y="248"/>
+	<Point x="1519" y="233"/>
+	<Point x="2087" y="230"/>
+	<Point x="2046" y="2642"/>
+	<Point x="1798" y="2634"/>
+	<Point x="1759" y="2660"/>
+	<Point x="421" y="2666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>breue de Roma, que yo me eſpante, y ſe eſpã-
+taron los que ſabian la priea que me auia da
+do el Señor a la venida, quando ſupieron la
+gran neceſsidad que auia de eo, y a la coyun
+tura que el Señor me traya, porque hae aqui
+al Obiſpo, y al ſanto fray Pedro de Alcantara,
+y a otro cauaero muy eruo de Dios, en
+cuya caſa ee ſanto hombre poſaua, que era
+perſona adonde los eruos de Dios haauan
+eſpaldas y cabida. Entrambos a dos acabaron
+con el Obiſpo admitiee el moneerio, que
+no fue poco por ſer pobre, no que era tan
+amigo de perſonas que veya aſsi determina-
+das a ſeruir al Señor, que luego ſe afﬁciono a
+fauorecerle, y el aprobarlo ee ſanto viejo, y
+poner mucho con vnos y con otros, en que
+nos ayudaen, fue el que lo hizo todo. Si no
+viniera a ea coyuntura, como ya he dicho,
+no puedo entender como pudiera hazerſe,
+porque euuo poco aqui ee ſanto hombre,
+que no creo fueron ocho dias, y eos muy
+enfermo, y deſde a muy poco le euo el Se-
+ñor congo, parece que le auia guardado ſu
+Magead haa acabar ee negocio, que auia
+muchos dias, no ſe  mas de dos años que an
+daua muy malo. Todo ſe hizo debaxo de grã
+ſecreto, porque a no ſer an no ſe  pudiera</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1797" y="2638"/>
+	<Point x="1860" y="2638"/>
+	<Point x="2005" y="2647"/>
+	<Point x="2002" y="2731"/>
+	<Point x="1784" y="2721"/>
+	<Point x="1785" y="2657"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>hazer</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="610" y="3056"/>
+	<Point x="1600" y="3056"/>
+	<Point x="1600" y="3169"/>
+	<Point x="610" y="3169"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="445" y="128"/>
+	<Point x="417" y="238"/>
+	<Point x="664" y="241"/>
+	<Point x="662" y="128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>452</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444421">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:08:09</Created>
+	<LastChange>2011-12-19T11:39:44</LastChange></Metadata>
+	<Page imageFilename="00444421.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="343" y="69"/>
+	<Point x="1535" y="69"/>
+	<Point x="1535" y="197"/>
+	<Point x="343" y="197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="131" y="210"/>
+	<Point x="1722" y="224"/>
+	<Point x="1739" y="835"/>
+	<Point x="1174" y="847"/>
+	<Point x="398" y="849"/>
+	<Point x="362" y="856"/>
+	<Point x="340" y="861"/>
+	<Point x="326" y="861"/>
+	<Point x="129" y="852"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>do alçauan la hoia, dixome algunas pala-
+bras que le dixee de conſuelo, y otras pre-
+ueniendole de lo que eaua por venir, y po-
+niendole delante lo que auia padecido por
+el, y que ſe aparejae para ſuﬀrir, diole eo
+mucho conſuelo y animo, y todo ha paado
+deſpues como el Señor me lo dixo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="163" y="860"/>
+	<Point x="274" y="860"/>
+	<Point x="314" y="861"/>
+	<Point x="340" y="863"/>
+	<Point x="399" y="853"/>
+	<Point x="565" y="851"/>
+	<Point x="1514" y="850"/>
+	<Point x="1534" y="847"/>
+	<Point x="1546" y="850"/>
+	<Point x="1740" y="840"/>
+	<Point x="1713" y="1552"/>
+	<Point x="999" y="1560"/>
+	<Point x="150" y="1554"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De los de cierta orden, de toda la orden
+junta he vio grandes coſas, vi los en el cie-
+lo con vanderas blancas en las manos, algu-
+nas vezes y como digo, otras coſas de gran
+admiracion, y aſsi tengo ea orden en gran
+veneracion, porque los he tratado mucho, y
+veo conforma ſu vida cõ lo que el Señor me
+ha dado deos a entender.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="154" y="1562"/>
+	<Point x="863" y="1563"/>
+	<Point x="1003" y="1566"/>
+	<Point x="1722" y="1558"/>
+	<Point x="1716" y="2641"/>
+	<Point x="545" y="2653"/>
+	<Point x="136" y="2645"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eando vna noche en oracion, comen-
+ço el Señor a dezirme algunas palabras,
+trayendome a la memoria por eas, quan
+mala auia do mi vida, que me hazian har-
+ta confuon y pena, porque aunque no van
+con rigor, hazen vn ſentimiento y pena
+que deshazen, y enteſe mas aprouecha-
+miento de conocernos con vna palabra
+de eas, que en muchos dias que noſotros
+conderemos nuera miſeria, porque trae
+congo eſculpida vna verdad que no la po-
+demos negar: repreſentome las voluntades</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1503" y="2650"/>
+	<Point x="1717" y="2652"/>
+	<Point x="1720" y="2733"/>
+	<Point x="1497" y="2736"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>con</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="626" y="3059"/>
+	<Point x="1567" y="3059"/>
+	<Point x="1567" y="3161"/>
+	<Point x="626" y="3161"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1566" y="112"/>
+	<Point x="1566" y="206"/>
+	<Point x="1721" y="209"/>
+	<Point x="1721" y="118"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>495</Unicode></TextEquiv></TextRegion></Page></PcGts>

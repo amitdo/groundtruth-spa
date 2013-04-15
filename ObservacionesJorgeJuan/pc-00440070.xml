@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440070">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:03:51</Created>
+	<LastChange>2011-12-19T11:38:39</LastChange></Metadata>
+	<Page imageFilename="00440070.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r7" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="296" y="360"/>
+	<Point x="357" y="359"/>
+	<Point x="814" y="373"/>
+	<Point x="1171" y="385"/>
+	<Point x="2231" y="399"/>
+	<Point x="2231" y="554"/>
+	<Point x="1685" y="559"/>
+	<Point x="1491" y="560"/>
+	<Point x="1385" y="572"/>
+	<Point x="1107" y="571"/>
+	<Point x="1078" y="564"/>
+	<Point x="773" y="563"/>
+	<Point x="500" y="559"/>
+	<Point x="446" y="565"/>
+	<Point x="296" y="565"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>calculo, para haar la Latitud de Cartagena el dia 25 de
+Julio de 1735, de 90° 42' 36½''.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="286" y="570"/>
+	<Point x="1387" y="576"/>
+	<Point x="2232" y="565"/>
+	<Point x="2232" y="2727"/>
+	<Point x="287" y="2727"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El lugar del Sol en la Ecliptica para ee tiempo, eo
+es, à medio dia en Cartagena, ò para las 5 horas 10 minu‐
+tos de la tarde en Parìs ( por ſer ea la diferencia de Me‐
+ridianos entre eas dos Ciudades ) es ſegun las Tablas de
+M. de la Hire 2° 08' 26" de Leo: buſcando pues en la
+quinta coluna 2° de Leo, hao, que le correſponden en
+la ſegunda 19° 44' 13" 52" de Declinacion. Ademàs
+de eo, la Declinacion para cada minuto de mas Longitud
+del Sol, muera la coluna tercera ſer de 13" 29'" 40"";
+luego para 8 minutos ſerà de 1' 47" 55'" 20"", y para
+8' 26" de 1' 53" 46'" 11""; los quales ſubraìdos de
+los 19° 44' 13" 52'" de Declinacion correſpondiente à
+los 2° ſolos de Leo, por diſminuir la Declinacion del Sol,
+quedaràn 19° 42' 20" 06'" de verdadera Declinacion,
+en la ſupocion de ſer la maxima Obliquidad de la
+Ecliptica de 23° 28' 00": pero ſuponiendola yo de 23°
+28' 20", la coluna quarta me muera, que en 2° de
+Leo, ſe debe aumentar la Declinacion del Sol 8" 16"',
+por cada 10" de mayor Obliquidad; luego por 20" ſe‐
+ràn 16" 32'"; que ſumados con los 19° 42' 20" 06'"
+daràn la verdadera Declinacion de 19° 42' 36" 38'", ò
+de 19° 42' 36½", que conviene con la que ſe diò en el
+calculo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="301" y="2738"/>
+	<Point x="1168" y="2739"/>
+	<Point x="2220" y="2740"/>
+	<Point x="2219" y="3122"/>
+	<Point x="2221" y="3307"/>
+	<Point x="1988" y="3309"/>
+	<Point x="1698" y="3336"/>
+	<Point x="1640" y="3339"/>
+	<Point x="302" y="3337"/>
+	<Point x="302" y="2924"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La coluna tercera ſe ha conruìdo baxo la ſupo‐
+cion, que ſon iguales las mutaciones en Declinacion,
+que el Sol tiene, corriendo cada minuto de la Eclipti‐
+ca, de los 15', que comprende la coluna ſegunda. Ea
+ſupocion ſolo es verdadera en rigor geometrico, quando
+el Sol eà en los puntos Equinocciales; pero ſaliendo de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="1000" y="4010"/>
+	<Point x="1944" y="4010"/>
+	<Point x="1944" y="4093"/>
+	<Point x="1000" y="4093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="788" y="290"/>
+	<Point x="787" y="363"/>
+	<Point x="1173" y="364"/>
+	<Point x="1764" y="374"/>
+	<Point x="1763" y="289"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="2047" y="311"/>
+	<Point x="2050" y="393"/>
+	<Point x="2172" y="394"/>
+	<Point x="2169" y="311"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>53</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="2014" y="3330"/>
+	<Point x="2014" y="3416"/>
+	<Point x="2221" y="3419"/>
+	<Point x="2222" y="3316"/>
+	<Point x="2089" y="3314"/>
+	<Point x="2013" y="3314"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>eos</Unicode></TextEquiv></TextRegion></Page></PcGts>

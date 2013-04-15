@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440490">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:15:39</Created>
+	<LastChange>2011-07-05T14:26:03</LastChange></Metadata>
+	<Page imageFilename="00440490.tif" imageWidth="876" imageHeight="1640">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="113" y="84"/>
+	<Point x="855" y="91"/>
+	<Point x="820" y="1504"/>
+	<Point x="86" y="1494"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>rero que con todo mi coraçon,
+y buena voluntad rogaua al ſe-
+ﬁor, no que le echae a la parte
+que mas ſeruido fuee ( como ſe
+ſuele dezir ) mas que le euae
+dee mundo : y quando algu-
+no eſcapaua ( Dios me lo perdo-
+ne ) que mil vezes le daua al dia-
+blo, y al que ſe moria otras tantas
+benediciones le echaua. En todo
+el tiempo que ai euue, que ſe-
+rian ca ſeys meſes, ſolas veynte
+perſonas faecieron : y eas creo
+que las mate yo, o por mejor de-
+zir murieron a mi requea : por-
+que viendo el Señor mi rauio-
+ſa, y continua muerte, pienſo que
+holgaua de matarlos por dar-
+me a mi vida. pero  el dia que
+enterrauamos biuia, los dias que
+no auia muerto moria, y ſentia
+mas tornar a mi cotidiana ham-
+bre. De manera que en nada hal-
+laua deſcanſo, ſaluo en la muer-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="credit">
+	<Coords>
+	<Point x="280" y="1582"/>
+	<Point x="567" y="1583"/>
+	<Point x="567" y="1610"/>
+	<Point x="282" y="1609"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="page-number">
+	<Coords>
+	<Point x="127" y="30"/>
+	<Point x="124" y="79"/>
+	<Point x="190" y="78"/>
+	<Point x="192" y="29"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>36</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="336" y="28"/>
+	<Point x="339" y="77"/>
+	<Point x="620" y="80"/>
+	<Point x="623" y="28"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

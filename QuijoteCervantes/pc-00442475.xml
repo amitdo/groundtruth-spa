@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442475">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T12:35:08</Created>
+	<LastChange>2012-03-12T14:12:03</LastChange></Metadata>
+	<Page imageFilename="00442475.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="326" y="80"/>
+	<Point x="1075" y="71"/>
+	<Point x="1076" y="166"/>
+	<Point x="544" y="169"/>
+	<Point x="530" y="174"/>
+	<Point x="467" y="164"/>
+	<Point x="467" y="187"/>
+	<Point x="328" y="182"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="119" y="190"/>
+	<Point x="171" y="192"/>
+	<Point x="897" y="191"/>
+	<Point x="1216" y="192"/>
+	<Point x="1350" y="193"/>
+	<Point x="1347" y="2154"/>
+	<Point x="1046" y="2153"/>
+	<Point x="1040" y="2137"/>
+	<Point x="444" y="2149"/>
+	<Point x="115" y="2151"/>
+	<Point x="105" y="1963"/>
+	<Point x="102" y="1604"/>
+	<Point x="106" y="1312"/>
+	<Point x="112" y="1012"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bleza, n que la compres, ni me ruas con nada. Por
+que en haziendote Conde, catate ahi cauaero, y di
+gan lo que dixeren, que abuenafe, que te han de a-
+mar ſeñoria, mal que les peſe. Y montas que no ſa‐
+bria yo autorizar el litado, dixo Sãcho. Diado has
+de dezir, que no litado, dixo ſu amo. Sea an, reſpon
+dio Sancho Pança. Digo que le ſabria biẽ acomodar,
+porque por vida mia, que vn tiempo fuy munidor
+de vna cofradia, y que me aentaua tan bien la ropa
+de munidor, que dezian todos, que tenia preſencia
+para poder ſer Prioe de la meſma cofradia. Pues
+que ſera, quando me ponga vn ropon Ducal acueſ‐
+tas, o me via de oro y de perlas, a vſo de Conde
+erangero, para mi tengo, que me han de venir a
+ver de cien leguas. Bien pareceras, dixo don Qui-
+xote, pero ſera meneer que te rapes las barbas a
+menudo, que ſegun las tienes de eſpeas, aborraſ‐
+cadas y mal pueas, no te las rapas a nauaja, ca‐
+da dos dias por lo menos, a tiro de eſcopeta, ſe
+echara de ver lo que eres. Que ay mas, dixo San‐
+cho, no tomar vn barbero, y tenee aalariado
+en caſa, y aun  fuere meneer, le hare que ande
+tras mi, como cauaerizo de grande. Pues como
+ſabes tu, preguntò don Quixote, que los grandes
+euan detras de  ſus cauaerizos? Yo ſe lo dire,
+reſpondio Sancho. Los años paados euue vn mes
+en la Corte, y ai vi que paeandoſe vn ſeñor muy
+pequeño, que dezian que era muy grande, vn hom‐
+bre le ſeguia acauao, a todas las bueltas que daua,
+que no parecia, no que era ſu rabo. Preguntè
+que como aquel hombre no ſe juntaua con el otro,
+no que empre andaua tras del? Reſpondieron-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="468" y="2302"/>
+	<Point x="1120" y="2302"/>
+	<Point x="1120" y="2356"/>
+	<Point x="468" y="2356"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1203" y="75"/>
+	<Point x="1203" y="169"/>
+	<Point x="1346" y="169"/>
+	<Point x="1346" y="75"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>100</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1226" y="2160"/>
+	<Point x="1226" y="2215"/>
+	<Point x="1349" y="2215"/>
+	<Point x="1349" y="2160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>me,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="941" y="2143"/>
+	<Point x="941" y="2238"/>
+	<Point x="1064" y="2238"/>
+	<Point x="1059" y="2166"/>
+	<Point x="1001" y="2147"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N 4</Unicode></TextEquiv></TextRegion></Page></PcGts>

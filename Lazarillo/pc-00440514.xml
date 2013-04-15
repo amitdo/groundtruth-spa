@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440514">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:48:02</Created>
+	<LastChange>2011-07-05T14:26:04</LastChange></Metadata>
+	<Page imageFilename="00440514.tif" imageWidth="876" imageHeight="1640">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="96" y="109"/>
+	<Point x="213" y="110"/>
+	<Point x="221" y="120"/>
+	<Point x="835" y="129"/>
+	<Point x="818" y="1548"/>
+	<Point x="57" y="1545"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>le de comer que  euuiera a vn
+muerto. Conderaua aquel tener
+cerrada la puerta con Ilaue, no
+ſentir arriba, ni abaxo paos de
+perſona : todo lo que auia vio e-
+ran paredes, no hauia lla banco,
+ni meſa, ni aun tal arcaz como
+el de martas. Finalmente pare-
+cia caſa encantada. Preguntome
+ hauia comido. No ſeñor, dixe
+yo, porque aun no eran dadas las
+ocho, quando encontre con Ⅴ.
+M. Pues aunque temprano, ya
+yo auia almorzado, y quando co
+mo algo por la mañana no puedo
+comer haa la noche : paa te co-
+mo pudieres, que deſpues cenare-
+mos: orean me que quando eo le
+oy, falto poco que no me cay de
+mi eado, no tanto de hanbre, co-
+mo por conocer de todo en todo
+ſer me la fortuna contraria, alli ſe
+me repreſentaron de nueuo mis
+fatigas, y torne a llorar mis traba-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="282" y="1580"/>
+	<Point x="569" y="1587"/>
+	<Point x="566" y="1614"/>
+	<Point x="283" y="1609"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="110" y="51"/>
+	<Point x="188" y="49"/>
+	<Point x="183" y="99"/>
+	<Point x="109" y="100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>60</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="366" y="64"/>
+	<Point x="623" y="65"/>
+	<Point x="623" y="116"/>
+	<Point x="364" y="112"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

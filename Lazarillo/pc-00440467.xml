@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440467">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T19:13:36</Created>
+	<LastChange>2011-07-05T14:26:01</LastChange></Metadata>
+	<Page imageFilename="00440467.tif" imageWidth="880" imageHeight="1599">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r5" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="header">
+	<Coords>
+	<Point x="53" y="7"/>
+	<Point x="687" y="7"/>
+	<Point x="687" y="67"/>
+	<Point x="53" y="67"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LAZAR. DE TORM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="699" y="21"/>
+	<Point x="763" y="21"/>
+	<Point x="763" y="63"/>
+	<Point x="737" y="74"/>
+	<Point x="699" y="64"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>13</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="27" y="73"/>
+	<Point x="703" y="71"/>
+	<Point x="736" y="77"/>
+	<Point x="785" y="73"/>
+	<Point x="785" y="1511"/>
+	<Point x="27" y="1511"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bien el abreuiaua el rezar, no di-
+ziendo la mitad de la oracion, y a
+me tenia mandado que en yendo-
+ſe el que le hazia rezar, le tirae
+de la capia. Yo lo hazia a. Lue-
+go el tornaua a dar bozes dizien-
+do, Manden rezar tal, y ral ora-
+cion. Ponia cabe- vn jarrio de
+vino quando comiamos, yo muy
+ſutilmente le aa, y daua vn par
+de beſos caados, tornando lo a
+ſu lugar; mas durome poco, que
+en los tragos conocia la falta,
+y por guardar ſu vino, nunca
+deſpues deſamparaua el jarro, an-
+tes lo tenia por el aſa. Mas no
+auia piedra iman que ai traxee
+a el azero, como yo hazia venir a
+mi el vino, chupando con vna pa-
+ja larga de centeno, que para a-
+quel meneer tenia hecha, la qual
+metia en la boca del jarro dexan
+dolo a buenas noches, mas co-
+mo era el traydor tan auto,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="282" y="1554"/>
+	<Point x="282" y="1588"/>
+	<Point x="588" y="1588"/>
+	<Point x="588" y="1554"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

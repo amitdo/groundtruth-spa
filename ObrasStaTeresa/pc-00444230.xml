@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444230">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:44:15</Created>
+	<LastChange>2011-12-19T11:39:32</LastChange></Metadata>
+	<Page imageFilename="00444230.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="905" y="100"/>
+	<Point x="1555" y="97"/>
+	<Point x="1562" y="230"/>
+	<Point x="1266" y="231"/>
+	<Point x="902" y="232"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="458" y="258"/>
+	<Point x="2072" y="240"/>
+	<Point x="2064" y="2677"/>
+	<Point x="1417" y="2688"/>
+	<Point x="440" y="2692"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cinco o ſeys, todos muy eruos de Dios, y di-
+xome mi confeor, que todos ſe determinauã
+en que era demonio que no comulgae tan a
+menudo, y que procurae diraerme de ſuer
+te que no tuuiee ſoledad, yo era temeroſa
+en eremo, como he dicho, y ayudauame el
+mal de coraçon, que aun en vna pieça ſola no
+oſaua ear de dia muchas vezes, yo como vi 
+tantos lo afﬁrmauan, y yo no lo podia creer,
+diome grandiſsimo eſcrupulo, pareciendome
+poca humildad, por todos eran mas de bue-
+na vida n comparacion que yo, y letrados,
+que porque no los auia de creer? forçauame
+lo que podia para creerlos, y penſaua en mi
+ruyn vida, y que conforme a eo deuian de
+dezir verdad, fuyme de la yglea con ea af-
+ﬂicion, y entreme en vn oratorio, auiendome
+quitado muchos dias de comulgar, quitada la
+ſoledad que era todo mi conſuelo, n tener
+perſona con quien tratar, porque todos eran
+contra mi, vnos me parecia burlauan de mi
+quando deo trataua como que ſe me anto-
+jaua: otros auiſauan al confeor, que ſe guar-
+dae de mi: otros dezian que era claro de-
+monio, ſolo el confeor, que aunque confor-
+maua con eos, por prouarme ſegun deſpues
+ſupe, empre me conſolaua, y me dezia, que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1747" y="2688"/>
+	<Point x="2014" y="2683"/>
+	<Point x="2011" y="2775"/>
+	<Point x="1743" y="2764"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aunque</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit" bgColour="cyan">
+	<Coords>
+	<Point x="603" y="3065"/>
+	<Point x="1581" y="3062"/>
+	<Point x="1581" y="3156"/>
+	<Point x="601" y="3156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="457" y="150"/>
+	<Point x="465" y="252"/>
+	<Point x="637" y="252"/>
+	<Point x="634" y="150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>302</Unicode></TextEquiv></TextRegion></Page></PcGts>

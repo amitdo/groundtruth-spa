@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442631">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T12:32:16</Created>
+	<LastChange>2012-03-12T14:12:12</LastChange></Metadata>
+	<Page imageFilename="00442631.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="454" y="64"/>
+	<Point x="1211" y="46"/>
+	<Point x="1208" y="163"/>
+	<Point x="443" y="187"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="166" y="207"/>
+	<Point x="1451" y="194"/>
+	<Point x="1467" y="367"/>
+	<Point x="185" y="397"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cap. XXXII. Que trata de lo que ſucedio en la venta á
+toda la quadria de don Quixote.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="461" y="411"/>
+	<Point x="1434" y="385"/>
+	<Point x="1477" y="2112"/>
+	<Point x="1423" y="2111"/>
+	<Point x="1359" y="2122"/>
+	<Point x="1160" y="2127"/>
+	<Point x="1019" y="2139"/>
+	<Point x="951" y="2127"/>
+	<Point x="899" y="2124"/>
+	<Point x="96" y="2183"/>
+	<Point x="111" y="668"/>
+	<Point x="458" y="661"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Caboſe la buena comida, enaron lue
+go, y ﬁn que les ſucediee coſa digna
+de contar, egaron otro dia a la venta
+eſpanto, y aſombro de Sancho Pança:
+y aunque el quiera no entrar en ea, no lo pudo
+huyr. La ventera, vẽtero, ſu hija, y Maritornes, que
+vieron venir a don Quixote, y a Sancho, les ſalie-
+ron a recebir con mueras de mucha alegria, y el
+las recebio con graue continente y aplauſo, y dixo-
+les que le adereçaen otro mejor lecho, que la
+vez paada: a lo qual le reſpondio la hueſpeda, que
+como la pagae mejor que la otra vez, que ea ſe
+la daria de Principes. Don Quixote dixo, que 
+haria, y aſsi le adereçarõ vno razonable en el miſ-
+mo caramanchon de marras: y el ſe acoô luego,
+porque venia muy quebrantado, y falto de juyzio.
+No ſe huuo bien encerrado, quando la hueſpeda
+arremetio al barbero, y aendole de la barba, di-
+xo: Para mi ſantiguada, que no ſe ha aun de apro-
+uechar mas de mi rabo para ſu barba, y que me ha
+de boluer mi cola, que anda lo de mi marido por
+eos ſuelos  es verguẽça, digo el peyne,  ſolia yo
+colgar de mi buena cola. No ſe la queria dar el bar-
+bero, aunque ea mas tiraua, haa que el Licencia-
+do le dixo, que ſe la diee, que ya no era meneer
+mas vſar đ aquea induria, no  ſe deſcubriee, y
+morae en ſu miſma forma y dixee a dõ Quixote
+ quãdo le deſpojarõ los ladrones galeores ſe auian</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="466" y="2301"/>
+	<Point x="1123" y="2298"/>
+	<Point x="1121" y="2357"/>
+	<Point x="462" y="2356"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1208" y="2141"/>
+	<Point x="1208" y="2195"/>
+	<Point x="1448" y="2195"/>
+	<Point x="1448" y="2141"/>
+	<Point x="1401" y="2122"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>venido</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="927" y="2131"/>
+	<Point x="925" y="2202"/>
+	<Point x="1022" y="2198"/>
+	<Point x="1020" y="2142"/>
+	<Point x="961" y="2132"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Z 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="drop-capital">
+	<Coords>
+	<Point x="145" y="408"/>
+	<Point x="153" y="660"/>
+	<Point x="453" y="657"/>
+	<Point x="455" y="586"/>
+	<Point x="454" y="514"/>
+	<Point x="453" y="413"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1271" y="84"/>
+	<Point x="1278" y="178"/>
+	<Point x="1422" y="169"/>
+	<Point x="1422" y="77"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>178</Unicode></TextEquiv></TextRegion></Page></PcGts>

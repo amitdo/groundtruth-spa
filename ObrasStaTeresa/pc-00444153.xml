@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444153">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:34:26</Created>
+	<LastChange>2011-12-19T11:39:28</LastChange></Metadata>
+	<Page imageFilename="00444153.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="365" y="92"/>
+	<Point x="1510" y="92"/>
+	<Point x="1510" y="227"/>
+	<Point x="365" y="227"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="103" y="250"/>
+	<Point x="715" y="240"/>
+	<Point x="1786" y="253"/>
+	<Point x="1790" y="2642"/>
+	<Point x="1740" y="2650"/>
+	<Point x="1477" y="2642"/>
+	<Point x="1386" y="2640"/>
+	<Point x="1217" y="2662"/>
+	<Point x="1085" y="2667"/>
+	<Point x="215" y="2682"/>
+	<Point x="104" y="2693"/>
+	<Point x="100" y="2660"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>te. Declarelo el Señor como ha hecho lo de
+mas, que cierto  ſu Magead no me vuiera
+dado a entẽder, por que modos y maneras ſe
+puede algo dezir, yo no ſupiera. Condere-
+mos aora que ea agua porera que hemos
+dicho, es tan copioſa, que  no es por no lo
+conſentir la tierra, podemos creer que ſe eà
+con noſotros ea nuue de la gran Magead
+aca en ea tierra, mas quando ee gran bien
+le agradecemos acudiendo con obras, ſegun
+nueras fuerças, coge el Señor el alma, diga-
+mos aora, a manera que las nuues cogen los
+vapores de la tierra, y leuantala toda de ea, y
+ſube la nuue al cielo, y euala congo, y co-
+miẽçala a morar coſas del reyno que le tie-
+ne aparejado. No ſe  la comparaciõ quadra,
+mas en hecho de verdad eo paa an. En
+eos arrobamientos parece no anima el al-
+ma al cuerpo, y an ſe ente muy ſentido, fal
+tar del el calor natural: vaſe enfriando, aun-
+que con grandiſsima ſuauidad y deleyte, aqui
+no ay ningun remedio de reir, que en la
+vnion como eamos en nuera tierra reme-
+dio ay, aunque con pena y fuerça reir ſe
+puede ca empre, aca las mas vezes ningun
+remedio ay, no que muchas n preuenir el
+penſamiento, ni ayuda ninguna, viene vn im</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1464" y="2666"/>
+	<Point x="1706" y="2658"/>
+	<Point x="1710" y="2763"/>
+	<Point x="1460" y="2763"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>petu</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="616" y="3058"/>
+	<Point x="1566" y="3058"/>
+	<Point x="1566" y="3157"/>
+	<Point x="616" y="3157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1570" y="110"/>
+	<Point x="1725" y="110"/>
+	<Point x="1725" y="237"/>
+	<Point x="1685" y="245"/>
+	<Point x="1570" y="237"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>225</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1317" y="2653"/>
+	<Point x="1384" y="2653"/>
+	<Point x="1384" y="2733"/>
+	<Point x="1306" y="2744"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P</Unicode></TextEquiv></TextRegion></Page></PcGts>

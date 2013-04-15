@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439266">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T06:51:33</Created>
+	<LastChange>2011-05-12T13:39:55</LastChange></Metadata>
+	<Page imageFilename="00439266.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="122" y="97"/>
+	<Point x="1184" y="75"/>
+	<Point x="1188" y="179"/>
+	<Point x="1143" y="175"/>
+	<Point x="147" y="190"/>
+	<Point x="120" y="190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PARTE II. LIBRO II. CAP. IX.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="2" y="200"/>
+	<Point x="1377" y="190"/>
+	<Point x="1384" y="668"/>
+	<Point x="1379" y="677"/>
+	<Point x="0" y="688"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>eſcapae. Llegòle al alma perder mi compañIa, mas
+no pude hazer otra coſa, quetemi no vinieen en mi
+ſeguimiento con alguna ſaetia, o algun otro baxel.
+Compré tres cavalgaduras en que me evar mi perſo-
+na y los baules; recibì un criado, y diziendo yr mi
+viage, n que alguno ſupiee lo contrario, nos deſ-
+pedimos como para empre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="124" y="771"/>
+	<Point x="1087" y="761"/>
+	<Point x="1197" y="761"/>
+	<Point x="1211" y="763"/>
+	<Point x="1216" y="881"/>
+	<Point x="1007" y="888"/>
+	<Point x="977" y="885"/>
+	<Point x="966" y="892"/>
+	<Point x="949" y="902"/>
+	<Point x="948" y="903"/>
+	<Point x="933" y="896"/>
+	<Point x="881" y="903"/>
+	<Point x="124" y="884"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fin del Libro Segundo.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r4">
+	<Coords>
+	<Point x="1513" y="1148"/>
+	<Point x="1513" y="2050"/>
+	<Point x="629" y="2096"/>
+	<Point x="59" y="2050"/>
+	<Point x="59" y="1148"/>
+	<Point x="1029" y="1087"/></Coords></ImageRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="961" y="2527"/>
+	<Point x="1401" y="2527"/>
+	<Point x="1432" y="2654"/>
+	<Point x="938" y="2661"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LIBRO</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="538" y="2845"/>
+	<Point x="1312" y="2835"/>
+	<Point x="1306" y="2938"/>
+	<Point x="522" y="2938"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1250" y="176"/>
+	<Point x="1245" y="102"/>
+	<Point x="1362" y="102"/>
+	<Point x="1361" y="168"/>
+	<Point x="1355" y="180"/>
+	<Point x="1327" y="181"/>
+	<Point x="1300" y="184"/>
+	<Point x="1253" y="181"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>235</Unicode></TextEquiv></TextRegion></Page></PcGts>

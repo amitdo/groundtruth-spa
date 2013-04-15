@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438894">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T07:52:05</Created>
+	<LastChange>2011-06-24T14:04:23</LastChange></Metadata>
+	<Page imageFilename="00438894.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r29" index="0"/>
+	<RegionRefIndexed regionRef="r34" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r27" type="header">
+	<Coords>
+	<Point x="265" y="55"/>
+	<Point x="932" y="45"/>
+	<Point x="955" y="52"/>
+	<Point x="957" y="95"/>
+	<Point x="950" y="137"/>
+	<Point x="250" y="145"/>
+	<Point x="235" y="135"/>
+	<Point x="240" y="62"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GARCILASSO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="page-number">
+	<Coords>
+	<Point x="1070" y="52"/>
+	<Point x="1070" y="140"/>
+	<Point x="1195" y="140"/>
+	<Point x="1195" y="52"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>78</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="50" y="158"/>
+	<Point x="1040" y="140"/>
+	<Point x="1050" y="216"/>
+	<Point x="1173" y="218"/>
+	<Point x="1192" y="430"/>
+	<Point x="1078" y="452"/>
+	<Point x="1100" y="750"/>
+	<Point x="1190" y="751"/>
+	<Point x="1185" y="855"/>
+	<Point x="1105" y="861"/>
+	<Point x="1118" y="1348"/>
+	<Point x="1187" y="1353"/>
+	<Point x="1183" y="1462"/>
+	<Point x="1125" y="1459"/>
+	<Point x="1100" y="1901"/>
+	<Point x="948" y="1912"/>
+	<Point x="927" y="1996"/>
+	<Point x="44" y="1998"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a Fernando que ardia n tardança,
+por colorar ſu lança en Turca ſangre:
+con animoſa hambre, y con denuedo
+forceja cõ quien quedo ear le manda:
+como lebrel de Irlanda generoſo,
+que el juali cerdoſo, y ﬁero mira,
+rebateſe, ſoſpira, fuerça, y riñe,
+y apenas le conriñe el atadura,
+que el dueño con cordura mas aprieta:
+aſsi eaua perfea, y bienlabrada
+la imagen ﬁgurada de Fernando,
+que quien ai mirando lo eouiera,
+que era dea manera lo juzgara:
+reſplandeciente, y clara de ſu gloria
+pintada la vitoria ſe moraua:
+a Ceſar abraçaua, y no parando,
+los braços a Fernando echaua al cueo:
+El moraua de aqueo ſentimiento,
+por ſer el vencimiento tan holgado.
+Eaua ﬁgurado vn carro eraño
+con el deſpojo, y daño de la gente
+barbara, y juntamente ai pintados
+cautiuos, amarrados a las ruedas,
+con habitos, y ſedas variadas,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="marginalia">
+	<Coords>
+	<Point x="1138" y="486"/>
+	<Point x="1156" y="460"/>
+	<Point x="1174" y="448"/>
+	<Point x="1236" y="444"/>
+	<Point x="1302" y="444"/>
+	<Point x="1286" y="552"/>
+	<Point x="1144" y="552"/>
+	<Point x="1140" y="500"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>194</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="catch-word">
+	<Coords>
+	<Point x="1055" y="1972"/>
+	<Point x="1055" y="2068"/>
+	<Point x="1194" y="2068"/>
+	<Point x="1194" y="1972"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>lan-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="credit">
+	<Coords>
+	<Point x="503" y="2099"/>
+	<Point x="956" y="2101"/>
+	<Point x="975" y="2101"/>
+	<Point x="976" y="2123"/>
+	<Point x="973" y="2133"/>
+	<Point x="964" y="2135"/>
+	<Point x="907" y="2137"/>
+	<Point x="900" y="2138"/>
+	<Point x="892" y="2138"/>
+	<Point x="875" y="2135"/>
+	<Point x="533" y="2135"/>
+	<Point x="518" y="2137"/>
+	<Point x="488" y="2133"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

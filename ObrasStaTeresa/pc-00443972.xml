@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443972">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:42:52</Created>
+	<LastChange>2011-12-19T11:39:18</LastChange></Metadata>
+	<Page imageFilename="00443972.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r7" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="drop-capital">
+	<Coords>
+	<Point x="475" y="668"/>
+	<Point x="748" y="671"/>
+	<Point x="740" y="922"/>
+	<Point x="736" y="935"/>
+	<Point x="628" y="932"/>
+	<Point x="603" y="935"/>
+	<Point x="544" y="935"/>
+	<Point x="521" y="933"/>
+	<Point x="475" y="927"/>
+	<Point x="466" y="925"/>
+	<Point x="446" y="927"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="454" y="32"/>
+	<Point x="860" y="32"/>
+	<Point x="860" y="209"/>
+	<Point x="454" y="209"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>44</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="479" y="231"/>
+	<Point x="788" y="221"/>
+	<Point x="1938" y="221"/>
+	<Point x="1973" y="231"/>
+	<Point x="1998" y="250"/>
+	<Point x="1973" y="643"/>
+	<Point x="1415" y="655"/>
+	<Point x="940" y="657"/>
+	<Point x="479" y="643"/>
+	<Point x="459" y="430"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP. IIII. Dize como la ayudo el ſeñor
+para forçarſe a  miſma para tomar habito, y
+las muchas enfermedades que ſuma-
+gead la començo a dar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="429" y="932"/>
+	<Point x="489" y="934"/>
+	<Point x="527" y="937"/>
+	<Point x="567" y="941"/>
+	<Point x="585" y="945"/>
+	<Point x="628" y="935"/>
+	<Point x="685" y="940"/>
+	<Point x="715" y="936"/>
+	<Point x="750" y="938"/>
+	<Point x="750" y="808"/>
+	<Point x="764" y="662"/>
+	<Point x="1201" y="668"/>
+	<Point x="2011" y="661"/>
+	<Point x="2020" y="2602"/>
+	<Point x="1944" y="2614"/>
+	<Point x="1811" y="2601"/>
+	<Point x="682" y="2638"/>
+	<Point x="371" y="2623"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N eos dias que andaua con eas
+determinaciones auia perſuadido a
+vn hermano mio a que ſe metiee
+frayle diziendo le la vanidad del mundo y cõ
+certamos entrambos de yrnos vn dia muy de
+mañana al moneerio a dõde eaua aquea
+mi amiga,  era alque yo tenia mucha aﬁciõ,
+pueo que ya en ea porera determinacion
+yo eaua de ſuerte que aqualquiera que pen
+ſara ſeruir mas a Dios, o mi padre quiera fue
+ra, que mas miraua ya al remedio de mi alma,
+que del deſcãſo ningun caſo hazia del. Acuer
+da ſe me a todo mi parecer, y con verdad que
+quando ſali de en caſa de mi padre no creo
+ſera mas el ſentimiẽto quãdo me muera, por 
+me parece cada hueo ſe me apartaua por ,
+porque como no auia amor de Dios,  quitaſ
+ſe el amor del padre, y pariẽtes, era todo haziẽ
+do me vna fuerça tã grãde   el Señor no me
+ayudara no baarã mis cõderaciones para
+yradelãte: aquime dio animo cõtrami, de ma
+nera  lo puſe por obra. En tomãdo el habito,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="616" y="3075"/>
+	<Point x="1567" y="3075"/>
+	<Point x="1567" y="3149"/>
+	<Point x="616" y="3149"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="903" y="67"/>
+	<Point x="903" y="192"/>
+	<Point x="1550" y="192"/>
+	<Point x="1550" y="67"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1746" y="2615"/>
+	<Point x="1746" y="2713"/>
+	<Point x="1984" y="2713"/>
+	<Point x="1984" y="2615"/>
+	<Point x="1952" y="2631"/>
+	<Point x="1780" y="2609"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>luego</Unicode></TextEquiv></TextRegion></Page></PcGts>

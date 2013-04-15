@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440510">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T02:17:35</Created>
+	<LastChange>2011-07-05T14:26:03</LastChange></Metadata>
+	<Page imageFilename="00440510.tif" imageWidth="834" imageHeight="1640">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r9" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="152" y="123"/>
+	<Point x="162" y="108"/>
+	<Point x="193" y="108"/>
+	<Point x="817" y="113"/>
+	<Point x="816" y="363"/>
+	<Point x="435" y="349"/>
+	<Point x="433" y="407"/>
+	<Point x="86" y="401"/>
+	<Point x="86" y="122"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>poible no que ayas do moço
+de ciego. y ſantiguando ſe de mi,
+como  yo euuiera endemonia-
+do, cerro ſu puerta dandome con
+ea en los ojos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="209" y="516"/>
+	<Point x="693" y="517"/>
+	<Point x="694" y="586"/>
+	<Point x="200" y="578"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP. QVARTO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="171" y="638"/>
+	<Point x="719" y="637"/>
+	<Point x="720" y="698"/>
+	<Point x="542" y="704"/>
+	<Point x="552" y="757"/>
+	<Point x="341" y="760"/>
+	<Point x="336" y="691"/>
+	<Point x="172" y="687"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Como Lazaro aento con vn
+eſcudero.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="171" y="804"/>
+	<Point x="818" y="811"/>
+	<Point x="816" y="1531"/>
+	<Point x="58" y="1533"/>
+	<Point x="68" y="933"/>
+	<Point x="170" y="930"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VE me forçado ſacar fuerças
+de ﬂaqueza : y poco a poco
+con ayuda de las buenas gentes, di
+comigo en ea ingne ciudad de
+Toledo, adonde con la ayuda de
+Dios, de ai a quinze dias ſe me
+cerro la herida, que fuera mejor
+no ſe me cerrara, porque mientras
+eaua malo, empre me dauan al-
+guna limoſna : mas deſpues que
+euueſano, todos me dezian : Tu
+eres vn veaco, y olgaçan, buſca</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="281" y="1582"/>
+	<Point x="571" y="1584"/>
+	<Point x="565" y="1613"/>
+	<Point x="279" y="1612"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="97" y="56"/>
+	<Point x="170" y="56"/>
+	<Point x="165" y="99"/>
+	<Point x="132" y="98"/>
+	<Point x="125" y="108"/>
+	<Point x="97" y="107"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>56</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="331" y="47"/>
+	<Point x="580" y="47"/>
+	<Point x="580" y="106"/>
+	<Point x="331" y="106"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="drop-capital">
+	<Coords>
+	<Point x="63" y="805"/>
+	<Point x="167" y="805"/>
+	<Point x="163" y="924"/>
+	<Point x="61" y="925"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>F</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r10">
+	<Coords>
+	<Point x="58" y="446"/>
+	<Point x="815" y="450"/>
+	<Point x="814" y="507"/>
+	<Point x="61" y="502"/></Coords></SeparatorRegion></Page></PcGts>

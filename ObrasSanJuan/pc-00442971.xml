@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442971">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T21:14:21</Created>
+	<LastChange>2011-03-15T16:51:30</LastChange></Metadata>
+	<Page imageFilename="00442971.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="787" y="29"/>
+	<Point x="787" y="148"/>
+	<Point x="1667" y="148"/>
+	<Point x="1667" y="29"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dibujo del Venerable Varon</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="445" y="48"/>
+	<Point x="445" y="151"/>
+	<Point x="583" y="151"/>
+	<Point x="583" y="48"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>16</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="1940" y="162"/>
+	<Point x="445" y="164"/>
+	<Point x="370" y="2716"/>
+	<Point x="685" y="2735"/>
+	<Point x="1535" y="2718"/>
+	<Point x="1841" y="2725"/>
+	<Point x="1931" y="194"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſantidad. Fundò en el diſcurſo dee tiempo (demas de
+los Conventos de Duruelo i Mancera, a que dio prin-
+cipio en compañia del Padre Frai Antonio) los de Bae
+ça, Cordova, Mancha de Iaen, Caravaca, i Segovia,
+que ſon de Religioſos; i de Religioſas, los de Granada,
+Malaga, Sabiote, Cordova, i Madrid: en cuyas funda
+ciones, no menos que en las Prelacias, reſplandecio el
+exemplo i valor del VENERAELE PADRE.
+Ivale nuero Señor perficionando mui aprieſa; i que-
+riendole ya dar los ultimos quilates, i dexar ea ima-
+gen como acabada de ſu mano, le previno muchos dias
+antes con la noticia i deſeo de los trabajos, con que le
+avia ultimamente de conſumar. Infundiole unas ince-
+ſables anas de padecer por ſu amor. De las cuales ſo
+licitado el fervorolo Padre, le pedia al Señor tres co-
+ſas. La primera, Trabajos: la ſegunda, que no murieſe
+Prelado: la tercera, que murieſe Abatido. Eo miſmo
+pidio, por premio de ſus deſeos, en una eraordinaria
+oferta que le hizo ſu Magead. Porque eando el de-
+votimo Varon en el Convento de Segovia, orando
+un dia ante una Imagen de pinzel mui laimoſa de
+Crio nuero Señor con la Cruz a cueas, le hablò
+el miſmo Señor, por medio de la Imagen, i dixo: FRAI
+IOAN, QVE QVIERES POR LOS
+SERVICIOS QVE ME HAS HECHO?
+A lo cual reſpondio: SEñOR, PADECER I
+SER MENOSPRECIADO POR VOS.
+Rara oferta! ratima peticion! trabajos por premio
+de trabajos. Pedia nuera Madre, Santa TERESA,
+O Morir, ò Padecer, no admitiẽdo medio entre la muer-
+te i los trabajos; i ee ingne Varon pide trabajos i deſ-
+precios, n acordar ſe del morir, porque no ſe acuerda
+del n del padecer. Ee era ſu anhelo, eas ſus anas,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="1714" y="2788"/>
+	<Point x="1714" y="2731"/>
+	<Point x="1784" y="2730"/>
+	<Point x="1859" y="2731"/>
+	<Point x="1859" y="2788"/>
+	<Point x="1790" y="2807"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ee</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="776" y="2989"/>
+	<Point x="776" y="2930"/>
+	<Point x="1423" y="2930"/>
+	<Point x="1423" y="2989"/>
+	<Point x="1082" y="3000"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

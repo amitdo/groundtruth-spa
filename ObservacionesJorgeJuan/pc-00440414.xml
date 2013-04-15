@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440414">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T13:07:05</Created>
+	<LastChange>2011-12-19T11:39:10</LastChange></Metadata>
+	<Page imageFilename="00440414.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r11" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r9" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1985" y="425"/>
+	<Point x="2153" y="425"/>
+	<Point x="2153" y="516"/>
+	<Point x="1985" y="516"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>391</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="322" y="761"/>
+	<Point x="2183" y="761"/>
+	<Point x="2183" y="1144"/>
+	<Point x="322" y="1144"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dada la diancia navegada debaxo del
+Meridiano, haar la diferencia
+en Latitud.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="476" y="1459"/>
+	<Point x="463" y="1250"/>
+	<Point x="2266" y="1244"/>
+	<Point x="2267" y="2741"/>
+	<Point x="820" y="2769"/>
+	<Point x="815" y="2785"/>
+	<Point x="794" y="2785"/>
+	<Point x="755" y="2762"/>
+	<Point x="627" y="2763"/>
+	<Point x="615" y="2776"/>
+	<Point x="588" y="2776"/>
+	<Point x="579" y="2762"/>
+	<Point x="275" y="2762"/>
+	<Point x="308" y="1462"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Upongaſe, que un Navio ſaliò de la Latitud Norte
+1 grado, y navegò al Septentrion 240 mias de
+diancia, la qual fuera aſsimiſmo, en la ſupocion de
+la Tierra Eſphérica, la diferencia en Latitud 4 grados,
+que amarémos en adelante diferencia en Latitud Eſphèri‐
+ca; agregaſe èa à la Latitud ſalida, y ſe tendrà la arri‐
+bada 5 grados, baxo de la miſma ſupocion. Para haar
+la verdadera, tomeſe en la Tabla del valor de los grados,
+y arcos de Meridiano la diferencia entre el arco de 5°,
+que es de 297.'76, y el de 1°, que es de 59.'55, y ſe
+haarà de 238.21; reeſe ea cantidad de la diferencia
+en Latitud Eſphérica 240', y el reduo 1.'79 agregado à la
+miſma diferencia en Latitud Eſphèrica, darà 241.'79, ò 242
+minutos por la diferencia en Latitud verdadera, que ha‐
+cen 4° 02'; los quales agregados à la Latitud ſalida 1°,
+daràn 5° 02' por la Latitud arribada.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="316" y="2784"/>
+	<Point x="772" y="2781"/>
+	<Point x="781" y="2787"/>
+	<Point x="819" y="2787"/>
+	<Point x="829" y="2775"/>
+	<Point x="2271" y="2764"/>
+	<Point x="2268" y="3326"/>
+	<Point x="319" y="3333"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>NOTA. El reduo, que en ee exemplo es 1.'79, ſe
+ha de añadir à la diferencia en Latitud Eſphèrica, empre
+que la navegacion ſe hiciere entre el Equador, y la Lati‐
+tud de 54° 44'; pero  ſe hiciere en mayores Latitudes,
+ſe ha de ſubraer, para obtener la diferencia en Latitud
+verdadera.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="2035" y="3416"/>
+	<Point x="2255" y="3416"/>
+	<Point x="2255" y="3531"/>
+	<Point x="2035" y="3531"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PRO-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="974" y="4018"/>
+	<Point x="1948" y="4018"/>
+	<Point x="1948" y="4090"/>
+	<Point x="974" y="4090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="757" y="396"/>
+	<Point x="1251" y="395"/>
+	<Point x="1764" y="396"/>
+	<Point x="1774" y="525"/>
+	<Point x="745" y="529"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="drop-capital">
+	<Coords>
+	<Point x="294" y="1262"/>
+	<Point x="289" y="1457"/>
+	<Point x="469" y="1457"/>
+	<Point x="457" y="1259"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>S</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords>
+	<Point x="867" y="567"/>
+	<Point x="867" y="709"/>
+	<Point x="1674" y="709"/>
+	<Point x="1674" y="567"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PROBLEMA I.</Unicode></TextEquiv></TextRegion></Page></PcGts>

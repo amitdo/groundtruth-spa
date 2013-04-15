@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485282">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T08:04:16</Created>
+	<LastChange>2011-05-12T13:41:11</LastChange></Metadata>
+	<Page imageFilename="00485282.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r11" index="0"/>
+	<RegionRefIndexed regionRef="r15" index="1"/>
+	<RegionRefIndexed regionRef="r17" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="577" y="3008"/>
+	<Point x="1427" y="3008"/>
+	<Point x="1427" y="3096"/>
+	<Point x="577" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="400" y="200"/>
+	<Point x="1657" y="211"/>
+	<Point x="1685" y="226"/>
+	<Point x="1666" y="900"/>
+	<Point x="400" y="914"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No amando, eays en noche tenebroſa:
+Y no eſpereys jamas, que os amanezca:
+Haa que os venga vna ora tan dichoſa:
+Que por Amor, deleyte ſe os oﬀrezca.
+Entonces, con ſu luz no terne ys coſa:
+Que ẽ lure, y ẽ valor, y en biẽ, no crezca.
+Y abrir ſe os a con el, la fantaa:
+Como con el luzero, s'abre el dia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="394" y="1000"/>
+	<Point x="1638" y="1007"/>
+	<Point x="1630" y="1754"/>
+	<Point x="379" y="1757"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La tierra do no ay Sol, empre ea fria:
+Nunca en ea vereys fruto ni ﬂores:
+Aſ es el alma, al tiempo que porﬁa
+A no ſentir el Sol de los amores:
+Su guo, en ſu ſentir ſe le reſfria:
+Con paſmo de ſus gozos y dolores:
+D' eo al cuerpo le cabe en ſu deſgracia:
+Mal ademan, mal lure, y mala gracia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="391" y="1823"/>
+	<Point x="1670" y="1827"/>
+	<Point x="1680" y="2534"/>
+	<Point x="384" y="2534"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y  eas coſas avn no os an cabido:
+Es porque el deſamor con ſu dolencia:
+No os a tomado avn, todo el ſentido:
+Ni a podido romper tanta ecelencia.
+Y tambien el Amor tiene creydo:
+Que aueys d' hazer enmiẽda en ſu ſẽcia.
+Y ai os ſuﬀre ſeñoras, y os eſpera:
+Porque tan alto bien ai no muera.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r19" type="other">
+	<Coords>
+	<Point x="1236" y="117"/>
+	<Point x="1236" y="196"/>
+	<Point x="1370" y="196"/>
+	<Point x="1370" y="117"/></Coords></GraphicRegion>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="710" y="89"/>
+	<Point x="870" y="89"/>
+	<Point x="870" y="105"/>
+	<Point x="886" y="105"/>
+	<Point x="886" y="106"/>
+	<Point x="969" y="106"/>
+	<Point x="969" y="107"/>
+	<Point x="1052" y="107"/>
+	<Point x="1052" y="108"/>
+	<Point x="1135" y="108"/>
+	<Point x="1135" y="109"/>
+	<Point x="1218" y="109"/>
+	<Point x="1218" y="191"/>
+	<Point x="1218" y="190"/>
+	<Point x="887" y="190"/>
+	<Point x="887" y="186"/>
+	<Point x="710" y="186"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion></Page></PcGts>

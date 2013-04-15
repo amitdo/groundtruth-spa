@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439265">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T06:51:26</Created>
+	<LastChange>2011-05-12T13:39:55</LastChange></Metadata>
+	<Page imageFilename="00439265.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="551" y="116"/>
+	<Point x="1544" y="112"/>
+	<Point x="1544" y="202"/>
+	<Point x="559" y="195"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="302" y="213"/>
+	<Point x="328" y="209"/>
+	<Point x="1697" y="210"/>
+	<Point x="1683" y="2626"/>
+	<Point x="1668" y="2626"/>
+	<Point x="1595" y="2627"/>
+	<Point x="1560" y="2623"/>
+	<Point x="1543" y="2625"/>
+	<Point x="1248" y="2637"/>
+	<Point x="302" y="2629"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>huviera do ſueño lo paſsado. Ai paſsò aquel dia haa
+el guiente, que viniendo à la vita el Aente con
+ſus dos Tenientes, mandaron amar à Claudio, y à la
+muger que con el avia venido preſsa: los quales, como
+ya huvieſsen dicho en ſu confeion quienes eran, y
+ai ſueſsen publicamente conocidos, fueron ſueltos;
+empero no tan libres, que Claudio no purgaſse bien las
+coas, porque quando à ſu caſa egò, haò la mayor
+parte dea y de ſus bienes abraſados, y juntamente à
+una ſu hermana honea, de las que ſacaron à Dorotea
+de ſu caſa: la qual fue haada con un diſpenſero en una
+miſma cama muertos, y otros tres criados. Tanto n-
+tiò ee dolor, laimòle de tal manera el coraçon ſeme-
+jante afrenta, porque aqueo avia do en toda la ciu-
+dad notorio, que de la intenſa imaginacion, adoleciò
+gravemente. Y no deeando ſalud para gozarſe con
+ea, no ſolo para hazer penitencia del grave pecado
+cometido, convaleciò, y n dar quenta deo à per-
+ſona del mundo, ſe fue al monte, donde acabò ſanta-
+mente, endo Religioſo de la Orden de ſan Franciſco.
+Dorotea ſe fue con ſu marido en paz y amiad, qual
+empre avian tenido. El Teniente ſe quedò muy feo,
+n muchos doblones que le davan, y n vengança, y
+Bonifacio con todo ſu honor. Porque Sabina, y las
+mas que ſupieron ſu afrenta, dentro de muy pocos dias
+murieron, que ai ſabe Dios caigar y vengar los a-
+gravios cometidos, contra inocentes y juos. Con ea
+hioria, y otros entretenimientos, venimos con bo-
+nança haa Eſpaña, que no poco la tuve deeada, n
+terros, artieria, remos, poiças, ni arrombadas;
+porque todo ſue à la mar, y quedè yo vivo, que fuera
+mas juo perecer en ea. Deſembarcamos en Barcelo-
+na: Donde diziendole à mi amigo el Capitan Favelo,
+que avia votado en la tormenta de no hazer tres noches
+en parte alguna de toda Eſpaña, haa egar à Sevia,
+y vitar la Imagen de nuera Señora del Vae, à quien
+me avia ofrecido, y hechole cierta promea  de ai</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1453" y="2635"/>
+	<Point x="1550" y="2635"/>
+	<Point x="1611" y="2630"/>
+	<Point x="1680" y="2635"/>
+	<Point x="1680" y="2697"/>
+	<Point x="1537" y="2703"/>
+	<Point x="1453" y="2697"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>eſcapae.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="544" y="2866"/>
+	<Point x="1300" y="2868"/>
+	<Point x="1300" y="2930"/>
+	<Point x="544" y="2925"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="325" y="120"/>
+	<Point x="450" y="120"/>
+	<Point x="450" y="203"/>
+	<Point x="325" y="203"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>234</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439246">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T01:18:44</Created>
+	<LastChange>2011-05-12T13:39:54</LastChange></Metadata>
+	<Page imageFilename="00439246.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="137" y="67"/>
+	<Point x="1229" y="81"/>
+	<Point x="1235" y="78"/>
+	<Point x="1232" y="116"/>
+	<Point x="1235" y="191"/>
+	<Point x="1235" y="213"/>
+	<Point x="137" y="208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PARTE II. LIBRO II. CAP. IX.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="240" y="270"/>
+	<Point x="1210" y="259"/>
+	<Point x="1200" y="394"/>
+	<Point x="237" y="391"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITULO IX.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="29" y="445"/>
+	<Point x="1462" y="424"/>
+	<Point x="1476" y="1000"/>
+	<Point x="808" y="1008"/>
+	<Point x="27" y="1045"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Navegando Guzman de Alſarache para Eſpaña,
+ſe mareò Sayabedra, diòle una calentura, ſaltòle
+à modorra, y perdiò el juyzio. Dize que el
+es Guzman de Alſarache, y con la locura
+ſe arrojò à la mar, quedando abogado en
+ea.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="170" y="1076"/>
+	<Point x="630" y="1078"/>
+	<Point x="807" y="1062"/>
+	<Point x="1541" y="1078"/>
+	<Point x="1534" y="2613"/>
+	<Point x="923" y="2632"/>
+	<Point x="7" y="2635"/>
+	<Point x="17" y="1236"/>
+	<Point x="57" y="1238"/>
+	<Point x="127" y="1238"/>
+	<Point x="175" y="1235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ruximos tan proſpero tiempo à la ſalida de Geno-
+va, que quando el Sol ſaliò el Martes, aviamos
+doblado el cabo de Noli, como eà dicho, y haa egar
+à las pomas de Marſea, tuvimos favorable viento. Ai
+eſperamos haa la primera rendida, endonos todo
+empre apazible, porque corria un freſco levante, con
+el qual navegamos haa el guiente dia en la tarde,  ſe
+deſcubrio tierra de Eſpaña, con general alegria de quan-
+tos ai veniamos. La fortuna, que ni es fuerte, ni una,
+no ﬂaca y varia, començò à morarnos la poca con-
+ancia fuya, en grave daño nuero, y hablando aqui
+agora por los terminos y lenguage que à los marineros
+entonces les ohì, cubriofe todo el cielo por la vanda mae-
+ral, con oſcuras y eſpeſas nuves, que deſpedian de 
+unos muy grueſsos goterones de agua; faltònos ee
+viento començando à entriecerſe los coraçones, que
+parecia tener encima deos aquea negrura tenebroſa.
+Lo qual vio, por los Conſegeros y Pilotos, hizieron
+junta en la popa, con animo de prevenirſe de remedio,
+contra tan eſpantoſas amenaças: cada uno botava lo que
+mas le parecia importante, mas viendo cargar el viento
+en demaa, n otra reſolucion alguna, ni eſperarla, fue
+meneer amaynar de golpe la Borda (que aman eos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1321" y="2628"/>
+	<Point x="1423" y="2623"/>
+	<Point x="1428" y="2696"/>
+	<Point x="1425" y="2709"/>
+	<Point x="1312" y="2709"/>
+	<Point x="1319" y="2689"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="521" y="2841"/>
+	<Point x="1313" y="2823"/>
+	<Point x="1326" y="2923"/>
+	<Point x="1319" y="2932"/>
+	<Point x="515" y="2939"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="drop-capital">
+	<Coords>
+	<Point x="38" y="1099"/>
+	<Point x="38" y="1231"/>
+	<Point x="161" y="1228"/>
+	<Point x="162" y="1099"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1293" y="113"/>
+	<Point x="1297" y="228"/>
+	<Point x="1445" y="228"/>
+	<Point x="1443" y="115"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>213</Unicode></TextEquiv></TextRegion></Page></PcGts>

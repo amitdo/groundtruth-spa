@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440501">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:16:45</Created>
+	<LastChange>2011-07-05T14:26:03</LastChange></Metadata>
+	<Page imageFilename="00440501.tif" imageWidth="880" imageHeight="1599">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="10" y="66"/>
+	<Point x="647" y="73"/>
+	<Point x="664" y="85"/>
+	<Point x="755" y="85"/>
+	<Point x="753" y="1493"/>
+	<Point x="9" y="1486"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>del agujeto que yo auia hecho, y
+començo a dar al diablo los rato-
+nes, y a dezir : Que es eo? que nũ-
+ca he ſentido ratones en ea caſa
+no a ora ; y n duda deuia de de-
+zir verdad, porque  caſa auia de
+auer en el reyno juamente dellos
+preuilegiada, aquella de razon a-
+uia de ſer, porque no ſuelen mo-
+rar donde no ay que comer. Tor-
+no a buſcar clauos, y tablillas por
+la caſa, y por las paredes con las
+quales torno ataparlos agugeros.
+Venida la noche, y oyendo que
+mi amo dormia me leuãte, con el
+cuchillo, y quanto el tapaua de
+dia, deſatapaua yo de noche. La
+priea que nos dimos fue tanta
+que n duda; por eo ſe deuia de-
+zir. Donde vna puerta ſe cierra
+otra ſe abre : ﬁnalmente parecia-
+mos tener a eajo la tela de Pe-
+nelope, pues quanto el texia de
+dia, rompia yo de noche, en po-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="credit">
+	<Coords>
+	<Point x="286" y="1553"/>
+	<Point x="572" y="1555"/>
+	<Point x="576" y="1585"/>
+	<Point x="284" y="1585"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="header">
+	<Coords>
+	<Point x="58" y="11"/>
+	<Point x="641" y="13"/>
+	<Point x="646" y="68"/>
+	<Point x="56" y="59"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LAZAR. DE TORM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="674" y="23"/>
+	<Point x="747" y="21"/>
+	<Point x="740" y="75"/>
+	<Point x="672" y="69"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>47</Unicode></TextEquiv></TextRegion></Page></PcGts>

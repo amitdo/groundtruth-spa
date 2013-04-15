@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443553">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T21:57:46</Created>
+	<LastChange>2010-12-24T06:43:56</LastChange></Metadata>
+	<Page imageFilename="00443553.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r8" index="2"/>
+	<RegionRefIndexed regionRef="r11" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="769" y="122"/>
+	<Point x="1449" y="122"/>
+	<Point x="1449" y="233"/>
+	<Point x="775" y="232"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Llama de Amor viva.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="324" y="260"/>
+	<Point x="1842" y="262"/>
+	<Point x="1828" y="1860"/>
+	<Point x="318" y="1850"/>
+	<Point x="316" y="1468"/>
+	<Point x="334" y="766"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>como palma multiplicarà los dias. Eo es: Mi gloria no
+la dexarà Dios bolver a vieja como antes lo era: i el
+multiplicarà mis dias (eo es, mis merecimientos haſ-
+ta el cielo) como la palma ſus cogoos. I todo lo que
+David dize en el Pſalmo veinte i nueve, anda cantando
+a Dios entre , particularmẽte aqueos dos verſos poſ
+treros que dizen: Convertii plantum meum in gaudium
+mihi, conſcidii ſaccum meum, &amp; circumdeaii me
+ltitia. Vt cantet tibi gloria mea, &amp; non compungar Do-
+mine Deus meus in ternum conﬁtebor tibi. Convertie
+mi anto en gozo para mi, rompie mi ſaco, i cercae
+me de alegria para que te cante mi gloria, i ya no ſea
+compungida, porque aqui ninguna pena le ega, Señor
+Dios mio, para empre te alabarè. Porque el alma en
+te a Dios aqui tan ſolicito en regalarla, i con tan precio
+ſas, idelicadas, i encarecidas palabras, engrãdeciendo-
+la i haziendola una i otras mercedes, que le parece, que
+no tiene otra en el mundo aquien regalar, ni otra coſa
+en que ſe emplear no que todo es para ea ſola. I a
+lo conﬁeſa en los Cantares: Dilẽus meus mihi, &amp; ego
+ii. Yo toda para mi Amado, i mi amado todo para mi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="422" y="1884"/>
+	<Point x="1726" y="1896"/>
+	<Point x="1704" y="2016"/>
+	<Point x="420" y="1990"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CANCION TERCERA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="catch-word">
+	<Coords>
+	<Point x="1638" y="2714"/>
+	<Point x="1814" y="2720"/>
+	<Point x="1809" y="2816"/>
+	<Point x="1633" y="2816"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="credit">
+	<Coords>
+	<Point x="768" y="2950"/>
+	<Point x="783" y="2916"/>
+	<Point x="1431" y="2924"/>
+	<Point x="1431" y="2992"/>
+	<Point x="775" y="2998"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>©Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="520" y="2084"/>
+	<Point x="1596" y="2096"/>
+	<Point x="1592" y="2116"/>
+	<Point x="1598" y="2686"/>
+	<Point x="514" y="2664"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O Lampuras de fuegó.
+En cuyosreſplandores
+Las profundas cabernas del ſentido,
+Que estaba eſcuro i ciego,
+Con estraños primores
+Calor, y luz dan junto a ſu querido.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="page-number">
+	<Coords>
+	<Point x="358" y="141"/>
+	<Point x="358" y="243"/>
+	<Point x="526" y="243"/>
+	<Point x="526" y="141"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>542</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="marginalia">
+	<Coords>
+	<Point x="60" y="1660"/>
+	<Point x="60" y="1814"/>
+	<Point x="310" y="1814"/>
+	<Point x="310" y="1660"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cant. 2.
+16.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="marginalia">
+	<Coords>
+	<Point x="66" y="676"/>
+	<Point x="66" y="878"/>
+	<Point x="324" y="878"/>
+	<Point x="324" y="676"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pſal.129
+12.</Unicode></TextEquiv></TextRegion></Page></PcGts>

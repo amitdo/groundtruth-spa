@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444397">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T11:34:52</Created>
+	<LastChange>2011-12-19T11:39:43</LastChange></Metadata>
+	<Page imageFilename="00444397.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="237" y="64"/>
+	<Point x="863" y="67"/>
+	<Point x="1480" y="64"/>
+	<Point x="1459" y="193"/>
+	<Point x="238" y="194"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="78" y="206"/>
+	<Point x="994" y="204"/>
+	<Point x="1667" y="213"/>
+	<Point x="1668" y="238"/>
+	<Point x="1727" y="2588"/>
+	<Point x="1662" y="2604"/>
+	<Point x="1367" y="2605"/>
+	<Point x="1230" y="2598"/>
+	<Point x="1154" y="2606"/>
+	<Point x="1068" y="2639"/>
+	<Point x="56" y="2659"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>contenta, ni los contentan, no es ſu len-
+guage otro no hablar de Dios, y an
+no entienden, ni las entiende no quien
+habla el miſmo. Guardamos la regla de
+nuera Señora del Carmen, y cumplida
+ea n relaxacion, no como la ordeno
+fray Hugo Cardenal de Santa Sabina, que
+fue dada a M. CC. XLVIII. años, en el
+Año quinto del Pontiﬁcado del Papa Ino-
+centio IIII. Me parece ſeran bien emplea-
+dos todos los trabajos que ſe han paa-
+do. Agora aunque tiene algun rigor, por-
+que no ſe come jamas carne n neceſ-
+dad, y ayuno de ocho meſes, y otras
+coſas como ſe vee en la miſma prime-
+ra regla, en muchas aun ſe les haze po-
+co a las hermanas, y guardan otras co-
+ſas que para cumplir ea con mas per-
+fecion nos han parecido necearias, y
+eſpero en el Señor ha de yr muy adelan-
+te lo començado, como ſu Magead me
+lo ha dicho. La otra caſa que la beata
+que dixe procuraua hazer tambien la fa-
+uorecio el Señor, y ea hecha en Al-
+cala, y no le falto harta contradicion, ni
+dexo de paar trabajos grandes, ſe que
+guarda en ea toda religion conforme</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1437" y="2608"/>
+	<Point x="1657" y="2608"/>
+	<Point x="1671" y="2705"/>
+	<Point x="1441" y="2703"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a ea</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="584" y="3047"/>
+	<Point x="1612" y="3050"/>
+	<Point x="1607" y="3160"/>
+	<Point x="586" y="3166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1489" y="101"/>
+	<Point x="1489" y="205"/>
+	<Point x="1657" y="205"/>
+	<Point x="1657" y="101"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>471</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1109" y="2630"/>
+	<Point x="1120" y="2720"/>
+	<Point x="1232" y="2724"/>
+	<Point x="1367" y="2722"/>
+	<Point x="1373" y="2683"/>
+	<Point x="1361" y="2607"/>
+	<Point x="1232" y="2604"/>
+	<Point x="1153" y="2609"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Gg 4</Unicode></TextEquiv></TextRegion></Page></PcGts>

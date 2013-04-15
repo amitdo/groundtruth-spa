@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441889">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T04:40:30</Created>
+	<LastChange>2011-07-05T14:26:38</LastChange></Metadata>
+	<Page imageFilename="00441889.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r14" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r31" type="credit">
+	<Coords>
+	<Point x="703" y="3127"/>
+	<Point x="1464" y="3127"/>
+	<Point x="1464" y="3197"/>
+	<Point x="703" y="3197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="474" y="261"/>
+	<Point x="1694" y="261"/>
+	<Point x="1694" y="2850"/>
+	<Point x="1691" y="2866"/>
+	<Point x="1514" y="2866"/>
+	<Point x="1513" y="2955"/>
+	<Point x="1363" y="2954"/>
+	<Point x="1351" y="2954"/>
+	<Point x="477" y="2957"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De pura luz, i de eſplendor veida:
+Habiendo en tus Cabellos
+Deſconocido las priſsiones de oro,
+Que padezco, i adoro ;
+Permitte a mi dolor, i a mi tormento,
+Por piedad liſonjera,
+Que pues he de morir, antes que muera,
+Mi voluntad ordene, i teamento.
+Ea Alma n conſuelo,
+Por mandartela a ti, la mando al Cielo.
+De el Cuerpo deſdichado,
+Que tanto padecio por obligarte,
+Mando a la tierra aquella poca parte,
+Que al fuego le ſobrò, i a mi cuidado.
+En tu olvido abriràn mi ſepoltura,
+I llevarà los lutos mi ventura.
+Que no haia luces, ruego,
+Alumbrenme mis llamas, i mi fuego.
+I en hora tan ſevera
+Mi coraçon podrà ſervir de cera.
+I pues me hecharàn menos cada hora,
+Para llover en mi calamidades,
+Solas me lloraràn tus crueldades.
+Dichoſo io,  tu deſden me llora,
+I  tienes por premio de el cuidado,
+Apiadarte de un hombre deſdichado!
+Por no oﬀender a tn rigor en nada,
+Quiero que la Piedad me ſea negada.
+A todos dejo en mi dolor exemplo,
+I al Deſengaño mando hacer un Templo.
+I mando,  el caudal a tanto alcança,
+Fundar un Hoſpital de la Eſperança,
+Donde ſe acaben con ſus proprias manos
+Los incurables ſanos.
+De los bienes, i males, que poſeo,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="header">
+	<Coords>
+	<Point x="899" y="146"/>
+	<Point x="1322" y="146"/>
+	<Point x="1322" y="249"/>
+	<Point x="899" y="249"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ERATO,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="198" y="122"/>
+	<Point x="385" y="122"/>
+	<Point x="385" y="233"/>
+	<Point x="198" y="233"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>298</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1631" y="2922"/>
+	<Point x="1767" y="2922"/>
+	<Point x="1767" y="3010"/>
+	<Point x="1631" y="3010"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De-</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443749">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T09:47:15</Created>
+	<LastChange>2011-01-03T10:07:00</LastChange></Metadata>
+	<Page imageFilename="00443749.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r20" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r1" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="drop-capital">
+	<Coords>
+	<Point x="363" y="1121"/>
+	<Point x="583" y="1145"/>
+	<Point x="593" y="1333"/>
+	<Point x="367" y="1333"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="649" y="249"/>
+	<Point x="1393" y="269"/>
+	<Point x="1420" y="373"/>
+	<Point x="1415" y="495"/>
+	<Point x="655" y="487"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ya bien puedes mirarme,
+Deſpues que me mirae.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="664" y="767"/>
+	<Point x="697" y="727"/>
+	<Point x="587" y="623"/>
+	<Point x="516" y="508"/>
+	<Point x="1463" y="511"/>
+	<Point x="1665" y="519"/>
+	<Point x="1872" y="539"/>
+	<Point x="1909" y="529"/>
+	<Point x="1914" y="862"/>
+	<Point x="1888" y="933"/>
+	<Point x="1630" y="945"/>
+	<Point x="397" y="933"/>
+	<Point x="380" y="917"/>
+	<Point x="358" y="769"/>
+	<Point x="384" y="764"/>
+	<Point x="607" y="768"/>
+	<Point x="632" y="765"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vitando de mi eſe color moreno i deſgraciado
+con que no eaba de ver, ya bien puedes
+mirarme mas vezes, por no ſolo me qui-
+tae el color moreno, mirandome la primera vez, pero
+tambien me hizie mas digna de ver: porque</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="640" y="973"/>
+	<Point x="1636" y="970"/>
+	<Point x="1660" y="968"/>
+	<Point x="1665" y="1132"/>
+	<Point x="624" y="1108"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cracia i hermoſura en mi dexae.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1767" y="2761"/>
+	<Point x="1891" y="2764"/>
+	<Point x="1896" y="2841"/>
+	<Point x="1770" y="2840"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>des.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="760" y="2895"/>
+	<Point x="1440" y="2920"/>
+	<Point x="1427" y="3012"/>
+	<Point x="915" y="3017"/>
+	<Point x="875" y="3017"/>
+	<Point x="750" y="3012"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="header">
+	<Coords>
+	<Point x="909" y="115"/>
+	<Point x="1004" y="93"/>
+	<Point x="1424" y="100"/>
+	<Point x="1433" y="133"/>
+	<Point x="1449" y="178"/>
+	<Point x="1438" y="226"/>
+	<Point x="1390" y="243"/>
+	<Point x="949" y="243"/>
+	<Point x="881" y="209"/>
+	<Point x="875" y="203"/>
+	<Point x="907" y="144"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Declaracion de la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="page-number">
+	<Coords>
+	<Point x="335" y="141"/>
+	<Point x="335" y="240"/>
+	<Point x="549" y="240"/>
+	<Point x="549" y="141"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>736</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="drop-capital">
+	<Coords>
+	<Point x="372" y="527"/>
+	<Point x="364" y="729"/>
+	<Point x="579" y="762"/>
+	<Point x="620" y="760"/>
+	<Point x="645" y="755"/>
+	<Point x="650" y="749"/>
+	<Point x="667" y="737"/>
+	<Point x="647" y="702"/>
+	<Point x="589" y="663"/>
+	<Point x="495" y="501"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Q</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="602" y="1358"/>
+	<Point x="595" y="1125"/>
+	<Point x="1916" y="1157"/>
+	<Point x="1929" y="2754"/>
+	<Point x="1919" y="2758"/>
+	<Point x="1721" y="2757"/>
+	<Point x="1516" y="2778"/>
+	<Point x="1324" y="2764"/>
+	<Point x="564" y="2775"/>
+	<Point x="333" y="2745"/>
+	<Point x="358" y="2691"/>
+	<Point x="375" y="2660"/>
+	<Point x="401" y="2308"/>
+	<Point x="407" y="2281"/>
+	<Point x="395" y="2196"/>
+	<Point x="399" y="2175"/>
+	<Point x="396" y="2105"/>
+	<Point x="375" y="1370"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>V cho ſe agrada Dios en el alma que tiene ſu
+gracia: porque en ea mora bien agradado, i
+ea eà con el engrandecida, i por eſo la ama
+inefablemente, i la va comunicando empre en todas
+las ſazones i obras ſuyas mas amor i dones; porque al-
+cança mucho el alma  eà ſubida en amor, i honrada
+en Dios. I a lo dà à entender Dios, hablando con ſu a-
+migo amado Iacob, por Iſaìas, diziẽdo: Ex quo honorabi
+lis faus e in oculis meis, ego dilexi te, quiere dezir: Deſ-
+pues que en mis ojos eres hecho honrado i glorioſo, yo
+te amè, eo es, has merecido mas amormio, i en el mas
+gracia de mercedes mias por la honra i hermoſura de
+gloria que de mi tenias. Eo dà tambien bien a enten-
+der la Eſpoſa en Ios Canticos divinos a las hijas de Ie-
+ruſalen, diziendo: Nigra ſum, ſed formoſa ﬁli Hieruſalẽ,
+ideò dil exit me Rex, &amp; introduxit me in cubiculum ſuum,
+que quiere dezir: Morena ſoi hijas de Ieruſalen, pero
+hermoſa, por tanto me ha amado el Rei, i metido en
+lo interior de ſu lecho; es a ſaber, aunque ſoi more-
+na de mio, ſoi hermoſa del, i por eſo me comunicò mas
+amor, i metiome mas adentro, haziendome mas merce</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="marginalia">
+	<Coords>
+	<Point x="110" y="1642"/>
+	<Point x="110" y="1830"/>
+	<Point x="358" y="1830"/>
+	<Point x="362" y="1644"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Iſai. 43.
+4.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="marginalia">
+	<Coords>
+	<Point x="120" y="2152"/>
+	<Point x="120" y="2292"/>
+	<Point x="382" y="2292"/>
+	<Point x="388" y="2209"/>
+	<Point x="382" y="2152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cãt. 1. 4.</Unicode></TextEquiv></TextRegion></Page></PcGts>

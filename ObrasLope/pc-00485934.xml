@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485934">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T04:35:50</Created>
+	<LastChange>2011-07-28T11:29:14</LastChange></Metadata>
+	<Page imageFilename="00485934.tif" imageWidth="2250" imageHeight="3124">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r19" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r20" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="368" y="462"/>
+	<Point x="1036" y="473"/>
+	<Point x="1124" y="489"/>
+	<Point x="1152" y="479"/>
+	<Point x="1172" y="475"/>
+	<Point x="1855" y="473"/>
+	<Point x="1826" y="2751"/>
+	<Point x="1145" y="2796"/>
+	<Point x="930" y="2803"/>
+	<Point x="363" y="2797"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Don Beltran. Si a la eſperiencia de vn viejo
+famoſo Carlos le dan
+licencia de dar conſejo
+al viejo de don Beltran
+vn tiempo de Francia eſpejo,
+Eſpaña que a Roma a do
+tan rebelde, que a podido
+ſu imperio arrojar de ,
+tan facil es para ti
+de ayer a Eſpaña venido,
+mirad que es fuerte ſu tierra
+toda aſpera y montuoſa,
+y es gente muy animoſa
+muy diera para la guerra,
+indomable y belicoſa,
+deſengañaros aguardo
+que no es ſayal toſco y pardo,
+y que a vengar ſus injurias
+con las mejores de Aurias,
+ſale de Leon Bernardo,
+eos que a la nieue, al rayo
+ſufren el yelo y el Sol,
+ſon reliquias de Pelayo,
+aquel diuino Eſpañol,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="header">
+	<Coords>
+	<Point x="783" y="80"/>
+	<Point x="783" y="167"/>
+	<Point x="1276" y="179"/>
+	<Point x="1309" y="189"/>
+	<Point x="1318" y="191"/>
+	<Point x="1331" y="194"/>
+	<Point x="1345" y="197"/>
+	<Point x="1379" y="194"/>
+	<Point x="1416" y="197"/>
+	<Point x="1431" y="197"/>
+	<Point x="1680" y="216"/>
+	<Point x="1759" y="203"/>
+	<Point x="1761" y="95"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comedia de Lope de Vega.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="421" y="165"/>
+	<Point x="418" y="455"/>
+	<Point x="1046" y="465"/>
+	<Point x="1098" y="481"/>
+	<Point x="1113" y="485"/>
+	<Point x="1125" y="487"/>
+	<Point x="1197" y="464"/>
+	<Point x="1432" y="464"/>
+	<Point x="1444" y="206"/>
+	<Point x="1377" y="195"/>
+	<Point x="1359" y="197"/>
+	<Point x="1340" y="198"/>
+	<Point x="1276" y="182"/>
+	<Point x="1260" y="181"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>en todo el monte vn vaao
+que ni relincha cauao
+ni hombre armado parece.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="catch-word">
+	<Coords>
+	<Point x="1443" y="2786"/>
+	<Point x="1442" y="2865"/>
+	<Point x="1653" y="2857"/>
+	<Point x="1649" y="2775"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que fue</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r21" type="handwritten-annotation">
+	<Coords>
+	<Point x="1084" y="2842"/>
+	<Point x="1081" y="2975"/>
+	<Point x="1291" y="2973"/>
+	<Point x="1296" y="2851"/></Coords></GraphicRegion>
+	<TextRegion id="r22" type="credit">
+	<Coords>
+	<Point x="649" y="3062"/>
+	<Point x="646" y="3106"/>
+	<Point x="933" y="3108"/>
+	<Point x="1273" y="3108"/>
+	<Point x="1271" y="3118"/>
+	<Point x="1281" y="3118"/>
+	<Point x="1284" y="3109"/>
+	<Point x="1392" y="3108"/>
+	<Point x="1392" y="3066"/>
+	<Point x="1172" y="3066"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444463">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:43:23</Created>
+	<LastChange>2011-12-19T11:39:46</LastChange></Metadata>
+	<Page imageFilename="00444463.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="311" y="109"/>
+	<Point x="1535" y="109"/>
+	<Point x="1535" y="233"/>
+	<Point x="311" y="233"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="121" y="247"/>
+	<Point x="1783" y="247"/>
+	<Point x="1783" y="2409"/>
+	<Point x="121" y="2409"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dos, ſe que veran de donde viene, y alabaran
+a quien lo ha dicho por mi, ſu Magead tẽ-
+ga empre a v.m. de ſu mano, y le haga tan
+gran ſanto que con ſu ſpiritu y luz alumbre
+a ea miſerable poco humilde y mucho atre
+uida, que ſe ha oſado determinar a eſcriuir
+coſas tan ſubidas, plega al Señor no aya en
+eo errado, teniendo intencion y deeo de
+acertar y de obedecer, y que por mi ſe alabaſ-
+ſe en algo el Señor, que es lo que ha muchos
+años  le ſuplico, y como me faltã para eo
+las obras, he me atreuido a concertar ea mi
+desbaratada vida, aunque no gaando en
+eo mas cuydado ni tiempo de lo que ha -
+do meneer para eſcriuirla, no poniendo lo
+que ha paado por mi con toda la aneza y
+verdad que yo he podido, plega al Señor
+pues es poderoſo, y  quiere puede, quiera
+que en todo acierte yo a hazer ſu voluntad,
+y no permita ſe pierda ea alma que con tã-
+tos artiﬁcios y maneras, y tantas vezes
+ha ſacado ſu Magead del in-
+ﬁerno y traydo a ,
+Amen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1521" y="2466"/>
+	<Point x="1692" y="2466"/>
+	<Point x="1692" y="2585"/>
+	<Point x="1521" y="2585"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>EL</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="611" y="3061"/>
+	<Point x="1580" y="3061"/>
+	<Point x="1580" y="3170"/>
+	<Point x="611" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1545" y="123"/>
+	<Point x="1545" y="235"/>
+	<Point x="1692" y="235"/>
+	<Point x="1692" y="123"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>543</Unicode></TextEquiv></TextRegion></Page></PcGts>

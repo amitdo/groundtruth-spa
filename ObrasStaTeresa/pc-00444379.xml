@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444379">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T11:32:33</Created>
+	<LastChange>2011-12-19T11:39:42</LastChange></Metadata>
+	<Page imageFilename="00444379.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r10" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="244" y="106"/>
+	<Point x="1396" y="107"/>
+	<Point x="1398" y="234"/>
+	<Point x="238" y="235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="97" y="246"/>
+	<Point x="905" y="245"/>
+	<Point x="1685" y="263"/>
+	<Point x="1684" y="897"/>
+	<Point x="754" y="895"/>
+	<Point x="84" y="900"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vezes me eſpanto y diez mil querria hartar-
+me de orar, y dar bozes a todos para dezir la
+gran ceguedad y maldad mia, por  aproue-
+chae algo para que eos abrieen los ojos.
+Abraſelos el que puede por ſu bondad, y
+no permita ſe me tornen a cegar a mi,
+Amen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1453" y="2654"/>
+	<Point x="1674" y="2679"/>
+	<Point x="1655" y="2753"/>
+	<Point x="1482" y="2757"/>
+	<Point x="1421" y="2723"/>
+	<Point x="1423" y="2665"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>breue</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="596" y="3051"/>
+	<Point x="1596" y="3067"/>
+	<Point x="1585" y="3161"/>
+	<Point x="581" y="3148"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="51" y="929"/>
+	<Point x="944" y="930"/>
+	<Point x="1025" y="930"/>
+	<Point x="1698" y="925"/>
+	<Point x="1706" y="2060"/>
+	<Point x="55" y="2059"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP. XXXVI. Progue en la ma-
+teria començada, y dize como ſe acabo de con-
+cluyr, y ſe fundo ee moneerio del glorioſo
+San Ioſeph y las grandes contradiciones, y
+perſecuciones que deſpues de tomar abito las
+religioſas vuo y los grandes trabajos y ten-
+taciones que ea pao, y como de
+todo la ſaco el Señor con vioria
+y en gloria y alaban-
+ça ſuya.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="443" y="2112"/>
+	<Point x="1680" y="2089"/>
+	<Point x="1735" y="2090"/>
+	<Point x="1720" y="2653"/>
+	<Point x="1625" y="2670"/>
+	<Point x="1455" y="2651"/>
+	<Point x="1170" y="2645"/>
+	<Point x="875" y="2688"/>
+	<Point x="89" y="2703"/>
+	<Point x="101" y="2400"/>
+	<Point x="181" y="2399"/>
+	<Point x="266" y="2396"/>
+	<Point x="307" y="2396"/>
+	<Point x="352" y="2387"/>
+	<Point x="356" y="2386"/>
+	<Point x="365" y="2385"/>
+	<Point x="393" y="2385"/>
+	<Point x="437" y="2386"/>
+	<Point x="442" y="2387"/>
+	<Point x="440" y="2192"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Artida ya de aquea ciudad venia
+muy contenta por el camino deter-
+minandome a paar todo lo que el
+Señor fuee ſeruido muy con toda voluntad.
+La noche meſma que egue a ea tierra, e-
+go nuero deſpacho para el moneerio y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="1452" y="137"/>
+	<Point x="1452" y="253"/>
+	<Point x="1654" y="253"/>
+	<Point x="1654" y="137"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>451</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="drop-capital">
+	<Coords>
+	<Point x="113" y="2112"/>
+	<Point x="101" y="2397"/>
+	<Point x="178" y="2398"/>
+	<Point x="269" y="2394"/>
+	<Point x="307" y="2395"/>
+	<Point x="366" y="2383"/>
+	<Point x="437" y="2385"/>
+	<Point x="438" y="2115"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="signature-mark">
+	<Coords>
+	<Point x="1084" y="2661"/>
+	<Point x="1091" y="2750"/>
+	<Point x="1296" y="2746"/>
+	<Point x="1286" y="2652"/>
+	<Point x="1179" y="2650"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ff 2</Unicode></TextEquiv></TextRegion></Page></PcGts>

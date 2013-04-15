@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442277">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:52:57</Created>
+	<LastChange>2012-03-12T14:11:48</LastChange></Metadata>
+	<Page imageFilename="00442277.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r13" index="0"/>
+	<RegionRefIndexed regionRef="r14" index="1"/>
+	<RegionRefIndexed regionRef="r15" index="2"/>
+	<RegionRefIndexed regionRef="r16" index="3"/>
+	<RegionRefIndexed regionRef="r18" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="1220" y="12"/>
+	<Point x="1220" y="101"/>
+	<Point x="1355" y="101"/>
+	<Point x="1355" y="12"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fol. 1</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r11">
+	<Coords>
+	<Point x="55" y="129"/>
+	<Point x="55" y="566"/>
+	<Point x="99" y="582"/>
+	<Point x="1503" y="566"/>
+	<Point x="1503" y="129"/>
+	<Point x="382" y="109"/></Coords></ImageRegion>
+	<GraphicRegion id="r12" type="stamp">
+	<Coords>
+	<Point x="1377" y="780"/>
+	<Point x="1317" y="829"/>
+	<Point x="1324" y="851"/>
+	<Point x="1321" y="1003"/>
+	<Point x="1401" y="1075"/>
+	<Point x="1484" y="1085"/>
+	<Point x="1555" y="1074"/>
+	<Point x="1555" y="796"/></Coords></GraphicRegion>
+	<TextRegion id="r13" type="heading">
+	<Coords>
+	<Point x="111" y="588"/>
+	<Point x="90" y="964"/>
+	<Point x="821" y="999"/>
+	<Point x="1260" y="963"/>
+	<Point x="1296" y="852"/>
+	<Point x="1286" y="821"/>
+	<Point x="1330" y="800"/>
+	<Point x="1388" y="761"/>
+	<Point x="1402" y="582"/>
+	<Point x="1348" y="581"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PRIMERA PARTE
+DEL INGENIOSO
+hidalgo don Quixote de
+la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="heading">
+	<Coords>
+	<Point x="111" y="1038"/>
+	<Point x="111" y="1307"/>
+	<Point x="1413" y="1266"/>
+	<Point x="1390" y="1209"/>
+	<Point x="1378" y="1070"/>
+	<Point x="1350" y="1038"/>
+	<Point x="1326" y="1031"/>
+	<Point x="928" y="1034"/>
+	<Point x="183" y="1024"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Capitulo Primero. Que trata de la condi-
+cion, y exercicio del famoſo hidalgo don
+Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="drop-capital">
+	<Coords>
+	<Point x="107" y="1337"/>
+	<Point x="107" y="1853"/>
+	<Point x="313" y="1863"/>
+	<Point x="543" y="1869"/>
+	<Point x="618" y="1864"/>
+	<Point x="633" y="1853"/>
+	<Point x="635" y="1521"/>
+	<Point x="633" y="1337"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="649" y="1341"/>
+	<Point x="644" y="1819"/>
+	<Point x="637" y="1898"/>
+	<Point x="432" y="1886"/>
+	<Point x="281" y="1890"/>
+	<Point x="140" y="1885"/>
+	<Point x="106" y="1898"/>
+	<Point x="82" y="2155"/>
+	<Point x="901" y="2150"/>
+	<Point x="1042" y="2148"/>
+	<Point x="1077" y="2163"/>
+	<Point x="1359" y="2147"/>
+	<Point x="1400" y="2153"/>
+	<Point x="1400" y="1340"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N Vn lugar de la Mancha, de
+cuyo nombre no quiero acor-
+darme, no ha mucho tiempo
+que viuia vn hidalgo de los de
+lança en aiero, adarga anti-
+gua, rozin ﬂaco, y galgo corre-
+dor. Vna oa de algo mas vaca
+que carnero, ſalpicon las mas
+noches, dueIos y quebrãtos los
+Sabados, lantejas los Viernes, algun palomino de aña-
+didura los Domingos: conſumian las tres partes de ſu
+hazienda. El reo dea concluìan, ſayo de velarte,
+calças de veudo paralas ﬁeas, con ſus pantuﬂos de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="signature-mark">
+	<Coords>
+	<Point x="1019" y="2165"/>
+	<Point x="1025" y="2225"/>
+	<Point x="1072" y="2225"/>
+	<Point x="1074" y="2218"/>
+	<Point x="1073" y="2170"/>
+	<Point x="1042" y="2153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="catch-word">
+	<Coords>
+	<Point x="1310" y="2166"/>
+	<Point x="1311" y="2225"/>
+	<Point x="1379" y="2225"/>
+	<Point x="1381" y="2189"/>
+	<Point x="1369" y="2161"/>
+	<Point x="1336" y="2154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>lo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="credit">
+	<Coords>
+	<Point x="455" y="2300"/>
+	<Point x="455" y="2368"/>
+	<Point x="1135" y="2368"/>
+	<Point x="1135" y="2300"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

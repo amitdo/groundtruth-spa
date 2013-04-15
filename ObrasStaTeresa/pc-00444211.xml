@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444211">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:41:51</Created>
+	<LastChange>2011-12-19T11:39:31</LastChange></Metadata>
+	<Page imageFilename="00444211.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r11" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="618" y="3060"/>
+	<Point x="1581" y="3065"/>
+	<Point x="1576" y="3160"/>
+	<Point x="613" y="3160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="314" y="100"/>
+	<Point x="1509" y="100"/>
+	<Point x="1509" y="245"/>
+	<Point x="314" y="245"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1537" y="144"/>
+	<Point x="1680" y="148"/>
+	<Point x="1676" y="244"/>
+	<Point x="1539" y="242"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>283</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="128" y="254"/>
+	<Point x="1723" y="254"/>
+	<Point x="1713" y="2642"/>
+	<Point x="128" y="2721"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>era harto y bien auiſado toda mi vida y al-
+ma como quien bien ſabia ee lenguage me
+declaro lo que era, y me animo mucho,
+dixo era ſpiritu de Dios muy conoci -
+damente, no que era meneer tornar de
+nueuo a la oracion, porque no yua bien
+fundada ni auia començado a entender
+mortiﬁcacion : y era aſsi que ni aun el nom-
+bre no me parece entendia, que en nin-
+guna manera dexae la oracion no que
+me esforçae mucho, pues Dios me ha-
+zia tan particulares mercedes, que que ſa-
+bia  por mis medios queria el Señor hazer
+bien a muchas perſonas, y otras coſas que
+parece prophetizo lo que deſpues el Señor
+ha hecho conmigo, que ternia mucha cul-
+pa  no reſpondia a las mercedes que Dios
+me hazia, en todo me parecia hablaua en el
+el ſpiritu ſanto para curar mi alma ſegun
+ſe imprimia en ea, hizo me gran confu-
+on, euome por medios que parecia del
+todo me tornaua otra, que gran coſa es
+entender vn alma . Dixome que tuuiee
+cada dia oracion en vn pao de la paſsion,
+y  me aprouechae del, y  no penſae no
+en la humanidad, y  aqueos recogimiẽtos,
+y guos reiee quanto pudiee de mane-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="catch-word">
+	<Coords>
+	<Point x="1601" y="2665"/>
+	<Point x="1698" y="2666"/>
+	<Point x="1700" y="2725"/>
+	<Point x="1665" y="2724"/>
+	<Point x="1600" y="2721"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ra</Unicode></TextEquiv></TextRegion></Page></PcGts>

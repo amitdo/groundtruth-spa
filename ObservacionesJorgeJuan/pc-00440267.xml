@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440267">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T10:38:02</Created>
+	<LastChange>2011-12-19T11:38:54</LastChange></Metadata>
+	<Page imageFilename="00440267.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r22" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="747" y="382"/>
+	<Point x="925" y="380"/>
+	<Point x="916" y="464"/>
+	<Point x="750" y="477"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>248</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="1286" y="389"/>
+	<Point x="2021" y="389"/>
+	<Point x="2021" y="449"/>
+	<Point x="1286" y="449"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="catch-word">
+	<Coords>
+	<Point x="2408" y="3391"/>
+	<Point x="2652" y="3391"/>
+	<Point x="2652" y="3534"/>
+	<Point x="2408" y="3534"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ta-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="credit">
+	<Coords>
+	<Point x="992" y="4007"/>
+	<Point x="1962" y="4007"/>
+	<Point x="1962" y="4086"/>
+	<Point x="992" y="4086"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r19">
+	<Coords>
+	<Point x="628" y="562"/>
+	<Point x="702" y="564"/>
+	<Point x="737" y="567"/>
+	<Point x="1147" y="556"/>
+	<Point x="1292" y="556"/>
+	<Point x="1964" y="558"/>
+	<Point x="2167" y="549"/>
+	<Point x="2169" y="462"/>
+	<Point x="2611" y="462"/>
+	<Point x="2610" y="2610"/>
+	<Point x="720" y="2610"/></Coords></TableRegion></Page></PcGts>

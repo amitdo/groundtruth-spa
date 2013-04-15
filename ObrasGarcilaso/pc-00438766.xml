@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00438766">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:03:31</Created>
+	<LastChange>2011-06-24T14:04:16</LastChange></Metadata>
+	<Page imageFilename="00438766.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r13" index="0"/>
+	<RegionRefIndexed regionRef="r14" index="1"/>
+	<RegionRefIndexed regionRef="r15" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="476" y="2082"/>
+	<Point x="994" y="2082"/>
+	<Point x="994" y="2140"/>
+	<Point x="476" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1203" y="7"/>
+	<Point x="1279" y="24"/>
+	<Point x="1316" y="40"/>
+	<Point x="1318" y="111"/>
+	<Point x="1204" y="104"/>
+	<Point x="1174" y="58"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>14</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="246" y="25"/>
+	<Point x="1135" y="25"/>
+	<Point x="1134" y="129"/>
+	<Point x="569" y="132"/>
+	<Point x="332" y="148"/>
+	<Point x="204" y="142"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GARCILASSO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="95" y="170"/>
+	<Point x="62" y="819"/>
+	<Point x="177" y="847"/>
+	<Point x="193" y="851"/>
+	<Point x="245" y="837"/>
+	<Point x="324" y="828"/>
+	<Point x="682" y="819"/>
+	<Point x="1247" y="838"/>
+	<Point x="1273" y="808"/>
+	<Point x="1302" y="199"/>
+	<Point x="1247" y="170"/>
+	<Point x="661" y="136"/>
+	<Point x="551" y="139"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>para que deſcanſara
+quiẽ como yo eô agora, no euuiera:
+do empre primauera
+parece en la verdura,
+ſembrada de las ﬂores,
+hazen los ruy ſeñores
+renouar el plazer, o la triura,
+con ſus blandas quereas,
+que nunca dia ni noche cean deas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="61" y="822"/>
+	<Point x="85" y="1967"/>
+	<Point x="180" y="1987"/>
+	<Point x="835" y="1977"/>
+	<Point x="1168" y="1929"/>
+	<Point x="1341" y="1660"/>
+	<Point x="1321" y="992"/>
+	<Point x="1174" y="852"/>
+	<Point x="681" y="824"/>
+	<Point x="314" y="836"/>
+	<Point x="245" y="840"/>
+	<Point x="214" y="852"/>
+	<Point x="190" y="855"/>
+	<Point x="128" y="839"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aqui euue yo pueo,
+(o por mejor dezio)
+preſo, forçado, y ſolo en tierra agena,
+bien pueden hazer eo
+en quien puede ſufrio,
+y en quien el a  miſmo ſe condena,
+tengo ſola vna pena,
+ muero deerrado.
+y en tanta deſuentura,
+que pienſen por ventura,
+que jũtos tãtos males me han euado:
+y ſe yo bien, que muero,
+por ſolo aqueo que morir eſpero.
+El cuerpo eà en poder
+y en manos de quien puede</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="catch-word">
+	<Coords>
+	<Point x="1139" y="1948"/>
+	<Point x="1139" y="2013"/>
+	<Point x="1353" y="2013"/>
+	<Point x="1353" y="1948"/>
+	<Point x="1161" y="1943"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>hazer</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443650">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T22:22:04</Created>
+	<LastChange>2010-12-24T06:55:15</LastChange></Metadata>
+	<Page imageFilename="00443650.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r16" index="0"/>
+	<RegionRefIndexed regionRef="r19" index="1"/>
+	<RegionRefIndexed regionRef="r15" index="2"/>
+	<RegionRefIndexed regionRef="r17" index="3"/>
+	<RegionRefIndexed regionRef="r9" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="567" y="99"/>
+	<Point x="1044" y="103"/>
+	<Point x="1039" y="207"/>
+	<Point x="562" y="201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cancion Sexta.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="769" y="2932"/>
+	<Point x="1414" y="2932"/>
+	<Point x="1410" y="2996"/>
+	<Point x="773" y="2998"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="1021" y="2641"/>
+	<Point x="1021" y="2753"/>
+	<Point x="1192" y="2753"/>
+	<Point x="1192" y="2641"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ss 4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1414" y="2648"/>
+	<Point x="1414" y="2764"/>
+	<Point x="1573" y="2764"/>
+	<Point x="1573" y="2648"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="1435" y="110"/>
+	<Point x="1435" y="201"/>
+	<Point x="1573" y="201"/>
+	<Point x="1573" y="110"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>637</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r11">
+	<Coords>
+	<Point x="745" y="2466"/>
+	<Point x="745" y="2543"/>
+	<Point x="902" y="2543"/>
+	<Point x="899" y="2466"/>
+	<Point x="870" y="2459"/>
+	<Point x="768" y="2458"/></Coords></SeparatorRegion>
+	<TextRegion id="r15" type="drop-capital">
+	<Coords>
+	<Point x="85" y="477"/>
+	<Point x="161" y="477"/>
+	<Point x="161" y="478"/>
+	<Point x="237" y="478"/>
+	<Point x="237" y="479"/>
+	<Point x="241" y="479"/>
+	<Point x="243" y="618"/>
+	<Point x="241" y="699"/>
+	<Point x="218" y="699"/>
+	<Point x="218" y="698"/>
+	<Point x="191" y="698"/>
+	<Point x="191" y="697"/>
+	<Point x="163" y="697"/>
+	<Point x="163" y="696"/>
+	<Point x="136" y="696"/>
+	<Point x="136" y="695"/>
+	<Point x="109" y="695"/>
+	<Point x="109" y="694"/>
+	<Point x="85" y="694"/>
+	<Point x="85" y="476"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="313" y="479"/>
+	<Point x="313" y="480"/>
+	<Point x="388" y="480"/>
+	<Point x="388" y="481"/>
+	<Point x="464" y="481"/>
+	<Point x="464" y="482"/>
+	<Point x="540" y="482"/>
+	<Point x="540" y="483"/>
+	<Point x="615" y="483"/>
+	<Point x="615" y="484"/>
+	<Point x="691" y="484"/>
+	<Point x="691" y="485"/>
+	<Point x="767" y="485"/>
+	<Point x="767" y="486"/>
+	<Point x="842" y="486"/>
+	<Point x="842" y="487"/>
+	<Point x="918" y="487"/>
+	<Point x="918" y="488"/>
+	<Point x="994" y="488"/>
+	<Point x="994" y="489"/>
+	<Point x="1070" y="489"/>
+	<Point x="1070" y="490"/>
+	<Point x="1145" y="490"/>
+	<Point x="1145" y="491"/>
+	<Point x="1221" y="491"/>
+	<Point x="1221" y="492"/>
+	<Point x="1297" y="492"/>
+	<Point x="1297" y="493"/>
+	<Point x="1372" y="493"/>
+	<Point x="1372" y="494"/>
+	<Point x="1448" y="494"/>
+	<Point x="1448" y="495"/>
+	<Point x="1524" y="495"/>
+	<Point x="1524" y="496"/>
+	<Point x="1599" y="496"/>
+	<Point x="1598" y="496"/>
+	<Point x="1598" y="693"/>
+	<Point x="1597" y="693"/>
+	<Point x="1597" y="890"/>
+	<Point x="1596" y="890"/>
+	<Point x="1596" y="1087"/>
+	<Point x="1595" y="1087"/>
+	<Point x="1595" y="1284"/>
+	<Point x="1594" y="1284"/>
+	<Point x="1594" y="1480"/>
+	<Point x="1593" y="1480"/>
+	<Point x="1593" y="1677"/>
+	<Point x="1592" y="1677"/>
+	<Point x="1592" y="1874"/>
+	<Point x="1591" y="1874"/>
+	<Point x="1591" y="2071"/>
+	<Point x="1590" y="2071"/>
+	<Point x="1590" y="2268"/>
+	<Point x="1589" y="2268"/>
+	<Point x="1589" y="2464"/>
+	<Point x="1589" y="2463"/>
+	<Point x="906" y="2463"/>
+	<Point x="906" y="2462"/>
+	<Point x="903" y="2462"/>
+	<Point x="903" y="2461"/>
+	<Point x="900" y="2461"/>
+	<Point x="900" y="2460"/>
+	<Point x="897" y="2460"/>
+	<Point x="897" y="2459"/>
+	<Point x="894" y="2459"/>
+	<Point x="894" y="2458"/>
+	<Point x="891" y="2458"/>
+	<Point x="891" y="2457"/>
+	<Point x="888" y="2457"/>
+	<Point x="888" y="2456"/>
+	<Point x="885" y="2456"/>
+	<Point x="885" y="2455"/>
+	<Point x="882" y="2455"/>
+	<Point x="882" y="2454"/>
+	<Point x="879" y="2454"/>
+	<Point x="879" y="2453"/>
+	<Point x="876" y="2453"/>
+	<Point x="876" y="2452"/>
+	<Point x="873" y="2452"/>
+	<Point x="873" y="2451"/>
+	<Point x="870" y="2451"/>
+	<Point x="870" y="2450"/>
+	<Point x="867" y="2450"/>
+	<Point x="867" y="2449"/>
+	<Point x="864" y="2449"/>
+	<Point x="864" y="2448"/>
+	<Point x="861" y="2448"/>
+	<Point x="861" y="2447"/>
+	<Point x="858" y="2447"/>
+	<Point x="858" y="2446"/>
+	<Point x="768" y="2446"/>
+	<Point x="768" y="2447"/>
+	<Point x="681" y="2447"/>
+	<Point x="681" y="2448"/>
+	<Point x="595" y="2448"/>
+	<Point x="595" y="2449"/>
+	<Point x="508" y="2449"/>
+	<Point x="508" y="2450"/>
+	<Point x="422" y="2450"/>
+	<Point x="422" y="2451"/>
+	<Point x="335" y="2451"/>
+	<Point x="335" y="2452"/>
+	<Point x="249" y="2452"/>
+	<Point x="249" y="2453"/>
+	<Point x="162" y="2453"/>
+	<Point x="162" y="2454"/>
+	<Point x="77" y="2454"/>
+	<Point x="77" y="2455"/>
+	<Point x="76" y="2455"/>
+	<Point x="76" y="2454"/>
+	<Point x="77" y="2454"/>
+	<Point x="77" y="2235"/>
+	<Point x="78" y="2235"/>
+	<Point x="78" y="2015"/>
+	<Point x="79" y="2015"/>
+	<Point x="79" y="1795"/>
+	<Point x="80" y="1795"/>
+	<Point x="80" y="1575"/>
+	<Point x="81" y="1575"/>
+	<Point x="81" y="1355"/>
+	<Point x="82" y="1355"/>
+	<Point x="82" y="1135"/>
+	<Point x="83" y="1135"/>
+	<Point x="83" y="915"/>
+	<Point x="84" y="915"/>
+	<Point x="84" y="696"/>
+	<Point x="107" y="696"/>
+	<Point x="107" y="697"/>
+	<Point x="134" y="697"/>
+	<Point x="134" y="698"/>
+	<Point x="161" y="698"/>
+	<Point x="161" y="699"/>
+	<Point x="189" y="699"/>
+	<Point x="189" y="700"/>
+	<Point x="216" y="700"/>
+	<Point x="216" y="701"/>
+	<Point x="241" y="701"/>
+	<Point x="241" y="702"/>
+	<Point x="242" y="702"/>
+	<Point x="242" y="703"/>
+	<Point x="244" y="703"/>
+	<Point x="244" y="702"/>
+	<Point x="246" y="702"/>
+	<Point x="246" y="700"/>
+	<Point x="245" y="700"/>
+	<Point x="245" y="699"/>
+	<Point x="243" y="699"/>
+	<Point x="246" y="629"/>
+	<Point x="243" y="479"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Omo  dixeras, no quieras que ya de aqui adelan
+te te conozca tan a la taſa por eos menſageros,
+de las noticias i ſentimientos que ſe me dan de ti
+tan remotos i agenos de lo que de ti deſea mi alma.
+Porque los menſageros a quien pena por la preſencia,
+bien ſabes tu, Eſpoſo mio, que aumentã el dolor; lo uno
+porque renuevan la aga con la noticia que dan, lo o-
+tro, porque pa recen dilaciones de la venida. Pues lue-
+go de oi mas no quieras embiarme eas noticias remo
+tas; porque  haa aqui podia paſar con eas, porque
+no te conocian, i amaba mucho ya la grandeza del a-
+mor que te tengo, no puede contentarſe con eos re-
+caudos, por tanto acaba de entregarte, como  mas
+claro dixera: Eo Señor mio Eſpoſo, que andas dan-
+do de ti a mi alma por partes, acaba de darlo del todo.
+I eo que andas morando, como por reſquizios, aca-
+ba de morarlo a las claras. I eo que andas comuni-
+cando por medios, que es como comunicarte de bur-
+las, acaba de hazerlo de veras comunicandote por ti
+meſmo, que parece a vezes en tus vitas, que vas a
+dar la joya de tu poſeon, i cuando mi alma bien ſe ca
+ta, ſe haa n ea, porque ſe la eſcondes, le cual es co
+modar de burlas: entregate pues ya de vero, dandote
+todo al todo de mi alma, porque toda ea te tenga,
+a ti todo, i no quieras embiarme ya
+mas menſagero.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords>
+	<Point x="449" y="238"/>
+	<Point x="628" y="238"/>
+	<Point x="628" y="239"/>
+	<Point x="806" y="239"/>
+	<Point x="806" y="240"/>
+	<Point x="984" y="240"/>
+	<Point x="984" y="241"/>
+	<Point x="1162" y="241"/>
+	<Point x="1162" y="250"/>
+	<Point x="1163" y="250"/>
+	<Point x="1163" y="259"/>
+	<Point x="1164" y="259"/>
+	<Point x="1164" y="268"/>
+	<Point x="1165" y="268"/>
+	<Point x="1165" y="276"/>
+	<Point x="1166" y="276"/>
+	<Point x="1166" y="285"/>
+	<Point x="1167" y="285"/>
+	<Point x="1167" y="294"/>
+	<Point x="1168" y="294"/>
+	<Point x="1168" y="302"/>
+	<Point x="1169" y="302"/>
+	<Point x="1169" y="311"/>
+	<Point x="1170" y="311"/>
+	<Point x="1170" y="320"/>
+	<Point x="1171" y="320"/>
+	<Point x="1171" y="328"/>
+	<Point x="1172" y="328"/>
+	<Point x="1172" y="337"/>
+	<Point x="1173" y="337"/>
+	<Point x="1173" y="346"/>
+	<Point x="1174" y="346"/>
+	<Point x="1174" y="354"/>
+	<Point x="1175" y="354"/>
+	<Point x="1175" y="359"/>
+	<Point x="1165" y="359"/>
+	<Point x="1165" y="358"/>
+	<Point x="1126" y="358"/>
+	<Point x="1126" y="357"/>
+	<Point x="1087" y="357"/>
+	<Point x="1087" y="356"/>
+	<Point x="1048" y="356"/>
+	<Point x="1048" y="355"/>
+	<Point x="1009" y="355"/>
+	<Point x="1009" y="354"/>
+	<Point x="970" y="354"/>
+	<Point x="970" y="353"/>
+	<Point x="931" y="353"/>
+	<Point x="931" y="352"/>
+	<Point x="892" y="352"/>
+	<Point x="892" y="351"/>
+	<Point x="853" y="351"/>
+	<Point x="853" y="350"/>
+	<Point x="814" y="350"/>
+	<Point x="814" y="349"/>
+	<Point x="776" y="349"/>
+	<Point x="776" y="348"/>
+	<Point x="737" y="348"/>
+	<Point x="737" y="347"/>
+	<Point x="698" y="347"/>
+	<Point x="698" y="346"/>
+	<Point x="659" y="346"/>
+	<Point x="659" y="345"/>
+	<Point x="620" y="345"/>
+	<Point x="620" y="344"/>
+	<Point x="581" y="344"/>
+	<Point x="581" y="343"/>
+	<Point x="542" y="343"/>
+	<Point x="542" y="342"/>
+	<Point x="503" y="342"/>
+	<Point x="503" y="341"/>
+	<Point x="464" y="341"/>
+	<Point x="464" y="340"/>
+	<Point x="446" y="340"/>
+	<Point x="446" y="322"/>
+	<Point x="447" y="322"/>
+	<Point x="447" y="294"/>
+	<Point x="448" y="294"/>
+	<Point x="448" y="265"/>
+	<Point x="449" y="265"/>
+	<Point x="449" y="237"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No quieras embiarme.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="462" y="342"/>
+	<Point x="462" y="343"/>
+	<Point x="501" y="343"/>
+	<Point x="501" y="344"/>
+	<Point x="540" y="344"/>
+	<Point x="540" y="345"/>
+	<Point x="579" y="345"/>
+	<Point x="579" y="346"/>
+	<Point x="618" y="346"/>
+	<Point x="618" y="347"/>
+	<Point x="657" y="347"/>
+	<Point x="657" y="348"/>
+	<Point x="696" y="348"/>
+	<Point x="696" y="349"/>
+	<Point x="735" y="349"/>
+	<Point x="735" y="350"/>
+	<Point x="774" y="350"/>
+	<Point x="774" y="351"/>
+	<Point x="812" y="351"/>
+	<Point x="812" y="352"/>
+	<Point x="851" y="352"/>
+	<Point x="851" y="353"/>
+	<Point x="890" y="353"/>
+	<Point x="890" y="354"/>
+	<Point x="929" y="354"/>
+	<Point x="929" y="355"/>
+	<Point x="968" y="355"/>
+	<Point x="968" y="356"/>
+	<Point x="1007" y="356"/>
+	<Point x="1007" y="357"/>
+	<Point x="1046" y="357"/>
+	<Point x="1046" y="358"/>
+	<Point x="1085" y="358"/>
+	<Point x="1085" y="359"/>
+	<Point x="1124" y="359"/>
+	<Point x="1124" y="360"/>
+	<Point x="1163" y="360"/>
+	<Point x="1163" y="361"/>
+	<Point x="1175" y="361"/>
+	<Point x="1175" y="363"/>
+	<Point x="1176" y="363"/>
+	<Point x="1176" y="372"/>
+	<Point x="1177" y="372"/>
+	<Point x="1177" y="380"/>
+	<Point x="1178" y="380"/>
+	<Point x="1178" y="389"/>
+	<Point x="1179" y="389"/>
+	<Point x="1179" y="398"/>
+	<Point x="1180" y="398"/>
+	<Point x="1180" y="406"/>
+	<Point x="1181" y="406"/>
+	<Point x="1181" y="415"/>
+	<Point x="1182" y="415"/>
+	<Point x="1182" y="424"/>
+	<Point x="1183" y="424"/>
+	<Point x="1183" y="432"/>
+	<Point x="1184" y="432"/>
+	<Point x="1184" y="441"/>
+	<Point x="1185" y="441"/>
+	<Point x="1185" y="450"/>
+	<Point x="1186" y="450"/>
+	<Point x="1186" y="457"/>
+	<Point x="1187" y="457"/>
+	<Point x="1187" y="458"/>
+	<Point x="1186" y="458"/>
+	<Point x="1186" y="457"/>
+	<Point x="1151" y="457"/>
+	<Point x="1151" y="456"/>
+	<Point x="1116" y="456"/>
+	<Point x="1116" y="455"/>
+	<Point x="1080" y="455"/>
+	<Point x="1080" y="454"/>
+	<Point x="1045" y="454"/>
+	<Point x="1045" y="453"/>
+	<Point x="1009" y="453"/>
+	<Point x="1009" y="452"/>
+	<Point x="974" y="452"/>
+	<Point x="974" y="451"/>
+	<Point x="938" y="451"/>
+	<Point x="938" y="450"/>
+	<Point x="903" y="450"/>
+	<Point x="903" y="449"/>
+	<Point x="867" y="449"/>
+	<Point x="867" y="448"/>
+	<Point x="832" y="448"/>
+	<Point x="832" y="447"/>
+	<Point x="796" y="447"/>
+	<Point x="796" y="446"/>
+	<Point x="761" y="446"/>
+	<Point x="761" y="445"/>
+	<Point x="725" y="445"/>
+	<Point x="725" y="444"/>
+	<Point x="690" y="444"/>
+	<Point x="690" y="443"/>
+	<Point x="654" y="443"/>
+	<Point x="654" y="442"/>
+	<Point x="619" y="442"/>
+	<Point x="619" y="441"/>
+	<Point x="583" y="441"/>
+	<Point x="583" y="440"/>
+	<Point x="548" y="440"/>
+	<Point x="548" y="439"/>
+	<Point x="512" y="439"/>
+	<Point x="512" y="438"/>
+	<Point x="477" y="438"/>
+	<Point x="477" y="437"/>
+	<Point x="442" y="437"/>
+	<Point x="443" y="437"/>
+	<Point x="443" y="408"/>
+	<Point x="444" y="408"/>
+	<Point x="444" y="379"/>
+	<Point x="445" y="379"/>
+	<Point x="445" y="351"/>
+	<Point x="446" y="351"/>
+	<Point x="446" y="342"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De oi mas ya menſagero.</Unicode></TextEquiv></TextRegion></Page></PcGts>

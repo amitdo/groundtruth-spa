@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442861">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:44:33</Created>
+	<LastChange>2012-03-12T14:12:31</LastChange></Metadata>
+	<Page imageFilename="00442861.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/>
+	<RegionRefIndexed regionRef="r12" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="474" y="78"/>
+	<Point x="1170" y="74"/>
+	<Point x="1173" y="162"/>
+	<Point x="675" y="149"/>
+	<Point x="616" y="171"/>
+	<Point x="479" y="163"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="453" y="2292"/>
+	<Point x="1120" y="2284"/>
+	<Point x="1118" y="2351"/>
+	<Point x="1029" y="2350"/>
+	<Point x="1024" y="2355"/>
+	<Point x="1015" y="2356"/>
+	<Point x="1015" y="2350"/>
+	<Point x="465" y="2348"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1282" y="171"/>
+	<Point x="1286" y="98"/>
+	<Point x="1368" y="97"/>
+	<Point x="1414" y="97"/>
+	<Point x="1414" y="180"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>293</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="348" y="165"/>
+	<Point x="359" y="165"/>
+	<Point x="359" y="166"/>
+	<Point x="370" y="166"/>
+	<Point x="370" y="167"/>
+	<Point x="381" y="167"/>
+	<Point x="381" y="168"/>
+	<Point x="392" y="168"/>
+	<Point x="392" y="169"/>
+	<Point x="403" y="169"/>
+	<Point x="403" y="170"/>
+	<Point x="407" y="170"/>
+	<Point x="407" y="171"/>
+	<Point x="411" y="171"/>
+	<Point x="411" y="172"/>
+	<Point x="415" y="172"/>
+	<Point x="415" y="173"/>
+	<Point x="419" y="173"/>
+	<Point x="419" y="174"/>
+	<Point x="423" y="174"/>
+	<Point x="423" y="175"/>
+	<Point x="427" y="175"/>
+	<Point x="427" y="176"/>
+	<Point x="430" y="176"/>
+	<Point x="430" y="177"/>
+	<Point x="434" y="177"/>
+	<Point x="434" y="178"/>
+	<Point x="438" y="178"/>
+	<Point x="438" y="179"/>
+	<Point x="442" y="179"/>
+	<Point x="442" y="180"/>
+	<Point x="446" y="180"/>
+	<Point x="446" y="181"/>
+	<Point x="450" y="181"/>
+	<Point x="450" y="182"/>
+	<Point x="461" y="182"/>
+	<Point x="461" y="181"/>
+	<Point x="468" y="181"/>
+	<Point x="468" y="180"/>
+	<Point x="476" y="180"/>
+	<Point x="476" y="179"/>
+	<Point x="483" y="179"/>
+	<Point x="483" y="178"/>
+	<Point x="490" y="178"/>
+	<Point x="490" y="177"/>
+	<Point x="498" y="177"/>
+	<Point x="498" y="176"/>
+	<Point x="505" y="176"/>
+	<Point x="505" y="175"/>
+	<Point x="512" y="175"/>
+	<Point x="512" y="174"/>
+	<Point x="520" y="174"/>
+	<Point x="520" y="173"/>
+	<Point x="527" y="173"/>
+	<Point x="527" y="172"/>
+	<Point x="534" y="172"/>
+	<Point x="534" y="171"/>
+	<Point x="534" y="172"/>
+	<Point x="583" y="172"/>
+	<Point x="583" y="173"/>
+	<Point x="601" y="173"/>
+	<Point x="601" y="174"/>
+	<Point x="623" y="174"/>
+	<Point x="623" y="173"/>
+	<Point x="627" y="173"/>
+	<Point x="627" y="172"/>
+	<Point x="631" y="172"/>
+	<Point x="631" y="171"/>
+	<Point x="635" y="171"/>
+	<Point x="635" y="170"/>
+	<Point x="639" y="170"/>
+	<Point x="639" y="169"/>
+	<Point x="974" y="169"/>
+	<Point x="974" y="170"/>
+	<Point x="1012" y="170"/>
+	<Point x="1012" y="171"/>
+	<Point x="1050" y="171"/>
+	<Point x="1050" y="172"/>
+	<Point x="1087" y="172"/>
+	<Point x="1087" y="173"/>
+	<Point x="1125" y="173"/>
+	<Point x="1125" y="174"/>
+	<Point x="1163" y="174"/>
+	<Point x="1163" y="175"/>
+	<Point x="1200" y="175"/>
+	<Point x="1200" y="176"/>
+	<Point x="1238" y="176"/>
+	<Point x="1238" y="177"/>
+	<Point x="1275" y="177"/>
+	<Point x="1275" y="178"/>
+	<Point x="1298" y="178"/>
+	<Point x="1298" y="179"/>
+	<Point x="1321" y="179"/>
+	<Point x="1321" y="180"/>
+	<Point x="1344" y="180"/>
+	<Point x="1344" y="181"/>
+	<Point x="1367" y="181"/>
+	<Point x="1367" y="182"/>
+	<Point x="1390" y="182"/>
+	<Point x="1390" y="183"/>
+	<Point x="1413" y="183"/>
+	<Point x="1412" y="183"/>
+	<Point x="1413" y="2116"/>
+	<Point x="1397" y="2121"/>
+	<Point x="1370" y="2121"/>
+	<Point x="1359" y="2123"/>
+	<Point x="1332" y="2119"/>
+	<Point x="1320" y="2119"/>
+	<Point x="1307" y="2120"/>
+	<Point x="1285" y="2121"/>
+	<Point x="1279" y="2121"/>
+	<Point x="1241" y="2126"/>
+	<Point x="1241" y="2125"/>
+	<Point x="1212" y="2136"/>
+	<Point x="1203" y="2131"/>
+	<Point x="1201" y="2129"/>
+	<Point x="1165" y="2124"/>
+	<Point x="1165" y="2123"/>
+	<Point x="1127" y="2123"/>
+	<Point x="1127" y="2122"/>
+	<Point x="1089" y="2122"/>
+	<Point x="1089" y="2121"/>
+	<Point x="1052" y="2121"/>
+	<Point x="1052" y="2120"/>
+	<Point x="1039" y="2129"/>
+	<Point x="1027" y="2130"/>
+	<Point x="1011" y="2126"/>
+	<Point x="1006" y="2123"/>
+	<Point x="991" y="2111"/>
+	<Point x="980" y="2111"/>
+	<Point x="976" y="2112"/>
+	<Point x="938" y="2118"/>
+	<Point x="930" y="2115"/>
+	<Point x="899" y="2117"/>
+	<Point x="812" y="2128"/>
+	<Point x="303" y="2110"/>
+	<Point x="249" y="2110"/>
+	<Point x="214" y="2116"/>
+	<Point x="208" y="2094"/>
+	<Point x="207" y="2094"/>
+	<Point x="207" y="2048"/>
+	<Point x="206" y="2048"/>
+	<Point x="206" y="2002"/>
+	<Point x="205" y="2002"/>
+	<Point x="205" y="1956"/>
+	<Point x="204" y="1956"/>
+	<Point x="204" y="1910"/>
+	<Point x="203" y="1910"/>
+	<Point x="203" y="1864"/>
+	<Point x="202" y="1864"/>
+	<Point x="202" y="1818"/>
+	<Point x="201" y="1818"/>
+	<Point x="201" y="1773"/>
+	<Point x="200" y="1773"/>
+	<Point x="201" y="1773"/>
+	<Point x="201" y="1543"/>
+	<Point x="202" y="1543"/>
+	<Point x="202" y="1314"/>
+	<Point x="203" y="1314"/>
+	<Point x="203" y="1085"/>
+	<Point x="204" y="1085"/>
+	<Point x="204" y="856"/>
+	<Point x="205" y="856"/>
+	<Point x="205" y="627"/>
+	<Point x="206" y="627"/>
+	<Point x="206" y="398"/>
+	<Point x="207" y="398"/>
+	<Point x="207" y="169"/>
+	<Point x="236" y="169"/>
+	<Point x="236" y="168"/>
+	<Point x="264" y="168"/>
+	<Point x="264" y="167"/>
+	<Point x="292" y="167"/>
+	<Point x="292" y="166"/>
+	<Point x="320" y="166"/>
+	<Point x="320" y="165"/>
+	<Point x="348" y="165"/>
+	<Point x="348" y="164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de toda impoſsibilidad, es impoſsible dexar de ale‐
+grar, y entretener, ſatisfazer, y contentar la come-
+dia que todas eas partes tuuiere, mucho mas que
+aquea  careciere deas: como por la mayor par‐
+te carecen eas que de ordinario agora ſe repreſen
+tan. Y no tienen la culpa deo los poetas que las cõ
+ponen : porque algunos ay deos que conocẽ muy
+bien en lo que yerran, y ſaben eremadamente lo 
+deuen hazer. Pero como las comedias ſe hã hecho
+mercaderia vendible, dizen, y dizẽ verdad, que los
+repreſentantes no ſe las comprarian, no fueen de
+aquel jaez: y aſsi el poeta procura acomodarſe con
+lo que el repreſentãte que le ha de pagar ſu obra le
+pide. Y que eo ſea verdad, veaſe por muchas, e in‐
+ﬁnitas comedias que ha compueo vn feliciſsimo
+ingenio deos Reynos, cõ tanta gala, con tanto do-
+nayre, con tan eleganteverſo, con tan buenas razo-
+nes, con tan graues ſentencias: y ﬁnalmente tan e‐
+nas de elocucion y alteza de eilo, que tiene eno
+el mundo de ſu fama. Y por querer acomodarſe al
+guo de los repreſentantes, no han egado todas,
+como han egado algunas al punto de la perfecciõ
+que requieren. Otros las componen, tan n mirar
+lo que hazen, que deſpues de repreſentadas tienen
+neceſsidad los recitantes de huyrſe, yauſentarſe, te-
+meroſos de ſer caigados, como lo hã do muchas
+vezes, por auer reprenſentado coſas en perjuyzio
+de algunos Reyes, y en deshõra de algunos linages.
+Y todos eos inconuinientes cearian, y aun otros
+muchos mas, que no d¡go, con que huuiee en la
+Corte vna perſona inteligente y diſcreta, que exa-
+minae todas las comedias, antes que ſe repreſen-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="signature-mark">
+	<Coords>
+	<Point x="905" y="2120"/>
+	<Point x="1040" y="2138"/>
+	<Point x="1033" y="2189"/>
+	<Point x="974" y="2189"/>
+	<Point x="906" y="2188"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Oo 5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="catch-word">
+	<Coords>
+	<Point x="1232" y="2135"/>
+	<Point x="1290" y="2128"/>
+	<Point x="1315" y="2126"/>
+	<Point x="1391" y="2132"/>
+	<Point x="1394" y="2189"/>
+	<Point x="1231" y="2190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>taen:</Unicode></TextEquiv></TextRegion></Page></PcGts>

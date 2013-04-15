@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485168">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T15:20:54</Created>
+	<LastChange>2011-05-12T13:41:00</LastChange></Metadata>
+	<Page imageFilename="00485168.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r11" type="credit">
+	<Coords>
+	<Point x="619" y="3019"/>
+	<Point x="1392" y="3019"/>
+	<Point x="1392" y="3087"/>
+	<Point x="1292" y="3087"/>
+	<Point x="1267" y="3094"/>
+	<Point x="1196" y="3091"/>
+	<Point x="619" y="3087"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="426" y="224"/>
+	<Point x="1655" y="224"/>
+	<Point x="1655" y="2880"/>
+	<Point x="426" y="2880"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y alguna vez no m'aborrecen tanto:
+Que oran como niños y ſe quexan,
+Diziendo que d'amores andan muertos:
+Y cuentanme los tiros que les hazen.
+Y no es nada, no que'l otro dia,
+Por buena enmienda d'os mis trabajos,
+Vino ami ſe quien, muy fatigado
+Por que ſe le murieron ſus abejas:
+Y le ſalieron mal ſus grangerias.
+Fatiganme con eas vanidades:
+No las puedo ſufrir, y ai no quiero
+Muchas vezes quitaos de congoxa.
+Si no dexo me'ar endurecido,
+Sin reſponder palabra a ſus preguntas.
+Con eo yo quedara ſatiſfecho,
+Vengado del enojo que me hazen:
+Sino que'e remedio no me vale.
+Que no alcãço, qual dios o qual demonio,
+Les a morado agora ee ſecreto:
+Que me toman eando deſcuydado,
+Y atanme fuertemente como a eſclauo.
+Y por mas que me valga de mis artes,
+Conuertiendome en mil nueuas ﬁguras,
+Toda via me tienen y m'aprietan:
+Haa que les reſpondo alo que quieren.
+Y ee porero labrador maldito
+Que vino a mi, buſcando ſus abejas,
+Matome e'otro dia con ſus fuerças:
+Haziendome paar cien mil martirios.
+Aguardome'l traidor en fuerte tiempo,
+Viniendo yo d'apacentar tus phocas,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="1170" y="134"/>
+	<Point x="1170" y="136"/>
+	<Point x="1171" y="136"/>
+	<Point x="1171" y="146"/>
+	<Point x="1172" y="146"/>
+	<Point x="1172" y="156"/>
+	<Point x="1173" y="156"/>
+	<Point x="1173" y="166"/>
+	<Point x="1174" y="166"/>
+	<Point x="1174" y="176"/>
+	<Point x="1175" y="176"/>
+	<Point x="1175" y="186"/>
+	<Point x="1176" y="186"/>
+	<Point x="1176" y="196"/>
+	<Point x="1177" y="196"/>
+	<Point x="1177" y="206"/>
+	<Point x="1178" y="206"/>
+	<Point x="1178" y="216"/>
+	<Point x="1179" y="216"/>
+	<Point x="1179" y="219"/>
+	<Point x="685" y="219"/>
+	<Point x="685" y="134"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r15" type="other">
+	<Coords>
+	<Point x="1311" y="128"/>
+	<Point x="1315" y="203"/>
+	<Point x="1181" y="219"/>
+	<Point x="1181" y="214"/>
+	<Point x="1180" y="214"/>
+	<Point x="1180" y="204"/>
+	<Point x="1179" y="204"/>
+	<Point x="1179" y="194"/>
+	<Point x="1178" y="194"/>
+	<Point x="1178" y="184"/>
+	<Point x="1177" y="184"/>
+	<Point x="1177" y="174"/>
+	<Point x="1176" y="174"/>
+	<Point x="1176" y="164"/>
+	<Point x="1175" y="164"/>
+	<Point x="1175" y="154"/>
+	<Point x="1174" y="154"/>
+	<Point x="1174" y="144"/>
+	<Point x="1173" y="144"/>
+	<Point x="1173" y="134"/>
+	<Point x="1172" y="134"/></Coords></GraphicRegion></Page></PcGts>

@@ -1,0 +1,1178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439443">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-05T07:15:45</Created>
+	<LastChange>2011-06-24T14:04:34</LastChange></Metadata>
+	<Page imageFilename="00439443.tif" imageWidth="2557" imageHeight="4056">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r57" index="0"/>
+	<RegionRefIndexed regionRef="r58" index="1"/>
+	<RegionRefIndexed regionRef="r19" index="2"/>
+	<RegionRefIndexed regionRef="r12" index="3"/>
+	<RegionRefIndexed regionRef="r14" index="4"/>
+	<RegionRefIndexed regionRef="r22" index="5"/>
+	<RegionRefIndexed regionRef="r23" index="6"/>
+	<RegionRefIndexed regionRef="r59" index="7"/>
+	<RegionRefIndexed regionRef="r60" index="8"/>
+	<RegionRefIndexed regionRef="r25" index="9"/>
+	<RegionRefIndexed regionRef="r26" index="10"/>
+	<RegionRefIndexed regionRef="r27" index="11"/>
+	<RegionRefIndexed regionRef="r28" index="12"/>
+	<RegionRefIndexed regionRef="r31" index="13"/>
+	<RegionRefIndexed regionRef="r30" index="14"/>
+	<RegionRefIndexed regionRef="r32" index="15"/>
+	<RegionRefIndexed regionRef="r34" index="16"/>
+	<RegionRefIndexed regionRef="r35" index="17"/>
+	<RegionRefIndexed regionRef="r36" index="18"/>
+	<RegionRefIndexed regionRef="r38" index="19"/>
+	<RegionRefIndexed regionRef="r39" index="20"/>
+	<RegionRefIndexed regionRef="r40" index="21"/>
+	<RegionRefIndexed regionRef="r41" index="22"/>
+	<RegionRefIndexed regionRef="r42" index="23"/>
+	<RegionRefIndexed regionRef="r43" index="24"/>
+	<RegionRefIndexed regionRef="r44" index="25"/>
+	<RegionRefIndexed regionRef="r45" index="26"/>
+	<RegionRefIndexed regionRef="r46" index="27"/>
+	<RegionRefIndexed regionRef="r47" index="28"/>
+	<RegionRefIndexed regionRef="r49" index="29"/>
+	<RegionRefIndexed regionRef="r50" index="30"/>
+	<RegionRefIndexed regionRef="r51" index="31"/>
+	<RegionRefIndexed regionRef="r52" index="32"/>
+	<RegionRefIndexed regionRef="r53" index="33"/>
+	<RegionRefIndexed regionRef="r17" index="34"/>
+	<RegionRefIndexed regionRef="r56" index="35"/>
+	<RegionRefIndexed regionRef="r55" index="36"/>
+	<RegionRefIndexed regionRef="r20" index="37"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="351" y="729"/>
+	<Point x="351" y="977"/>
+	<Point x="1400" y="977"/>
+	<Point x="1400" y="729"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LOS CAPITVLOS
+del libro ſetimo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="drop-capital">
+	<Coords>
+	<Point x="380" y="1073"/>
+	<Point x="450" y="1081"/>
+	<Point x="443" y="1166"/>
+	<Point x="470" y="1158"/>
+	<Point x="477" y="1159"/>
+	<Point x="483" y="1170"/>
+	<Point x="484" y="1195"/>
+	<Point x="484" y="1215"/>
+	<Point x="370" y="1198"/>
+	<Point x="381" y="1070"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="header">
+	<Coords>
+	<Point x="1043" y="34"/>
+	<Point x="1043" y="137"/>
+	<Point x="1836" y="137"/>
+	<Point x="1836" y="34"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TABLA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="heading">
+	<Coords>
+	<Point x="1417" y="2878"/>
+	<Point x="1417" y="3167"/>
+	<Point x="2478" y="3167"/>
+	<Point x="2478" y="2878"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LOS CAPITVLOS
+del libro otauo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="catch-word">
+	<Coords>
+	<Point x="2355" y="3643"/>
+	<Point x="2344" y="3716"/>
+	<Point x="2460" y="3716"/>
+	<Point x="2460" y="3635"/>
+	<Point x="2421" y="3632"/>
+	<Point x="2386" y="3632"/>
+	<Point x="2364" y="3636"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="credit">
+	<Coords>
+	<Point x="890" y="3932"/>
+	<Point x="890" y="4027"/>
+	<Point x="1856" y="4027"/>
+	<Point x="1856" y="3932"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="TOC-entry">
+	<Coords>
+	<Point x="309" y="575"/>
+	<Point x="398" y="403"/>
+	<Point x="585" y="427"/>
+	<Point x="701" y="409"/>
+	<Point x="746" y="425"/>
+	<Point x="781" y="420"/>
+	<Point x="809" y="405"/>
+	<Point x="970" y="404"/>
+	<Point x="979" y="411"/>
+	<Point x="1014" y="405"/>
+	<Point x="1051" y="403"/>
+	<Point x="1061" y="407"/>
+	<Point x="1070" y="416"/>
+	<Point x="1146" y="420"/>
+	<Point x="1190" y="404"/>
+	<Point x="1214" y="407"/>
+	<Point x="1357" y="407"/>
+	<Point x="1414" y="422"/>
+	<Point x="1401" y="646"/>
+	<Point x="350" y="657"/>
+	<Point x="307" y="570"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Otras muchas leyes del Inca Pacha-
+cutec, y ſus dichos ſentencioſos.
+cap.36. 163</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="TOC-entry">
+	<Coords>
+	<Point x="475" y="1131"/>
+	<Point x="461" y="1094"/>
+	<Point x="522" y="1072"/>
+	<Point x="1379" y="1075"/>
+	<Point x="1375" y="1235"/>
+	<Point x="1336" y="1234"/>
+	<Point x="1279" y="1225"/>
+	<Point x="1206" y="1215"/>
+	<Point x="1174" y="1227"/>
+	<Point x="1119" y="1237"/>
+	<Point x="1075" y="1235"/>
+	<Point x="1007" y="1225"/>
+	<Point x="981" y="1220"/>
+	<Point x="935" y="1238"/>
+	<Point x="898" y="1240"/>
+	<Point x="875" y="1229"/>
+	<Point x="850" y="1233"/>
+	<Point x="827" y="1244"/>
+	<Point x="817" y="1238"/>
+	<Point x="809" y="1227"/>
+	<Point x="793" y="1226"/>
+	<Point x="581" y="1225"/>
+	<Point x="505" y="1222"/>
+	<Point x="481" y="1140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Os Incas hazian colonias, tuuie-
+ron dos lenguages. cap.1. 165</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="TOC-entry">
+	<Coords>
+	<Point x="361" y="1223"/>
+	<Point x="548" y="1240"/>
+	<Point x="623" y="1234"/>
+	<Point x="768" y="1245"/>
+	<Point x="802" y="1236"/>
+	<Point x="808" y="1236"/>
+	<Point x="825" y="1254"/>
+	<Point x="844" y="1250"/>
+	<Point x="862" y="1238"/>
+	<Point x="884" y="1248"/>
+	<Point x="954" y="1248"/>
+	<Point x="983" y="1231"/>
+	<Point x="1041" y="1237"/>
+	<Point x="1098" y="1248"/>
+	<Point x="1181" y="1243"/>
+	<Point x="1200" y="1227"/>
+	<Point x="1291" y="1237"/>
+	<Point x="1325" y="1237"/>
+	<Point x="1393" y="1258"/>
+	<Point x="1370" y="1441"/>
+	<Point x="1303" y="1443"/>
+	<Point x="1009" y="1426"/>
+	<Point x="616" y="1451"/>
+	<Point x="547" y="1455"/>
+	<Point x="538" y="1458"/>
+	<Point x="531" y="1465"/>
+	<Point x="511" y="1461"/>
+	<Point x="501" y="1452"/>
+	<Point x="454" y="1441"/>
+	<Point x="413" y="1427"/>
+	<Point x="373" y="1377"/>
+	<Point x="356" y="1234"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Los erederos de los ſeñores ſe cria-
+uan en la corte, y las cauſas porque
+cap.2. 166</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="TOC-entry">
+	<Coords>
+	<Point x="350" y="1768"/>
+	<Point x="368" y="1679"/>
+	<Point x="456" y="1695"/>
+	<Point x="497" y="1704"/>
+	<Point x="598" y="1704"/>
+	<Point x="643" y="1683"/>
+	<Point x="762" y="1679"/>
+	<Point x="1109" y="1675"/>
+	<Point x="1360" y="1680"/>
+	<Point x="1380" y="1691"/>
+	<Point x="1372" y="1825"/>
+	<Point x="1348" y="1825"/>
+	<Point x="1283" y="1829"/>
+	<Point x="1273" y="1829"/>
+	<Point x="1183" y="1794"/>
+	<Point x="750" y="1812"/>
+	<Point x="700" y="1833"/>
+	<Point x="680" y="1834"/>
+	<Point x="629" y="1839"/>
+	<Point x="608" y="1828"/>
+	<Point x="465" y="1825"/>
+	<Point x="388" y="1809"/>
+	<Point x="352" y="1761"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tercera ﬁea ſolene que hazian al
+Sol. cap.5. 170</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="TOC-entry">
+	<Coords>
+	<Point x="346" y="1833"/>
+	<Point x="588" y="1835"/>
+	<Point x="620" y="1836"/>
+	<Point x="632" y="1844"/>
+	<Point x="655" y="1847"/>
+	<Point x="679" y="1838"/>
+	<Point x="729" y="1842"/>
+	<Point x="782" y="1828"/>
+	<Point x="832" y="1828"/>
+	<Point x="1209" y="1818"/>
+	<Point x="1278" y="1843"/>
+	<Point x="1303" y="1834"/>
+	<Point x="1388" y="1837"/>
+	<Point x="1375" y="1973"/>
+	<Point x="1285" y="1981"/>
+	<Point x="1174" y="1972"/>
+	<Point x="1159" y="1974"/>
+	<Point x="1067" y="1972"/>
+	<Point x="1001" y="1972"/>
+	<Point x="989" y="1985"/>
+	<Point x="967" y="1989"/>
+	<Point x="957" y="1985"/>
+	<Point x="931" y="1972"/>
+	<Point x="773" y="1986"/>
+	<Point x="482" y="1974"/>
+	<Point x="374" y="1961"/>
+	<Point x="344" y="1832"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quarta ﬁea, ſus ayunos, y el limpiar
+ſe de ſus males. cap.6. 170</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="TOC-entry">
+	<Coords>
+	<Point x="348" y="1977"/>
+	<Point x="352" y="1971"/>
+	<Point x="483" y="1983"/>
+	<Point x="727" y="1994"/>
+	<Point x="894" y="1995"/>
+	<Point x="938" y="1982"/>
+	<Point x="975" y="1998"/>
+	<Point x="1001" y="1982"/>
+	<Point x="1096" y="1985"/>
+	<Point x="1200" y="1981"/>
+	<Point x="1383" y="1986"/>
+	<Point x="1380" y="2101"/>
+	<Point x="1359" y="2115"/>
+	<Point x="1326" y="2123"/>
+	<Point x="1313" y="2126"/>
+	<Point x="1299" y="2131"/>
+	<Point x="1247" y="2118"/>
+	<Point x="1102" y="2112"/>
+	<Point x="1037" y="2137"/>
+	<Point x="982" y="2138"/>
+	<Point x="955" y="2129"/>
+	<Point x="890" y="2121"/>
+	<Point x="768" y="2126"/>
+	<Point x="629" y="2128"/>
+	<Point x="555" y="2123"/>
+	<Point x="520" y="2130"/>
+	<Point x="400" y="2113"/>
+	<Point x="343" y="2058"/>
+	<Point x="346" y="1988"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fiea noturna para deerrar los ma-
+les de la ciudad. cap.7. 171</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="TOC-entry">
+	<Coords>
+	<Point x="347" y="2134"/>
+	<Point x="377" y="2126"/>
+	<Point x="448" y="2131"/>
+	<Point x="488" y="2134"/>
+	<Point x="501" y="2138"/>
+	<Point x="554" y="2130"/>
+	<Point x="645" y="2148"/>
+	<Point x="689" y="2141"/>
+	<Point x="818" y="2134"/>
+	<Point x="925" y="2133"/>
+	<Point x="947" y="2138"/>
+	<Point x="983" y="2145"/>
+	<Point x="1066" y="2148"/>
+	<Point x="1095" y="2136"/>
+	<Point x="1152" y="2127"/>
+	<Point x="1281" y="2131"/>
+	<Point x="1331" y="2137"/>
+	<Point x="1355" y="2126"/>
+	<Point x="1393" y="2144"/>
+	<Point x="1388" y="2276"/>
+	<Point x="1303" y="2274"/>
+	<Point x="1287" y="2284"/>
+	<Point x="1215" y="2268"/>
+	<Point x="897" y="2277"/>
+	<Point x="881" y="2284"/>
+	<Point x="879" y="2286"/>
+	<Point x="840" y="2286"/>
+	<Point x="798" y="2273"/>
+	<Point x="554" y="2275"/>
+	<Point x="380" y="2262"/>
+	<Point x="341" y="2143"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La deſcription de la Imperial ciudad
+del Cozco. cap.8. 172.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="TOC-entry">
+	<Coords>
+	<Point x="343" y="2431"/>
+	<Point x="438" y="2431"/>
+	<Point x="513" y="2437"/>
+	<Point x="654" y="2437"/>
+	<Point x="712" y="2450"/>
+	<Point x="743" y="2451"/>
+	<Point x="779" y="2431"/>
+	<Point x="850" y="2438"/>
+	<Point x="893" y="2436"/>
+	<Point x="948" y="2450"/>
+	<Point x="1018" y="2445"/>
+	<Point x="1056" y="2430"/>
+	<Point x="1111" y="2434"/>
+	<Point x="1197" y="2447"/>
+	<Point x="1320" y="2446"/>
+	<Point x="1386" y="2456"/>
+	<Point x="1363" y="2652"/>
+	<Point x="1336" y="2659"/>
+	<Point x="1290" y="2659"/>
+	<Point x="1222" y="2619"/>
+	<Point x="1088" y="2611"/>
+	<Point x="797" y="2611"/>
+	<Point x="531" y="2648"/>
+	<Point x="477" y="2651"/>
+	<Point x="470" y="2650"/>
+	<Point x="391" y="2643"/>
+	<Point x="348" y="2494"/>
+	<Point x="338" y="2426"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El tio de las eſcuelas, y el de tres ca-
+ſas reales, y el de las eſcogidas. cap.
+10. 175</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="TOC-entry">
+	<Coords>
+	<Point x="340" y="2334"/>
+	<Point x="372" y="2279"/>
+	<Point x="491" y="2283"/>
+	<Point x="588" y="2286"/>
+	<Point x="638" y="2284"/>
+	<Point x="813" y="2290"/>
+	<Point x="837" y="2295"/>
+	<Point x="858" y="2290"/>
+	<Point x="872" y="2293"/>
+	<Point x="898" y="2293"/>
+	<Point x="923" y="2281"/>
+	<Point x="1025" y="2283"/>
+	<Point x="1062" y="2279"/>
+	<Point x="1188" y="2283"/>
+	<Point x="1282" y="2294"/>
+	<Point x="1317" y="2281"/>
+	<Point x="1409" y="2288"/>
+	<Point x="1355" y="2425"/>
+	<Point x="1287" y="2433"/>
+	<Point x="1215" y="2413"/>
+	<Point x="1045" y="2418"/>
+	<Point x="984" y="2437"/>
+	<Point x="963" y="2438"/>
+	<Point x="952" y="2434"/>
+	<Point x="858" y="2426"/>
+	<Point x="754" y="2425"/>
+	<Point x="736" y="2437"/>
+	<Point x="725" y="2443"/>
+	<Point x="702" y="2427"/>
+	<Point x="608" y="2419"/>
+	<Point x="504" y="2420"/>
+	<Point x="451" y="2418"/>
+	<Point x="394" y="2400"/>
+	<Point x="337" y="2335"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La ciudad contenia la deſcription de
+todo el imperio. cap.9. 174</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="TOC-entry">
+	<Coords>
+	<Point x="352" y="2650"/>
+	<Point x="425" y="2663"/>
+	<Point x="508" y="2658"/>
+	<Point x="884" y="2645"/>
+	<Point x="1195" y="2647"/>
+	<Point x="1258" y="2656"/>
+	<Point x="1280" y="2668"/>
+	<Point x="1383" y="2675"/>
+	<Point x="1348" y="2809"/>
+	<Point x="1275" y="2813"/>
+	<Point x="1058" y="2786"/>
+	<Point x="1005" y="2801"/>
+	<Point x="909" y="2816"/>
+	<Point x="897" y="2802"/>
+	<Point x="862" y="2801"/>
+	<Point x="740" y="2815"/>
+	<Point x="700" y="2812"/>
+	<Point x="650" y="2798"/>
+	<Point x="563" y="2801"/>
+	<Point x="430" y="2793"/>
+	<Point x="343" y="2777"/>
+	<Point x="346" y="2654"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Los barrios y caſas que ay al ponien-
+te del arroyo. cap.11. 177</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="TOC-entry">
+	<Coords>
+	<Point x="356" y="2800"/>
+	<Point x="459" y="2813"/>
+	<Point x="516" y="2812"/>
+	<Point x="613" y="2815"/>
+	<Point x="640" y="2806"/>
+	<Point x="655" y="2811"/>
+	<Point x="712" y="2829"/>
+	<Point x="847" y="2823"/>
+	<Point x="873" y="2808"/>
+	<Point x="931" y="2829"/>
+	<Point x="958" y="2813"/>
+	<Point x="988" y="2815"/>
+	<Point x="1044" y="2808"/>
+	<Point x="1118" y="2805"/>
+	<Point x="1195" y="2812"/>
+	<Point x="1362" y="2827"/>
+	<Point x="1363" y="2954"/>
+	<Point x="1279" y="2957"/>
+	<Point x="1006" y="2945"/>
+	<Point x="919" y="2958"/>
+	<Point x="916" y="2961"/>
+	<Point x="911" y="2966"/>
+	<Point x="890" y="2966"/>
+	<Point x="856" y="2958"/>
+	<Point x="775" y="2951"/>
+	<Point x="679" y="2965"/>
+	<Point x="662" y="2973"/>
+	<Point x="640" y="2965"/>
+	<Point x="433" y="2950"/>
+	<Point x="379" y="2923"/>
+	<Point x="336" y="2870"/>
+	<Point x="343" y="2811"/>
+	<Point x="355" y="2800"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dos limoſnas que la ciudad hizo pa-
+ra obras pias. cap.12. 178</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="TOC-entry">
+	<Coords>
+	<Point x="354" y="2950"/>
+	<Point x="425" y="2961"/>
+	<Point x="531" y="2972"/>
+	<Point x="645" y="2977"/>
+	<Point x="684" y="2976"/>
+	<Point x="744" y="2966"/>
+	<Point x="773" y="2957"/>
+	<Point x="788" y="2961"/>
+	<Point x="875" y="2977"/>
+	<Point x="954" y="2975"/>
+	<Point x="982" y="2960"/>
+	<Point x="1001" y="2958"/>
+	<Point x="1102" y="2965"/>
+	<Point x="1137" y="2956"/>
+	<Point x="1252" y="2972"/>
+	<Point x="1261" y="2964"/>
+	<Point x="1272" y="2961"/>
+	<Point x="1313" y="2961"/>
+	<Point x="1373" y="2970"/>
+	<Point x="1383" y="3098"/>
+	<Point x="1334" y="3095"/>
+	<Point x="1308" y="3100"/>
+	<Point x="1294" y="3101"/>
+	<Point x="1280" y="3102"/>
+	<Point x="1272" y="3094"/>
+	<Point x="1257" y="3098"/>
+	<Point x="1228" y="3095"/>
+	<Point x="1167" y="3105"/>
+	<Point x="1144" y="3100"/>
+	<Point x="1127" y="3100"/>
+	<Point x="987" y="3098"/>
+	<Point x="781" y="3106"/>
+	<Point x="670" y="3116"/>
+	<Point x="655" y="3117"/>
+	<Point x="637" y="3116"/>
+	<Point x="635" y="3104"/>
+	<Point x="616" y="3101"/>
+	<Point x="583" y="3117"/>
+	<Point x="565" y="3118"/>
+	<Point x="537" y="3116"/>
+	<Point x="527" y="3102"/>
+	<Point x="518" y="3097"/>
+	<Point x="475" y="3105"/>
+	<Point x="445" y="3118"/>
+	<Point x="386" y="3094"/>
+	<Point x="351" y="3026"/>
+	<Point x="355" y="2951"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nueua conquia que el Rey Inca Yu
+panqui pretende hazer. c.13. 179</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="TOC-entry">
+	<Coords>
+	<Point x="328" y="3140"/>
+	<Point x="361" y="3107"/>
+	<Point x="372" y="3110"/>
+	<Point x="425" y="3124"/>
+	<Point x="455" y="3131"/>
+	<Point x="505" y="3110"/>
+	<Point x="517" y="3109"/>
+	<Point x="541" y="3132"/>
+	<Point x="587" y="3128"/>
+	<Point x="614" y="3117"/>
+	<Point x="622" y="3116"/>
+	<Point x="650" y="3118"/>
+	<Point x="661" y="3124"/>
+	<Point x="707" y="3134"/>
+	<Point x="754" y="3115"/>
+	<Point x="842" y="3115"/>
+	<Point x="1085" y="3117"/>
+	<Point x="1201" y="3107"/>
+	<Point x="1241" y="3105"/>
+	<Point x="1267" y="3111"/>
+	<Point x="1321" y="3107"/>
+	<Point x="1392" y="3118"/>
+	<Point x="1361" y="3235"/>
+	<Point x="1357" y="3242"/>
+	<Point x="1275" y="3247"/>
+	<Point x="1198" y="3240"/>
+	<Point x="1025" y="3258"/>
+	<Point x="720" y="3252"/>
+	<Point x="368" y="3244"/>
+	<Point x="325" y="3221"/>
+	<Point x="326" y="3144"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Los ſuceos de la jornada de Muſu
+haa el ﬁn dea. c.14. 180</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="TOC-entry">
+	<Coords>
+	<Point x="353" y="3253"/>
+	<Point x="462" y="3259"/>
+	<Point x="689" y="3264"/>
+	<Point x="746" y="3261"/>
+	<Point x="893" y="3268"/>
+	<Point x="912" y="3263"/>
+	<Point x="931" y="3261"/>
+	<Point x="972" y="3264"/>
+	<Point x="1034" y="3268"/>
+	<Point x="1169" y="3255"/>
+	<Point x="1263" y="3256"/>
+	<Point x="1363" y="3253"/>
+	<Point x="1362" y="3387"/>
+	<Point x="1263" y="3402"/>
+	<Point x="898" y="3390"/>
+	<Point x="852" y="3413"/>
+	<Point x="794" y="3405"/>
+	<Point x="787" y="3406"/>
+	<Point x="782" y="3413"/>
+	<Point x="770" y="3415"/>
+	<Point x="760" y="3414"/>
+	<Point x="755" y="3410"/>
+	<Point x="609" y="3405"/>
+	<Point x="430" y="3403"/>
+	<Point x="341" y="3351"/>
+	<Point x="348" y="3257"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Raros que de aquea jornada ſe hã
+haado. cap.15. 181</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="TOC-entry">
+	<Coords>
+	<Point x="349" y="3415"/>
+	<Point x="374" y="3403"/>
+	<Point x="470" y="3426"/>
+	<Point x="621" y="3422"/>
+	<Point x="638" y="3411"/>
+	<Point x="744" y="3419"/>
+	<Point x="760" y="3416"/>
+	<Point x="771" y="3418"/>
+	<Point x="777" y="3415"/>
+	<Point x="806" y="3415"/>
+	<Point x="905" y="3420"/>
+	<Point x="933" y="3404"/>
+	<Point x="1095" y="3411"/>
+	<Point x="1368" y="3418"/>
+	<Point x="1373" y="3644"/>
+	<Point x="322" y="3640"/>
+	<Point x="337" y="3431"/>
+	<Point x="339" y="3423"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De otros ſuceos infelices que en a-
+quea prouincia han paado. cap.
+16. 182</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="TOC-entry">
+	<Coords>
+	<Point x="1473" y="155"/>
+	<Point x="1779" y="156"/>
+	<Point x="2155" y="150"/>
+	<Point x="2486" y="207"/>
+	<Point x="2463" y="320"/>
+	<Point x="2450" y="320"/>
+	<Point x="2405" y="318"/>
+	<Point x="2349" y="292"/>
+	<Point x="2143" y="298"/>
+	<Point x="1992" y="318"/>
+	<Point x="1973" y="324"/>
+	<Point x="1885" y="331"/>
+	<Point x="1842" y="331"/>
+	<Point x="1734" y="314"/>
+	<Point x="1560" y="310"/>
+	<Point x="1443" y="281"/>
+	<Point x="1475" y="149"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La nacion Chirihuana y ſu vida y co-
+umbres. cap. 17. 183</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="TOC-entry">
+	<Coords>
+	<Point x="1455" y="315"/>
+	<Point x="1617" y="337"/>
+	<Point x="1717" y="326"/>
+	<Point x="1739" y="333"/>
+	<Point x="1818" y="339"/>
+	<Point x="1905" y="344"/>
+	<Point x="2042" y="323"/>
+	<Point x="2315" y="314"/>
+	<Point x="2404" y="327"/>
+	<Point x="2433" y="330"/>
+	<Point x="2494" y="355"/>
+	<Point x="2481" y="485"/>
+	<Point x="2373" y="463"/>
+	<Point x="2078" y="442"/>
+	<Point x="1931" y="457"/>
+	<Point x="1842" y="469"/>
+	<Point x="1839" y="478"/>
+	<Point x="1813" y="476"/>
+	<Point x="1786" y="460"/>
+	<Point x="1517" y="460"/>
+	<Point x="1455" y="410"/>
+	<Point x="1457" y="314"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Preuenciones para la conquia de
+Chili. cap.18. 184</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="TOC-entry">
+	<Coords>
+	<Point x="1459" y="652"/>
+	<Point x="1472" y="469"/>
+	<Point x="1531" y="473"/>
+	<Point x="1702" y="472"/>
+	<Point x="1781" y="469"/>
+	<Point x="1820" y="489"/>
+	<Point x="1859" y="485"/>
+	<Point x="1939" y="469"/>
+	<Point x="2065" y="466"/>
+	<Point x="2263" y="471"/>
+	<Point x="2386" y="476"/>
+	<Point x="2421" y="479"/>
+	<Point x="2426" y="486"/>
+	<Point x="2472" y="507"/>
+	<Point x="2473" y="769"/>
+	<Point x="2439" y="776"/>
+	<Point x="2426" y="782"/>
+	<Point x="2411" y="775"/>
+	<Point x="2128" y="765"/>
+	<Point x="2095" y="768"/>
+	<Point x="2066" y="763"/>
+	<Point x="2034" y="779"/>
+	<Point x="2020" y="775"/>
+	<Point x="2002" y="760"/>
+	<Point x="1986" y="771"/>
+	<Point x="1597" y="760"/>
+	<Point x="1555" y="762"/>
+	<Point x="1472" y="744"/>
+	<Point x="1456" y="643"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ganan los Incas haa el vae que a
+man Chili, y los menſajeros y reſ-
+pueas que tienen con otras nue-
+uas naciones. cap.19. 185</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="TOC-entry">
+	<Coords>
+	<Point x="1446" y="759"/>
+	<Point x="1582" y="776"/>
+	<Point x="1681" y="782"/>
+	<Point x="1818" y="778"/>
+	<Point x="1989" y="784"/>
+	<Point x="2005" y="769"/>
+	<Point x="2021" y="786"/>
+	<Point x="2071" y="792"/>
+	<Point x="2113" y="775"/>
+	<Point x="2272" y="781"/>
+	<Point x="2485" y="786"/>
+	<Point x="2479" y="1075"/>
+	<Point x="2294" y="1055"/>
+	<Point x="1662" y="1034"/>
+	<Point x="1639" y="1060"/>
+	<Point x="1552" y="1060"/>
+	<Point x="1517" y="1021"/>
+	<Point x="1444" y="757"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bataa cruel entre los Incas y otras
+diuerſas naſciones, y el primer Eſ-
+pañol que deſcubrio a Chili. cap.
+20. 186</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="TOC-entry">
+	<Coords>
+	<Point x="1462" y="1052"/>
+	<Point x="1562" y="1071"/>
+	<Point x="1671" y="1076"/>
+	<Point x="1830" y="1065"/>
+	<Point x="2104" y="1075"/>
+	<Point x="2255" y="1071"/>
+	<Point x="2472" y="1094"/>
+	<Point x="2443" y="1217"/>
+	<Point x="2413" y="1224"/>
+	<Point x="2249" y="1208"/>
+	<Point x="2066" y="1221"/>
+	<Point x="2039" y="1226"/>
+	<Point x="1760" y="1220"/>
+	<Point x="1518" y="1208"/>
+	<Point x="1436" y="1181"/>
+	<Point x="1462" y="1049"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Rebelion de Chili contra el Gouer-
+nador Valdiuia. cap.21. 187</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="TOC-entry">
+	<Coords>
+	<Point x="1443" y="1281"/>
+	<Point x="1475" y="1221"/>
+	<Point x="1618" y="1222"/>
+	<Point x="1936" y="1240"/>
+	<Point x="2042" y="1239"/>
+	<Point x="2053" y="1229"/>
+	<Point x="2110" y="1236"/>
+	<Point x="2238" y="1232"/>
+	<Point x="2290" y="1222"/>
+	<Point x="2356" y="1225"/>
+	<Point x="2390" y="1229"/>
+	<Point x="2420" y="1232"/>
+	<Point x="2473" y="1252"/>
+	<Point x="2445" y="1441"/>
+	<Point x="2402" y="1450"/>
+	<Point x="1821" y="1417"/>
+	<Point x="1730" y="1439"/>
+	<Point x="1636" y="1451"/>
+	<Point x="1613" y="1461"/>
+	<Point x="1542" y="1447"/>
+	<Point x="1483" y="1426"/>
+	<Point x="1443" y="1290"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Bataa con nueua orden, y ardid de
+guerra de vn Yndio Capitan viejo.
+cap.22. 187</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="TOC-entry">
+	<Coords>
+	<Point x="1445" y="1493"/>
+	<Point x="1482" y="1446"/>
+	<Point x="1547" y="1464"/>
+	<Point x="1603" y="1469"/>
+	<Point x="1654" y="1471"/>
+	<Point x="1707" y="1454"/>
+	<Point x="1844" y="1445"/>
+	<Point x="2202" y="1451"/>
+	<Point x="2225" y="1451"/>
+	<Point x="2456" y="1466"/>
+	<Point x="2453" y="1593"/>
+	<Point x="2325" y="1597"/>
+	<Point x="2211" y="1603"/>
+	<Point x="2163" y="1591"/>
+	<Point x="2147" y="1598"/>
+	<Point x="2114" y="1615"/>
+	<Point x="1997" y="1593"/>
+	<Point x="1789" y="1594"/>
+	<Point x="1556" y="1596"/>
+	<Point x="1455" y="1556"/>
+	<Point x="1445" y="1485"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vencen los Yndios pot auiſo y tray-
+cion de vno deos. cap.23. 188</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="TOC-entry">
+	<Coords>
+	<Point x="1459" y="1727"/>
+	<Point x="1465" y="1589"/>
+	<Point x="1611" y="1613"/>
+	<Point x="1706" y="1603"/>
+	<Point x="1820" y="1602"/>
+	<Point x="2016" y="1602"/>
+	<Point x="2108" y="1625"/>
+	<Point x="2143" y="1608"/>
+	<Point x="2146" y="1607"/>
+	<Point x="2341" y="1615"/>
+	<Point x="2472" y="1609"/>
+	<Point x="2473" y="1672"/>
+	<Point x="2438" y="1814"/>
+	<Point x="2408" y="1820"/>
+	<Point x="2395" y="1815"/>
+	<Point x="1653" y="1794"/>
+	<Point x="1625" y="1815"/>
+	<Point x="1586" y="1828"/>
+	<Point x="1497" y="1800"/>
+	<Point x="1457" y="1722"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Matan a Valdiuia, y ha cinquenta a-
+ños que ſuentan la guerra. cap.
+24. 189</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="TOC-entry">
+	<Coords>
+	<Point x="1465" y="1817"/>
+	<Point x="1542" y="1832"/>
+	<Point x="1625" y="1841"/>
+	<Point x="1760" y="1822"/>
+	<Point x="1920" y="1820"/>
+	<Point x="2072" y="1822"/>
+	<Point x="2204" y="1828"/>
+	<Point x="2279" y="1823"/>
+	<Point x="2388" y="1826"/>
+	<Point x="2410" y="1830"/>
+	<Point x="2443" y="1826"/>
+	<Point x="2472" y="1831"/>
+	<Point x="2442" y="1967"/>
+	<Point x="2410" y="1970"/>
+	<Point x="2315" y="1961"/>
+	<Point x="2207" y="1965"/>
+	<Point x="2188" y="1979"/>
+	<Point x="2145" y="1965"/>
+	<Point x="2107" y="1983"/>
+	<Point x="2072" y="1984"/>
+	<Point x="1994" y="1969"/>
+	<Point x="1641" y="1971"/>
+	<Point x="1626" y="1988"/>
+	<Point x="1579" y="1969"/>
+	<Point x="1454" y="1944"/>
+	<Point x="1455" y="1815"/>
+	<Point x="1472" y="1818"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nueuos ſucceos deſgraciados del
+Reyno de Chili. cap.25. 189</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="TOC-entry">
+	<Coords>
+	<Point x="1439" y="2097"/>
+	<Point x="1452" y="1973"/>
+	<Point x="1592" y="1989"/>
+	<Point x="1631" y="1994"/>
+	<Point x="1686" y="1984"/>
+	<Point x="1892" y="1984"/>
+	<Point x="2000" y="1981"/>
+	<Point x="2043" y="1986"/>
+	<Point x="2098" y="1997"/>
+	<Point x="2148" y="1978"/>
+	<Point x="2179" y="1990"/>
+	<Point x="2206" y="1979"/>
+	<Point x="2342" y="1970"/>
+	<Point x="2461" y="1985"/>
+	<Point x="2450" y="2183"/>
+	<Point x="2384" y="2196"/>
+	<Point x="2214" y="2155"/>
+	<Point x="1623" y="2179"/>
+	<Point x="1618" y="2188"/>
+	<Point x="1592" y="2194"/>
+	<Point x="1489" y="2180"/>
+	<Point x="1439" y="2093"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vida quieta y exercicios del Rey In-
+ca Yupanqui haa la muerte. cap.
+26. 191</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="TOC-entry">
+	<Coords>
+	<Point x="1453" y="2309"/>
+	<Point x="1447" y="2200"/>
+	<Point x="1544" y="2204"/>
+	<Point x="1553" y="2201"/>
+	<Point x="1579" y="2204"/>
+	<Point x="1641" y="2213"/>
+	<Point x="1736" y="2205"/>
+	<Point x="1860" y="2200"/>
+	<Point x="2072" y="2202"/>
+	<Point x="2177" y="2196"/>
+	<Point x="2373" y="2200"/>
+	<Point x="2393" y="2210"/>
+	<Point x="2461" y="2248"/>
+	<Point x="2447" y="2382"/>
+	<Point x="1961" y="2383"/>
+	<Point x="1644" y="2409"/>
+	<Point x="1590" y="2428"/>
+	<Point x="1532" y="2425"/>
+	<Point x="1458" y="2361"/>
+	<Point x="1451" y="2305"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La fortaleza del Cozco, y la grande-
+za increible de ſus piedras. ca.27
+192</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="TOC-entry">
+	<Coords>
+	<Point x="1461" y="2540"/>
+	<Point x="1571" y="2578"/>
+	<Point x="1908" y="2571"/>
+	<Point x="2019" y="2581"/>
+	<Point x="2045" y="2589"/>
+	<Point x="2090" y="2571"/>
+	<Point x="2440" y="2573"/>
+	<Point x="2456" y="2440"/>
+	<Point x="2379" y="2406"/>
+	<Point x="1861" y="2418"/>
+	<Point x="1665" y="2434"/>
+	<Point x="1546" y="2445"/>
+	<Point x="1492" y="2422"/>
+	<Point x="1416" y="2409"/>
+	<Point x="1461" y="2539"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tres muros de la cerca lo mas admi-
+rable de la obra. cap.28. 193</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="TOC-entry">
+	<Coords>
+	<Point x="1472" y="2566"/>
+	<Point x="1545" y="2591"/>
+	<Point x="1601" y="2590"/>
+	<Point x="1792" y="2589"/>
+	<Point x="1904" y="2581"/>
+	<Point x="1973" y="2591"/>
+	<Point x="2027" y="2596"/>
+	<Point x="2075" y="2597"/>
+	<Point x="2110" y="2582"/>
+	<Point x="2130" y="2578"/>
+	<Point x="2139" y="2580"/>
+	<Point x="2226" y="2588"/>
+	<Point x="2400" y="2593"/>
+	<Point x="2436" y="2595"/>
+	<Point x="2456" y="2623"/>
+	<Point x="2434" y="2733"/>
+	<Point x="2186" y="2781"/>
+	<Point x="1654" y="2810"/>
+	<Point x="1630" y="2836"/>
+	<Point x="1469" y="2783"/>
+	<Point x="1444" y="2575"/>
+	<Point x="1469" y="2567"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tres torreones los maeros mayo-
+res, y la piedra cançada. cap.29.
+194</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r55" type="TOC-entry">
+	<Coords>
+	<Point x="1446" y="3556"/>
+	<Point x="1440" y="3386"/>
+	<Point x="1503" y="3410"/>
+	<Point x="1598" y="3407"/>
+	<Point x="1727" y="3410"/>
+	<Point x="1741" y="3418"/>
+	<Point x="1787" y="3426"/>
+	<Point x="1800" y="3407"/>
+	<Point x="1865" y="3406"/>
+	<Point x="1987" y="3423"/>
+	<Point x="2026" y="3412"/>
+	<Point x="2035" y="3416"/>
+	<Point x="2332" y="3401"/>
+	<Point x="2450" y="3423"/>
+	<Point x="2463" y="3607"/>
+	<Point x="2393" y="3621"/>
+	<Point x="2361" y="3630"/>
+	<Point x="2310" y="3632"/>
+	<Point x="1509" y="3663"/>
+	<Point x="1433" y="3655"/>
+	<Point x="1450" y="3543"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La cõquia de los primeros pueblos
+de la prouincia Chachapuya. ca.
+2. 198</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r56" type="TOC-entry">
+	<Coords>
+	<Point x="1449" y="3266"/>
+	<Point x="1478" y="3218"/>
+	<Point x="2487" y="3240"/>
+	<Point x="2440" y="3390"/>
+	<Point x="2370" y="3403"/>
+	<Point x="2353" y="3399"/>
+	<Point x="2335" y="3390"/>
+	<Point x="2250" y="3393"/>
+	<Point x="2173" y="3400"/>
+	<Point x="2024" y="3403"/>
+	<Point x="1787" y="3398"/>
+	<Point x="1781" y="3415"/>
+	<Point x="1768" y="3413"/>
+	<Point x="1756" y="3403"/>
+	<Point x="1595" y="3396"/>
+	<Point x="1507" y="3393"/>
+	<Point x="1448" y="3320"/>
+	<Point x="1441" y="3304"/>
+	<Point x="1447" y="3264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La conquia de la prouincia Huac-
+rachucu y ſu nombre. c.1. 196</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r57" type="TOC-entry">
+	<Coords>
+	<Point x="463" y="192"/>
+	<Point x="692" y="170"/>
+	<Point x="910" y="168"/>
+	<Point x="1408" y="175"/>
+	<Point x="1400" y="247"/>
+	<Point x="1200" y="255"/>
+	<Point x="1081" y="236"/>
+	<Point x="1060" y="245"/>
+	<Point x="972" y="244"/>
+	<Point x="896" y="243"/>
+	<Point x="824" y="243"/>
+	<Point x="785" y="244"/>
+	<Point x="618" y="247"/>
+	<Point x="526" y="248"/>
+	<Point x="461" y="248"/>
+	<Point x="450" y="194"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cicios haa ſu muerte. ca.34. 161</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r58" type="TOC-entry">
+	<Coords>
+	<Point x="384" y="326"/>
+	<Point x="396" y="247"/>
+	<Point x="463" y="273"/>
+	<Point x="627" y="264"/>
+	<Point x="656" y="256"/>
+	<Point x="731" y="262"/>
+	<Point x="785" y="260"/>
+	<Point x="828" y="252"/>
+	<Point x="889" y="267"/>
+	<Point x="917" y="255"/>
+	<Point x="979" y="260"/>
+	<Point x="1008" y="253"/>
+	<Point x="1051" y="257"/>
+	<Point x="1153" y="255"/>
+	<Point x="1197" y="267"/>
+	<Point x="1312" y="259"/>
+	<Point x="1409" y="260"/>
+	<Point x="1401" y="391"/>
+	<Point x="1331" y="385"/>
+	<Point x="1187" y="397"/>
+	<Point x="1170" y="403"/>
+	<Point x="1143" y="412"/>
+	<Point x="1075" y="408"/>
+	<Point x="1058" y="400"/>
+	<Point x="979" y="392"/>
+	<Point x="790" y="402"/>
+	<Point x="763" y="416"/>
+	<Point x="731" y="411"/>
+	<Point x="692" y="398"/>
+	<Point x="573" y="406"/>
+	<Point x="467" y="400"/>
+	<Point x="401" y="368"/>
+	<Point x="374" y="342"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aumentò las eſcuelas, hizo leyes pa-
+ra el buen gouierno. cap.35. 162</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r59" type="TOC-entry">
+	<Coords>
+	<Point x="330" y="1490"/>
+	<Point x="377" y="1440"/>
+	<Point x="479" y="1459"/>
+	<Point x="515" y="1472"/>
+	<Point x="529" y="1479"/>
+	<Point x="537" y="1469"/>
+	<Point x="544" y="1462"/>
+	<Point x="576" y="1462"/>
+	<Point x="856" y="1463"/>
+	<Point x="944" y="1456"/>
+	<Point x="1151" y="1470"/>
+	<Point x="1331" y="1462"/>
+	<Point x="1381" y="1483"/>
+	<Point x="1380" y="1525"/>
+	<Point x="1333" y="1536"/>
+	<Point x="1300" y="1522"/>
+	<Point x="1245" y="1512"/>
+	<Point x="1148" y="1519"/>
+	<Point x="1118" y="1533"/>
+	<Point x="1084" y="1523"/>
+	<Point x="990" y="1529"/>
+	<Point x="872" y="1522"/>
+	<Point x="772" y="1523"/>
+	<Point x="669" y="1525"/>
+	<Point x="660" y="1533"/>
+	<Point x="647" y="1541"/>
+	<Point x="632" y="1540"/>
+	<Point x="612" y="1525"/>
+	<Point x="592" y="1519"/>
+	<Point x="544" y="1522"/>
+	<Point x="473" y="1522"/>
+	<Point x="408" y="1519"/>
+	<Point x="372" y="1522"/>
+	<Point x="339" y="1516"/>
+	<Point x="332" y="1495"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De la lengua corteſana. c.3. 167</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r60" type="TOC-entry">
+	<Coords>
+	<Point x="330" y="1603"/>
+	<Point x="379" y="1532"/>
+	<Point x="435" y="1536"/>
+	<Point x="500" y="1537"/>
+	<Point x="594" y="1536"/>
+	<Point x="625" y="1541"/>
+	<Point x="630" y="1543"/>
+	<Point x="636" y="1543"/>
+	<Point x="647" y="1545"/>
+	<Point x="656" y="1547"/>
+	<Point x="677" y="1537"/>
+	<Point x="742" y="1534"/>
+	<Point x="798" y="1534"/>
+	<Point x="912" y="1531"/>
+	<Point x="1075" y="1545"/>
+	<Point x="1175" y="1542"/>
+	<Point x="1252" y="1527"/>
+	<Point x="1316" y="1542"/>
+	<Point x="1398" y="1556"/>
+	<Point x="1372" y="1672"/>
+	<Point x="1295" y="1667"/>
+	<Point x="1143" y="1652"/>
+	<Point x="938" y="1640"/>
+	<Point x="634" y="1668"/>
+	<Point x="597" y="1689"/>
+	<Point x="540" y="1700"/>
+	<Point x="493" y="1690"/>
+	<Point x="415" y="1657"/>
+	<Point x="330" y="1604"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De la vtilidad de la lengua corteſana.
+cap.4. 168</Unicode></TextEquiv></TextRegion></Page></PcGts>

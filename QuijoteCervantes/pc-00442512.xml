@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442512">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T02:11:06</Created>
+	<LastChange>2012-03-12T14:12:05</LastChange></Metadata>
+	<Page imageFilename="00442512.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="476" y="69"/>
+	<Point x="1125" y="69"/>
+	<Point x="1128" y="152"/>
+	<Point x="785" y="149"/>
+	<Point x="760" y="165"/>
+	<Point x="719" y="165"/>
+	<Point x="481" y="157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tercera parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="152" y="157"/>
+	<Point x="423" y="158"/>
+	<Point x="449" y="166"/>
+	<Point x="720" y="170"/>
+	<Point x="765" y="169"/>
+	<Point x="786" y="156"/>
+	<Point x="1439" y="162"/>
+	<Point x="1442" y="2136"/>
+	<Point x="155" y="2157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ﬁnalmente tan enamorado, qual lo vereys en el diſ‐
+curſo del cuento de mi deſuentura. Y para encen‐
+derle mas el deeo(que a mi me zelaua, y al cielo a
+ſolas deſcubria) quiſo la fortuna, que haae vn
+dia vn viete ſuyo, pidiendome que la pidiee a
+ſu padre por eſpoſa: tan diſcreto, tan honeo, y tan
+enamorado, que en leyendolo me dixo, que en ſo‐
+la Luſcinda ſe encerrauan todas las gracias de her‐
+moſura, y de entendimiento, que en las demas mu-
+geres del mundo eauan repartidas. Bien es ver‐
+dad, que quiero confear aora, que pueo que yo
+veía con quan juas cauſas don Fernando a Luſcin
+da alabaua, me peſaua de oyr aqueas alabanças
+de ſu boca, y comencè a temer, y a rezelarme
+del, porque no ſe paaua momento donde no qui-
+ee que trataemos de Luſcinda, y el mouia la
+platica, aunque la truxee por los cabeos: coſa
+que deſpertaua en mi vn no ſe que de zelos, no por
+que yo temiee reues alguno de la bondad, y de
+la fè de Luſcinda, pero con todo eo me hazia te‐
+mer mi ſuerte, lo meſmo que ea me aeguraua.
+Procuraua empre don Fernando, leer los pape‐
+les que yo a Luſcinda embiaua, y los que ea me
+reſpondia, a titulo, que de la diſcrecion de los dos
+guaua mucho. Acaecio pues, que auiendome pe‐
+dido Luſcinda vn libro de cauaerias en que leer,
+de quien era ea muy aﬁcionada, que era el de
+Amadis de Gaula. No huuo bien oydo don Qui-
+xote nombrar libro de cauaerias, quando di-
+xo: Con que me dixera vuera merced al prin‐
+cipio de ſu hioria, que ſu merced de la ſeñora
+Luſcinda, era aﬁcionada a libros de cauaerias, no</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1280" y="2142"/>
+	<Point x="1428" y="2140"/>
+	<Point x="1428" y="2196"/>
+	<Point x="1280" y="2196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>fuera</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="446" y="2294"/>
+	<Point x="1142" y="2294"/>
+	<Point x="1142" y="2373"/>
+	<Point x="446" y="2373"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444357">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:59:44</Created>
+	<LastChange>2011-12-19T11:39:41</LastChange></Metadata>
+	<Page imageFilename="00444357.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1464" y="2640"/>
+	<Point x="1711" y="2640"/>
+	<Point x="1711" y="2701"/>
+	<Point x="1456" y="2707"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tratar</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="617" y="3074"/>
+	<Point x="1580" y="3074"/>
+	<Point x="1580" y="3158"/>
+	<Point x="617" y="3158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="145" y="225"/>
+	<Point x="1189" y="225"/>
+	<Point x="1697" y="227"/>
+	<Point x="1711" y="2633"/>
+	<Point x="1269" y="2632"/>
+	<Point x="1225" y="2641"/>
+	<Point x="169" y="2633"/>
+	<Point x="136" y="2633"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ni para que yo los dixee, el dixo que pues los
+ſabia el padre Dominico, que he dicho que
+era muy ſu amigo, que luego ſe los diria, y
+que no ſe me diee nada. El caſo es que ni
+fue en ſu mano dexarme de importunar, ni
+en la mia me parece dexarlo de dezir, porque
+con toda la peſadumbre y verguença que ſo-
+lia tener, quando trataua eas coſas cõ el, y cõ
+el reor que he dicho, no tuue ninguna pe-
+na, antes me conſole, mucho, dixeſelo debaxo
+de confeſsion, pareciome mas auiſado que
+nunca, aunque empre le tenia por de gran
+entendimiento, mire los grandes talentos y
+partes que tenia para aprouechar mucho, 
+del todo ſe diee a Dios, porque eo tengo
+yo de vnos años aca, que no veo perſona que
+mucho me contente que luego querria del to
+do verle dar a Dios con vnas anas que algu
+nas vezes no me puedo valer, y aunque deſ-
+ſeo que todos le ruan, eas perſonas que me
+contentan es con muy gran impetu, y aſsi im
+portuno mucho al Señor por eas. Con el re-
+ligioſo que digo me acaecio aſsi, rogome le
+encomendae mucho a Dios, y no auia me-
+neer dezirmelo, que ya yo eaua de ſuerte
+que no pudiera hazer otra coſa, y voyme adõ
+de ſolia a ſolas tener oracion, y comienço a</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="1518" y="110"/>
+	<Point x="1684" y="110"/>
+	<Point x="1684" y="216"/>
+	<Point x="1518" y="216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>429</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="289" y="93"/>
+	<Point x="1472" y="93"/>
+	<Point x="1472" y="200"/>
+	<Point x="269" y="207"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion></Page></PcGts>

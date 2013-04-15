@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485255">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T13:30:57</Created>
+	<LastChange>2011-05-12T13:41:10</LastChange></Metadata>
+	<Page imageFilename="00485255.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="348" y="197"/>
+	<Point x="1027" y="209"/>
+	<Point x="1528" y="208"/>
+	<Point x="1544" y="895"/>
+	<Point x="362" y="891"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En vn lugar porero dea tierra,
+Ay otra caſa, en vna gran hondura,
+Cubierta ca toda, d'vna erra,
+Cerrada al derredor d'alta eſpeura;
+A qui, iamas el ſol claro s'encierra,
+Todo es tiniebla, y todo es noche'ſcura.
+El trie morador que mora dentro,
+Es de dolor, y de trieza el centro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="632" y="3028"/>
+	<Point x="1391" y="3028"/>
+	<Point x="1391" y="3091"/>
+	<Point x="632" y="3091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="325" y="1777"/>
+	<Point x="1601" y="1777"/>
+	<Point x="1601" y="2508"/>
+	<Point x="325" y="2508"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ea ſu dueño, empre reçongando
+Lo que dize jamas os lo declara:
+Aca, y aa, ſe anda paeando
+Con nueuas doloridas enſu cara.
+Si porﬁays con el, ea os matando,
+Haze os la luz eſcura de muy clara.
+Y avn las vezes que acierta a ar cõtẽto,
+Siempre os dexa con vn remordimiento.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="328" y="975"/>
+	<Point x="1636" y="975"/>
+	<Point x="1636" y="1686"/>
+	<Point x="328" y="1686"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No ay coſa en ea, para deſcanaros,
+Ni ſuelo apenas, en que repoſeys.
+No vereys cama, do podays echaros,
+Ni a, ni otro aiento, enque os ſenteys.
+Mil vezes, eareys para ahorcaros,
+Y aun no os conſentiran  os ahorqueys.
+No ay muerte ai, no para temea,
+O por mejor hablar, para querea.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="586" y="104"/>
+	<Point x="1130" y="105"/>
+	<Point x="1128" y="189"/>
+	<Point x="605" y="189"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="1150" y="118"/>
+	<Point x="1155" y="106"/>
+	<Point x="1602" y="105"/>
+	<Point x="1610" y="202"/>
+	<Point x="1164" y="202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. CXLIII.</Unicode></TextEquiv></TextRegion></Page></PcGts>

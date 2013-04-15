@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440130">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T09:44:48</Created>
+	<LastChange>2011-12-19T11:38:44</LastChange></Metadata>
+	<Page imageFilename="00440130.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1240" y="307"/>
+	<Point x="2059" y="311"/>
+	<Point x="2052" y="404"/>
+	<Point x="1238" y="400"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r2">
+	<Coords>
+	<Point x="988" y="428"/>
+	<Point x="2271" y="428"/>
+	<Point x="2271" y="1254"/>
+	<Point x="988" y="1254"/></Coords></TableRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="640" y="1264"/>
+	<Point x="2642" y="1264"/>
+	<Point x="2638" y="3349"/>
+	<Point x="640" y="3366"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Para examinar,  eas experiencias convienen, con la
+ley agnada por M. Mariotte, ſe harà atencion, à que el
+Ayre groero, que ſe dexaba en el Tubo, luego que ſe
+traornaba èe, paaba à ocupar el lugar ſuperior; y va‐
+ciandoſe parte del Mercurio, (en todo el lugar, que ocu‐
+paba èe) ſe dilataba el Ayre. Es pues preciſo ſegun M.
+Mariotte, que el lugar, que ocupò ee Ayre, en ſu eado
+primero, ſea al que ocupò, haviendoſe dilatado, como el
+peſo, que le oprimìa en ea ultima ocaon, al peſo, que le
+oprimìa en la primera. El peſo, que oprimìa al Ayre en la
+primera, era el de toda la Atmoſphera, que es igual, por lo
+que ſe dixo en la pagina 103 al peſo del Mercurio, que que‐
+da en el Barometro, quando ſe hace la experiencia n de-
+xar Ayre ninguno groero en el Tubo, en ee caſo igual
+à 17 pulgadas 03⅓ lineas: y el peſo, que le oprimìa en la
+ſegunda, era el de la miſma coluna de Mercurio, diſmi‐
+nuìda de aquea, que quedò ſuſpendida en el Barometro,
+quando ſe hizo la experiencia dexando Ayre groero; por‐
+que es cierto, que la preon del Ayre dilatado, mas la
+que hacìa el Mercurio, que quedò ſuſpendido en el Tubo,
+quando ſe hacìa la experiencia, debe ſer igual à la preon,
+ò peſo de toda la Atmoſphera.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="2431" y="3363"/>
+	<Point x="2550" y="3366"/>
+	<Point x="2596" y="3367"/>
+	<Point x="2604" y="3455"/>
+	<Point x="2428" y="3452"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eas</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="983" y="3980"/>
+	<Point x="1990" y="3980"/>
+	<Point x="1990" y="4097"/>
+	<Point x="983" y="4097"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="752" y="323"/>
+	<Point x="752" y="400"/>
+	<Point x="909" y="400"/>
+	<Point x="909" y="323"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>112</Unicode></TextEquiv></TextRegion></Page></PcGts>

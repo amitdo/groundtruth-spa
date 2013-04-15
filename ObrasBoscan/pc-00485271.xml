@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485271">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T13:32:48</Created>
+	<LastChange>2011-05-12T13:41:10</LastChange></Metadata>
+	<Page imageFilename="00485271.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r5" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="r8" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="254" y="958"/>
+	<Point x="1494" y="958"/>
+	<Point x="1494" y="1679"/>
+	<Point x="254" y="1679"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Otro dia, deſpues que el ſol luzientẽ
+Alumbro ya, los altos ediﬁcios:
+Y a buir empeço toda la gente,
+En ſus acoambrados exercicios.
+Morada fue, de Venus, la patente,
+Que delos dos moraua los ofﬁcios.
+Y ai iuntaronſe las dos ſeñoras,
+Aſer dela embaxada ſabidoras.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="635" y="3017"/>
+	<Point x="1390" y="3017"/>
+	<Point x="1390" y="3091"/>
+	<Point x="635" y="3091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="287" y="157"/>
+	<Point x="1506" y="170"/>
+	<Point x="1507" y="871"/>
+	<Point x="287" y="871"/>
+	<Point x="265" y="169"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y tras eo, paando por Girona,
+Y por otros lugares, no nombrados:
+Pararon vn buen rato en Badalona,
+Haa que el ſol ſe fue de los coados.
+Y ai entraron denoche en Barcelona,
+Adonde fueron bien apoſentados.
+Y ambos ai, el Niño, repoſaron,
+Y ſu razonamiento concertaron.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="270" y="1761"/>
+	<Point x="1610" y="1761"/>
+	<Point x="1610" y="2510"/>
+	<Point x="270" y="2510"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Legados pues a ear, en la preſencia,
+Que eſpantar ſuele, quãtos ſon preſentes:
+De no haar entre eas diferencia,
+Entreﬁ ſe haaron, diferentes.
+No podian diſcernir la precedencia
+D'entrambas,  alas dos parauan mientes.
+El vno en ﬁn, ala vna, ai hablo,
+Y ala otra deſpues, ſegun las vio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="594" y="56"/>
+	<Point x="1147" y="56"/>
+	<Point x="1147" y="159"/>
+	<Point x="593" y="152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="page-number">
+	<Coords>
+	<Point x="1232" y="52"/>
+	<Point x="1550" y="52"/>
+	<Point x="1550" y="155"/>
+	<Point x="1232" y="155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. CLI.</Unicode></TextEquiv></TextRegion></Page></PcGts>

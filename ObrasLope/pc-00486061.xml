@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00486061">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T23:29:26</Created>
+	<LastChange>2011-07-28T11:29:36</LastChange></Metadata>
+	<Page imageFilename="00486061.tif" imageWidth="2101" imageHeight="3018">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="142" y="154"/>
+	<Point x="505" y="166"/>
+	<Point x="753" y="156"/>
+	<Point x="889" y="158"/>
+	<Point x="1102" y="180"/>
+	<Point x="1461" y="183"/>
+	<Point x="1542" y="178"/>
+	<Point x="1530" y="1328"/>
+	<Point x="978" y="1303"/>
+	<Point x="734" y="1307"/>
+	<Point x="364" y="1313"/>
+	<Point x="104" y="1312"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>por horas aguardando amarga muerte
+el tiempo ſeñor mide,
+Claudia pide tu amparo y yo le pido,
+y la razon lo pide,
+baxe al campo tu exercito eſparcido,
+y a quien te dio la vida
+paga la deuda y amiad deuida,
+que como tan furioſo
+agora baxes con tu fuerte gente
+el Conſul imbidioſo,
+haziendo la deﬀenſa conuiniente,
+hara dichoſo nuero mal ſucceo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="98" y="1317"/>
+	<Point x="330" y="1317"/>
+	<Point x="549" y="1316"/>
+	<Point x="570" y="1315"/>
+	<Point x="730" y="1312"/>
+	<Point x="960" y="1309"/>
+	<Point x="1586" y="1349"/>
+	<Point x="1603" y="2681"/>
+	<Point x="846" y="2767"/>
+	<Point x="141" y="2783"/>
+	<Point x="113" y="1871"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Curie. Con graue ſentimiento
+ca los ojos a orar mouidos,
+es encarecimiento
+nueuo y de nueuas penas mis ſentidos,
+y que jamas ſe ha vio,
+te eſcucho y nueuas lagrymas reo
+por mi Furio en ſu cara
+herido por ſu mano, por mi preſo,
+y que ſu prenda cara
+laime el coraçon ee ſucceo,
+ni el cielo lo permita
+ni el alma noble que ee pecho habita,
+yo hare que Furio viua,
+yo le dare la vida que me ha dado,
+y ea bea cautiua</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="signature-mark">
+	<Coords>
+	<Point x="1155" y="2747"/>
+	<Point x="1336" y="2747"/>
+	<Point x="1338" y="2847"/>
+	<Point x="1155" y="2852"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Q</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="674" y="2932"/>
+	<Point x="1400" y="2928"/>
+	<Point x="1401" y="2995"/>
+	<Point x="664" y="2994"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1466" y="2726"/>
+	<Point x="1473" y="2852"/>
+	<Point x="1732" y="2852"/>
+	<Point x="1730" y="2706"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no diga</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r8" type="handwritten-annotation">
+	<Coords>
+	<Point x="975" y="0"/>
+	<Point x="970" y="55"/>
+	<Point x="1022" y="58"/>
+	<Point x="1155" y="53"/>
+	<Point x="1155" y="0"/></Coords></GraphicRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="558" y="52"/>
+	<Point x="538" y="151"/>
+	<Point x="773" y="147"/>
+	<Point x="909" y="148"/>
+	<Point x="1101" y="175"/>
+	<Point x="1432" y="177"/>
+	<Point x="1543" y="172"/>
+	<Point x="1543" y="47"/>
+	<Point x="1041" y="60"/>
+	<Point x="983" y="62"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comedia de Lope de Vega.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="1825" y="53"/>
+	<Point x="1825" y="221"/>
+	<Point x="2071" y="221"/>
+	<Point x="2071" y="53"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>121</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444016">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:48:05</Created>
+	<LastChange>2011-12-19T11:39:20</LastChange></Metadata>
+	<Page imageFilename="00444016.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="383" y="126"/>
+	<Point x="530" y="126"/>
+	<Point x="530" y="219"/>
+	<Point x="383" y="219"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>88</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="896" y="101"/>
+	<Point x="1553" y="101"/>
+	<Point x="1553" y="226"/>
+	<Point x="896" y="226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="382" y="243"/>
+	<Point x="1972" y="251"/>
+	<Point x="1968" y="2647"/>
+	<Point x="1677" y="2647"/>
+	<Point x="1585" y="2650"/>
+	<Point x="1570" y="2674"/>
+	<Point x="370" y="2677"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Magead Ie queria dar a ſentir algo, de lo
+que auia paado con aquel dolor. Conſo-
+loſe tanto, que me parece nunca mas le oy
+quexar. Euuo tres dias muy falto el ſenti-
+do, el dia que murio ſe le torno el Señor tan
+entero que nos eſpantauamos, y le tuuo ha-
+a que a la mitad del Credo, diziendole el
+miſmo eſpiro, quedo como vn angel, an me
+parecia a mi lo era el, a manera de dezir,
+en alma, y diſpocion, que la tenia muy bue-
+na. No ſe para que he dicho eo, no es pa-
+ra culpar mas mis ruyndades, deſpues de auer
+vio tal muerte, y entender tal vida, que por
+parecerme en algo a tal padre, la auia yo de
+mejorar. Dezia ſu confeor, que era Domini-
+co muy gran letrado, que no dubdaua de que
+ſe yria derecho al cielo, porque auia algunos
+años que le confeaua, y loaua ſu limpieza
+de conciencia. Ee padre Dominico que era
+muy bueno, y temeroſo de Dios me hizo har
+to prouecho, porque me confee con el, y
+tomo hazer bien en mi alma con cuydado, y
+hazerme entender la perdicion que traya:
+haziame comulgar de quinze a quinze dias,
+y poco a poco començandole a tratar, trate-
+le de mi oracion, dixome que no la dexaſ-
+ſe, que en ninguna manera me podia hazer</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="609" y="3072"/>
+	<Point x="1583" y="3072"/>
+	<Point x="1583" y="3150"/>
+	<Point x="609" y="3150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1771" y="2653"/>
+	<Point x="1772" y="2747"/>
+	<Point x="1945" y="2745"/>
+	<Point x="1946" y="2653"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no</Unicode></TextEquiv></TextRegion></Page></PcGts>

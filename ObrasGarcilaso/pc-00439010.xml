@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439010">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T15:48:21</Created>
+	<LastChange>2011-06-24T14:04:31</LastChange></Metadata>
+	<Page imageFilename="00439010.tif" imageWidth="1386" imageHeight="2141">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r11" index="1"/>
+	<RegionRefIndexed regionRef="r19" index="2"/>
+	<RegionRefIndexed regionRef="r27" index="3"/>
+	<RegionRefIndexed regionRef="r29" index="4"/>
+	<RegionRefIndexed regionRef="r31" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="494" y="2100"/>
+	<Point x="976" y="2100"/>
+	<Point x="976" y="2140"/>
+	<Point x="494" y="2140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="45" y="196"/>
+	<Point x="1098" y="184"/>
+	<Point x="1132" y="195"/>
+	<Point x="1157" y="193"/>
+	<Point x="1154" y="256"/>
+	<Point x="951" y="275"/>
+	<Point x="827" y="279"/>
+	<Point x="803" y="264"/>
+	<Point x="611" y="266"/>
+	<Point x="285" y="284"/>
+	<Point x="45" y="269"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no dize grande, no cruel ponçoñoſa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="29" y="280"/>
+	<Point x="281" y="290"/>
+	<Point x="583" y="275"/>
+	<Point x="611" y="272"/>
+	<Point x="734" y="269"/>
+	<Point x="804" y="268"/>
+	<Point x="827" y="282"/>
+	<Point x="955" y="281"/>
+	<Point x="1134" y="269"/>
+	<Point x="1246" y="272"/>
+	<Point x="1247" y="335"/>
+	<Point x="1155" y="335"/>
+	<Point x="1146" y="480"/>
+	<Point x="1046" y="483"/>
+	<Point x="452" y="493"/>
+	<Point x="427" y="512"/>
+	<Point x="387" y="512"/>
+	<Point x="368" y="495"/>
+	<Point x="21" y="495"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Immanem ante pedes hydrum moritura
+puea
+Seruantem ripas alta non viditin herba.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="214" y="101"/>
+	<Point x="1036" y="101"/>
+	<Point x="1036" y="181"/>
+	<Point x="211" y="188"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A GARCILASSO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="page-number">
+	<Coords>
+	<Point x="1131" y="122"/>
+	<Point x="1247" y="115"/>
+	<Point x="1232" y="187"/>
+	<Point x="1131" y="187"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>137</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords>
+	<Point x="22" y="505"/>
+	<Point x="356" y="500"/>
+	<Point x="377" y="519"/>
+	<Point x="443" y="518"/>
+	<Point x="467" y="501"/>
+	<Point x="637" y="496"/>
+	<Point x="1032" y="487"/>
+	<Point x="1221" y="488"/>
+	<Point x="1218" y="547"/>
+	<Point x="1215" y="569"/>
+	<Point x="1231" y="572"/>
+	<Point x="1231" y="717"/>
+	<Point x="1050" y="718"/>
+	<Point x="1045" y="786"/>
+	<Point x="26" y="800"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pintando a Apolo en el robuo oﬁcio.
+La fabula de Apolo, y Daphne largamen
+te cuẽta Ouidio en el primero de Metam.
+donde ean ſa cadas eas eancias.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="marginalia">
+	<Coords>
+	<Point x="1223" y="498"/>
+	<Point x="1332" y="494"/>
+	<Point x="1319" y="557"/>
+	<Point x="1219" y="560"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>216</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="marginalia">
+	<Coords>
+	<Point x="1220" y="809"/>
+	<Point x="1328" y="803"/>
+	<Point x="1316" y="868"/>
+	<Point x="1289" y="867"/>
+	<Point x="1221" y="865"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>217</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="14" y="811"/>
+	<Point x="1078" y="790"/>
+	<Point x="1212" y="790"/>
+	<Point x="1211" y="871"/>
+	<Point x="1234" y="872"/>
+	<Point x="1248" y="1339"/>
+	<Point x="1045" y="1340"/>
+	<Point x="1036" y="1386"/>
+	<Point x="641" y="1395"/>
+	<Point x="14" y="1397"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vn puerco entre eas de braueza eﬂraña
+Venus tenia por ſu amado à Adonis, al qual
+an dando a caça matô vn puerco jauali, y
+quieren dezir que aquel puerco no era -
+no el Dios Marte, conuertido en aquea,
+ﬁera, por los zelos que tenia La fabula cuẽ
+ta largamente Ouidio lib. 10. Metamor. y
+acaba el libro con ea. vide fol. 101.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords>
+	<Point x="14" y="1404"/>
+	<Point x="1015" y="1395"/>
+	<Point x="1242" y="1392"/>
+	<Point x="1238" y="1990"/>
+	<Point x="1011" y="1993"/>
+	<Point x="960" y="2012"/>
+	<Point x="869" y="2013"/>
+	<Point x="857" y="1999"/>
+	<Point x="798" y="1999"/>
+	<Point x="762" y="2016"/>
+	<Point x="15" y="2023"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Las roſas blancas Por ai ſembradas, &amp;c.
+Cuenta Aﬁtonio Soﬁa en ſus Progymn.
+que en acabãdoſe de partir la dioſa Venus
+de la conuerſacion de ſu Adonis, no muy
+Iexos oy ó las vozes del miſmo Adonis, 
+ſe quexaua de las heridas que le auia dado
+vn puerco jauali. Ea muy alborotada cor
+rio para dõ de eaua Adonis, y por no ro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="catch-word">
+	<Coords>
+	<Point x="1059" y="1998"/>
+	<Point x="1224" y="1998"/>
+	<Point x="1224" y="2084"/>
+	<Point x="1059" y="2084"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dear,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="signature-mark">
+	<Coords>
+	<Point x="806" y="2003"/>
+	<Point x="855" y="2003"/>
+	<Point x="855" y="2066"/>
+	<Point x="806" y="2066"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>S</Unicode></TextEquiv></TextRegion></Page></PcGts>

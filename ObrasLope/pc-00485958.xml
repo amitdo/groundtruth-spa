@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485958">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T15:39:26</Created>
+	<LastChange>2011-07-28T11:29:16</LastChange></Metadata>
+	<Page imageFilename="00485958.tif" imageWidth="2250" imageHeight="3124">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="402" y="130"/>
+	<Point x="1185" y="160"/>
+	<Point x="1346" y="184"/>
+	<Point x="1369" y="188"/>
+	<Point x="1538" y="175"/>
+	<Point x="1621" y="176"/>
+	<Point x="1680" y="205"/>
+	<Point x="1706" y="205"/>
+	<Point x="1842" y="180"/>
+	<Point x="1939" y="190"/>
+	<Point x="1907" y="332"/>
+	<Point x="1492" y="352"/>
+	<Point x="485" y="324"/>
+	<Point x="398" y="313"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>el tiempo eue, el nombre que oy ſe ha vio,
+bolar deſde el antartico acalio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="289" y="330"/>
+	<Point x="427" y="329"/>
+	<Point x="1828" y="372"/>
+	<Point x="1962" y="368"/>
+	<Point x="1837" y="2755"/>
+	<Point x="1452" y="2764"/>
+	<Point x="1460" y="2760"/>
+	<Point x="1428" y="2763"/>
+	<Point x="1416" y="2766"/>
+	<Point x="1392" y="2770"/>
+	<Point x="290" y="2749"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Alfonſo. Por mas Bernardo que me encarecieres,
+ee valor que tu valor me ha dado
+es dezir lo que vales y lo que eres,
+y con loarme am¡ quedas loado
+todas eas grandezas que reﬁeres,
+por ti las he valido, y conquiado
+tu as do la coluna de mi Reyno,
+por ti Bernardo viuo, y por ti Reyno.
+Tuya ha do ea celebre vioria
+con tu valor egada al dulce eﬀeo
+ya ſoegada el alma y la memoria,
+de mi honor he perdido el mal concepto
+deſcanſare y deſcanſaras con gloria.
+pues nos libraes ſolo dee prieto
+por enſalçar el nombre de los godos,
+haziendo ﬁeas de diuerſos modos.
+Colgad en ſan Idro eas vanderas,
+que al ſoberuio Frances hemos ganado
+las fuertes armas las eſpadas ﬁeras,
+el claro eſcudo y el paues dorado
+poned gaardo timbres y cimeras,
+ſobre las armas que oy haueys tomado,
+que yo hare al Leon por excelente,
+coronar con corona la alta frente
+dad vna via a la Ciudad famoſa,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="652" y="3063"/>
+	<Point x="1410" y="3064"/>
+	<Point x="1409" y="3109"/>
+	<Point x="1303" y="3109"/>
+	<Point x="1297" y="3116"/>
+	<Point x="1280" y="3116"/>
+	<Point x="1280" y="3108"/>
+	<Point x="1049" y="3108"/>
+	<Point x="717" y="3109"/>
+	<Point x="643" y="3109"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="823" y="42"/>
+	<Point x="826" y="139"/>
+	<Point x="1331" y="161"/>
+	<Point x="1358" y="183"/>
+	<Point x="1372" y="184"/>
+	<Point x="1469" y="164"/>
+	<Point x="1630" y="169"/>
+	<Point x="1683" y="200"/>
+	<Point x="1700" y="199"/>
+	<Point x="1827" y="163"/>
+	<Point x="1828" y="73"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comedia de Lope de Vega.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1908" y="2789"/>
+	<Point x="1908" y="2898"/>
+	<Point x="2188" y="2898"/>
+	<Point x="2188" y="2789"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y que-</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r6" type="handwritten-annotation">
+	<Coords>
+	<Point x="1130" y="2800"/>
+	<Point x="1130" y="2940"/>
+	<Point x="1370" y="2940"/>
+	<Point x="1370" y="2800"/></Coords></GraphicRegion></Page></PcGts>

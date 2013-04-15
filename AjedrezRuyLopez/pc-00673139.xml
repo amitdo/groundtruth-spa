@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00673139">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 10.0</Creator>
+	<Created>2012-02-01T21:40:00</Created>
+	<LastChange>2012-03-03T01:14:37</LastChange></Metadata>
+	<Page imageFilename="00673139.tif" imageWidth="1888" imageHeight="2621">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="232" y="2248"/>
+	<Point x="228" y="320"/>
+	<Point x="301" y="320"/>
+	<Point x="458" y="323"/>
+	<Point x="618" y="335"/>
+	<Point x="632" y="328"/>
+	<Point x="641" y="328"/>
+	<Point x="643" y="334"/>
+	<Point x="669" y="334"/>
+	<Point x="687" y="336"/>
+	<Point x="763" y="336"/>
+	<Point x="865" y="335"/>
+	<Point x="878" y="332"/>
+	<Point x="1239" y="329"/>
+	<Point x="1426" y="333"/>
+	<Point x="1416" y="2242"/>
+	<Point x="1356" y="2238"/>
+	<Point x="1326" y="2252"/>
+	<Point x="1308" y="2252"/>
+	<Point x="1278" y="2238"/>
+	<Point x="1148" y="2238"/>
+	<Point x="913" y="2245"/>
+	<Point x="893" y="2248"/>
+	<Point x="855" y="2246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de ſu arf.como dize Damiã,antes jug.la dama ala
+2.de ſu rey:lo vno por guardar dẽde alli mejor ſu
+gẽte:y lo otro por no dar lãces a ſu enemigo: po
+dria jug.n los  ha morado Damiã, conuiene a
+ſaber el peõ dela dama quanto va ſobre el arf.del
+rey contrario. Y  ahora lo jug.el blã.el neg. lo to
+mara cõ el peõ de ſu rey. Y  el bl. lo tomara cõ el
+peon del arf.dela dama cargãdo toda via ſobre el
+arf.del rey cõtrario:el neg.tomara con ſu dama el
+peon del rey dando xaque. Y  el blã. mudara el
+rey ala.2.de ſu dama:el neg.le dara xaque cõ el ar
+ﬁl ala.4. del cau.dela dama cõtraria,y luego pro-
+ueera como ſu enemigo no le cubra la dama. Pe-
+ro  el bl.no querra mudar ſu rey: y al xaque dela
+dama ſe cobrira cõ el arﬁl de ſu dama ala. 3. de ſu
+rey:el neg.dara cõ el arf. de ſu rey el xa ſobredi-
+cho para guardar ſu arﬁl : y deſpues proueera de
+guardarſe de modo  el blã.no le tome el peõ del
+arf.del rey con ſu arf.dando xaque. Y  el neg. lo
+tomare con el rey:le de xaque por la dama: el blã.
+con el cau.ala.4.del caua.del rey negro. Pero  el
+blan no jug.el peon dela dama quanto va por no
+perder el del rey como auemos dicho:antes jug.
+el dicho peõ dela dama vna caſa:el neg.jug.el peõ
+de ſu dama vna caſa para guardar el peõ de ſu rey
+y abrir la via al arf.dela dama.Si el bl.jug. el caua.
+del rey ala.4.del cau. del rey cõtrario ſobre el peõ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="catch-word">
+	<Coords>
+	<Point x="1327" y="2254"/>
+	<Point x="1327" y="2305"/>
+	<Point x="1408" y="2305"/>
+	<Point x="1408" y="2254"/>
+	<Point x="1403" y="2248"/>
+	<Point x="1355" y="2245"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>del</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="signature-mark">
+	<Coords>
+	<Point x="1066" y="2249"/>
+	<Point x="1066" y="2318"/>
+	<Point x="1187" y="2318"/>
+	<Point x="1187" y="2249"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O 5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="557" y="249"/>
+	<Point x="557" y="325"/>
+	<Point x="640" y="325"/>
+	<Point x="647" y="329"/>
+	<Point x="693" y="333"/>
+	<Point x="743" y="333"/>
+	<Point x="780" y="325"/>
+	<Point x="1097" y="325"/>
+	<Point x="1097" y="249"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>del juego del axedrez.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1326" y="275"/>
+	<Point x="1326" y="326"/>
+	<Point x="1428" y="326"/>
+	<Point x="1428" y="275"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>109</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00486131">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T16:12:51</Created>
+	<LastChange>2011-07-28T11:29:43</LastChange></Metadata>
+	<Page imageFilename="00486131.tif" imageWidth="2122" imageHeight="2991">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r5" index="0"/>
+	<RegionRefIndexed regionRef="r25" index="1"/>
+	<RegionRefIndexed regionRef="r26" index="2"/>
+	<RegionRefIndexed regionRef="r8" index="3"/>
+	<RegionRefIndexed regionRef="r17" index="4"/>
+	<RegionRefIndexed regionRef="r27" index="5"/>
+	<RegionRefIndexed regionRef="r21" index="6"/>
+	<RegionRefIndexed regionRef="r28" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="570" y="0"/>
+	<Point x="740" y="10"/>
+	<Point x="804" y="1"/>
+	<Point x="897" y="6"/>
+	<Point x="927" y="0"/>
+	<Point x="959" y="0"/>
+	<Point x="967" y="8"/>
+	<Point x="1000" y="6"/>
+	<Point x="1007" y="0"/>
+	<Point x="1049" y="0"/>
+	<Point x="1050" y="22"/>
+	<Point x="1208" y="13"/>
+	<Point x="1220" y="0"/>
+	<Point x="1243" y="0"/>
+	<Point x="1249" y="18"/>
+	<Point x="1273" y="8"/>
+	<Point x="1292" y="7"/>
+	<Point x="1304" y="7"/>
+	<Point x="1312" y="0"/>
+	<Point x="1379" y="0"/>
+	<Point x="1532" y="7"/>
+	<Point x="1529" y="90"/>
+	<Point x="1439" y="102"/>
+	<Point x="1367" y="76"/>
+	<Point x="1220" y="82"/>
+	<Point x="570" y="75"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comedia de Lope de Vega.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="credit">
+	<Coords>
+	<Point x="682" y="2925"/>
+	<Point x="1050" y="2928"/>
+	<Point x="1387" y="2927"/>
+	<Point x="1383" y="2977"/>
+	<Point x="1286" y="2976"/>
+	<Point x="1278" y="2985"/>
+	<Point x="1273" y="2977"/>
+	<Point x="1025" y="2978"/>
+	<Point x="678" y="2978"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="151" y="100"/>
+	<Point x="322" y="85"/>
+	<Point x="609" y="88"/>
+	<Point x="1257" y="88"/>
+	<Point x="1491" y="128"/>
+	<Point x="1485" y="359"/>
+	<Point x="1479" y="564"/>
+	<Point x="736" y="555"/>
+	<Point x="658" y="575"/>
+	<Point x="153" y="582"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que  eas en la corte y a mis ojos
+que la muerte que al Conde dar hizie
+has de pagar con otra, y no con menos,
+y agradece que luego no lo hago,
+vamos Ruﬁno, dexa ee cobarde.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="93" y="775"/>
+	<Point x="247" y="771"/>
+	<Point x="410" y="762"/>
+	<Point x="440" y="761"/>
+	<Point x="469" y="757"/>
+	<Point x="499" y="762"/>
+	<Point x="548" y="783"/>
+	<Point x="599" y="761"/>
+	<Point x="1226" y="753"/>
+	<Point x="1429" y="754"/>
+	<Point x="1470" y="753"/>
+	<Point x="1512" y="754"/>
+	<Point x="1528" y="763"/>
+	<Point x="1539" y="775"/>
+	<Point x="1536" y="1055"/>
+	<Point x="1191" y="1062"/>
+	<Point x="830" y="1065"/>
+	<Point x="731" y="1040"/>
+	<Point x="690" y="1036"/>
+	<Point x="100" y="1047"/>
+	<Point x="100" y="1041"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ruﬁno. Caa ſeñor que es colera de padre
+mañana eara blando y amoroſo
+no te auſentes ſoegate. vaſe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="97" y="1061"/>
+	<Point x="204" y="1056"/>
+	<Point x="295" y="1056"/>
+	<Point x="437" y="1050"/>
+	<Point x="707" y="1042"/>
+	<Point x="831" y="1075"/>
+	<Point x="1615" y="1086"/>
+	<Point x="1618" y="1986"/>
+	<Point x="1516" y="2006"/>
+	<Point x="1376" y="2000"/>
+	<Point x="1336" y="1990"/>
+	<Point x="1108" y="1996"/>
+	<Point x="1078" y="2014"/>
+	<Point x="1014" y="1994"/>
+	<Point x="972" y="2010"/>
+	<Point x="791" y="2001"/>
+	<Point x="364" y="2000"/>
+	<Point x="252" y="2006"/>
+	<Point x="120" y="2009"/>
+	<Point x="108" y="2001"/>
+	<Point x="111" y="1268"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Principe. No puedo
+determinado eoy, pues cielo y ſuelo
+amor, mi padre, Celia y mi fortuna,
+ſon contra mi, y procuran mi tormento,
+de no hazer reencia, ni pedirles
+el daño que me cauſan todos juntos:
+yreme de la corte, y aun del mundo,
+donde jamas las nueuas de mi muerte
+puedan venirte padre, pues la vida,
+dexando a Celia dexo ya perdida. vaſe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="100" y="2118"/>
+	<Point x="645" y="2103"/>
+	<Point x="823" y="2102"/>
+	<Point x="920" y="2097"/>
+	<Point x="1052" y="2088"/>
+	<Point x="1324" y="2093"/>
+	<Point x="1354" y="2094"/>
+	<Point x="1509" y="2109"/>
+	<Point x="1665" y="2105"/>
+	<Point x="1689" y="2600"/>
+	<Point x="1600" y="2650"/>
+	<Point x="1371" y="2670"/>
+	<Point x="1147" y="2697"/>
+	<Point x="208" y="2701"/>
+	<Point x="132" y="2692"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Principe. El cielo ea canſado de ſuﬀrirme
+y yo de yr contra el no eoy canſado,
+mi padre, reyno, y Celia me han dexado,
+y yo no puedo deos eximirme:
+mi penſamiento veo perſeguirme,
+y empre eoy en el mas engolfado,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="681" y="574"/>
+	<Point x="655" y="653"/>
+	<Point x="732" y="648"/>
+	<Point x="765" y="678"/>
+	<Point x="810" y="666"/>
+	<Point x="833" y="661"/>
+	<Point x="1103" y="670"/>
+	<Point x="1122" y="673"/>
+	<Point x="1163" y="655"/>
+	<Point x="1321" y="639"/>
+	<Point x="1320" y="566"/>
+	<Point x="732" y="563"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vaſe el Rey ſolo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords>
+	<Point x="94" y="671"/>
+	<Point x="95" y="761"/>
+	<Point x="431" y="753"/>
+	<Point x="488" y="755"/>
+	<Point x="547" y="777"/>
+	<Point x="601" y="758"/>
+	<Point x="1227" y="749"/>
+	<Point x="1491" y="745"/>
+	<Point x="1486" y="671"/>
+	<Point x="1166" y="658"/>
+	<Point x="1118" y="680"/>
+	<Point x="809" y="669"/>
+	<Point x="765" y="680"/>
+	<Point x="728" y="656"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Prin. Yo cumplire ſeñor tu mandamiento.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords>
+	<Point x="98" y="2017"/>
+	<Point x="93" y="2106"/>
+	<Point x="866" y="2094"/>
+	<Point x="1071" y="2082"/>
+	<Point x="1362" y="2090"/>
+	<Point x="1508" y="2102"/>
+	<Point x="1728" y="2100"/>
+	<Point x="1728" y="2013"/>
+	<Point x="1642" y="1997"/>
+	<Point x="1581" y="1997"/>
+	<Point x="1509" y="2014"/>
+	<Point x="1304" y="1998"/>
+	<Point x="1111" y="2000"/>
+	<Point x="1075" y="2020"/>
+	<Point x="1015" y="1998"/>
+	<Point x="972" y="2015"/>
+	<Point x="719" y="2005"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>IORNADA III. Sale el Principe ſolo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="catch-word">
+	<Coords>
+	<Point x="1699" y="2655"/>
+	<Point x="1847" y="2655"/>
+	<Point x="1847" y="2737"/>
+	<Point x="1699" y="2737"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="signature-mark">
+	<Coords>
+	<Point x="1358" y="2675"/>
+	<Point x="1353" y="2746"/>
+	<Point x="1531" y="2753"/>
+	<Point x="1513" y="2673"/>
+	<Point x="1408" y="2673"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>V 4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="page-number">
+	<Coords>
+	<Point x="1843" y="1"/>
+	<Point x="1843" y="88"/>
+	<Point x="2038" y="88"/>
+	<Point x="2038" y="1"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>156</Unicode></TextEquiv></TextRegion></Page></PcGts>

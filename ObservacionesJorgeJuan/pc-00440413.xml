@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440413">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T15:06:57</Created>
+	<LastChange>2011-12-19T11:39:10</LastChange></Metadata>
+	<Page imageFilename="00440413.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r9" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r15" index="2"/>
+	<RegionRefIndexed regionRef="r11" index="3"/>
+	<RegionRefIndexed regionRef="r13" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="752" y="416"/>
+	<Point x="919" y="407"/>
+	<Point x="919" y="548"/>
+	<Point x="726" y="548"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>390</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="885" y="746"/>
+	<Point x="2404" y="746"/>
+	<Point x="2404" y="912"/>
+	<Point x="885" y="912"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Praica de la Navegacion ſobre la Elipſoide.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="catch-word">
+	<Coords>
+	<Point x="2268" y="3578"/>
+	<Point x="2624" y="3578"/>
+	<Point x="2624" y="3724"/>
+	<Point x="2268" y="3724"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PRO-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="credit">
+	<Coords>
+	<Point x="992" y="4012"/>
+	<Point x="1968" y="4012"/>
+	<Point x="1968" y="4090"/>
+	<Point x="992" y="4090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="1217" y="407"/>
+	<Point x="2080" y="407"/>
+	<Point x="2091" y="530"/>
+	<Point x="1204" y="526"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="drop-capital">
+	<Coords>
+	<Point x="625" y="948"/>
+	<Point x="625" y="1158"/>
+	<Point x="745" y="1158"/>
+	<Point x="769" y="1164"/>
+	<Point x="830" y="1156"/>
+	<Point x="840" y="1099"/>
+	<Point x="830" y="1063"/>
+	<Point x="829" y="1049"/>
+	<Point x="826" y="987"/>
+	<Point x="822" y="949"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>S</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="1234" y="573"/>
+	<Point x="1247" y="708"/>
+	<Point x="2060" y="708"/>
+	<Point x="2060" y="565"/>
+	<Point x="2052" y="565"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITULO III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="832" y="948"/>
+	<Point x="2624" y="948"/>
+	<Point x="2624" y="2739"/>
+	<Point x="639" y="2739"/>
+	<Point x="639" y="2344"/>
+	<Point x="638" y="2344"/>
+	<Point x="638" y="1730"/>
+	<Point x="637" y="1730"/>
+	<Point x="637" y="1556"/>
+	<Point x="636" y="1556"/>
+	<Point x="636" y="1162"/>
+	<Point x="635" y="1162"/>
+	<Point x="745" y="1162"/>
+	<Point x="771" y="1168"/>
+	<Point x="852" y="1162"/>
+	<Point x="834" y="1044"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I los Capitulos antecedentes fueen algo diﬁciles de
+comprehender por los meros Pilotos, el guiente
+ſe les harà mas inteligible, pues ſe reduce à las opera‐
+ciones, que deben praicar en la Navegacion; pero
+ante todas coſas ſe debe eàr en la inteligencia, de que
+la Corredera ſe ha de marcar ſegun la magnitud del gra‐
+do del Equador, que yà diximos ſer de 57228½ toeſas
+del piè de Rey de Parìs; y porque entre nudo, y nudo
+debe tener ee Inrumento � de mia, reſpeo de
+que la Ampoeta de ordinario ſe fabrica de � de hora,
+ſerà ea cantidad de �: eo es, de 47 pies,
+8 pulgadas, que equivalen à 50 pies, 10 pulgadas de
+Londres. Con ee fundamento podemos reſolver los
+Problemas de Navegacion por las dos Tablas antece‐
+dentes.</Unicode></TextEquiv></TextRegion></Page></PcGts>

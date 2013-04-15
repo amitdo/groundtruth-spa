@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442304">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T16:59:30</Created>
+	<LastChange>2012-03-12T14:11:50</LastChange></Metadata>
+	<Page imageFilename="00442304.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="587" y="51"/>
+	<Point x="1098" y="50"/>
+	<Point x="1091" y="127"/>
+	<Point x="841" y="124"/>
+	<Point x="830" y="144"/>
+	<Point x="801" y="147"/>
+	<Point x="791" y="144"/>
+	<Point x="767" y="127"/>
+	<Point x="584" y="128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Primera parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="154" y="148"/>
+	<Point x="874" y="162"/>
+	<Point x="928" y="142"/>
+	<Point x="1040" y="145"/>
+	<Point x="1460" y="147"/>
+	<Point x="1438" y="2162"/>
+	<Point x="1401" y="2168"/>
+	<Point x="1337" y="2163"/>
+	<Point x="1187" y="2181"/>
+	<Point x="860" y="2182"/>
+	<Point x="136" y="2179"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y vno deos que era vn poco burlon, y muy mucho
+diſcreto, le dixo: Señor cauaero, noſotros no conoce
+mos quien ſea ea buena ſeñora que dezis morad-
+nosla, que  ea fuere de tanta hermoſura como gni
+ﬁcays, de buena gana, y n apremio alguno cõfeare-
+mos la verdad, que por parte vuera nos es pedida. Si
+os la morara, replicò dõ Quixote, que hizieradesvo
+ſotros en confear vna verdad tan notoria: la impor-
+tancia eà, en que n verla lo aueis de creer, confeſ-
+ſar, aﬁrmar, jurar, y defender: donde no conmigo ſoys
+en bataa, gente deſcomunal, y ſoberuia. Que aora
+vengays vno a vno (como pide la ordẽ de cauaeria)
+ora todos juntos, como es coũbre, y mala vſança de
+losde vuera ralea, aqui os aguardo y eſpero, conﬁa-
+do en la razon que de mi parte tengo. Señor cauae-
+ro, replicò el mercader, ſuplico a vuera merced, en
+nombre de todos eos principes que aqui eamos, 
+porque no encarguemos nueras conciencias, con-
+feando vna coſa por noſotros jamas via, ni oyda,
+y mas endo tan en perjuyzio de las Emperatrizes, y
+Reynas del Alcarria, y Eremadura, que vuera mer
+ced ſea ſeruido de morarnos algun retrato de ea ſe
+ñora, aũque ſea tamaño como vn grano de trigo, que
+por el hilo ſe ſacarà el ouio, y quedaremos con eo
+ſatisfechos, y ſeguros, y vuera merced quedarà con-
+tento y pagado: y aun creo que eamos ya tan de ſu
+parte, que aunque ſu retrato nos muere, que es tuer-
+ta de vn ojo, y que del otro le mana bermeon, y pie-
+dra açufre, cõ todo eo por complazer a vuera mer
+ced, diremos en ſu fauor todo lo que quiere. No le
+mana, canaa infame, reſpondio don Quixote encen-
+dido en colera, no le mana digo eo  dezis, no am-
+bar, y algalia entre algodones: y no es tuerta, ni cor-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="455" y="2310"/>
+	<Point x="1126" y="2315"/>
+	<Point x="1126" y="2367"/>
+	<Point x="1042" y="2367"/>
+	<Point x="986" y="2365"/>
+	<Point x="456" y="2364"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1265" y="2179"/>
+	<Point x="1267" y="2233"/>
+	<Point x="1420" y="2232"/>
+	<Point x="1420" y="2173"/>
+	<Point x="1327" y="2169"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>coba-</Unicode></TextEquiv></TextRegion></Page></PcGts>

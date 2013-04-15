@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439335">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T01:30:26</Created>
+	<LastChange>2011-05-12T13:40:00</LastChange></Metadata>
+	<Page imageFilename="00439335.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="616" y="52"/>
+	<Point x="1511" y="47"/>
+	<Point x="1522" y="130"/>
+	<Point x="605" y="131"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="270" y="177"/>
+	<Point x="351" y="163"/>
+	<Point x="481" y="145"/>
+	<Point x="1706" y="141"/>
+	<Point x="1706" y="2560"/>
+	<Point x="1464" y="2558"/>
+	<Point x="1361" y="2582"/>
+	<Point x="276" y="2560"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que nos dan, fuee congrua para nuero ſuento: pues
+todo era tan limitado, tan poco, y mal guiſado, como
+para eudiantes, y en pupilage, que ſon de peor con-
+dicion que niños de la dotrina, que traen los eomagos
+pegados al eſpinazo, con mas deeo de comer, que el
+entendimiento de ſaber. Solia dezirnos algunas vezes
+nuero pupilero, que dezia Marco Aurelio, que los
+idiotas tenien dieta de libros, y andavan hartos de co-
+midas, que ſolo el ſabio (como ſabio) aborrece los
+manjares, por mejor poderſe retirar à los eudios:
+que à los puercos, y en los cavaos eava bien
+la gordura, y à los hombres importava ſer enjutos,
+porque los gordos tienen por la mayor parte grueo
+el entendimiento, ſon torpes en andar, imbalidos para
+pelear, inutiles para todo exercicio; lo qual en los ﬂacos
+era por el contrario. Yo me holgava confearle aque-
+o, conque no me negara otra mayor verdad, que poco
+y mal comer, acaban preo la vida, y no tengo de
+lograr mis eudios, en vano ſe toma el trabajo deos.
+Ved por mi vida qual halcon ſaliò à caça, que primero
+no lo cevaen: que podenco, que galgo, que lebrel
+ſaliò al monte, que lo evaſsen hambriento, tengan y
+tengamos, que bueno es en todo, el medio. Aqui les
+confeſsarèmos que no ſe ha de comer haa hartar, 
+nos conceden que no avemos de ayunar haa dexarnos
+caer, que avia eudiante de noſotros que ſe le conocian
+ahilarſele los excrementos en el eomago. Con todo
+eo lo elegì por de menor inconviniente, pareciendome
+que endo como era ya hombre,  tomaſse camarada,
+lo avia de hazer con otro ygual mio, y que como ſomos
+diferentes en roros, tenemos diferentes las condiciones,
+y pudiera encontrar con quien penſando aprovechar en
+las letras, me acabaſse de dañar cõ vicios, curſandolos mas
+ las Eſcuelas. Del mal el menos, hizeme pupilo, teniendo
+por mejor tropear cõ el  diran, de ver à un jayan como
+yo, con tantas barbas como la muger de Peñaranda, me-
+tido entre muchachos. Conſolavame, que tambien avia</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1528" y="2568"/>
+	<Point x="1680" y="2568"/>
+	<Point x="1680" y="2632"/>
+	<Point x="1528" y="2632"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>entre</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="534" y="2847"/>
+	<Point x="1304" y="2847"/>
+	<Point x="1304" y="2946"/>
+	<Point x="534" y="2946"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="304" y="63"/>
+	<Point x="306" y="156"/>
+	<Point x="431" y="147"/>
+	<Point x="431" y="63"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>306</Unicode></TextEquiv></TextRegion></Page></PcGts>

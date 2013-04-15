@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443590">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T03:36:45</Created>
+	<LastChange>2010-12-24T04:24:08</LastChange></Metadata>
+	<Page imageFilename="00443590.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/>
+	<RegionRefIndexed regionRef="r11" index="2"/>
+	<RegionRefIndexed regionRef="r13" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="543" y="133"/>
+	<Point x="1077" y="133"/>
+	<Point x="1077" y="252"/>
+	<Point x="543" y="252"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cancion Tercera.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="98" y="266"/>
+	<Point x="1643" y="266"/>
+	<Point x="1643" y="2169"/>
+	<Point x="98" y="2169"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>donde no puede uſar de las Potencias, ni hazer aos,
+como eà dicho; como le parece que ea no haze na-
+da, procura mas a lo ſenble i eſpreſo hazerlo; i a ſe
+dirae i ſe ena de ſequedad, i diſguo la que antes
+eava gozando de la ociodad de la paz i lencio eſpi
+ritual, en que Dios le eava de ſecreto poniendo guo.
+I acaecera que eè Dios porﬁando por tenerla en a-
+quea quietud caada, i ea porﬁando por vozear con
+la imaginacion, i por caminar con el Entẽdimiento; co
+mo a los muchachos que evandolos ſus madres en bra
+ços, n que eos den paſo; van gritando i pateando
+por irſe por ſu pie; i a ni andan eos, ni dexan andar a
+las madres. O como cuando el pintor eà pintãdo una
+imagen, que  ea eà meneandoſe, no le dexa hazer
+nada. Ha de advertir el alma, que aunque entonces
+ea no ſe ente caminar, mucho mas camina, que por
+ſus pies; porque la eva Dios en ſus braços; i a ea no
+ente el paſo. I aunque ea parece que no haze nada
+mucho mas ſe haze, que  ea lo hiziera, porque Dios
+es el obrero. I  ea no lo echa de ver, no es maravia;
+porque lo que Dios obra en el alma, no lo alcança el
+ſentido. Dexeſe en las manos de Dios, i ﬁeſe del, que
+como eo ſea, ſegura irà, que no ai peligro, no cuando
+ea quiere de ſuyo, o por ſu traça obrar con las Po-
+tencias.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1507" y="2792"/>
+	<Point x="1635" y="2801"/>
+	<Point x="1628" y="2877"/>
+	<Point x="1503" y="2869"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>del</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="780" y="2932"/>
+	<Point x="1417" y="2932"/>
+	<Point x="1417" y="3000"/>
+	<Point x="780" y="3000"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1441" y="145"/>
+	<Point x="1441" y="250"/>
+	<Point x="1609" y="250"/>
+	<Point x="1609" y="145"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>579</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="728" y="2176"/>
+	<Point x="704" y="2265"/>
+	<Point x="997" y="2265"/>
+	<Point x="997" y="2176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>§. VII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="signature-mark">
+	<Coords>
+	<Point x="1138" y="2795"/>
+	<Point x="1138" y="2870"/>
+	<Point x="1288" y="2870"/>
+	<Point x="1288" y="2795"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Oo 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="drop-capital">
+	<Coords>
+	<Point x="250" y="2304"/>
+	<Point x="250" y="2483"/>
+	<Point x="98" y="2483"/>
+	<Point x="98" y="2304"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>B</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="1640" y="2304"/>
+	<Point x="1640" y="2796"/>
+	<Point x="1640" y="2795"/>
+	<Point x="1626" y="2795"/>
+	<Point x="1626" y="2794"/>
+	<Point x="1613" y="2794"/>
+	<Point x="1613" y="2793"/>
+	<Point x="1600" y="2793"/>
+	<Point x="1600" y="2792"/>
+	<Point x="1587" y="2792"/>
+	<Point x="1587" y="2791"/>
+	<Point x="1574" y="2791"/>
+	<Point x="1574" y="2790"/>
+	<Point x="1560" y="2790"/>
+	<Point x="1560" y="2789"/>
+	<Point x="1547" y="2789"/>
+	<Point x="1547" y="2788"/>
+	<Point x="1534" y="2788"/>
+	<Point x="1534" y="2787"/>
+	<Point x="1521" y="2787"/>
+	<Point x="1521" y="2786"/>
+	<Point x="1508" y="2786"/>
+	<Point x="1508" y="2785"/>
+	<Point x="1495" y="2785"/>
+	<Point x="1495" y="2784"/>
+	<Point x="1104" y="2784"/>
+	<Point x="1104" y="2785"/>
+	<Point x="1101" y="2785"/>
+	<Point x="1101" y="2786"/>
+	<Point x="1098" y="2786"/>
+	<Point x="1098" y="2787"/>
+	<Point x="1096" y="2787"/>
+	<Point x="1096" y="2788"/>
+	<Point x="1093" y="2788"/>
+	<Point x="1093" y="2789"/>
+	<Point x="1090" y="2789"/>
+	<Point x="1090" y="2790"/>
+	<Point x="1088" y="2790"/>
+	<Point x="1088" y="2791"/>
+	<Point x="1085" y="2791"/>
+	<Point x="1085" y="2792"/>
+	<Point x="1082" y="2792"/>
+	<Point x="1082" y="2793"/>
+	<Point x="1080" y="2793"/>
+	<Point x="1080" y="2794"/>
+	<Point x="1077" y="2794"/>
+	<Point x="1077" y="2795"/>
+	<Point x="1074" y="2795"/>
+	<Point x="1074" y="2796"/>
+	<Point x="1072" y="2796"/>
+	<Point x="1072" y="2797"/>
+	<Point x="1069" y="2797"/>
+	<Point x="1069" y="2798"/>
+	<Point x="1066" y="2798"/>
+	<Point x="1066" y="2799"/>
+	<Point x="1064" y="2799"/>
+	<Point x="1064" y="2800"/>
+	<Point x="1061" y="2800"/>
+	<Point x="1061" y="2801"/>
+	<Point x="1058" y="2801"/>
+	<Point x="1058" y="2802"/>
+	<Point x="1056" y="2802"/>
+	<Point x="1056" y="2803"/>
+	<Point x="1053" y="2803"/>
+	<Point x="1053" y="2804"/>
+	<Point x="1050" y="2804"/>
+	<Point x="1050" y="2805"/>
+	<Point x="1048" y="2805"/>
+	<Point x="1048" y="2806"/>
+	<Point x="1048" y="2805"/>
+	<Point x="953" y="2805"/>
+	<Point x="953" y="2804"/>
+	<Point x="858" y="2804"/>
+	<Point x="858" y="2803"/>
+	<Point x="763" y="2803"/>
+	<Point x="763" y="2802"/>
+	<Point x="668" y="2802"/>
+	<Point x="668" y="2801"/>
+	<Point x="573" y="2801"/>
+	<Point x="573" y="2800"/>
+	<Point x="478" y="2800"/>
+	<Point x="478" y="2799"/>
+	<Point x="383" y="2799"/>
+	<Point x="383" y="2798"/>
+	<Point x="288" y="2798"/>
+	<Point x="288" y="2797"/>
+	<Point x="193" y="2797"/>
+	<Point x="193" y="2796"/>
+	<Point x="98" y="2796"/>
+	<Point x="98" y="2485"/>
+	<Point x="250" y="2485"/>
+	<Point x="250" y="2486"/>
+	<Point x="253" y="2486"/>
+	<Point x="253" y="2483"/>
+	<Point x="252" y="2483"/>
+	<Point x="252" y="2304"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Olvamos pues al propoto deas cabernas profũ
+das de las Potencias en que dezimos, que el pa-
+decer del alma ſuele ſer grande, cuando la anda Dios
+ungiendo i diſponiendo, para unirla congo con eſ-
+tos ſutiles i delicados unguentos. Los cuales a vo-
+zes ſon tan ſutiles i ſubidos que penetrando lo intimo</Unicode></TextEquiv></TextRegion></Page></PcGts>

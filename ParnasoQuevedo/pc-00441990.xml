@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441990">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T18:57:02</Created>
+	<LastChange>2011-07-05T14:26:44</LastChange></Metadata>
+	<Page imageFilename="00441990.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="376" y="175"/>
+	<Point x="368" y="301"/>
+	<Point x="602" y="296"/>
+	<Point x="603" y="176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>406</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="906" y="186"/>
+	<Point x="895" y="286"/>
+	<Point x="918" y="289"/>
+	<Point x="1383" y="290"/>
+	<Point x="1378" y="185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THALIA,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="341" y="319"/>
+	<Point x="356" y="2913"/>
+	<Point x="709" y="2907"/>
+	<Point x="747" y="2831"/>
+	<Point x="1947" y="2836"/>
+	<Point x="1947" y="2814"/>
+	<Point x="1923" y="296"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>en las familiares gniﬁcaciones de ſu converſaciõ; an-
+ tambien en ſus Eſcritos todos, los que eran de ee
+genio, ſe excedia, lo que dicen, amiſmo. Los Ver-
+ſos pues de ee genero fueron tantos, tan varios, i de
+tan eſquito ſabor, i agudeça, que  todos egáran a
+recogerſe juntos, la cantidad creciera a numero increi-
+ble, i la calidad a admiracion nunca conſeguida de o-
+tro viviente. Pero por ea miſma raçon vinieron a ſer,
+donde quiera que euvieron, tan appetecidos, que ſu
+precio proprio fue el auor de ſu ruina. Fatal deſgra-
+cia! En las Poeas, de que ſe haò dueño deſpues ſu
+heredero, las que parecia, que el deinaba para ea
+Muſa, ſe reducian todas a unos pocos Sonetos, deſcui-
+dadamente eſcritos, que deſpues ſe cuidaron; n que
+un verſo de otra ſpecie huviee la iniquidad dexado
+para ſu honor, i para ſu memoria. I an tambien de
+la miſma ſuerte, endo de muchas partes el apparato
+grande de Poeas, que a mi han concurrido; las de el
+donaire, en todas, han do empre ca ningunas. I 
+por accidente parecia ea, o la otra; ſolas eran las mas
+valadies, i communes; i que defeuoſas, i adulteradas
+ſe profanan por el vulgo. De las enpero muchas, que
+io vi en ſus Manuſcriptos, i el me reﬁrio en varias oc-
+caones, ni una ſola. Demanera, que de deroços, i
+deſperdicios ea, no ſe  bien acordada Muca, que
+habemos ſubminirado a THALIA, mas attencion
+nos ha malogrado, i diligencia, que todas las otras Mu-
+ſas, i mucho fuera de eas,  hoi no ſe comunica a la
+eāpa. De dõde ſe podrà ia inferir cõ facil argumēto, 
+egare deſpues a no dionar al Theatro, lo  ſe eſcu-
+chare aqui reſervado de tanta tormenta; qual ſe pudie-
+ra eſperar, lo que eſcogido fuera, i eſcrito habia do
+con preſuncion, i deſvelo. Mas ahora bae ea lai-
+ma inutil.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="1750" y="2946"/>
+	<Point x="1750" y="3053"/>
+	<Point x="1953" y="3053"/>
+	<Point x="1953" y="2946"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pae-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="686" y="3090"/>
+	<Point x="686" y="3214"/>
+	<Point x="1503" y="3214"/>
+	<Point x="1503" y="3090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

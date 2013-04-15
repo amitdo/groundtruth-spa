@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442453">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T06:30:54</Created>
+	<LastChange>2012-03-12T14:12:02</LastChange></Metadata>
+	<Page imageFilename="00442453.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="409" y="63"/>
+	<Point x="1128" y="58"/>
+	<Point x="1128" y="155"/>
+	<Point x="408" y="173"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="466" y="2300"/>
+	<Point x="1133" y="2300"/>
+	<Point x="1133" y="2348"/>
+	<Point x="1025" y="2349"/>
+	<Point x="1025" y="2357"/>
+	<Point x="1016" y="2357"/>
+	<Point x="1017" y="2349"/>
+	<Point x="462" y="2348"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1294" y="62"/>
+	<Point x="1294" y="157"/>
+	<Point x="1388" y="157"/>
+	<Point x="1388" y="62"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>89</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="149" y="184"/>
+	<Point x="1388" y="168"/>
+	<Point x="1397" y="2120"/>
+	<Point x="1264" y="2117"/>
+	<Point x="1271" y="2131"/>
+	<Point x="1177" y="2134"/>
+	<Point x="1167" y="2123"/>
+	<Point x="847" y="2121"/>
+	<Point x="739" y="2134"/>
+	<Point x="148" y="2141"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>le hablò y concerto con el, que le paae a el y a tre
+zientas cabras que euaua. Entró el peſcador en el
+barco, y paò vna cabra, boluio y paò otra, tornò a
+boluer, y tornò a paar otra. Tenga vuera merced
+cuenta en las cabras que el peſcador va paando,
+porque  ſe pierde vna de la memoria, ſe acabarà
+el cuento, y no ſera poſsible contar mas palabra del.
+Sigo pues y digo, que el deembarcadero de la otra
+parte, eaua eno de cieno, y resbaloſo, y tardaua
+el peſcador mucho tiempo en yr y boluer. Con to‐
+do eo, boluio por otra cabra, y otra, y otra. Haz
+cuenta que las paò todas, dixo don Quixote, no
+andes yendo y viniendo dea manera, que no aca‐
+baràs de paarlas en vn año. Quãtas han paado haſ
+ta agora, dixo Sancho? Yo que diablos ſe, reſpondio
+dõ Quixote. He ay lo que yo dixe, que tuuiee bue‐
+na cuenta. Pues por Dios  ſe ha acabado el cuento,
+que no ay paar adelante. Como puede ſer eo, reſ‐
+pondio don Quixote? tan de eencia de la hioria,
+es ſaber las cabras que han paado por eenſo, que
+ ſe yerra vna del numero, no puedes ſeguir adelãte
+con la hioria? No ſeñor en ninguna manera, reſpon
+dio Sancho, porque aſsi como yo pregũtè a vuera
+merced, que me dixee quãtas cabras auian paado,
+y me reſpondio que no ſabia, en aquel meſmo inã‐
+te, ſe me fue a mi de la memoria quanto me quedaua
+por dezir, y afe que era de mucha virtud y contẽto.
+De modo, dixo don Quixote,  ya la hioria es aca-
+bada? Tan acabada es como mi madre, dixo Sancho.
+Digote de verdad, reſpondio don Quixote,  tu has
+contado vna de las mas nueuas conſejas, cuẽto, o hiſ‐
+toria, que nadie pudo penſar en el mundo, y que tal</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="signature-mark">
+	<Coords>
+	<Point x="1000" y="2128"/>
+	<Point x="1001" y="2185"/>
+	<Point x="1065" y="2185"/>
+	<Point x="1064" y="2127"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>M</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="1236" y="2139"/>
+	<Point x="1236" y="2185"/>
+	<Point x="1390" y="2185"/>
+	<Point x="1390" y="2139"/>
+	<Point x="1360" y="2127"/>
+	<Point x="1332" y="2127"/>
+	<Point x="1312" y="2139"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>modo</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485258">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T19:01:17</Created>
+	<LastChange>2011-05-12T13:41:10</LastChange></Metadata>
+	<Page imageFilename="00485258.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r4" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="r9" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="616" y="3023"/>
+	<Point x="1392" y="3023"/>
+	<Point x="1392" y="3094"/>
+	<Point x="616" y="3094"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="407" y="205"/>
+	<Point x="1630" y="205"/>
+	<Point x="1630" y="916"/>
+	<Point x="407" y="916"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Recaen todos eos en ſu gloria,
+Viendo, que ſon los ſuyos los mejores,
+Y es ſuya enﬁn la onrra, y la vittoria,
+De todos los amantes vencedores.
+Sus theſoros ean en ſu memoria:
+Lo poeido y los poeedores,
+Y anda empre creciendo ſu caudal,
+Porque crece con bien, y mas con mal.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="399" y="998"/>
+	<Point x="1707" y="998"/>
+	<Point x="1707" y="1719"/>
+	<Point x="399" y="1719"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D'uno, en vno, los tiene conocidos,
+En cantidad, y en calidad contados:
+Sus dolores eſcritos, y ſabidos,
+Y ſus conſuelos; vios, y mirados.
+Los eſpirtus de todos, y ſentidos,
+Del fuego ean d' Amor puriﬁcados:
+Tan cõformes, que's hecho vn ſentimiento
+El de todos, y vn miſmo penſamiento.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="348" y="1808"/>
+	<Point x="1621" y="1808"/>
+	<Point x="1621" y="2530"/>
+	<Point x="348" y="2530"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Con eos trae cuenta, cada dia
+Ea Señora, a todos deſcanando:
+Y ai, ſale con grande compañia,
+Las mañanas, ſu pueblo vitando.
+Inche ſu via el ayre d'alegria,
+Vn tierno amor en todos derramando.
+Gentileza, y virtud, y gracia, inſpira
+Con ſu dulce mirar, por donde mira.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="730" y="102"/>
+	<Point x="730" y="195"/>
+	<Point x="1215" y="195"/>
+	<Point x="1215" y="102"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r13" type="other">
+	<Coords>
+	<Point x="1225" y="103"/>
+	<Point x="1225" y="194"/>
+	<Point x="1357" y="194"/>
+	<Point x="1357" y="103"/></Coords></GraphicRegion></Page></PcGts>

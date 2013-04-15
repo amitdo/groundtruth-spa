@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444249">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:16:26</Created>
+	<LastChange>2011-12-19T11:39:34</LastChange></Metadata>
+	<Page imageFilename="00444249.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="292" y="117"/>
+	<Point x="1470" y="117"/>
+	<Point x="1470" y="228"/>
+	<Point x="292" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1338" y="2646"/>
+	<Point x="1717" y="2646"/>
+	<Point x="1717" y="2753"/>
+	<Point x="1338" y="2753"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>myerio</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="609" y="3038"/>
+	<Point x="1585" y="3038"/>
+	<Point x="1585" y="3170"/>
+	<Point x="609" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="153" y="241"/>
+	<Point x="153" y="2687"/>
+	<Point x="403" y="2680"/>
+	<Point x="924" y="2675"/>
+	<Point x="1068" y="2663"/>
+	<Point x="1093" y="2660"/>
+	<Point x="1131" y="2635"/>
+	<Point x="1167" y="2637"/>
+	<Point x="1180" y="2636"/>
+	<Point x="1181" y="2637"/>
+	<Point x="1251" y="2636"/>
+	<Point x="1262" y="2637"/>
+	<Point x="1280" y="2638"/>
+	<Point x="1332" y="2637"/>
+	<Point x="1433" y="2635"/>
+	<Point x="1717" y="2637"/>
+	<Point x="1744" y="2637"/>
+	<Point x="1738" y="248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>eomago, n comerle, ni ſaber noſotros co-
+mo ſe puſo ai, mas entiẽde bien  ea, aun
+aqui no ſe entiẽde el manjar  es, ni quien lo
+puſo, aca , mas como ſe puſo no lo ſe, que ni
+ſe vio, ni ſe entiende, ni jamas ſe auia mouido
+a deearlo, ni auia venido a mi noticia aque-
+o podia ſer. En la habla que hemos dicho
+antes, haze Dios al entendimiento que aduier
+ta aunque le peſe a entender lo que ſe dize,
+que aa parece tiene el alma otros oydos con
+que oye, y que la haze eſcuchar, y que no ſe
+diuierta, como a vno que oyee bien, y no le
+conntieen atapar los oydos, y le hablaen
+junto a bozes, aunque no quiee lo oyria, y
+al ﬁn algo haze, pues eà atento a entender
+lo que le hablan, aca ninguna coſa, que aun
+eo poco que es ſolo eſcuchar, que hazia en
+lo paado, ſe le quita, todo lo haa guiſado
+y comido, no ay mas que hazer de gozar, co-
+mo vno que n deprender ni auer trabaja-
+do nada para ſaber leer, ni tampoco vuiee
+eudiado nada, haae toda la ſciencia ſabi-
+da ya en , n ſaber como, ni donde, pues aun
+nunca auia trabajado aun para deprender el
+A.b.c. Ea comparacion porera me parece
+declara algo dee don celeial porque ſe vee
+el alma en vn punto ſabia, y tan declarado el</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="1135" y="2648"/>
+	<Point x="1135" y="2735"/>
+	<Point x="1233" y="2735"/>
+	<Point x="1233" y="2648"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>X</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="1533" y="137"/>
+	<Point x="1533" y="233"/>
+	<Point x="1683" y="233"/>
+	<Point x="1683" y="137"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>321</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443969">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T16:12:26</Created>
+	<LastChange>2011-12-19T11:39:18</LastChange></Metadata>
+	<Page imageFilename="00443969.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="316" y="62"/>
+	<Point x="1547" y="62"/>
+	<Point x="1547" y="222"/>
+	<Point x="316" y="222"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="192" y="250"/>
+	<Point x="1765" y="234"/>
+	<Point x="1737" y="2606"/>
+	<Point x="1512" y="2639"/>
+	<Point x="1251" y="2646"/>
+	<Point x="1210" y="2642"/>
+	<Point x="124" y="2641"/>
+	<Point x="137" y="258"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Miraua mas el guo de mi ſenſualidad y
+vanidad, que lo bien que me eaua a mi
+alma. Eos buenos penſamientos de ſer mon
+ja me venian algunas vezes, y luego ſe qui
+tauan, y no podia perſuadirme a ſerlo. En
+ee tiempo, aunque yo no andaua deſcuyda
+da de mi remedio, andaua mas ganoſo el ſe
+ñor de diſponerme para el eado que me
+eaua mejor. Diome vna gran enfermedad,
+que vue de tornar en caſa de mi padre, en
+eando buena euaron me en caſa de mi her
+mana que redian en vna aldea, para verla
+que era eremo el amor que me tenia, y a
+ſu querer no ſaliera yo de con ea, y ſu ma
+rido tambien me amaua mucho, al menos
+moraua me todo regalo, que aun eo
+deuo mas al ſeñor, que en todas partes em
+pre le he tenido, y todo ſelo ſeruia como la
+que ſoy. Eaua en el camino vn hermano de
+mi padre, muy auiſado, y de grandes virtu‐
+des, biudo, aquien tambien andaua el ſeñor
+diſponiendo para , que en ſu mayor edad
+dexo todo lo que tenia y fue frayle, y acabo
+de ſuerte que creo goza de Dios, quiſo que
+me euuiee con el vnos dias: ſu exercicio
+era buenos libros de romance, y ſu hablar
+era lo mas ordinario de Dios, y de la vani-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="signature-mark">
+	<Coords>
+	<Point x="1207" y="2658"/>
+	<Point x="1246" y="2650"/>
+	<Point x="1272" y="2647"/>
+	<Point x="1374" y="2660"/>
+	<Point x="1374" y="2745"/>
+	<Point x="1227" y="2745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>C 5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="626" y="3046"/>
+	<Point x="1569" y="3050"/>
+	<Point x="1586" y="3147"/>
+	<Point x="612" y="3152"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1579" y="118"/>
+	<Point x="1635" y="120"/>
+	<Point x="1720" y="118"/>
+	<Point x="1720" y="231"/>
+	<Point x="1579" y="231"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>41</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1527" y="2647"/>
+	<Point x="1527" y="2727"/>
+	<Point x="1717" y="2727"/>
+	<Point x="1717" y="2647"/>
+	<Point x="1681" y="2630"/>
+	<Point x="1584" y="2634"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dad</Unicode></TextEquiv></TextRegion></Page></PcGts>

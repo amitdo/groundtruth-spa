@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443198">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T12:52:09</Created>
+	<LastChange>2011-03-15T16:51:41</LastChange></Metadata>
+	<Page imageFilename="00443198.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="646" y="60"/>
+	<Point x="1108" y="62"/>
+	<Point x="1110" y="196"/>
+	<Point x="646" y="190"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro ſegundo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords>
+	<Point x="1558" y="92"/>
+	<Point x="1670" y="90"/>
+	<Point x="1674" y="180"/>
+	<Point x="1558" y="174"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>187</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="174" y="214"/>
+	<Point x="1706" y="208"/>
+	<Point x="1710" y="2770"/>
+	<Point x="1628" y="2770"/>
+	<Point x="1590" y="2780"/>
+	<Point x="170" y="2772"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dicho, para ir adelante por el medio proximo, que es la
+Fe. De donde, de aqueas formas delas tales Viones 
+ſe quedã enel alma impreſas, no ha de hazer archivo, ni
+teſoro el alma, ni ha de querer arrimarſe a eas; por ſe
+ria earſe cõ aqueas formas, imagines, i perſonages, 
+acerca del interior redẽ, embaraçada, i no iria por ne-
+gaciõ de todas las coſas a Dios. Por dado caſo  aque
+as formas ẽpre ſe repreſentaſen ai, no leimpediriã
+mucho,  el alma no quiere hazer caſo deas. Por aũ
+ es verdad,  la memoria deas incita al alma à algun
+amor de Dios i contemplacion; pero mucho mas incita
+i levanta la pura Fè, i deſnudez a eſcuras de todo eſo n
+ſaber el alma, como ni de donde le viene. I a acaecera,
+que ande el alma inflamada cõ anas de amor de Dios
+mui puro, n ſaber de dõde le vienẽ, ni  fundamento
+tuvierõ. I fue,  a como la Fe ſe arraigò i infundio mas
+en el alma, mediante aquel vazio i tiniebla, i deſnudez,
+de todas las coſas, o pobreza eſpiritual,  todo lo pode-
+mos amar una miſma coſa; tãbien juntamente ſe arrai
+ga, i infunde mas en el alma la caridad de Dios. Dedõ-
+de cuanto mas el alma ſe quiere eſcurecer, i aniquilar a-
+cerca de todas las coſas eeriores i interiores  puede
+recebir, tãto mas ſe infunde de Fè, i de amor, i de eſperã
+ça en ea. Pero ee amor algunas vezes no lo cõprehẽ
+de la perſona, ni lo ẽte. Por cuãto no tiene ee amor ſu
+aẽto en el ſentido con ternura, no en el alma cõ forta
+leza i mas animo, i oſadia  antes; aun algunas vezes
+redunde en el ſentido; i ſe muere tierno i blando. De
+donde para egar à aquel amor, alegria, i gozo  le ha-
+zẽ, i cauſan las tales Viones al alma; cõvienele  tẽga
+fortaleza i mortiﬁcadõ para querer quedarſe en vazio
+i a eſcuras de todo eo, i fundar aquel amor i gozo en lo
+ no vè ni ẽte, ni puede ver, ni ſentir en ea vida, que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1610" y="2790"/>
+	<Point x="1627" y="2783"/>
+	<Point x="1695" y="2780"/>
+	<Point x="1684" y="2844"/>
+	<Point x="1606" y="2844"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>es</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="777" y="2937"/>
+	<Point x="1421" y="2937"/>
+	<Point x="1421" y="2998"/>
+	<Point x="777" y="2998"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442863">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T05:44:58</Created>
+	<LastChange>2012-03-12T14:12:32</LastChange></Metadata>
+	<Page imageFilename="00442863.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="154" y="185"/>
+	<Point x="494" y="180"/>
+	<Point x="508" y="181"/>
+	<Point x="528" y="185"/>
+	<Point x="545" y="201"/>
+	<Point x="627" y="180"/>
+	<Point x="633" y="178"/>
+	<Point x="1225" y="172"/>
+	<Point x="1348" y="175"/>
+	<Point x="1458" y="186"/>
+	<Point x="1452" y="2122"/>
+	<Point x="1285" y="2127"/>
+	<Point x="1245" y="2140"/>
+	<Point x="322" y="2158"/>
+	<Point x="152" y="2130"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ami, reſpondio el Cura : y diziendole al Canonigo
+lo que penſaua hazer, el tambien quiſo quedarſe
+cõ eos, combidado del tio de vn hermoſo vae
+que a la via ſe les ofrecia: y aſsi por gozar del, co-
+mo de la conuerſaciõ del Cura, de quien ya yua aﬁ-
+cionado : y por ſaber mas por menudo las hazañas
+de don Quixote, mandò a algunos de ſus criados 
+ſe fueen a la venta,  no lexos de ai eaua, y tru-
+xeen dea lo que huuiee de comer, para todos:
+porque el determinaua de ſeear en aquel lugar
+aquea tarde. A lo qual vno de ſus criados reſpon-
+dio : Que el azemila del repueo,  ya d�uia de eſ-
+tar en la venta traya recado baãte, para no obligar
+a no tomar de laventa mas que ceuada. Pues aſsi es,
+dixo el Canonigo, euenſe aa todas las caualgadu
+ras, y hazed boluer la azemila. En tãto que eo paſ-
+ſaua, viendo Sãcho que podia hablar a ſu amo, n
+la cõtinua aſsiencia del Cura, y el baruero, que te-
+nia por ſoſpechoſos, ſe egò a la xaula donde yua
+ſu amo, y le dixo: Señor, para deſcargo de mi con-
+ciencia le quiero dezir lo que paa cerca de ſu en-
+cantamento, y es: Que aqueos dos  vienen aqui
+cubiertos los roros, ſon el Cura de no lugar, y el
+baruero, y imagino han dado ea traça de euae
+dea manera, de pura embidia  tienen comovueſ-
+tra merced ſe les adelanta en hazer famoſos he-
+chos. Preſupuea pues ea verdad, gueſe que no
+va encantado, no embaydo, y tonto. Para prueua
+de lo qual le quiero preguntar vna coſa, y  me reſ-
+ponde, como creo que me ha de reſponder, toca-
+râ con la mano ee engaño, y vera como no va
+encantado, no traornado el juyzio. Pregunta lo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1314" y="2137"/>
+	<Point x="1414" y="2130"/>
+	<Point x="1408" y="2207"/>
+	<Point x="1321" y="2200"/>
+	<Point x="1298" y="2174"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="464" y="2295"/>
+	<Point x="1021" y="2292"/>
+	<Point x="1121" y="2292"/>
+	<Point x="1127" y="2360"/>
+	<Point x="452" y="2365"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1286" y="82"/>
+	<Point x="1424" y="89"/>
+	<Point x="1422" y="171"/>
+	<Point x="1370" y="167"/>
+	<Point x="1317" y="168"/>
+	<Point x="1279" y="162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>294</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="471" y="70"/>
+	<Point x="1204" y="74"/>
+	<Point x="1212" y="154"/>
+	<Point x="1079" y="168"/>
+	<Point x="626" y="174"/>
+	<Point x="545" y="195"/>
+	<Point x="538" y="189"/>
+	<Point x="512" y="174"/>
+	<Point x="460" y="166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion></Page></PcGts>

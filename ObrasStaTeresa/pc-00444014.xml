@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444014">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:47:53</Created>
+	<LastChange>2011-12-19T11:39:20</LastChange></Metadata>
+	<Page imageFilename="00444014.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="828" y="94"/>
+	<Point x="1501" y="94"/>
+	<Point x="1489" y="198"/>
+	<Point x="828" y="196"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="397" y="221"/>
+	<Point x="1954" y="233"/>
+	<Point x="1962" y="2632"/>
+	<Point x="388" y="2653"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>las que procure tuuieen oracion, aun an-
+dando yo en eas vanidades, como las via
+amigas de rezar, las dezia como ternian
+meditacion, y les aprouechaua, y dauales
+libros, porque ee deeo de que otras r-
+uieen a Dios, deſde que comence oracion
+como he dicho, le tenia. Pareciame a mi,
+que ya que yo no ſeruia al Señor, como lo
+entendia, que no ſe perdiee lo que me
+auia dado ſu Magead a entender, y que le
+ruieen otros por mi. Digo eo para que
+ſe vea la gran ceguedad en que eaua que
+me dexaua perder a mi, y procuraua ga-
+nar a otros. En ee tiempo dio a mi pa-
+dre la enfermedad de que murio, que du-
+ro algunos dias, fuyle yo a curar eando
+mas enferma en el alma que el en el cuerpo,
+en muchas vanidades, aunque no de ma-
+nera, que a quanto entendia euuiee en
+peccado mortal, en todo ee tiempo mas
+perdido que digo, porque entendiendolo yo
+en ninguna manera lo euuiera. Pae har-
+to trabajo en ſu enfermedad, creo le ſerui
+algo de los que el auia paado en las mias,
+con ear yo harto mala, me esforçaua, y con
+que en faltarme el, me faltaua todo el bien,
+y regalo, porque en vn ſer me le hazia,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1761" y="2649"/>
+	<Point x="1948" y="2649"/>
+	<Point x="1948" y="2722"/>
+	<Point x="1761" y="2722"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tuue</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="613" y="3068"/>
+	<Point x="1596" y="3068"/>
+	<Point x="1596" y="3149"/>
+	<Point x="613" y="3149"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="428" y="101"/>
+	<Point x="428" y="194"/>
+	<Point x="532" y="194"/>
+	<Point x="532" y="101"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>86</Unicode></TextEquiv></TextRegion></Page></PcGts>

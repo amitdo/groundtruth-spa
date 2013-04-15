@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444368">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T06:01:02</Created>
+	<LastChange>2011-12-19T11:39:41</LastChange></Metadata>
+	<Page imageFilename="00444368.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="466" y="241"/>
+	<Point x="2016" y="241"/>
+	<Point x="2016" y="1100"/>
+	<Point x="466" y="1100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP. XXXV. Progue en la miſma ma
+teria de la fundacion de ea caſa de nuero
+glorioſo padre San Ioſeph. Dize de los termi-
+nos por donde ordeno el Señor viniee aguar
+darſe en ea la ſanta pobreza, y la cauſa por-
+que ſe vino de con aquea Señora que
+eﬆaua, y otras coſas que le
+ſucedieron.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="768" y="1128"/>
+	<Point x="2017" y="1128"/>
+	<Point x="2018" y="2644"/>
+	<Point x="1816" y="2646"/>
+	<Point x="1818" y="2690"/>
+	<Point x="470" y="2690"/>
+	<Point x="473" y="1435"/>
+	<Point x="692" y="1427"/>
+	<Point x="726" y="1427"/>
+	<Point x="770" y="1432"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ves eando con ea ſeñora que he
+dicho, adonde euue mas de medio
+año, ordeno el Señor que tuuiee no
+ticia de mi vna beata de nuera ordẽ, de mas
+de ſetenta leguas de aqui dee lugar, y acer-
+to a venir por aca, y rodeo algunas por ha-
+blarme. Auia la el Señor mouido el miſmo
+año y mes que a mi para hazer otro monee
+rio dea orden, y como le puſo ee deeo,
+vendio todo lo que tenia y fueſe a Roma a
+traer deſpacho para eo a pie deſcalça, es mu
+ger de mucha penitencia y oracion, y hazia la
+el Señor muchas mercedes, y aparecio la nue-
+ra Señora y mandola lo hiziee, haziame
+tãtas ventajas en ſeruir al Señor, que yo auia
+verguença de ear delãte de ea, Morome
+los deſpachos  traya de Roma, y en quinze</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1845" y="2653"/>
+	<Point x="1991" y="2653"/>
+	<Point x="1991" y="2729"/>
+	<Point x="1845" y="2729"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dias</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="drop-capital">
+	<Coords>
+	<Point x="490" y="1161"/>
+	<Point x="764" y="1155"/>
+	<Point x="763" y="1422"/>
+	<Point x="696" y="1418"/>
+	<Point x="489" y="1428"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="607" y="3073"/>
+	<Point x="1587" y="3073"/>
+	<Point x="1587" y="3153"/>
+	<Point x="607" y="3153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="933" y="113"/>
+	<Point x="1560" y="113"/>
+	<Point x="1560" y="217"/>
+	<Point x="933" y="217"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="455" y="143"/>
+	<Point x="621" y="143"/>
+	<Point x="621" y="233"/>
+	<Point x="455" y="233"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>440</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443936">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T11:07:41</Created>
+	<LastChange>2011-12-19T11:39:15</LastChange></Metadata>
+	<Page imageFilename="00443936.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="466" y="245"/>
+	<Point x="2069" y="245"/>
+	<Point x="2064" y="2614"/>
+	<Point x="1619" y="2616"/>
+	<Point x="1621" y="2654"/>
+	<Point x="466" y="2654"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de nueﬆra nacion, y gloria de aquea edad, y
+ﬂores hermoſas que embeecen la eerilidad
+deos glos, y ciert amẽte partes de la Igle a de
+las mas eſcogidas, y viuos teﬆimonios de la ef‐
+ﬁcacia de Chrio, y prueuas maniﬁeﬆas de ſu
+ſoberana virtud, y expreos dechados en que
+hazemos ca experiencia de lo que la fe nos
+promete. Y eo quanto a las hijas, que es la pri‐
+mera de las dos imagines. Y no es menos clara,
+ni menos milagroſ a la ſegunda que dixe, que
+ſon las eſcrituras, y libros: en los quales n nin
+guna duda quiſo el Spiritu ſano, que la ma‐
+dre Tereſafuee vn exemplo rarißimo: por‐
+que en la alteza de las coſ as que trata, y en la
+delicadeza, y claridad con que las trata excede
+a muchos ingenios: y en la forma del dezir, y
+en la pureza y facilidad del eﬆilo, y en la gra‐
+cia y buena compoﬆura de las palabras, y en
+vna elegãcia deſafeitada que deleyta en ere‐
+mo, dudo yo que aya en nueﬆra lengua eſcri‐
+tura que con eos ſe yguale. Y an empre que
+los leo me admiro de nueuo: y en muchas par‐
+tes deos me parece que no es ingenio de hom‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="597" y="3059"/>
+	<Point x="1578" y="3059"/>
+	<Point x="1578" y="3157"/>
+	<Point x="597" y="3157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="509" y="138"/>
+	<Point x="509" y="230"/>
+	<Point x="595" y="230"/>
+	<Point x="595" y="138"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>8</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1878" y="2626"/>
+	<Point x="1878" y="2730"/>
+	<Point x="2042" y="2730"/>
+	<Point x="2042" y="2626"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bre</Unicode></TextEquiv></TextRegion></Page></PcGts>

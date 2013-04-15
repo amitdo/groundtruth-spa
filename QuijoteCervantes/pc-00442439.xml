@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442439">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T09:58:15</Created>
+	<LastChange>2012-03-12T14:12:01</LastChange></Metadata>
+	<Page imageFilename="00442439.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="446" y="44"/>
+	<Point x="1070" y="32"/>
+	<Point x="1151" y="94"/>
+	<Point x="1142" y="116"/>
+	<Point x="1028" y="117"/>
+	<Point x="576" y="119"/>
+	<Point x="546" y="140"/>
+	<Point x="510" y="145"/>
+	<Point x="433" y="121"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="173" y="128"/>
+	<Point x="534" y="153"/>
+	<Point x="680" y="131"/>
+	<Point x="1422" y="138"/>
+	<Point x="1422" y="2094"/>
+	<Point x="1263" y="2095"/>
+	<Point x="1247" y="2092"/>
+	<Point x="1234" y="2086"/>
+	<Point x="949" y="2082"/>
+	<Point x="930" y="2091"/>
+	<Point x="679" y="2096"/>
+	<Point x="642" y="2087"/>
+	<Point x="190" y="2094"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>n eſperar mas, enrirando ſu lançon, arremetio a
+vno de los enlutados, y mal ferido dio con el en
+tierra: y reboluiendoſe por los demas, era coſa de
+ver con la preeza que los acometia, y desbarata-
+ua, que no parecia no  en aquel inante le auian
+nacido. alas a Rozinante, ſegun andaua de ligero, y
+orguoſo. Todos los encamiſados era gente me‐
+droſa, y n armas, y aſsi con facilidad en vn momẽ
+to dexaron la refriega, y començaron a correr por
+aquel campo, con las hachas encendidas, que no pa
+recian no a los de las maſcaras, que en noche de
+regozijo y ﬁea corren Los enlutados aſsimeſmo,
+rebueltos, y embueltos en ſus faldamentos y lobas,
+no ſe podian mouer: aſsi que muy a ſu ſaluo don
+Quixote los apaleò a todos, y les hizo dexar el ‐
+tio mal de ſu grado: porque todos penſaron que
+aquel no era hombre, no diablo del inﬁerno que
+les ſalia a quitar el cuerpo muerto que en la litera
+euauan. Todo lo miraua Sancho, admirado del
+ardimiento de ſu ſeñor, y dezia entre , Sin duda
+ee mi amo es tan valiente y esforçado como el
+dize. Eaua vna hacha ardiendo en el ſuelo, jun‐
+to al primero que derribò la mula, a cuya luz le pu
+do ver don Quixote, y egandoſe a el le puſo la pũ
+ta del lançon en el roro, diziendole, que ſe rindieſ
+ſe, no que le mataria. A lo qual reſpondio el cay‐
+do: Harto rẽdido eoy pues no me puedo mouer,
+ tẽgo vna pierna quebrada: ſuplico a vuera mer
+ced,  escauaero Chriiano,  no me mate, come
+terà vn gran ſacrilegio,  ſoy Licẽciado, y tẽgo las
+primeras ordenes. Pues quien diablos os ha tray-
+do aqui, dixo dõ Quixote, endo hõbre de Iglea?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="signature-mark">
+	<Coords>
+	<Point x="970" y="2087"/>
+	<Point x="1163" y="2100"/>
+	<Point x="1163" y="2130"/>
+	<Point x="1095" y="2145"/>
+	<Point x="1067" y="2151"/>
+	<Point x="970" y="2150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="465" y="2305"/>
+	<Point x="1121" y="2311"/>
+	<Point x="1117" y="2348"/>
+	<Point x="1026" y="2348"/>
+	<Point x="1024" y="2359"/>
+	<Point x="1016" y="2359"/>
+	<Point x="1014" y="2349"/>
+	<Point x="459" y="2348"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1270" y="2098"/>
+	<Point x="1230" y="2158"/>
+	<Point x="1427" y="2158"/>
+	<Point x="1427" y="2098"/>
+	<Point x="1302" y="2097"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quien</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1279" y="41"/>
+	<Point x="1279" y="120"/>
+	<Point x="1428" y="120"/>
+	<Point x="1428" y="41"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>82</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444448">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:41:40</Created>
+	<LastChange>2011-12-19T11:39:46</LastChange></Metadata>
+	<Page imageFilename="00444448.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="948" y="73"/>
+	<Point x="1571" y="82"/>
+	<Point x="1564" y="204"/>
+	<Point x="948" y="198"/>
+	<Point x="945" y="137"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1918" y="2627"/>
+	<Point x="2046" y="2623"/>
+	<Point x="2047" y="2708"/>
+	<Point x="1922" y="2704"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="620" y="3061"/>
+	<Point x="1571" y="3066"/>
+	<Point x="1567" y="3159"/>
+	<Point x="615" y="3156"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="423" y="212"/>
+	<Point x="2039" y="225"/>
+	<Point x="2070" y="2616"/>
+	<Point x="1411" y="2657"/>
+	<Point x="457" y="2687"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ſer la miſma verdad: No es poco eo que hago por
+ti, que vna de las coſas es en que mucho me deues, por-
+que todo el daño que viene al mundo, es de no conocer
+las verdades de la eſcritura con clara verdad, no falta-
+ra vna tilde de ea. A mi me parecio que em-
+pre yo auia creydo eo, y que todos los ﬁeles
+lo creyan. Dixome, Ay hija que pocos me aman con
+verdad, que  me amaen no les encubriria yo mis ſe-
+cretos, ſabes que es amarme a mi con verdad, entender
+que todo es mentira lo que no es agradable a mi, con
+claridad veras eo que aora no entiẽdes, en lo que apro-
+uecha a tu alma. Y an lo he vio, ſea el Señor
+alabado, que deſpues aca tanta vanidad y mẽ-
+tira me parece lo que yo no veo va guyado al
+ſeruicio de Dios, que no lo ſabria yo dezir co
+mo lo entiendo, y la laima que me hazen los
+que veo con la eſcuridad, que ean en ea
+verdad, y con eo otras ganancias que aqui
+dire, y muchas no ſabre dezir. Dixome aqui
+el Señor vna particular palabra de grandiſsi-
+mo fauor. Yo no ſe como eo fue, porque no
+vi nada, mas quede de vna ſuerte que tampo-
+co ſe dezir, con grandiſsima fortaleza y muy
+deueras para cumplir con todas mis fuerças la
+mas pequeña parte de la diuina eſcritura. Pa-
+receme  ninguna coſa ſe me pornia delante
+ no paae por eo. Quedome vna verdad</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="448" y="93"/>
+	<Point x="435" y="206"/>
+	<Point x="661" y="206"/>
+	<Point x="661" y="93"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>528</Unicode></TextEquiv></TextRegion></Page></PcGts>

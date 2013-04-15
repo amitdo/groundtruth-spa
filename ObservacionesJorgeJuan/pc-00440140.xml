@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440140">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T10:16:37</Created>
+	<LastChange>2011-12-19T11:38:45</LastChange></Metadata>
+	<Page imageFilename="00440140.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/>
+	<RegionRefIndexed regionRef="r7" index="3"/>
+	<RegionRefIndexed regionRef="r9" index="4"/>
+	<RegionRefIndexed regionRef="r11" index="5"/>
+	<RegionRefIndexed regionRef="r15" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="430" y="359"/>
+	<Point x="1764" y="335"/>
+	<Point x="1762" y="447"/>
+	<Point x="425" y="439"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="316" y="1127"/>
+	<Point x="1858" y="1154"/>
+	<Point x="2039" y="1180"/>
+	<Point x="2210" y="1485"/>
+	<Point x="2207" y="1599"/>
+	<Point x="1499" y="1599"/>
+	<Point x="1419" y="1592"/>
+	<Point x="1373" y="1584"/>
+	<Point x="938" y="1575"/>
+	<Point x="837" y="1491"/>
+	<Point x="290" y="1458"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comp. Logarih. de 1295.2 = 6. 88766, 31643
+Logarithmo de 9029.66 = 3.95563, 96330
+A = 126 = 2.10037, 05451
+x = 2.94370, 51066 = 878.4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="311" y="1988"/>
+	<Point x="416" y="1984"/>
+	<Point x="461" y="1986"/>
+	<Point x="566" y="1988"/>
+	<Point x="574" y="1972"/>
+	<Point x="2184" y="1976"/>
+	<Point x="2228" y="2411"/>
+	<Point x="1261" y="2390"/>
+	<Point x="1137" y="2427"/>
+	<Point x="906" y="2425"/>
+	<Point x="806" y="2449"/>
+	<Point x="756" y="2452"/>
+	<Point x="713" y="2454"/>
+	<Point x="652" y="2427"/>
+	<Point x="354" y="2431"/>
+	<Point x="291" y="2428"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Donde ſe vè, que de la altura de Pambamarca ſobre Cara‐
+bùru concluìda por la ley agnada de la dilatacion del Ayre,
+que nos dà el Barometro, à la altura concluìda por geome‐
+trìa, no hay mas, que 4 toeſas de diferencia, que es quanta
+exaitud ſe puede deſear.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="signature-mark">
+	<Coords>
+	<Point x="1391" y="3391"/>
+	<Point x="1514" y="3386"/>
+	<Point x="1545" y="3532"/>
+	<Point x="1394" y="3509"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Q</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="credit">
+	<Coords>
+	<Point x="994" y="3950"/>
+	<Point x="1954" y="3939"/>
+	<Point x="1957" y="4095"/>
+	<Point x="988" y="4086"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="298" y="462"/>
+	<Point x="1951" y="456"/>
+	<Point x="1951" y="759"/>
+	<Point x="293" y="740"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a = 3063, ſu Logarithmo = 3.48614, 69968
+b = 2973 3.47349, 49092
+La-Lb = 1295, 20876</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="306" y="826"/>
+	<Point x="1914" y="820"/>
+	<Point x="1918" y="1117"/>
+	<Point x="996" y="1111"/>
+	<Point x="308" y="1096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a = 3063, ſu Logarithmo = 3.48614, 69968
+d = 2488 3.39585, 03760
+La-Ld = 9029, 66208</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="269" y="1589"/>
+	<Point x="378" y="1584"/>
+	<Point x="412" y="1597"/>
+	<Point x="503" y="1586"/>
+	<Point x="1471" y="1602"/>
+	<Point x="1522" y="1602"/>
+	<Point x="2230" y="1620"/>
+	<Point x="2207" y="1957"/>
+	<Point x="1891" y="1966"/>
+	<Point x="1845" y="1950"/>
+	<Point x="477" y="1955"/>
+	<Point x="474" y="1978"/>
+	<Point x="403" y="1979"/>
+	<Point x="407" y="1952"/>
+	<Point x="266" y="1955"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Segun eo la altura de Pambamarca ſobre Ca-
+rabùru concluìda por el Barometro ſerà 878.4 toeſas
+ſegun la tabla antecedente es por geometrìa 882.5
+luego la diferencia entre las dos determinacion. 4.1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="256" y="2444"/>
+	<Point x="579" y="2444"/>
+	<Point x="687" y="2451"/>
+	<Point x="750" y="2471"/>
+	<Point x="868" y="2445"/>
+	<Point x="1116" y="2433"/>
+	<Point x="2261" y="2440"/>
+	<Point x="2271" y="3195"/>
+	<Point x="2282" y="3237"/>
+	<Point x="2247" y="3302"/>
+	<Point x="743" y="3410"/>
+	<Point x="246" y="3416"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>No obante ſe haarà mayor, valiendoſe de la miſma
+formula, y de las experiencias hechas en Carambùru, Oyam‐
+bàro, y Pichincha, haciendo igual calculo: eo es, la altura
+de Pichincha ſobre Carabùru por el Barometro 1225 toeſas
+geometrìa 1204
+diferencia 21
+la qual procede de una linea de yerro en la experiencia del
+Barometro de Pichincha, ò de ſolo ⅛ de linea en las de Cara-
+bùru ù Oyambàro, à cuya exaitud, yà ſe ha dicho no ſe
+puede egar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="page-number">
+	<Coords>
+	<Point x="2034" y="380"/>
+	<Point x="2034" y="456"/>
+	<Point x="2186" y="456"/>
+	<Point x="2186" y="380"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>121</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="catch-word">
+	<Coords>
+	<Point x="2018" y="3356"/>
+	<Point x="2018" y="3509"/>
+	<Point x="2194" y="3509"/>
+	<Point x="2194" y="3356"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Por</Unicode></TextEquiv></TextRegion></Page></PcGts>

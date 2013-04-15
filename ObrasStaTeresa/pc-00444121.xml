@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444121">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T06:00:31</Created>
+	<LastChange>2011-12-19T11:39:26</LastChange></Metadata>
+	<Page imageFilename="00444121.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="304" y="20"/>
+	<Point x="1502" y="20"/>
+	<Point x="1502" y="212"/>
+	<Point x="304" y="212"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="signature-mark">
+	<Coords>
+	<Point x="1257" y="2657"/>
+	<Point x="1343" y="2633"/>
+	<Point x="1407" y="2649"/>
+	<Point x="1402" y="2729"/>
+	<Point x="1257" y="2729"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="593" y="3041"/>
+	<Point x="1613" y="3041"/>
+	<Point x="1613" y="3144"/>
+	<Point x="1420" y="3161"/>
+	<Point x="593" y="3144"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="82" y="230"/>
+	<Point x="1782" y="236"/>
+	<Point x="1777" y="2624"/>
+	<Point x="1279" y="2628"/>
+	<Point x="1247" y="2656"/>
+	<Point x="1185" y="2647"/>
+	<Point x="789" y="2646"/>
+	<Point x="777" y="2659"/>
+	<Point x="82" y="2666"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>alma queda que en lo paado, porque vee
+mas claro, que poco ni mucho hizo no con
+ſentir que le hiziee el Señor mercedes, y
+abraçarlas la voluntad. Pareceme ee modo
+de oracion, vnion, muy conocida de toda el
+alma con Dios, no que parece quiere ſu Ma
+gead dar licencia a las potencias, para que
+entiendan y gozẽ de lo mucho que obra ai.
+A caece algunas y muy muchas vezes ean‐
+do vnida la voluntad ( para que vea v. m. pue-
+de ſer eo, y lo entienda quando lo tuuiere:
+alomenos a mi traxome tonta, y por eo lo di
+go aqui ) conoceſe y entiẽdeſe que eà la vo-
+luntad atada, y gozando, digo que ſe conoce
+que eà en mucha quietud ſola la voluntad,
+y eà por otra parte el entendimiento y me‐
+moria tan libres, que pueden tratar en nego‐
+cios, y entender en obras de charidad. Eo
+aunque parece todo vno, es diﬀerente de la
+oracion de quietud que dixe en parte, por‐
+que ai ea el alma, que no ſe querria buir,
+ni menear, gozando en aquel ocio ſanto de
+Maria: en ea oracion puede tambiẽ ſer Mar-
+tha. An que ea ca obrando juntamẽte en
+vida aiua, y contemplatiua, y puede enten‐
+der en obras de charidad, y negocios que cõ-
+uengan a ſu eado y leer, aunque no del todo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1557" y="100"/>
+	<Point x="1557" y="221"/>
+	<Point x="1758" y="221"/>
+	<Point x="1758" y="100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>193</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1520" y="2638"/>
+	<Point x="1520" y="2736"/>
+	<Point x="1733" y="2736"/>
+	<Point x="1733" y="2638"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ean</Unicode></TextEquiv></TextRegion></Page></PcGts>

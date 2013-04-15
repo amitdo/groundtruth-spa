@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444563">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T03:05:40</Created>
+	<LastChange>2011-03-05T10:55:01</LastChange></Metadata>
+	<Page imageFilename="00444563.tif" imageWidth="2613" imageHeight="3944">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/>
+	<RegionRefIndexed regionRef="r12" index="2"/>
+	<RegionRefIndexed regionRef="r8" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="833" y="3848"/>
+	<Point x="828" y="3917"/>
+	<Point x="1764" y="3925"/>
+	<Point x="1772" y="3889"/>
+	<Point x="1770" y="3851"/>
+	<Point x="1752" y="3852"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="2382" y="3671"/>
+	<Point x="2378" y="3694"/>
+	<Point x="2375" y="3748"/>
+	<Point x="2421" y="3752"/>
+	<Point x="2433" y="3753"/>
+	<Point x="2472" y="3756"/>
+	<Point x="2471" y="3744"/>
+	<Point x="2464" y="3685"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>las</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="517" y="283"/>
+	<Point x="517" y="331"/>
+	<Point x="739" y="331"/>
+	<Point x="740" y="268"/>
+	<Point x="740" y="258"/>
+	<Point x="693" y="260"/>
+	<Point x="625" y="262"/>
+	<Point x="563" y="272"/>
+	<Point x="516" y="264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LXXVI</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="header">
+	<Coords>
+	<Point x="1007" y="250"/>
+	<Point x="1002" y="330"/>
+	<Point x="1938" y="328"/>
+	<Point x="1938" y="250"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DISCURSO PROEMIAL</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="471" y="341"/>
+	<Point x="473" y="1208"/>
+	<Point x="519" y="1228"/>
+	<Point x="555" y="1216"/>
+	<Point x="563" y="1200"/>
+	<Point x="772" y="1200"/>
+	<Point x="1162" y="1203"/>
+	<Point x="1211" y="1135"/>
+	<Point x="1458" y="1145"/>
+	<Point x="1482" y="1148"/>
+	<Point x="2442" y="1145"/>
+	<Point x="2473" y="1047"/>
+	<Point x="2465" y="775"/>
+	<Point x="2454" y="330"/>
+	<Point x="2115" y="331"/>
+	<Point x="1953" y="337"/>
+	<Point x="1539" y="338"/>
+	<Point x="1265" y="341"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>viene à la hermoſura de la Léngua, ò las letras ſon vocáles, ò conſonantes:
+ ſon vocáles, de eas ſolas la e, y la o ſe duplican en algunas palabras: co-
+mo Creer, Leer, Acreedor, Poeer, Preeminencia, Cooperar, Loor, y eo por
+ſu orígen y preciſa pronunciación, reſpeo de que nadie las puede legiti-
+mamente proferir n la duplicación de ambas vocáles: y aſsi todas las ve-
+ces que la pronunciación no pide ſemejante duplicación ſe debe omitir, y
+es exceo uſarlas, como algunos hacen eſcribiendo Fee, Veer, porque en la
+realidád no ſe pronúncian dos ee ſeparádas, no una ſola: y à lo mas à que
+ſe puede extender el deſéo de la perfección y claridád en lo eſcrito, es à po-
+ner en los monoſylabos, como Fé, Vé, el accento agúdo, para denotar lo
+agúdo de ſu terminación.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="533" y="1272"/>
+	<Point x="512" y="1273"/>
+	<Point x="475" y="1277"/>
+	<Point x="482" y="3176"/>
+	<Point x="967" y="3182"/>
+	<Point x="1107" y="3180"/>
+	<Point x="1196" y="3173"/>
+	<Point x="1576" y="3176"/>
+	<Point x="1962" y="3179"/>
+	<Point x="2421" y="3186"/>
+	<Point x="2470" y="3176"/>
+	<Point x="2470" y="1235"/>
+	<Point x="2467" y="1203"/>
+	<Point x="1248" y="1210"/>
+	<Point x="989" y="1212"/>
+	<Point x="839" y="1214"/>
+	<Point x="740" y="1210"/>
+	<Point x="575" y="1214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>38 Si ſon conſonantes, en eas, procediendo con divión, la C nun-
+ca ſe debe duplicar antes de las tres vocáles a, o, u, porque nadie pronúncia
+no es haciendo un esfuerzo impróprio y afeado Accomodar, Accaecer,
+Occaſo, Occaón, Accuſar, Accumular con dos cc, no con una ſola, dicien-
+do Acomodar, Acaecer, Ocaſo, Acuſar, &amp;c. Antes de las otras dos vocáles
+e, i, ſe duplica no en todas las palabras, no en las que las tienen en ſu orí-
+gen, y el uſo y manéra naturál de ſu pronunciación las ha conſervado: co-
+mo ſon Accelerar, Acceo, Accento, Accidente, Occidente, y otras: por cuyo
+motívo ſe exceptúan los verbos Aceptar y Suceder con ſus derivados, los
+quales aunque ſus raíces Latinas tengan dos cc, como en la realidád no ſe
+eſpeciﬁcan en la pronunciación, ſe pueden y deben omitir. La razón de
+ea diverdád y diferéncia nace de que para pronunciar Ocaón, Ocaſo,
+Acomodar, Acumular, Acuſar, y todas las demás voces en que ſe haen las
+tres vocáles a, o, u, deſpues de la c, no ſe hace la menor fuerza y detención
+en la c, no que blanda y naturalmente ſe proﬁeren, lo que no ſucede
+quando pronunciamos Acceo, Accelerar, Accidente, Occidente, &amp;c. por-
+que conocidamente nos detenémos en ſu pronunciación, y la doblamos:
+y aſsi por conſeqüéncia ſe deben eas eſcribir con dos cc. Ea regla ſe en-
+tiende en las palabras que no tienen otra conſonante que medie entre la c,
+y la vocál que ſe le gue, porque  la tienen y conſervan: como en Acla-
+mar, Aclarar, Ecleáico, es ſupérﬂua la duplicación de la c, aunque en ſus
+raíces la tengan. Débeſe duplicar en las voces Acción, Lección, Dicción, Coc-
+ción, Producción, y otras en que la t ſe convierte en c, porque además de
+detenernos en ſu pronunciación, y no ſer dable proferirlas con ſola una c,
+diciendo Ación, Leción, &amp;c. la raíz Latina no ſe conſervára con ſola una c.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords>
+	<Point x="505" y="3200"/>
+	<Point x="481" y="3356"/>
+	<Point x="482" y="3673"/>
+	<Point x="2216" y="3685"/>
+	<Point x="2300" y="3661"/>
+	<Point x="2464" y="3664"/>
+	<Point x="2464" y="3200"/>
+	<Point x="1975" y="3189"/>
+	<Point x="1561" y="3187"/>
+	<Point x="1208" y="3189"/>
+	<Point x="1180" y="3185"/>
+	<Point x="567" y="3185"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>39 La ſegunda conſonante que ſe duplica es la M, y eo en voces
+compueas, porque en las mples: como Sumo, Comercio, Comodidád, Co-
+mento, Encomendar, Comunicar, Común, Comunión, y otras ſemejantes, no
+hai neceſsidád de uſar de dos mm, aunque en ſus raíces Latinas las tengan,
+por haver prevalecido el uſo en contrário, y porque en la realidád ſe pro-
+núncian ſenciamente. Las voces compueas en que ſe debe duplicar ſon</Unicode></TextEquiv></TextRegion></Page></PcGts>

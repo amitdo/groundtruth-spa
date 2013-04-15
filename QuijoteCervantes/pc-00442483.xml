@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442483">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:06:33</Created>
+	<LastChange>2012-03-12T14:12:04</LastChange></Metadata>
+	<Page imageFilename="00442483.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="419" y="90"/>
+	<Point x="1126" y="90"/>
+	<Point x="1126" y="200"/>
+	<Point x="419" y="200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="155" y="209"/>
+	<Point x="1424" y="211"/>
+	<Point x="1400" y="2161"/>
+	<Point x="1190" y="2162"/>
+	<Point x="1180" y="2185"/>
+	<Point x="133" y="2171"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>co, que aunque le euauan de aquea manera, no
+yuan ſeguros del, no que temian que ſe les auia de
+huyr. Que delitos puede tener, dixo don Quixote,
+no han merecido mas pena, que echae a las gale-
+ras? Va por diez años, replicò la guarda, que es como
+muerte ceuil. No ſe quiera ſaber mas, no  ee buẽ
+hombre es el famoſo Gines de Paamonte, que por
+otro nombre amã Gineo de Parapia. Señor co
+miario, dixo entõces el galeote, vayaſe poco a po‐
+co, y no andemos aora a deſlindar nombres, y ſobre
+nombres, Gines me amo, y no Gineo, y Paa-
+monte es mi alcurnia, y no Parapia, como boace di
+ze, y cada vno ſe de vna buelta a la redonda, y no ha‐
+ra poco. Hable con menos tono, replicò el comia‐
+rio, ſeñor ladron de mas de la marca, no quiere
+que le haga caar mal que le peſe. Bien parece, reſ-
+pondio el galeote, que va el hombre, como Dios es
+ſeruido, pero algun dia ſabia alguno,  me amo Gi‐
+neo de Parapia, o no. Pues no te aman an em-
+buero, dixo la guarda. Si aman, reſpondio Gines,
+mas yo hare que no me lo amen, o me las pelaria,
+don de yo digo entre mis dientes. Señor cauaero .
+tiene algo que darnos, denoslo ya, y vaya con Dios,
+que ya enfada cõ tanto querer ſaber vidas agenas: y
+ la mia quiere ſaber, ſepa  yo ſoy Gines de Paa-
+monte, cuya vida ea eſcrita por eos pulgares. Di-
+ze verdad, dixo el comiario,  el meſmo ha eſcrito-
+ſu hioria,  no ay mas, y dexa empeñado el libro en
+la carecel, en doziẽtosreales. Y le pienſo quitar, dixo
+Gines,  quedara en doziẽtos ducados. Tã dueno es,
+dixo dõ Quixote. Es tã bueno, reſpõdio Gines,  mal
+año para Lazario đ Tormes, y para todos quãtos đ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1212" y="2175"/>
+	<Point x="1389" y="2175"/>
+	<Point x="1389" y="2238"/>
+	<Point x="1212" y="2238"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aquel</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="403" y="2273"/>
+	<Point x="1163" y="2273"/>
+	<Point x="1163" y="2368"/>
+	<Point x="403" y="2368"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1271" y="90"/>
+	<Point x="1271" y="200"/>
+	<Point x="1423" y="200"/>
+	<Point x="1423" y="90"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>104</Unicode></TextEquiv></TextRegion></Page></PcGts>

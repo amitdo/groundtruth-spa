@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442268">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T06:20:59</Created>
+	<LastChange>2012-03-12T14:11:48</LastChange></Metadata>
+	<Page imageFilename="00442268.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/>
+	<RegionRefIndexed regionRef="r11" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="400" y="126"/>
+	<Point x="401" y="207"/>
+	<Point x="742" y="200"/>
+	<Point x="784" y="204"/>
+	<Point x="789" y="218"/>
+	<Point x="798" y="222"/>
+	<Point x="813" y="213"/>
+	<Point x="934" y="205"/>
+	<Point x="930" y="126"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PROLOGO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="11" y="216"/>
+	<Point x="11" y="1371"/>
+	<Point x="512" y="1395"/>
+	<Point x="575" y="1392"/>
+	<Point x="617" y="1377"/>
+	<Point x="908" y="1370"/>
+	<Point x="1369" y="1351"/>
+	<Point x="1381" y="543"/>
+	<Point x="1398" y="227"/>
+	<Point x="1388" y="225"/>
+	<Point x="1376" y="219"/>
+	<Point x="1039" y="204"/>
+	<Point x="797" y="224"/>
+	<Point x="785" y="218"/>
+	<Point x="713" y="217"/>
+	<Point x="476" y="227"/>
+	<Point x="342" y="217"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dezia, y de tal manera ſe imprimieron en mi ſus razones,
+que n ponerlas en diſputa, las aprouè por buenas, y de
+eas miſmas quiſe hazer ee Prologo. En el qual veras
+Leor ſuaue, la diſcrecion de mi amigo, la buena ventu-
+ra mia, en haar en tiempo tan neceſsitado, tal conſege-
+ro, y el aliuio tuyo, en haar tan nzera, y tan n rebuel-
+tas, la hioria del famoſo don Quixote de la Mancha, de
+quien ay opinion por todos los habitadores del dirito
+del campo de Montiel, que fue el mas cao enamorado,
+y el mas valiente cauaero, que de muchos años a ea
+parte ſe vio en aqueos cõtornos. Yo no quiero encare
+certe el ſeruicio que te hago, en darte a conocer tan no-
+ble, y tan honrado cauaero : pero quiero que me agra-
+dezcas el conocimiento que tẽdras, del famoſo Sancho
+Pança ſu eſcudero, en quiẽ a mi parecer te doy cifradas
+todas las gracias eſcuderiles, que en la caterua de
+los libros vanos de cauaerias, ean eſpar-
+zidas. Y con eo, Dios te de ſa-
+lud, y a mi no oluide.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="596" y="1390"/>
+	<Point x="596" y="1446"/>
+	<Point x="866" y="1457"/>
+	<Point x="867" y="1380"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VALE.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r10" type="stamp">
+	<Coords>
+	<Point x="402" y="1573"/>
+	<Point x="402" y="2152"/>
+	<Point x="1050" y="2152"/>
+	<Point x="1050" y="1573"/></Coords></GraphicRegion>
+	<TextRegion id="r11" type="catch-word">
+	<Coords>
+	<Point x="1157" y="2159"/>
+	<Point x="1157" y="2242"/>
+	<Point x="1454" y="2242"/>
+	<Point x="1454" y="2159"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>AL LI-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="credit">
+	<Coords>
+	<Point x="438" y="2302"/>
+	<Point x="438" y="2364"/>
+	<Point x="1007" y="2374"/>
+	<Point x="1166" y="2364"/>
+	<Point x="1166" y="2302"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

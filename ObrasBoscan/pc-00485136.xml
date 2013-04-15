@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485136">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T11:17:06</Created>
+	<LastChange>2011-05-12T13:40:57</LastChange></Metadata>
+	<Page imageFilename="00485136.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="619" y="3021"/>
+	<Point x="1368" y="3033"/>
+	<Point x="1390" y="3033"/>
+	<Point x="1401" y="3043"/>
+	<Point x="1393" y="3093"/>
+	<Point x="631" y="3089"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="378" y="231"/>
+	<Point x="1605" y="221"/>
+	<Point x="1614" y="987"/>
+	<Point x="1607" y="2109"/>
+	<Point x="1627" y="2201"/>
+	<Point x="1530" y="2843"/>
+	<Point x="1343" y="2869"/>
+	<Point x="1204" y="2877"/>
+	<Point x="1170" y="2894"/>
+	<Point x="881" y="2926"/>
+	<Point x="392" y="2901"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Es Reyna principal de quantos aman:
+Ya eos da fauor, y eos ſon ſuyos.
+No as oy do dezir quando ea pone
+AI duro coraçon ſu blanda mano,
+Que todo lo mas fuerte s'enternece:
+El Amor no t'an dicho que's ſu hijo:
+Nacido de mitad de ſus entrañas.
+Y ea tambien de lupiter nacida:
+Ques Dios bẽigno, y amador muy grãde.
+Y el proprio, y natural ofﬁcio deos
+Es acordar, las diſcordontes almas.
+Ama,  quieres pues ſer agradable,
+Al hijo, y ala madre, y al aguelo.
+Las virgines iran tras ſu Diana:
+En ſoledad de vida por los yermos.
+Tu, y las que'ays a Venus conſagradas,
+En lecho conjugal haueys de veros.
+Tu ſanta religion ſagrada, y pura,
+Sera correſponder por y gual peſo,
+Al punto del Amor que te preſento:
+Atandote en la ley del matrimonio.
+Tu ves como me tienes, y en que pao:
+Entrega me al ofﬁcio que quieres:
+Si quieres tanto onrrarme que me quieras,
+Por marido, y por eruo, y o ſoy tuyo
+Venido aqui por Venus embiado:
+Y herido dela ﬂecha de ſu hijo:
+Huyendo del morir, con la ſaeta
+Traueada en mitad de mis entrañas:
+Vengo a caer de ojos en tus manos.
+Ai embio Mercurio al fuerte Alcides,
+Al ſeruicio de lar dane donzea:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="1090" y="122"/>
+	<Point x="1095" y="207"/>
+	<Point x="1605" y="195"/>
+	<Point x="1605" y="122"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. LXXXIIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="507" y="127"/>
+	<Point x="507" y="209"/>
+	<Point x="1039" y="209"/>
+	<Point x="1039" y="127"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TERCERO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="signature-mark">
+	<Coords>
+	<Point x="1243" y="2890"/>
+	<Point x="1242" y="2969"/>
+	<Point x="1444" y="2970"/>
+	<Point x="1452" y="2870"/>
+	<Point x="1342" y="2878"/>
+	<Point x="1279" y="2882"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N iiij</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442850">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:42:27</Created>
+	<LastChange>2012-03-12T14:12:31</LastChange></Metadata>
+	<Page imageFilename="00442850.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="477" y="38"/>
+	<Point x="1123" y="53"/>
+	<Point x="1139" y="147"/>
+	<Point x="757" y="155"/>
+	<Point x="738" y="172"/>
+	<Point x="721" y="175"/>
+	<Point x="716" y="150"/>
+	<Point x="596" y="153"/>
+	<Point x="566" y="153"/>
+	<Point x="533" y="173"/>
+	<Point x="471" y="146"/>
+	<Point x="431" y="114"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quarta parta de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="157" y="144"/>
+	<Point x="431" y="135"/>
+	<Point x="514" y="179"/>
+	<Point x="566" y="178"/>
+	<Point x="585" y="167"/>
+	<Point x="700" y="160"/>
+	<Point x="719" y="178"/>
+	<Point x="756" y="178"/>
+	<Point x="767" y="160"/>
+	<Point x="1444" y="148"/>
+	<Point x="1452" y="2116"/>
+	<Point x="1336" y="2110"/>
+	<Point x="1260" y="2116"/>
+	<Point x="1238" y="2111"/>
+	<Point x="1196" y="2138"/>
+	<Point x="133" y="2148"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>para adobarlo todo, dixo: Aora ſeñores, quieranme
+bien, o quieranme mal, por lo que dixere, el caſo de
+eo es, que aſsi va encantado mi ſeñor don Quixo-
+te, como mi madre: el tiene ſu entero juyzio, el co-
+me, y beue, y haze ſus neceſsidades como los demas
+hombres, y como las hazia ayer, antes que le enjau-
+laen. Siendo eo an, como quieren hazerme a mi
+entender, que va encantado? Pues yo he oydo dezir
+a muchas perſonas, que los encantados, ni comen, ni
+duermen, ni hablan, y mi amo no le van a la mano,
+hablarâ mas que treynta procuradores. Y boluien-
+doſe a mirar al cura, proguio diziendo : A ſeñor
+cura, ſeñor cura, penſaua vuera merced que no le
+conozco, y penſara que yo no calo, y adiuino, adon-
+de ſe encaminan eos nueuos encantamentos, pues
+ſepa que le conozco, por mas que ſe encubra el
+roro, y ſepa que le entiendo, por mas que diſsi-
+mule ſus embues? En ﬁn, donde reyna la embidia,
+no puede viuir la virtud, ni adonde ay eſcaſeza, la li-
+beralidad. Mal aya el diablo, que ﬁ por ſu reberẽcia
+no fuera, ea fuera ya la hora, que mi ſeñor euuie-
+ra caſado cõ la Infanta Micomicona, y yo fuer a Cõ
+de por lo menos, pues no ſe podia eſperar otra coſa,
+aſsi de la bõdad de mi ſeñor, el de la trie Figura, co
+mo de la grãdeza de mis ſeruicios. Pero ya veo que
+es verdad, lo  ſe dize por ahi, que la rueda de la for
+tuna anda mas lia,  vna rueda de molino y que los
+que ayer eauã en pinganitos, oy ean por el ſuelo.
+De mis hijos, y de mi muger me peſa, pues quando
+podian, y deuiã eſperar, ver entrar a ſu padre por ſus
+puertas, hecho Gouernador, o Viſorey de alguna
+Inſula, o Reyno, le veran entrar hecho moço de ca-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1232" y="2130"/>
+	<Point x="1315" y="2116"/>
+	<Point x="1423" y="2120"/>
+	<Point x="1417" y="2203"/>
+	<Point x="1234" y="2194"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>uaos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="453" y="2302"/>
+	<Point x="938" y="2294"/>
+	<Point x="955" y="2307"/>
+	<Point x="1127" y="2297"/>
+	<Point x="1129" y="2369"/>
+	<Point x="451" y="2368"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444406">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:06:02</Created>
+	<LastChange>2011-12-19T11:39:43</LastChange></Metadata>
+	<Page imageFilename="00444406.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="987" y="88"/>
+	<Point x="1618" y="94"/>
+	<Point x="1614" y="222"/>
+	<Point x="990" y="214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="457" y="242"/>
+	<Point x="2088" y="235"/>
+	<Point x="2070" y="2644"/>
+	<Point x="1781" y="2642"/>
+	<Point x="1428" y="2686"/>
+	<Point x="425" y="2692"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mio, o Rey mio quien ſupiera aora repreſen-
+tar la Magead que teneys. Es impoſsible
+dexar de ver que ſoys grande Emperador en
+vos miſmo, que eſpãta mirar ea Magead,
+mas, mas eſpanta Señor mio mirar con ea
+vuera humildad y el amor que morays a
+vna como yo, en todo ſe puede tratar y ha-
+blar con vos como quieremos, perdido el
+primer eſpanto y temor de ver vuera Ma-
+gead, cõ quedar mayor para no oﬀenderos,
+mas no por miedo del caigo Señor mio,
+porque ee no ſe tiene en nada, en compara-
+cion de no perderos a vos. He aqui los pro-
+uechos de ea vion, n otros grandes que
+dexa en el alma,  es de Dios entiendeſe por
+los eﬀetos quando el alma tiene luz, por-
+que como muchas vezes he dicho, quiere el
+Señor que ee en tinieblas, y que no vea
+ea luz. Y an no es mucho tema lo que ſe
+vee tan ruin como yo. No ha mas que aora
+que me ha acaecido ear ocho dias que no
+parece auia en mi, ni podia tener conocimiẽ-
+to de lo que deuo a Dios, ni acuerdo de las
+mercedes, no tã embouada el alma, y puea
+no ſe en que, ni como, no en malos penſa-
+mientos, mas para los buenos eaua tan in-
+habil que me reya de mi, y guaua de ver la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1770" y="2646"/>
+	<Point x="2015" y="2651"/>
+	<Point x="2022" y="2735"/>
+	<Point x="1771" y="2732"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>baxeza</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="623" y="3067"/>
+	<Point x="1566" y="3067"/>
+	<Point x="1566" y="3158"/>
+	<Point x="623" y="3158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="498" y="120"/>
+	<Point x="498" y="231"/>
+	<Point x="685" y="231"/>
+	<Point x="685" y="120"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>480</Unicode></TextEquiv></TextRegion></Page></PcGts>

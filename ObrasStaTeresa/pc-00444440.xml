@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444440">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:40:28</Created>
+	<LastChange>2011-12-19T11:39:45</LastChange></Metadata>
+	<Page imageFilename="00444440.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="861" y="94"/>
+	<Point x="1506" y="94"/>
+	<Point x="1506" y="219"/>
+	<Point x="861" y="219"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="384" y="229"/>
+	<Point x="1277" y="232"/>
+	<Point x="1989" y="221"/>
+	<Point x="1981" y="1011"/>
+	<Point x="1420" y="1023"/>
+	<Point x="516" y="1041"/>
+	<Point x="470" y="1060"/>
+	<Point x="387" y="1049"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dudar, no ſe como era eo, es que muchas ve
+zes por vna parte me parecia impoſsible, por
+otra no lo podia dudar, digo creer que no ſe
+auia de hazer. En ﬁn hae lo bueno auerlo el
+Señor hecho todo de ſu parte, y lo malo yo, y
+an dexe de penſar en eo, y no querria ſe
+me acordae por no tropeçar con tantas fal-
+tas mias, bẽdito ſea el que de todas ſaca bien
+quando es ſeruido. Amen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="383" y="1058"/>
+	<Point x="467" y="1069"/>
+	<Point x="522" y="1047"/>
+	<Point x="1391" y="1028"/>
+	<Point x="1409" y="1029"/>
+	<Point x="1969" y="1023"/>
+	<Point x="1976" y="2645"/>
+	<Point x="1702" y="2636"/>
+	<Point x="1611" y="2658"/>
+	<Point x="1498" y="2657"/>
+	<Point x="389" y="2662"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pues digo que es peligroſo yr taando los
+años que ſe han tenido de oracion, que aun-
+que aya humildad, parece puede quedar vn
+no ſe que, de parecer ſe merece algo por lo
+ſeruido. No digo yo que no lo merecen, y
+les ſera bien pagado, mas qualquier ſpiri-
+tual, que le parezca que por muchos años
+que aya tenido oracion, merece eos rega-
+los de ſpiritu, tengo yo por cierto que no
+ſubira a la cumbre del, no es harto que aya
+merecido que le tenga Dios de ſu mano pa-
+ra no le hazer las oﬀenſas, que antes que tu-
+uiee oracion le hazia, no que le ponga
+pleyto por ſus dineros como dizen, no me
+parece profunda humildad, ya puede ſer lo
+ſea, mas yo por atreuimiento lo tengo, pues
+yo con tener poca humildad, no me parece
+jamas he oſado, ya puede ſer que como</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1719" y="2652"/>
+	<Point x="1969" y="2652"/>
+	<Point x="1970" y="2726"/>
+	<Point x="1722" y="2734"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>nunca</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="594" y="3051"/>
+	<Point x="1227" y="3054"/>
+	<Point x="1586" y="3051"/>
+	<Point x="1581" y="3170"/>
+	<Point x="589" y="3159"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="393" y="89"/>
+	<Point x="393" y="220"/>
+	<Point x="597" y="220"/>
+	<Point x="597" y="89"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>518</Unicode></TextEquiv></TextRegion></Page></PcGts>

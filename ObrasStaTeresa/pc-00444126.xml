@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444126">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:01:07</Created>
+	<LastChange>2011-12-19T11:39:27</LastChange></Metadata>
+	<Page imageFilename="00444126.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="878" y="121"/>
+	<Point x="1569" y="117"/>
+	<Point x="1580" y="225"/>
+	<Point x="891" y="226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="404" y="250"/>
+	<Point x="2026" y="233"/>
+	<Point x="2032" y="1507"/>
+	<Point x="936" y="1518"/>
+	<Point x="395" y="1520"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tudes, como he dicho. Parece ha querido el
+Señor declarar eos eados, en que ſe vee el
+alma, a mi parecer, lo mas  aca ſe puede dar
+a entender, tratelo v.m.con perſona ſpiritual
+que aya egado aqui, y tẽga Ietras,  le dixere
+que eà bien, crea que ſe lo ha dicho Dios, y
+tengalo en mucho a ſu Magead, porque co
+mo he dicho, andãdo el tiẽpo ſe holgara mu-
+cho de entender lo  es, mientras no le diere
+la gracia, aun ſe la de de gozarlo, para enten
+derlo como le aya dado ſu Magead la pri-
+mera, con ſu entendimiento y letras lo enten
+dera por aqui, ſea alabado por todos los -
+glos de los glos. Amen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="395" y="1522"/>
+	<Point x="854" y="1520"/>
+	<Point x="959" y="1523"/>
+	<Point x="2039" y="1515"/>
+	<Point x="2031" y="2351"/>
+	<Point x="406" y="2370"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP. XVIII. En que trata del quarto gra
+do de oraciõ, comiẽça a declarar por excelente
+manera la grã dignidad en que el Señor pone
+al alma que ea en ee eado, espara animar
+mucho a los que tratã oraciõ, para  ſe esfuer
+cen de egar a tan alto eado, pues ſe puede al
+cançar en la tierra, aun no por merecerlo, no
+por la bondad del Señor, leaſe con aduertencia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1809" y="2673"/>
+	<Point x="1984" y="2674"/>
+	<Point x="1983" y="2773"/>
+	<Point x="1807" y="2774"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="drop-capital">
+	<Coords>
+	<Point x="456" y="2389"/>
+	<Point x="749" y="2388"/>
+	<Point x="749" y="2675"/>
+	<Point x="465" y="2678"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="626" y="3065"/>
+	<Point x="1567" y="3059"/>
+	<Point x="1560" y="3154"/>
+	<Point x="620" y="3155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="755" y="2381"/>
+	<Point x="1995" y="2369"/>
+	<Point x="2009" y="2666"/>
+	<Point x="755" y="2680"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L Señor me enſeñe palabras como ſe
+pueda dezir algo de la quarta agua,
+bien es meneer ſu fauor, aun mas</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="413" y="130"/>
+	<Point x="413" y="239"/>
+	<Point x="652" y="239"/>
+	<Point x="652" y="130"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>198</Unicode></TextEquiv></TextRegion></Page></PcGts>

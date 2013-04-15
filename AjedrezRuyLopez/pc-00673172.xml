@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00673172">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 10.0</Creator>
+	<Created>2012-02-02T11:21:00</Created>
+	<LastChange>2012-03-03T20:38:44</LastChange></Metadata>
+	<Page imageFilename="00673172.tif" imageWidth="1922" imageHeight="2628">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r6" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="790" y="239"/>
+	<Point x="790" y="297"/>
+	<Point x="802" y="300"/>
+	<Point x="1488" y="297"/>
+	<Point x="1488" y="227"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro dela inuencion liberal</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1656" y="2223"/>
+	<Point x="1656" y="2275"/>
+	<Point x="1746" y="2275"/>
+	<Point x="1746" y="2223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ria:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="marginalia">
+	<Coords>
+	<Point x="356" y="1236"/>
+	<Point x="356" y="1333"/>
+	<Point x="526" y="1333"/>
+	<Point x="526" y="1236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aduerti-
+miento.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="1626" y="301"/>
+	<Point x="1672" y="301"/>
+	<Point x="1672" y="302"/>
+	<Point x="1717" y="302"/>
+	<Point x="1717" y="364"/>
+	<Point x="1718" y="364"/>
+	<Point x="1718" y="426"/>
+	<Point x="1719" y="426"/>
+	<Point x="1719" y="488"/>
+	<Point x="1720" y="488"/>
+	<Point x="1720" y="550"/>
+	<Point x="1721" y="550"/>
+	<Point x="1721" y="611"/>
+	<Point x="1722" y="611"/>
+	<Point x="1722" y="673"/>
+	<Point x="1723" y="673"/>
+	<Point x="1723" y="735"/>
+	<Point x="1724" y="735"/>
+	<Point x="1724" y="797"/>
+	<Point x="1725" y="797"/>
+	<Point x="1725" y="858"/>
+	<Point x="1726" y="858"/>
+	<Point x="1726" y="920"/>
+	<Point x="1727" y="920"/>
+	<Point x="1727" y="982"/>
+	<Point x="1728" y="982"/>
+	<Point x="1728" y="1044"/>
+	<Point x="1729" y="1044"/>
+	<Point x="1729" y="1106"/>
+	<Point x="1730" y="1106"/>
+	<Point x="1730" y="1167"/>
+	<Point x="1731" y="1167"/>
+	<Point x="1731" y="1219"/>
+	<Point x="1664" y="1219"/>
+	<Point x="1664" y="1220"/>
+	<Point x="1087" y="1220"/>
+	<Point x="1087" y="1221"/>
+	<Point x="1077" y="1221"/>
+	<Point x="1077" y="1222"/>
+	<Point x="1067" y="1222"/>
+	<Point x="1067" y="1223"/>
+	<Point x="1057" y="1223"/>
+	<Point x="1057" y="1224"/>
+	<Point x="1047" y="1224"/>
+	<Point x="1047" y="1225"/>
+	<Point x="1037" y="1225"/>
+	<Point x="1037" y="1226"/>
+	<Point x="1027" y="1226"/>
+	<Point x="1027" y="1227"/>
+	<Point x="993" y="1227"/>
+	<Point x="993" y="1228"/>
+	<Point x="958" y="1228"/>
+	<Point x="958" y="1229"/>
+	<Point x="923" y="1229"/>
+	<Point x="923" y="1230"/>
+	<Point x="888" y="1230"/>
+	<Point x="888" y="1231"/>
+	<Point x="866" y="1231"/>
+	<Point x="866" y="1232"/>
+	<Point x="843" y="1232"/>
+	<Point x="843" y="1233"/>
+	<Point x="820" y="1233"/>
+	<Point x="820" y="1234"/>
+	<Point x="797" y="1234"/>
+	<Point x="797" y="1235"/>
+	<Point x="774" y="1235"/>
+	<Point x="774" y="1236"/>
+	<Point x="751" y="1236"/>
+	<Point x="751" y="1237"/>
+	<Point x="719" y="1237"/>
+	<Point x="719" y="1238"/>
+	<Point x="687" y="1238"/>
+	<Point x="687" y="1239"/>
+	<Point x="657" y="1239"/>
+	<Point x="657" y="1238"/>
+	<Point x="598" y="1238"/>
+	<Point x="598" y="1237"/>
+	<Point x="546" y="1237"/>
+	<Point x="546" y="1132"/>
+	<Point x="545" y="1132"/>
+	<Point x="545" y="1050"/>
+	<Point x="544" y="1050"/>
+	<Point x="544" y="969"/>
+	<Point x="543" y="969"/>
+	<Point x="543" y="887"/>
+	<Point x="542" y="887"/>
+	<Point x="542" y="805"/>
+	<Point x="541" y="805"/>
+	<Point x="541" y="724"/>
+	<Point x="540" y="724"/>
+	<Point x="540" y="642"/>
+	<Point x="539" y="642"/>
+	<Point x="539" y="561"/>
+	<Point x="538" y="561"/>
+	<Point x="539" y="561"/>
+	<Point x="539" y="528"/>
+	<Point x="540" y="528"/>
+	<Point x="540" y="496"/>
+	<Point x="541" y="496"/>
+	<Point x="541" y="464"/>
+	<Point x="542" y="464"/>
+	<Point x="542" y="432"/>
+	<Point x="543" y="432"/>
+	<Point x="543" y="400"/>
+	<Point x="544" y="400"/>
+	<Point x="544" y="368"/>
+	<Point x="545" y="368"/>
+	<Point x="545" y="336"/>
+	<Point x="546" y="336"/>
+	<Point x="546" y="304"/>
+	<Point x="546" y="305"/>
+	<Point x="580" y="305"/>
+	<Point x="580" y="306"/>
+	<Point x="614" y="306"/>
+	<Point x="614" y="307"/>
+	<Point x="648" y="307"/>
+	<Point x="648" y="308"/>
+	<Point x="682" y="308"/>
+	<Point x="682" y="309"/>
+	<Point x="715" y="309"/>
+	<Point x="715" y="310"/>
+	<Point x="749" y="310"/>
+	<Point x="749" y="311"/>
+	<Point x="783" y="311"/>
+	<Point x="783" y="312"/>
+	<Point x="817" y="312"/>
+	<Point x="817" y="313"/>
+	<Point x="910" y="313"/>
+	<Point x="910" y="312"/>
+	<Point x="970" y="312"/>
+	<Point x="970" y="311"/>
+	<Point x="1030" y="311"/>
+	<Point x="1030" y="310"/>
+	<Point x="1089" y="310"/>
+	<Point x="1089" y="309"/>
+	<Point x="1149" y="309"/>
+	<Point x="1149" y="308"/>
+	<Point x="1209" y="308"/>
+	<Point x="1209" y="307"/>
+	<Point x="1268" y="307"/>
+	<Point x="1268" y="306"/>
+	<Point x="1328" y="306"/>
+	<Point x="1328" y="305"/>
+	<Point x="1388" y="305"/>
+	<Point x="1388" y="304"/>
+	<Point x="1447" y="304"/>
+	<Point x="1447" y="303"/>
+	<Point x="1507" y="303"/>
+	<Point x="1507" y="302"/>
+	<Point x="1567" y="302"/>
+	<Point x="1567" y="301"/>
+	<Point x="1626" y="301"/>
+	<Point x="1626" y="300"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>der el caua.ſe cobrira con el peon del arﬁl de ſu
+dama jug. vna caſa:el blan. jug.el peon del caua.
+de ſu dama quanto va ſobre el caua. y tomando
+lo el neg.en la via con el peon de ſu dama conuie
+ne a ſaber vna caſa mas atras : el blan. lo tomara
+con el peon de ſu roque deſcubriẽdo el roque ſo-
+bre el caua.y  el neg.jug. el peon del caua. de ſu
+dama vna caſa por guardar el caua. el blan.ò jug.
+el peon otra caſa ſobre el caua. o tomãdo el peon
+del arf. con el peon de ſu dama le aura ganado en
+todas maneras el juego,pueo que lo mejor es to
+malle primero el peon del arﬁl que pujar el otro
+ſobre el cauallo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="1731" y="1221"/>
+	<Point x="1731" y="1229"/>
+	<Point x="1732" y="1229"/>
+	<Point x="1732" y="1291"/>
+	<Point x="1733" y="1291"/>
+	<Point x="1733" y="1353"/>
+	<Point x="1734" y="1353"/>
+	<Point x="1734" y="1414"/>
+	<Point x="1735" y="1414"/>
+	<Point x="1735" y="1476"/>
+	<Point x="1736" y="1476"/>
+	<Point x="1736" y="1538"/>
+	<Point x="1737" y="1538"/>
+	<Point x="1737" y="1600"/>
+	<Point x="1738" y="1600"/>
+	<Point x="1738" y="1662"/>
+	<Point x="1739" y="1662"/>
+	<Point x="1739" y="1723"/>
+	<Point x="1740" y="1723"/>
+	<Point x="1740" y="1785"/>
+	<Point x="1741" y="1785"/>
+	<Point x="1741" y="1847"/>
+	<Point x="1742" y="1847"/>
+	<Point x="1742" y="1909"/>
+	<Point x="1743" y="1909"/>
+	<Point x="1743" y="1970"/>
+	<Point x="1744" y="1970"/>
+	<Point x="1744" y="2032"/>
+	<Point x="1745" y="2032"/>
+	<Point x="1745" y="2094"/>
+	<Point x="1746" y="2094"/>
+	<Point x="1746" y="2156"/>
+	<Point x="1747" y="2156"/>
+	<Point x="1747" y="2217"/>
+	<Point x="1748" y="2217"/>
+	<Point x="1717" y="2217"/>
+	<Point x="1717" y="2218"/>
+	<Point x="1686" y="2218"/>
+	<Point x="1686" y="2219"/>
+	<Point x="1655" y="2219"/>
+	<Point x="1655" y="2220"/>
+	<Point x="1624" y="2220"/>
+	<Point x="1624" y="2221"/>
+	<Point x="1594" y="2221"/>
+	<Point x="1594" y="2222"/>
+	<Point x="1563" y="2222"/>
+	<Point x="1563" y="2223"/>
+	<Point x="1532" y="2223"/>
+	<Point x="1532" y="2224"/>
+	<Point x="1501" y="2224"/>
+	<Point x="1501" y="2225"/>
+	<Point x="1471" y="2225"/>
+	<Point x="1471" y="2226"/>
+	<Point x="1440" y="2226"/>
+	<Point x="1440" y="2227"/>
+	<Point x="1409" y="2227"/>
+	<Point x="1409" y="2228"/>
+	<Point x="1378" y="2228"/>
+	<Point x="1378" y="2229"/>
+	<Point x="1347" y="2229"/>
+	<Point x="1347" y="2230"/>
+	<Point x="1317" y="2230"/>
+	<Point x="1317" y="2231"/>
+	<Point x="1286" y="2231"/>
+	<Point x="1286" y="2232"/>
+	<Point x="1255" y="2232"/>
+	<Point x="1255" y="2233"/>
+	<Point x="1224" y="2233"/>
+	<Point x="1224" y="2234"/>
+	<Point x="1194" y="2234"/>
+	<Point x="1194" y="2235"/>
+	<Point x="1163" y="2235"/>
+	<Point x="1163" y="2236"/>
+	<Point x="1132" y="2236"/>
+	<Point x="1132" y="2237"/>
+	<Point x="1101" y="2237"/>
+	<Point x="1101" y="2238"/>
+	<Point x="1071" y="2238"/>
+	<Point x="1071" y="2239"/>
+	<Point x="1071" y="2238"/>
+	<Point x="998" y="2238"/>
+	<Point x="998" y="2237"/>
+	<Point x="925" y="2237"/>
+	<Point x="925" y="2236"/>
+	<Point x="852" y="2236"/>
+	<Point x="852" y="2235"/>
+	<Point x="779" y="2235"/>
+	<Point x="779" y="2234"/>
+	<Point x="706" y="2234"/>
+	<Point x="706" y="2233"/>
+	<Point x="633" y="2233"/>
+	<Point x="633" y="2232"/>
+	<Point x="560" y="2232"/>
+	<Point x="560" y="2175"/>
+	<Point x="559" y="2175"/>
+	<Point x="559" y="2119"/>
+	<Point x="558" y="2119"/>
+	<Point x="558" y="2063"/>
+	<Point x="557" y="2063"/>
+	<Point x="557" y="2007"/>
+	<Point x="556" y="2007"/>
+	<Point x="556" y="1951"/>
+	<Point x="555" y="1951"/>
+	<Point x="555" y="1894"/>
+	<Point x="554" y="1894"/>
+	<Point x="554" y="1838"/>
+	<Point x="553" y="1838"/>
+	<Point x="553" y="1782"/>
+	<Point x="552" y="1782"/>
+	<Point x="552" y="1726"/>
+	<Point x="551" y="1726"/>
+	<Point x="551" y="1670"/>
+	<Point x="550" y="1670"/>
+	<Point x="550" y="1613"/>
+	<Point x="549" y="1613"/>
+	<Point x="549" y="1557"/>
+	<Point x="548" y="1557"/>
+	<Point x="548" y="1501"/>
+	<Point x="547" y="1501"/>
+	<Point x="547" y="1445"/>
+	<Point x="546" y="1445"/>
+	<Point x="546" y="1389"/>
+	<Point x="545" y="1389"/>
+	<Point x="545" y="1333"/>
+	<Point x="544" y="1333"/>
+	<Point x="545" y="1333"/>
+	<Point x="545" y="1273"/>
+	<Point x="546" y="1273"/>
+	<Point x="546" y="1239"/>
+	<Point x="596" y="1239"/>
+	<Point x="596" y="1240"/>
+	<Point x="655" y="1240"/>
+	<Point x="655" y="1241"/>
+	<Point x="689" y="1241"/>
+	<Point x="689" y="1240"/>
+	<Point x="721" y="1240"/>
+	<Point x="721" y="1239"/>
+	<Point x="753" y="1239"/>
+	<Point x="753" y="1238"/>
+	<Point x="776" y="1238"/>
+	<Point x="776" y="1237"/>
+	<Point x="799" y="1237"/>
+	<Point x="799" y="1236"/>
+	<Point x="822" y="1236"/>
+	<Point x="822" y="1235"/>
+	<Point x="845" y="1235"/>
+	<Point x="845" y="1234"/>
+	<Point x="868" y="1234"/>
+	<Point x="868" y="1233"/>
+	<Point x="890" y="1233"/>
+	<Point x="890" y="1232"/>
+	<Point x="925" y="1232"/>
+	<Point x="925" y="1231"/>
+	<Point x="960" y="1231"/>
+	<Point x="960" y="1230"/>
+	<Point x="995" y="1230"/>
+	<Point x="995" y="1229"/>
+	<Point x="1029" y="1229"/>
+	<Point x="1029" y="1228"/>
+	<Point x="1039" y="1228"/>
+	<Point x="1039" y="1227"/>
+	<Point x="1049" y="1227"/>
+	<Point x="1049" y="1226"/>
+	<Point x="1059" y="1226"/>
+	<Point x="1059" y="1225"/>
+	<Point x="1069" y="1225"/>
+	<Point x="1069" y="1224"/>
+	<Point x="1079" y="1224"/>
+	<Point x="1079" y="1223"/>
+	<Point x="1089" y="1223"/>
+	<Point x="1089" y="1222"/>
+	<Point x="1666" y="1222"/>
+	<Point x="1666" y="1221"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mas  quando el blan.tomo el peon dela dama
+con el peon de ſu roque deſcrubiendolo ſobre el
+ca.contrario:el neg.jug. el peon de ſu rey vna ca-
+ſa porque  el blã tomare el cau.con la dama,to-
+me el neg. con la ſuya : y  el blan. tomare con ſu
+roque:el neg.juegue el arf de ſu rey ala.4.del cau.
+dela dama contraria ſobre el roque y ſobre el ca.
+contrarios, y a le haria mal juego. Y por tanto
+quando el neg.jugo el dicho peon vna caſa el blã.
+no tomara el cau.antes jug. el peon vna caſa mas
+adelante ſobre el caua. y  el neg. tomare el peon
+dela dama con el peon de ſu rey: el blan.lo toma-
+ra con el ca.de ſu dama.Si el neg. jug. el peon del
+caua.dela dama quanto va ſobre la dama contra</Unicode></TextEquiv></TextRegion></Page></PcGts>

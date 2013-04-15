@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439210">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T08:44:04</Created>
+	<LastChange>2011-05-12T13:39:52</LastChange></Metadata>
+	<Page imageFilename="00439210.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="559" y="107"/>
+	<Point x="1497" y="109"/>
+	<Point x="1495" y="197"/>
+	<Point x="559" y="197"/>
+	<Point x="538" y="173"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="297" y="211"/>
+	<Point x="1719" y="204"/>
+	<Point x="1723" y="2624"/>
+	<Point x="1598" y="2630"/>
+	<Point x="1575" y="2645"/>
+	<Point x="282" y="2658"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>la vida no tiene de acabarſe, cuya bienaventurança
+cone ſolo en aquea idolatria. Son gente de ancha
+vida, de ancha conciencia, quieren anchuras, y nada
+erecho Saben bien que hazen mal, y hazen mal por no
+hazer bien. Danſe (para lo que quieren) por deſen-
+tendidos, y no ignoran que ſe les va gaando la cuer-
+da, erechandoſe la ſalida, y que al cabo ay eternos
+deſpeñaderos: mas como vemos à Dios las manos en-
+clavadas y doloroſas, parecenos que ſe laimarà mucho
+quando quiera laimarnos. Dizen los tontos entre ,
+nada nos duele, ſalud tenemos, dinero no falta, la
+caſa eà proveyda, durmamos agora, holguèmonos lo
+poco que nos cabe, tiempo ay, no es neceario caminar
+tan à priea, quitandonos la vida que Dios nos dà. Di-
+latanlo una hora, y paa un dia: paaſe otro dia, vaſe
+la ſemana, el mes corre, buela el año, y no ega ee
+quando: que aun  egae, bien ſeria, no egaria tar-
+de; aquea es la deuda de quien ſe dixo, que ſe cobra
+en tres pagas, empero pagaſe la pena, quando ſe nos
+haze cierta, cruel, y preo. Quien condera un lo-
+grero, que olvidado de Dios, no pienſa que lo ay, no
+en aquea vigilancia? Quien vè un deshoneo, que con
+aquel torpe apetito adora lo que mas preo aborrece: y
+ai buſca ſu gloria, donde conoce ſu tormento. Un glo-
+ton, un ſobervio hĳo de Lucifer, mas que Diocleano
+cruel, acoumbrado à martyrizar innocentes, agravian-
+do juos, y perguiendo à los virtuoſos. Un murmu-
+rador n provecho, que penſando hazer en , deshaze
+à los otros, y eſcarva la gaina empre por ſu mal. Son
+les mu muradores como los ladrones y fueros, El hom-
+bre honrado, rico, y de buena vida, no hurta, porque
+Vive contento con la merced que Dios le ha hecho. Con
+ſu hazienda paa, dea come, y ſe ſuenta: ſuelen de-
+zir los tales, yo, ſeñor, tengo lo neceario para mi, y
+aun puedo dar à otros; hazen honra deo, diziendo ſo-
+brarles que poder dar. El fuero ladron, hurta, porque
+con aqueo paa: Gomo no lo tiene, trata de quitarlo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1639" y="2635"/>
+	<Point x="1702" y="2631"/>
+	<Point x="1708" y="2697"/>
+	<Point x="1649" y="2708"/>
+	<Point x="1634" y="2683"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>à</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="522" y="2853"/>
+	<Point x="1309" y="2859"/>
+	<Point x="1318" y="2931"/>
+	<Point x="533" y="2932"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="309" y="111"/>
+	<Point x="309" y="204"/>
+	<Point x="454" y="204"/>
+	<Point x="454" y="111"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>178</Unicode></TextEquiv></TextRegion></Page></PcGts>

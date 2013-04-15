@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440059">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T12:02:13</Created>
+	<LastChange>2011-12-19T11:38:39</LastChange></Metadata>
+	<Page imageFilename="00440059.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/>
+	<RegionRefIndexed regionRef="r12" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r11" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="822" y="370"/>
+	<Point x="1836" y="370"/>
+	<Point x="1836" y="452"/>
+	<Point x="822" y="452"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="349" y="459"/>
+	<Point x="1941" y="457"/>
+	<Point x="2257" y="464"/>
+	<Point x="2256" y="704"/>
+	<Point x="1835" y="715"/>
+	<Point x="1822" y="751"/>
+	<Point x="1278" y="751"/>
+	<Point x="1262" y="760"/>
+	<Point x="1209" y="760"/>
+	<Point x="1167" y="748"/>
+	<Point x="332" y="741"/>
+	<Point x="348" y="530"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En el Guarìco, ò Cabo Francès en la Isla de Santo Domingo,
+de regreo à Eſpaña, obſervé las que ſe guen,
+cerca del Colegio de los Jeſuitas.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r3">
+	<Coords>
+	<Point x="309" y="754"/>
+	<Point x="1286" y="765"/>
+	<Point x="1322" y="757"/>
+	<Point x="1832" y="759"/>
+	<Point x="1877" y="744"/>
+	<Point x="2325" y="740"/>
+	<Point x="2325" y="1828"/>
+	<Point x="310" y="1828"/></Coords></TableRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords>
+	<Point x="913" y="1881"/>
+	<Point x="1686" y="1881"/>
+	<Point x="1686" y="2000"/>
+	<Point x="913" y="2000"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITULO II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="416" y="2045"/>
+	<Point x="2183" y="2045"/>
+	<Point x="2183" y="2259"/>
+	<Point x="416" y="2259"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Que contiene las Obſervaciones hechas con mayores, y mas
+exaos Inrumentos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="309" y="2567"/>
+	<Point x="321" y="2564"/>
+	<Point x="327" y="2566"/>
+	<Point x="338" y="2570"/>
+	<Point x="406" y="2579"/>
+	<Point x="433" y="2567"/>
+	<Point x="469" y="2568"/>
+	<Point x="480" y="2586"/>
+	<Point x="553" y="2579"/>
+	<Point x="556" y="2577"/>
+	<Point x="600" y="2575"/>
+	<Point x="619" y="2569"/>
+	<Point x="611" y="2530"/>
+	<Point x="528" y="2323"/>
+	<Point x="2324" y="2327"/>
+	<Point x="2326" y="3388"/>
+	<Point x="1430" y="3395"/>
+	<Point x="1406" y="3407"/>
+	<Point x="343" y="3413"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unque las obſervaciones hechas con el Quarto de
+circulo ſean de baante exaitud, pues no diﬁere
+ninguna de las hechas por el sol un ſolo minuto; n em‐
+bargo, las mas juas, que conſeguìmos, fueron las
+que hicimos en Cuenca por medio del grande Inrumento
+de 20 pies de radio, cuya conruccion, y uſo doy en el
+Libro, que trata de la medida del grado terrere. Eas
+las hicimos 115 toeſas mas al Sur de la Torre de la Iglea
+mayor, al tiempo, que eabamos obſervando D. Antonio
+de Uoa, y Yo, en compañìa de M. Godin las Ereas є de
+Oriòn, θ de Antinous, y α de Aquario, para la determi-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="1452" y="3400"/>
+	<Point x="1546" y="3402"/>
+	<Point x="1558" y="3469"/>
+	<Point x="1457" y="3473"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>F 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="985" y="4008"/>
+	<Point x="1968" y="4008"/>
+	<Point x="1968" y="4100"/>
+	<Point x="985" y="4100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="2082" y="374"/>
+	<Point x="2082" y="456"/>
+	<Point x="2189" y="456"/>
+	<Point x="2189" y="374"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>43</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="catch-word">
+	<Coords>
+	<Point x="2142" y="3399"/>
+	<Point x="2142" y="3463"/>
+	<Point x="2278" y="3463"/>
+	<Point x="2278" y="3399"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>na‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="drop-capital">
+	<Coords>
+	<Point x="360" y="2344"/>
+	<Point x="360" y="2564"/>
+	<Point x="589" y="2564"/>
+	<Point x="587" y="2519"/>
+	<Point x="517" y="2362"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion></Page></PcGts>

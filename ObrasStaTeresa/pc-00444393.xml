@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444393">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:04:24</Created>
+	<LastChange>2011-12-19T11:39:43</LastChange></Metadata>
+	<Page imageFilename="00444393.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="302" y="88"/>
+	<Point x="1451" y="80"/>
+	<Point x="1462" y="212"/>
+	<Point x="1365" y="212"/>
+	<Point x="294" y="210"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1463" y="2646"/>
+	<Point x="1676" y="2650"/>
+	<Point x="1676" y="2761"/>
+	<Point x="1444" y="2757"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="593" y="3058"/>
+	<Point x="1598" y="3066"/>
+	<Point x="1590" y="3163"/>
+	<Point x="591" y="3160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="60" y="215"/>
+	<Point x="430" y="220"/>
+	<Point x="448" y="222"/>
+	<Point x="693" y="218"/>
+	<Point x="1740" y="232"/>
+	<Point x="1736" y="2647"/>
+	<Point x="1622" y="2643"/>
+	<Point x="1373" y="2637"/>
+	<Point x="1198" y="2637"/>
+	<Point x="51" y="2665"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>mundo que negociara por mi, y luego tenia
+por ſeguro el negocio. Vn muy eruo de
+Dios ſacerdote que empre me auia ayuda-
+do, amigo de toda perfecion, fue a la corte a
+entender en el negocio, y trabajaua mucho,
+y el cauaero ſanto, de que he hecho men-
+cion, hazia en ee caſo muy mucho, y de to-
+das maneras lo fauorecia, pao hartos traba-
+jos y perſecucion, y empre en todo le te-
+nia por padre, y aun agora le tengo, y en los
+que nos ayudauan ponia el Señor tanto fer-
+uor, que cada vno lo tomaua por coſa tã pro-
+pia ſuya, como  en eo les fuera la vida y la
+honra, y no les yua mas de ſer coſa en que a
+eos les parecia ſe ſeruia el Señor. Parecio cla
+ro ayudar ſu Magead al maero que he di-
+cho clerigo, que tambien era de los que mu-
+cho me ayudauan, a quien el Obiſpo puſo de
+ſu parte en vna junta grande que ſe hizo, y el
+eaua ſolo contra todos, y en ﬁn los aplaco
+con dezirles ciertos medios que fue harto pa
+ra que ſe entretuuiee, mas ninguno baaua
+para que luego no tornaen a poner la vida
+como dizẽ en deshazerle: ee eruo de Dios
+que digo, fue quien dio los habitos y puſo el
+ſantiſsimo Sacramento, y ſe vio en harta per-
+ſecucion. Duro ea bateria ca medio año</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1488" y="97"/>
+	<Point x="1488" y="223"/>
+	<Point x="1686" y="223"/>
+	<Point x="1686" y="97"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>465</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="1212" y="2640"/>
+	<Point x="1204" y="2755"/>
+	<Point x="1375" y="2754"/>
+	<Point x="1363" y="2641"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Gg</Unicode></TextEquiv></TextRegion></Page></PcGts>

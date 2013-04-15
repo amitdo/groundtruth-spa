@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443045">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T19:38:31</Created>
+	<LastChange>2011-03-15T16:51:34</LastChange></Metadata>
+	<Page imageFilename="00443045.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r20" index="0"/>
+	<RegionRefIndexed regionRef="r21" index="1"/>
+	<RegionRefIndexed regionRef="r15" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="775" y="2935"/>
+	<Point x="1312" y="2933"/>
+	<Point x="1385" y="2929"/>
+	<Point x="1408" y="2929"/>
+	<Point x="1431" y="2950"/>
+	<Point x="1435" y="2979"/>
+	<Point x="1405" y="2986"/>
+	<Point x="788" y="2986"/>
+	<Point x="762" y="2983"/>
+	<Point x="768" y="2960"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="496" y="60"/>
+	<Point x="496" y="64"/>
+	<Point x="495" y="64"/>
+	<Point x="495" y="71"/>
+	<Point x="494" y="71"/>
+	<Point x="494" y="78"/>
+	<Point x="493" y="78"/>
+	<Point x="493" y="84"/>
+	<Point x="492" y="84"/>
+	<Point x="492" y="91"/>
+	<Point x="491" y="91"/>
+	<Point x="491" y="98"/>
+	<Point x="490" y="98"/>
+	<Point x="490" y="104"/>
+	<Point x="489" y="104"/>
+	<Point x="489" y="111"/>
+	<Point x="488" y="111"/>
+	<Point x="488" y="118"/>
+	<Point x="487" y="118"/>
+	<Point x="487" y="124"/>
+	<Point x="486" y="124"/>
+	<Point x="486" y="131"/>
+	<Point x="485" y="131"/>
+	<Point x="485" y="138"/>
+	<Point x="484" y="138"/>
+	<Point x="484" y="144"/>
+	<Point x="483" y="144"/>
+	<Point x="483" y="151"/>
+	<Point x="482" y="151"/>
+	<Point x="482" y="158"/>
+	<Point x="481" y="158"/>
+	<Point x="481" y="160"/>
+	<Point x="387" y="163"/>
+	<Point x="395" y="60"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>34</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords>
+	<Point x="1506" y="60"/>
+	<Point x="1506" y="160"/>
+	<Point x="728" y="160"/>
+	<Point x="729" y="160"/>
+	<Point x="729" y="156"/>
+	<Point x="730" y="156"/>
+	<Point x="730" y="152"/>
+	<Point x="731" y="152"/>
+	<Point x="731" y="148"/>
+	<Point x="732" y="148"/>
+	<Point x="732" y="144"/>
+	<Point x="733" y="144"/>
+	<Point x="733" y="140"/>
+	<Point x="734" y="140"/>
+	<Point x="734" y="136"/>
+	<Point x="735" y="136"/>
+	<Point x="735" y="132"/>
+	<Point x="736" y="132"/>
+	<Point x="736" y="128"/>
+	<Point x="737" y="128"/>
+	<Point x="737" y="124"/>
+	<Point x="738" y="124"/>
+	<Point x="738" y="120"/>
+	<Point x="739" y="120"/>
+	<Point x="739" y="116"/>
+	<Point x="740" y="116"/>
+	<Point x="740" y="112"/>
+	<Point x="741" y="112"/>
+	<Point x="741" y="108"/>
+	<Point x="742" y="108"/>
+	<Point x="742" y="104"/>
+	<Point x="743" y="104"/>
+	<Point x="743" y="100"/>
+	<Point x="744" y="100"/>
+	<Point x="744" y="96"/>
+	<Point x="745" y="96"/>
+	<Point x="745" y="92"/>
+	<Point x="746" y="92"/>
+	<Point x="746" y="88"/>
+	<Point x="747" y="88"/>
+	<Point x="747" y="84"/>
+	<Point x="748" y="84"/>
+	<Point x="748" y="80"/>
+	<Point x="749" y="80"/>
+	<Point x="749" y="76"/>
+	<Point x="750" y="76"/>
+	<Point x="750" y="72"/>
+	<Point x="751" y="72"/>
+	<Point x="751" y="68"/>
+	<Point x="752" y="68"/>
+	<Point x="752" y="64"/>
+	<Point x="753" y="64"/>
+	<Point x="753" y="60"/>
+	<Point x="951" y="52"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Subida del monte Carmelo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="marginalia">
+	<Coords>
+	<Point x="148" y="439"/>
+	<Point x="359" y="439"/>
+	<Point x="359" y="595"/>
+	<Point x="148" y="595"/>
+	<Point x="141" y="506"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pſal.39.
+13.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="catch-word">
+	<Coords>
+	<Point x="1681" y="2779"/>
+	<Point x="1681" y="2870"/>
+	<Point x="1916" y="2870"/>
+	<Point x="1916" y="2779"/>
+	<Point x="1852" y="2772"/>
+	<Point x="1779" y="2766"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pret,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="marginalia">
+	<Coords>
+	<Point x="158" y="2610"/>
+	<Point x="158" y="2795"/>
+	<Point x="397" y="2795"/>
+	<Point x="397" y="2610"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Matth.
+15.14.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="marginalia">
+	<Coords>
+	<Point x="147" y="1164"/>
+	<Point x="147" y="1262"/>
+	<Point x="375" y="1262"/>
+	<Point x="375" y="1164"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pſa.6.3.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="396" y="231"/>
+	<Point x="396" y="2066"/>
+	<Point x="500" y="2059"/>
+	<Point x="610" y="2062"/>
+	<Point x="997" y="2062"/>
+	<Point x="1214" y="2070"/>
+	<Point x="1914" y="2066"/>
+	<Point x="1914" y="231"/>
+	<Point x="1921" y="186"/>
+	<Point x="1872" y="167"/>
+	<Point x="1651" y="183"/>
+	<Point x="1035" y="197"/>
+	<Point x="440" y="208"/>
+	<Point x="394" y="197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>zon natural, ni de la ſabiduria de Dios ſobrenatural la
+envian, i iluren declaro. I a dize el Real Proſeta
+David, hablando a ee propoto: Comprehenderunt me
+iniquitates me, &amp; nonpotui, vt viderem. Mis iniquida-
+des me comprehendieron, i no pude tener poder para
+ver. I en eſo miſmo que ſe eſcurece ſegun el entendi-
+miento, ſe entorpece ſegun la voluntad, i ſegun la me-
+moria ſe enrudece, i deſordena en ſu devida operacion.
+Porque como eas potencias en ſus operaciones depen
+den del entendimiento, eando el impedido, claro eà
+que han de ear ellas deſordenadas, i turbadas. I a
+dize el Proſeta David: Anima mea turbata e valde. Mi
+alma ea mucho turbada. Que es tanto como dezir:
+en ſus potencias deſordenada. Porque como de-
+zimos, ni el entendimiento tiene capazidad para rece-
+bir la iluſtracion de la ſabiduria de Dios: como tampo-
+co la tiene el aire tenebroſo para recebir la del Sol. Ni
+la voluntad tiene abilidad para abrazar en  a Dios en
+puro amor: como tampoco la tiene el eſpejo, que eà to
+mado del baho para repreſentar en  claro el bulto pre
+ſente. Ni menos la tiene la memoria que eà eſcura con
+las nieblas del apetito, para informarſe con ſerenidad
+de la imagen de Dios; como tampoco el agua turbia pue
+de morar claro el roro del que ſe mira en ella.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="429" y="2083"/>
+	<Point x="429" y="2748"/>
+	<Point x="927" y="2783"/>
+	<Point x="1424" y="2766"/>
+	<Point x="1489" y="2780"/>
+	<Point x="1603" y="2767"/>
+	<Point x="1918" y="2748"/>
+	<Point x="1918" y="2083"/>
+	<Point x="1568" y="2072"/>
+	<Point x="1237" y="2072"/>
+	<Point x="1006" y="2069"/>
+	<Point x="540" y="2069"/>
+	<Point x="532" y="2067"/>
+	<Point x="522" y="2069"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ciega tambien, i eſcurece al apetito el alma: porque
+el apetito, en cuanto apetito, ciego es; porque de ſuyo
+no mira razon: que la razon es la que empre derecha-
+mente guia, i encamina al alma en ſus operaciones. I de
+aqui es,  todas las vezes que el alma ſe guia por ſu ape
+tito, ſe ciega: pues es como guiarſe el que vè, por el que
+no vè: lo cual es como ſer entrambos ciegos. I lo que
+de aqui viene a ſeguirſe, es puntualmente lo meſmo que
+dize nuero Señor por ſan Mateo; Cco  cco ducatum</Unicode></TextEquiv></TextRegion></Page></PcGts>

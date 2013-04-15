@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443934">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T11:07:14</Created>
+	<LastChange>2011-12-19T11:39:15</LastChange></Metadata>
+	<Page imageFilename="00443934.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="452" y="219"/>
+	<Point x="2057" y="219"/>
+	<Point x="2057" y="2576"/>
+	<Point x="1571" y="2580"/>
+	<Point x="1583" y="2607"/>
+	<Point x="452" y="2607"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>te las atemorizao eſpanta, antes las alegra
+y anima. Y lo que entre todo eﬆo haze ma‐
+rauia grandiſsima es el ſabor, o  lo auemos
+de dezir an la facilidad con que hazen, lo
+que es eremadamente difﬁcultoſo de hazer.
+Porque la mortiﬁcacion les es regozijo: y la re
+nacion juego, y paatiempo la aſpereza de
+la penitencia: y como  ſe anduuieen ſolazã‐
+do y holgando van poniẽdo por obra lo  pone
+a la naturaleza en eſpanto, y el exercicio de
+virtudes heroicas le han conuertido en vn en‐
+tretenimiento guoſo, en que mueﬆran bien
+por la obra la verdad de la palabra de Chri‐
+ﬆo, que ſu jugoes ſuaue, y ſu cargaligera. Por‐
+que ninguna ſeglar ſe alegratanto en ſus ade‐
+reços, quanto a vueras reuerencias les es ſa‐
+broſo el viuir como angeles. Que tales ſon n
+duda, no ſolo en la perfecion de la vida, ‐
+notambien en la ſemejança y vnidad que en‐
+tre  tienen en ea. Que no ay dos coſ as tan
+ſemejantes, quanto lo ſon todas entre  y
+cada vna a la otra. En la habla: en la mo‐
+deia: en la humildad: en la diſcreciona: en la</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="catch-word">
+	<Coords>
+	<Point x="1792" y="2588"/>
+	<Point x="2042" y="2588"/>
+	<Point x="2042" y="2702"/>
+	<Point x="1792" y="2702"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>blan‐</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="609" y="3061"/>
+	<Point x="1588" y="3061"/>
+	<Point x="1588" y="3150"/>
+	<Point x="609" y="3150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="507" y="102"/>
+	<Point x="507" y="190"/>
+	<Point x="616" y="190"/>
+	<Point x="616" y="102"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>6</Unicode></TextEquiv></TextRegion></Page></PcGts>

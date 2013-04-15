@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440199">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T23:26:24</Created>
+	<LastChange>2011-12-19T11:38:50</LastChange></Metadata>
+	<Page imageFilename="00440199.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r14" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/>
+	<RegionRefIndexed regionRef="r10" index="2"/>
+	<RegionRefIndexed regionRef="r11" index="3"/>
+	<RegionRefIndexed regionRef="r13" index="4"/>
+	<RegionRefIndexed regionRef="r15" index="5"/>
+	<RegionRefIndexed regionRef="r17" index="6"/>
+	<RegionRefIndexed regionRef="r18" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="1235" y="341"/>
+	<Point x="2048" y="341"/>
+	<Point x="2048" y="458"/>
+	<Point x="1235" y="458"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OBSERVACIONES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords>
+	<Point x="664" y="3083"/>
+	<Point x="2567" y="3083"/>
+	<Point x="2567" y="3264"/>
+	<Point x="664" y="3264"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Del calculo antecedente ſe deduce la tabla, que ſe gue.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="catch-word">
+	<Coords>
+	<Point x="2390" y="3364"/>
+	<Point x="2606" y="3364"/>
+	<Point x="2606" y="3500"/>
+	<Point x="2390" y="3500"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ta-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="credit">
+	<Coords>
+	<Point x="990" y="3996"/>
+	<Point x="1954" y="3996"/>
+	<Point x="1954" y="4100"/>
+	<Point x="990" y="4100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="page-number">
+	<Coords>
+	<Point x="741" y="367"/>
+	<Point x="741" y="467"/>
+	<Point x="948" y="467"/>
+	<Point x="948" y="367"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>180</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r6">
+	<Coords>
+	<Point x="627" y="640"/>
+	<Point x="1332" y="635"/>
+	<Point x="1955" y="657"/>
+	<Point x="2640" y="651"/>
+	<Point x="2627" y="1243"/>
+	<Point x="2226" y="1216"/>
+	<Point x="1151" y="1200"/>
+	<Point x="986" y="1213"/>
+	<Point x="632" y="1197"/></Coords></TableRegion>
+	<TableRegion id="r12">
+	<Coords>
+	<Point x="665" y="1575"/>
+	<Point x="1242" y="1597"/>
+	<Point x="1661" y="1600"/>
+	<Point x="2630" y="1610"/>
+	<Point x="2592" y="2188"/>
+	<Point x="2338" y="2181"/>
+	<Point x="1481" y="2142"/>
+	<Point x="1427" y="2144"/>
+	<Point x="1108" y="2153"/>
+	<Point x="1046" y="2148"/>
+	<Point x="979" y="2159"/>
+	<Point x="964" y="2164"/>
+	<Point x="900" y="2148"/>
+	<Point x="659" y="2146"/></Coords></TableRegion>
+	<TableRegion id="r16">
+	<Coords>
+	<Point x="669" y="2528"/>
+	<Point x="2618" y="2563"/>
+	<Point x="2604" y="2853"/>
+	<Point x="1310" y="2812"/>
+	<Point x="659" y="2818"/></Coords></TableRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords>
+	<Point x="678" y="1221"/>
+	<Point x="681" y="1424"/>
+	<Point x="2472" y="1424"/>
+	<Point x="2427" y="1264"/>
+	<Point x="2220" y="1238"/>
+	<Point x="1600" y="1218"/>
+	<Point x="1148" y="1214"/>
+	<Point x="975" y="1216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>90° 06' 36½" 88° 16' 30½" = (αγ) 1269.320:
+(αγ horizontàl) 12684.594</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords>
+	<Point x="1185" y="1467"/>
+	<Point x="2059" y="1473"/>
+	<Point x="2040" y="1587"/>
+	<Point x="1155" y="1591"/>
+	<Point x="1181" y="1465"/>
+	<Point x="1177" y="1457"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lado γπ = 7647.190</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="700" y="2361"/>
+	<Point x="2346" y="2371"/>
+	<Point x="2344" y="2202"/>
+	<Point x="2001" y="2180"/>
+	<Point x="1988" y="2181"/>
+	<Point x="1974" y="2179"/>
+	<Point x="1472" y="2164"/>
+	<Point x="1438" y="2161"/>
+	<Point x="1120" y="2161"/>
+	<Point x="1105" y="2162"/>
+	<Point x="961" y="2167"/>
+	<Point x="819" y="2159"/>
+	<Point x="688" y="2170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>90° 03' 59": 88° 45' 08¼" = (γπ) 7647.190:
+(γπ horizontàl) 7645.400</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords>
+	<Point x="2085" y="2402"/>
+	<Point x="2034" y="2540"/>
+	<Point x="1651" y="2538"/>
+	<Point x="1281" y="2523"/>
+	<Point x="1177" y="2514"/>
+	<Point x="1227" y="2419"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lado πε = 9892.084</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="2144" y="520"/>
+	<Point x="2124" y="636"/>
+	<Point x="1963" y="648"/>
+	<Point x="1204" y="622"/>
+	<Point x="1206" y="518"/>
+	<Point x="1206" y="522"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lado αγ = 12690.320</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="697" y="2840"/>
+	<Point x="691" y="3028"/>
+	<Point x="2457" y="3036"/>
+	<Point x="2442" y="2865"/>
+	<Point x="1642" y="2834"/>
+	<Point x="1314" y="2826"/>
+	<Point x="1155" y="2822"/>
+	<Point x="975" y="2822"/>
+	<Point x="828" y="2828"/>
+	<Point x="695" y="2840"/>
+	<Point x="697" y="2838"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>90° 05' 09": 87° 04' 32½" = (πε) 9892.084:
+(πε horizontàl) 9879.214</Unicode></TextEquiv></TextRegion></Page></PcGts>

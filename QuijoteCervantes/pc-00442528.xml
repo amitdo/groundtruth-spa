@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442528">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T23:14:01</Created>
+	<LastChange>2012-03-12T14:12:06</LastChange></Metadata>
+	<Page imageFilename="00442528.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="441" y="91"/>
+	<Point x="1090" y="95"/>
+	<Point x="1091" y="193"/>
+	<Point x="746" y="206"/>
+	<Point x="726" y="206"/>
+	<Point x="702" y="207"/>
+	<Point x="681" y="188"/>
+	<Point x="429" y="186"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tercera parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="126" y="206"/>
+	<Point x="1111" y="215"/>
+	<Point x="1420" y="205"/>
+	<Point x="1426" y="2183"/>
+	<Point x="705" y="2197"/>
+	<Point x="225" y="2213"/>
+	<Point x="144" y="2200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>es, reſpondio Sancho, que quien eà en el inﬁerno,
+nunca ſale del, ni puede. Lo qual ſera al reues en vueſ
+tra merced, o a mi me andaran mal los pies,  es que
+euo eſpuelas para auiuar a Rozinante: y pongame
+yo vna por vna en el Toboſo, y delante de mi ſeño‑
+ra Dulzinea, que yo le dire tales coſas, de las nece‑
+dades y locuras, que todo es vno, que vuera mer‑
+ced ha hecho, y queda haziendo, que la venga a po‑
+ner mas blanda que vn guante, aunque la hae mas
+dura que vn alcornoque, con cuya reſpuea dulze,
+y meliﬁcada, boluere por los ayres como bruxo, y
+ſacare a vuera merced dee purgatorio, que pare-
+ce inﬁerno, y no lo es, pues ay eſperança de ſalir del:
+la qual como tengo dicho, no la tienen de ſalir los
+que ean en el inﬁerno, ni creo que vuera merced
+dìra otra coſa. Aſsi es la verdad, dixo el de la trie
+Figura, pero que haremos para eſcriuir la carta? y la
+librança poinezca, tambien añadio Sancho? Todo
+yra inſerto, dixo don Quixote, y ſeria bueno, ya que
+no ay papel, que la eſcriuieemos, como hazian los
+antiguos, en hojas de arboles, o en vnas tablitas de
+cera, aunque tan diﬁcultoſo ſera haarſe eo aora,
+como el papel. Mas ya me ha venido a la memoria,
+donde ſera bien, y aun mas que bien eſcriuia, que
+es, en el librio de memoria, que fue de Cardenio, y
+tu tendras cuydado, de hazerla trasladar en papel,
+de buena letra, en el primer lugar que haares, don‑
+de aya maero de eſcuela de muchachos, o no
+qualquiera ſacrian te la trasladarâ, y no ſe la des a
+trasladar a ningun eſcriuano, que hazen letra pro-
+ceada, que no la entendera ſatanas. Pues que ſe ha
+de hazer de la ﬁrma, dixo Sancho? nunca las cartas</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="445" y="2298"/>
+	<Point x="1122" y="2295"/>
+	<Point x="1123" y="2377"/>
+	<Point x="440" y="2362"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1318" y="2197"/>
+	<Point x="1318" y="2244"/>
+	<Point x="1380" y="2241"/>
+	<Point x="1461" y="2244"/>
+	<Point x="1461" y="2197"/>
+	<Point x="1414" y="2195"/>
+	<Point x="1389" y="2189"/>
+	<Point x="1364" y="2188"/>
+	<Point x="1352" y="2187"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de</Unicode></TextEquiv></TextRegion></Page></PcGts>

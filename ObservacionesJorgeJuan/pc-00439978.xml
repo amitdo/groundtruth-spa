@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439978">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T22:48:57</Created>
+	<LastChange>2011-12-19T11:38:32</LastChange></Metadata>
+	<Page imageFilename="00439978.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="586" y="369"/>
+	<Point x="2686" y="369"/>
+	<Point x="2686" y="3037"/>
+	<Point x="1663" y="3043"/>
+	<Point x="1648" y="3045"/>
+	<Point x="1474" y="3040"/>
+	<Point x="1460" y="3068"/>
+	<Point x="1436" y="3068"/>
+	<Point x="1404" y="3052"/>
+	<Point x="590" y="3047"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dàr cumplimiento à nuera comiſsion en el
+de 1746. Pero todo el trabajo de una pere‐
+grinacion de once años, hecha con tantas
+incomodidades, y peligros, como ſe po‐
+dràn vèr en la parte hiorica de ea Obra,
+huviera do inutil, à lo menos al Publico de
+nuera Nacion, por faltarnos la alta pro‐
+teccion, y amparo del Monarcha, que nos
+embiò,  yà que à nuera vuelta, oramos
+ſu falta, no tuvieramos el conſuelo de vèr
+ſobre ſu Trono un tan eſclarecido Suceor,
+aun mas que de ſu Cetro, y de ſu Sangre, de
+ſu Zelo, y de ſus Virtudes. Pues apenas ſe
+haò informado S. M. por el zeloſo, y ſabio
+Miniro el Ex.mo Señor Marquès de la Enſena‐
+da de nuero regreo à Madrid, y quan util
+ſería al adelantamiento de las Ciencias, y
+bien univerſal de las Naciones de Europa,
+ſe publicae ea Obra, quando no ſolo diſ‐
+puſo con ſu Real magniﬁcencia ſe diee al
+publico à coa de ſu Real Erario; no que
+la honrò conituyendoſe Proteor de ea.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="657" y="3067"/>
+	<Point x="1154" y="3063"/>
+	<Point x="1196" y="3063"/>
+	<Point x="1438" y="3079"/>
+	<Point x="1512" y="3062"/>
+	<Point x="1600" y="3054"/>
+	<Point x="1681" y="3054"/>
+	<Point x="2111" y="3051"/>
+	<Point x="2689" y="3053"/>
+	<Point x="2689" y="3432"/>
+	<Point x="657" y="3432"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En conſequencia de ſus ſoberanas Orde‐
+nes, hemos diſpueo nuero trabajo con la
+mayor brevedad, que nos ha do poſsible;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="2389" y="3442"/>
+	<Point x="2614" y="3442"/>
+	<Point x="2614" y="3574"/>
+	<Point x="2389" y="3574"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>por</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="997" y="4006"/>
+	<Point x="1947" y="4006"/>
+	<Point x="1947" y="4090"/>
+	<Point x="997" y="4090"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

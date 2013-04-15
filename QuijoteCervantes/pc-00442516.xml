@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442516">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T02:11:49</Created>
+	<LastChange>2012-03-12T14:12:06</LastChange></Metadata>
+	<Page imageFilename="00442516.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r9" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="518" y="96"/>
+	<Point x="1170" y="96"/>
+	<Point x="1171" y="187"/>
+	<Point x="821" y="192"/>
+	<Point x="789" y="202"/>
+	<Point x="776" y="200"/>
+	<Point x="520" y="193"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tercera parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="188" y="1175"/>
+	<Point x="488" y="1171"/>
+	<Point x="495" y="1142"/>
+	<Point x="502" y="1123"/>
+	<Point x="503" y="1089"/>
+	<Point x="502" y="1050"/>
+	<Point x="502" y="988"/>
+	<Point x="500" y="983"/>
+	<Point x="500" y="946"/>
+	<Point x="494" y="913"/>
+	<Point x="1469" y="914"/>
+	<Point x="1462" y="2170"/>
+	<Point x="1138" y="2170"/>
+	<Point x="1024" y="2188"/>
+	<Point x="180" y="2188"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eſpidioſe del cabrero don Quixote, y
+ſubiendo otra vez ſobre Rozinante,
+mandò a Sancho que le guiee, el qual
+lo hizo con ſu jumento, de muy mala
+gana. Yuanſe poco a poco entrando en lo mas aſ-
+pero de la montaña, y Sancho yua muerto por ra‐
+zonar con ſu amo, y deeaua que el començae la
+platica, por no contrauenir a lo que le tenia man‐
+dado: mas no pudiendo ſufrir tanto lencio, le di-
+xo: Señor don Quixote, vuera merced me eche
+ſu bendicion, y me dè licencia, que deſde aqui me
+quiero boluer a mi caſa, y a mi muger, y a mis hi‐
+jos, con los quales por lo menos hablarè, y depar‐
+tirè todo lo que quiere, porque querer vuera
+merced que vaya con el por eas ſoledades, de dia
+y de noche, y que no le hable quando me diere
+guo, es enterrarme en vida. Si ya quiera la ſuer‐
+te que los animales hablaran, como hablauan en
+tiempo de Guiſopete, fuera menos mal, porque
+departiera yo con mi jumẽto lo que me viniera en</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1289" y="2181"/>
+	<Point x="1438" y="2181"/>
+	<Point x="1438" y="2248"/>
+	<Point x="1289" y="2248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>gana,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="credit">
+	<Coords>
+	<Point x="448" y="2304"/>
+	<Point x="1138" y="2304"/>
+	<Point x="1138" y="2380"/>
+	<Point x="448" y="2380"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="192" y="199"/>
+	<Point x="761" y="202"/>
+	<Point x="792" y="204"/>
+	<Point x="808" y="198"/>
+	<Point x="1162" y="194"/>
+	<Point x="1462" y="199"/>
+	<Point x="1462" y="517"/>
+	<Point x="192" y="517"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que quedaua con grandiſsimo deeo de ſaber el
+ﬁn de ſu hioria. Dixole el cabrero lo que prime‐
+ro le auia dicho, que era, no ſaber de cierto ſu ma‐
+nida: pero que  anduuiee mucho por aqueos
+contornos, no dexaria de haarle, o cuerdo, o loco.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords>
+	<Point x="202" y="566"/>
+	<Point x="1466" y="566"/>
+	<Point x="1466" y="880"/>
+	<Point x="202" y="880"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cap. XXV. Que trata de las erañas coſas que en
+Sierra Morena ſucedieron al valiente cauaero
+de la Mancha: y de la imitacion que hizo a la pe‐
+nitencia de Beltenebros.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="drop-capital">
+	<Coords>
+	<Point x="191" y="918"/>
+	<Point x="191" y="1169"/>
+	<Point x="483" y="1169"/>
+	<Point x="494" y="1136"/>
+	<Point x="499" y="1114"/>
+	<Point x="502" y="1072"/>
+	<Point x="500" y="1043"/>
+	<Point x="500" y="994"/>
+	<Point x="499" y="984"/>
+	<Point x="496" y="950"/>
+	<Point x="490" y="915"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D</Unicode></TextEquiv></TextRegion></Page></PcGts>

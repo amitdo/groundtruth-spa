@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444065">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T08:54:01</Created>
+	<LastChange>2011-12-19T11:39:23</LastChange></Metadata>
+	<Page imageFilename="00444065.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="340" y="64"/>
+	<Point x="1571" y="64"/>
+	<Point x="1571" y="214"/>
+	<Point x="340" y="214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="206" y="223"/>
+	<Point x="1557" y="226"/>
+	<Point x="1765" y="228"/>
+	<Point x="1811" y="2653"/>
+	<Point x="1461" y="2653"/>
+	<Point x="1423" y="2634"/>
+	<Point x="1178" y="2637"/>
+	<Point x="1138" y="2657"/>
+	<Point x="184" y="2656"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ha de dar nada de no tener deuocion, co‐
+mo tengo dicho, no agradecer al Señor
+que nos dexa andar deeoſos de conten‐
+tarle, aunque ſean ﬂacas las obras. Ee
+modo de traer a Chrio con noſotros apro‐
+uecha en todos eados, y es vn medio ſe-
+guriſsimo, para yr aprouechando en el pri‐
+mero, y egar en breue al ſegundo grado
+de oracion, y para los poreros andar ſe‐
+guros de los peligros, que el demonio
+puede poner. Pues eo es lo que pode‐
+mos, quien quiere paar de aqui, y le-
+uantar el ſpiritu a ſentir guos, que no ſe
+los dan, es perder lo vno y lo otro, a mi pa‐
+recer, porque es ſobrenatural, y perdido el
+entendimiento, quedaſe el alma deerta, y
+con mucha ſequedad, y como ee ediﬁcio
+todo va fundado en humildad, mientras
+mas egados a Dios, mas adelante ha de
+yr ea virtud, y no, va todo perdido,
+y parece algun genero de ſoberuia querer
+noſotros ſubir a mas, pues Dios haze de‐
+maado ſegun ſomos, en aegar nos cer‐
+ca de . No ſe ha de entender que digo
+eo por el ſubir con el penſamiento a pen‐
+ſar coſas altas del cielo o de Dios, y las gran‐
+dezas que ai ay, y ſu gran ſabiduria, porque</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="534" y="3046"/>
+	<Point x="1633" y="3046"/>
+	<Point x="1633" y="3170"/>
+	<Point x="534" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1602" y="102"/>
+	<Point x="1615" y="216"/>
+	<Point x="1792" y="215"/>
+	<Point x="1792" y="102"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>137</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="signature-mark">
+	<Coords>
+	<Point x="1400" y="2644"/>
+	<Point x="1397" y="2684"/>
+	<Point x="1398" y="2684"/>
+	<Point x="1398" y="2721"/>
+	<Point x="1399" y="2721"/>
+	<Point x="1399" y="2740"/>
+	<Point x="1190" y="2736"/>
+	<Point x="1182" y="2641"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I 5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1472" y="2656"/>
+	<Point x="1742" y="2656"/>
+	<Point x="1742" y="2740"/>
+	<Point x="1462" y="2745"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aunque</Unicode></TextEquiv></TextRegion></Page></PcGts>

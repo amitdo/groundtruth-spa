@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439376">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T01:35:57</Created>
+	<LastChange>2011-05-12T13:40:04</LastChange></Metadata>
+	<Page imageFilename="00439376.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="577" y="103"/>
+	<Point x="1509" y="111"/>
+	<Point x="1488" y="192"/>
+	<Point x="1462" y="187"/>
+	<Point x="585" y="179"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="262" y="205"/>
+	<Point x="1703" y="205"/>
+	<Point x="1703" y="2632"/>
+	<Point x="1675" y="2629"/>
+	<Point x="1646" y="2620"/>
+	<Point x="1494" y="2621"/>
+	<Point x="1454" y="2645"/>
+	<Point x="262" y="2632"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>todo pechando: yvanos mal, porque aun con eo, à
+cada repelon deocavan la muchacha, por cada niñeria
+nos hazian mil ﬁeros, no avia picaro que no ſe nos atre-
+vieſle, unos con mi ſeñor don fulano, y otros con don
+zitano. Mi muger andava temeroſa, y muy canſada de
+tanta ſuegra, porque como conmigo euvo empre
+con tanta libertad, y ſe haava con ea ſugeta, n ſer
+ſeñora de ſu voluntad:  la una hablava, la otra reçon-
+gava, de cada pulga fabricavan un pueblo, levantavaſle
+tal tormenta  por no bolverme à ninguna de las partes,
+tomava la capa en viendo los delﬁnes encima del agua,
+ſaliame huyendo à la cae, y dexavalas aſdas de las to-
+cas. Tanto ſe indignava mi muger, que bolvieſse por
+ea, pareciendola que à tuerto ò à derecho ayuda Dios
+à los nueros, que con razon ò n ea me avia de poner
+contra mi madre, mas no era licito, Fueme cobrando
+tal odio, aborreciome tanto, que haandoſe con la oca-
+on de cierto Capitan de las galeras de Napoles que ai
+eavan, trocò mi amor por el ſuyo, y recogiendo todo
+el dinero, joyas de oro y plata con que nos haavamos
+entonces, alçò velas y fueſse à Italia, n que mas dea
+ſupieſse por entonces. Yo avia oydo dezir que aquel era
+verdaderamente loco, que buſcava à ſu muger, aviendo-
+ſe ydo, ò que al enemigo ſe avia de hazer la puente de
+plata por donde huyeſse; pareciome que ſolo me yria
+mejor, que mal acompañado, que aunque ſea verdad
+que ſolo lo conſentia, y deo comia, ya me canſava, por-
+que cada qual me acoſava. Ved la fuerça del uſo, como
+empre me criè ſugeto à baxezas, y euve acoumbra-
+do à oyr afrentas niño y moço, tambien ſe me hazian
+faciles de evar, quando era hombre. Mi muger ſe me
+fue, merced me hizo, porque fuera de la obligacion de
+conſentirla, eava libre del pecado cotidiano; yo no la
+echè, por ſu guo ſe auſentò, ſeguirla era impoſble,
+por el rieſgo que corria  à Italia bolviera. Recogime
+con mi madre, fuymos vendiendo para comer las alhajas
+que nos quedaron, mas coma nos quedaron mas dias</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1525" y="2646"/>
+	<Point x="1594" y="2630"/>
+	<Point x="1659" y="2632"/>
+	<Point x="1684" y="2637"/>
+	<Point x="1689" y="2654"/>
+	<Point x="1715" y="2717"/>
+	<Point x="1538" y="2714"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="519" y="2858"/>
+	<Point x="1309" y="2858"/>
+	<Point x="1309" y="2939"/>
+	<Point x="519" y="2939"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="287" y="105"/>
+	<Point x="287" y="195"/>
+	<Point x="429" y="195"/>
+	<Point x="429" y="105"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>346</Unicode></TextEquiv></TextRegion></Page></PcGts>

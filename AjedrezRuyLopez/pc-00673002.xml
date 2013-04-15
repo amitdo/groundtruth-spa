@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00673002">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 10.0</Creator>
+	<Created>2012-02-01T02:22:00</Created>
+	<LastChange>2012-03-01T08:29:51</LastChange></Metadata>
+	<Page imageFilename="00673002.tif" imageWidth="1932" imageHeight="2614">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r18" index="1"/>
+	<RegionRefIndexed regionRef="r8" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="drop-capital">
+	<Coords>
+	<Point x="508" y="328"/>
+	<Point x="513" y="328"/>
+	<Point x="544" y="327"/>
+	<Point x="646" y="326"/>
+	<Point x="721" y="327"/>
+	<Point x="720" y="404"/>
+	<Point x="720" y="477"/>
+	<Point x="716" y="522"/>
+	<Point x="707" y="540"/>
+	<Point x="621" y="543"/>
+	<Point x="507" y="538"/>
+	<Point x="506" y="520"/>
+	<Point x="504" y="482"/>
+	<Point x="508" y="406"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="1696" y="2211"/>
+	<Point x="1696" y="2276"/>
+	<Point x="1603" y="2276"/>
+	<Point x="1603" y="2268"/>
+	<Point x="1602" y="2268"/>
+	<Point x="1602" y="2237"/>
+	<Point x="1601" y="2237"/>
+	<Point x="1601" y="2217"/>
+	<Point x="1611" y="2217"/>
+	<Point x="1611" y="2216"/>
+	<Point x="1626" y="2216"/>
+	<Point x="1626" y="2215"/>
+	<Point x="1641" y="2215"/>
+	<Point x="1641" y="2214"/>
+	<Point x="1656" y="2214"/>
+	<Point x="1656" y="2213"/>
+	<Point x="1672" y="2213"/>
+	<Point x="1672" y="2212"/>
+	<Point x="1687" y="2212"/>
+	<Point x="1687" y="2211"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>do</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="header">
+	<Coords>
+	<Point x="1449" y="228"/>
+	<Point x="1449" y="268"/>
+	<Point x="1450" y="268"/>
+	<Point x="1450" y="315"/>
+	<Point x="728" y="315"/>
+	<Point x="728" y="312"/>
+	<Point x="740" y="312"/>
+	<Point x="740" y="228"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro dela inuencion liberal</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords>
+	<Point x="1696" y="316"/>
+	<Point x="1696" y="2209"/>
+	<Point x="1685" y="2209"/>
+	<Point x="1685" y="2210"/>
+	<Point x="1670" y="2210"/>
+	<Point x="1670" y="2211"/>
+	<Point x="1654" y="2211"/>
+	<Point x="1654" y="2212"/>
+	<Point x="1639" y="2212"/>
+	<Point x="1639" y="2213"/>
+	<Point x="1624" y="2213"/>
+	<Point x="1624" y="2214"/>
+	<Point x="1609" y="2214"/>
+	<Point x="1609" y="2215"/>
+	<Point x="1594" y="2215"/>
+	<Point x="1594" y="2216"/>
+	<Point x="1579" y="2216"/>
+	<Point x="1579" y="2218"/>
+	<Point x="1578" y="2218"/>
+	<Point x="1578" y="2221"/>
+	<Point x="1577" y="2221"/>
+	<Point x="1577" y="2224"/>
+	<Point x="1576" y="2224"/>
+	<Point x="1576" y="2227"/>
+	<Point x="1575" y="2227"/>
+	<Point x="1575" y="2230"/>
+	<Point x="1574" y="2230"/>
+	<Point x="1574" y="2233"/>
+	<Point x="1573" y="2233"/>
+	<Point x="1573" y="2235"/>
+	<Point x="1572" y="2235"/>
+	<Point x="1572" y="2236"/>
+	<Point x="1571" y="2236"/>
+	<Point x="1571" y="2237"/>
+	<Point x="1509" y="2237"/>
+	<Point x="1509" y="2238"/>
+	<Point x="1446" y="2238"/>
+	<Point x="1446" y="2239"/>
+	<Point x="1383" y="2239"/>
+	<Point x="1383" y="2240"/>
+	<Point x="1320" y="2240"/>
+	<Point x="1320" y="2241"/>
+	<Point x="1257" y="2241"/>
+	<Point x="1257" y="2242"/>
+	<Point x="1194" y="2242"/>
+	<Point x="1194" y="2243"/>
+	<Point x="486" y="2243"/>
+	<Point x="486" y="596"/>
+	<Point x="495" y="596"/>
+	<Point x="495" y="545"/>
+	<Point x="495" y="546"/>
+	<Point x="502" y="546"/>
+	<Point x="502" y="547"/>
+	<Point x="509" y="547"/>
+	<Point x="509" y="548"/>
+	<Point x="525" y="548"/>
+	<Point x="525" y="547"/>
+	<Point x="533" y="547"/>
+	<Point x="533" y="546"/>
+	<Point x="542" y="546"/>
+	<Point x="542" y="545"/>
+	<Point x="550" y="545"/>
+	<Point x="550" y="544"/>
+	<Point x="550" y="545"/>
+	<Point x="556" y="545"/>
+	<Point x="556" y="546"/>
+	<Point x="562" y="546"/>
+	<Point x="562" y="547"/>
+	<Point x="568" y="547"/>
+	<Point x="568" y="548"/>
+	<Point x="574" y="548"/>
+	<Point x="574" y="549"/>
+	<Point x="594" y="549"/>
+	<Point x="594" y="548"/>
+	<Point x="608" y="548"/>
+	<Point x="608" y="547"/>
+	<Point x="622" y="547"/>
+	<Point x="622" y="546"/>
+	<Point x="648" y="546"/>
+	<Point x="648" y="545"/>
+	<Point x="673" y="545"/>
+	<Point x="673" y="544"/>
+	<Point x="673" y="545"/>
+	<Point x="686" y="545"/>
+	<Point x="686" y="546"/>
+	<Point x="699" y="546"/>
+	<Point x="699" y="547"/>
+	<Point x="712" y="547"/>
+	<Point x="712" y="544"/>
+	<Point x="713" y="544"/>
+	<Point x="713" y="542"/>
+	<Point x="714" y="542"/>
+	<Point x="714" y="540"/>
+	<Point x="715" y="540"/>
+	<Point x="715" y="538"/>
+	<Point x="716" y="538"/>
+	<Point x="716" y="535"/>
+	<Point x="717" y="535"/>
+	<Point x="717" y="533"/>
+	<Point x="718" y="533"/>
+	<Point x="718" y="531"/>
+	<Point x="719" y="531"/>
+	<Point x="719" y="529"/>
+	<Point x="720" y="529"/>
+	<Point x="720" y="527"/>
+	<Point x="721" y="527"/>
+	<Point x="721" y="506"/>
+	<Point x="722" y="506"/>
+	<Point x="722" y="486"/>
+	<Point x="723" y="486"/>
+	<Point x="723" y="432"/>
+	<Point x="724" y="432"/>
+	<Point x="724" y="407"/>
+	<Point x="725" y="407"/>
+	<Point x="725" y="382"/>
+	<Point x="726" y="382"/>
+	<Point x="726" y="358"/>
+	<Point x="727" y="358"/>
+	<Point x="727" y="335"/>
+	<Point x="728" y="335"/>
+	<Point x="728" y="317"/>
+	<Point x="1585" y="317"/>
+	<Point x="1585" y="316"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ARA eo hemos de notar y ſaber,que
+xaque mple no es otra coſa no vn gol
+pe,ò encuentro que le da alguno de ſus
+enemigos al rey: el qual lo haze mouer del lugar
+donde ea,no tiene con  repararſe. Y por ea
+violencia,que el rey recibe con ee golpe,no tie
+ne poder para ſaltar , no como atormentado ſe
+va caſa à caſa. Y aſsi dar xaque, quiere dezir,con
+golpe y violẽcia lançar al rey dela caſa dõde ea.
+Y quando es mple puede muchas vezes tener re
+paro, que llamamos cubierta:y otras vezes no, co
+mo quando alguno ſe toma de ſobre ſalto, y deſ-
+cuydado, por donde no puede hazer defenſa.Ay
+otros xaques doblados , que llamamos xaque de
+dos: ycontra eos no ſe puede cubrir el rey,ni ha
+zer reparo,por ſer aun tiempo herido de dos ene
+migos por diuerſas partes: y aſsi le conuiene deſ-
+amparar aquel lugar, y huyr de alli : recogiendo
+ſe donde pueda ſer ſocorrido. Eos xaques ſe ha-
+zen por deſcubierta de alguna pieça,jugando de
+otra,ò de peon.De manera  el peon,o pieça que
+ſe jugare entre dando xaque,y dela que ſe deſcu-
+briere,quede el rey tambien en xaque:y ea deſ-
+cubierta ſe puede hazer cõ todas las pieças y peo-
+nes,ſegun que los juegos ſe podrã oﬀreſcer : pero
+no ſe podra dar por deſcubierta de todas, conuie
+ne aſaber,puede ſe hazer xaque de dos,deſcubriẽ</Unicode></TextEquiv></TextRegion></Page></PcGts>

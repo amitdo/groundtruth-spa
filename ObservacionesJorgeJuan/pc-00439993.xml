@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439993">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T15:21:09</Created>
+	<LastChange>2011-12-19T11:38:33</LastChange></Metadata>
+	<Page imageFilename="00439993.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="2121" y="373"/>
+	<Point x="2238" y="373"/>
+	<Point x="2238" y="438"/>
+	<Point x="2121" y="438"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>V</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="333" y="410"/>
+	<Point x="2071" y="408"/>
+	<Point x="2091" y="453"/>
+	<Point x="2326" y="453"/>
+	<Point x="2325" y="1332"/>
+	<Point x="2230" y="1341"/>
+	<Point x="619" y="1312"/>
+	<Point x="628" y="1387"/>
+	<Point x="333" y="1382"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>pues praicaron los Geometras poeriores con algunas
+correcciones, y enmiendas. Porque una de las propieda‐
+des de los Circulos de la Eſphera, cuya ﬁgura ſe ſuponìa
+tener la Tierra, es la de correſponder iguales arcos de ſu
+Circunferencia à iguales angulos, ò mutaciones del Hori‐
+zonte; con que midiendo una porcion de Circulo, y exa‐
+minando, à què angulo le correſpondía, ſe tenìa la total
+circunferencia, aumentando la cantidad medida en la miſ‐
+ma razon, que ſe haae el angulo obſervado con quatro
+reos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="319" y="1398"/>
+	<Point x="655" y="1399"/>
+	<Point x="642" y="1335"/>
+	<Point x="866" y="1353"/>
+	<Point x="2362" y="1366"/>
+	<Point x="2387" y="3357"/>
+	<Point x="2383" y="3369"/>
+	<Point x="1403" y="3371"/>
+	<Point x="1362" y="3412"/>
+	<Point x="305" y="3407"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>De ee methodo ſe valiò Eratohenes Prefeo, de la
+famoſa Bibliotheca de Alexandrìa, en tiempo de Ptolomeo
+Evergetes, ca tres Siglos antes del nacimiento del Señor,
+el qual, ſegun el elogio de Plinio, excediò à los demàs en
+todo genero de literatura, y particularmente en las Cien‐
+cias Mathematicas, que debieron ngulares deſcubrimien‐
+tos à ſu ingenio, y aplicacion. El methodo, con que hi‐
+zo Eratohenes ſu haazgo, tan altamente celebrado de
+los antiguos, nos ha quedado eſcrito en Cleomedes, y ſe
+puede vèr à la larga en los modernos, eſpecialmente en
+el Eratohenes Baavo de Sneio, y en la Geographía refor‐
+mada del P. Ricciolo; reducido à compendio es de ee mo‐
+do. Sabìa ee grande Aronomo, que Syene, Ciudad de
+Egypto àcia los conﬁnes de la Ethiopia, eaba perfea-
+mente debaxo del Tropico, y que por conguiente al
+tiempo del Solicio Eival paaba el Sol por ſu Zenith.
+Conﬁrmabaſe eo, yà por un Pozo profundo, que para
+ea Obſervacion tenìan hecho, cavado perpendicular-
+mente, el qual en el Medio dia del Solicio ſe iluminaba
+todo, herido por todos lados de los rayos del Sol haa el
+Agua; y yà porque en 150 Eadios al rededor de Syene,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="2158" y="3383"/>
+	<Point x="2273" y="3382"/>
+	<Point x="2273" y="3448"/>
+	<Point x="2160" y="3448"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="887" y="3935"/>
+	<Point x="2058" y="3935"/>
+	<Point x="2058" y="4104"/>
+	<Point x="887" y="4104"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

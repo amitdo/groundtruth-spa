@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439030">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T02:51:38</Created>
+	<LastChange>2010-12-27T11:55:36</LastChange></Metadata>
+	<Page imageFilename="00439030.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="61" y="895"/>
+	<Point x="470" y="895"/>
+	<Point x="478" y="849"/>
+	<Point x="481" y="753"/>
+	<Point x="460" y="694"/>
+	<Point x="466" y="662"/>
+	<Point x="469" y="504"/>
+	<Point x="1535" y="519"/>
+	<Point x="1521" y="2430"/>
+	<Point x="1476" y="2442"/>
+	<Point x="933" y="2502"/>
+	<Point x="52" y="2490"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ENIENDO eſcrita ea poquita hi-
+oria, para imprimirla en un ſolo vo-
+lumen, en el diſcurſo del qual queda-
+van abſueltas las dud as que agora
+(dividido) pueden ofrecerſe, me pare-
+ciò ſeria coſa jua quitar ee inconveniente, pues
+con muy poc as palabras quedarà bien claro. Para lo
+qual ſe preſupone, que Guzman de Alfarache, nue-
+ro Picaro, aviendo do muy buen eudiante, La-
+tino, Retorico, y Griego (como diremos en ea Pri-
+mera Parte) deſpues dando la buelta de Italia en
+Eſpaña, paſsò adelante con ſus eudios, con animo de
+profear el eado de la Religion, mas por bolverſe à
+los vicios, los dexò, aviendo curſado algunos años en
+eos. El miſmo eſcrive ſu vida, deſde las Galer as,
+donde queda forçado al remo, por delitos que come-
+tiò, aviendo do ladron famoſsimo, como larga-
+mente lo veràs en la Segunda Parte. Y no es impro-
+piedad, ni fuera de propoto,  en ea Primera eſcri-
+viere alguna dotrina: que antes parece muy egado
+à razon, darla un hombre de claro entendimiento,
+ayudado de letr as, y caigado del tiempo, aprove-
+chandoſe del ocioſo de la Galera: pues aun vemos à
+muchos ignorantes juiciados, que aviendo de ocu-
+parlo en ſola ſu ſalvacion, divertirſe dea, por eudiar
+un ſermoncito para en la eſcalera.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1390" y="2485"/>
+	<Point x="1492" y="2483"/>
+	<Point x="1500" y="2557"/>
+	<Point x="1385" y="2557"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Va</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="drop-capital">
+	<Coords>
+	<Point x="467" y="524"/>
+	<Point x="463" y="663"/>
+	<Point x="456" y="682"/>
+	<Point x="450" y="698"/>
+	<Point x="470" y="753"/>
+	<Point x="471" y="849"/>
+	<Point x="466" y="888"/>
+	<Point x="95" y="880"/>
+	<Point x="105" y="518"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>T</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="530" y="2857"/>
+	<Point x="1319" y="2854"/>
+	<Point x="1311" y="2946"/>
+	<Point x="535" y="2945"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="90" y="57"/>
+	<Point x="1519" y="52"/>
+	<Point x="1521" y="495"/>
+	<Point x="78" y="480"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DECLARACION
+Para el entendimiento
+dee Libro.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444208">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:11:29</Created>
+	<LastChange>2011-12-19T11:39:31</LastChange></Metadata>
+	<Page imageFilename="00444208.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="492" y="247"/>
+	<Point x="507" y="247"/>
+	<Point x="2016" y="250"/>
+	<Point x="2035" y="902"/>
+	<Point x="2011" y="2654"/>
+	<Point x="457" y="2652"/>
+	<Point x="459" y="2054"/>
+	<Point x="476" y="1021"/>
+	<Point x="495" y="480"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>del teme mas peligro, y el ſe ea ca ahogan
+do . Es vn trabajo muy grande ee, y de eos
+he paado muchos como dire adelante, que
+aunque parece no importa, por ventura hara
+prouecho entender como ſe ha de prouar el
+ſpiritu, y esgrande cierto el trabajo que ſe paſ
+ſa, y es meneer tiento, en eſpecial con muge
+res, porque es mucha nuera ﬂaqueza, y po-
+dria venir a mucho mal, diziendoles muy cla
+ro es demonio, no mirarlo muy bien y apar
+tarlas de los peligros que puede auer, y auiſar
+las en ſecreto pongan mucho, y le tengã eos,
+que conuiene, y en eo hablo como quien le
+cuea harto trabajo no lo tener algunas per-
+ſonas con quien he tratado mí oracion, no
+preguntando vnos y otros por bien me han
+hecho harto daño, que ſe han diuulgado co-
+ſas que euuieran bien ſecretas, pues no ſon
+para todos, y parecia las publicaua yo, creo n
+culpa ſuya lo ha permetido el Señor, para que
+yo padeciee. No digo que dezian lo que tra
+taua con eos en confeſsion, mas como eran
+perſonas aquien yo daua quenta por mis te-
+mores para que me dieen luz, pareciame a
+mi auian de caar. Con todo nunca oſaua ca-
+ar coſa a perſonas ſemejantes. Pues digo que
+ſe auiſe con mucha diſcrecion animandolas,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1897" y="2666"/>
+	<Point x="1983" y="2664"/>
+	<Point x="1978" y="2761"/>
+	<Point x="1904" y="2757"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="630" y="3050"/>
+	<Point x="1602" y="3059"/>
+	<Point x="1595" y="3154"/>
+	<Point x="611" y="3154"/>
+	<Point x="602" y="3054"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="523" y="142"/>
+	<Point x="726" y="138"/>
+	<Point x="735" y="226"/>
+	<Point x="519" y="223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>280</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="header">
+	<Coords>
+	<Point x="945" y="119"/>
+	<Point x="1611" y="116"/>
+	<Point x="1623" y="223"/>
+	<Point x="947" y="233"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion></Page></PcGts>

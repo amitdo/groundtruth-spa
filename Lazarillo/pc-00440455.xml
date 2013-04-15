@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440455">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T23:42:24</Created>
+	<LastChange>2011-07-05T14:26:01</LastChange></Metadata>
+	<Page imageFilename="00440455.tif" imageWidth="880" imageHeight="1599">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/>
+	<RegionRefIndexed regionRef="r10" index="1"/>
+	<RegionRefIndexed regionRef="r1" index="2"/>
+	<RegionRefIndexed regionRef="r11" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="drop-capital">
+	<Coords>
+	<Point x="20" y="540"/>
+	<Point x="276" y="540"/>
+	<Point x="276" y="807"/>
+	<Point x="20" y="807"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Y</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r7" type="stamp">
+	<Coords>
+	<Point x="715" y="290"/>
+	<Point x="879" y="290"/>
+	<Point x="879" y="567"/>
+	<Point x="802" y="567"/>
+	<Point x="715" y="497"/></Coords></GraphicRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords>
+	<Point x="81" y="241"/>
+	<Point x="81" y="316"/>
+	<Point x="707" y="316"/>
+	<Point x="707" y="241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP. PRIMERO.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r9" type="other">
+	<Coords>
+	<Point x="35" y="57"/>
+	<Point x="782" y="57"/>
+	<Point x="782" y="227"/>
+	<Point x="42" y="233"/></Coords></GraphicRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords>
+	<Point x="83" y="349"/>
+	<Point x="83" y="482"/>
+	<Point x="690" y="482"/>
+	<Point x="690" y="349"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En que Lazaro cuenta, cuyo
+hijo fue.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords>
+	<Point x="279" y="819"/>
+	<Point x="278" y="522"/>
+	<Point x="730" y="522"/>
+	<Point x="769" y="551"/>
+	<Point x="768" y="1484"/>
+	<Point x="14" y="1484"/>
+	<Point x="23" y="833"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O me amo Lazaro
+de Tormes, hijo da
+Thome Gonçalez, y
+de Antonia Perez, na-
+turales de Tejares,
+aldea de Salamanca. Mi naſci-
+miẽto fue dentro del rio Tormes:
+porlo qual tome el ſobrenombre
+de Tormes. Mi naſcimiento fue
+dea manera: Mi padre, que Dios
+perdone, tenia cargo de proueer
+vna molienda de vna hazeña que
+ea ribera de aquel rio, en la qual
+fue molinero mas de quinze años,
+eando mi madre vna noche en
+la hazeña preñada de mi, tomole</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="signature-mark">
+	<Coords>
+	<Point x="516" y="1488"/>
+	<Point x="580" y="1488"/>
+	<Point x="580" y="1540"/>
+	<Point x="516" y="1540"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="credit">
+	<Coords>
+	<Point x="288" y="1554"/>
+	<Point x="288" y="1585"/>
+	<Point x="577" y="1585"/>
+	<Point x="577" y="1554"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="page-number">
+	<Coords>
+	<Point x="720" y="12"/>
+	<Point x="720" y="49"/>
+	<Point x="756" y="49"/>
+	<Point x="756" y="12"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1</Unicode></TextEquiv></TextRegion></Page></PcGts>

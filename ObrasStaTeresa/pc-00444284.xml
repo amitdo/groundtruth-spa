@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444284">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T00:20:36</Created>
+	<LastChange>2011-12-19T11:39:36</LastChange></Metadata>
+	<Page imageFilename="00444284.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="421" y="253"/>
+	<Point x="1038" y="240"/>
+	<Point x="1968" y="250"/>
+	<Point x="2061" y="2538"/>
+	<Point x="1485" y="2659"/>
+	<Point x="1415" y="2664"/>
+	<Point x="995" y="2738"/>
+	<Point x="420" y="2663"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que ſe quite, ni ſe contenta el alma con me-
+nos que Dios, no es dolor corporal, no ſpi-
+ritual, aunque no dexa de participar el cuer-
+po algo, y aun harto. Es vn requiebro tan ſua
+ue que paa entre el alma y Dios, que ſuplico
+yo a ſu bondad lo de a guar a quien penſa-
+re que miento. Los dias que duraua eo an-
+daua como embouada, no quiera ver, ni ha-
+blar, no abraçarme con mi pena, que para
+mi era mayor gloria que quãtas ay en lo cria
+do. Eo tenia algunas vezes quando quiſo el
+Señor me vinieen eos arrobamientos tan
+grandes, que aun eando entre gentes no los
+podia reir, no con harta pena mia, ſe co-
+mençaron a publicar, deſpues que los tengo
+no ento ea pena tanto, no la que dixe en
+otra parte antes, no me acuerdo en que capi-
+tulo, que es muy diﬀerente en hartas coſas, y
+de mayor precio, antes en començando ea
+pena de que aora habIo, parece arrebata el Se
+ñor el alma, y la pone en exta, y an no ay
+lugar de tener pena ni de padeſcer, porque
+viene luego el gozar, ſea bendito por
+empre que tantas mercedes
+haze a quien tan mal reſ-
+ponde a tan grandes
+beneﬁcios.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1709" y="2661"/>
+	<Point x="1795" y="2635"/>
+	<Point x="1990" y="2640"/>
+	<Point x="1961" y="2750"/>
+	<Point x="1688" y="2759"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="580" y="3054"/>
+	<Point x="1600" y="3047"/>
+	<Point x="1569" y="3150"/>
+	<Point x="1419" y="3170"/>
+	<Point x="626" y="3150"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="871" y="102"/>
+	<Point x="1542" y="102"/>
+	<Point x="1507" y="221"/>
+	<Point x="886" y="221"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="page-number">
+	<Coords>
+	<Point x="446" y="130"/>
+	<Point x="602" y="130"/>
+	<Point x="602" y="238"/>
+	<Point x="446" y="238"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>356</Unicode></TextEquiv></TextRegion></Page></PcGts>

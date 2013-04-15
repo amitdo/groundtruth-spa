@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444429">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:39:08</Created>
+	<LastChange>2011-12-19T11:39:45</LastChange></Metadata>
+	<Page imageFilename="00444429.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="drop-capital">
+	<Coords>
+	<Point x="196" y="1048"/>
+	<Point x="480" y="1044"/>
+	<Point x="486" y="1345"/>
+	<Point x="194" y="1342"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="351" y="105"/>
+	<Point x="1485" y="114"/>
+	<Point x="1483" y="231"/>
+	<Point x="340" y="226"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="163" y="238"/>
+	<Point x="1767" y="248"/>
+	<Point x="1755" y="992"/>
+	<Point x="533" y="1007"/>
+	<Point x="183" y="1014"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP. XXXIX. Progue en la miſma
+materia de dezir las grandes mercedes que
+le ha hecho el Señor, trata de como le prome-
+tio de hazer por las perſonas que ea le pi-
+diee, dize algunas coſas ſeñaladas en
+que la ha hecho ſu Mageﬆad
+eﬆe fauor.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="487" y="1045"/>
+	<Point x="1779" y="1037"/>
+	<Point x="1748" y="2650"/>
+	<Point x="1546" y="2675"/>
+	<Point x="1514" y="2676"/>
+	<Point x="1409" y="2665"/>
+	<Point x="1182" y="2685"/>
+	<Point x="165" y="2684"/>
+	<Point x="172" y="1345"/>
+	<Point x="258" y="1345"/>
+	<Point x="490" y="1350"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Stando yo vná vez importunãdo al
+Señor mucho, porque diee via a
+vna perſona que yo tenia obliga-
+cion, que la auia del todo ca perdido, yo
+teniale gran laima, y temia por mis pec-
+cados no me auia el Señor de oyr. Apare-
+ciome coma otras vezes, y començome a mo
+rar la aga de la mano yzquierda, y con la
+otra ſacaua vn clauo grande que en ea te-
+nia metido, pareciame que a buelta del cla-
+uo ſacaua la carne, viaſe bien el gran dolor
+que me laimaua mucho, y dixome que
+quien aqueo auia paado por mi, que no du
+dae no que mejor haria lo que le pidiee,
+que el me prometia que ninguna coſa le pi-
+diee que no la hiziee, que ya ſabia el, que
+yo no pediria no conforme a ſu gloria, y
+que an haria eo que agora pedia. Que aũ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1434" y="2680"/>
+	<Point x="1536" y="2684"/>
+	<Point x="1629" y="2668"/>
+	<Point x="1712" y="2659"/>
+	<Point x="1708" y="2761"/>
+	<Point x="1430" y="2773"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>quando</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="631" y="3075"/>
+	<Point x="1568" y="3079"/>
+	<Point x="1565" y="3155"/>
+	<Point x="621" y="3157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1541" y="140"/>
+	<Point x="1541" y="238"/>
+	<Point x="1722" y="238"/>
+	<Point x="1722" y="140"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>507</Unicode></TextEquiv></TextRegion></Page></PcGts>

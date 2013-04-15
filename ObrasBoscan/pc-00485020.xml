@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485020">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T20:34:14</Created>
+	<LastChange>2011-05-12T13:40:45</LastChange></Metadata>
+	<Page imageFilename="00485020.tif" imageWidth="2040" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r21" index="0"/>
+	<RegionRefIndexed regionRef="r20" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1031" y="71"/>
+	<Point x="1444" y="68"/>
+	<Point x="1452" y="157"/>
+	<Point x="1028" y="160"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Fo. XXVI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords>
+	<Point x="245" y="1477"/>
+	<Point x="245" y="2827"/>
+	<Point x="1568" y="2827"/>
+	<Point x="1600" y="2063"/>
+	<Point x="1615" y="1476"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Alçe pues mis defenſas,
+Alçara las trie,  las tuuiera:
+Mas quando me' ntregue, entregado' aua.
+Dio me' l mal de manera,
+Que, n vna todas fueron las oﬀenſas:
+El ſeſo temia, el amor oſaua:
+La vmanidad huya, yo 'ſperaua.
+Leuantaronſe grandes los tormentos:
+Sus amenazas eran tanto fuertes,
+Que paauan mil muertes
+De miedo por mis tries ſentimientos.
+Cuytado no ſoy parte
+O dolor en dezir tus mouimientos:
+Mas prouara alomenos a contarte,
+Sino que oyo amarme en otra parte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="300" y="160"/>
+	<Point x="300" y="1445"/>
+	<Point x="902" y="1457"/>
+	<Point x="1600" y="1445"/>
+	<Point x="1594" y="181"/>
+	<Point x="760" y="163"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El mal ſe declaro,
+Señalo, y encontro, todo en vn punto:
+Mato deſpues por terminos, y largos:
+Saliome el dolor iunto:
+Dizen que' l alma del golpe cayo.
+D' aili me queda ea en muchos cargos:
+Que' n valee mil tragos pae amargos.
+El deeo de vida natural
+Me hazia mil remedios tentaos:
+Mas trie, que buſcaos,
+No era no a mal añadir mal.
+Yo viendo mas dañarme,
+Y tornarſe la cura mas mortal:
+El trabajo que vuiera en el curarme,
+Conuertile en el guo de orarme.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="credit">
+	<Coords>
+	<Point x="589" y="3010"/>
+	<Point x="594" y="3086"/>
+	<Point x="1342" y="3092"/>
+	<Point x="1431" y="3086"/>
+	<Point x="1428" y="3010"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

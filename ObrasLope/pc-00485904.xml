@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485904">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:31:51</Created>
+	<LastChange>2011-07-28T11:29:11</LastChange></Metadata>
+	<Page imageFilename="00485904.tif" imageWidth="2250" imageHeight="3124">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r2" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="321" y="1086"/>
+	<Point x="437" y="1099"/>
+	<Point x="511" y="1109"/>
+	<Point x="587" y="1105"/>
+	<Point x="604" y="1106"/>
+	<Point x="727" y="1102"/>
+	<Point x="762" y="1100"/>
+	<Point x="810" y="1105"/>
+	<Point x="1218" y="1122"/>
+	<Point x="1772" y="1104"/>
+	<Point x="1718" y="2715"/>
+	<Point x="1459" y="2750"/>
+	<Point x="1158" y="2741"/>
+	<Point x="942" y="2756"/>
+	<Point x="337" y="2743"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Oliueros. Mil vezes que guerra a hauido
+en la corte te has quedado
+ſolo haa el partir ſoldado
+con las plumas y el veido,
+que empre diſculpa dauas
+de que partir no podias
+o ear auſentes ﬁngias
+o de Paris te auſentauas:
+yo no ſe de que pretendes
+tener fama y opinion
+no de alguna inuencion,
+quando alguna ﬁea emprendes,
+vna maſcara vna traça
+de vnas calças vn bohemio,
+euar de gaardo el premio,
+en Palacio, y en la plaça
+traer muy bien pueo el cueo,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="catch-word">
+	<Coords>
+	<Point x="1586" y="2740"/>
+	<Point x="1798" y="2740"/>
+	<Point x="1803" y="2828"/>
+	<Point x="1585" y="2823"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cabeo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="357" y="124"/>
+	<Point x="339" y="1083"/>
+	<Point x="351" y="1084"/>
+	<Point x="508" y="1100"/>
+	<Point x="748" y="1094"/>
+	<Point x="1076" y="1110"/>
+	<Point x="1197" y="1111"/>
+	<Point x="1394" y="1082"/>
+	<Point x="1437" y="795"/>
+	<Point x="1390" y="201"/>
+	<Point x="1143" y="151"/>
+	<Point x="817" y="145"/>
+	<Point x="781" y="145"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>alabado, ya ſu oluido
+con mis zelos te acobarda
+no buſques vana ocaon
+de colores para dar
+mas color a tu peſar
+que tu inuidia es mi opinion,
+que yo ſoy hombre Oliueros
+mas de campo que de ſalas,
+que  ai me vio galas
+deſnudo ai los azeros.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="743" y="41"/>
+	<Point x="755" y="138"/>
+	<Point x="805" y="138"/>
+	<Point x="1150" y="146"/>
+	<Point x="1342" y="181"/>
+	<Point x="1656" y="189"/>
+	<Point x="1731" y="181"/>
+	<Point x="1737" y="54"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comedia de Lope de Vega.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r5" type="handwritten-annotation">
+	<Coords>
+	<Point x="1082" y="2764"/>
+	<Point x="1096" y="2954"/>
+	<Point x="1412" y="2930"/>
+	<Point x="1411" y="2764"/></Coords></GraphicRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="694" y="3056"/>
+	<Point x="689" y="3102"/>
+	<Point x="1062" y="3102"/>
+	<Point x="1194" y="3103"/>
+	<Point x="1319" y="3103"/>
+	<Point x="1319" y="3111"/>
+	<Point x="1332" y="3111"/>
+	<Point x="1338" y="3105"/>
+	<Point x="1438" y="3107"/>
+	<Point x="1442" y="3057"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

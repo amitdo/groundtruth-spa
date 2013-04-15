@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442620">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T10:30:12</Created>
+	<LastChange>2012-03-12T14:12:12</LastChange></Metadata>
+	<Page imageFilename="00442620.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="515" y="88"/>
+	<Point x="1141" y="95"/>
+	<Point x="1159" y="182"/>
+	<Point x="777" y="197"/>
+	<Point x="509" y="197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quarta parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="202" y="194"/>
+	<Point x="601" y="201"/>
+	<Point x="775" y="201"/>
+	<Point x="1267" y="192"/>
+	<Point x="1474" y="197"/>
+	<Point x="1480" y="2157"/>
+	<Point x="1302" y="2159"/>
+	<Point x="1217" y="2177"/>
+	<Point x="808" y="2184"/>
+	<Point x="200" y="2184"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>eà. Diſcreta ſeñora, dixo don Quixote, eo deuio
+de ſer por le erla deſpacio, y recrearſe con ea. Ade-
+lante Sancho, y en tanto que eaua en ſu meneer, 
+coloquios paò contigo? Que te preguntô de mi? Y
+tu que le reſpondie? Acaba cuentamelo todo, no
+ſe te quede en el tintero vna minima. Ea no me pre
+guntò nada, dixo Sancho, mas yo le dixe de la mane-
+ra que vuera merced por ſu ſeruicio que daua ha-
+zien do penitencia, deſnudo de la cintura arriba,me-
+tido entre eas erras, como  fuera ſaluaje, dur-
+miendo en el ſuelo, n comer pan a manteles, ni n
+peynarſe la barba, orando, y maldiziendo ſu fortu-
+na. En dezir que maldezia mi fortuna, dixie mal, di
+xo don Quixote, porque antes la bendigo, y bende-
+zire todos los dias de mi vida, por auerme hecho
+digno de merecer amar tan alta ſeñora, como Dulzi
+nea del Toboſo. Tan alta es, reſpondio Sancho, que
+a buena fe, que me eua a mi mas de vn coto. Pues
+como Sancho, dixo don Quixote, hae medido tu
+con ea? Medime en ea manera, reſpõdio Sancho,
+que egandole a ayudar a poner vn coal de trigo
+ſobre vn jumento, egamos tan juntos, que echè de
+ver, que me euaua mas de vn gran palmo. Pues es
+verdad, replicò dõ Quixote, que no acompaña ea
+grandeza, y la adorna con mil miones, y gracias
+del alma. Pero no me negarâs Sancho vna coſa, quã-
+do egae jũto a ea, no ſentie vn olor ſabeo, vna
+fragancia aromatica, y vn no ſe que de bueno, que
+yo no acierto a dae nombre? Digo vn tuho, o tufo,
+como  euuieras en la tienda de algun curioſo guã
+tero? Lo que ſe dezir, dixo Sancho, es que ſenti vn
+olorzio algo hombruno, y deuia de ſer, que ea cõ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1288" y="2165"/>
+	<Point x="1419" y="2162"/>
+	<Point x="1464" y="2163"/>
+	<Point x="1448" y="2222"/>
+	<Point x="1282" y="2232"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>el mu-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="462" y="2312"/>
+	<Point x="1119" y="2312"/>
+	<Point x="1112" y="2368"/>
+	<Point x="454" y="2369"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

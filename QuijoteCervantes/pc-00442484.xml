@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442484">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T10:06:42</Created>
+	<LastChange>2012-03-12T14:12:04</LastChange></Metadata>
+	<Page imageFilename="00442484.tif" imageWidth="1604" imageHeight="2385">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="502" y="92"/>
+	<Point x="1130" y="92"/>
+	<Point x="1130" y="208"/>
+	<Point x="776" y="214"/>
+	<Point x="502" y="208"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tercera parte de don</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="160" y="216"/>
+	<Point x="708" y="224"/>
+	<Point x="760" y="220"/>
+	<Point x="975" y="217"/>
+	<Point x="1436" y="213"/>
+	<Point x="1457" y="2178"/>
+	<Point x="1312" y="2176"/>
+	<Point x="1306" y="2195"/>
+	<Point x="156" y="2204"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>aquel genero ſe han eſcrito, o eſcriuieren. Lo que le
+ſe dezir a boace, es,  trata verdades, y que ſon ver-
+dades tan lindas, y tan donoſas, que no pueden auer
+mentiras que ſe le ygualen. Y como ſe intitula el li‐
+bro, preguntô dõ Quixote? La vida de Ginesde Paſ-
+ſamonte, reſpondio el miſmo. Y eà acabado: pre‐
+guntò don Quixote? Como puede ear acabado, reſ
+pondio el,  aun no eà acabada mi vida, lo que eà
+eſcrito, es deſde mi nacimiento, haa el punto que
+ea vltima vez me han echado en galeras. Luego
+otra vez auey eado en eas, dixo don Quixote?
+Para ſeruir a Dios y al Rey, otra vez he eado qua-
+tro años, y ya ſe a que ſabe el vizcocho, y el cor-
+bacho, reſpondio Gines: y no me peſa mucho de yr
+a eas, porque ai tendre lugar de acabar mi libro,
+que me quedan muchas coſas que dezir, y en las ga‐
+leras de Eſpaña, ay mas ſoſsiego de aquel que ſeria
+meneer, aunque no es meneer mucho mas para
+lo que yo tẽgo de eſcriuir, porque me lo ſe de coro.
+Abil pareces, dixo don Quixote? Y deſdichado, reſ-
+pondio Gines, por empre las deſdichas perguen
+al buen ingenio. Perguen a los veacos, dixo el co-
+miario. Y a le he dicho ſeñor comiario, reſpondio
+Paamonte,  ſe vaya poco a poco, que a queos ſe-
+ñores no le dieron ea vara, para que maltratae a
+los pobretes que aqui vamos, no para  nos guiae
+y euae, adonde ſu Magead manda. Sino por vida
+de, baa, que podria ſer que ſalieen algun dia en la
+colada, las manchas que ſe hizieron en la venta, y
+todo el mũdo cae, y viua biẽ, y hable mejor, y cami
+nemos,  y a es mucho regodeo ee. Alçò la vara en
+alto el comiario, para dar a Paamõte, en reſpuea</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1310" y="2191"/>
+	<Point x="1316" y="2180"/>
+	<Point x="1439" y="2187"/>
+	<Point x="1437" y="2239"/>
+	<Point x="1298" y="2241"/>
+	<Point x="1294" y="2208"/>
+	<Point x="1309" y="2200"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de ſus</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="452" y="2306"/>
+	<Point x="1120" y="2306"/>
+	<Point x="1120" y="2379"/>
+	<Point x="452" y="2379"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

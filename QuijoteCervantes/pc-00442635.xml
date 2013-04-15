@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442635">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T18:03:06</Created>
+	<LastChange>2012-03-12T14:12:12</LastChange></Metadata>
+	<Page imageFilename="00442635.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="457" y="68"/>
+	<Point x="689" y="73"/>
+	<Point x="1204" y="66"/>
+	<Point x="1192" y="156"/>
+	<Point x="814" y="155"/>
+	<Point x="547" y="176"/>
+	<Point x="441" y="162"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="173" y="143"/>
+	<Point x="525" y="177"/>
+	<Point x="546" y="180"/>
+	<Point x="795" y="161"/>
+	<Point x="1469" y="170"/>
+	<Point x="1433" y="2060"/>
+	<Point x="1396" y="2075"/>
+	<Point x="1314" y="2068"/>
+	<Point x="1097" y="2066"/>
+	<Point x="1032" y="2072"/>
+	<Point x="158" y="2123"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>plicò el ventero: mas  alguno quiere quemar ſea
+ee del gran Capitan, y dee Diego Garcia, que
+antes dexarè quemar vn hijo, que dexar quemar
+ninguno deotros. Hermano mio, dixo el cura,
+eos dos libros ſon mentiroſos, y ean enos de
+diſparates, y deuaneos. Yee del gran Capitã es hiſ-
+toria verdadera, y tiene los hechos de Gonçalo
+Hernandez de Cordoua: el qual por ſus muchas, y
+grandes hazañas, merecio ſer amado de todo el
+mundo gran Capitan, renombre famoſo, y cla-
+ro, y del ſolo merecido. Y ee Diego Garcia de Pa
+redes, fue vn principal cauaero, natural de la ciu-
+dad de Truxio, en Eremadura, valentiſsimo ſol-
+dado, y de tantas fuerças naturales, que detenia cõ
+vn dedo vna rueda de molino en la mitad de ſu fu-
+ria. Y pueo con vn montante en la entrada de vna
+puente detuuo a todo vn innumerable exercito,
+que no paae por ea. Y hizo otras tales coſas,
+que como  el las cuenta, y las eſcriue, el aſsi miſ-
+mo cõ la modeia de cauaero, y de coronia pro
+pio las eſcriuiera otro libre, y đſapaſsionado, pue
+rã en ſu oluido las de los Hetores, Aquiles, y Rolda-
+nes. Tomaos con mi padre, dixo el dicho el vente-
+ro, mirad de que ſe eſpanta de detener vna rueda
+de molino, por Dios aora: auia vuera merced de
+leer lo  leyó Felixmarte de Yrcania, que de vn re
+ues ſolo partio cinco gigãtes por la cintura, como
+ fueran hechos de hauas, como los fraylezicos
+que hazen los niños. Y otra vez arremetio con vn
+grandiſsimo, y poderoſsimo exercito donde e-
+uò mas de vn mion, y ſeyſcientos mil ſoldados,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="page-number">
+	<Coords>
+	<Point x="1282" y="82"/>
+	<Point x="1286" y="155"/>
+	<Point x="1446" y="154"/>
+	<Point x="1442" y="82"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>180</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="signature-mark">
+	<Coords>
+	<Point x="994" y="2080"/>
+	<Point x="994" y="2136"/>
+	<Point x="1100" y="2136"/>
+	<Point x="1100" y="2080"/>
+	<Point x="1080" y="2072"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Z4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1224" y="2076"/>
+	<Point x="1224" y="2152"/>
+	<Point x="1405" y="2150"/>
+	<Point x="1409" y="2084"/>
+	<Point x="1319" y="2072"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>todos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="462" y="2308"/>
+	<Point x="460" y="2352"/>
+	<Point x="1014" y="2350"/>
+	<Point x="1014" y="2358"/>
+	<Point x="1025" y="2358"/>
+	<Point x="1028" y="2350"/>
+	<Point x="1120" y="2350"/>
+	<Point x="1124" y="2308"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

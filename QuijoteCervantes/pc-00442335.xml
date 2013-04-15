@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00442335">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T22:36:59</Created>
+	<LastChange>2012-03-12T14:11:52</LastChange></Metadata>
+	<Page imageFilename="00442335.tif" imageWidth="1580" imageHeight="2369">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="catch-word">
+	<Coords>
+	<Point x="1201" y="2130"/>
+	<Point x="1280" y="2127"/>
+	<Point x="1393" y="2131"/>
+	<Point x="1414" y="2202"/>
+	<Point x="1173" y="2197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de ſu</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="442" y="2304"/>
+	<Point x="1138" y="2297"/>
+	<Point x="1125" y="2357"/>
+	<Point x="448" y="2352"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="160" y="134"/>
+	<Point x="160" y="135"/>
+	<Point x="179" y="135"/>
+	<Point x="179" y="136"/>
+	<Point x="198" y="136"/>
+	<Point x="198" y="137"/>
+	<Point x="218" y="137"/>
+	<Point x="218" y="138"/>
+	<Point x="237" y="138"/>
+	<Point x="237" y="139"/>
+	<Point x="256" y="139"/>
+	<Point x="256" y="140"/>
+	<Point x="275" y="140"/>
+	<Point x="275" y="141"/>
+	<Point x="294" y="141"/>
+	<Point x="294" y="142"/>
+	<Point x="314" y="142"/>
+	<Point x="314" y="143"/>
+	<Point x="333" y="143"/>
+	<Point x="333" y="144"/>
+	<Point x="352" y="144"/>
+	<Point x="352" y="145"/>
+	<Point x="371" y="145"/>
+	<Point x="371" y="146"/>
+	<Point x="390" y="146"/>
+	<Point x="390" y="147"/>
+	<Point x="428" y="147"/>
+	<Point x="428" y="148"/>
+	<Point x="465" y="148"/>
+	<Point x="465" y="149"/>
+	<Point x="503" y="149"/>
+	<Point x="503" y="150"/>
+	<Point x="540" y="150"/>
+	<Point x="540" y="151"/>
+	<Point x="543" y="151"/>
+	<Point x="543" y="152"/>
+	<Point x="545" y="152"/>
+	<Point x="545" y="153"/>
+	<Point x="547" y="153"/>
+	<Point x="547" y="154"/>
+	<Point x="549" y="154"/>
+	<Point x="549" y="155"/>
+	<Point x="551" y="155"/>
+	<Point x="551" y="156"/>
+	<Point x="554" y="156"/>
+	<Point x="554" y="157"/>
+	<Point x="556" y="157"/>
+	<Point x="556" y="158"/>
+	<Point x="558" y="158"/>
+	<Point x="558" y="159"/>
+	<Point x="560" y="159"/>
+	<Point x="560" y="160"/>
+	<Point x="562" y="160"/>
+	<Point x="562" y="161"/>
+	<Point x="568" y="161"/>
+	<Point x="568" y="160"/>
+	<Point x="572" y="160"/>
+	<Point x="572" y="159"/>
+	<Point x="576" y="159"/>
+	<Point x="576" y="158"/>
+	<Point x="580" y="158"/>
+	<Point x="580" y="157"/>
+	<Point x="584" y="157"/>
+	<Point x="584" y="156"/>
+	<Point x="588" y="156"/>
+	<Point x="588" y="155"/>
+	<Point x="592" y="155"/>
+	<Point x="592" y="154"/>
+	<Point x="595" y="154"/>
+	<Point x="595" y="153"/>
+	<Point x="599" y="153"/>
+	<Point x="599" y="152"/>
+	<Point x="603" y="152"/>
+	<Point x="603" y="151"/>
+	<Point x="607" y="151"/>
+	<Point x="607" y="150"/>
+	<Point x="611" y="150"/>
+	<Point x="611" y="149"/>
+	<Point x="615" y="149"/>
+	<Point x="615" y="148"/>
+	<Point x="619" y="148"/>
+	<Point x="619" y="147"/>
+	<Point x="623" y="147"/>
+	<Point x="623" y="146"/>
+	<Point x="626" y="146"/>
+	<Point x="626" y="145"/>
+	<Point x="721" y="145"/>
+	<Point x="721" y="146"/>
+	<Point x="818" y="146"/>
+	<Point x="818" y="147"/>
+	<Point x="915" y="147"/>
+	<Point x="915" y="148"/>
+	<Point x="1012" y="148"/>
+	<Point x="1012" y="149"/>
+	<Point x="1048" y="149"/>
+	<Point x="1048" y="150"/>
+	<Point x="1083" y="150"/>
+	<Point x="1083" y="151"/>
+	<Point x="1118" y="151"/>
+	<Point x="1118" y="152"/>
+	<Point x="1154" y="152"/>
+	<Point x="1154" y="153"/>
+	<Point x="1189" y="153"/>
+	<Point x="1189" y="154"/>
+	<Point x="1224" y="154"/>
+	<Point x="1224" y="155"/>
+	<Point x="1260" y="155"/>
+	<Point x="1260" y="156"/>
+	<Point x="1295" y="156"/>
+	<Point x="1295" y="157"/>
+	<Point x="1330" y="157"/>
+	<Point x="1330" y="158"/>
+	<Point x="1365" y="158"/>
+	<Point x="1365" y="159"/>
+	<Point x="1425" y="159"/>
+	<Point x="1425" y="158"/>
+	<Point x="1468" y="158"/>
+	<Point x="1468" y="740"/>
+	<Point x="1467" y="740"/>
+	<Point x="1467" y="1430"/>
+	<Point x="1466" y="1430"/>
+	<Point x="1466" y="2119"/>
+	<Point x="1425" y="2119"/>
+	<Point x="1425" y="2120"/>
+	<Point x="1385" y="2120"/>
+	<Point x="1385" y="2121"/>
+	<Point x="1353" y="2123"/>
+	<Point x="1339" y="2124"/>
+	<Point x="1304" y="2122"/>
+	<Point x="1304" y="2123"/>
+	<Point x="1264" y="2123"/>
+	<Point x="1264" y="2124"/>
+	<Point x="1224" y="2124"/>
+	<Point x="1224" y="2125"/>
+	<Point x="1183" y="2125"/>
+	<Point x="1183" y="2126"/>
+	<Point x="1143" y="2126"/>
+	<Point x="1143" y="2127"/>
+	<Point x="1103" y="2127"/>
+	<Point x="1103" y="2128"/>
+	<Point x="1062" y="2128"/>
+	<Point x="1062" y="2129"/>
+	<Point x="1022" y="2129"/>
+	<Point x="1022" y="2130"/>
+	<Point x="982" y="2130"/>
+	<Point x="982" y="2131"/>
+	<Point x="941" y="2131"/>
+	<Point x="941" y="2132"/>
+	<Point x="901" y="2132"/>
+	<Point x="901" y="2133"/>
+	<Point x="875" y="2143"/>
+	<Point x="860" y="2144"/>
+	<Point x="820" y="2134"/>
+	<Point x="820" y="2135"/>
+	<Point x="780" y="2135"/>
+	<Point x="780" y="2136"/>
+	<Point x="740" y="2136"/>
+	<Point x="740" y="2137"/>
+	<Point x="699" y="2137"/>
+	<Point x="699" y="2138"/>
+	<Point x="659" y="2138"/>
+	<Point x="659" y="2139"/>
+	<Point x="619" y="2139"/>
+	<Point x="619" y="2140"/>
+	<Point x="578" y="2140"/>
+	<Point x="578" y="2141"/>
+	<Point x="538" y="2141"/>
+	<Point x="538" y="2142"/>
+	<Point x="498" y="2142"/>
+	<Point x="498" y="2143"/>
+	<Point x="457" y="2143"/>
+	<Point x="457" y="2144"/>
+	<Point x="417" y="2144"/>
+	<Point x="417" y="2145"/>
+	<Point x="377" y="2145"/>
+	<Point x="377" y="2146"/>
+	<Point x="336" y="2146"/>
+	<Point x="336" y="2147"/>
+	<Point x="296" y="2147"/>
+	<Point x="296" y="2148"/>
+	<Point x="256" y="2148"/>
+	<Point x="256" y="2149"/>
+	<Point x="215" y="2149"/>
+	<Point x="215" y="2150"/>
+	<Point x="175" y="2150"/>
+	<Point x="175" y="2151"/>
+	<Point x="136" y="2151"/>
+	<Point x="136" y="2152"/>
+	<Point x="135" y="2152"/>
+	<Point x="135" y="2151"/>
+	<Point x="136" y="2151"/>
+	<Point x="136" y="1942"/>
+	<Point x="137" y="1942"/>
+	<Point x="137" y="1733"/>
+	<Point x="138" y="1733"/>
+	<Point x="138" y="1523"/>
+	<Point x="139" y="1523"/>
+	<Point x="139" y="1314"/>
+	<Point x="140" y="1314"/>
+	<Point x="140" y="1104"/>
+	<Point x="141" y="1104"/>
+	<Point x="141" y="895"/>
+	<Point x="142" y="895"/>
+	<Point x="142" y="685"/>
+	<Point x="143" y="685"/>
+	<Point x="143" y="476"/>
+	<Point x="144" y="476"/>
+	<Point x="144" y="266"/>
+	<Point x="145" y="266"/>
+	<Point x="145" y="134"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>braçò ſu rodela, y arremetiò al Vizcayno, con deter
+minacion de quitarle la vida. El Vizcayno que aſsi
+le vio venir, aunque quiera apearſe de la mula, que
+por ſer de las malas de alquiler, no auia que ﬁar en
+ea, no pudo hazer otra coſa, no ſacar ſu eſpada: pe
+ro auinole bien, que ſe haò junto al coche, de don-
+de pudo tomar vna almohada que le ruio de eſcu-
+do, y luego ſe fueron el vno para el otro, como  fue
+ran dos mortales enemigos. La demas gente qui-
+era ponerlos en paz, mas no pudo, porque dezia el
+Vizcayno en ſus mal trauadas razones, que no le
+dexauan acabar ſu bataa, que el miſmo auia de ma
+tar a ſu ama, y a toda la gente que ſe lo eoruae.
+La ſeñora del coche, admirada, y temeroſa delo que
+veìa, hizo al cochero que ſe deſuiae de ai algun
+poco, y deſde lexos ſe puſo a mirar la riguroſa con-
+tienda. En el diſcurſo de la qual, dio el Vizcayno
+vna gran cuchiada a don Quixote encima de vn
+ombro por encima de la rodela, que a darſela n de-
+fenſa le abriera haa la cintura. Don Quixote, que
+ntio la peſadumbre de aquel deſaforado golpe,
+dio vna gran voz, diziendo: O ſeñora de mi alma
+Dulzinea, ﬂor de la fermoſura, ſocorred a ee vueſ
+tro cauaero, que por ſatisfazer a la vuera mu-
+cha bondad en ee riguroſo trance ſe haa. El de-
+zir eo, y el apretar la eſpada, y el cubrirſe bien
+de ſu rodela, y el arremeter al Vizcayno, todo
+fue en vn tiempo, euando determinacion de auen-
+turarlo todo a la de vn gol ſolo. El Vizcayno que
+aſsi le vio venir contra el, bien entendio por ſu de-
+nuedo ſu coraje, y determinò de hazer lo meſmo
+que don Quixote: y aſsi le aguardò bien cubierto</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="1469" y="50"/>
+	<Point x="1469" y="51"/>
+	<Point x="1468" y="51"/>
+	<Point x="1468" y="156"/>
+	<Point x="1423" y="156"/>
+	<Point x="1423" y="157"/>
+	<Point x="1367" y="157"/>
+	<Point x="1367" y="156"/>
+	<Point x="1332" y="156"/>
+	<Point x="1332" y="155"/>
+	<Point x="1318" y="155"/>
+	<Point x="1318" y="125"/>
+	<Point x="1317" y="125"/>
+	<Point x="1317" y="91"/>
+	<Point x="1316" y="91"/>
+	<Point x="1316" y="57"/>
+	<Point x="1315" y="57"/>
+	<Point x="1315" y="51"/>
+	<Point x="1468" y="51"/>
+	<Point x="1468" y="50"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>30</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="header">
+	<Coords>
+	<Point x="1080" y="53"/>
+	<Point x="1080" y="73"/>
+	<Point x="1079" y="73"/>
+	<Point x="1079" y="97"/>
+	<Point x="1078" y="97"/>
+	<Point x="1078" y="122"/>
+	<Point x="1077" y="122"/>
+	<Point x="1077" y="146"/>
+	<Point x="1076" y="146"/>
+	<Point x="1076" y="148"/>
+	<Point x="1050" y="148"/>
+	<Point x="1050" y="147"/>
+	<Point x="1014" y="147"/>
+	<Point x="1014" y="146"/>
+	<Point x="917" y="146"/>
+	<Point x="917" y="145"/>
+	<Point x="820" y="145"/>
+	<Point x="820" y="144"/>
+	<Point x="723" y="144"/>
+	<Point x="723" y="143"/>
+	<Point x="624" y="143"/>
+	<Point x="624" y="144"/>
+	<Point x="621" y="144"/>
+	<Point x="621" y="145"/>
+	<Point x="617" y="145"/>
+	<Point x="617" y="146"/>
+	<Point x="613" y="146"/>
+	<Point x="613" y="147"/>
+	<Point x="609" y="147"/>
+	<Point x="609" y="148"/>
+	<Point x="605" y="148"/>
+	<Point x="605" y="149"/>
+	<Point x="601" y="149"/>
+	<Point x="601" y="150"/>
+	<Point x="597" y="150"/>
+	<Point x="597" y="151"/>
+	<Point x="593" y="151"/>
+	<Point x="593" y="152"/>
+	<Point x="590" y="152"/>
+	<Point x="590" y="153"/>
+	<Point x="586" y="153"/>
+	<Point x="586" y="154"/>
+	<Point x="582" y="154"/>
+	<Point x="582" y="155"/>
+	<Point x="578" y="155"/>
+	<Point x="578" y="156"/>
+	<Point x="574" y="156"/>
+	<Point x="574" y="157"/>
+	<Point x="570" y="157"/>
+	<Point x="570" y="158"/>
+	<Point x="566" y="158"/>
+	<Point x="566" y="159"/>
+	<Point x="564" y="159"/>
+	<Point x="564" y="158"/>
+	<Point x="562" y="158"/>
+	<Point x="562" y="157"/>
+	<Point x="560" y="157"/>
+	<Point x="560" y="156"/>
+	<Point x="558" y="156"/>
+	<Point x="558" y="155"/>
+	<Point x="556" y="155"/>
+	<Point x="556" y="154"/>
+	<Point x="553" y="154"/>
+	<Point x="553" y="153"/>
+	<Point x="551" y="153"/>
+	<Point x="551" y="152"/>
+	<Point x="549" y="152"/>
+	<Point x="549" y="151"/>
+	<Point x="547" y="151"/>
+	<Point x="547" y="150"/>
+	<Point x="545" y="150"/>
+	<Point x="545" y="149"/>
+	<Point x="542" y="149"/>
+	<Point x="542" y="148"/>
+	<Point x="505" y="148"/>
+	<Point x="505" y="147"/>
+	<Point x="494" y="147"/>
+	<Point x="494" y="120"/>
+	<Point x="495" y="120"/>
+	<Point x="495" y="90"/>
+	<Point x="496" y="90"/>
+	<Point x="496" y="60"/>
+	<Point x="497" y="60"/>
+	<Point x="497" y="56"/>
+	<Point x="524" y="56"/>
+	<Point x="524" y="55"/>
+	<Point x="713" y="55"/>
+	<Point x="713" y="54"/>
+	<Point x="902" y="54"/>
+	<Point x="902" y="53"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Quixote de la Mancha.</Unicode></TextEquiv></TextRegion></Page></PcGts>

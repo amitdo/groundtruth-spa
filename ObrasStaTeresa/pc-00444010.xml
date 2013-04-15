@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444010">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:47:25</Created>
+	<LastChange>2011-12-19T11:39:20</LastChange></Metadata>
+	<Page imageFilename="00444010.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="868" y="108"/>
+	<Point x="1515" y="110"/>
+	<Point x="1503" y="218"/>
+	<Point x="872" y="215"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="427" y="235"/>
+	<Point x="1986" y="244"/>
+	<Point x="1998" y="2633"/>
+	<Point x="1939" y="2633"/>
+	<Point x="1921" y="2622"/>
+	<Point x="1632" y="2627"/>
+	<Point x="1587" y="2650"/>
+	<Point x="418" y="2659"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>monja que era mi parienta antigua, y gran
+erua de Dios, y de mucha religion, ea tam-
+bien me auiſaua algunas vezes, y no ſolo no
+la creya, mas deſguauame con ea, y pa-
+reciame ſe eſcandalizaua n tener porque.
+He dicho eo para que ſe entienda mi mal-
+dad, y la gran bondad de Dios, y quan me-
+recido tenia el inﬁerno, por tan gran ingra-
+titud: y tambien porque  el Señor orde-
+nare y fuere ſeruido, en algun tiempo lea
+eo alguna monja eſcarmienten en mi, y
+les pido yo por amor de nuero Señor hu-
+yan de ſemejantes recreaciones, plega a ſu
+Magead ſe deſengañe alguna por mi, de
+quantas he engañado, diziendoles que no
+era malo, y aegurando tan gran peligro
+con la ceguedad que yo tenia, que de pro-
+poto no las queria yo engañar, y por el
+mal exemplo que las di como he dicho fui
+cauſa de hartos males no penſando hazia
+tanto mal. Eando yo mala en aqueos pri-
+meros dias antes que ſupiee valerme a mi,
+me daua grandiſsima deeo de aprouechar
+a los otros, tentacion muy ordinaria de los
+que comiençan, aunque a mi me ſuccedio
+bien. Como queria tanto a mi padre deſ-
+ſeauale con el bien, que yo me parece tenia,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1818" y="2645"/>
+	<Point x="1977" y="2645"/>
+	<Point x="1977" y="2713"/>
+	<Point x="1818" y="2713"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>con</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="598" y="3051"/>
+	<Point x="1594" y="3051"/>
+	<Point x="1594" y="3155"/>
+	<Point x="598" y="3155"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="447" y="119"/>
+	<Point x="447" y="198"/>
+	<Point x="567" y="198"/>
+	<Point x="567" y="119"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>82</Unicode></TextEquiv></TextRegion></Page></PcGts>

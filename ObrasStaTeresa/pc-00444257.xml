@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444257">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:17:25</Created>
+	<LastChange>2011-12-19T11:39:34</LastChange></Metadata>
+	<Page imageFilename="00444257.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="300" y="96"/>
+	<Point x="1459" y="97"/>
+	<Point x="1448" y="225"/>
+	<Point x="306" y="220"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="82" y="234"/>
+	<Point x="1793" y="238"/>
+	<Point x="1759" y="2638"/>
+	<Point x="1265" y="2635"/>
+	<Point x="1123" y="2639"/>
+	<Point x="108" y="2697"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>cer, y tã erema ſu ﬂaqueza  no parecia no
+hecho de rayzes de arboles, con toda ea ſan
+tidad era muy aﬀable, aun de pocas palabras,
+no era con preguntarle, en eas era muy ſa-
+broſo, por tenia muy lindo entendimiento.
+Otras coſas muchas quiera dezir, no  he
+miedo, dira v.m. que para  me meto en eo,
+y con el lo he eſcrito. Y an lo dexo con  fue
+ſu ﬁn como la vida, predicãdo y amoneãdo
+a ſus frayles, como vio ya ſe acabaua, dixo el
+Pſalmo de: Lætatus ſum in his quæ dia ſunt
+mihi: e hincado de rodias, murio. Deſpues
+ha do el Señor ſeruido, yo tenga mas en el, 
+en la vida, aconſejãdome en muchas coſas. He
+le vio muchas vezes con grãdiſsima gloria.
+Dixome la primera  me aparecio, que bien-
+auenturada penitẽcia  tãto premio auia me-
+recido, y otras muchas coſas, vn año antes 
+muriee me aparecio eando auſente, y ſupe
+ſe auia de morir, y ſe lo auiſe, eãdo algunas le
+guas de aqui. Quãdo eſpiro, me aparecio, y di
+xo como ſe yua a deſcãſar, yo no lo crey, dixe
+lo a algunas perſonas, y deſde a ocho dias vi-
+no la nueua como auia muerto, o començado
+a viuir para ẽpre por mejor dezir. Hela aqui
+acabada ea aſpereza de vida con tã grã glo-
+ria, pareceme que mucho mas me conſuela</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1547" y="2652"/>
+	<Point x="1704" y="2653"/>
+	<Point x="1712" y="2753"/>
+	<Point x="1550" y="2756"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="595" y="3063"/>
+	<Point x="1578" y="3066"/>
+	<Point x="1572" y="3154"/>
+	<Point x="592" y="3148"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1539" y="102"/>
+	<Point x="1537" y="225"/>
+	<Point x="1712" y="223"/>
+	<Point x="1706" y="102"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>329</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1215" y="2644"/>
+	<Point x="1219" y="2747"/>
+	<Point x="1407" y="2747"/>
+	<Point x="1411" y="2642"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>X 5</Unicode></TextEquiv></TextRegion></Page></PcGts>

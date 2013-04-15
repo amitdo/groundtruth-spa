@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444362">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T06:00:19</Created>
+	<LastChange>2011-12-19T11:39:41</LastChange></Metadata>
+	<Page imageFilename="00444362.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1840" y="2622"/>
+	<Point x="2003" y="2622"/>
+	<Point x="2003" y="2705"/>
+	<Point x="1840" y="2705"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>a al-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="602" y="3067"/>
+	<Point x="1581" y="3067"/>
+	<Point x="1581" y="3151"/>
+	<Point x="602" y="3151"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="493" y="228"/>
+	<Point x="2044" y="228"/>
+	<Point x="2038" y="2616"/>
+	<Point x="1824" y="2615"/>
+	<Point x="1748" y="2616"/>
+	<Point x="1747" y="2643"/>
+	<Point x="481" y="2644"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>chas coſas ſe la ha dado el Señor, ha procura-
+do eudiar todo lo que por eudio ha podi-
+do en ee caſo, que es bien letrado, y lo que
+no entiende por eſperiencia, informaſe de
+quien la tiene, y con eo ayudale el Señor
+con darle mucha fe, y an ha aprouechado
+mucho a  y a algunas almas, y la mia es vna
+de eas, que como el Señor ſabia en los tra-
+bajos que me auia de ver, parece proueyo ſu
+Magead que pues auia de euar congo al
+gunos que me gouernauan, quedaen otros
+que me han ayudado a hartos trabajos, y he-
+cho gran bien. Ha le mudado el Señor ca
+del todo, de manera que ca el no ſe conoce
+a manera de dezir, y dado fuerças corporales
+para penitencia, que antes no tenia no en-
+fermo, y animoſo para todo lo que es bueno,
+y otras coſas que ſe parece bien ſer muy par-
+ticular amamiento del Señor, ſea bendito
+por empre. Creo todo el bien le viene de
+las mercedes que el Señor le ha hecho en la
+oraciõ, porque no ſon poizas, porque ya en
+algunas coſas ha querido el Señor ſe aya eſpe
+rimentado, porque ſale de eas, como quien
+tiene ya conocida la verdad del merito  ſe
+gana en ſuﬀrir perſecuciones: eſpero en la
+grandeza del Señor ha de venir mucho bien</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="header">
+	<Coords>
+	<Point x="1008" y="93"/>
+	<Point x="1622" y="93"/>
+	<Point x="1622" y="195"/>
+	<Point x="1008" y="195"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="page-number">
+	<Coords>
+	<Point x="502" y="110"/>
+	<Point x="657" y="110"/>
+	<Point x="657" y="218"/>
+	<Point x="502" y="218"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>434</Unicode></TextEquiv></TextRegion></Page></PcGts>

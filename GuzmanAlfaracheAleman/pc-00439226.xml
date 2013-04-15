@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439226">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T06:46:08</Created>
+	<LastChange>2011-05-12T13:39:52</LastChange></Metadata>
+	<Page imageFilename="00439226.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r8" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="592" y="64"/>
+	<Point x="1484" y="95"/>
+	<Point x="1510" y="132"/>
+	<Point x="1484" y="168"/>
+	<Point x="566" y="176"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="496" y="256"/>
+	<Point x="526" y="228"/>
+	<Point x="1562" y="244"/>
+	<Point x="1608" y="360"/>
+	<Point x="1576" y="380"/>
+	<Point x="521" y="394"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAPITULO VIII.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="304" y="414"/>
+	<Point x="1694" y="424"/>
+	<Point x="1712" y="548"/>
+	<Point x="1694" y="711"/>
+	<Point x="884" y="728"/>
+	<Point x="442" y="724"/>
+	<Point x="324" y="711"/>
+	<Point x="300" y="716"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Dexa robado Guzman de Alfarache, à ſu tio
+y deudos, en Genova, y embarcaſe para
+Eſpaña en las galeras.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="412" y="922"/>
+	<Point x="447" y="907"/>
+	<Point x="458" y="770"/>
+	<Point x="497" y="759"/>
+	<Point x="1370" y="758"/>
+	<Point x="1691" y="770"/>
+	<Point x="1717" y="924"/>
+	<Point x="1723" y="1919"/>
+	<Point x="1714" y="2566"/>
+	<Point x="1704" y="2600"/>
+	<Point x="1492" y="2622"/>
+	<Point x="322" y="2676"/>
+	<Point x="297" y="2582"/>
+	<Point x="290" y="936"/>
+	<Point x="326" y="920"/>
+	<Point x="392" y="920"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unca deve la injuria deſpreciarſe, ni el que injuria
+dormirſe, que debaxo de la tierra ſale la vengança
+que empre aecha en lo mas eſcondido dea. De don-
+de no pienſan ſuele ſaltar la liebre. No ſe conﬁen los
+poderoſos en ſu poder, ni los valientes en ſus fuerças,
+que muda el tiempo los eados, y trueca las coſas. Una
+pequeña piedra ſuele traornar un carro grande, y
+quando al ofenſor le parezca tener mayor ſeguridad:
+entonces el ofendido haa mejor comodidad. La ven-
+gança, ya he dicho ſer cobardia, la qual nace de animo
+ﬂaco, mugeril, à quien ſolamente compete. Y pues
+ya tengo referido de algunos, y de muchos que han
+eternizado ſu nombre deſpreciandola, dirè aqui un ca-
+ſo de una muger que morò bien ſerlo. Una ſeñora,
+moça hermoſa, rica, y de noble linage: quedò viuda
+de un cavaero ygual ſuyo, de ſus miſmas calidades.
+La qual, como ntiee diſcretamente los peligros à que
+ſu poca edad la dexava diſpuea, cerca de la comun y
+general murmuracion, que cada uno juzga de las coſas
+como quiere y ſe le antoja: y endo ſolo un ao, ſue-
+len variar mil pareceres varios, y que no todas vezes
+las lenguas hablan de lo cierto, ni juzgan de la ver-
+dad, pareciendole inconveniente poner ſus prendas à
+juyzio, y ſu honor en diſputa: determinòſe al menor
+daño, que fue caſarſe. Tratavanle deo dos cavaeros
+yguales en pretender, empero deguales en merecer.
+El uno muy de ſu guo, ſegun deeava, con quien
+ya ca eava hecho, y el otro muy aborrecido y con-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="545" y="2862"/>
+	<Point x="1318" y="2858"/>
+	<Point x="1305" y="2934"/>
+	<Point x="541" y="2927"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="310" y="84"/>
+	<Point x="310" y="212"/>
+	<Point x="454" y="212"/>
+	<Point x="454" y="84"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>194</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="catch-word">
+	<Coords>
+	<Point x="1514" y="2632"/>
+	<Point x="1514" y="2680"/>
+	<Point x="1700" y="2680"/>
+	<Point x="1700" y="2632"/>
+	<Point x="1666" y="2609"/>
+	<Point x="1570" y="2622"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>trario</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="drop-capital">
+	<Coords>
+	<Point x="300" y="768"/>
+	<Point x="286" y="904"/>
+	<Point x="440" y="904"/>
+	<Point x="452" y="766"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>N</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440084">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T04:36:14</Created>
+	<LastChange>2011-12-19T11:38:40</LastChange></Metadata>
+	<Page imageFilename="00440084.tif" imageWidth="2937" imageHeight="4105">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="830" y="252"/>
+	<Point x="1820" y="264"/>
+	<Point x="1821" y="361"/>
+	<Point x="830" y="361"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HECHAS DE ORDEN DE S. M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="351" y="372"/>
+	<Point x="2327" y="369"/>
+	<Point x="2330" y="695"/>
+	<Point x="354" y="695"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>El dia 6 de Marzo de 1741 eando en Lima D. An‐
+tonio de Uoa, y yo, tomamos con nuero Quarto de cir‐
+culo las alturas, que ſe guen.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r3">
+	<Coords>
+	<Point x="580" y="730"/>
+	<Point x="2077" y="727"/>
+	<Point x="2067" y="1565"/>
+	<Point x="580" y="1565"/></Coords></TableRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="344" y="1595"/>
+	<Point x="2276" y="1582"/>
+	<Point x="2268" y="2288"/>
+	<Point x="1716" y="2302"/>
+	<Point x="1671" y="2352"/>
+	<Point x="1181" y="2355"/>
+	<Point x="1153" y="2377"/>
+	<Point x="1117" y="2377"/>
+	<Point x="1109" y="2357"/>
+	<Point x="339" y="2354"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>La primera coluna contiene las horas, minutos, y ſe‐
+gundos de la mañana, notados en el Pendulo ( que S. M.
+nos mandò tambien remitir entre los Inrumentos conſ‐
+truìdos en Parìs ), à las quales los limbos del Sol de la ſe‐
+gunda coluna obtuvieron los grados de altura de la terce‐
+ra: y la quarta coluna contiene las horas, minutos, y ſe‑
+gundos de la tarde, à las quales los miſmos limbos del Sol
+obtuvieron los miſmos grados de altura.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords>
+	<Point x="328" y="2364"/>
+	<Point x="1090" y="2366"/>
+	<Point x="1110" y="2386"/>
+	<Point x="1169" y="2385"/>
+	<Point x="1186" y="2363"/>
+	<Point x="1717" y="2360"/>
+	<Point x="1745" y="2326"/>
+	<Point x="2279" y="2319"/>
+	<Point x="2267" y="3291"/>
+	<Point x="2010" y="3293"/>
+	<Point x="2001" y="3312"/>
+	<Point x="813" y="3307"/>
+	<Point x="756" y="3340"/>
+	<Point x="344" y="3345"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Es bien ſabido, que deſde que ſale el Sol de una cier‐
+ta altura por la mañana, haa que ega al Meridiano, ſe
+paa el miſmo tiempo ( ſalvo una cierta correccion,
+que ſe explicarà deſpues ) que deſde que ſale del Meridia‐
+no, haa que obtiene la miſma altura por la tarde: luego
+en las obſervaciones antecedentes, dividiendo la diferen‐
+cia de tiempo de las horas notadas por la mañana, à las
+notadas por la tarde en dos partes iguales, y agregando la
+una mitad à las horas de la mañana, ſe obtendrà la hora,
+en que egò el centro del Sol al Meridiano, ò el punto de</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="2096" y="3301"/>
+	<Point x="2260" y="3301"/>
+	<Point x="2255" y="3396"/>
+	<Point x="2106" y="3398"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>las</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="995" y="3975"/>
+	<Point x="1965" y="3975"/>
+	<Point x="1965" y="4092"/>
+	<Point x="995" y="4092"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="page-number">
+	<Coords>
+	<Point x="2109" y="274"/>
+	<Point x="2109" y="362"/>
+	<Point x="2224" y="362"/>
+	<Point x="2224" y="274"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>67</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="signature-mark">
+	<Coords>
+	<Point x="1248" y="3319"/>
+	<Point x="1248" y="3404"/>
+	<Point x="1389" y="3404"/>
+	<Point x="1389" y="3319"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I 2</Unicode></TextEquiv></TextRegion></Page></PcGts>

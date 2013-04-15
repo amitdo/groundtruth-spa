@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439368">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T01:34:55</Created>
+	<LastChange>2011-05-12T13:40:04</LastChange></Metadata>
+	<Page imageFilename="00439368.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="604" y="94"/>
+	<Point x="1533" y="108"/>
+	<Point x="1522" y="181"/>
+	<Point x="602" y="181"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="297" y="204"/>
+	<Point x="352" y="219"/>
+	<Point x="394" y="219"/>
+	<Point x="419" y="201"/>
+	<Point x="1501" y="195"/>
+	<Point x="1583" y="204"/>
+	<Point x="1588" y="190"/>
+	<Point x="1640" y="188"/>
+	<Point x="1690" y="204"/>
+	<Point x="1720" y="493"/>
+	<Point x="1722" y="2605"/>
+	<Point x="1672" y="2601"/>
+	<Point x="1613" y="2600"/>
+	<Point x="1534" y="2600"/>
+	<Point x="1479" y="2603"/>
+	<Point x="1343" y="2662"/>
+	<Point x="652" y="2693"/>
+	<Point x="304" y="2693"/>
+	<Point x="297" y="2672"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>no ſolo avia de ſer franco de pecho, y de todo derecho:
+empero que no ſe avia de mirar al Sol, ni recebir vitas
+mas de la ſuya. Quiſo ſer tan juez de mis cofas, y apre-
+tarlas tanto que morian de hambre, y ſe yvan cada dia
+vendiendo las alhajas para ſuento. No le pareciò buena
+quenta, ni aun razonable à mi hueſpeda, ſer mucha la
+ſugecion, y poca la provion. Començò à roçarſe la
+primera, tambien falſeava la tercera, que era una ſu
+muy grande amiga, porque pensò ſacar dee mercado
+muy buenas ferias; y quando el ſeñor ntiò la mala con-
+ſonancia, pareciendole que con mi preſencia ſe reme-
+diaria todo; hizo que no ſe me dieen mas prorogacio-
+nes, y que me mandaen venir à dar quenta de lo hecho.
+Hizieronlo, y bolvì muy de mejor gana de la con que
+fuy, porque bolvì empeñado, y haè mi caſa gaada. El
+creyò que mi preſencia fuera parte para el remedio de ſu
+guo, y ſaliole al reves, porque con mi preſencia creciò
+el gao y la libertad para poderlo hazer. Haòſe rema-
+tado, n ſaber como mejor negociar, y pareciendole
+que ninguna coſa ya haria tanto al caſo como el rigor,
+para cogernos por ſeca, cruzadas las manos, y que con
+lagrimas le fueemos à pedir miſericordia: tratò con ſus
+compañeros de hazernos deerrar, y aſ nos lo notiﬁca-
+ron. Yo hize mi quenta, ee ſeñor lo pretende ſer tan-
+to que quiere que yo le ſuente la caſa, yel guo, ven-
+diendo lo que con muchas afrentas y trabajos he adqui-
+rido; pues quedar no puedo,  me falta la libertad con
+que ganarlo, menos mal ſerà obedecer, que aunque pa-
+ra noſotros es duro, para el ſerà doloroſo:  nos que-
+bramos un ojo, le ſacamos à el dos, pues le falta la quen-
+ta que hizo, y le ſale al reves el penſamiento. Demas de-
+o, al n de aquel año ſe cumplian los diez en que avian
+de pagar à mis acreedores, vinome todo à quenta. Ya yo
+ſabia ear mi madre viva, hize alquilar un coche para
+nueras perſonas, y dos carros para evar la hazienda y
+gente, dexando la Corte y corteſanos, pareciendonos de
+mas importancia los Peruleros, caadamente me vine à
+Sevia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="512" y="2844"/>
+	<Point x="1313" y="2844"/>
+	<Point x="1313" y="2940"/>
+	<Point x="512" y="2940"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="318" y="123"/>
+	<Point x="318" y="193"/>
+	<Point x="345" y="202"/>
+	<Point x="390" y="194"/>
+	<Point x="438" y="193"/>
+	<Point x="441" y="113"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>338</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1497" y="2609"/>
+	<Point x="1497" y="2684"/>
+	<Point x="1692" y="2684"/>
+	<Point x="1692" y="2609"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP.</Unicode></TextEquiv></TextRegion></Page></PcGts>

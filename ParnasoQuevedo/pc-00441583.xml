@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441583">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T22:07:00</Created>
+	<LastChange>2011-07-05T14:26:07</LastChange></Metadata>
+	<Page imageFilename="00441583.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r12" index="0"/>
+	<RegionRefIndexed regionRef="r13" index="1"/>
+	<RegionRefIndexed regionRef="r14" index="2"/>
+	<RegionRefIndexed regionRef="r15" index="3"/>
+	<RegionRefIndexed regionRef="r17" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r12" type="heading">
+	<Coords>
+	<Point x="80" y="176"/>
+	<Point x="80" y="840"/>
+	<Point x="2019" y="840"/>
+	<Point x="2023" y="166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>AL EXCELENTISSIMO SEOR;
+DON ANTONIO IVAN LVIS DE LA CERDA,
+DVQVE DE MEDINACELI,
+I DE ALCALA,
+CAPITAN GENERAL DE EL MAR OCEANO,
+I COSTAS DE LA ANDALVCIA,
+&amp;c.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="heading">
+	<Coords>
+	<Point x="80" y="854"/>
+	<Point x="83" y="945"/>
+	<Point x="2007" y="945"/>
+	<Point x="2002" y="852"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DON IVSEPE ANTONIO GONZALEZ DE SALAS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="drop-capital">
+	<Coords>
+	<Point x="88" y="1014"/>
+	<Point x="90" y="1476"/>
+	<Point x="164" y="1474"/>
+	<Point x="329" y="1481"/>
+	<Point x="588" y="1490"/>
+	<Point x="597" y="1438"/>
+	<Point x="600" y="1050"/>
+	<Point x="588" y="1014"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>L</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords>
+	<Point x="109" y="1492"/>
+	<Point x="119" y="2890"/>
+	<Point x="1030" y="2879"/>
+	<Point x="1048" y="2889"/>
+	<Point x="1066" y="2910"/>
+	<Point x="1094" y="2910"/>
+	<Point x="1143" y="2889"/>
+	<Point x="1435" y="2892"/>
+	<Point x="1451" y="2892"/>
+	<Point x="1461" y="2889"/>
+	<Point x="1479" y="2892"/>
+	<Point x="1505" y="2894"/>
+	<Point x="1633" y="2886"/>
+	<Point x="1768" y="2909"/>
+	<Point x="1808" y="2877"/>
+	<Point x="1802" y="1002"/>
+	<Point x="614" y="997"/>
+	<Point x="609" y="1504"/>
+	<Point x="304" y="1490"/>
+	<Point x="137" y="1482"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OS Antiguos Griegos, i
+Romanos, Excelentiſsimo
+Señor, dieron a las MVSAS
+en ſu PARNASSO vn Apolo, i
+deſpues vn Hercules. i en ee PARNAS-
+so ESPAñOL, parece, que ſe quiſo ſo-
+ituir el Apolo miſmo en Don Fran-
+ciſco de Quevedo Viegas; i con eſ-
+ſe intento ai le comunica ſu Lau-
+rel,  le Corone. Para el Hercules juz-
+go a V. EX. eligido, i con buenos
+reſpeos. Don Franciſco bien cũ-
+plira con ſu Predencia, a todas las
+Muſas diando Muca, que puedan
+Cantar. An de V. EX. preſumen,
+endo ia ſu HERCVLES, Beneﬁciencia,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="signature-mark">
+	<Coords>
+	<Point x="966" y="2935"/>
+	<Point x="966" y="3019"/>
+	<Point x="1142" y="3019"/>
+	<Point x="1142" y="2935"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="catch-word">
+	<Coords>
+	<Point x="1552" y="2909"/>
+	<Point x="1552" y="3023"/>
+	<Point x="1811" y="3023"/>
+	<Point x="1805" y="2927"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>i Pa-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="credit">
+	<Coords>
+	<Point x="704" y="3135"/>
+	<Point x="704" y="3200"/>
+	<Point x="1464" y="3200"/>
+	<Point x="1464" y="3135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

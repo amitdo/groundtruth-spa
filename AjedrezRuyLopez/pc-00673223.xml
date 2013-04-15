@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00673223">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 10.0</Creator>
+	<Created>2012-01-31T20:32:00</Created>
+	<LastChange>2012-03-16T06:46:08</LastChange></Metadata>
+	<Page imageFilename="00673223.tif" imageWidth="1861" imageHeight="2628">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r21" index="1"/>
+	<RegionRefIndexed regionRef="r142" index="2"/>
+	<RegionRefIndexed regionRef="r124" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="313" y="455"/>
+	<Point x="313" y="301"/>
+	<Point x="1288" y="301"/>
+	<Point x="1288" y="455"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Henrici Glareani</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords>
+	<Point x="354" y="685"/>
+	<Point x="354" y="487"/>
+	<Point x="1239" y="487"/>
+	<Point x="1239" y="685"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HELVETII, POETAE LAVREATI, DE
+Geographia liber unus,ab ipſo authore iam
+nouißimè recognitus.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r123">
+	<Coords>
+	<Point x="407" y="788"/>
+	<Point x="1085" y="788"/>
+	<Point x="1085" y="1460"/>
+	<Point x="407" y="1460"/></Coords></ImageRegion>
+	<TextRegion id="r124" type="paragraph">
+	<Coords>
+	<Point x="521" y="1901"/>
+	<Point x="521" y="1857"/>
+	<Point x="996" y="1857"/>
+	<Point x="996" y="1901"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CVM PRIVILEGIO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r142" type="paragraph">
+	<Coords>
+	<Point x="357" y="1782"/>
+	<Point x="357" y="1596"/>
+	<Point x="1164" y="1596"/>
+	<Point x="1164" y="1782"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PARISIIS
+Apud Gulielmum Cauelart,in pingui Gallina.
+M. D. L.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r7" type="stamp">
+	<Coords>
+	<Point x="1279" y="1109"/>
+	<Point x="1279" y="1427"/>
+	<Point x="1554" y="1427"/>
+	<Point x="1554" y="1109"/></Coords></GraphicRegion></Page></PcGts>

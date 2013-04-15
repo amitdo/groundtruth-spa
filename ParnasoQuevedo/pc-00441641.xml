@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441641">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T20:18:58</Created>
+	<LastChange>2011-07-05T14:26:12</LastChange></Metadata>
+	<Page imageFilename="00441641.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="208" y="995"/>
+	<Point x="1873" y="1017"/>
+	<Point x="1813" y="1173"/>
+	<Point x="234" y="1165"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CANTA POESIAS MORALES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="credit">
+	<Coords>
+	<Point x="682" y="3117"/>
+	<Point x="1482" y="3121"/>
+	<Point x="1473" y="3208"/>
+	<Point x="682" y="3214"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords>
+	<Point x="117" y="1200"/>
+	<Point x="2017" y="1238"/>
+	<Point x="2017" y="1747"/>
+	<Point x="169" y="1747"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eo es,
+QVE DESCVBREN, I MANIFIESTAN LAS
+PASSIONES, I COSTVMBRES DE EL HOMBRE,
+PROCVRANDOLAS ENMENDAR.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="473" y="560"/>
+	<Point x="1643" y="565"/>
+	<Point x="1704" y="569"/>
+	<Point x="1708" y="569"/>
+	<Point x="1608" y="945"/>
+	<Point x="1343" y="1004"/>
+	<Point x="544" y="945"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>POLYMNIA,
+MVSA II.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444021">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T21:48:39</Created>
+	<LastChange>2011-12-19T11:39:21</LastChange></Metadata>
+	<Page imageFilename="00444021.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="384" y="91"/>
+	<Point x="1568" y="93"/>
+	<Point x="1560" y="210"/>
+	<Point x="382" y="217"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="credit">
+	<Coords>
+	<Point x="575" y="3050"/>
+	<Point x="1609" y="3050"/>
+	<Point x="1609" y="3154"/>
+	<Point x="575" y="3154"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="1636" y="134"/>
+	<Point x="1636" y="231"/>
+	<Point x="1749" y="231"/>
+	<Point x="1749" y="134"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>93</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="209" y="242"/>
+	<Point x="1767" y="246"/>
+	<Point x="1780" y="2632"/>
+	<Point x="1567" y="2631"/>
+	<Point x="1546" y="2654"/>
+	<Point x="1258" y="2657"/>
+	<Point x="197" y="2652"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>importantiſsimo eo para almas que no
+ean fortalecidas en virtud, como tienen
+tantos contrarios, y amigos para incitar al
+mal, que no ſe como lo encarecer. Pareceme
+que el demonio ha vſado dee ardid, como
+coſa que muy mucho le importa, que ſe aſcõ
+dan tanto de que ſe entienda, que de veras
+quieren procurar amar, y contentar a Dios,
+como ha incitado ſe deſcubran otras volun-
+tades mal honeas, con ſer tan vſadas, que
+ya parece ſe toma por gala, y ſe publican
+las oﬀenſas que en ee caſo ſe hazen a Dios.
+No ſe  digo deſatinos,  lo ſon, vueſa mer-
+ced los rompa, y  no los ſon, le ſupplico ayu
+de a mi mpleza, con añadir aqui mucho:
+porque andan ya las coſas del ſeruicio de
+Dios tan ﬂacas, que es meneer hazerſe eſ-
+paldas vnos a otros los que le ruen, para yr
+adelante, ſegun ſe tiene por bueno andar en
+las vanidades, y contentos del mundo, y para
+eos ay pocos ojos, y  vno comiença a dar-
+ſe à Dios, ay tantos que murmuren, que es
+meneer buſcar compañia para defenderſe,
+haa que ya een fuertes en no les peſar de
+padecer, y no veranſe en mucho aprieto.
+Pareceme que por eo deuian vſar algunos
+ſantos, yrſe a los deertos, y es vn genero</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="catch-word">
+	<Coords>
+	<Point x="1626" y="2641"/>
+	<Point x="1626" y="2726"/>
+	<Point x="1746" y="2726"/>
+	<Point x="1746" y="2641"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de</Unicode></TextEquiv></TextRegion></Page></PcGts>

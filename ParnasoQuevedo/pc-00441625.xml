@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00441625">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T20:15:59</Created>
+	<LastChange>2011-07-05T14:26:10</LastChange></Metadata>
+	<Page imageFilename="00441625.tif" imageWidth="2119" imageHeight="3215">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r14" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r13" type="credit">
+	<Coords>
+	<Point x="697" y="3123"/>
+	<Point x="1483" y="3128"/>
+	<Point x="1466" y="3204"/>
+	<Point x="683" y="3197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="catch-word">
+	<Coords>
+	<Point x="1614" y="2628"/>
+	<Point x="1614" y="2792"/>
+	<Point x="1842" y="2792"/>
+	<Point x="1842" y="2628"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Deſ-</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r15" type="other">
+	<Coords>
+	<Point x="769" y="1676"/>
+	<Point x="769" y="1885"/>
+	<Point x="1052" y="1885"/>
+	<Point x="1052" y="1676"/></Coords></GraphicRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="266" y="250"/>
+	<Point x="616" y="276"/>
+	<Point x="1507" y="280"/>
+	<Point x="1485" y="1228"/>
+	<Point x="276" y="1216"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Con impetu violento,
+Beſaron vueras plantas.
+Luego entre glorias tantas
+Deſcanſaron las velas,
+I con eas deſpues ſupplen el viento,
+I ſe calçan de eſpumas por eſpuelas.
+I Tetis ſoberana,
+En cuios labios nace la mañana,
+Calan, os mira Phebo;
+Armado, os juzga Achiles;
+Gozando en el esfuerço, i el ſemblante,
+Hĳo valiente, venturoſo amante.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="page-number">
+	<Coords>
+	<Point x="1690" y="166"/>
+	<Point x="1690" y="297"/>
+	<Point x="1854" y="297"/>
+	<Point x="1854" y="166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>29</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="header">
+	<Coords>
+	<Point x="647" y="157"/>
+	<Point x="647" y="257"/>
+	<Point x="1219" y="257"/>
+	<Point x="1219" y="157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MVSA I.</Unicode></TextEquiv></TextRegion></Page></PcGts>

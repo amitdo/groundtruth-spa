@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443062">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T01:14:18</Created>
+	<LastChange>2011-03-15T16:51:35</LastChange></Metadata>
+	<Page imageFilename="00443062.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r8" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="header">
+	<Coords>
+	<Point x="676" y="84"/>
+	<Point x="676" y="218"/>
+	<Point x="1139" y="218"/>
+	<Point x="1139" y="84"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro primero.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="1526" y="115"/>
+	<Point x="1521" y="215"/>
+	<Point x="1644" y="215"/>
+	<Point x="1647" y="121"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>51</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="95" y="230"/>
+	<Point x="1635" y="240"/>
+	<Point x="1635" y="2765"/>
+	<Point x="1346" y="2780"/>
+	<Point x="1062" y="2757"/>
+	<Point x="800" y="2775"/>
+	<Point x="85" y="2770"/>
+	<Point x="95" y="235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dezir de los daños que cauſan los apetitos, no ſolo en las
+maneras dichas, no en otras muchas. Pero para lo que
+haze a nuero propoto, lo dicho baa; porque parece
+queda dado a entender, como ſe llama Noche la morti
+cacion dellos, i cuanto convenga entrar en ea Noche
+para ir a Dios. Solo lo que ſe ofrece antes que trate-
+mos del modo de entrar en ella, para concluir con ea
+parte, es una duda que podria ocurrir al Letor ſobre lo
+dicho. I es lo primero,  baa cualquier apetito para o-
+brar i cauſar en el alma los dos males, potivo i priva-
+tivo ya declarados? Lo ſegundo,  baa cualquier ape-
+tito por minimo que ſea, i de cualquier eſpecie, a cau-
+ſar todos eos cinco daños juntos? O  ſolamente cau-
+ſan unos uno, i otros otro, unos tormento, i otros
+canſancio, otros tiniebla? &amp;c. A lo cual reſpondien-
+do, digolo primero, que  hablamos del daño privati-
+vo, que es privar al alma de Dios, ſolamente los ape-
+titos voluntarios que ſon de materia de pecado mor-
+tal, pueden, i hazen eo; porque ellos privan en ea
+vida al alma de la gracia, i en la otra de la gloria, que
+es poſeer a Dios. A lo ſegundo digo, que a eos
+que ſon de materia de pecado mortal, como los volun-
+tarios de materia de pecado venial, i los que ſon de
+materia de imperfecion, cada uno dellos baa para cau
+ſar en el alma todos eos daños potivos, los cuales, aun
+ en cierta manera ſon privativos, llamamoflos aqui po
+tivos, porque reſponden a la converõ a la criatura, a
+como el privativo reſpõde a la averon de Dios. Pero
+ai ea diferencia,  los apetitos de pecado mortal cau-
+ſan total ceguera, tormento, inmundicia, i flaqueza, &amp; c.
+Mas los otros de pecado venial, o conocida imperfeciõ
+no cauſan eos males en aquel total i conſumado gra
+do, pues no privan dela gracia, con la cual privacion</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="catch-word">
+	<Coords>
+	<Point x="1483" y="2790"/>
+	<Point x="1622" y="2770"/>
+	<Point x="1627" y="2845"/>
+	<Point x="1481" y="2841"/>
+	<Point x="1482" y="2791"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>anda</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="signature-mark">
+	<Coords>
+	<Point x="1072" y="2771"/>
+	<Point x="1072" y="2838"/>
+	<Point x="1198" y="2838"/>
+	<Point x="1203" y="2792"/>
+	<Point x="1165" y="2773"/>
+	<Point x="1098" y="2768"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>D 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="credit">
+	<Coords>
+	<Point x="776" y="2927"/>
+	<Point x="776" y="2998"/>
+	<Point x="1414" y="2998"/>
+	<Point x="1414" y="2927"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion></Page></PcGts>

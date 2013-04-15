@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00443564">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-31T16:30:34</Created>
+	<LastChange>2011-02-03T05:41:00</LastChange></Metadata>
+	<Page imageFilename="00443564.tif" imageWidth="1977" imageHeight="3022">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r9" index="2"/>
+	<RegionRefIndexed regionRef="r12" index="3"/>
+	<RegionRefIndexed regionRef="r14" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="569" y="134"/>
+	<Point x="1084" y="130"/>
+	<Point x="1088" y="251"/>
+	<Point x="576" y="248"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Cancion Tercera.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="500" y="328"/>
+	<Point x="1259" y="334"/>
+	<Point x="1255" y="459"/>
+	<Point x="542" y="455"/>
+	<Point x="494" y="457"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VERSO III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords>
+	<Point x="334" y="534"/>
+	<Point x="1380" y="542"/>
+	<Point x="1386" y="671"/>
+	<Point x="321" y="680"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Las profundas cabernas del ſentido.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1446" y="2792"/>
+	<Point x="1527" y="2790"/>
+	<Point x="1609" y="2796"/>
+	<Point x="1625" y="2821"/>
+	<Point x="1619" y="2859"/>
+	<Point x="1445" y="2862"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>antes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="credit">
+	<Coords>
+	<Point x="777" y="2920"/>
+	<Point x="1424" y="2930"/>
+	<Point x="1422" y="3000"/>
+	<Point x="767" y="2991"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords>
+	<Point x="773" y="711"/>
+	<Point x="777" y="822"/>
+	<Point x="985" y="822"/>
+	<Point x="985" y="720"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>§. I.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="page-number">
+	<Coords>
+	<Point x="1469" y="146"/>
+	<Point x="1469" y="271"/>
+	<Point x="1640" y="271"/>
+	<Point x="1640" y="146"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>553</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="drop-capital">
+	<Coords>
+	<Point x="109" y="869"/>
+	<Point x="109" y="870"/>
+	<Point x="184" y="870"/>
+	<Point x="184" y="871"/>
+	<Point x="254" y="871"/>
+	<Point x="254" y="985"/>
+	<Point x="253" y="985"/>
+	<Point x="253" y="1121"/>
+	<Point x="200" y="1121"/>
+	<Point x="200" y="1120"/>
+	<Point x="146" y="1120"/>
+	<Point x="146" y="1119"/>
+	<Point x="110" y="1119"/>
+	<Point x="110" y="1043"/>
+	<Point x="109" y="1043"/>
+	<Point x="109" y="870"/>
+	<Point x="108" y="870"/>
+	<Point x="108" y="869"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords>
+	<Point x="260" y="871"/>
+	<Point x="260" y="872"/>
+	<Point x="336" y="872"/>
+	<Point x="336" y="873"/>
+	<Point x="412" y="873"/>
+	<Point x="412" y="874"/>
+	<Point x="488" y="874"/>
+	<Point x="488" y="875"/>
+	<Point x="564" y="875"/>
+	<Point x="564" y="876"/>
+	<Point x="640" y="876"/>
+	<Point x="640" y="877"/>
+	<Point x="716" y="877"/>
+	<Point x="716" y="878"/>
+	<Point x="792" y="878"/>
+	<Point x="792" y="879"/>
+	<Point x="868" y="879"/>
+	<Point x="868" y="880"/>
+	<Point x="944" y="880"/>
+	<Point x="944" y="881"/>
+	<Point x="1020" y="881"/>
+	<Point x="1020" y="882"/>
+	<Point x="1096" y="882"/>
+	<Point x="1096" y="883"/>
+	<Point x="1172" y="883"/>
+	<Point x="1172" y="884"/>
+	<Point x="1248" y="884"/>
+	<Point x="1248" y="885"/>
+	<Point x="1324" y="885"/>
+	<Point x="1324" y="886"/>
+	<Point x="1400" y="886"/>
+	<Point x="1400" y="887"/>
+	<Point x="1476" y="887"/>
+	<Point x="1476" y="888"/>
+	<Point x="1552" y="888"/>
+	<Point x="1552" y="889"/>
+	<Point x="1640" y="880"/>
+	<Point x="1628" y="2791"/>
+	<Point x="1628" y="2790"/>
+	<Point x="1454" y="2777"/>
+	<Point x="1439" y="2777"/>
+	<Point x="1425" y="2778"/>
+	<Point x="1250" y="2789"/>
+	<Point x="1250" y="2788"/>
+	<Point x="1062" y="2788"/>
+	<Point x="1062" y="2787"/>
+	<Point x="1013" y="2797"/>
+	<Point x="873" y="2787"/>
+	<Point x="873" y="2786"/>
+	<Point x="684" y="2786"/>
+	<Point x="684" y="2785"/>
+	<Point x="496" y="2785"/>
+	<Point x="496" y="2784"/>
+	<Point x="307" y="2784"/>
+	<Point x="307" y="2783"/>
+	<Point x="84" y="2798"/>
+	<Point x="98" y="2634"/>
+	<Point x="104" y="2618"/>
+	<Point x="97" y="2461"/>
+	<Point x="100" y="2438"/>
+	<Point x="108" y="2422"/>
+	<Point x="100" y="2375"/>
+	<Point x="117" y="2261"/>
+	<Point x="116" y="2261"/>
+	<Point x="96" y="2166"/>
+	<Point x="116" y="2087"/>
+	<Point x="115" y="2087"/>
+	<Point x="115" y="1913"/>
+	<Point x="114" y="1913"/>
+	<Point x="114" y="1739"/>
+	<Point x="113" y="1739"/>
+	<Point x="113" y="1565"/>
+	<Point x="112" y="1565"/>
+	<Point x="112" y="1391"/>
+	<Point x="111" y="1391"/>
+	<Point x="111" y="1217"/>
+	<Point x="110" y="1217"/>
+	<Point x="110" y="1121"/>
+	<Point x="144" y="1121"/>
+	<Point x="144" y="1122"/>
+	<Point x="198" y="1122"/>
+	<Point x="198" y="1123"/>
+	<Point x="251" y="1123"/>
+	<Point x="251" y="1124"/>
+	<Point x="254" y="1124"/>
+	<Point x="254" y="1123"/>
+	<Point x="255" y="1123"/>
+	<Point x="255" y="987"/>
+	<Point x="256" y="987"/>
+	<Point x="256" y="871"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Stas cabernas ſon las Potencias del alma, Memo-
+ria, Entendimiento, i Voluntad. Las cuales ſon tan
+profundas, cuanto de grandes bienes ſon capazes,
+pues no ſe enan menos que con lo inﬁnito, las cuales
+por lo que padecen, cuando ean vazìas, echamos en
+alguna manera de ver lo que gozan i ſe deleitan, cuan-
+do de ſu Dios ean enas; pues que por un contrario
+ſe dà luz del otro. Cuanto a lo primero es de notar, que
+eas cabernas de las Potencias, cuando no ean purga
+das i limpias de toda aﬁcion de criatura, no enten el
+vazìo grande de ſu profunda capazidad. Porque en eſ-
+ta vida cualquier coa que a eas ſe pegue, baa pa-
+ra tenerlas tan embaraçadas i embeleſadas, que no ẽ
+tan ſu daño, ni echen menos ſus inmenſos bienes, ni co
+nozcan ſu capazidad. I es coſa admirable, que con ſer
+capazes de inﬁnitos bienes, bae el menor deos a em
+baraçarlas, demanera que no los puedan perfetamen-
+te recebir, haa que de todo punto ſe vazien, como lue
+go diremos. Pero cuando ean vazìas i limpias, es into
+lerable la ſed i hãbre, i ana del ſentido eſpiritual; por-
+que como ſon profundos los eomagos deas caber-
+nas, profundamente penan, porque el manjar que echã
+menos, tambien es profundo; que como digo, es Dios.
+I ee tan grande ſentimiento, comunmẽte acaece hà-
+zia los ﬁnes de la iluminacion i puriﬁcacion del alma,</Unicode></TextEquiv></TextRegion></Page></PcGts>

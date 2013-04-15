@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00440530">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T20:49:35</Created>
+	<LastChange>2011-07-05T14:26:04</LastChange></Metadata>
+	<Page imageFilename="00440530.tif" imageWidth="876" imageHeight="1640">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="60" y="114"/>
+	<Point x="91" y="110"/>
+	<Point x="108" y="107"/>
+	<Point x="122" y="103"/>
+	<Point x="313" y="100"/>
+	<Point x="671" y="88"/>
+	<Point x="837" y="95"/>
+	<Point x="851" y="1519"/>
+	<Point x="59" y="1524"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Contemplaua yo muchas vezes
+mi deſare, que eſcapando delos
+amos ruynes, que auia tenido, y
+buſcando otro mejor, hauia topa-
+do con quien no ſolo no me man-
+tenia, mas a quien yo auia de man-
+tener. Con todo le queria biẽ, por
+veer que no tenia ni podia mas,
+y le tenia laima, y muchas vezes
+por euar ala poſada con que el lo
+paae bien, yo lo paaua mal,
+porque vna mañana leuantando-
+ſe el trie en camiſa, ſubio a lo al-
+to dela caſa a hazer ſus menee-
+res, y en tanto yo por ſalir de
+ſoſpecha, le eſcudriñe el jubon, y
+las calças, que en la cabecera de-
+xo, y hae vna bola de tercio-
+pelo raſo, con cien dobles, y n
+maldita la blanca, ni ſeñal que la
+vuiee tenido mucho tiempo ha-
+uia. Ee (dezia yo) es pobre, y
+nadie da lo que no tiene, mas el
+auariento ciego, y el malauentu-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="287" y="1573"/>
+	<Point x="571" y="1579"/>
+	<Point x="571" y="1620"/>
+	<Point x="277" y="1611"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords>
+	<Point x="339" y="37"/>
+	<Point x="601" y="36"/>
+	<Point x="600" y="82"/>
+	<Point x="328" y="90"/>
+	<Point x="328" y="49"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords>
+	<Point x="74" y="56"/>
+	<Point x="154" y="48"/>
+	<Point x="155" y="79"/>
+	<Point x="148" y="92"/>
+	<Point x="98" y="102"/>
+	<Point x="85" y="108"/>
+	<Point x="74" y="58"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>76</Unicode></TextEquiv></TextRegion></Page></PcGts>

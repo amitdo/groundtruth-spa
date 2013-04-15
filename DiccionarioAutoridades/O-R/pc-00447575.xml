@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00447575">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T15:36:24</Created>
+	<LastChange>2011-07-28T11:27:19</LastChange></Metadata>
+	<Page imageFilename="00447575.tif" imageWidth="2787" imageHeight="4168">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r34" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r33" type="credit">
+	<Coords>
+	<Point x="935" y="3967"/>
+	<Point x="1830" y="3967"/>
+	<Point x="1830" y="4082"/>
+	<Point x="935" y="4082"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="505" y="205"/>
+	<Point x="2607" y="205"/>
+	<Point x="2607" y="2177"/>
+	<Point x="505" y="2177"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ULLOA, Poeſ. Don Luis de Uóa: Poeſías.
+VALDEC. de Av. Fr. Andres Ferrér de Valdecebro: Tratádo de Aves.
+VALDIV. Romanc. Maero Joſeph de Valdivieo: Romancéro Eſpirituál.
+VALDIV. Sagr. Maero Joſeph de Valdivieo: Poéma de Nuera Señorá del
+###Sagrario.
+VALDIV. S. Joſeph. Maero Joſeph de Valdivieo: Vida de S. Joſeph.
+VALER. Chron. Moſén Diego Valéra: Chrónica de Eſpaña.
+VALER. DE LAS HIST. Valerio de las Hiórias.
+VALL. Cetr. Moſén Juan Vaes: Tratádo de Cetrería y Montería.
+VALVERD. Anat. Juan de Valverde y Amuſco: Anatomía.
+VALVERD. Copacav. Fr. Fernando de Valverde: Poéma de Nuera Señora de Copaca-
+###vána.
+VALVERD. Vid. de Chri. Fr. Fernando de Valverde: Vida de Chrio.
+VELEZ DE GUEV. Com. Luis Velez de Guevára: Sus Comedias.
+VELEZ DE GUEV. Diab. coxuel. Luis velez de Guevára: El Diablo coxuélo.
+VENEG. Agon. Alexo Venégas: Agonia de la muerte.
+VENEG. Difer. Alexo Venégas: Diferencia de libros.
+VILLAIZ. Chron. Juan Nuñez de Viaizán: Sus Chrónicas.
+VILLALOB. Com. de Amphitr. Do. Franciſco de Vialobos: Traduccion de la Comedia de
+###Amphitrión.
+VILLALOB. Probl. Do. Franciſco de Vialobos: Problemas y otras obras.
+VILLAM. El Conde de Viamediana: Obras Poéticas.
+VILLAV. Moſch. Don Joſeph de Viavicioſa: La Moſchéa.
+VILLEG. Erot. Don Eeban Manuel de Viéna: Las Eróticas.
+VILLEN. Trab. Don Henrique de Viéna: Trabájos de Hércules.
+Vocab. marit de Sev. El Vocabulario Maritimo de Sevia.
+YEP. Chron. Fr. Antonio de Yepes: Chronica de San Benito.
+YEP. Vid. de Sant. Ter. Fr. Diego de Yepes: Vida de Santa Teréſa.
+ZABAL. Dia de ﬁe. Don Juan de Zabaléta: El dia de ﬁea.
+ZABAL. Err. celebr. Don Juan de Zabaléta: Erróres celebrados.
+ZAMOR. Com. Don Antonio de Zamóra: Sus Comedias.
+ZARAG. Geom. Padre Joſeph de Zaragoza: Geometria.
+ZARAG. Inrum. Padre Joſeph de Zaragoza: Inrumentos mathemáticos.
+ZUñIG. Annal. Don Diego Ortíz de Zúñiga: Annáles de Sevia.
+ZUñIG. Cetr. Don Fadrique de Zúñiga Sotomayór: Tratádo de Cetretía.
+ZURIT. Annal. Gerónymo de Zuríta: Annáles de Aragón.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="catch-word">
+	<Coords>
+	<Point x="2386" y="3586"/>
+	<Point x="2617" y="3586"/>
+	<Point x="2617" y="3769"/>
+	<Point x="2386" y="3769"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>O.</Unicode></TextEquiv></TextRegion></Page></PcGts>

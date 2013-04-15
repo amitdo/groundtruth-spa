@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444389">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T17:03:50</Created>
+	<LastChange>2011-12-19T11:39:42</LastChange></Metadata>
+	<Page imageFilename="00444389.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="265" y="97"/>
+	<Point x="1479" y="102"/>
+	<Point x="1465" y="227"/>
+	<Point x="259" y="227"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="89" y="230"/>
+	<Point x="521" y="231"/>
+	<Point x="1354" y="233"/>
+	<Point x="1703" y="255"/>
+	<Point x="1692" y="2643"/>
+	<Point x="1506" y="2641"/>
+	<Point x="1464" y="2668"/>
+	<Point x="77" y="2705"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>neceſsitada, porque me traya molida tanto
+andar con gente. Como egue y di mi deſ-
+quento a la perlada applacoſe algo, y todas em
+biaron al prouincial, y quedoſe la cauſa para
+delante del, y venido fuy a juyzio con harto
+gran contento de ver que padecia algo por
+el Señor, porque contra ſu magead, ni la or-
+den no haaua auer oﬀendido nada en ee
+caſo, antes procuraua aumentarla con todas
+mis fuerças, y muriera de buena gana por
+eo, que todo mi deeo era ſe cumpliee con
+toda perfecion. Acordeme del juyzio de Chri
+o, y vi quan nonada era aquel, hize mi cul-
+pa, como muy culpada, y an lo parecia a
+quien no ſabia todas las cauſas: deſpues de
+auerme hecho vna grande reprehenon, aun-
+que no con tanto rigor como merecia el deli-
+o, y lo que muchos deziã al prouincial, yo
+no quiera diſculparme porque yua determi
+nada a eo, antes pedi me perdonae, y cai-
+gae, y no euuiee deabrido conmigo. En
+algunas coſas bien via yo me condenauan
+n culpa, porque me dezian lo auia hecho
+porque me tuuieen en algo, y por ſer nom-
+brada, y otras ſemejantes: mas en otras claro
+entendia que dezian verdad, en que era yo
+mas ruyn que otras, y que pues no auia guar-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="607" y="3056"/>
+	<Point x="1578" y="3056"/>
+	<Point x="1582" y="3156"/>
+	<Point x="604" y="3149"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="page-number">
+	<Coords>
+	<Point x="1493" y="126"/>
+	<Point x="1672" y="116"/>
+	<Point x="1682" y="223"/>
+	<Point x="1564" y="238"/>
+	<Point x="1486" y="236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>461</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="catch-word">
+	<Coords>
+	<Point x="1465" y="2669"/>
+	<Point x="1454" y="2696"/>
+	<Point x="1453" y="2734"/>
+	<Point x="1663" y="2743"/>
+	<Point x="1660" y="2644"/>
+	<Point x="1595" y="2644"/>
+	<Point x="1506" y="2642"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>dado</Unicode></TextEquiv></TextRegion></Page></PcGts>

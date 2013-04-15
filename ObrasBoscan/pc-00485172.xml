@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00485172">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T07:51:21</Created>
+	<LastChange>2011-05-12T13:41:00</LastChange></Metadata>
+	<Page imageFilename="00485172.tif" imageWidth="2045" imageHeight="3097">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r8" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r9" type="credit">
+	<Coords>
+	<Point x="530" y="2982"/>
+	<Point x="1462" y="2982"/>
+	<Point x="1462" y="3096"/>
+	<Point x="530" y="3096"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords>
+	<Point x="456" y="169"/>
+	<Point x="760" y="180"/>
+	<Point x="1691" y="186"/>
+	<Point x="1713" y="2782"/>
+	<Point x="1713" y="2808"/>
+	<Point x="1660" y="2804"/>
+	<Point x="1569" y="2800"/>
+	<Point x="386" y="2808"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mi razon no terna toda ſu fuerça
+Que, o ſeran mis palabras ſoſpechoſas,
+Quando con mas heruor yo las dixiere.
+O ſeran ﬂacas,  con ee miedo
+El amor paternal queda oprimido.
+Mas como quiera en ﬁn, que'o ſuceda:
+E de dezir mi voto en ea cauſa,
+Viendo, que la razon ea tan clara.
+Y  por caſo, me'ngañare en algo,
+Con cauſa natural, ſera el engaño,
+Engañandome en eo como padre.
+Pero viniendo al punto del negocio,
+Dexando los preambulos a parte:
+Digo, que aqui, no hao yo diſputa
+Ni hao, no vn ceſo miſerable,
+Y vn laimoſo genero de vida:
+Que paa por Proteo, como emos vio.
+El ea aqui, ſus agas deſcubriendo,
+Sumiſma deſuentura por el habla:
+No demandaiuicia, contra nadie,
+Nirequiere vengança de ninguno:
+Solopara ſu mal pide remedio,
+Y aun no pide remedio, ſolo muera,
+La gran cauſa que tiene, de pedie.
+Si s'a de dar, o no, padre Neptuno,
+Tu lo as morado ya con tus palabras:
+Y as dado la ſentencia de tu boca.
+A noſotros agora, no nos queda
+Sino alabar, lo que hazes por noſotros:
+Haziendo por Proteo, lo que'l te pide.
+Lo demas que a de ſer, dar nuero voto</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r19" type="other">
+	<Coords>
+	<Point x="1239" y="90"/>
+	<Point x="1405" y="90"/>
+	<Point x="1405" y="172"/>
+	<Point x="1239" y="172"/></Coords></GraphicRegion>
+	<TextRegion id="r13" type="header">
+	<Coords>
+	<Point x="783" y="84"/>
+	<Point x="1228" y="84"/>
+	<Point x="1228" y="171"/>
+	<Point x="783" y="171"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>☞ LIBRO.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00439035">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-10-30T10:22:13</Created>
+	<LastChange>2011-02-03T08:30:49</LastChange></Metadata>
+	<Page imageFilename="00439035.tif" imageWidth="1736" imageHeight="2947">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="490" y="90"/>
+	<Point x="1426" y="88"/>
+	<Point x="1421" y="164"/>
+	<Point x="478" y="180"/>
+	<Point x="480" y="135"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GUZMAN DE ALFARACHE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="271" y="192"/>
+	<Point x="1688" y="178"/>
+	<Point x="1711" y="2266"/>
+	<Point x="424" y="2279"/>
+	<Point x="366" y="2294"/>
+	<Point x="256" y="2293"/>
+	<Point x="250" y="2270"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>otro con la ſuya, y con la liberalidad franca de la paga,
+que pidio por ea vn exceſuo precio. El cauaero ab-
+ſorto de auerle pedido tanto, y que apenas pudiera pa-
+garle, dixo: Vos, hermano, porque no conderays lo que
+me coò aquee otro lienço, à quien el vuero no ſe
+auentaja? En lo que es el cauao (reſpondio el pintor)
+vueſa merced tiene razon: pero arbol y ruynas ay en el
+mio, que valen tanto como el principal de ee otro. El
+cauaero replicò: No me conuenia, ni era neceario e-
+uar à mi tierra tanta balumba de arboles, y carga de edi-
+ﬁcios, que aà tenemos muchos y muy buenos. Demas
+que no les tengo la aﬁcion que à los cauaos, y lo que
+de otro modo que por pintura no puedo gozar, eo
+huelgo de euar. Boluio el pintor à dezir: En lienço
+tan grande, pareciera muy mal vn ſolo cauao: y es im-
+portante, y aun forçoſo para la via y ornato, compo-
+ner la pintura de otras coſas diferentes que la caliﬁquen
+y den lure: de tal manera, que pareciendo aſ mejor,
+es muy juo euar con el cauao ſus guarniciones y
+a: eſpecialmente eando con tal perfeccion obrado,
+que  de oro me dieen otras tales, no las tomarè por las
+pintadas. El cauaero, que ya tenia lo importante à ſu
+deeo, (pareciendole lo demas impertinente, aunque
+en ſu tanto muy bueno) y no haandoſe tan ſobrado que
+lo pudiera pagar, con diſcrecion le dixo: Yo os pedì vn
+cauao ſolo, y tal como por bueno os lo pagarè,  me lo
+quereys vender: los jaezes quedaos con eos, ò dadlos à
+otro, que no los he meneer. El pintor quedò corrido,
+y n paga, por ſu obra añadida, y auerſe alargado à la
+eieccion de ſu aluedrio, creyendo que por mas compo-
+cion, le fuera mas bien premiado, y gratiﬁcado ſu tra-
+bajo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="250" y="2297"/>
+	<Point x="364" y="2300"/>
+	<Point x="396" y="2289"/>
+	<Point x="420" y="2286"/>
+	<Point x="1709" y="2278"/>
+	<Point x="1709" y="2290"/>
+	<Point x="1723" y="2623"/>
+	<Point x="261" y="2640"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Comun y general coumbre ha do, y es de los
+hombres, quando les pedis reciten ò reﬁeran lo que oye-
+ron ò vieron, ò que os digan la verdad y ſuancia de vna
+coſa, en maſcarala, y afeytarla, que ſe deſconoce como
+el roro de la fea. Cada vno le dà ſus matizes y ſentidos,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1601" y="2630"/>
+	<Point x="1685" y="2627"/>
+	<Point x="1695" y="2684"/>
+	<Point x="1612" y="2688"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ya</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="548" y="2870"/>
+	<Point x="1300" y="2872"/>
+	<Point x="1308" y="2937"/>
+	<Point x="540" y="2934"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords>
+	<Point x="282" y="117"/>
+	<Point x="282" y="185"/>
+	<Point x="360" y="185"/>
+	<Point x="360" y="117"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>4</Unicode></TextEquiv></TextRegion></Page></PcGts>

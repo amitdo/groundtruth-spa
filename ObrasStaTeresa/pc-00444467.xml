@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444467">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-01T22:43:59</Created>
+	<LastChange>2011-12-19T11:39:47</LastChange></Metadata>
+	<Page imageFilename="00444467.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="353" y="118"/>
+	<Point x="1504" y="118"/>
+	<Point x="1504" y="234"/>
+	<Point x="353" y="234"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="191" y="245"/>
+	<Point x="1764" y="255"/>
+	<Point x="1788" y="1309"/>
+	<Point x="201" y="1317"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode> cierto que ſeria como hora y media,
+poco menos el tiempo que euue reco-
+gida. En el me dixo las palabras dichas,
+y todo lo demas, ni yo me diuertia, ni
+ſe adonde eaua, y con tan gran con-
+tento que no ſe dezirlo, y quedome bue-
+na la cabeça que me ha eſpantado, y
+harto deeo de padecer. Tambien me di-
+xo que traxee mucho en la memoria las
+palabras que dixo a ſus Apooles, que
+no auia de ſer mas el eruo que el Se-
+ñor.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords>
+	<Point x="192" y="1325"/>
+	<Point x="1781" y="1318"/>
+	<Point x="1782" y="2664"/>
+	<Point x="1615" y="2647"/>
+	<Point x="1610" y="2646"/>
+	<Point x="1595" y="2658"/>
+	<Point x="1592" y="2660"/>
+	<Point x="1572" y="2675"/>
+	<Point x="1517" y="2673"/>
+	<Point x="1500" y="2675"/>
+	<Point x="1467" y="2671"/>
+	<Point x="1452" y="2666"/>
+	<Point x="1430" y="2662"/>
+	<Point x="1381" y="2659"/>
+	<Point x="1286" y="2652"/>
+	<Point x="1179" y="2650"/>
+	<Point x="184" y="2686"/>
+	<Point x="190" y="1980"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vn dia de ramos acabado de comulgar,
+quede con gran ſuſpenon, de manera
+que aun no podia paar la forma, y te-
+niendomela en la boca, verdaderamen-
+te me parecio quando torne vn poco en
+mi, que toda la boca ſe me auia hinchido
+de ſangre, y pareciame ear tambien el
+roro, y toda yo cubierta dea, como
+que entonces acabara de derramarla el Se-
+ñor me parece eaua caliente, y era ex-
+ceſsiua la fuauidad que entonces ſentia,
+y dixome el Señor• Hija yo quiero que
+mi ſangre te aproueche, y no ayas mie-
+do que te falte mi miſericordia, yo la
+derrame con muchos dolores, y gozas</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="catch-word">
+	<Coords>
+	<Point x="1584" y="2671"/>
+	<Point x="1610" y="2650"/>
+	<Point x="1758" y="2671"/>
+	<Point x="1754" y="2744"/>
+	<Point x="1577" y="2742"/>
+	<Point x="1578" y="2729"/>
+	<Point x="1580" y="2713"/>
+	<Point x="1581" y="2709"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>la tu</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="603" y="3019"/>
+	<Point x="1612" y="3019"/>
+	<Point x="1612" y="3170"/>
+	<Point x="603" y="3170"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="signature-mark">
+	<Coords>
+	<Point x="1176" y="2659"/>
+	<Point x="1176" y="2748"/>
+	<Point x="1426" y="2744"/>
+	<Point x="1423" y="2668"/>
+	<Point x="1260" y="2658"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mm 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="1591" y="151"/>
+	<Point x="1752" y="153"/>
+	<Point x="1751" y="241"/>
+	<Point x="1591" y="239"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>547</Unicode></TextEquiv></TextRegion></Page></PcGts>

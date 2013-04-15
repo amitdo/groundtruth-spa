@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444022">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-02T19:18:45</Created>
+	<LastChange>2011-12-19T11:39:21</LastChange></Metadata>
+	<Page imageFilename="00444022.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r12" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="421" y="238"/>
+	<Point x="2009" y="238"/>
+	<Point x="2009" y="2414"/>
+	<Point x="421" y="2414"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de humildad no ﬁar de , no creer que
+para aqueos con quien conuerſa le ayuda‐
+ra Dios, y creſce la charidad con ſer com-
+municada, y ay mil bienes que no los oſa‐
+ria dezir,  no tuuiee gran eſperiencia de
+lo mucho que va eneo. Verdad es que yo
+ſoy mas ﬂaca y ruyn que todos los naſcidos,
+mas creo no perdera quien humiandoſe,
+aunque ſea fuerte, no lo crea de , y cre‐
+yere en eo a quien tiene eſperiencia. De
+mi ſe dezir que  el Señor no me deſcu‐
+briera ea verdad, y diera medios, para
+que yo muy ordinario tratara con perſonas
+que tienen oracion, que cayendo y Ieuan-
+tando yua a dar de ojos en el inﬁerno, por‐
+que para caer auia muchos amigos que me
+ayudaen, para leuantarme haauame tan
+ſola, que aora me eſpanto como no me
+eaua empre cayda, y alabo la miſeri‐
+cordia de Dios, que era ſolo el que
+me daua la mano, ſea bendito
+para empre jamas.
+Amen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords>
+	<Point x="617" y="3065"/>
+	<Point x="1570" y="3065"/>
+	<Point x="1570" y="3157"/>
+	<Point x="617" y="3157"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="header">
+	<Coords>
+	<Point x="1538" y="107"/>
+	<Point x="1538" y="225"/>
+	<Point x="886" y="225"/>
+	<Point x="886" y="107"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>LA VIDA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="page-number">
+	<Coords>
+	<Point x="409" y="107"/>
+	<Point x="570" y="107"/>
+	<Point x="570" y="225"/>
+	<Point x="449" y="233"/>
+	<Point x="409" y="225"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>94</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="catch-word">
+	<Coords>
+	<Point x="1725" y="2450"/>
+	<Point x="1725" y="2617"/>
+	<Point x="2042" y="2617"/>
+	<Point x="2042" y="2450"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>CAP.</Unicode></TextEquiv></TextRegion></Page></PcGts>

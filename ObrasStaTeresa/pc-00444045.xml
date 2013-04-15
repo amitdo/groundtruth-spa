@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00444045">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-11-03T00:51:38</Created>
+	<LastChange>2011-12-19T11:39:22</LastChange></Metadata>
+	<Page imageFilename="00444045.tif" imageWidth="2179" imageHeight="3171">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r9" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r5" type="credit">
+	<Coords>
+	<Point x="612" y="3058"/>
+	<Point x="1592" y="3058"/>
+	<Point x="1592" y="3153"/>
+	<Point x="612" y="3153"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>© Biblioteca Nacional de España</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="header">
+	<Coords>
+	<Point x="335" y="87"/>
+	<Point x="335" y="207"/>
+	<Point x="1541" y="207"/>
+	<Point x="1541" y="87"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DE LA M. TERESA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="page-number">
+	<Coords>
+	<Point x="1575" y="112"/>
+	<Point x="1575" y="219"/>
+	<Point x="1741" y="219"/>
+	<Point x="1741" y="112"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>117</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords>
+	<Point x="212" y="232"/>
+	<Point x="1808" y="232"/>
+	<Point x="1808" y="2649"/>
+	<Point x="1555" y="2646"/>
+	<Point x="1499" y="2628"/>
+	<Point x="776" y="2623"/>
+	<Point x="769" y="2649"/>
+	<Point x="212" y="2649"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Porque con eos dones, es adonde el Señor
+nos da la fortaleza que por nueros pecca-
+dos noſotros perdimos: y mal deeara ſe deſcõ
+tenten todos del y le aborrezcan y todas las
+de mas virtudes grandes que tienen los per-
+fetos  no tiene alguna prẽda delamor que
+Dios le tiene, y juntamente fe viua. Porque es
+tan muerto nuero natural que nos vamos
+a lo que preſente vemos, y an eos mis‐
+mos fauores ſon los que deſpiertan la fe
+y la fortalecen. Ya puede ſer que yo co‐
+mo ſoy tan ruyn iuzgo por mi, que otros
+aura que no ayan meneer mas de la verdad
+de la fe para hazer obras muy perfetas, que
+yo como miſerable todo le he auido mene‐
+er. Eo eos lo diran, yo digo lo que ha
+paado por mi como me lo mandan, y no
+fuere bien romperalo aquien lo embio, que
+ſabra mejor entender lo que va mal que yo.
+A quien ſuplico por amor de el Señor, lo que
+he dicho haa qui de mi ruyn vida y pecca-
+dos lo publiquen, deſde aora doy licencia, y a
+todos mis confeores, que aſsi lo es a quien
+eo va, y  quieren luego en mi vida, por‐
+que no engañe mas al mundo, que pienſan
+ay en mi algun bien, y cierto cierto con ver‐
+dad digo a lo que aora entiendo de mi, que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="signature-mark">
+	<Coords>
+	<Point x="1250" y="2633"/>
+	<Point x="1250" y="2742"/>
+	<Point x="1442" y="2742"/>
+	<Point x="1442" y="2633"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>H 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="catch-word">
+	<Coords>
+	<Point x="1591" y="2655"/>
+	<Point x="1591" y="2739"/>
+	<Point x="1775" y="2739"/>
+	<Point x="1775" y="2655"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>me</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00673138">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 10.0</Creator>
+	<Created>2012-02-01T21:27:00</Created>
+	<LastChange>2012-03-03T01:04:09</LastChange></Metadata>
+	<Page imageFilename="00673138.tif" imageWidth="1948" imageHeight="2621">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords>
+	<Point x="495" y="2243"/>
+	<Point x="505" y="313"/>
+	<Point x="1136" y="311"/>
+	<Point x="1700" y="331"/>
+	<Point x="1696" y="2228"/>
+	<Point x="1523" y="2241"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>põgo:y por cada vna ordenaremos juego: y en ca
+da vna demoraremos los daños y prouechos 
+de cada vna ſe pueda ſeguir alos jugadores: y ma-
+nifearemos qual ſea la mejor y mas ſegura ma-
+nera de guardarlo,a para los buenos jugadores
+como para los que ſabẽ poco. Digo que ſe puede
+guardar en cinco maneras, cõuiene a ſaber la pri
+mera con el cau. dela dama ala.3.de ſu arf. la qual
+Damiãtiene por mejor manera de guardarlo: por
+ no alcãço los incõuinientes y daños  dea ma
+nera ſe podiã recreſcer ſabiẽdo el cõtrario jug. no
+como Damiã lo muera, ſegũ  veremos enel or
+denar delos juegos. La.2. es cõ el peon dela dama
+vna caſa, y ea no tiene Damiã por tãto buena co
+mo en ſu lugar diremos.La.3.es cõ el peõ del arﬁl
+dela dama, y ea tiene por muy peor : porque de
+aquea cõpuſo cõtra el cõtrario el juego de ſu gã
+bito. Pero  otro lo jug.no ſe ordenara, a como
+en ſu lugar diremos.La.4.es cõ la dama ala. 2. de
+ſu rey.La.5.es cõ el arf.del rey ala.3.de ſu dama, di
+chas a en general tornemos à traar dellas en
+particular como hemos prometido : a  la pri-
+mera ſea cõ el cau. dela dama ala. 3. de ſu arf. Si el
+bl.jug.el arf.del reyala.4.del arf. de ſu dama:el ne
+gro jug.ſemejãtemẽte el arf.de ſu rey ala.4. del ar
+l de ſu dama. Si el bl.jug.el peõ del arf. de ſu da-
+ma vna caſa: el neg. no jug.el caua.de ſu rey ala. 3.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords>
+	<Point x="745" y="235"/>
+	<Point x="745" y="305"/>
+	<Point x="1461" y="305"/>
+	<Point x="1461" y="235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Libro dela inuencion liberal</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="catch-word">
+	<Coords>
+	<Point x="1626" y="2236"/>
+	<Point x="1616" y="2296"/>
+	<Point x="1683" y="2300"/>
+	<Point x="1683" y="2236"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>de</Unicode></TextEquiv></TextRegion></Page></PcGts>
